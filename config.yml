@@ -6,6 +6,10 @@ instances:
 - http://getrss2021.xyz:1200/
 - https://rsshub.app/
 routes:
+- title: 分享白菜达人的微博
+  path: weibo/user/5609361977
+- title: 大白找白菜的微博
+  path: weibo/user/1648254924
 - title: JitHub
   path: jike/topic/55e02198dcef9f0e00d7b3c3
 - title: 一觉醒来世界发生了什么
