@@ -14,7 +14,15 @@ https://github.com/wdssmq/proxy_rsshub
 
 ---start---
 
-2021-09-22 13:18:20
+2021-09-22 13:22:46
+
+title: 分享白菜达人的微博
+
+path: [weibo/user/5609361977](xml/weibo_user_5609361977.xml "分享白菜达人的微博") 「[raw](xml/weibo_user_5609361977.xml?raw=true "分享白菜达人的微博")」
+
+title: 大白找白菜的微博
+
+path: [weibo/user/1648254924](xml/weibo_user_1648254924.xml "大白找白菜的微博") 「[raw](xml/weibo_user_1648254924.xml?raw=true "大白找白菜的微博")」
 
 title: JitHub
 
