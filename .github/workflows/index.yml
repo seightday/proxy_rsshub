@@ -33,6 +33,6 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.XTOKEN }}
+          github_token: ${{ secrets.B }}
           # branch: ${{ github.ref }}
           branch: refs/heads/main
