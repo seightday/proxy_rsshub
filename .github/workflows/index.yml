@@ -4,7 +4,7 @@ on:
     - cron: "0 */16 * * *"
   push:
     branches:
-      - test-JitHub
+      - main
 jobs:
   push:
     runs-on: ubuntu-20.04
@@ -33,6 +33,6 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.XTOKEN }}
           # branch: ${{ github.ref }}
           branch: refs/heads/main
