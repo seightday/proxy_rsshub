@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
+
+>
+    <channel>
+        <title><![CDATA[JitHub - 即刻圈子]]></title>
+        <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
+        <atom:link href="http://rsshub/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
+        <description><![CDATA[开发者们分享，问答，也可以交友的地方。欢迎所有工程师！ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
+        <generator>RSSHub</generator>
+        <webMaster>i@diygod.me (DIYgod)</webMaster>
+        
+        
+        
+        <language>zh-cn</language>
+        
+        <image>
+            <url>https://cdn.jellow.site/FkFcHSgyNRo4yKxLYMVbDDP6gwdk.png?imageMogr2/auto-orient/heic-exif/1/format/jpeg/thumbnail/1000x1000%3E</url>
+            <title><![CDATA[JitHub - 即刻圈子]]></title>
+            <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
+        </image>
+        
+        <lastBuildDate>Wed, 22 Sep 2021 05:11:48 GMT</lastBuildDate>
+        <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[Bib Editor 项目上新啦！
+这次更新了一些 侧边目录 的功能：
+
+侧边目录在 读文档、写文档模式都有~
+
+1. 页面滚动时侧边目录会高亮相应标题
+2. 点击目录项时可以...]]></title>
+            <description><![CDATA[<br>Bib Editor 项目上新啦！<br>这次更新了一些 侧边目录 的功能：<br><br>侧边目录在 读文档、写文档模式都有~<br><br>1. 页面滚动时侧边目录会高亮相应标题<br>2. 点击目录项时可以滚动到对应标题位置，并且该标题会亮一下]]></description>
+            <pubDate>Tue, 21 Sep 2021 16:46:02 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/614a0c4af09f2600109fcea3</guid>
+            <link>https://m.okjike.com/originalPosts/614a0c4af09f2600109fcea3</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[之前做完version 1.0的商业内观「官网」https://why.zoepi.online后，一直在思考有没有可能永久的解决notion访问速度因'不可抗力'略慢和无法优化阅读体验的问题...]]></title>
+            <description><![CDATA[<br>之前做完version 1.0的商业内观「官网」https://why.zoepi.online后，一直在思考有没有可能永久的解决notion访问速度因'不可抗力'略慢和无法优化阅读体验的问题。<br><br>近期正好在看前端开发的相关资料，我在github开源社区上找到的支持notion转成<静态.html>的框架，然后重写了theme.css和html的部分代码。<br><br>它会解决两个问题：1）静态网络可以托管在vercel上，访问速度会非常快。2）css和html可以重新定义Notion的阅读体验，和做非常多的定制化功能。<br><br>2.0版本的https://why.zoepi.online，欢迎大家体验和反馈😆（国庆节我争取把教程写出来~<br><picture><source srcset="https://cdn.jellow.site/FsfahYBuOebKzOXTupFCy-Ahv9KUv2.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FsfahYBuOebKzOXTupFCy-Ahv9KUv2.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FsfahYBuOebKzOXTupFCy-Ahv9KUv2.jpg"></picture><br><picture><source srcset="https://cdn.jellow.site/Fh83ayKjCrpNjz563IdXphQZT-Z0v2.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/Fh83ayKjCrpNjz563IdXphQZT-Z0v2.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Fh83ayKjCrpNjz563IdXphQZT-Z0v2.jpg"></picture><br><picture><source srcset="https://cdn.jellow.site/FuLYiXWksORJefWuRUapFj4d4uDgv2.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FuLYiXWksORJefWuRUapFj4d4uDgv2.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FuLYiXWksORJefWuRUapFj4d4uDgv2.jpg"></picture>]]></description>
+            <pubDate>Tue, 21 Sep 2021 15:31:52 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6149fae8f09f2600109fcded</guid>
+            <link>https://m.okjike.com/originalPosts/6149fae8f09f2600109fcded</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Bullet Journal For Notion 正式发布啦，这次带着完整使用文档跟大家见面，同时宣布该个人项目正式完结！
+
+项目链接：https://bjpfd.frytea.com/]]></title>
+            <description><![CDATA[<br>Bullet Journal For Notion 正式发布啦，这次带着完整使用文档跟大家见面，同时宣布该个人项目正式完结！<br><br>项目链接：https://bjpfd.frytea.com/<br><picture><source srcset="https://cdn.jellow.site/Frgo38hc_n-xKCsaSrW9Xz5kN-FUv2.jpeg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/Frgo38hc_n-xKCsaSrW9Xz5kN-FUv2.jpeg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Frgo38hc_n-xKCsaSrW9Xz5kN-FUv2.jpeg"></picture><br><picture><source srcset="https://cdn.jellow.site/FuMY4DAXmbHUuNQhtWCtkUGvqBFZv2.jpeg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FuMY4DAXmbHUuNQhtWCtkUGvqBFZv2.jpeg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FuMY4DAXmbHUuNQhtWCtkUGvqBFZv2.jpeg"></picture><br><picture><source srcset="https://cdn.jellow.site/FsEsYytjZBL38tJFMXCq9O-1ZYVtv2.jpeg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FsEsYytjZBL38tJFMXCq9O-1ZYVtv2.jpeg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FsEsYytjZBL38tJFMXCq9O-1ZYVtv2.jpeg"></picture><br><picture><source srcset="https://cdn.jellow.site/FjmIINkDbzXjK-s2YNx6EKST68ZWv2.jpeg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FjmIINkDbzXjK-s2YNx6EKST68ZWv2.jpeg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FjmIINkDbzXjK-s2YNx6EKST68ZWv2.jpeg"></picture><br><picture><source srcset="https://cdn.jellow.site/FjCR5Waiw4Vzif3ZNRYfrGg-kdsYv2.jpeg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FjCR5Waiw4Vzif3ZNRYfrGg-kdsYv2.jpeg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FjCR5Waiw4Vzif3ZNRYfrGg-kdsYv2.jpeg"></picture><br><picture><source srcset="https://cdn.jellow.site/FqzeVvFZR-HwyEMOX0PaPPkr2NlOv2.jpeg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FqzeVvFZR-HwyEMOX0PaPPkr2NlOv2.jpeg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FqzeVvFZR-HwyEMOX0PaPPkr2NlOv2.jpeg"></picture><br><picture><source srcset="https://cdn.jellow.site/Fvhj0f33tpcFrjJ72GiU3kRZUCNSv2.jpeg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/Fvhj0f33tpcFrjJ72GiU3kRZUCNSv2.jpeg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Fvhj0f33tpcFrjJ72GiU3kRZUCNSv2.jpeg"></picture><br><picture><source srcset="https://cdn.jellow.site/Ftts6IOtWg8L9hKq8CAsEnVNzHcAv2.jpeg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/Ftts6IOtWg8L9hKq8CAsEnVNzHcAv2.jpeg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Ftts6IOtWg8L9hKq8CAsEnVNzHcAv2.jpeg"></picture><br><picture><source srcset="https://cdn.jellow.site/FgNm02SNptA43xstdd3Mz_evz5xQv2.jpeg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FgNm02SNptA43xstdd3Mz_evz5xQv2.jpeg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FgNm02SNptA43xstdd3Mz_evz5xQv2.jpeg"></picture>]]></description>
+            <pubDate>Mon, 20 Sep 2021 14:15:45 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/61489791c55ce50010dddfa1</guid>
+            <link>https://m.okjike.com/originalPosts/61489791c55ce50010dddfa1</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[翻译了一下之前分享的，关于 JS pipe operator 的那篇文章。如果文中所言非虚，那这个看上去不过只是语法糖的小小功能，其真实能量可能被严重低估了呀！
+
+PS：第...]]></title>
+            <description><![CDATA[<br>                    <img referrerpolicy="no-referrer" src="https://cdn.jellow.site/icons/link.png"><br>                    <a href="https://github.com/xxleyi/learning_list/issues/323">https://github.com/xxleyi/learning_list/issues/323</a><br>                <br>翻译了一下之前分享的，关于 JS pipe operator 的那篇文章。如果文中所言非虚，那这个看上去不过只是语法糖的小小功能，其真实能量可能被严重低估了呀！<br><br>PS：第一次翻译，挫是避免不了的。有能力的直接读英文就好。]]></description>
+            <pubDate>Mon, 20 Sep 2021 12:20:02 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/61487c724cf2de0010655190</guid>
+            <link>https://m.okjike.com/originalPosts/61487c724cf2de0010655190</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[🥳🥳🥳🥳新教程]]></title>
+            <description><![CDATA[<br>                    <img referrerpolicy="no-referrer" src="http://mmbiz.qpic.cn/mmbiz_jpg/eZVViahuNFcFHv46L8e78Lfezq1bFheaIYz5IhAmyxCeLkCWhauxI01cCrVISTgPzN4FSzL0JRN5pcOG2X2kUKw/0?wx_fmt=jpeg"><br>                    <a href="https://mp.weixin.qq.com/s/lvttqzJSd59-SecAi36huw">无需编写任何代码即可实现基于空间映射的AR体验</a><br>                <br>🥳🥳🥳🥳新教程]]></description>
+            <pubDate>Mon, 20 Sep 2021 12:10:10 GMT</pubDate>
+            <guid isPermaLink="false">https://mp.weixin.qq.com/s/lvttqzJSd59-SecAi36huw</guid>
+            <link>https://mp.weixin.qq.com/s/lvttqzJSd59-SecAi36huw</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[我要爆炸了，这MFC怎么学啊，有大佬指指路吗！！]]></title>
+            <description><![CDATA[<br>我要爆炸了，这MFC怎么学啊，有大佬指指路吗！！<br><picture><source srcset="https://cdn.jellow.site/FvdwCSw_dYGP87bbCIDgZtRnhXpmv2.jpeg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FvdwCSw_dYGP87bbCIDgZtRnhXpmv2.jpeg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FvdwCSw_dYGP87bbCIDgZtRnhXpmv2.jpeg"></picture>]]></description>
+            <pubDate>Mon, 20 Sep 2021 11:01:30 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/61486a0a8073d40010717286</guid>
+            <link>https://m.okjike.com/originalPosts/61486a0a8073d40010717286</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[riiiiiich]]></title>
+            <description><![CDATA[<br>riiiiiich<br><picture><source srcset="https://cdn.jellow.site/FuHNz_ilggiJnvWnysC5e1xhvANHv2.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FuHNz_ilggiJnvWnysC5e1xhvANHv2.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FuHNz_ilggiJnvWnysC5e1xhvANHv2.jpg"></picture>]]></description>
+            <pubDate>Mon, 20 Sep 2021 03:21:45 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6147fe49c7e0a700104f64f5</guid>
+            <link>https://m.okjike.com/originalPosts/6147fe49c7e0a700104f64f5</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[价值10亿的人工智能源码开源了。🐶]]></title>
+            <description><![CDATA[<br>价值10亿的人工智能源码开源了。🐶<br><picture><source srcset="https://cdn.jellow.site/FhungKs_UIMriI5BtgwP5BQ5Cjgxv2.jpeg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FhungKs_UIMriI5BtgwP5BQ5Cjgxv2.jpeg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FhungKs_UIMriI5BtgwP5BQ5Cjgxv2.jpeg"></picture>]]></description>
+            <pubDate>Sun, 19 Sep 2021 16:18:18 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/614762cac7e0a700104f62ff</guid>
+            <link>https://m.okjike.com/originalPosts/614762cac7e0a700104f62ff</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[研一，跨专业上的。java和c++里面选哪个呢]]></title>
+            <description><![CDATA[<br>研一，跨专业上的。java和c++里面选哪个呢]]></description>
+            <pubDate>Sun, 19 Sep 2021 15:31:32 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/614757d48073d40010716cd0</guid>
+            <link>https://m.okjike.com/originalPosts/614757d48073d40010716cd0</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[这个定价表要笑死我了，免费版和付费版的区别只在于价格不同]]></title>
+            <description><![CDATA[<br>这个定价表要笑死我了，免费版和付费版的区别只在于价格不同<br><picture><source srcset="https://cdn.jellow.site/FgYVpvnENm956L1K9lydU_N4H1Gav2.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FgYVpvnENm956L1K9lydU_N4H1Gav2.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FgYVpvnENm956L1K9lydU_N4H1Gav2.jpg"></picture>]]></description>
+            <pubDate>Sat, 18 Sep 2021 02:00:15 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6145482fd893c800104b51e9</guid>
+            <link>https://m.okjike.com/originalPosts/6145482fd893c800104b51e9</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+    </channel>
+</rss>
