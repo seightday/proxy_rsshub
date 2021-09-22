@@ -8,4 +8,6 @@ instances:
 routes:
 - title: JitHub
   path: jike/topic/55e02198dcef9f0e00d7b3c3
+- title: 一觉醒来世界发生了什么
+  path: jike/topic/553870e8e4b0cafb0a1bef68
 # baseUrl: https://raw.githubusercontent.com/wdssmq/proxy_rsshub/main # The Base Url Of xml folder
