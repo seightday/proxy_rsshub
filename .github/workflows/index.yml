@@ -3,8 +3,8 @@ on:
   schedule:
     - cron: "0 */16 * * *"
   push:
-    tags:
-      - "test-*"
+    branches:
+      - test-JitHub
 jobs:
   push:
     runs-on: ubuntu-20.04
