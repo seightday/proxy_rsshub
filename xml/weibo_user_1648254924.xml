@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[大白找白菜的微博]]></title>
         <link>http://weibo.com/1648254924/</link>
-        <atom:link href="http://rsshub/weibo/user/1648254924" rel="self" type="application/rss+xml" />
+        <atom:link href="https://vercel.getrss2021.xyz/weibo/user/1648254924" rel="self" type="application/rss+xml" />
         <description><![CDATA[为你省钱为你分忧，暖男大白一心为你❤ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -15,13 +15,29 @@
         <language>zh-cn</language>
         
         <image>
-            <url>https://tvax2.sinaimg.cn/crop.0.0.828.828.180/623e5fccly8gdippwpjd3j20n00n0jsf.jpg?KID=imgbed,tva&#38;Expires=1632425239&#38;ssig=nFw5ZgjeB2</url>
+            <url>https://tvax2.sinaimg.cn/crop.0.0.828.828.180/623e5fccly8gdippwpjd3j20n00n0jsf.jpg?KID=imgbed,tva&#38;Expires=1632439126&#38;ssig=nh1gWy46Mo</url>
             <title><![CDATA[大白找白菜的微博]]></title>
             <link>http://weibo.com/1648254924/</link>
         </image>
         
-        <lastBuildDate>Thu, 23 Sep 2021 16:27:19 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Thu, 23 Sep 2021 20:18:48 GMT</lastBuildDate>
+        <ttl>5</ttl>
+        
+        <item>
+            <title><![CDATA[我要睡了麻烦帮我关一下月亮~]]></title>
+            <description><![CDATA[我要睡了麻烦帮我关一下月亮~ ]]></description>
+            <pubDate>Thu, 23 Sep 2021 16:12:00 GMT</pubDate>
+            <guid isPermaLink="false">https://weibo.com/1648254924/KzyAcx7it</guid>
+            <link>https://weibo.com/1648254924/KzyAcx7it</link>
+            
+            
+            
+            <author><![CDATA[大白找白菜]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[骑剑活动⚡⚡【39.9】伊利 无菌砖纯牛奶250ml*16盒介个是奥运装的！合2.49一盒！100%生牛乳 屯上当早餐奶 一家老小都能喝[馋嘴] [图片][图片][图片]]]></title>
