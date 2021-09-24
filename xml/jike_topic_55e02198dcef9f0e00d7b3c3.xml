@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[JitHub - 即刻圈子]]></title>
         <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
-        <atom:link href="https://rsshub.rssforever.com/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
+        <atom:link href="http://rsshub/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
         <description><![CDATA[开发者们分享，问答，也可以交友的地方。欢迎所有工程师！ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -20,8 +20,44 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Fri, 24 Sep 2021 04:23:57 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Fri, 24 Sep 2021 08:21:15 GMT</lastBuildDate>
+        <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[[第206期]: 浅聊WebRTC视频通话 & 你真的了解Web Component吗？ & Node.js 底层原理
+
+1: 浅聊WebRTC视频通话
+2: 你真的了解Web Component吗？
+3: 20秒完成机器学...]]></title>
+            <description><![CDATA[<br>                    <img referrerpolicy="no-referrer" src="http://mmbiz.qpic.cn/mmbiz_png/ssEicsWCglpZkJia5Eg4ssLblDFhxD5SRKESXIdBOkibsfbBJpXdx26fcic31eygJLkxqatubCB2KpEtEqrEEX2eRQ/0?wx_fmt=png"><br>                    <a href="https://mp.weixin.qq.com/s/P8RAnfDa7IhsWHizmHHDGw">[第206期] 浅聊WebRTC视频通话 & 你真的了解Web Component吗？ & Node.js 底层原理</a><br>                <br>[第206期]: 浅聊WebRTC视频通话 & 你真的了解Web Component吗？ & Node.js 底层原理<br><br>1: 浅聊WebRTC视频通话<br>2: 你真的了解Web Component吗？<br>3: 20秒完成机器学习模型训练和部署?! 说说 Pipcook 2.0<br>4: 玩转 Commander.js —— 你也是命令行大师<br>5: Node.js 底层原理]]></description>
+            <pubDate>Fri, 24 Sep 2021 01:37:13 GMT</pubDate>
+            <guid isPermaLink="false">https://mp.weixin.qq.com/s/P8RAnfDa7IhsWHizmHHDGw</guid>
+            <link>https://mp.weixin.qq.com/s/P8RAnfDa7IhsWHizmHHDGw</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[能正常运行的代码不一定是好代码，但建议你不要随便动她]]></title>
+            <description><![CDATA[<br>能正常运行的代码不一定是好代码，但建议你不要随便动她<br><picture><source srcset="https://cdn.jellow.site/FkNKAnWDRaHA60tYOPU0HE8ribaVv2.jpeg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FkNKAnWDRaHA60tYOPU0HE8ribaVv2.jpeg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FkNKAnWDRaHA60tYOPU0HE8ribaVv2.jpeg"></picture>]]></description>
+            <pubDate>Fri, 24 Sep 2021 01:05:19 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/614d244fb3100000100680f7</guid>
+            <link>https://m.okjike.com/originalPosts/614d244fb3100000100680f7</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[修改C盘下用户名后导致变夹核桃器..
@@ -145,45 +181,11 @@
         </item>
         
         <item>
-            <title><![CDATA[翻译了一下之前分享的，关于 JS pipe operator 的那篇文章。如果文中所言非虚，那这个看上去不过只是语法糖的小小功能，其真实能量可能被严重低估了呀！
-
-PS：第...]]></title>
-            <description><![CDATA[<br>                    <img referrerpolicy="no-referrer" src="https://cdn.jellow.site/icons/link.png"><br>                    <a href="https://github.com/xxleyi/learning_list/issues/323">https://github.com/xxleyi/learning_list/issues/323</a><br>                <br>翻译了一下之前分享的，关于 JS pipe operator 的那篇文章。如果文中所言非虚，那这个看上去不过只是语法糖的小小功能，其真实能量可能被严重低估了呀！<br><br>PS：第一次翻译，挫是避免不了的。有能力的直接读英文就好。]]></description>
-            <pubDate>Mon, 20 Sep 2021 12:20:02 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/61487c724cf2de0010655190</guid>
-            <link>https://m.okjike.com/originalPosts/61487c724cf2de0010655190</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[我要爆炸了，这MFC怎么学啊，有大佬指指路吗！！]]></title>
             <description><![CDATA[<br>我要爆炸了，这MFC怎么学啊，有大佬指指路吗！！<br><picture><source srcset="https://cdn.jellow.site/FvdwCSw_dYGP87bbCIDgZtRnhXpmv2.jpeg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FvdwCSw_dYGP87bbCIDgZtRnhXpmv2.jpeg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FvdwCSw_dYGP87bbCIDgZtRnhXpmv2.jpeg"></picture>]]></description>
             <pubDate>Mon, 20 Sep 2021 11:01:30 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/61486a0a8073d40010717286</guid>
             <link>https://m.okjike.com/originalPosts/61486a0a8073d40010717286</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[价值10亿的人工智能源码开源了。🐶]]></title>
-            <description><![CDATA[<br>价值10亿的人工智能源码开源了。🐶<br><picture><source srcset="https://cdn.jellow.site/FhungKs_UIMriI5BtgwP5BQ5Cjgxv2.jpeg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FhungKs_UIMriI5BtgwP5BQ5Cjgxv2.jpeg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FhungKs_UIMriI5BtgwP5BQ5Cjgxv2.jpeg"></picture>]]></description>
-            <pubDate>Sun, 19 Sep 2021 16:18:18 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/614762cac7e0a700104f62ff</guid>
-            <link>https://m.okjike.com/originalPosts/614762cac7e0a700104f62ff</link>
             
             
             
