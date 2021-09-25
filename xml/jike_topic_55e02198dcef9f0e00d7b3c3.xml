@@ -20,8 +20,45 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sat, 25 Sep 2021 12:27:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Sep 2021 16:26:42 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[中午写的Hello World开放了，
+接下来会写出一个像游戏的程序（已经移除了Hello World那段代码）。
+
+我会一直基于它写下去，
+磨单体架构基本功，
+也试试看能写出...]]></title>
+            <description><![CDATA[<br>                    <img referrerpolicy="no-referrer" src="https://opengraph.githubassets.com/042d86a9e3da4263d719cf122362fafefda1504534fd0ec790fb1f2a59cca4b5/chenwansal/Umman"><br>                    <a href="https://github.com/chenwansal/Umman/tree/feature/v1.0">Umman</a><br>                <br>中午写的Hello World开放了，<br>接下来会写出一个像游戏的程序（已经移除了Hello World那段代码）。<br><br>我会一直基于它写下去，<br>磨单体架构基本功，<br>也试试看能写出什么玩意。<br><br>对单体架构感兴趣可以看看。<br><br>【今日更新】<br><plugin> 导入FinalFrame / Addressbles / Cinimachine / DoTween<br><spr> 导入原型素材<br><feature> 依赖注入容器<br><feature> 地图生成<br><feature> 角色生成<br><feature> 主游戏缓存<br><test> 地图生成测试<br><test> 角色生成测试</test></test></feature></feature></feature></feature></spr></plugin>]]></description>
+            <pubDate>Sat, 25 Sep 2021 13:52:59 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/614f29bbda29fa00105d1f3e</guid>
+            <link>https://m.okjike.com/originalPosts/614f29bbda29fa00105d1f3e</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[基于 （vue + vite） https://github.com/antfu/vitesse-webext 改了一个 (react + vite) https://github.com/spring-catponents/webext-template 。现在你可以...]]></title>
+            <description><![CDATA[<br>基于 （vue + vite） https://github.com/antfu/vitesse-webext 改了一个 (react + vite) https://github.com/spring-catponents/webext-template 。现在你可以用 vite + react 开发浏览器插件了]]></description>
+            <pubDate>Sat, 25 Sep 2021 10:54:29 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/614effe5a0c02e00100c4d2f</guid>
+            <link>https://m.okjike.com/originalPosts/614effe5a0c02e00100c4d2f</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[【如何输出HelloWorld】
@@ -146,22 +183,6 @@
         </item>
         
         <item>
-            <title><![CDATA[笑死]]></title>
-            <description><![CDATA[<br>笑死<br><picture><source srcset="https://cdn.jellow.site/FrM4y5rp0XEGu1Eha3kP22qMLSVxv2.jpeg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FrM4y5rp0XEGu1Eha3kP22qMLSVxv2.jpeg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FrM4y5rp0XEGu1Eha3kP22qMLSVxv2.jpeg"></picture>]]></description>
-            <pubDate>Wed, 22 Sep 2021 08:54:23 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/614aef3f38321300106ae316</guid>
-            <link>https://m.okjike.com/originalPosts/614aef3f38321300106ae316</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Bib Editor 项目上新啦！
 这次更新了一些 侧边目录 的功能：
 
@@ -173,22 +194,6 @@
             <pubDate>Tue, 21 Sep 2021 16:46:02 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/614a0c4af09f2600109fcea3</guid>
             <link>https://m.okjike.com/originalPosts/614a0c4af09f2600109fcea3</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[之前做完version 1.0的商业内观「官网」https://why.zoepi.online后，一直在思考有没有可能永久的解决notion访问速度因'不可抗力'略慢和无法优化阅读体验的问题...]]></title>
-            <description><![CDATA[<br>之前做完version 1.0的商业内观「官网」https://why.zoepi.online后，一直在思考有没有可能永久的解决notion访问速度因'不可抗力'略慢和无法优化阅读体验的问题。<br><br>近期正好在看前端开发的相关资料，我在github开源社区上找到的支持notion转成<静态.html>的框架，然后重写了theme.css和html的部分代码。<br><br>它会解决两个问题：1）静态网络可以托管在vercel上，访问速度会非常快。2）css和html可以重新定义Notion的阅读体验，和做非常多的定制化功能。<br><br>2.0版本的https://why.zoepi.online，欢迎大家体验和反馈😆（国庆节我争取把教程写出来~<br><picture><source srcset="https://cdn.jellow.site/FsfahYBuOebKzOXTupFCy-Ahv9KUv2.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FsfahYBuOebKzOXTupFCy-Ahv9KUv2.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FsfahYBuOebKzOXTupFCy-Ahv9KUv2.jpg"></picture><br><picture><source srcset="https://cdn.jellow.site/Fh83ayKjCrpNjz563IdXphQZT-Z0v2.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/Fh83ayKjCrpNjz563IdXphQZT-Z0v2.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Fh83ayKjCrpNjz563IdXphQZT-Z0v2.jpg"></picture><br><picture><source srcset="https://cdn.jellow.site/FuLYiXWksORJefWuRUapFj4d4uDgv2.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FuLYiXWksORJefWuRUapFj4d4uDgv2.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FuLYiXWksORJefWuRUapFj4d4uDgv2.jpg"></picture>]]></description>
-            <pubDate>Tue, 21 Sep 2021 15:31:52 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6149fae8f09f2600109fcded</guid>
-            <link>https://m.okjike.com/originalPosts/6149fae8f09f2600109fcded</link>
             
             
             
