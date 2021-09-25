@@ -20,8 +20,28 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sat, 25 Sep 2021 04:23:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Sep 2021 08:19:51 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[【如何输出HelloWorld】
+>> Part 0 简述 <<
+最近小编我啊，看到大家都在学编程。
+学编程呢，最重要的第一步当然是学会输出HelloWorld啦~
+下面来随着小编一起学习...]]></title>
+            <description><![CDATA[<br>【如何输出HelloWorld】<br>>> Part 0 简述 <<<br>最近小编我啊，看到大家都在学编程。<br>学编程呢，最重要的第一步当然是学会输出HelloWorld啦~<br>下面来随着小编一起学习吧~<br><br>>> Part 1 上代码 <<<br>图①是依赖注入容器<br>图②-⑤组装出一个会说话的游戏角色<br>    其中图②是生成角色用的工厂<br>    其中图③是生成角色说话组件用的工厂<br>    其中图④是角色本体<br>    其中图⑤是说话组件的本体<br>图⑥是输出文字用的日志服务<br>图⑦是主游戏<br>最后图⑧则是整个程序的主入口了<br>图⑨程序运行结果<br><br>>> Part 2 讲解 <<<br>我们来看图⑧，我们程序运作的步骤是：<br>1. 在Inject()方法里，先把各个单例对象生成好，放进依赖注入容器里<br>2. 在Initialize()方法里，从容器里取出各种对象，在这里处理好相互依赖<br>3. 然后StartGame()，游戏就可以正式开始了~<br><br>再来看图⑦：<br>1. 从刚才的StartGame()里，我们生成了一个角色<br>2. 然后Execute()里监听了H键<br>3. 按下H键，角色说出了“Hello World!”（见图⑨）<br><br>>> Part 3 总结 <<<br>怎么样，学会了吗？是不是很简单？<br>来，大家一起快乐编程吧~<br>啾咪。<br><br>（半个狗头）<br><picture><source srcset="https://cdn.jellow.site/FiIrJg6lu_SIPGBYPi7bamKDNfe8v2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FiIrJg6lu_SIPGBYPi7bamKDNfe8v2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FiIrJg6lu_SIPGBYPi7bamKDNfe8v2.png"></picture><br><picture><source srcset="https://cdn.jellow.site/FgCmjHdDVNS1B2ibqyNguAf8wHXzv2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FgCmjHdDVNS1B2ibqyNguAf8wHXzv2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FgCmjHdDVNS1B2ibqyNguAf8wHXzv2.png"></picture><br><picture><source srcset="https://cdn.jellow.site/FiY6vT_tXK69Y-mMwf-u5J7g5-olv2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FiY6vT_tXK69Y-mMwf-u5J7g5-olv2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FiY6vT_tXK69Y-mMwf-u5J7g5-olv2.png"></picture><br><picture><source srcset="https://cdn.jellow.site/FuomChGJzGXiyt11BO97ST1Y3R_9v2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FuomChGJzGXiyt11BO97ST1Y3R_9v2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FuomChGJzGXiyt11BO97ST1Y3R_9v2.png"></picture><br><picture><source srcset="https://cdn.jellow.site/FjNaLuPxwn6k9oGDN-c9Qj426T5Rv2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FjNaLuPxwn6k9oGDN-c9Qj426T5Rv2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FjNaLuPxwn6k9oGDN-c9Qj426T5Rv2.png"></picture><br><picture><source srcset="https://cdn.jellow.site/FuiTqCYxaSTHh3q8sgqMqosSJwv3v2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FuiTqCYxaSTHh3q8sgqMqosSJwv3v2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FuiTqCYxaSTHh3q8sgqMqosSJwv3v2.png"></picture><br><picture><source srcset="https://cdn.jellow.site/FjDkKB8dD6uzwtpr75cNGUB8iqAXv2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FjDkKB8dD6uzwtpr75cNGUB8iqAXv2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FjDkKB8dD6uzwtpr75cNGUB8iqAXv2.png"></picture><br><picture><source srcset="https://cdn.jellow.site/FqVJ1-vnwIGPa6b1W94LI8CIQ270v2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FqVJ1-vnwIGPa6b1W94LI8CIQ270v2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FqVJ1-vnwIGPa6b1W94LI8CIQ270v2.png"></picture><br><picture><source srcset="https://cdn.jellow.site/FpNnRdkp8sjTn5pN3fQ3KviffwZav2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FpNnRdkp8sjTn5pN3fQ3KviffwZav2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FpNnRdkp8sjTn5pN3fQ3KviffwZav2.png"></picture>]]></description>
+            <pubDate>Sat, 25 Sep 2021 04:53:34 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/614eab4e3851c0001040d23b</guid>
+            <link>https://m.okjike.com/originalPosts/614eab4e3851c0001040d23b</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[这玩意居然写了一天整天，终于丝滑了🤪
@@ -46,26 +66,6 @@
             <pubDate>Fri, 24 Sep 2021 09:35:39 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/614d9beb541b16001077ef02</guid>
             <link>https://m.okjike.com/originalPosts/614d9beb541b16001077ef02</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[写了一个浏览器插件，实现的功能就是新建一个干干净净的新标签页
-
-页面没有任何内容，如下图所示，打开浏览器或者新建了标签页之后直接输入内容就可以搜索
-
-有需...]]></title>
-            <description><![CDATA[<br>写了一个浏览器插件，实现的功能就是新建一个干干净净的新标签页<br><br>页面没有任何内容，如下图所示，打开浏览器或者新建了标签页之后直接输入内容就可以搜索<br><br>有需要的话准备打包一下放到github 上<br><picture><source srcset="https://cdn.jellow.site/Fm3UVXdmoGCeFwLSY9rMSn8UITa1v2.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/Fm3UVXdmoGCeFwLSY9rMSn8UITa1v2.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Fm3UVXdmoGCeFwLSY9rMSn8UITa1v2.jpg"></picture>]]></description>
-            <pubDate>Fri, 24 Sep 2021 06:31:48 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/614d70d4adc27c0010bfbcf1</guid>
-            <link>https://m.okjike.com/originalPosts/614d70d4adc27c0010bfbcf1</link>
             
             
             
