@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[JitHub - 即刻圈子]]></title>
         <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
-        <atom:link href="http://rsshub/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
+        <atom:link href="https://vercel.getrss2021.xyz/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
         <description><![CDATA[开发者们分享，问答，也可以交友的地方。欢迎所有工程师！ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -20,8 +20,27 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sun, 26 Sep 2021 01:00:32 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Sun, 26 Sep 2021 04:23:27 GMT</lastBuildDate>
+        <ttl>5</ttl>
+        
+        <item>
+            <title><![CDATA[[第207期]: ESModule 系列 (二)：构建下一代基础设施 PDN & 玩转TypeScript工具类型（上）
+
+1: ESModule 系列 (二)：构建下一代基础设施 PDN
+2: [第2409期]玩转T...]]></title>
+            <description><![CDATA[<br>                    <img referrerpolicy="no-referrer" src="http://mmbiz.qpic.cn/mmbiz_png/ssEicsWCglpZkJia5Eg4ssLblDFhxD5SRKESXIdBOkibsfbBJpXdx26fcic31eygJLkxqatubCB2KpEtEqrEEX2eRQ/0?wx_fmt=png"><br>                    <a href="https://mp.weixin.qq.com/s/BYr1wFYQEmksQPkrQ-gU3w">[第207期] ESModule 系列 (二)：构建下一代基础设施 PDN & 玩转TypeScript工具类型（上）</a><br>                <br>[第207期]: ESModule 系列 (二)：构建下一代基础设施 PDN & 玩转TypeScript工具类型（上）<br><br>1: ESModule 系列 (二)：构建下一代基础设施 PDN<br>2: [第2409期]玩转TypeScript工具类型（上）<br>3: 累死累活的业务前端该如何突围？<br>4: Promise.allSettled 的作用，如何自己实现一个 Promise.allSettled]]></description>
+            <pubDate>Sun, 26 Sep 2021 01:56:02 GMT</pubDate>
+            <guid isPermaLink="false">https://mp.weixin.qq.com/s/BYr1wFYQEmksQPkrQ-gU3w</guid>
+            <link>https://mp.weixin.qq.com/s/BYr1wFYQEmksQPkrQ-gU3w</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[中午写的Hello World开放了，
@@ -172,28 +191,6 @@
             <pubDate>Wed, 22 Sep 2021 16:26:29 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/614b5935585be500100256ea</guid>
             <link>https://m.okjike.com/originalPosts/614b5935585be500100256ea</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Bib Editor 项目上新啦！
-这次更新了一些 侧边目录 的功能：
-
-侧边目录在 读文档、写文档模式都有~
-
-1. 页面滚动时侧边目录会高亮相应标题
-2. 点击目录项时可以...]]></title>
-            <description><![CDATA[<br>Bib Editor 项目上新啦！<br>这次更新了一些 侧边目录 的功能：<br><br>侧边目录在 读文档、写文档模式都有~<br><br>1. 页面滚动时侧边目录会高亮相应标题<br>2. 点击目录项时可以滚动到对应标题位置，并且该标题会亮一下]]></description>
-            <pubDate>Tue, 21 Sep 2021 16:46:02 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/614a0c4af09f2600109fcea3</guid>
-            <link>https://m.okjike.com/originalPosts/614a0c4af09f2600109fcea3</link>
             
             
             
