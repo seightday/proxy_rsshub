@@ -20,8 +20,26 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 28 Sep 2021 08:21:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Sep 2021 12:29:02 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[第二个版本
+打算好好整理然后和乐队配曲
+现在用的是 版本的ubi]]></title>
+            <description><![CDATA[<br>第二个版本<br>打算好好整理然后和乐队配曲<br>现在用的是 版本的ubi]]></description>
+            <pubDate>Tue, 28 Sep 2021 08:36:36 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6152d4143851c0001040e8d6</guid>
+            <link>https://m.okjike.com/originalPosts/6152d4143851c0001040e8d6</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[在AR-MOD SDK 0.0.4发布版本中我们提到了也承诺了即将开源Dashboard，现在我们来兑现啦！
@@ -165,31 +183,11 @@ Dashboard即...]]></title>
         </item>
         
         <item>
-            <title><![CDATA[【如何输出HelloWorld】
->> Part 0 简述 <<
-最近小编我啊，看到大家都在学编程。
-学编程呢，最重要的第一步当然是学会输出HelloWorld啦~
-下面来随着小编一起学习...]]></title>
-            <description><![CDATA[<br>【如何输出HelloWorld】<br>>> Part 0 简述 <<<br>最近小编我啊，看到大家都在学编程。<br>学编程呢，最重要的第一步当然是学会输出HelloWorld啦~<br>下面来随着小编一起学习吧~<br><br>>> Part 1 上代码 <<<br>图①是依赖注入容器<br>图②-⑤组装出一个会说话的游戏角色<br>    其中图②是生成角色用的工厂<br>    其中图③是生成角色说话组件用的工厂<br>    其中图④是角色本体<br>    其中图⑤是说话组件的本体<br>图⑥是输出文字用的日志服务<br>图⑦是主游戏<br>最后图⑧则是整个程序的主入口了<br>图⑨程序运行结果<br><br>>> Part 2 讲解 <<<br>我们来看图⑧，我们程序运作的步骤是：<br>1. 在Inject()方法里，先把各个单例对象生成好，放进依赖注入容器里<br>2. 在Initialize()方法里，从容器里取出各种对象，在这里处理好相互依赖<br>3. 然后StartGame()，游戏就可以正式开始了~<br><br>再来看图⑦：<br>1. 从刚才的StartGame()里，我们生成了一个角色<br>2. 然后Execute()里监听了H键<br>3. 按下H键，角色说出了“Hello World!”（见图⑨）<br><br>>> Part 3 总结 <<<br>怎么样，学会了吗？是不是很简单？<br>来，大家一起快乐编程吧~<br>啾咪。<br><br>（半个狗头）<br><picture><source srcset="https://cdn.jellow.site/FiIrJg6lu_SIPGBYPi7bamKDNfe8v2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FiIrJg6lu_SIPGBYPi7bamKDNfe8v2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FiIrJg6lu_SIPGBYPi7bamKDNfe8v2.png"></picture><br><picture><source srcset="https://cdn.jellow.site/FgCmjHdDVNS1B2ibqyNguAf8wHXzv2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FgCmjHdDVNS1B2ibqyNguAf8wHXzv2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FgCmjHdDVNS1B2ibqyNguAf8wHXzv2.png"></picture><br><picture><source srcset="https://cdn.jellow.site/FiY6vT_tXK69Y-mMwf-u5J7g5-olv2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FiY6vT_tXK69Y-mMwf-u5J7g5-olv2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FiY6vT_tXK69Y-mMwf-u5J7g5-olv2.png"></picture><br><picture><source srcset="https://cdn.jellow.site/FuomChGJzGXiyt11BO97ST1Y3R_9v2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FuomChGJzGXiyt11BO97ST1Y3R_9v2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FuomChGJzGXiyt11BO97ST1Y3R_9v2.png"></picture><br><picture><source srcset="https://cdn.jellow.site/FjNaLuPxwn6k9oGDN-c9Qj426T5Rv2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FjNaLuPxwn6k9oGDN-c9Qj426T5Rv2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FjNaLuPxwn6k9oGDN-c9Qj426T5Rv2.png"></picture><br><picture><source srcset="https://cdn.jellow.site/FuiTqCYxaSTHh3q8sgqMqosSJwv3v2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FuiTqCYxaSTHh3q8sgqMqosSJwv3v2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FuiTqCYxaSTHh3q8sgqMqosSJwv3v2.png"></picture><br><picture><source srcset="https://cdn.jellow.site/FjDkKB8dD6uzwtpr75cNGUB8iqAXv2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FjDkKB8dD6uzwtpr75cNGUB8iqAXv2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FjDkKB8dD6uzwtpr75cNGUB8iqAXv2.png"></picture><br><picture><source srcset="https://cdn.jellow.site/FqVJ1-vnwIGPa6b1W94LI8CIQ270v2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FqVJ1-vnwIGPa6b1W94LI8CIQ270v2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FqVJ1-vnwIGPa6b1W94LI8CIQ270v2.png"></picture><br><picture><source srcset="https://cdn.jellow.site/FpNnRdkp8sjTn5pN3fQ3KviffwZav2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FpNnRdkp8sjTn5pN3fQ3KviffwZav2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FpNnRdkp8sjTn5pN3fQ3KviffwZav2.png"></picture>]]></description>
-            <pubDate>Sat, 25 Sep 2021 04:53:34 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/614eab4e3851c0001040d23b</guid>
-            <link>https://m.okjike.com/originalPosts/614eab4e3851c0001040d23b</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[layui官网要没了，😭😭😭]]></title>
-            <description><![CDATA[<br>layui官网要没了，😭😭😭<br><picture><source srcset="https://cdn.jellow.site/FpHwSqKlR2WnFQGLTO1Lr_AHlM1ev2.jpeg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FpHwSqKlR2WnFQGLTO1Lr_AHlM1ev2.jpeg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FpHwSqKlR2WnFQGLTO1Lr_AHlM1ev2.jpeg"></picture>]]></description>
-            <pubDate>Fri, 24 Sep 2021 09:35:39 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/614d9beb541b16001077ef02</guid>
-            <link>https://m.okjike.com/originalPosts/614d9beb541b16001077ef02</link>
+            <title><![CDATA[GitHub520这个项目真的是太好了，访问GitHub速度提升百分百]]></title>
+            <description><![CDATA[<br>GitHub520这个项目真的是太好了，访问GitHub速度提升百分百]]></description>
+            <pubDate>Sun, 26 Sep 2021 00:38:10 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/614fc0f26872a900106b7cdc</guid>
+            <link>https://m.okjike.com/originalPosts/614fc0f26872a900106b7cdc</link>
             
             
             
