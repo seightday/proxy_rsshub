@@ -20,7 +20,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 28 Sep 2021 04:24:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Sep 2021 08:21:17 GMT</lastBuildDate>
         <ttl>1</ttl>
         
         <item>
@@ -96,6 +96,22 @@ Dashboard即...]]></title>
         </item>
         
         <item>
+            <title><![CDATA[想学一种前端技术，毕竟自己对产品还是也很喜欢的，想着是不是自己也能瞎搞点啥，然后就去搜：js快速入门图书推荐、学typescript之前需要先学js么、Electron跨平...]]></title>
+            <description><![CDATA[<br>想学一种前端技术，毕竟自己对产品还是也很喜欢的，想着是不是自己也能瞎搞点啥，然后就去搜：js快速入门图书推荐、学typescript之前需要先学js么、Electron跨平台使用js还是ts，vue和react哪个好？angular还值得学么。。。<br><br>然后我决定学swift了]]></description>
+            <pubDate>Mon, 27 Sep 2021 11:57:21 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6151b1a13851c0001040e368</guid>
+            <link>https://m.okjike.com/originalPosts/6151b1a13851c0001040e368</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[一个SwiftUI 实现的 Windows 11 桌面客户端，大小仅仅5M
 
 下载地址：https://github.com/Jinxiansen/Windows11/tree/1.0]]></title>
@@ -138,27 +154,6 @@ Dashboard即...]]></title>
             <pubDate>Sun, 26 Sep 2021 01:56:02 GMT</pubDate>
             <guid isPermaLink="false">https://mp.weixin.qq.com/s/BYr1wFYQEmksQPkrQ-gU3w</guid>
             <link>https://mp.weixin.qq.com/s/BYr1wFYQEmksQPkrQ-gU3w</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[中午写的Hello World开放了，
-接下来会写出一个像游戏的程序（已经移除了Hello World那段代码）。
-
-我会一直基于它写下去，
-磨单体架构基本功，
-也试试看能写出...]]></title>
-            <description><![CDATA[<br>                    <img referrerpolicy="no-referrer" src="https://opengraph.githubassets.com/042d86a9e3da4263d719cf122362fafefda1504534fd0ec790fb1f2a59cca4b5/chenwansal/Umman"><br>                    <a href="https://github.com/chenwansal/Umman/tree/feature/v1.0">Umman</a><br>                <br>中午写的Hello World开放了，<br>接下来会写出一个像游戏的程序（已经移除了Hello World那段代码）。<br><br>我会一直基于它写下去，<br>磨单体架构基本功，<br>也试试看能写出什么玩意。<br><br>对单体架构感兴趣可以看看。<br><br>【今日更新】<br><plugin> 导入FinalFrame / Addressbles / Cinimachine / DoTween<br><spr> 导入原型素材<br><feature> 依赖注入容器<br><feature> 地图生成<br><feature> 角色生成<br><feature> 主游戏缓存<br><test> 地图生成测试<br><test> 角色生成测试</test></test></feature></feature></feature></feature></spr></plugin>]]></description>
-            <pubDate>Sat, 25 Sep 2021 13:52:59 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/614f29bbda29fa00105d1f3e</guid>
-            <link>https://m.okjike.com/originalPosts/614f29bbda29fa00105d1f3e</link>
             
             
             
