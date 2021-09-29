@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[JitHub - 即刻圈子]]></title>
         <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
-        <atom:link href="http://rsshub/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
+        <atom:link href="https://vercel.getrss2021.xyz/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
         <description><![CDATA[开发者们分享，问答，也可以交友的地方。欢迎所有工程师！ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -20,8 +20,25 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 29 Sep 2021 12:28:29 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Wed, 29 Sep 2021 16:27:48 GMT</lastBuildDate>
+        <ttl>5</ttl>
+        
+        <item>
+            <title><![CDATA[大三生今日迷茫：
+到底是该考研还是工作呢？身边大部分人都准备考研，我也怕本科学历不够好，但最近看了几篇论文，感觉自己真的不是搞科研的料...]]></title>
+            <description><![CDATA[<br>大三生今日迷茫：<br>到底是该考研还是工作呢？身边大部分人都准备考研，我也怕本科学历不够好，但最近看了几篇论文，感觉自己真的不是搞科研的料...]]></description>
+            <pubDate>Wed, 29 Sep 2021 13:10:47 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/615465d76872a900106b95a2</guid>
+            <link>https://m.okjike.com/originalPosts/615465d76872a900106b95a2</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[[第208期]: 浏览器渲染之回流重绘 & 从 Prompt 来看微前端路由劫持原理 & 深入理解云计算OpenAPI体系
@@ -51,23 +68,6 @@ https://dwAaron.github.i...]]></title>
             <pubDate>Tue, 28 Sep 2021 14:36:19 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/61532863b215950010c6cfad</guid>
             <link>https://m.okjike.com/originalPosts/61532863b215950010c6cfad</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[介绍暂时改不了（都赖微信）😭
-flomoplus微信小程序版，第一个版本发布，目前主要用于微信读书笔记导入flomo]]></title>
-            <description><![CDATA[<br>介绍暂时改不了（都赖微信）😭<br>flomoplus微信小程序版，第一个版本发布，目前主要用于微信读书笔记导入flomo<br><picture><source srcset="https://cdn.jellow.site/FsdjyOSH_upKvSlFDrwJUsdOs292v2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FsdjyOSH_upKvSlFDrwJUsdOs292v2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FsdjyOSH_upKvSlFDrwJUsdOs292v2.png"></picture><br><picture><source srcset="https://cdn.jellow.site/FobO2aLZdsur-4iHcrNJxyKFo0mSv2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FobO2aLZdsur-4iHcrNJxyKFo0mSv2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FobO2aLZdsur-4iHcrNJxyKFo0mSv2.png"></picture><br><picture><source srcset="https://cdn.jellow.site/Fp-MDgya-cgutBh7BfSSMoiVS6_Av2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/Fp-MDgya-cgutBh7BfSSMoiVS6_Av2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Fp-MDgya-cgutBh7BfSSMoiVS6_Av2.png"></picture>]]></description>
-            <pubDate>Tue, 28 Sep 2021 11:33:19 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6152fd7fc2d943001077d7b3</guid>
-            <link>https://m.okjike.com/originalPosts/6152fd7fc2d943001077d7b3</link>
             
             
             
