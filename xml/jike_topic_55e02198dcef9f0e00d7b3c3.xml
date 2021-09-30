@@ -20,8 +20,26 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 30 Sep 2021 04:23:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Sep 2021 08:20:58 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[《从“零”开始设计中文编程语言——SQL领域演示》
+
+通过逐步完善一个简单的中文编程语言语法并最后转换为 SQL 语句，演示一种快速搭建中文编程语言原型的方法。...]]></title>
+            <description><![CDATA[<br>《从“零”开始设计中文编程语言——SQL领域演示》<br><br>通过逐步完善一个简单的中文编程语言语法并最后转换为 SQL 语句，演示一种快速搭建中文编程语言原型的方法。<br><br>达成效果是，如下的中文语句：<br><br>创建读者表，编号为整数，出生年为文本 <br><br>转换生成 SQL 语句：<br><br>CREATE TABLE 读者 ( 编号 INTEGER, 出生年 TEXT )<br><picture><source srcset="https://cdn.jellow.site/FoD4G0l8tVCXUiH9GzWoojUIKGXDv2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FoD4G0l8tVCXUiH9GzWoojUIKGXDv2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FoD4G0l8tVCXUiH9GzWoojUIKGXDv2.png"></picture>]]></description>
+            <pubDate>Thu, 30 Sep 2021 05:28:34 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/61554b02a0c02e00100c6d6e</guid>
+            <link>https://m.okjike.com/originalPosts/61554b02a0c02e00100c6d6e</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[学校需要每天登记打卡，怕忘记就写了个python脚本挂在了家里nas的docker上，结果今早起来一看打卡记录发现体温0.1度......回头一看代码忘记加35了.....我已经是...]]></title>
@@ -102,26 +120,6 @@ https://dwAaron.github.i...]]></title>
             <pubDate>Tue, 28 Sep 2021 08:36:36 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6152d4143851c0001040e8d6</guid>
             <link>https://m.okjike.com/originalPosts/6152d4143851c0001040e8d6</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[在AR-MOD SDK 0.0.4发布版本中我们提到了也承诺了即将开源Dashboard，现在我们来兑现啦！
-全流程保姆式私有化部署指导文档来啦
-
-Dashboard是什么？
-Dashboard即...]]></title>
-            <description><![CDATA[<br>                    <img referrerpolicy="no-referrer" src="https://app.gitbook.com/share/space/thumbnail/-MUvz4Bc8AiCxzYYqnu0.png"><br>                    <a href="https://docs.phantomsxr.com/v/english-0.0.5/getting-started/privatization-deployment-dashboard">Privatization Deployment Dashboard</a><br>                <br>在AR-MOD SDK 0.0.4发布版本中我们提到了也承诺了即将开源Dashboard，现在我们来兑现啦！<br>全流程保姆式私有化部署指导文档来啦<br><br>Dashboard是什么？<br>Dashboard即控制台（后台），是 AR 内容、数据管理器分析系统。它帮助我们的 AR 体验和展示变得更加灵活和方便。]]></description>
-            <pubDate>Tue, 28 Sep 2021 00:04:27 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/61525c0bedd6ce0010e428ee</guid>
-            <link>https://m.okjike.com/originalPosts/61525c0bedd6ce0010e428ee</link>
             
             
             
