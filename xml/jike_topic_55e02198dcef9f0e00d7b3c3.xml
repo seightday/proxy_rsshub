@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[JitHub - 即刻圈子]]></title>
         <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
-        <atom:link href="http://rsshub/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub.rssforever.com/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
         <description><![CDATA[开发者们分享，问答，也可以交友的地方。欢迎所有工程师！ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -20,8 +20,42 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sat, 02 Oct 2021 12:27:04 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Sat, 02 Oct 2021 16:26:58 GMT</lastBuildDate>
+        <ttl>5</ttl>
+        
+        <item>
+            <title><![CDATA[我现在找不到这个频率的乐曲只能用嘴上了]]></title>
+            <description><![CDATA[<br>我现在找不到这个频率的乐曲只能用嘴上了]]></description>
+            <pubDate>Sat, 02 Oct 2021 11:06:51 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/61583d4b94b4320010d54e36</guid>
+            <link>https://m.okjike.com/originalPosts/61583d4b94b4320010d54e36</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[域名又续了一年
+想买.io可以是贵几十😭
+等工作后再说吧]]></title>
+            <description><![CDATA[<br>域名又续了一年<br>想买.io可以是贵几十😭<br>等工作后再说吧<br><picture><source srcset="https://cdn.jellow.site/FhQNWyxXwKc3Ihxmr4i4CV5HDFmHv2.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FhQNWyxXwKc3Ihxmr4i4CV5HDFmHv2.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FhQNWyxXwKc3Ihxmr4i4CV5HDFmHv2.jpg"></picture>]]></description>
+            <pubDate>Sat, 02 Oct 2021 09:16:02 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/615823529343020011fad372</guid>
+            <link>https://m.okjike.com/originalPosts/615823529343020011fad372</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[业余时间自己一个人开发了个播客APP，已经基本可以满足我的日常使用了，目前还在不断自测、重构、优化，希望可以早日拿出来见人。
@@ -133,43 +167,6 @@
             <pubDate>Wed, 29 Sep 2021 01:46:51 GMT</pubDate>
             <guid isPermaLink="false">https://mp.weixin.qq.com/s/-yJc12Iv46K9G3fY4VcnRw</guid>
             <link>https://mp.weixin.qq.com/s/-yJc12Iv46K9G3fY4VcnRw</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[我也是有个人博客的人了！
-用GitHub Pages + HEXO搭建的，很简陋（高情商：极简风）🤣下面两个网址都能找到我
-https://dwAaron.top/
-https://dwAaron.github.i...]]></title>
-            <description><![CDATA[<br>我也是有个人博客的人了！<br>用GitHub Pages + HEXO搭建的，很简陋（高情商：极简风）🤣下面两个网址都能找到我<br>https://dwAaron.top/<br>https://dwAaron.github.io/<br>欢迎来玩，虽然现在还什么都没有<br><picture><source srcset="https://cdn.jellow.site/FlSRYAGv3qYB07i4zt2aS3yyR7knv2.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FlSRYAGv3qYB07i4zt2aS3yyR7knv2.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FlSRYAGv3qYB07i4zt2aS3yyR7knv2.jpg"></picture><br><picture><source srcset="https://cdn.jellow.site/FvGVYY5KJa26Sie8_rdQVOlV6vY3v2.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FvGVYY5KJa26Sie8_rdQVOlV6vY3v2.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FvGVYY5KJa26Sie8_rdQVOlV6vY3v2.jpg"></picture>]]></description>
-            <pubDate>Tue, 28 Sep 2021 14:36:19 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/61532863b215950010c6cfad</guid>
-            <link>https://m.okjike.com/originalPosts/61532863b215950010c6cfad</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[一个SwiftUI 实现的 Windows 11 桌面客户端，大小仅仅5M
-
-下载地址：https://github.com/Jinxiansen/Windows11/tree/1.0]]></title>
-            <description><![CDATA[<br>一个SwiftUI 实现的 Windows 11 桌面客户端，大小仅仅5M<br><br>下载地址：https://github.com/Jinxiansen/Windows11/tree/1.0<br><picture><source srcset="https://cdn.jellow.site/FgPa8zi7Kyg-xIBj0yhoGrSkgrqzv2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FgPa8zi7Kyg-xIBj0yhoGrSkgrqzv2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FgPa8zi7Kyg-xIBj0yhoGrSkgrqzv2.png"></picture><br><picture><source srcset="https://cdn.jellow.site/FtVyVDES9y3lrMa6Hc3QSTlng9QTv2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FtVyVDES9y3lrMa6Hc3QSTlng9QTv2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FtVyVDES9y3lrMa6Hc3QSTlng9QTv2.png"></picture>]]></description>
-            <pubDate>Mon, 27 Sep 2021 01:16:28 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/61511b6c59c50400106ddded</guid>
-            <link>https://m.okjike.com/originalPosts/61511b6c59c50400106ddded</link>
             
             
             
