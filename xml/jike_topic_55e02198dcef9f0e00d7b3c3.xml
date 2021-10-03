@@ -20,8 +20,26 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sun, 03 Oct 2021 12:27:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Oct 2021 16:26:22 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[之前看到广场上有人吐槽CSDN内容不行，吃相难看～
+
+感觉可以根据自己每天搜索各种技术教程和博客的经验给大家推荐一下一些高质量网站？不晓得有没有人需要～]]></title>
+            <description><![CDATA[<br>之前看到广场上有人吐槽CSDN内容不行，吃相难看～<br><br>感觉可以根据自己每天搜索各种技术教程和博客的经验给大家推荐一下一些高质量网站？不晓得有没有人需要～]]></description>
+            <pubDate>Sun, 03 Oct 2021 13:04:50 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6159aa72a0c02e00100c86df</guid>
+            <link>https://m.okjike.com/originalPosts/6159aa72a0c02e00100c86df</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[我现在找不到这个频率的乐曲只能用嘴上了]]></title>
@@ -47,24 +65,6 @@
             <pubDate>Sat, 02 Oct 2021 09:16:02 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/615823529343020011fad372</guid>
             <link>https://m.okjike.com/originalPosts/615823529343020011fad372</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[业余时间自己一个人开发了个播客APP，已经基本可以满足我的日常使用了，目前还在不断自测、重构、优化，希望可以早日拿出来见人。
-
-主要是自己用，如果有其他人...]]></title>
-            <description><![CDATA[<br>业余时间自己一个人开发了个播客APP，已经基本可以满足我的日常使用了，目前还在不断自测、重构、优化，希望可以早日拿出来见人。<br><br>主要是自己用，如果有其他人也喜欢，那就算是惊喜了。<br><br>其实没有什么设计理念，就是打磨个自己天天用的工具，会有些成就感。但是也想有点跟多数互联网公司的产品不一样的地方：<br><br>- 永远不强制用户登录<br>- 更在意用户的隐私，非必要不上报数据到服务器，用户可以随时导出使用数据，随时可以清理掉任何使用痕迹，包括服务器端的数据。<br><br>非常期待大家能提供在用户隐私方面的产品思路，比如更好滴在多设备间同步收听记录等。<br><picture><source srcset="https://cdn.jellow.site/FvJ61kWlSTzuA-DNdXLYvnIivmayv2.jpeg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FvJ61kWlSTzuA-DNdXLYvnIivmayv2.jpeg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FvJ61kWlSTzuA-DNdXLYvnIivmayv2.jpeg"></picture><br><picture><source srcset="https://cdn.jellow.site/FuqujR4gm98JNOQKS-2yf07JTQa8v2.jpeg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FuqujR4gm98JNOQKS-2yf07JTQa8v2.jpeg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FuqujR4gm98JNOQKS-2yf07JTQa8v2.jpeg"></picture>]]></description>
-            <pubDate>Sat, 02 Oct 2021 06:10:06 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6157f7be4ddebb0011db8944</guid>
-            <link>https://m.okjike.com/originalPosts/6157f7be4ddebb0011db8944</link>
             
             
             
@@ -142,12 +142,14 @@
         </item>
         
         <item>
-            <title><![CDATA[大三生今日迷茫：
-到底是该考研还是工作呢？身边大部分人都准备考研，我也怕本科学历不够好，但最近看了几篇论文，感觉自己真的不是搞科研的料...]]></title>
-            <description><![CDATA[<br>大三生今日迷茫：<br>到底是该考研还是工作呢？身边大部分人都准备考研，我也怕本科学历不够好，但最近看了几篇论文，感觉自己真的不是搞科研的料...]]></description>
-            <pubDate>Wed, 29 Sep 2021 13:10:47 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/615465d76872a900106b95a2</guid>
-            <link>https://m.okjike.com/originalPosts/615465d76872a900106b95a2</link>
+            <title><![CDATA[[第208期]: 浏览器渲染之回流重绘 & 从 Prompt 来看微前端路由劫持原理 & 深入理解云计算OpenAPI体系
+
+1: 浏览器渲染之回流重绘
+2: 从 Prompt 来看微前端路由劫...]]></title>
+            <description><![CDATA[<br>                    <img referrerpolicy="no-referrer" src="http://mmbiz.qpic.cn/mmbiz_png/ssEicsWCglpZkJia5Eg4ssLblDFhxD5SRKESXIdBOkibsfbBJpXdx26fcic31eygJLkxqatubCB2KpEtEqrEEX2eRQ/0?wx_fmt=png"><br>                    <a href="https://mp.weixin.qq.com/s/-yJc12Iv46K9G3fY4VcnRw">[第208期] 浏览器渲染之回流重绘 & 从 Prompt 来看微前端路由劫持原理 & 深入理解云计算OpenAPI体系</a><br>                <br>[第208期]: 浏览器渲染之回流重绘 & 从 Prompt 来看微前端路由劫持原理 & 深入理解云计算OpenAPI体系<br><br>1: 浏览器渲染之回流重绘<br>2: 从 Prompt 来看微前端路由劫持原理<br>3: 从 GraphQL N+1 问题到 DataLoader 源码梳理<br>4: Webpack 性能系列一: 使用 Cache 提升构建性能<br>5: Shadow DOM 的一次挖掘 —— 揭秘 range input 的内部结构<br>6: 深入理解云计算OpenAPI体系]]></description>
+            <pubDate>Wed, 29 Sep 2021 01:46:51 GMT</pubDate>
+            <guid isPermaLink="false">https://mp.weixin.qq.com/s/-yJc12Iv46K9G3fY4VcnRw</guid>
+            <link>https://mp.weixin.qq.com/s/-yJc12Iv46K9G3fY4VcnRw</link>
             
             
             
@@ -159,14 +161,14 @@
         </item>
         
         <item>
-            <title><![CDATA[[第208期]: 浏览器渲染之回流重绘 & 从 Prompt 来看微前端路由劫持原理 & 深入理解云计算OpenAPI体系
-
-1: 浏览器渲染之回流重绘
-2: 从 Prompt 来看微前端路由劫...]]></title>
-            <description><![CDATA[<br>                    <img referrerpolicy="no-referrer" src="http://mmbiz.qpic.cn/mmbiz_png/ssEicsWCglpZkJia5Eg4ssLblDFhxD5SRKESXIdBOkibsfbBJpXdx26fcic31eygJLkxqatubCB2KpEtEqrEEX2eRQ/0?wx_fmt=png"><br>                    <a href="https://mp.weixin.qq.com/s/-yJc12Iv46K9G3fY4VcnRw">[第208期] 浏览器渲染之回流重绘 & 从 Prompt 来看微前端路由劫持原理 & 深入理解云计算OpenAPI体系</a><br>                <br>[第208期]: 浏览器渲染之回流重绘 & 从 Prompt 来看微前端路由劫持原理 & 深入理解云计算OpenAPI体系<br><br>1: 浏览器渲染之回流重绘<br>2: 从 Prompt 来看微前端路由劫持原理<br>3: 从 GraphQL N+1 问题到 DataLoader 源码梳理<br>4: Webpack 性能系列一: 使用 Cache 提升构建性能<br>5: Shadow DOM 的一次挖掘 —— 揭秘 range input 的内部结构<br>6: 深入理解云计算OpenAPI体系]]></description>
-            <pubDate>Wed, 29 Sep 2021 01:46:51 GMT</pubDate>
-            <guid isPermaLink="false">https://mp.weixin.qq.com/s/-yJc12Iv46K9G3fY4VcnRw</guid>
-            <link>https://mp.weixin.qq.com/s/-yJc12Iv46K9G3fY4VcnRw</link>
+            <title><![CDATA[我也是有个人博客的人了！
+用GitHub Pages + HEXO搭建的，很简陋（高情商：极简风）🤣下面两个网址都能找到我
+https://dwAaron.top/
+https://dwAaron.github.i...]]></title>
+            <description><![CDATA[<br>我也是有个人博客的人了！<br>用GitHub Pages + HEXO搭建的，很简陋（高情商：极简风）🤣下面两个网址都能找到我<br>https://dwAaron.top/<br>https://dwAaron.github.io/<br>欢迎来玩，虽然现在还什么都没有<br><picture><source srcset="https://cdn.jellow.site/FlSRYAGv3qYB07i4zt2aS3yyR7knv2.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FlSRYAGv3qYB07i4zt2aS3yyR7knv2.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FlSRYAGv3qYB07i4zt2aS3yyR7knv2.jpg"></picture><br><picture><source srcset="https://cdn.jellow.site/FvGVYY5KJa26Sie8_rdQVOlV6vY3v2.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FvGVYY5KJa26Sie8_rdQVOlV6vY3v2.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FvGVYY5KJa26Sie8_rdQVOlV6vY3v2.jpg"></picture>]]></description>
+            <pubDate>Tue, 28 Sep 2021 14:36:19 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/61532863b215950010c6cfad</guid>
+            <link>https://m.okjike.com/originalPosts/61532863b215950010c6cfad</link>
             
             
             
