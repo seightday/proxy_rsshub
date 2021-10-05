@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[一觉醒来世界发生了什么 - 即刻圈子]]></title>
         <link>https://m.okjike.com/topics/553870e8e4b0cafb0a1bef68</link>
-        <atom:link href="https://rsshub.rssforever.com/jike/topic/553870e8e4b0cafb0a1bef68" rel="self" type="application/rss+xml" />
+        <atom:link href="http://rsshub/jike/topic/553870e8e4b0cafb0a1bef68" rel="self" type="application/rss+xml" />
         <description><![CDATA[每天早上向你汇报当你睡觉的时候世界发生了什么，快速一览昨夜今晨要闻。 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -20,8 +20,8 @@
             <link>https://m.okjike.com/topics/553870e8e4b0cafb0a1bef68</link>
         </image>
         
-        <lastBuildDate>Tue, 05 Oct 2021 12:28:28 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Tue, 05 Oct 2021 16:28:36 GMT</lastBuildDate>
+        <ttl>1</ttl>
         
         <item>
             <title><![CDATA[一觉醒来世界发生了什么 10月05日]]></title>

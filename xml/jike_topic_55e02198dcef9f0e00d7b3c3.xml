@@ -20,8 +20,28 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 05 Oct 2021 12:28:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Oct 2021 16:28:34 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[写了个dapp：
+
+是一个让用户自己创造ASCII Art NFT的小工具。生成的NFT遵循ERC721，将可以在opensea上进行交易。自己写了react前端和solidity智能合约。
+
+顺利的...]]></title>
+            <description><![CDATA[<br>写了个dapp：<br><br>是一个让用户自己创造ASCII Art NFT的小工具。生成的NFT遵循ERC721，将可以在opensea上进行交易。自己写了react前端和solidity智能合约。<br><br>顺利的话明后天上线。]]></description>
+            <pubDate>Tue, 05 Oct 2021 15:32:52 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/615c70246872a900106bc16e</guid>
+            <link>https://m.okjike.com/originalPosts/615c70246872a900106bc16e</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[先说明我不是程序员，只是由于工作的关系基本上有将近两年的时间里每天都有两三个小时的工作时间在逛各种技术网站和博客。所以只能贡献一点比较初级的经验和收藏...]]></title>
@@ -165,25 +185,6 @@
             <pubDate>Thu, 30 Sep 2021 05:28:34 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/61554b02a0c02e00100c6d6e</guid>
             <link>https://m.okjike.com/originalPosts/61554b02a0c02e00100c6d6e</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[[第208期]: 浏览器渲染之回流重绘 & 从 Prompt 来看微前端路由劫持原理 & 深入理解云计算OpenAPI体系
-
-1: 浏览器渲染之回流重绘
-2: 从 Prompt 来看微前端路由劫...]]></title>
-            <description><![CDATA[<br>                    <img referrerpolicy="no-referrer" src="http://mmbiz.qpic.cn/mmbiz_png/ssEicsWCglpZkJia5Eg4ssLblDFhxD5SRKESXIdBOkibsfbBJpXdx26fcic31eygJLkxqatubCB2KpEtEqrEEX2eRQ/0?wx_fmt=png"><br>                    <a href="https://mp.weixin.qq.com/s/-yJc12Iv46K9G3fY4VcnRw">[第208期] 浏览器渲染之回流重绘 & 从 Prompt 来看微前端路由劫持原理 & 深入理解云计算OpenAPI体系</a><br>                <br>[第208期]: 浏览器渲染之回流重绘 & 从 Prompt 来看微前端路由劫持原理 & 深入理解云计算OpenAPI体系<br><br>1: 浏览器渲染之回流重绘<br>2: 从 Prompt 来看微前端路由劫持原理<br>3: 从 GraphQL N+1 问题到 DataLoader 源码梳理<br>4: Webpack 性能系列一: 使用 Cache 提升构建性能<br>5: Shadow DOM 的一次挖掘 —— 揭秘 range input 的内部结构<br>6: 深入理解云计算OpenAPI体系]]></description>
-            <pubDate>Wed, 29 Sep 2021 01:46:51 GMT</pubDate>
-            <guid isPermaLink="false">https://mp.weixin.qq.com/s/-yJc12Iv46K9G3fY4VcnRw</guid>
-            <link>https://mp.weixin.qq.com/s/-yJc12Iv46K9G3fY4VcnRw</link>
             
             
             
