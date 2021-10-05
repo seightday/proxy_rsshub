@@ -20,8 +20,28 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 04 Oct 2021 20:18:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Oct 2021 00:59:48 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[『用Notablog 联动Notion，搭建自己专属Blog』
+
+即上周了解了Alan的经历后，经即友的提醒，对他的Blog很感兴趣。
+
+后来了解到Alan的团队做了一个用Notion直接发...]]></title>
+            <description><![CDATA[<br>『用Notablog 联动Notion，搭建自己专属Blog』<br><br>即上周了解了Alan的经历后，经即友的提醒，对他的Blog很感兴趣。<br><br>后来了解到Alan的团队做了一个用Notion直接发布静态博客的框架，可以更快速度访问Notion中的博客。<br><br>下午按照文档，折腾了一下午，搞定我的第一个Notion 静态博客，可极大优化Notion的访问速度。<br><br>https://sharingman.github.io/xinhaiblog/index.html<br><picture><source srcset="https://cdn.jellow.site/FpU1S8XpFH2HsPT7J5W2W1nW0D53v2.jpeg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FpU1S8XpFH2HsPT7J5W2W1nW0D53v2.jpeg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FpU1S8XpFH2HsPT7J5W2W1nW0D53v2.jpeg"></picture>]]></description>
+            <pubDate>Mon, 04 Oct 2021 12:02:40 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/615aed60edd6ce0010e456a9</guid>
+            <link>https://m.okjike.com/originalPosts/615aed60edd6ce0010e456a9</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[有病哈哈哈哈]]></title>
@@ -147,22 +167,6 @@
             <pubDate>Thu, 30 Sep 2021 02:05:42 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/61551b769343020011fac22a</guid>
             <link>https://m.okjike.com/originalPosts/61551b769343020011fac22a</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[学校需要每天登记打卡，怕忘记就写了个python脚本挂在了家里nas的docker上，结果今早起来一看打卡记录发现体温0.1度......回头一看代码忘记加35了.....我已经是...]]></title>
-            <description><![CDATA[<br>学校需要每天登记打卡，怕忘记就写了个python脚本挂在了家里nas的docker上，结果今早起来一看打卡记录发现体温0.1度......回头一看代码忘记加35了.....我已经是具尸体了……<br><picture><source srcset="https://cdn.jellow.site/FsGl3Dz7jmZEeoBJJt7ePNNK_tSSv2.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FsGl3Dz7jmZEeoBJJt7ePNNK_tSSv2.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FsGl3Dz7jmZEeoBJJt7ePNNK_tSSv2.jpg"></picture><br><picture><source srcset="https://cdn.jellow.site/Fk82vZFLCk8MMfxHN1UXCxqMUiMxv2.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/Fk82vZFLCk8MMfxHN1UXCxqMUiMxv2.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Fk82vZFLCk8MMfxHN1UXCxqMUiMxv2.jpg"></picture>]]></description>
-            <pubDate>Thu, 30 Sep 2021 00:46:06 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/615508ce9343020011fac1cc</guid>
-            <link>https://m.okjike.com/originalPosts/615508ce9343020011fac1cc</link>
             
             
             
