@@ -20,7 +20,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 06 Oct 2021 01:00:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Oct 2021 04:23:05 GMT</lastBuildDate>
         <ttl>1</ttl>
         
         <item>
@@ -44,11 +44,12 @@
         </item>
         
         <item>
-            <title><![CDATA[先说明我不是程序员，只是由于工作的关系基本上有将近两年的时间里每天都有两三个小时的工作时间在逛各种技术网站和博客。所以只能贡献一点比较初级的经验和收藏...]]></title>
-            <description><![CDATA[<br>先说明我不是程序员，只是由于工作的关系基本上有将近两年的时间里每天都有两三个小时的工作时间在逛各种技术网站和博客。所以只能贡献一点比较初级的经验和收藏。<br><br>工作和云原生以及开源相关，所以找的资料也偏向这个方向，国外的教程偏多，以一整套的教程为主。<br><br>本篇分为三个部分，第一部分会分享我的收藏夹，包含各种技术网站，有比较General的，也有专门面向云原生、DevOps、开源方向的；第二部分，会介绍我搜索教程的思路，以及如何横向和纵向扩充自己的收藏夹；第三部分，会介绍如何“白嫖”官方支持，仅限开源领域的产品。<br><br>#Part1: 技术收藏夹<br><br>Stackoverflow这些就不说了~<br><br>The Newstack(thenewstack.io): <br>相当一部分是公司里CTO或者CEO级别的人写的文章，包含了各种最佳实践以及业界动态，还有大佬对谈（今天有看到Linus）。同时会有一小部分是更详细的技术教程。<br><br>The Hacker news (https://thehackernews.com/): 有业界新产品、新技术，适合喜欢尝鲜、探索的朋友。<br><br>Dzone（Dzone.com): 这个相对更干货一些，会有非常详细的包含具体代码的教程，主要集中在DevOps、云计算等领域。<br><br>Medium （medium.com): 这个网站是会员制，非会员每个月有5篇免费文章的额度。很多国外的技术网站和开发者博客都能在上面找到，如果不想付费的话，可以先根据点赞量评估文章质量，然后再根据摘要确定是不是自己想要的内容。我经常逛其中的itnext.io。<br><br>Infoworld(https://www.infoworld.com/): 各类业界技术动态和技术趋势，会有权威媒体发布的白皮书。 <br><br>learnk8s.io: 这个应该是国外在做k8s培训的网站，但是每篇内容都超硬核。<br><br>Linux.com(https://www.linux.com/training-tutorials/): Linux相关教程和培训<br><br>DevOpscube (devopscube.com)：完全是被网页颜值吸引，有很多Jenkins、Prometheus的内容。<br><br>Containerize me(containerized.me)：容器技术、K8S相关的内容。<br><br>中文互联网：掘金、思否、v2ex、博客园、简书（简书技术文章的密度较低，但是也有好文章会post在上面）<br><br>常看的个人博客基本都集中于容器、K8S，就不分享啦。<br><br># Part2：如何搜到自己想要的东西<br><br>如果是开源产品，十分推荐先去Github issue上进行搜索，通常你遇到的问题，其他用户之前也遇到过，有些issue早就解决掉了。Stackoverflow应该是大家都懂的，就不赘述了。另外，产品的官方论坛也是可以充分利用的地方。<br><br>如果这个产品的本地化运营做得不错（可以根据中文官方网站看出来），那么也可搜索他们开通的微信公众号，上面也是很多宝藏。<br><br>个人博客比起技术网站的优势在于个人博客会更随意，所以即便是一个小问题也会写下文章记录下来。所以找到相应领域的技术大佬的博客通常可以事半功倍。如何找？看Github上的contributor，有的会有链接link过去；知道是谁可以看看对方的LinkedIn，一般也有链接；看推特、微博也是能够横向拓宽技术大佬的名单，一般关注了1个看看经常互动的人，能找到好几个。<br><br># Part 3：如何“白嫖”官方支持<br><br>仅限开源产品。<br><br>首先，当然从官方文档开始咯！其次，不要忽视微信群、Slack、邮件列表，这些渠道都可以直接和官方工程师搭上话的。最后，可以追追直播，一般有提问环节，大胆地提问就好啦~<br><br>以上，可能有遗漏的部分，欢迎各位补充~~]]></description>
-            <pubDate>Tue, 05 Oct 2021 10:08:03 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/615c24033851c00010411bbd</guid>
-            <link>https://m.okjike.com/originalPosts/615c24033851c00010411bbd</link>
+            <title><![CDATA[世界上最恐怖的事情莫过于
+你写着写着代码突然发现自己的中文输入法开着🤯🤯🤯🤯🤯🤯]]></title>
+            <description><![CDATA[<br>世界上最恐怖的事情莫过于<br>你写着写着代码突然发现自己的中文输入法开着🤯🤯🤯🤯🤯🤯<br><picture><source srcset="https://cdn.jellow.site/FvGVahWA337Ip-mmWlgjpPEj_iUuv2.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FvGVahWA337Ip-mmWlgjpPEj_iUuv2.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FvGVahWA337Ip-mmWlgjpPEj_iUuv2.jpg"></picture>]]></description>
+            <pubDate>Tue, 05 Oct 2021 13:26:14 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/615c52763851c00010411d32</guid>
+            <link>https://m.okjike.com/originalPosts/615c52763851c00010411d32</link>
             
             
             
@@ -60,11 +61,11 @@
         </item>
         
         <item>
-            <title><![CDATA[「4K 超清」Flutter 打造新拟物化设计风格_哔哩哔哩_bilibili]]></title>
-            <description><![CDATA[<br>                    <img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FkyzUAytC3CXsYBRP2Y38T56Y4-P?imageMogr2/auto-orient/heic-exif/1/format/jpeg?imageView2/0/w/800/h/800/format/jpeg/q/80"><br>                    <a href="https://www.bilibili.com/video/BV1XU4y1c7L2/">「4K 超清」Flutter 打造新拟物化设计风格_哔哩哔哩_bilibili - 约0分钟</a><br>                <br>Flutter 打造新拟物化设计风格界面<br>教程在视频下方，国庆愉快。]]></description>
-            <pubDate>Tue, 05 Oct 2021 00:51:48 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/615ba1a43313a900107a5707</guid>
-            <link>https://m.okjike.com/originalPosts/615ba1a43313a900107a5707</link>
+            <title><![CDATA[先说明我不是程序员，只是由于工作的关系基本上有将近两年的时间里每天都有两三个小时的工作时间在逛各种技术网站和博客。所以只能贡献一点比较初级的经验和收藏...]]></title>
+            <description><![CDATA[<br>先说明我不是程序员，只是由于工作的关系基本上有将近两年的时间里每天都有两三个小时的工作时间在逛各种技术网站和博客。所以只能贡献一点比较初级的经验和收藏。<br><br>工作和云原生以及开源相关，所以找的资料也偏向这个方向，国外的教程偏多，以一整套的教程为主。<br><br>本篇分为三个部分，第一部分会分享我的收藏夹，包含各种技术网站，有比较General的，也有专门面向云原生、DevOps、开源方向的；第二部分，会介绍我搜索教程的思路，以及如何横向和纵向扩充自己的收藏夹；第三部分，会介绍如何“白嫖”官方支持，仅限开源领域的产品。<br><br>#Part1: 技术收藏夹<br><br>Stackoverflow这些就不说了~<br><br>The Newstack(thenewstack.io): <br>相当一部分是公司里CTO或者CEO级别的人写的文章，包含了各种最佳实践以及业界动态，还有大佬对谈（今天有看到Linus）。同时会有一小部分是更详细的技术教程。<br><br>The Hacker news (https://thehackernews.com/): 有业界新产品、新技术，适合喜欢尝鲜、探索的朋友。<br><br>Dzone（Dzone.com): 这个相对更干货一些，会有非常详细的包含具体代码的教程，主要集中在DevOps、云计算等领域。<br><br>Medium （medium.com): 这个网站是会员制，非会员每个月有5篇免费文章的额度。很多国外的技术网站和开发者博客都能在上面找到，如果不想付费的话，可以先根据点赞量评估文章质量，然后再根据摘要确定是不是自己想要的内容。我经常逛其中的itnext.io。<br><br>Infoworld(https://www.infoworld.com/): 各类业界技术动态和技术趋势，会有权威媒体发布的白皮书。 <br><br>learnk8s.io: 这个应该是国外在做k8s培训的网站，但是每篇内容都超硬核。<br><br>Linux.com(https://www.linux.com/training-tutorials/): Linux相关教程和培训<br><br>DevOpscube (devopscube.com)：完全是被网页颜值吸引，有很多Jenkins、Prometheus的内容。<br><br>Containerize me(containerized.me)：容器技术、K8S相关的内容。<br><br>中文互联网：掘金、思否、v2ex、博客园、简书（简书技术文章的密度较低，但是也有好文章会post在上面）<br><br>常看的个人博客基本都集中于容器、K8S，就不分享啦。<br><br># Part2：如何搜到自己想要的东西<br><br>如果是开源产品，十分推荐先去Github issue上进行搜索，通常你遇到的问题，其他用户之前也遇到过，有些issue早就解决掉了。Stackoverflow应该是大家都懂的，就不赘述了。另外，产品的官方论坛也是可以充分利用的地方。<br><br>如果这个产品的本地化运营做得不错（可以根据中文官方网站看出来），那么也可搜索他们开通的微信公众号，上面也是很多宝藏。<br><br>个人博客比起技术网站的优势在于个人博客会更随意，所以即便是一个小问题也会写下文章记录下来。所以找到相应领域的技术大佬的博客通常可以事半功倍。如何找？看Github上的contributor，有的会有链接link过去；知道是谁可以看看对方的LinkedIn，一般也有链接；看推特、微博也是能够横向拓宽技术大佬的名单，一般关注了1个看看经常互动的人，能找到好几个。<br><br># Part 3：如何“白嫖”官方支持<br><br>仅限开源产品。<br><br>首先，当然从官方文档开始咯！其次，不要忽视微信群、Slack、邮件列表，这些渠道都可以直接和官方工程师搭上话的。最后，可以追追直播，一般有提问环节，大胆地提问就好啦~<br><br>以上，可能有遗漏的部分，欢迎各位补充~~]]></description>
+            <pubDate>Tue, 05 Oct 2021 10:08:03 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/615c24033851c00010411bbd</guid>
+            <link>https://m.okjike.com/originalPosts/615c24033851c00010411bbd</link>
             
             
             
