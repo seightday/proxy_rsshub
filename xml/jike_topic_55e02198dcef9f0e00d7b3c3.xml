@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[JitHub - 即刻圈子]]></title>
         <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
-        <atom:link href="http://rsshub/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub.rssforever.com/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
         <description><![CDATA[开发者们分享，问答，也可以交友的地方。欢迎所有工程师！ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -20,8 +20,29 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 07 Oct 2021 08:22:01 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Thu, 07 Oct 2021 12:30:41 GMT</lastBuildDate>
+        <ttl>5</ttl>
+        
+        <item>
+            <title><![CDATA[DApp上线了！
+
+https://eap.wtf/
+https://opensea.io/collection/extended-ascii-plot
+
+Extended ASCII Plot (EAP) is user created ASCII Art and stored on ch...]]></title>
+            <description><![CDATA[<br>DApp上线了！<br><br>https://eap.wtf/<br>https://opensea.io/collection/extended-ascii-plot<br><br>Extended ASCII Plot (EAP) is user created ASCII Art and stored on chain. Everyone can mint for free.]]></description>
+            <pubDate>Thu, 07 Oct 2021 08:03:49 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/615ea9e53313a900107a682a</guid>
+            <link>https://m.okjike.com/originalPosts/615ea9e53313a900107a682a</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[假期在家看书，我麻了，算法完全看不懂。
@@ -171,24 +192,6 @@
             <pubDate>Sat, 02 Oct 2021 11:06:51 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/61583d4b94b4320010d54e36</guid>
             <link>https://m.okjike.com/originalPosts/61583d4b94b4320010d54e36</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[《从“零”开始设计中文编程语言——SQL领域演示》
-
-通过逐步完善一个简单的中文编程语言语法并最后转换为 SQL 语句，演示一种快速搭建中文编程语言原型的方法。...]]></title>
-            <description><![CDATA[<br>《从“零”开始设计中文编程语言——SQL领域演示》<br><br>通过逐步完善一个简单的中文编程语言语法并最后转换为 SQL 语句，演示一种快速搭建中文编程语言原型的方法。<br><br>达成效果是，如下的中文语句：<br><br>创建读者表，编号为整数，出生年为文本 <br><br>转换生成 SQL 语句：<br><br>CREATE TABLE 读者 ( 编号 INTEGER, 出生年 TEXT )<br><picture><source srcset="https://cdn.jellow.site/FoD4G0l8tVCXUiH9GzWoojUIKGXDv2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FoD4G0l8tVCXUiH9GzWoojUIKGXDv2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FoD4G0l8tVCXUiH9GzWoojUIKGXDv2.png"></picture>]]></description>
-            <pubDate>Thu, 30 Sep 2021 05:28:34 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/61554b02a0c02e00100c6d6e</guid>
-            <link>https://m.okjike.com/originalPosts/61554b02a0c02e00100c6d6e</link>
             
             
             
