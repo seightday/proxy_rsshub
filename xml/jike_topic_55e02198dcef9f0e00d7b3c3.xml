@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[JitHub - 即刻圈子]]></title>
         <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
-        <atom:link href="https://vercel.getrss2021.xyz/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
+        <atom:link href="http://rsshub/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
         <description><![CDATA[开发者们分享，问答，也可以交友的地方。欢迎所有工程师！ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -20,8 +20,27 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 07 Oct 2021 04:23:58 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Thu, 07 Oct 2021 08:22:01 GMT</lastBuildDate>
+        <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[假期在家看书，我麻了，算法完全看不懂。
+《算法导论》有点像开发的「术」，而《编码》这本里面讲的类似「道」，写得蛮有意思的。
+
+类比投资交易，k线交易量这些...]]></title>
+            <description><![CDATA[<br>假期在家看书，我麻了，算法完全看不懂。<br>《算法导论》有点像开发的「术」，而《编码》这本里面讲的类似「道」，写得蛮有意思的。<br><br>类比投资交易，k线交易量这些技术分析是「术」，而基本面分析是「道」。<br><br>（反正我是这样类比理解的，不知道对不对<br><picture><source srcset="https://cdn.jellow.site/Fuk7TRL3NTQF1vzKHVC6FEbERPu5v2.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/Fuk7TRL3NTQF1vzKHVC6FEbERPu5v2.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Fuk7TRL3NTQF1vzKHVC6FEbERPu5v2.jpg"></picture><br><picture><source srcset="https://cdn.jellow.site/FvsOpN7tKeYYmCMK9Qat8KPUI4SHv2.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FvsOpN7tKeYYmCMK9Qat8KPUI4SHv2.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FvsOpN7tKeYYmCMK9Qat8KPUI4SHv2.jpg"></picture>]]></description>
+            <pubDate>Thu, 07 Oct 2021 04:54:42 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/615e7d929343020011faf649</guid>
+            <link>https://m.okjike.com/originalPosts/615e7d929343020011faf649</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[写了个dapp：
@@ -152,22 +171,6 @@
             <pubDate>Sat, 02 Oct 2021 11:06:51 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/61583d4b94b4320010d54e36</guid>
             <link>https://m.okjike.com/originalPosts/61583d4b94b4320010d54e36</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[真的很好奇，一个内容全靠抄袭，各个角落塞满无良广告，编辑体验不能说好，把盗版的东西变成付费内容的网站，是怎么一直活到今天的。没错我说的就是你，CSDN。]]></title>
-            <description><![CDATA[<br>真的很好奇，一个内容全靠抄袭，各个角落塞满无良广告，编辑体验不能说好，把盗版的东西变成付费内容的网站，是怎么一直活到今天的。没错我说的就是你，CSDN。]]></description>
-            <pubDate>Fri, 01 Oct 2021 13:58:23 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/615713ff4ddebb0011db8528</guid>
-            <link>https://m.okjike.com/originalPosts/615713ff4ddebb0011db8528</link>
             
             
             
