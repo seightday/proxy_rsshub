@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[JitHub - 即刻圈子]]></title>
         <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
-        <atom:link href="https://rsshub.rssforever.com/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
+        <atom:link href="http://rsshub/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
         <description><![CDATA[开发者们分享，问答，也可以交友的地方。欢迎所有工程师！ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -20,8 +20,26 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 07 Oct 2021 12:30:41 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Thu, 07 Oct 2021 16:22:55 GMT</lastBuildDate>
+        <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[这两天写了一篇八千字的科幻短篇小说，也是我人生中第一篇科幻小说——是非常有趣的体验。
+
+它延续Juicing系列分享认知方法论的主题，用科幻短篇小说的形式写了...]]></title>
+            <description><![CDATA[<br>                    <img referrerpolicy="no-referrer" src="http://mmbiz.qpic.cn/mmbiz_jpg/EfdRqR5iaqs3VwhsjoRKNfEURMv8ibuZI6cfhytbKKX2dhtcR4XwCEU2payruCzFgb9e3LNbxcNMibRQqcdBEOYow/0?wx_fmt=jpeg"><br>                    <a href="https://mp.weixin.qq.com/s/3RqWrjAMzrAGkSuB6WLzYA">Juicing 特别篇 | 比特的浮墨岛(flomo)之旅</a><br>                <br>这两天写了一篇八千字的科幻短篇小说，也是我人生中第一篇科幻小说——是非常有趣的体验。<br><br>它延续Juicing系列分享认知方法论的主题，用科幻短篇小说的形式写了我使用 @flomo浮墨  之前和之后意识的变化，进而探讨人的意识究竟是如何被改变的？<br><br>这篇科幻小说，是一个人类和比特的故事，一个信息和能量的故事，也是对 2500 年前柏拉图「洞穴之喻」的改写，顺便小小的致敬了泰德姜的《你一生的故事》和电影《超体》。<br><br>期待它与信息时代的共舞。]]></description>
+            <pubDate>Thu, 07 Oct 2021 14:19:41 GMT</pubDate>
+            <guid isPermaLink="false">https://mp.weixin.qq.com/s/3RqWrjAMzrAGkSuB6WLzYA</guid>
+            <link>https://mp.weixin.qq.com/s/3RqWrjAMzrAGkSuB6WLzYA</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[DApp上线了！
@@ -34,6 +52,22 @@ Extended ASCII Plot (EAP) is user created ASCII Art and stored on ch...]]></titl
             <pubDate>Thu, 07 Oct 2021 08:03:49 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/615ea9e53313a900107a682a</guid>
             <link>https://m.okjike.com/originalPosts/615ea9e53313a900107a682a</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[想问一下各位即友，手机是怎么知道我们睡着了的🤔是获取什么传感器的数据进行分析的吗]]></title>
+            <description><![CDATA[<br>想问一下各位即友，手机是怎么知道我们睡着了的🤔是获取什么传感器的数据进行分析的吗<br><picture><source srcset="https://cdn.jellow.site/FlrD8P8Kg_1X4ewkVVGWjzyrLerrv2.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FlrD8P8Kg_1X4ewkVVGWjzyrLerrv2.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FlrD8P8Kg_1X4ewkVVGWjzyrLerrv2.jpg"></picture>]]></description>
+            <pubDate>Thu, 07 Oct 2021 06:46:09 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/615e97b18a894f0010e39b93</guid>
+            <link>https://m.okjike.com/originalPosts/615e97b18a894f0010e39b93</link>
             
             
             
@@ -106,42 +140,6 @@ Extended ASCII Plot (EAP) is user created ASCII Art and stored on ch...]]></titl
             <pubDate>Tue, 05 Oct 2021 10:08:03 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/615c24033851c00010411bbd</guid>
             <link>https://m.okjike.com/originalPosts/615c24033851c00010411bbd</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[『用Notablog 联动Notion，搭建自己专属Blog』
-
-即上周了解了Alan的经历后，经即友的提醒，对他的Blog很感兴趣。
-
-后来了解到Alan的团队做了一个用Notion直接发...]]></title>
-            <description><![CDATA[<br>『用Notablog 联动Notion，搭建自己专属Blog』<br><br>即上周了解了Alan的经历后，经即友的提醒，对他的Blog很感兴趣。<br><br>后来了解到Alan的团队做了一个用Notion直接发布静态博客的框架，可以更快速度访问Notion中的博客。<br><br>下午按照文档，折腾了一下午，搞定我的第一个Notion 静态博客，可极大优化Notion的访问速度。<br><br>https://sharingman.github.io/xinhaiblog/index.html<br><picture><source srcset="https://cdn.jellow.site/FpU1S8XpFH2HsPT7J5W2W1nW0D53v2.jpeg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FpU1S8XpFH2HsPT7J5W2W1nW0D53v2.jpeg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FpU1S8XpFH2HsPT7J5W2W1nW0D53v2.jpeg"></picture>]]></description>
-            <pubDate>Mon, 04 Oct 2021 12:02:40 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/615aed60edd6ce0010e456a9</guid>
-            <link>https://m.okjike.com/originalPosts/615aed60edd6ce0010e456a9</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[有病哈哈哈哈]]></title>
-            <description><![CDATA[<br>有病哈哈哈哈<br><picture><source srcset="https://cdn.jellow.site/FjbfnMN1vAKpnA0IV5j7JeoQ7_W2v2.jpeg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FjbfnMN1vAKpnA0IV5j7JeoQ7_W2v2.jpeg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FjbfnMN1vAKpnA0IV5j7JeoQ7_W2v2.jpeg"></picture>]]></description>
-            <pubDate>Mon, 04 Oct 2021 07:12:07 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/615aa9474ddebb0011db97bd</guid>
-            <link>https://m.okjike.com/originalPosts/615aa9474ddebb0011db97bd</link>
             
             
             
