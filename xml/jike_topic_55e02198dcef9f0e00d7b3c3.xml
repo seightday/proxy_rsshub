@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[JitHub - 即刻圈子]]></title>
         <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
-        <atom:link href="https://vercel.getrss2021.xyz/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
+        <atom:link href="http://rsshub/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
         <description><![CDATA[开发者们分享，问答，也可以交友的地方。欢迎所有工程师！ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -20,8 +20,8 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sat, 09 Oct 2021 12:27:05 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Sat, 09 Oct 2021 16:27:00 GMT</lastBuildDate>
+        <ttl>1</ttl>
         
         <item>
             <title><![CDATA[UML 也可以用中文编程语言表达，箭头样式、朝向的记忆成本可以少些。从几年前看到的中文命名例图中摘些片段演示：
@@ -47,6 +47,22 @@
             <pubDate>Fri, 08 Oct 2021 07:50:06 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/615ff82eef56f200102d6417</guid>
             <link>https://m.okjike.com/originalPosts/615ff82eef56f200102d6417</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[新的工位，以后多多指教]]></title>
+            <description><![CDATA[<br>新的工位，以后多多指教<br><picture><source srcset="https://cdn.jellow.site/Fl_pLxdi4J4k64QyuENQ5l-zm23lv2?imageMogr2/auto-orient/heic-exif/1/format/jpeg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/Fl_pLxdi4J4k64QyuENQ5l-zm23lv2?imageMogr2/auto-orient/heic-exif/1/format/jpeg/" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Fl_pLxdi4J4k64QyuENQ5l-zm23lv2?imageMogr2/auto-orient/heic-exif/1/format/jpeg/"></picture>]]></description>
+            <pubDate>Fri, 08 Oct 2021 07:34:00 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/615ff468e5886c00107b0d81</guid>
+            <link>https://m.okjike.com/originalPosts/615ff468e5886c00107b0d81</link>
             
             
             
@@ -118,25 +134,6 @@ Extended ASCII Plot (EAP) is user created ASCII Art and stored on ch...]]></titl
             <pubDate>Thu, 07 Oct 2021 06:46:09 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/615e97b18a894f0010e39b93</guid>
             <link>https://m.okjike.com/originalPosts/615e97b18a894f0010e39b93</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[假期在家看书，我麻了，算法完全看不懂。
-《算法导论》有点像开发的「术」，而《编码》这本里面讲的类似「道」，写得蛮有意思的。
-
-类比投资交易，k线交易量这些...]]></title>
-            <description><![CDATA[<br>假期在家看书，我麻了，算法完全看不懂。<br>《算法导论》有点像开发的「术」，而《编码》这本里面讲的类似「道」，写得蛮有意思的。<br><br>类比投资交易，k线交易量这些技术分析是「术」，而基本面分析是「道」。<br><br>（反正我是这样类比理解的，不知道对不对<br><picture><source srcset="https://cdn.jellow.site/Fuk7TRL3NTQF1vzKHVC6FEbERPu5v2.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/Fuk7TRL3NTQF1vzKHVC6FEbERPu5v2.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Fuk7TRL3NTQF1vzKHVC6FEbERPu5v2.jpg"></picture><br><picture><source srcset="https://cdn.jellow.site/FvsOpN7tKeYYmCMK9Qat8KPUI4SHv2.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FvsOpN7tKeYYmCMK9Qat8KPUI4SHv2.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FvsOpN7tKeYYmCMK9Qat8KPUI4SHv2.jpg"></picture>]]></description>
-            <pubDate>Thu, 07 Oct 2021 04:54:42 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/615e7d929343020011faf649</guid>
-            <link>https://m.okjike.com/originalPosts/615e7d929343020011faf649</link>
             
             
             
