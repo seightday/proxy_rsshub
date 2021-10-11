@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[JitHub - 即刻圈子]]></title>
         <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
-        <atom:link href="http://rsshub/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
+        <atom:link href="https://vercel.getrss2021.xyz/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
         <description><![CDATA[开发者们分享，问答，也可以交友的地方。欢迎所有工程师！ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -20,8 +20,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 11 Oct 2021 08:21:41 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Mon, 11 Oct 2021 12:28:48 GMT</lastBuildDate>
+        <ttl>5</ttl>
+        
+        <item>
+            <title><![CDATA[Personal homepage is online!]]></title>
+            <description><![CDATA[<br>                    <img referrerpolicy="no-referrer" src="https://cdn.jellow.site/icons/link.png"><br>                    <a href="http://druihua.github.io/">Ruihua Dong</a><br>                <br>Personal homepage is online!]]></description>
+            <pubDate>Mon, 11 Oct 2021 08:48:55 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6163fa779fffff0010e22062</guid>
+            <link>https://m.okjike.com/originalPosts/6163fa779fffff0010e22062</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[独立开发做设计真难，花两个番茄钟时间设计的 ，感觉还不错，去知乎回答问题的时候，终于有底气放头图了。还有，近期迁移的新域名 www.mujicv.com ，我很满意。
@@ -74,6 +90,23 @@
         </item>
         
         <item>
+            <title><![CDATA[10号晚上深圳KUG的群里跑来了一位自称对jvm系编程语言感兴趣的初中生。
+我看了看他的B站，有作曲的视频，也有玩mc的视频，因此我一开始猜测他是为了写mc插件学习...]]></title>
+            <description><![CDATA[<br>10号晚上深圳KUG的群里跑来了一位自称对jvm系编程语言感兴趣的初中生。<br>我看了看他的B站，有作曲的视频，也有玩mc的视频，因此我一开始猜测他是为了写mc插件学习的Java。<br>直到我查到了他的Github，发现这孩子一点也不简单，C++, Swift, Java, 前端都有学过，最近在学习Kotlin才跑到我的群里，并且他也在将自己所学到的知识教给他的朋友。<br>要是他坚持往编程这条路走下去，不知道以后会变成什么样的大佬。]]></description>
+            <pubDate>Sat, 09 Oct 2021 19:53:58 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6161f356b0f47f001056b927</guid>
+            <link>https://m.okjike.com/originalPosts/6161f356b0f47f001056b927</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[作为一个从来不用微信发语音的人…真想删了它]]></title>
             <description><![CDATA[<br>作为一个从来不用微信发语音的人…真想删了它<br><picture><source srcset="https://cdn.jellow.site/FvseORGnvYTYF6Tzto-b1xLUjLRzv2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FvseORGnvYTYF6Tzto-b1xLUjLRzv2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FvseORGnvYTYF6Tzto-b1xLUjLRzv2.png"></picture>]]></description>
             <pubDate>Sat, 09 Oct 2021 13:46:31 GMT</pubDate>
@@ -97,22 +130,6 @@
             <pubDate>Sat, 09 Oct 2021 02:18:52 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6160fc0ce5886c00107b12f6</guid>
             <link>https://m.okjike.com/originalPosts/6160fc0ce5886c00107b12f6</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[无题]]></title>
-            <description><![CDATA[<br><br><picture><source srcset="https://cdn.jellow.site/Fko_kRK74YakRUt7LSK65Zx00CSuv2.jpeg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/Fko_kRK74YakRUt7LSK65Zx00CSuv2.jpeg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Fko_kRK74YakRUt7LSK65Zx00CSuv2.jpeg"></picture>]]></description>
-            <pubDate>Fri, 08 Oct 2021 07:50:06 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/615ff82eef56f200102d6417</guid>
-            <link>https://m.okjike.com/originalPosts/615ff82eef56f200102d6417</link>
             
             
             
@@ -163,27 +180,6 @@
             <pubDate>Thu, 07 Oct 2021 14:19:41 GMT</pubDate>
             <guid isPermaLink="false">https://mp.weixin.qq.com/s/3RqWrjAMzrAGkSuB6WLzYA</guid>
             <link>https://mp.weixin.qq.com/s/3RqWrjAMzrAGkSuB6WLzYA</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[DApp上线了！
-
-https://eap.wtf/
-https://opensea.io/collection/extended-ascii-plot
-
-Extended ASCII Plot (EAP) is user created ASCII Art and stored on ch...]]></title>
-            <description><![CDATA[<br>DApp上线了！<br><br>https://eap.wtf/<br>https://opensea.io/collection/extended-ascii-plot<br><br>Extended ASCII Plot (EAP) is user created ASCII Art and stored on chain. Everyone can mint for free.]]></description>
-            <pubDate>Thu, 07 Oct 2021 08:03:49 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/615ea9e53313a900107a682a</guid>
-            <link>https://m.okjike.com/originalPosts/615ea9e53313a900107a682a</link>
             
             
             
