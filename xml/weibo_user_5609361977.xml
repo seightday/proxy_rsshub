@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[分享白菜达人的微博]]></title>
         <link>http://weibo.com/5609361977/</link>
-        <atom:link href="http://rsshub/weibo/user/5609361977" rel="self" type="application/rss+xml" />
+        <atom:link href="http://getrss2021.xyz:1200/weibo/user/5609361977" rel="self" type="application/rss+xml" />
         <description><![CDATA[跟着博主抢红包，抢秒杀！撸免单！买优惠白菜 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -15,13 +15,13 @@
         <language>zh-cn</language>
         
         <image>
-            <url>https://tvax2.sinaimg.cn/crop.0.0.512.512.180/0067Cjihly8gb7w03ko6vj30e80e874q.jpg?KID=imgbed,tva&#38;Expires=1634326072&#38;ssig=hmG18xMz%2Fk</url>
+            <url>https://tvax2.sinaimg.cn/crop.0.0.512.512.180/0067Cjihly8gb7w03ko6vj30e80e874q.jpg?KID=imgbed,tva&#38;Expires=1634339955&#38;ssig=KvrxgAsTef</url>
             <title><![CDATA[分享白菜达人的微博]]></title>
             <link>http://weibo.com/5609361977/</link>
         </image>
         
-        <lastBuildDate>Fri, 15 Oct 2021 16:27:53 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Fri, 15 Oct 2021 20:19:18 GMT</lastBuildDate>
+        <ttl>5</ttl>
         
         <item>
             <title><![CDATA[羽绒服免洗神器去污清洁喷雾   9.9 [图片][图片][图片]]]></title>
