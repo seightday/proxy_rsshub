@@ -20,8 +20,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sat, 16 Oct 2021 08:20:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Oct 2021 12:27:36 GMT</lastBuildDate>
         <ttl>5</ttl>
+        
+        <item>
+            <title><![CDATA[wand算法的思想在于：竖着daat遍历文档时，如果一个文档的所有关键词的最大贡献值的累加和，依然小于阈值，就丢弃，从而加快搜索。wand算法在网上的资料不是很多...]]></title>
+            <description><![CDATA[<br>wand算法的思想在于：竖着daat遍历文档时，如果一个文档的所有关键词的最大贡献值的累加和，依然小于阈值，就丢弃，从而加快搜索。wand算法在网上的资料不是很多，这里推荐：https://wulc.me/2018/03/18/Wand%20%E7%AE%97%E6%B3%95%E4%BB%8B%E7%BB%8D%E4%B8%8E%E5%AE%9E%E7%8E%B0/]]></description>
+            <pubDate>Sat, 16 Oct 2021 10:01:36 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/616aa300d222ad00104d7e36</guid>
+            <link>https://m.okjike.com/originalPosts/616aa300d222ad00104d7e36</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[2014 年夏季，一个二年级小学生偶然间看到了父亲电脑屏幕上接连不断的代码，对这个陌生的界面，这些奇妙的字符深深吸引了。
@@ -115,22 +131,6 @@
             <pubDate>Wed, 13 Oct 2021 01:45:28 GMT</pubDate>
             <guid isPermaLink="false">https://mp.weixin.qq.com/s/blwyRw04adovjqazwJqF4A</guid>
             <link>https://mp.weixin.qq.com/s/blwyRw04adovjqazwJqF4A</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[面试通过，技术问题基本上回答上了，接下来还有两场，我要变身成offer收割机，然后选一家最合适的。]]></title>
-            <description><![CDATA[<br>面试通过，技术问题基本上回答上了，接下来还有两场，我要变身成offer收割机，然后选一家最合适的。<br><picture><source srcset="https://cdn.jellow.site/FthSz7iildysgO-E78GLuxhiTvVwv2.jpeg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FthSz7iildysgO-E78GLuxhiTvVwv2.jpeg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FthSz7iildysgO-E78GLuxhiTvVwv2.jpeg"></picture>]]></description>
-            <pubDate>Tue, 12 Oct 2021 04:15:22 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/61650bda4f757d0010f7328e</guid>
-            <link>https://m.okjike.com/originalPosts/61650bda4f757d0010f7328e</link>
             
             
             
