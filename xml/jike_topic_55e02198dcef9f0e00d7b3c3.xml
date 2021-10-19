@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[JitHub - 即刻圈子]]></title>
         <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
-        <atom:link href="http://getrss2021.xyz:1200/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
+        <atom:link href="http://rsshub/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
         <description><![CDATA[开发者们分享，问答，也可以交友的地方。欢迎所有工程师！ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -20,8 +20,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 19 Oct 2021 08:22:05 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Tue, 19 Oct 2021 12:29:37 GMT</lastBuildDate>
+        <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[副组长离职了，留下一堆没有注释的屎山，记得之前我代码写注释还被打下来把注释删掉再提交，大家公司提交代码都会要求删注释吗？]]></title>
+            <description><![CDATA[<br>副组长离职了，留下一堆没有注释的屎山，记得之前我代码写注释还被打下来把注释删掉再提交，大家公司提交代码都会要求删注释吗？]]></description>
+            <pubDate>Tue, 19 Oct 2021 06:42:42 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/616e68e26d08df00105349b6</guid>
+            <link>https://m.okjike.com/originalPosts/616e68e26d08df00105349b6</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[求证，真实性如何🌝🌚]]></title>
@@ -29,6 +45,28 @@
             <pubDate>Mon, 18 Oct 2021 16:04:15 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/616d9aff2c27e7001017a707</guid>
             <link>https://m.okjike.com/originalPosts/616d9aff2c27e7001017a707</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[灵感来了，就差一个工程师了
+
+应该有一个 GitHub Action，用来做 Twitte 的数据可视化。
+
+这个 Action 有两个功能：
+
+1. 获取数据，并以特定的格式插入到 Github...]]></title>
+            <description><![CDATA[<br>灵感来了，就差一个工程师了<br><br>应该有一个 GitHub Action，用来做 Twitte 的数据可视化。<br><br>这个 Action 有两个功能：<br><br>1. 获取数据，并以特定的格式插入到 Github 仓库中。每天/每小时一个文件。<br><br>2. 可以自动将所有的文件合并，生成一个独立的文件，并更新到内容中。<br><br>然后附带一个可以可视化的页面。这样就可以实现无 DB 的 Twitter Follower 的分析了。]]></description>
+            <pubDate>Mon, 18 Oct 2021 12:53:02 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/616d6e2eb4587700100aed68</guid>
+            <link>https://m.okjike.com/originalPosts/616d6e2eb4587700100aed68</link>
             
             
             
@@ -145,44 +183,6 @@ Solidot：htt...]]></title>
             <pubDate>Thu, 14 Oct 2021 13:54:07 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6168367f62e5f9001074a823</guid>
             <link>https://m.okjike.com/originalPosts/6168367f62e5f9001074a823</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[[第210期]: 浅聊WebRTC视频通话 & 字节跳动是如何落地微前端的 & 防抖节流场景及应用
-
-1: 浅聊WebRTC视频通话
-2: 字节跳动是如何落地微前端的
-3: 防抖节流场景及...]]></title>
-            <description><![CDATA[<br>                    <img referrerpolicy="no-referrer" src="http://mmbiz.qpic.cn/mmbiz_png/ssEicsWCglpZkJia5Eg4ssLblDFhxD5SRKESXIdBOkibsfbBJpXdx26fcic31eygJLkxqatubCB2KpEtEqrEEX2eRQ/0?wx_fmt=png"><br>                    <a href="https://mp.weixin.qq.com/s/blwyRw04adovjqazwJqF4A">[第210期] 浅聊WebRTC视频通话 & 字节跳动是如何落地微前端的 & 防抖节流场景及应用</a><br>                <br>[第210期]: 浅聊WebRTC视频通话 & 字节跳动是如何落地微前端的 & 防抖节流场景及应用<br><br>1: 浅聊WebRTC视频通话<br>2: 字节跳动是如何落地微前端的<br>3: 防抖节流场景及应用<br>4: Windows Build Tools 异常排查<br>5: [第2421期]京东物流Flutter For Web实践]]></description>
-            <pubDate>Wed, 13 Oct 2021 01:45:28 GMT</pubDate>
-            <guid isPermaLink="false">https://mp.weixin.qq.com/s/blwyRw04adovjqazwJqF4A</guid>
-            <link>https://mp.weixin.qq.com/s/blwyRw04adovjqazwJqF4A</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[这位老弟入门Web前端的方式，值得点赞。文章阅读量还挺大，4000多。
-
-简单搜了下，他校招在去哪儿实习，岗位是前端开发实习生。现在在 字节跳动 做 后端开发工程...]]></title>
-            <description><![CDATA[<br>这位老弟入门Web前端的方式，值得点赞。文章阅读量还挺大，4000多。<br><br>简单搜了下，他校招在去哪儿实习，岗位是前端开发实习生。现在在 字节跳动 做 后端开发工程师。真全栈也。<br><br>---<br><br>大学就敲10天代码拿offer的学长掏心窝分享：https://mp.weixin.qq.com/s/awnrGpraFfRKBN3rNoSTDQ<br><picture><source srcset="https://cdn.jellow.site/FkOpf8k7nisHNq7bcJ2jzNMPY201v2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FkOpf8k7nisHNq7bcJ2jzNMPY201v2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FkOpf8k7nisHNq7bcJ2jzNMPY201v2.png"></picture>]]></description>
-            <pubDate>Tue, 12 Oct 2021 03:14:27 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6164fd934f757d0010f7323e</guid>
-            <link>https://m.okjike.com/originalPosts/6164fd934f757d0010f7323e</link>
             
             
             
