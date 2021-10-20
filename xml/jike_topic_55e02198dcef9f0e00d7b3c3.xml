@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[JitHub - 即刻圈子]]></title>
         <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
-        <atom:link href="http://getrss2021.xyz:1200/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
+        <atom:link href="http://rsshub/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
         <description><![CDATA[开发者们分享，问答，也可以交友的地方。欢迎所有工程师！ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -20,26 +20,8 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 20 Oct 2021 12:29:35 GMT</lastBuildDate>
-        <ttl>5</ttl>
-        
-        <item>
-            <title><![CDATA[用pyinstaller打包修改icon的时候发现Windows的icon显示怀疑是有cache的
-等几个小时之后会自动变为最新
-需要强制更新icon的时候修改一下文件名 icon才会刷新🔄...]]></title>
-            <description><![CDATA[<br>用pyinstaller打包修改icon的时候发现Windows的icon显示怀疑是有cache的<br>等几个小时之后会自动变为最新<br>需要强制更新icon的时候修改一下文件名 icon才会刷新🔄<br><br>还有一个小疑惑是<br>打包出来的exe双击打开，Windows会报错然后自动删除<br>但打包时换一个icon就能正常运行了……<br>不解<br><br>leader让我今晚回家路上小心点，可能窥探到了Microsoft省性能的小技巧了🤫<br><picture><source srcset="https://cdn.jellow.site/Fs8_rZQt7MHPk--lJSmcvZD1e7Xdv2.jpeg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/Fs8_rZQt7MHPk--lJSmcvZD1e7Xdv2.jpeg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Fs8_rZQt7MHPk--lJSmcvZD1e7Xdv2.jpeg"></picture>]]></description>
-            <pubDate>Tue, 19 Oct 2021 09:23:55 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/616e8eabdeb48e00106b021d</guid>
-            <link>https://m.okjike.com/originalPosts/616e8eabdeb48e00106b021d</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
+        <lastBuildDate>Wed, 20 Oct 2021 16:28:59 GMT</lastBuildDate>
+        <ttl>1</ttl>
         
         <item>
             <title><![CDATA[副组长离职了，留下一堆没有注释的屎山，记得之前我代码写注释还被打下来把注释删掉再提交，大家公司提交代码都会要求删注释吗？]]></title>
@@ -63,6 +45,22 @@
             <pubDate>Mon, 18 Oct 2021 16:04:15 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/616d9aff2c27e7001017a707</guid>
             <link>https://m.okjike.com/originalPosts/616d9aff2c27e7001017a707</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[各位小伙伴接私活现在都在什么平台啊]]></title>
+            <description><![CDATA[<br>各位小伙伴接私活现在都在什么平台啊<br><picture><source srcset="https://cdn.jellow.site/FiF1hQxVUEOPQ2BK2cjMobzAqqa4v2.jpeg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FiF1hQxVUEOPQ2BK2cjMobzAqqa4v2.jpeg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FiF1hQxVUEOPQ2BK2cjMobzAqqa4v2.jpeg"></picture>]]></description>
+            <pubDate>Mon, 18 Oct 2021 13:19:04 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/616d744835f94b0011d64ae4</guid>
+            <link>https://m.okjike.com/originalPosts/616d744835f94b0011d64ae4</link>
             
             
             
