@@ -20,8 +20,26 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 19 Oct 2021 20:19:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 01:04:26 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[用pyinstaller打包修改icon的时候发现Windows的icon显示怀疑是有cache的
+等几个小时之后会自动变为最新
+需要强制更新icon的时候修改一下文件名 icon才会刷新🔄...]]></title>
+            <description><![CDATA[<br>用pyinstaller打包修改icon的时候发现Windows的icon显示怀疑是有cache的<br>等几个小时之后会自动变为最新<br>需要强制更新icon的时候修改一下文件名 icon才会刷新🔄<br><br>还有一个小疑惑是<br>打包出来的exe双击打开，Windows会报错然后自动删除<br>但打包时换一个icon就能正常运行了……<br>不解<br><br>leader让我今晚回家路上小心点，可能窥探到了Microsoft省性能的小技巧了🤫<br><picture><source srcset="https://cdn.jellow.site/Fs8_rZQt7MHPk--lJSmcvZD1e7Xdv2.jpeg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/Fs8_rZQt7MHPk--lJSmcvZD1e7Xdv2.jpeg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Fs8_rZQt7MHPk--lJSmcvZD1e7Xdv2.jpeg"></picture>]]></description>
+            <pubDate>Tue, 19 Oct 2021 09:23:55 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/616e8eabdeb48e00106b021d</guid>
+            <link>https://m.okjike.com/originalPosts/616e8eabdeb48e00106b021d</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[副组长离职了，留下一堆没有注释的屎山，记得之前我代码写注释还被打下来把注释删掉再提交，大家公司提交代码都会要求删注释吗？]]></title>
@@ -117,22 +135,6 @@ Solidot：htt...]]></title>
             <pubDate>Sun, 17 Oct 2021 06:15:22 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/616bbf7aadec210010faa075</guid>
             <link>https://m.okjike.com/originalPosts/616bbf7aadec210010faa075</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[前端有什么好的毕设选题吗 求助😩]]></title>
-            <description><![CDATA[<br>前端有什么好的毕设选题吗 求助😩]]></description>
-            <pubDate>Sat, 16 Oct 2021 16:46:16 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/616b01d862e5f9001074b86b</guid>
-            <link>https://m.okjike.com/originalPosts/616b01d862e5f9001074b86b</link>
             
             
             
