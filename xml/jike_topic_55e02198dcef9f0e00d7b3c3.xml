@@ -20,8 +20,42 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 21 Oct 2021 01:07:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 04:24:46 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[不抱希望问一下 有什么关于机器学习的平台或者社群嘛😶‍🌫️]]></title>
+            <description><![CDATA[<br>不抱希望问一下 有什么关于机器学习的平台或者社群嘛😶‍🌫️]]></description>
+            <pubDate>Wed, 20 Oct 2021 16:48:06 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/61704846e23f170010a5fbb7</guid>
+            <link>https://m.okjike.com/originalPosts/61704846e23f170010a5fbb7</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[@c0d3r 分享的解压小工具（建议明天摸鱼的时候用打开），图为他用心拼写的@有知有行-有有 。
+
+玩耍链接：https://tinyhumans.vercel.app]]></title>
+            <description><![CDATA[<br>@c0d3r 分享的解压小工具（建议明天摸鱼的时候用打开），图为他用心拼写的@有知有行-有有 。<br><br>玩耍链接：https://tinyhumans.vercel.app<br><picture><source srcset="https://cdn.jellow.site/FiNJm4azMCJBWtj5nwrj3gBtkZGZv2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FiNJm4azMCJBWtj5nwrj3gBtkZGZv2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FiNJm4azMCJBWtj5nwrj3gBtkZGZv2.png"></picture>]]></description>
+            <pubDate>Wed, 20 Oct 2021 16:06:24 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/61703e80f8fbf200101e34fc</guid>
+            <link>https://m.okjike.com/originalPosts/61703e80f8fbf200101e34fc</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[副组长离职了，留下一堆没有注释的屎山，记得之前我代码写注释还被打下来把注释删掉再提交，大家公司提交代码都会要求删注释吗？]]></title>
@@ -61,44 +95,6 @@
             <pubDate>Mon, 18 Oct 2021 13:19:04 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/616d744835f94b0011d64ae4</guid>
             <link>https://m.okjike.com/originalPosts/616d744835f94b0011d64ae4</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[灵感来了，就差一个工程师了
-
-应该有一个 GitHub Action，用来做 Twitte 的数据可视化。
-
-这个 Action 有两个功能：
-
-1. 获取数据，并以特定的格式插入到 Github...]]></title>
-            <description><![CDATA[<br>灵感来了，就差一个工程师了<br><br>应该有一个 GitHub Action，用来做 Twitte 的数据可视化。<br><br>这个 Action 有两个功能：<br><br>1. 获取数据，并以特定的格式插入到 Github 仓库中。每天/每小时一个文件。<br><br>2. 可以自动将所有的文件合并，生成一个独立的文件，并更新到内容中。<br><br>然后附带一个可以可视化的页面。这样就可以实现无 DB 的 Twitter Follower 的分析了。]]></description>
-            <pubDate>Mon, 18 Oct 2021 12:53:02 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/616d6e2eb4587700100aed68</guid>
-            <link>https://m.okjike.com/originalPosts/616d6e2eb4587700100aed68</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[今天扒拉了 Anyway.fm 的官网前端代码，学到了很多很有意思的写法，惊呼 CSS 还能这么写！]]></title>
-            <description><![CDATA[<br>今天扒拉了 Anyway.fm 的官网前端代码，学到了很多很有意思的写法，惊呼 CSS 还能这么写！<br><picture><source srcset="https://cdn.jellow.site/FofZ0g_a0mHwYaYgBlYHGz80jYGav2.jpeg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FofZ0g_a0mHwYaYgBlYHGz80jYGav2.jpeg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FofZ0g_a0mHwYaYgBlYHGz80jYGav2.jpeg"></picture>]]></description>
-            <pubDate>Sun, 17 Oct 2021 15:18:20 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/616c3ebcd222ad00104d87de</guid>
-            <link>https://m.okjike.com/originalPosts/616c3ebcd222ad00104d87de</link>
             
             
             
