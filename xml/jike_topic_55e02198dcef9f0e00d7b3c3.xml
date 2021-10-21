@@ -20,8 +20,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 21 Oct 2021 08:21:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 12:29:36 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[学计算机的，学c语言的时候听的很懵，大佬们有学习的资源吗？]]></title>
+            <description><![CDATA[<br>学计算机的，学c语言的时候听的很懵，大佬们有学习的资源吗？]]></description>
+            <pubDate>Wed, 20 Oct 2021 18:44:08 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6170637887f9fe0010419521</guid>
+            <link>https://m.okjike.com/originalPosts/6170637887f9fe0010419521</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[不抱希望问一下 有什么关于机器学习的平台或者社群嘛😶‍🌫️]]></title>
@@ -58,49 +74,30 @@
         </item>
         
         <item>
+            <title><![CDATA[电子信息专业
+毕设想用前端做个  数据可视化
+（前端这方面没啥基础）
+学习时间大概需要多久啊]]></title>
+            <description><![CDATA[<br>电子信息专业<br>毕设想用前端做个  数据可视化<br>（前端这方面没啥基础）<br>学习时间大概需要多久啊<img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Frr0eYiXB7gnP0j1i9E8Dcvctufxv2.gif">]]></description>
+            <pubDate>Wed, 20 Oct 2021 07:30:42 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/616fc5a2deb48e00106b07e9</guid>
+            <link>https://m.okjike.com/originalPosts/616fc5a2deb48e00106b07e9</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[副组长离职了，留下一堆没有注释的屎山，记得之前我代码写注释还被打下来把注释删掉再提交，大家公司提交代码都会要求删注释吗？]]></title>
             <description><![CDATA[<br>副组长离职了，留下一堆没有注释的屎山，记得之前我代码写注释还被打下来把注释删掉再提交，大家公司提交代码都会要求删注释吗？]]></description>
             <pubDate>Tue, 19 Oct 2021 06:42:42 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/616e68e26d08df00105349b6</guid>
             <link>https://m.okjike.com/originalPosts/616e68e26d08df00105349b6</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[灵感来了，就差一个工程师了
-
-应该有一个 GitHub Action，用来做 Twitte 的数据可视化。
-
-这个 Action 有两个功能：
-
-1. 获取数据，并以特定的格式插入到 Github...]]></title>
-            <description><![CDATA[<br>灵感来了，就差一个工程师了<br><br>应该有一个 GitHub Action，用来做 Twitte 的数据可视化。<br><br>这个 Action 有两个功能：<br><br>1. 获取数据，并以特定的格式插入到 Github 仓库中。每天/每小时一个文件。<br><br>2. 可以自动将所有的文件合并，生成一个独立的文件，并更新到内容中。<br><br>然后附带一个可以可视化的页面。这样就可以实现无 DB 的 Twitter Follower 的分析了。]]></description>
-            <pubDate>Mon, 18 Oct 2021 12:53:02 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/616d6e2eb4587700100aed68</guid>
-            <link>https://m.okjike.com/originalPosts/616d6e2eb4587700100aed68</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[今天扒拉了 Anyway.fm 的官网前端代码，学到了很多很有意思的写法，惊呼 CSS 还能这么写！]]></title>
-            <description><![CDATA[<br>今天扒拉了 Anyway.fm 的官网前端代码，学到了很多很有意思的写法，惊呼 CSS 还能这么写！<br><picture><source srcset="https://cdn.jellow.site/FofZ0g_a0mHwYaYgBlYHGz80jYGav2.jpeg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FofZ0g_a0mHwYaYgBlYHGz80jYGav2.jpeg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FofZ0g_a0mHwYaYgBlYHGz80jYGav2.jpeg"></picture>]]></description>
-            <pubDate>Sun, 17 Oct 2021 15:18:20 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/616c3ebcd222ad00104d87de</guid>
-            <link>https://m.okjike.com/originalPosts/616c3ebcd222ad00104d87de</link>
             
             
             
