@@ -20,8 +20,82 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 28 Oct 2021 04:23:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 08:21:36 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[【Unity脏脚本编译工具】
+修改代码后，
+使用CTRL+T编译即可，
+比使用CTRL+R耗时少。
+
+使用此工具，
+可使编译脚本耗时从15秒减少到0.2秒，
+开放给所有Unity程序员...]]></title>
+            <description><![CDATA[<br>                    <img referrerpolicy="no-referrer" src="https://opengraph.githubassets.com/129c464ab9159fce5dce9691324967c34d13f29cbfec2d0e1a86ea398764158f/chenwansal/UnityDirtyCompiler"><br>                    <a href="https://github.com/chenwansal/UnityDirtyCompiler">GitHub - chenwansal/UnityDirtyCompiler</a><br>                <br>【Unity脏脚本编译工具】<br>修改代码后，<br>使用CTRL+T编译即可，<br>比使用CTRL+R耗时少。<br><br>使用此工具，<br>可使编译脚本耗时从15秒减少到0.2秒，<br>开放给所有Unity程序员使用。]]></description>
+            <pubDate>Thu, 28 Oct 2021 05:08:35 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/617a30536a651f0010e2248a</guid>
+            <link>https://m.okjike.com/originalPosts/617a30536a651f0010e2248a</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[把自用的一个用来挤压标点的中文标点符号字体做了整理发到了 GitHub 上，OFL 授权，欢迎随意取用~]]></title>
+            <description><![CDATA[<br>                    <img referrerpolicy="no-referrer" src="https://opengraph.githubassets.com/fad9927335f09815b75819259140df4355bda1668f90f3c4a6b3b56a80ef11bb/JJYing/compressed-punctuation-sans"><br>                    <a href="https://github.com/JJYing/compressed-punctuation-sans">GitHub - JJYing/compressed-punctuation-sans: 包含基础标点挤压效果的中文标点符号字体</a><br>                <br>把自用的一个用来挤压标点的中文标点符号字体做了整理发到了 GitHub 上，OFL 授权，欢迎随意取用~]]></description>
+            <pubDate>Thu, 28 Oct 2021 03:36:43 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/617a1acb338f77001002e7ec</guid>
+            <link>https://m.okjike.com/originalPosts/617a1acb338f77001002e7ec</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[[第214期]: Node服务中如何写日志？ & WebAssembly 能够快速执行的原因 & Jest 写前端单元测试入门教程
+
+1: Node服务中如何写日志？
+2: WebAssembly 能够快速执...]]></title>
+            <description><![CDATA[<br>                    <img referrerpolicy="no-referrer" src="https://cdn.jellow.site/icons/link.png"><br>                    <a href="https://mp.weixin.qq.com/s/k6-JefVcEkzNTda3V8fvEA">https://mp.weixin.qq.com/s/k6-JefVcEkzNTda3V8fvEA</a><br>                <br>[第214期]: Node服务中如何写日志？ & WebAssembly 能够快速执行的原因 & Jest 写前端单元测试入门教程<br><br>1: Node服务中如何写日志？<br>2: WebAssembly 能够快速执行的原因<br>3: 介绍一个比 Tailwind 快 100 倍的 CSS 框架以及对原子化的一些思考<br>4: Jest 写前端单元测试入门教程]]></description>
+            <pubDate>Thu, 28 Oct 2021 01:53:56 GMT</pubDate>
+            <guid isPermaLink="false">https://mp.weixin.qq.com/s/k6-JefVcEkzNTda3V8fvEA</guid>
+            <link>https://mp.weixin.qq.com/s/k6-JefVcEkzNTda3V8fvEA</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[写了挺久，算是给大家分享一些学习心得吧。]]></title>
+            <description><![CDATA[<br>                    <img referrerpolicy="no-referrer" src="http://mmbiz.qpic.cn/sz_mmbiz_jpg/FuPvZ5fBPT2Ob3HW4jKPCTd8EPxLvTbtzib2icOJ0TjfP2N0HfseiajIVicuZDaRa4MGzTV4EPgHzcM8RmNQ5ziacnw/0?wx_fmt=jpeg"><br>                    <a href="https://mp.weixin.qq.com/s/v_RAYml5_rH8Rc1C8ZL3wA">非科班读者问我计网学习路线</a><br>                <br>写了挺久，算是给大家分享一些学习心得吧。]]></description>
+            <pubDate>Wed, 27 Oct 2021 12:33:17 GMT</pubDate>
+            <guid isPermaLink="false">https://mp.weixin.qq.com/s/v_RAYml5_rH8Rc1C8ZL3wA</guid>
+            <link>https://mp.weixin.qq.com/s/v_RAYml5_rH8Rc1C8ZL3wA</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[“差生文具多”]]></title>
@@ -120,74 +194,6 @@ GitHub：https://github.com/brunosimon/my-room-in-3d
             <pubDate>Sun, 24 Oct 2021 14:07:56 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/617568bc60de5e0010ba5e20</guid>
             <link>https://m.okjike.com/originalPosts/617568bc60de5e0010ba5e20</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[今天越来越多的年轻人无法理解计算机及操作系统的基本工作原理。目录、文件夹甚至是文件等概念，似乎让在智能手机前长大的一代人感到迷茫而困惑。
-
-Solidot：htt...]]></title>
-            <description><![CDATA[<br>今天越来越多的年轻人无法理解计算机及操作系统的基本工作原理。目录、文件夹甚至是文件等概念，似乎让在智能手机前长大的一代人感到迷茫而困惑。<br><br>Solidot：https://www.solidot.org/story?sid=69042<br><br>GitHub上有一个公开的项目专注于讲授从操作系统到机器学习这些学院派的课程或主题。<br><br>GitHub地址：https://github.com/missing-semester-cn/missing-semester-cn.github.io<br><br>官网：https://missing-semester-cn.github.io/]]></description>
-            <pubDate>Sun, 17 Oct 2021 06:15:22 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/616bbf7aadec210010faa075</guid>
-            <link>https://m.okjike.com/originalPosts/616bbf7aadec210010faa075</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[wand算法的思想在于：竖着daat遍历文档时，如果一个文档的所有关键词的最大贡献值的累加和，依然小于阈值，就丢弃，从而加快搜索。wand算法在网上的资料不是很多...]]></title>
-            <description><![CDATA[<br>wand算法的思想在于：竖着daat遍历文档时，如果一个文档的所有关键词的最大贡献值的累加和，依然小于阈值，就丢弃，从而加快搜索。wand算法在网上的资料不是很多，这里推荐：https://wulc.me/2018/03/18/Wand%20%E7%AE%97%E6%B3%95%E4%BB%8B%E7%BB%8D%E4%B8%8E%E5%AE%9E%E7%8E%B0/]]></description>
-            <pubDate>Sat, 16 Oct 2021 10:01:36 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/616aa300d222ad00104d7e36</guid>
-            <link>https://m.okjike.com/originalPosts/616aa300d222ad00104d7e36</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[2014 年夏季，一个二年级小学生偶然间看到了父亲电脑屏幕上接连不断的代码，对这个陌生的界面，这些奇妙的字符深深吸引了。
-
-2015 年初，TA 给一台旧电脑装上了 ...]]></title>
-            <description><![CDATA[<br>2014 年夏季，一个二年级小学生偶然间看到了父亲电脑屏幕上接连不断的代码，对这个陌生的界面，这些奇妙的字符深深吸引了。<br><br>2015 年初，TA 给一台旧电脑装上了 Linux 系统，似乎是 Ubuntu，然后便入了门。很艰难，但还是坚持下来了。最开始学的是 C 语言，把各种数据结构全部自己动手实现了一下，感觉很有趣。<br><br>2017 年，TA 加入了 GitHub，并把自己的第一个项目放了上去。当时用的还是 这个账号。<br><br>不知什么时候，偶然间读了《乔布斯传》，很有感触，发奋立志要 Change the world!<br><br>2018 年初，TA 攒了钱，买了一台 iMac 21.5，用到现在，便入门了 iOS 开发。后来又因为各种原因，顺便学了学 Android，上架了自己的项目 —— Daily Notes (现在已经停止维护)。<br><br>2019 年，如今的 TA 去参加各项比赛了！NOIP、WWDC…… 尝试、挑战、收获、结交好友，充满希望。<br><br>Qt、Electron、Cocoa、Vue……Java、Swift、C/C++…… 无数框架、语言，无数项目、练习，无数次自学时找资料，有了经验…… 不知不觉，似乎 6 年已经过去了。你还记得当时的理想吗？你还差得很远呢，目前还只是个菜鸡呢，加油吧！<br><br>此外：<br><br>2018 年，不知道怎么，去学了学 PR、AE、C4D、PS、AI、DaVinci 之类的东西，想拍点什么，记录下点什么。我很疑惑，至今却一直没看见发布过什么，只是自娱自乐。<br><br>2020 年，突然对于文学很感兴趣，开始不断尝试与突破。<br><br>---<br><br>千古同学感叹：这位博主是2007年出生，从小接触编程，目前读初三。看似离我们很远，但又那么近。<br><br>---<br><br>https://blog.aeilot.top/about/<br><br>https://github.com/aeilot/HowToUseSearchEngines<br><picture><source srcset="https://cdn.jellow.site/FumM75SXVkX1WfNyZBXiUIEmOMhhv2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FumM75SXVkX1WfNyZBXiUIEmOMhhv2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FumM75SXVkX1WfNyZBXiUIEmOMhhv2.png"></picture><br><picture><source srcset="https://cdn.jellow.site/FsrDouzDckwmF0UT0_Mf-b1sFK0Wv2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FsrDouzDckwmF0UT0_Mf-b1sFK0Wv2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FsrDouzDckwmF0UT0_Mf-b1sFK0Wv2.png"></picture><br><picture><source srcset="https://cdn.jellow.site/Fq_QkPPI5Peryr-1k9vrE2c_-2A_v2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/Fq_QkPPI5Peryr-1k9vrE2c_-2A_v2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Fq_QkPPI5Peryr-1k9vrE2c_-2A_v2.png"></picture>]]></description>
-            <pubDate>Fri, 15 Oct 2021 01:34:53 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6168dabdd222ad00104d73d0</guid>
-            <link>https://m.okjike.com/originalPosts/6168dabdd222ad00104d73d0</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[在写Juicing系列的文章时我曾提过想做一个小而美的认知路径矩阵——「链接」不同行业里的人，筛选出在他们认知边界里「高质量」的信息输入路径和阅读到的最棒的...]]></title>
-            <description><![CDATA[<br>                    <img referrerpolicy="no-referrer" src="https://img.icons8.com/ios/250/000000/vegetarian-food.png"><br>                    <a href="https://juicing.today/">Juicing Today</a><br>                <br>在写Juicing系列的文章时我曾提过想做一个小而美的认知路径矩阵——「链接」不同行业里的人，筛选出在他们认知边界里「高质量」的信息输入路径和阅读到的最棒的作品——我想作为一个connector去尽力描绘出人类意识光谱之美。<br><br>于是我萌生出了做一个「线上杂志」的想法，每个工作日用真诚和真心推荐 2 篇深度文章或行业有趣的研究报告，每位策展师为ta推荐的内容写推荐语/评论，并且网站本身也支持读者投稿和策展——用一种共创的方式来做这个小项目。<br><br>我给这个产品取名叫「Juicing Today」，它的使命是营造充满意识之光的阅读空间站，让「看见⭐」和「连接☀」同时发生。<br><br>感谢@施言 的加入，提出了非常多关于阅读体验/内容标准的珍贵建议，他的阅读审美、好奇心、文字输出能力我非常欣赏，所以我们两个热爱内容行业就开始了这次的「佛系小小小小创业」之旅～🚀<br><br>0.9 版本 (https://juicing.today/) 已经准备好了，期待即友们的体验和反馈～]]></description>
-            <pubDate>Thu, 14 Oct 2021 13:54:07 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6168367f62e5f9001074a823</guid>
-            <link>https://m.okjike.com/originalPosts/6168367f62e5f9001074a823</link>
             
             
             
