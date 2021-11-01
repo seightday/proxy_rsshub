@@ -20,8 +20,40 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 01 Nov 2021 08:22:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 12:29:57 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[之前开发的vscode插件，footstep-mark，结合朋友的使用意见增加了跨文件标记的功能，实测好用😃]]></title>
+            <description><![CDATA[<br>                    <img referrerpolicy="no-referrer" src="https://chen-kai.gallerycdn.vsassets.io/extensions/chen-kai/footstep-mark/2.0.3/1635752491992/Microsoft.VisualStudio.Services.Icons.Default"><br>                    <a href="https://marketplace.visualstudio.com/items?itemName=chen-kai.footstep-mark&ssr=false#overview">footstep-mark - Visual Studio Marketplace</a><br>                <br>之前开发的vscode插件，footstep-mark，结合朋友的使用意见增加了跨文件标记的功能，实测好用😃]]></description>
+            <pubDate>Mon, 01 Nov 2021 09:39:15 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/617fb5c38127430010bb2e1b</guid>
+            <link>https://m.okjike.com/originalPosts/617fb5c38127430010bb2e1b</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[写了一个基于 vue 2.x、轻量级的代码交互组件，在网页中实时编辑运行代码、预览效果的代码交互组件 -- vue-code-view。]]></title>
+            <description><![CDATA[<br>                    <img referrerpolicy="no-referrer" src="http://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web/7abc2b532f725d394feaf0141547ade7.svg"><br>                    <a href="https://juejin.cn/post/7025270482496651301">掘金</a><br>                <br>写了一个基于 vue 2.x、轻量级的代码交互组件，在网页中实时编辑运行代码、预览效果的代码交互组件 -- vue-code-view。]]></description>
+            <pubDate>Mon, 01 Nov 2021 09:39:03 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/617fb5b7da781d00104129cf</guid>
+            <link>https://m.okjike.com/originalPosts/617fb5b7da781d00104129cf</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[iTab新标签页稳定版上线10天下载超四千。说实话，这个成绩已经超预期了。我原来只是给自己做的，因为浏览器默认起始页都不符合我的胃口。再加上以前我都是面向B...]]></title>
@@ -123,22 +155,6 @@ https://coolshell.cn/articles/11656.html]]></title>
         </item>
         
         <item>
-            <title><![CDATA[反复造轮子之：反复造取色器]]></title>
-            <description><![CDATA[<br>反复造轮子之：反复造取色器<br><picture><source srcset="https://cdn.jellow.site/FghlD2x5HHOmFh2hss9WeN3vMr7ov2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FghlD2x5HHOmFh2hss9WeN3vMr7ov2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FghlD2x5HHOmFh2hss9WeN3vMr7ov2.png"></picture>]]></description>
-            <pubDate>Thu, 28 Oct 2021 22:02:04 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/617b1ddc332c430010f69e7b</guid>
-            <link>https://m.okjike.com/originalPosts/617b1ddc332c430010f69e7b</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[中科院计算的老师们开源的免费计算机体系结构教科书。
 
 github 地址 : https://github.com/foxsen/archbase]]></title>
@@ -146,29 +162,6 @@ github 地址 : https://github.com/foxsen/archbase]]></title>
             <pubDate>Thu, 28 Oct 2021 06:59:34 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/617a4a566a651f0010e2250a</guid>
             <link>https://m.okjike.com/originalPosts/617a4a566a651f0010e2250a</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[【Unity脏脚本编译工具】
-修改代码后，
-使用CTRL+T编译即可，
-比使用CTRL+R耗时少。
-
-使用此工具，
-可使编译脚本耗时从15秒减少到0.2秒，
-开放给所有Unity程序员...]]></title>
-            <description><![CDATA[<br>                    <img referrerpolicy="no-referrer" src="https://opengraph.githubassets.com/129c464ab9159fce5dce9691324967c34d13f29cbfec2d0e1a86ea398764158f/chenwansal/UnityDirtyCompiler"><br>                    <a href="https://github.com/chenwansal/UnityDirtyCompiler">GitHub - chenwansal/UnityDirtyCompiler</a><br>                <br>【Unity脏脚本编译工具】<br>修改代码后，<br>使用CTRL+T编译即可，<br>比使用CTRL+R耗时少。<br><br>使用此工具，<br>可使编译脚本耗时从15秒减少到0.2秒，<br>开放给所有Unity程序员使用。]]></description>
-            <pubDate>Thu, 28 Oct 2021 05:08:35 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/617a30536a651f0010e2248a</guid>
-            <link>https://m.okjike.com/originalPosts/617a30536a651f0010e2248a</link>
             
             
             
