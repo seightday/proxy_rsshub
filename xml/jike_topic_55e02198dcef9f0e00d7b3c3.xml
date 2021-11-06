@@ -20,8 +20,26 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sat, 06 Nov 2021 04:23:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Nov 2021 08:21:10 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[GitHub找到一个无聊工具。。。
+小红书运营必备了！
+https://kingcos.me/jjz/index.html]]></title>
+            <description><![CDATA[<br>GitHub找到一个无聊工具。。。<br>小红书运营必备了！<br>https://kingcos.me/jjz/index.html<br><picture><source srcset="https://cdn.jellow.site/FgtTL__E_5Pc3mlJyPv0rvxE6DvSv2.jpeg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FgtTL__E_5Pc3mlJyPv0rvxE6DvSv2.jpeg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FgtTL__E_5Pc3mlJyPv0rvxE6DvSv2.jpeg"></picture>]]></description>
+            <pubDate>Sat, 06 Nov 2021 03:16:52 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6185f3a413bf570010b62be7</guid>
+            <link>https://m.okjike.com/originalPosts/6185f3a413bf570010b62be7</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[秋招时拿到了 BAT 和其他一二线互联网公司的 offer，然后有读者让我写一下面试心得，所以用心写了这篇文章，应该对正在准备秋招的学弟学妹们有一些帮助，可以收...]]></title>
@@ -61,24 +79,6 @@
             <pubDate>Wed, 03 Nov 2021 14:25:07 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/61829bc313bf570010b61996</guid>
             <link>https://m.okjike.com/originalPosts/61829bc313bf570010b61996</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[😤 最近和一个即将离职的同事交接项目，但看了代码我就觉得写代码这件事情真的是需要时刻精进的技能。因为项目组里大部分人在写代码的过程中：
-
-1. 没有相应的...]]></title>
-            <description><![CDATA[<br>😤 最近和一个即将离职的同事交接项目，但看了代码我就觉得写代码这件事情真的是需要时刻精进的技能。因为项目组里大部分人在写代码的过程中：<br><br>1. 没有相应的注释或文档。<br><br>虽然我知道有写注释和不写注释两种类型的程序员，考虑到英语不是第一语言以及面向KPI编程的大背景下，如果代码不能做到见名知意，那么有注释对协作的同事或者后来交接的人都有好处。<br><br>尤其是当碰上用像 Python 这类动态语言的时候，如果队友不写 Type Hints 真的只能靠注释或文档来救命了。<br><br>然而组里目前似乎只有我是坚持写注释和文档。<br><br>2. 没有基本的抽象思维方式，不清楚基本的K.I.S.S原则，没有分层意识。<br><br>目前大部分编程语言都具备 OOP 特性，且不说 OOP 是否真的是个最优解，单从代码里一个又一个的共用多个变量，功能又高度类似的函数来说，难道不应该以封装的做法将它们包到一起吗？<br><br>一个函数（或方法）里能写超过 20 行以上的代码，并且伴随多个 return，难道不应该按照 K.I.S.S 原则将它拆成至少几个功能单一的函数（或方法）吗？至少我在排错的时候能清楚知道是哪个部分出了问题，而不是在一堆 try-exception、loop、if-else混杂的超级代码中「上蹿下跳」<br><br>一个代码文件混杂了功能各异的函数或方法，最好的做法难道不是应该尽可能将它简单拆分以便引用吗？虽然像Java 那样什么 Controller、Dto、Service……分层有点过于复杂化了，但至少简单的合并同类项大家都能做到吧？某种程度上来说 Java 在这方面做的比较好（当然很有可能让小项目就变成了庞然大物）<br><br>3. 不会做基本的代码格式化和 lint check。<br><br>机器不会管你代码缩进用的 tab 还是空格，不管你行尾还是折行使用代码块，但要意识到代码最终是给人读的，不是给机器读的！<br><br>现在开发用的 IDE 本身就集成很多功能了，当然也包括代码格式化和 lint 检查。<br><br>用 Pycharm 打开代码一堆标黄的 warning，我属实不知道这堆屎山哪天会暴雷，虽然不说要求遵循 PEP8 的代码规范或用 autopep8、yapf、black 之类工具，但连 Pycharm 自带的格式化快捷键都不用就属实让人知道这代码的质量有多差。<br><br>内置的 lint 检查发现一堆 unused variables、import 包却也没使用，注释一大段代码也不知道到底在生产有没有任何用处，让人完全没有想使用的欲望，更不用说出问题时还要读源码、对源码 Debug 了。<br><br>4. 连描述一个项目哪怕一个事情从头到尾流程的能力都不具备。<br><br>交接的时候我完全不知道对方在说什么，说了代码在哪台服务器上、如何启动、用的哪个库等等……但这都不是交接真正重要的地方。<br><br>不管是写的代码还是项目，最核心最本质的东西还是过程或逻辑，即：<br><br>a. 背景。这个项目的背景是什么？要做什么？中间我们组（或交接的这部分代码）作用在了哪些环节？<br>b. 代码的逻辑。如何设计的？如何从无到有最后产生预期的数据或结果？<br>c. 项目中需要注意的地方或是坑有哪些。在没交接之前会经常碰上哪些问题？业务逻辑或是计算逻辑在当中有变更？哪些是需要后续优化的？<br><br>……<br><br>还有太多太多没有列举出来的问题了，然而这就是我们组薪资高达 15k 及以上的人的综合素质水平。看到这里，不知道看到那些觉得自己好像很菜的朋友们是不是觉得又行了？<br><br>所以，大家永远不要低估自己的水平，因为很有可能有的人水平就是连及格线都没到，却拿着比自己还高的薪资，但你不知道这些人能差到什么地步。<br><br>愿大家能做个有追求的程序员，尽量让自己的代码在自己的职业生涯中能有个体面的样子，不论是给后续接手的人看，还是实实在在的能支撑起业务需要，至少不会被后人指着脊梁骨骂娘。]]></description>
-            <pubDate>Wed, 03 Nov 2021 11:44:12 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6182760c13bf570010b6182d</guid>
-            <link>https://m.okjike.com/originalPosts/6182760c13bf570010b6182d</link>
             
             
             
