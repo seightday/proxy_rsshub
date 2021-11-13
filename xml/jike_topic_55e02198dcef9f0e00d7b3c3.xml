@@ -20,8 +20,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sat, 13 Nov 2021 04:24:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Nov 2021 08:21:11 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[研究了一晚上的nginx配置，ssl证书配置成功，网页404了，搞了半天，404没了，现在是502，我人没了😢]]></title>
+            <description><![CDATA[<br>研究了一晚上的nginx配置，ssl证书配置成功，网页404了，搞了半天，404没了，现在是502，我人没了😢<br><picture><source srcset="https://cdn.jellow.site/FqagftN0GH-3FLkpFC58LQT4thXjv2.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FqagftN0GH-3FLkpFC58LQT4thXjv2.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FqagftN0GH-3FLkpFC58LQT4thXjv2.jpg"></picture>]]></description>
+            <pubDate>Fri, 12 Nov 2021 15:45:02 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/618e8bfe3ab8520010a95145</guid>
+            <link>https://m.okjike.com/originalPosts/618e8bfe3ab8520010a95145</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[“云中爱马仕，除了贵，没毛病；除了贵，还是贵；最大特点就是贵……”
@@ -66,24 +82,6 @@ awesome]]></title>
             <pubDate>Thu, 11 Nov 2021 10:19:36 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/618cee380d0ad0001082cf20</guid>
             <link>https://m.okjike.com/originalPosts/618cee380d0ad0001082cf20</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[【对注释的认知】
-
-很多人认为：代码注释是多余的。他们的理由是：如果注释太多，说明代码写得不清晰；而且，代码更新的同时，如果注释没更新，那段注释就成了磁...]]></title>
-            <description><![CDATA[<br>【对注释的认知】<br><br>很多人认为：代码注释是多余的。他们的理由是：如果注释太多，说明代码写得不清晰；而且，代码更新的同时，如果注释没更新，那段注释就成了磁盘上的垃圾，误导他人。<br><br>还有人认为：注释应该尽可能详细，要像写小作文一样。<br><br>上面这样的理由，都不具有说服力。我告诉你为什么要写注释：<br><br>1. 所有注释都是必要的吗？当然不是。注释不应该用来解释某些代码正在做什么。如果代码无法清楚到去解释自己时，那么代码需要变得更简单。有一些例外，比如正则表达式和复杂算法通常会从解释他们正在做什么事情的注释中获益很多。<br><br>2. 注释用于解释为什么某些代码存在时很有用。大多数注释都是针对代码本身无法包含的信息，例如决策背后的推理、业务流程、业务逻辑、注意事项、防踩坑指南、参考链接。<br><br>3. 注释即文档，需要持续更新维护，新陈代谢。文档也会过期，但不能因噎废食。即便文档过期，至少它记载了曾经的开发记录。<br><br>---<br><br>推荐阅读：<br><br>- 开发者代码审查review指南：https://jimmysong.io/eng-practices/docs/review/]]></description>
-            <pubDate>Thu, 11 Nov 2021 09:45:56 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/618ce6540d0ad0001082cedb</guid>
-            <link>https://m.okjike.com/originalPosts/618ce6540d0ad0001082cedb</link>
             
             
             
