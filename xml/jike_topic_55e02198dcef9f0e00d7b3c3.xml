@@ -20,8 +20,27 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sun, 21 Nov 2021 16:27:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Nov 2021 20:19:07 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[最近想整整博客，自己动手写了点，意外发现了俩不错的平台分享分享：
+
+基于GraphQL 的 Headless CMS（https://graphcms.com），有了这玩意 CURD 还要啥后端🌚
+...]]></title>
+            <description><![CDATA[<br>最近想整整博客，自己动手写了点，意外发现了俩不错的平台分享分享：<br><br>基于GraphQL 的 Headless CMS（https://graphcms.com），有了这玩意 CURD 还要啥后端🌚<br><br>这次用了 next.is 写前端就顺便试了下 Vercel（https://vercel.com），非商业免费 + 自动 CICD + 自定义域名 + 自动 SSL + 自带 CDN，还要啥自行车🌚<br><br>现在的新手村真是足够友好，改天准备把从画原型到写代码到上线部署的过程录个视频🤣<br><picture><source srcset="https://cdn.jellow.site/FqAjlTX2IdZW56AikgD_IJCxlKG4v2.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FqAjlTX2IdZW56AikgD_IJCxlKG4v2.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FqAjlTX2IdZW56AikgD_IJCxlKG4v2.jpg"></picture>]]></description>
+            <pubDate>Sun, 21 Nov 2021 05:57:08 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6199dfb434e86d001052579d</guid>
+            <link>https://m.okjike.com/originalPosts/6199dfb434e86d001052579d</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[下午接到一个骗子电话 🤣准备陪他玩玩，说是阿里巴巴支付宝的，要把我的借呗信息从学生改为社会。
@@ -101,24 +120,6 @@
             <pubDate>Thu, 18 Nov 2021 11:04:44 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6196334cfb207f0010272ee9</guid>
             <link>https://m.okjike.com/originalPosts/6196334cfb207f0010272ee9</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[榕哥真绝了，搞了个监听卸载事件的bug，导致用户卸载什么插件都会弹出我们的调查问卷页面。
-用户：有病吧怎么哪儿都有你？
-然后我把这条反馈截图发给了榕哥逼迫...]]></title>
-            <description><![CDATA[<br>榕哥真绝了，搞了个监听卸载事件的bug，导致用户卸载什么插件都会弹出我们的调查问卷页面。<br>用户：有病吧怎么哪儿都有你？<br>然后我把这条反馈截图发给了榕哥逼迫他作为电脑锁屏一周。<br><picture><source srcset="https://cdn.jellow.site/FrjhnS6tpqYiD2JkwXKuXFMowISTv2?imageMogr2/auto-orient/heic-exif/1/format/jpeg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FrjhnS6tpqYiD2JkwXKuXFMowISTv2?imageMogr2/auto-orient/heic-exif/1/format/jpeg/" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FrjhnS6tpqYiD2JkwXKuXFMowISTv2?imageMogr2/auto-orient/heic-exif/1/format/jpeg/"></picture>]]></description>
-            <pubDate>Thu, 18 Nov 2021 03:48:52 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6195cd24ce61710010e0368d</guid>
-            <link>https://m.okjike.com/originalPosts/6195cd24ce61710010e0368d</link>
             
             
             
