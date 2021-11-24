@@ -20,7 +20,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 24 Nov 2021 16:29:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 20:19:36 GMT</lastBuildDate>
         <ttl>1</ttl>
         
         <item>
@@ -56,6 +56,22 @@
         </item>
         
         <item>
+            <title><![CDATA[笑死，某博上各路大佬秀自己的内存，从64g加到126g🐶而我，只有8g*2（不敢声张]]></title>
+            <description><![CDATA[<br>笑死，某博上各路大佬秀自己的内存，从64g加到126g🐶而我，只有8g*2（不敢声张]]></description>
+            <pubDate>Mon, 22 Nov 2021 16:35:00 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/619bc6b4a450ce00108b3cec</guid>
+            <link>https://m.okjike.com/originalPosts/619bc6b4a450ce00108b3cec</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[为什么做iTab新标签页？
 其实iTab在一年前就上线了，不过那时候叫Lingo起始页（取我女朋友的名字，现在是老婆)。当时做起始页的动机，一是工作不饱和，二是给简...]]></title>
             <description><![CDATA[<br>为什么做iTab新标签页？<br>其实iTab在一年前就上线了，不过那时候叫Lingo起始页（取我女朋友的名字，现在是老婆)。当时做起始页的动机，一是工作不饱和，二是给简历攒作品。但Lingo 起始页只是一个传统导航页，没有多少亮点可言，连我自己都不喜欢。所以上线没做推广和维护，用户只有6个。<br><br>在Lingo上线后就一直琢磨怎么升级产品，我其实很想做卡片式的图标导航，但一想到要改底层，就暂时性放弃。<br><br>转眼间2021年过去一半，审视自己过去做任何事情都是玩家心态，只凭激情，激情过后很难持续。因此我强迫自己捡起去年一个开源视频播放器项目，没日没夜地开发了两个星期，基于vue3重构了这个视频播放器，发布到npm上。意外收到了不少好评和star，这给了我很大的信心。<br><br>这个小项目结束后我就趁热打铁开发这个卡片式导航页。当时想着这个产品功能简单，也许半个月就能完成。但随着功能开发逐渐深入，我的想法越来越多，开发周期越来越长。甚至到尾声时又有新的想法，却没有预留这些功能的接入地方，就又推倒重写。如此反反复复，我投入的精力像滚雪球一样越滚越多。投入越多，就越想把他它做的更好。例如一些不起眼的细节，iTab标签页侧边栏的背景色会随着壁纸图片颜色变化，并不是简单的半透明毛玻璃效果。<br><br>最终到这个产品上线时已经过去两个月了。(每天下班做到12点，周末每天投入在14个小时以上，每天如此，雷打不动地搞了两个月，头发长的都能绑起来了)，目测超过400个小时。<br><br>好在这个产品上线后赢得了很多人的喜爱。我也由曾经的玩家心态，转变成踏踏实实做产品的心态。做出让自己骄傲，让大家觉得好用的产品。<br><picture><source srcset="https://cdn.jellow.site/Fgu3zWxI27BDMetbcPE9cFrpLyznv2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/Fgu3zWxI27BDMetbcPE9cFrpLyznv2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Fgu3zWxI27BDMetbcPE9cFrpLyznv2.png"></picture>]]></description>
@@ -78,25 +94,6 @@
             <pubDate>Mon, 22 Nov 2021 05:21:03 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/619b28bfa63c1e0011f1476b</guid>
             <link>https://m.okjike.com/originalPosts/619b28bfa63c1e0011f1476b</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[最近想整整博客，自己动手写了点，意外发现了俩不错的平台分享分享：
-
-基于GraphQL 的 Headless CMS（https://graphcms.com），有了这玩意 CURD 还要啥后端🌚
-...]]></title>
-            <description><![CDATA[<br>最近想整整博客，自己动手写了点，意外发现了俩不错的平台分享分享：<br><br>基于GraphQL 的 Headless CMS（https://graphcms.com），有了这玩意 CURD 还要啥后端🌚<br><br>这次用了 next.is 写前端就顺便试了下 Vercel（https://vercel.com），非商业免费 + 自动 CICD + 自定义域名 + 自动 SSL + 自带 CDN，还要啥自行车🌚<br><br>现在的新手村真是足够友好，改天准备把从画原型到写代码到上线部署的过程录个视频🤣<br><picture><source srcset="https://cdn.jellow.site/FqAjlTX2IdZW56AikgD_IJCxlKG4v2.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FqAjlTX2IdZW56AikgD_IJCxlKG4v2.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FqAjlTX2IdZW56AikgD_IJCxlKG4v2.jpg"></picture>]]></description>
-            <pubDate>Sun, 21 Nov 2021 05:57:08 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6199dfb434e86d001052579d</guid>
-            <link>https://m.okjike.com/originalPosts/6199dfb434e86d001052579d</link>
             
             
             
