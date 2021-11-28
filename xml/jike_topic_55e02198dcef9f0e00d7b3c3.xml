@@ -20,8 +20,42 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sun, 28 Nov 2021 08:21:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Nov 2021 12:28:08 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[好了，前端同事在服务器执行了rm -rf /]]></title>
+            <description><![CDATA[<br>好了，前端同事在服务器执行了rm -rf /]]></description>
+            <pubDate>Sun, 28 Nov 2021 08:11:06 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/61a3399a15d73e0010db2e1d</guid>
+            <link>https://m.okjike.com/originalPosts/61a3399a15d73e0010db2e1d</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[开源使我快乐！从8月21日起还没断过🤣
+
+开源方向：前端Vue相关工具和组件库]]></title>
+            <description><![CDATA[<br>开源使我快乐！从8月21日起还没断过🤣<br><br>开源方向：前端Vue相关工具和组件库<br><picture><source srcset="https://cdn.jellow.site/Fj75Hf8QXY8a_qXnl1g06MX4QV5dv2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/Fj75Hf8QXY8a_qXnl1g06MX4QV5dv2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Fj75Hf8QXY8a_qXnl1g06MX4QV5dv2.png"></picture><br><picture><source srcset="https://cdn.jellow.site/FiFhTW-3X8web_WCHPCQ4bR2ODjNv2.gif?imageMogr2/auto-orient/format/jpeg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FiFhTW-3X8web_WCHPCQ4bR2ODjNv2.gif" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FiFhTW-3X8web_WCHPCQ4bR2ODjNv2.gif"></picture>]]></description>
+            <pubDate>Sat, 27 Nov 2021 16:36:58 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/61a25eaa1886830011d078fe</guid>
+            <link>https://m.okjike.com/originalPosts/61a25eaa1886830011d078fe</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[手贱升级了一下typora]]></title>
@@ -85,39 +119,6 @@
             <pubDate>Fri, 26 Nov 2021 06:18:24 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/61a07c30ba8a900010d5ddeb</guid>
             <link>https://m.okjike.com/originalPosts/61a07c30ba8a900010d5ddeb</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[数据库之月的收尾工作，把牛客的进阶SQL刷了一遍。我觉得所有有SQL基础的朋友都可以了解一下，难度应该是刚好适中。也不是为了卷，刷完可能会提升新手SQL玩家对S...]]></title>
-            <description><![CDATA[<br>数据库之月的收尾工作，把牛客的进阶SQL刷了一遍。我觉得所有有SQL基础的朋友都可以了解一下，难度应该是刚好适中。也不是为了卷，刷完可能会提升新手SQL玩家对SQL的了解。<br>不过这个难度曲线不友好，前后都简单，反而是中间的题最难。<br><picture><source srcset="https://cdn.jellow.site/Fv40hnqlOOMCLV4AP607ZQbYh1bNv2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/Fv40hnqlOOMCLV4AP607ZQbYh1bNv2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Fv40hnqlOOMCLV4AP607ZQbYh1bNv2.png"></picture>]]></description>
-            <pubDate>Thu, 25 Nov 2021 06:22:00 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/619f2b887ce1b80010db4360</guid>
-            <link>https://m.okjike.com/originalPosts/619f2b887ce1b80010db4360</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[为什么做iTab新标签页？
-其实iTab在一年前就上线了，不过那时候叫Lingo起始页（取我女朋友的名字，现在是老婆)。当时做起始页的动机，一是工作不饱和，二是给简...]]></title>
-            <description><![CDATA[<br>为什么做iTab新标签页？<br>其实iTab在一年前就上线了，不过那时候叫Lingo起始页（取我女朋友的名字，现在是老婆)。当时做起始页的动机，一是工作不饱和，二是给简历攒作品。但Lingo 起始页只是一个传统导航页，没有多少亮点可言，连我自己都不喜欢。所以上线没做推广和维护，用户只有6个。<br><br>在Lingo上线后就一直琢磨怎么升级产品，我其实很想做卡片式的图标导航，但一想到要改底层，就暂时性放弃。<br><br>转眼间2021年过去一半，审视自己过去做任何事情都是玩家心态，只凭激情，激情过后很难持续。因此我强迫自己捡起去年一个开源视频播放器项目，没日没夜地开发了两个星期，基于vue3重构了这个视频播放器，发布到npm上。意外收到了不少好评和star，这给了我很大的信心。<br><br>这个小项目结束后我就趁热打铁开发这个卡片式导航页。当时想着这个产品功能简单，也许半个月就能完成。但随着功能开发逐渐深入，我的想法越来越多，开发周期越来越长。甚至到尾声时又有新的想法，却没有预留这些功能的接入地方，就又推倒重写。如此反反复复，我投入的精力像滚雪球一样越滚越多。投入越多，就越想把他它做的更好。例如一些不起眼的细节，iTab标签页侧边栏的背景色会随着壁纸图片颜色变化，并不是简单的半透明毛玻璃效果。<br><br>最终到这个产品上线时已经过去两个月了。(每天下班做到12点，周末每天投入在14个小时以上，每天如此，雷打不动地搞了两个月，头发长的都能绑起来了)，目测超过400个小时。<br><br>好在这个产品上线后赢得了很多人的喜爱。我也由曾经的玩家心态，转变成踏踏实实做产品的心态。做出让自己骄傲，让大家觉得好用的产品。<br><picture><source srcset="https://cdn.jellow.site/Fgu3zWxI27BDMetbcPE9cFrpLyznv2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/Fgu3zWxI27BDMetbcPE9cFrpLyznv2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Fgu3zWxI27BDMetbcPE9cFrpLyznv2.png"></picture>]]></description>
-            <pubDate>Mon, 22 Nov 2021 14:25:33 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/619ba85dda64160010e56738</guid>
-            <link>https://m.okjike.com/originalPosts/619ba85dda64160010e56738</link>
             
             
             
