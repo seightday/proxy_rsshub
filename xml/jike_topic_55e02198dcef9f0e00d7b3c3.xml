@@ -20,16 +20,17 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 07 Dec 2021 12:32:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Dec 2021 16:30:51 GMT</lastBuildDate>
         <ttl>1</ttl>
         
         <item>
-            <title><![CDATA[有一瞬间觉得，做程序猿好难。
-以前有一个项目，我代码都没看过，突然老板要我一下午做八个功能，我一分钟不耽搁，赶完了。快下班的时候，同事又提出十几处新增...]]></title>
-            <description><![CDATA[<br>有一瞬间觉得，做程序猿好难。<br>以前有一个项目，我代码都没看过，突然老板要我一下午做八个功能，我一分钟不耽搁，赶完了。快下班的时候，同事又提出十几处新增加的功能。当时我提意见，说这么赶可能会出无法解决的bug，人家不管，要我照做。<br>当时我加班到9点，自己点几下功能都能实现了，就火速上线了。<br>后面还真出了问题，后面检查不是我的错，后端传值有时传数字，有时传字符串。<br>当时我不知道是这个问题，也没反驳。最后老板有啥事都推到我身上。还在开会的时候当着所有人的面批评我。<br>当时我tm就不想干了，时刻精神紧绷，时刻担心失业。<br>加上当时老板又要我开工一个项目，一看搞灰色产业。<br>我真的不肯干了，辞职走人！]]></description>
-            <pubDate>Mon, 06 Dec 2021 12:12:55 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/61adfe471c8f07001155e0a4</guid>
-            <link>https://m.okjike.com/originalPosts/61adfe471c8f07001155e0a4</link>
+            <title><![CDATA[Zinc是一个全文索引搜索引擎。
+
+它是轻量级的，可以替代es，运行的RAM小于100MB。Zinc具有用于安装和运行的单个二进制文件、用于查询数据的Web用户界面、与es AP...]]></title>
+            <description><![CDATA[<br>                    <img referrerpolicy="no-referrer" src="https://opengraph.githubassets.com/ea4c29b3bc4c91dbfce134d4fb2f6082146fd72ca50fcd5a4e4bcd14d6b293bc/prabhatsharma/zinc"><br>                    <a href="https://github.com/prabhatsharma/zinc">GitHub - prabhatsharma/zinc: Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.</a><br>                <br>Zinc是一个全文索引搜索引擎。<br><br>它是轻量级的，可以替代es，运行的RAM小于100MB。Zinc具有用于安装和运行的单个二进制文件、用于查询数据的Web用户界面、与es API的兼容性。]]></description>
+            <pubDate>Tue, 07 Dec 2021 09:08:26 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/61af248afdd3be001194cb65</guid>
+            <link>https://m.okjike.com/originalPosts/61af248afdd3be001194cb65</link>
             
             
             
