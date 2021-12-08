@@ -20,7 +20,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 08 Dec 2021 04:25:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 08:23:13 GMT</lastBuildDate>
         <ttl>1</ttl>
         
         <item>
@@ -31,6 +31,23 @@
             <pubDate>Tue, 07 Dec 2021 09:08:26 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/61af248afdd3be001194cb65</guid>
             <link>https://m.okjike.com/originalPosts/61af248afdd3be001194cb65</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[有一瞬间觉得，做程序猿好难。
+以前有一个项目，我代码都没看过，突然老板要我一下午做八个功能，我一分钟不耽搁，赶完了。快下班的时候，同事又提出十几处新增...]]></title>
+            <description><![CDATA[<br>有一瞬间觉得，做程序猿好难。<br>以前有一个项目，我代码都没看过，突然老板要我一下午做八个功能，我一分钟不耽搁，赶完了。快下班的时候，同事又提出十几处新增加的功能。当时我提意见，说这么赶可能会出无法解决的bug，人家不管，要我照做。<br>当时我加班到9点，自己点几下功能都能实现了，就火速上线了。<br>后面还真出了问题，后面检查不是我的错，后端传值有时传数字，有时传字符串。<br>当时我不知道是这个问题，也没反驳。最后老板有啥事都推到我身上。还在开会的时候当着所有人的面批评我。<br>当时我tm就不想干了，时刻精神紧绷，时刻担心失业。<br>加上当时老板又要我开工一个项目，一看搞灰色产业。<br>我真的不肯干了，辞职走人！]]></description>
+            <pubDate>Mon, 06 Dec 2021 12:12:55 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/61adfe471c8f07001155e0a4</guid>
+            <link>https://m.okjike.com/originalPosts/61adfe471c8f07001155e0a4</link>
             
             
             
@@ -85,22 +102,6 @@ https://github.com/nanmu42/orly
             <pubDate>Sun, 05 Dec 2021 18:07:52 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/61acfff8d5c7e60010662602</guid>
             <link>https://m.okjike.com/originalPosts/61acfff8d5c7e60010662602</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[类 Notion 的开源项目 appflowy 已经 10.8k 了，开发者有点厉害哦，后端是 rust，前端虽然说是 flutter，但组件全是用 rust 写的，可以算是 rust 全栈了，牛啊。]]></title>
-            <description><![CDATA[<br>类 Notion 的开源项目 appflowy 已经 10.8k 了，开发者有点厉害哦，后端是 rust，前端虽然说是 flutter，但组件全是用 rust 写的，可以算是 rust 全栈了，牛啊。]]></description>
-            <pubDate>Sun, 05 Dec 2021 15:40:21 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/61acdd6553c4a40010bd901c</guid>
-            <link>https://m.okjike.com/originalPosts/61acdd6553c4a40010bd901c</link>
             
             
             
