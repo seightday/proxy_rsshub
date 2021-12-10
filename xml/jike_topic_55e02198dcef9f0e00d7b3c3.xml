@@ -20,8 +20,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Fri, 10 Dec 2021 08:22:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 12:30:24 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[Github 推出了新的产品 Code Search，https://cs.github.com/about ，从此在 Github 的工作就不仅仅是 Copy & Paste 了，还有 Search :-)]]></title>
+            <description><![CDATA[<br>Github 推出了新的产品 Code Search，https://cs.github.com/about ，从此在 Github 的工作就不仅仅是 Copy & Paste 了，还有 Search :-)<br><picture><source srcset="https://cdn.jellow.site/FvBnPY-3Q7WwnScT4ivxggqE-Qx1v2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FvBnPY-3Q7WwnScT4ivxggqE-Qx1v2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FvBnPY-3Q7WwnScT4ivxggqE-Qx1v2.png"></picture>]]></description>
+            <pubDate>Fri, 10 Dec 2021 08:23:19 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/61b30e775466fb00111d6a14</guid>
+            <link>https://m.okjike.com/originalPosts/61b30e775466fb00111d6a14</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[各位吴彦祖，请问程序员一般喜欢公司发的什么礼物？（价值不超过RMB100）]]></title>
@@ -56,12 +72,13 @@
         </item>
         
         <item>
-            <title><![CDATA[写前端时，虽然某种写法能满足当时的需求，但当文字过长、图片比例不正确时，就可能出现问题。
-这篇文章介绍了各种场景下，用什么样的CSS写法最能满足未来的需求...]]></title>
-            <description><![CDATA[<br>                    <img referrerpolicy="no-referrer" src="https://ishadeed.com/assets/defensive-css/twitter-card.jpg"><br>                    <a href="https://ishadeed.com/article/defensive-css/">Defensive CSS - Ahmad Shadeed</a><br>                <br>写前端时，虽然某种写法能满足当时的需求，但当文字过长、图片比例不正确时，就可能出现问题。<br>这篇文章介绍了各种场景下，用什么样的CSS写法最能满足未来的需求，最不容易出现奇怪的样式问题。]]></description>
-            <pubDate>Thu, 09 Dec 2021 07:40:19 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/61b1b2e3019de60010c3cef4</guid>
-            <link>https://m.okjike.com/originalPosts/61b1b2e3019de60010c3cef4</link>
+            <title><![CDATA[没人吐槽过git其实很难用吗？
+网页打开gitlab自动就是最新的版本，但命令行不行，要先pull
+commit历史、分支管理、冲突管理这些最适合用图形化来表示的东西，反...]]></title>
+            <description><![CDATA[<br>没人吐槽过git其实很难用吗？<br>网页打开gitlab自动就是最新的版本，但命令行不行，要先pull<br>commit历史、分支管理、冲突管理这些最适合用图形化来表示的东西，反而是用命令行来操作<br>有没有那种图形化操作git，不用记命令，直接拖动的？]]></description>
+            <pubDate>Thu, 09 Dec 2021 02:54:56 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/61b17000c355aa00109057ec</guid>
+            <link>https://m.okjike.com/originalPosts/61b17000c355aa00109057ec</link>
             
             
             
@@ -168,22 +185,6 @@ https://github.com/nanmu42/orly
             <pubDate>Mon, 01 Nov 2021 09:39:03 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/617fb5b7da781d00104129cf</guid>
             <link>https://m.okjike.com/originalPosts/617fb5b7da781d00104129cf</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[iTab新标签页稳定版上线10天下载超四千。说实话，这个成绩已经超预期了。我原来只是给自己做的，因为浏览器默认起始页都不符合我的胃口。再加上以前我都是面向B...]]></title>
-            <description><![CDATA[<br>iTab新标签页稳定版上线10天下载超四千。说实话，这个成绩已经超预期了。我原来只是给自己做的，因为浏览器默认起始页都不符合我的胃口。再加上以前我都是面向B端开发，所以这个C端处女作受到这么多人喜欢，让我充满了继续开发的动力，管他赚不赚钱，喜欢就干！赏析地址👉https://itab.link/<br><br>贴一段产品特色：<br>1. iOS式小组件卡片设计 <br>2. 简洁优美无广告 <br>3. 极简模式 <br>4. 自定义网站图标样式和布局<br>5. 自定义常用搜索引擎 <br>6. 自定义搜索栏和时间样式 <br>7. 自定义常用网站分组<br>8. 自定义壁纸和效果<br>9. 深色浅色模式<br>10. 内置精美天气/书签/万年历/备忘录/壁纸/一言/IP查询/每日热点等原创应用<br>11. 内置快捷翻译功能<br>12. 第三方账号登录系统和云存储<br>13. 多语言版本和更多应用（开发中）<br><picture><source srcset="https://cdn.jellow.site/lkP0t-S8nUNb05bFZPFFWTRlUsOOv2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/lkP0t-S8nUNb05bFZPFFWTRlUsOOv2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/lkP0t-S8nUNb05bFZPFFWTRlUsOOv2.png"></picture><br><picture><source srcset="https://cdn.jellow.site/Fj8Ac2yBELETlIcY1Sj25DYuu-Tev2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/Fj8Ac2yBELETlIcY1Sj25DYuu-Tev2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Fj8Ac2yBELETlIcY1Sj25DYuu-Tev2.png"></picture><br><picture><source srcset="https://cdn.jellow.site/Fm00XPBv-27PIX6eFjw8K-rfV7MHv2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/Fm00XPBv-27PIX6eFjw8K-rfV7MHv2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Fm00XPBv-27PIX6eFjw8K-rfV7MHv2.png"></picture><br><picture><source srcset="https://cdn.jellow.site/FoPdcc5KHOD73r4h8d4-yKSiO2IXv2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FoPdcc5KHOD73r4h8d4-yKSiO2IXv2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FoPdcc5KHOD73r4h8d4-yKSiO2IXv2.png"></picture><br><picture><source srcset="https://cdn.jellow.site/Fi_LLDPGoZk1bsa3XHmeMEcawAKQv2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/Fi_LLDPGoZk1bsa3XHmeMEcawAKQv2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Fi_LLDPGoZk1bsa3XHmeMEcawAKQv2.png"></picture><br><picture><source srcset="https://cdn.jellow.site/Fup-TN3MmmAL1HkkcoHcCGi6jX_sv2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/Fup-TN3MmmAL1HkkcoHcCGi6jX_sv2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Fup-TN3MmmAL1HkkcoHcCGi6jX_sv2.png"></picture><br><picture><source srcset="https://cdn.jellow.site/FsWGt4f5q69KTrWTis8NMHGfhbauv2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FsWGt4f5q69KTrWTis8NMHGfhbauv2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FsWGt4f5q69KTrWTis8NMHGfhbauv2.png"></picture><br><picture><source srcset="https://cdn.jellow.site/FrBlkbY-bVL9QOTlB4t_LGTu_98pv2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FrBlkbY-bVL9QOTlB4t_LGTu_98pv2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FrBlkbY-bVL9QOTlB4t_LGTu_98pv2.png"></picture><br><picture><source srcset="https://cdn.jellow.site/FqQTDxMbYdFr54yWR2qFCwD--SBnv2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FqQTDxMbYdFr54yWR2qFCwD--SBnv2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FqQTDxMbYdFr54yWR2qFCwD--SBnv2.png"></picture>]]></description>
-            <pubDate>Mon, 01 Nov 2021 06:39:56 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/617f8bbca5fd9e0010149a8a</guid>
-            <link>https://m.okjike.com/originalPosts/617f8bbca5fd9e0010149a8a</link>
             
             
             
