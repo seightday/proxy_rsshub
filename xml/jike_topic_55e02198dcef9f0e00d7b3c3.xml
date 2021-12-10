@@ -20,8 +20,25 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Fri, 10 Dec 2021 12:30:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 16:29:46 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[log4j的漏洞给我带来了很大影响：
+因为师兄们都被抓去加班导致我到现在还没吃到火锅。]]></title>
+            <description><![CDATA[<br>log4j的漏洞给我带来了很大影响：<br>因为师兄们都被抓去加班导致我到现在还没吃到火锅。<br><picture><source srcset="https://cdn.jellow.site/FvDNywf6Fv-cXD2-pL7Ex6JUtufJv2?imageMogr2/auto-orient/heic-exif/1/format/jpeg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FvDNywf6Fv-cXD2-pL7Ex6JUtufJv2?imageMogr2/auto-orient/heic-exif/1/format/jpeg/" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FvDNywf6Fv-cXD2-pL7Ex6JUtufJv2?imageMogr2/auto-orient/heic-exif/1/format/jpeg/"></picture>]]></description>
+            <pubDate>Fri, 10 Dec 2021 11:11:46 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/61b335f2f1480c00107cec7d</guid>
+            <link>https://m.okjike.com/originalPosts/61b335f2f1480c00107cec7d</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[Github 推出了新的产品 Code Search，https://cs.github.com/about ，从此在 Github 的工作就不仅仅是 Copy & Paste 了，还有 Search :-)]]></title>
@@ -61,24 +78,6 @@
             <pubDate>Thu, 09 Dec 2021 07:58:07 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/61b1b70ff470cb0010a8b10e</guid>
             <link>https://m.okjike.com/originalPosts/61b1b70ff470cb0010a8b10e</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[没人吐槽过git其实很难用吗？
-网页打开gitlab自动就是最新的版本，但命令行不行，要先pull
-commit历史、分支管理、冲突管理这些最适合用图形化来表示的东西，反...]]></title>
-            <description><![CDATA[<br>没人吐槽过git其实很难用吗？<br>网页打开gitlab自动就是最新的版本，但命令行不行，要先pull<br>commit历史、分支管理、冲突管理这些最适合用图形化来表示的东西，反而是用命令行来操作<br>有没有那种图形化操作git，不用记命令，直接拖动的？]]></description>
-            <pubDate>Thu, 09 Dec 2021 02:54:56 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/61b17000c355aa00109057ec</guid>
-            <link>https://m.okjike.com/originalPosts/61b17000c355aa00109057ec</link>
             
             
             
