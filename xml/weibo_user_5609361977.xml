@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[分享白菜达人的微博]]></title>
         <link>http://weibo.com/5609361977/</link>
-        <atom:link href="https://rsshub.rssforever.com/weibo/user/5609361977" rel="self" type="application/rss+xml" />
+        <atom:link href="http://rsshub/weibo/user/5609361977" rel="self" type="application/rss+xml" />
         <description><![CDATA[跟着博主抢红包，抢秒杀！撸免单！买优惠白菜 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -15,13 +15,13 @@
         <language>zh-cn</language>
         
         <image>
-            <url>https://tvax2.sinaimg.cn/crop.0.0.512.512.180/0067Cjihly8gb7w03ko6vj30e80e874q.jpg?KID=imgbed,tva&#38;Expires=1639437602&#38;ssig=deDWKr4sXV</url>
+            <url>https://tvax2.sinaimg.cn/crop.0.0.512.512.180/0067Cjihly8gb7w03ko6vj30e80e874q.jpg?KID=imgbed,tva&#38;Expires=1639454728&#38;ssig=Thxy%2BAT%2FXI</url>
             <title><![CDATA[分享白菜达人的微博]]></title>
             <link>http://weibo.com/5609361977/</link>
         </image>
         
-        <lastBuildDate>Mon, 13 Dec 2021 20:20:04 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Tue, 14 Dec 2021 01:05:29 GMT</lastBuildDate>
+        <ttl>1</ttl>
         
         <item>
             <title><![CDATA[pdd，劲牌持正堂 正宗宁夏枸杞200g   13.9， [图片][图片][图片]]]></title>
