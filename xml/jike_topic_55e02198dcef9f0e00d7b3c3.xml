@@ -20,8 +20,27 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 16 Dec 2021 08:23:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 12:30:27 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[React和Redux的开发者Dan最近在Twitter发了一个《和React团队工作时学到的100件事》 
+我简单翻译了一部分，感兴趣的建议直接看完整版。
+
+2. 当你解决一个问题时...]]></title>
+            <description><![CDATA[<br>                    <img referrerpolicy="no-referrer" src="https://cdn.jellow.site/icons/link.png"><br>                    <a href="https://twitter.com/dan_abramov/status/1470613731071696896">https://twitter.com/dan_abramov/status/1470613731071696896</a><br>                <br>React和Redux的开发者Dan最近在Twitter发了一个《和React团队工作时学到的100件事》 <br>我简单翻译了一部分，感兴趣的建议直接看完整版。<br><br>2. 当你解决一个问题时，你一定要非常非常理解你正在修复的问题。后退几步，将新的知识重新整合到新的设计中。在错误的地方解决一个问题，会产生10个新问题。<br><br>5. 几个喷子，即使是善意的，也会毒害整个讨论空间<br><br>11.你在项目、blog、文档里写的内容，被逐字复制、改写，发在内容农场、其他人的个人博客和幻灯片上。从某种程度上说，这其实挺酷的，因为这意味着你的写作成功了<br><br>15. 有一些PR让人觉得作者真的很清楚他们在做什么，尝试联系他们。他们可能会成为你未来的同事<br><br>16. 如果你不解释你在做什么，为什么这么做，其他人就会为你解释(而你恐怕并不喜欢)<br><br>17. 谨慎的推荐和支持其它项目，它们可能会在几年内阻碍整个生态系统的发展。<br><br>27. 创新(innovation)不是线性的。有时候你需要让先它变得更糟才能让它变得更好。<br><br>30. if you can’t prove out a migration strategy with a small team on a big codebase, you don’t have a migration strategy. start again<br><br>31. 设计API最重要的原则是：it composes well。如果两个人做了两个东西，把它们组合起来也应该运行良好。同样的，如果你删掉其中一个，也不会使另外一个坏掉。<br><br>33. 如果一个东西不make sense，再多的文档和解释，也不会使其 make sense.<br><br>34. 人们会复制粘贴所有你的code snippet。即使上面写着 ”不要复制粘贴，这是个坏例子，好的在下面“。<br><br>60. 约束和边界条件驱动设计。约束排除了99%可能的设计。边界条件强调剩下的选择，帮你选出最不糟糕的(或最不令人惊讶的)。如果在common case也是合理的，这个方案就是对的(you're golden)<br>61. 如果两个方案中你难以选择，可以等等。可能是你还不知道所有约束。这就像解谜，当你解决问题时，他们会填补其它问题的约束，最后就只剩下很少的选项了。<br><br>67. 创新看起来就像是对现有理念进行全新的整合。它不会经常发生，如果你不注意的话很容易错过<br>73. 很多编程的讨论是那些没写过生产代码与现实脱节的人发起的。习惯它们然后继续。哦，顺便说一下，你现在也是其中一员了。<br><br>81. 不要为了便利而在系统的核心原则上妥协。便利的作用有限，但核心原则将以你意想不到的方式持续多年。但两者兼得的感觉真好<br><br>82. “i don’t know” and “i don’t understand this part” and “can you say this again” are phrases you should expect to say (and hear) in productive meetings<br><br>88. people can handle bad news but people hate surprises<br><br>91. 如果你有两个相似的API，但你担心用户会过分使用A而不是B(且B是更好的)，那就给A一个不好的名字，给B一个又短又好的名字。]]></description>
+            <pubDate>Thu, 16 Dec 2021 05:11:28 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/61baca807c64ac0011cf3abf</guid>
+            <link>https://m.okjike.com/originalPosts/61baca807c64ac0011cf3abf</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[一大早醒来看见这么个新分支我差点以为我没睡醒]]></title>
@@ -93,22 +112,6 @@
             <pubDate>Tue, 14 Dec 2021 04:29:36 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/61b81db06e33850010db82f2</guid>
             <link>https://m.okjike.com/originalPosts/61b81db06e33850010db82f2</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[鸡生蛋还是蛋生鸡的千古谜题，终于，在 JavaScript 得到了答案：]]></title>
-            <description><![CDATA[<br>鸡生蛋还是蛋生鸡的千古谜题，终于，在 JavaScript 得到了答案：<br><picture><source srcset="https://cdn.jellow.site/FtC1o62wM61A-FxSpVLkyApkxIu0v2.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FtC1o62wM61A-FxSpVLkyApkxIu0v2.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FtC1o62wM61A-FxSpVLkyApkxIu0v2.jpg"></picture>]]></description>
-            <pubDate>Mon, 13 Dec 2021 04:26:50 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/61b6cb8ac0d0c80010db5287</guid>
-            <link>https://m.okjike.com/originalPosts/61b6cb8ac0d0c80010db5287</link>
             
             
             
