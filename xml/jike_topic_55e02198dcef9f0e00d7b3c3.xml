@@ -20,8 +20,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sun, 19 Dec 2021 01:07:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Dec 2021 04:25:14 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[今晚在找一个编写api文档的工具，在一篇关于yapi（我们部门用的这个，但我感觉不是很好用）的介绍文章下的评论，发现了一个人在推荐apifox，上去官网看到介绍是A...]]></title>
+            <description><![CDATA[<br>                    <img referrerpolicy="no-referrer" src="https://cdn.apifox.cn/logo/apifox-logo-512.png"><br>                    <a href="http://apifox.cn/">Apifox - API 文档、调试、Mock、测试一体化协作平台。拥有接口文档管理、接口调试、Mock、自动化测试等功能，接口开发、测试、联调效率，提升 10 倍。最好用的接口文档管理工具，接口自动化测试工具。</a><br>                <br>今晚在找一个编写api文档的工具，在一篇关于yapi（我们部门用的这个，但我感觉不是很好用）的介绍文章下的评论，发现了一个人在推荐apifox，上去官网看到介绍是Apifox=Postman+Swagger+Mock+Jmeter，抱着期待下载下来后，发现这玩意居然意外的不错，提供功能也刚好符合我的要求：<br>1、不需要部署，所有功能都可以直接在客户端操作，客户端用微信登录，这很棒，我既不需要给我服务器加多一个服务，也不需要记录多一个平台的账号，而且是免费的，私有化部署才需要收费<br>2、层级从上到下分为团队、项目、分组、接口，管理起来也很方便，项目可以private也可以public<br>3、public的项目可以在API Hub模块搜索到（我在这里发现大部分平台的开放Api都可以在这里找到，也可以进行收藏，感觉不用去翻官方文档了）<br>4、private项目除了团队内的人可以看到外，也可以建立带密码的分享链接进行分享（这点很符合我现在的要求）<br>5、API response 的每个字段都可以配置特点格式，例如长度、正则表达式、枚举、类型，即便不指定它也会根据字段名称来做推断，例如字段名带有time时mock数据会生成时间，带有url时mock数据会生成了链接<br>6、可以导入Swagger、Postman这些平台导出的数据文件，也导出，但目前似乎只支持OpenAPI（原Swagger3）、html、markdown、apifox这几个格式<br><br>还有一些功能没探索，目前应该用不到那么复杂的东西]]></description>
+            <pubDate>Sat, 18 Dec 2021 19:14:25 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/61be33113470f20010fa9c56</guid>
+            <link>https://m.okjike.com/originalPosts/61be33113470f20010fa9c56</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[f**k you, Safari]]></title>
@@ -80,22 +96,6 @@
             <pubDate>Thu, 16 Dec 2021 05:11:28 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/61baca807c64ac0011cf3abf</guid>
             <link>https://m.okjike.com/originalPosts/61baca807c64ac0011cf3abf</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[一大早醒来看见这么个新分支我差点以为我没睡醒]]></title>
-            <description><![CDATA[<br>一大早醒来看见这么个新分支我差点以为我没睡醒<br><picture><source srcset="https://cdn.jellow.site/FksU_ELBFxgWFe6n4JS-5AmJx--Pv2.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FksU_ELBFxgWFe6n4JS-5AmJx--Pv2.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FksU_ELBFxgWFe6n4JS-5AmJx--Pv2.jpg"></picture>]]></description>
-            <pubDate>Thu, 16 Dec 2021 02:24:09 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/61baa349845edb001054b72e</guid>
-            <link>https://m.okjike.com/originalPosts/61baa349845edb001054b72e</link>
             
             
             
