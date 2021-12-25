@@ -20,17 +20,15 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Fri, 24 Dec 2021 20:20:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Dec 2021 01:02:25 GMT</lastBuildDate>
         <ttl>1</ttl>
         
         <item>
-            <title><![CDATA[还是需要多写Blog，不需要彻底理解某个东西，才能写对应的文章。
-
-比如 https://www.taniarascia.com/ 这个博客，虽然大部分文章都是类似Tutorial，或者是自己在...]]></title>
-            <description><![CDATA[<br>还是需要多写Blog，不需要彻底理解某个东西，才能写对应的文章。<br><br>比如 https://www.taniarascia.com/ 这个博客，虽然大部分文章都是类似Tutorial，或者是自己在使用某个框架、学习某个知识的整理，但肯定会有大量的初学者受益。]]></description>
-            <pubDate>Fri, 24 Dec 2021 04:07:48 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/61c547942e277c001000c1d5</guid>
-            <link>https://m.okjike.com/originalPosts/61c547942e277c001000c1d5</link>
+            <title><![CDATA[“国内的 toB 产品普遍在经过一段时间的成长后，会面临架构设计缺陷导致的瓶颈，许多也无法突破，导致无法在产品上继续演进，最后只能是靠销售驱动的方式进行竞...]]></title>
+            <description><![CDATA[<br>                    <img referrerpolicy="no-referrer" src="http://mmbiz.qpic.cn/mmbiz_jpg/0nhrHSRiaNruhzMTNj0iaYxZo9j8BYpB722zu0ERk1zebFs7Ht6SxIlk4MGUV8dcvfxcgLqESKuzr4M0ibiaFtlibhA/0?wx_fmt=jpeg"><br>                    <a href="https://mp.weixin.qq.com/s/gHO0nKHlu7zcwCknIZWHCA">LGTM</a><br>                <br>“国内的 toB 产品普遍在经过一段时间的成长后，会面临架构设计缺陷导致的瓶颈，许多也无法突破，导致无法在产品上继续演进，最后只能是靠销售驱动的方式进行竞争。这两年国内很火的低代码马上也会面临这样的局面。低代码是一个看上去起步简单 (CRUD 拼装) ，但其实对于技术架构要求很高的赛道，因为做的是 app builder 或者说是元应用 (meta-app)，这就需要比做一般 App 高的多的架构能力（和生产高级的芯片需要更尖端的光刻机是一个道理）。”]]></description>
+            <pubDate>Fri, 24 Dec 2021 13:28:02 GMT</pubDate>
+            <guid isPermaLink="false">https://mp.weixin.qq.com/s/gHO0nKHlu7zcwCknIZWHCA</guid>
+            <link>https://mp.weixin.qq.com/s/gHO0nKHlu7zcwCknIZWHCA</link>
             
             
             
