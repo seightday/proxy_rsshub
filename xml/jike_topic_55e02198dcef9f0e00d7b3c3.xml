@@ -20,16 +20,35 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 27 Dec 2021 08:26:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Dec 2021 12:31:17 GMT</lastBuildDate>
         <ttl>1</ttl>
         
         <item>
-            <title><![CDATA[来丢人现眼了😭
-请问如何在不安装任何软件包括按键精灵的情况下，自动将EXCEL的不规律数据导入至网站呢]]></title>
-            <description><![CDATA[<br>来丢人现眼了😭<br>请问如何在不安装任何软件包括按键精灵的情况下，自动将EXCEL的不规律数据导入至网站呢]]></description>
-            <pubDate>Sun, 26 Dec 2021 07:00:52 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/61c8132448e9e80010489038</guid>
-            <link>https://m.okjike.com/originalPosts/61c8132448e9e80010489038</link>
+            <title><![CDATA[我有一个想法，就是搭建一个个人网站，把所有的动态发到自己网站上。技术上来说这并不难，用到的技术和个人博客差不多。加一个用户系统的话，还可以让自己的朋友...]]></title>
+            <description><![CDATA[<br>我有一个想法，就是搭建一个个人网站，把所有的动态发到自己网站上。技术上来说这并不难，用到的技术和个人博客差不多。加一个用户系统的话，还可以让自己的朋友也可以发动态和互相评论。<br><br>接下来是重点。把这个个人网站开源，并且形成一个标准协议，使得可以编写一个聚合网站，只要知道遵循这个协议的个人网站都可以被聚合。这样就实现了通过“关注”（记录个站网址）把关注的人的动态聚合，不用一个一个去查看。包括评论点赞等等都可以通过标准的协议去获取。广场则可以通过爬关注链实现。<br><br>这个方案的好处在于对服务器要求不高，是个天然的大规模集群。你的服务器性能好一点，就多给自己的朋友开放点账户，性能差一点呢，就自个用。<br><br>此外可以享受高度定制化，只要你遵循这个协议，前端你想要什么就可以有什么（比如暗黑模式）。<br><br>所有的数据存储在可以信任的服务器，不会因为服务提供商跑路就丢失数据，因为这是去中心化构型。想屏蔽谁，特别关心谁，都可以自由定制。发的动态有错别字，也支持修改。<br><br>唯一的问题就是门槛有点儿高，要有服务器和域名，要会自己部署，不过你也可以抱朋友大腿。等到ipv6普及了，人人都有公网地址，肯定是个站的天下。什么是web3.0？这就是web3.0啊！<br><br>如果有人觉得有意思的话，考虑放进22年计划。]]></description>
+            <pubDate>Mon, 27 Dec 2021 11:30:27 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/61c9a3d31dec34001166e7b3</guid>
+            <link>https://m.okjike.com/originalPosts/61c9a3d31dec34001166e7b3</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[这是一条有错别字的动态，专门发出来感受一下可以编鸡动态的爽感。
+
+17:06 编辑第一次，没有修改任何信息。
+17:46 编辑第二次，改了一个错别字。
+18:58 编辑了第...]]></title>
+            <description><![CDATA[<br>这是一条有错别字的动态，专门发出来感受一下可以编鸡动态的爽感。<br><br>17:06 编辑第一次，没有修改任何信息。<br>17:46 编辑第二次，改了一个错别字。<br>18:58 编辑了第三次，又改了一个错别字，新增一个错别字。]]></description>
+            <pubDate>Mon, 27 Dec 2021 09:04:02 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/61c981828c947e0010be34d4</guid>
+            <link>https://m.okjike.com/originalPosts/61c981828c947e0010be34d4</link>
             
             
             
@@ -96,22 +115,6 @@ https://github.com/lxgw/LxgwWenKai]]></title>
             <pubDate>Wed, 22 Dec 2021 13:46:14 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/61c32c26c8cc600010af9fd0</guid>
             <link>https://m.okjike.com/originalPosts/61c32c26c8cc600010af9fd0</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[我发现，一旦屏蔽 CSDN，就可以在 Google 搜索的时候发现很多中文独立博客]]></title>
-            <description><![CDATA[<br>我发现，一旦屏蔽 CSDN，就可以在 Google 搜索的时候发现很多中文独立博客]]></description>
-            <pubDate>Wed, 22 Dec 2021 09:28:31 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/61c2efbf37700900106597f2</guid>
-            <link>https://m.okjike.com/originalPosts/61c2efbf37700900106597f2</link>
             
             
             
