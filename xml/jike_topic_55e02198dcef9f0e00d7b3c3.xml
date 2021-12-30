@@ -20,8 +20,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 30 Dec 2021 01:03:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 04:25:56 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[Swift String的index(_:offsetBy:)的时间复杂度是O(n)。这是一个看上去仿佛是一个O(1)的加减法操作，但实际上不然。在Unicode中很多字符是由多个Unicode Scalar...]]></title>
+            <description><![CDATA[<br>Swift String的index(_:offsetBy:)的时间复杂度是O(n)。这是一个看上去仿佛是一个O(1)的加减法操作，但实际上不然。在Unicode中很多字符是由多个Unicode Scalar组合成的。比如👨‍👩‍👦‍👦实际上是由👨 👩 👦 👦 这四个emoji拼起来的。<br>Swift做了很多工作来保证Swift String可以正确地计算包含这种字符的字符串的长度和Index的正确性，index(_:offsetBy:)就是其中之一。Swift的String.Index包含了字符串在UTF16表示下的一个字符的Index(Int)，当调用这个函数时Swift需要用传入的offset计算出对应的UTF16 offset，这就需要检查前面的字符能否拼接到一起，所以这个函数是一个O(n)的函数。<br>我们曾经在一个for in loop中用循环的index来计算String.Index后来测试性能的时候发现了一些问题。如果你也遇到了这样的情况，你可以存下当前的String.Index然后用index(after:)，后者是一个O(1)的方法，这样应该能提升不少性能。如果不在一个循环里也不需要处理多Scalar字符，你也可以直接使用UTF16来提高性能。]]></description>
+            <pubDate>Wed, 29 Dec 2021 16:48:38 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/61cc91665cb36200103f56a5</guid>
+            <link>https://m.okjike.com/originalPosts/61cc91665cb36200103f56a5</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[发现vscode上经常用的一款给括号上彩虹色的插件通知已经不再更新了，原因是vscode已经原生支持了，还给贴上了开启方法，然后我一边卸载插件一边感叹这位开发者真...]]></title>
@@ -46,24 +62,6 @@
             <pubDate>Tue, 28 Dec 2021 15:52:35 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/61cb32c3523e940010148588</guid>
             <link>https://m.okjike.com/originalPosts/61cb32c3523e940010148588</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[我在这个圈子里，求大佬帮忙破解WiFi密码合适吗？😢
-受疫情影响，被滞留在了一年去不了几次的房子里，以前没拉宽带，现在想拉也来不及了……😭
-万能钥匙破不...]]></title>
-            <description><![CDATA[<br>我在这个圈子里，求大佬帮忙破解WiFi密码合适吗？😢<br>受疫情影响，被滞留在了一年去不了几次的房子里，以前没拉宽带，现在想拉也来不及了……😭<br>万能钥匙破不开，和领居们也不熟，而且现在也不能贸然敲别人家的门。一想到还要被管控20天+……啊……救救孩子吧！谁能帮帮我（可付费）😭<br>网络名称附上，这条要是能被邻居看到，联系我摊一下网费是最好了<br><picture><source srcset="https://cdn.jellow.site/FgikxKR-flCcbd34TD70pHJMMZX7v2.jpeg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FgikxKR-flCcbd34TD70pHJMMZX7v2.jpeg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FgikxKR-flCcbd34TD70pHJMMZX7v2.jpeg"></picture>]]></description>
-            <pubDate>Tue, 28 Dec 2021 09:02:42 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/61cad2b27d565e0011b6c89e</guid>
-            <link>https://m.okjike.com/originalPosts/61cad2b27d565e0011b6c89e</link>
             
             
             
