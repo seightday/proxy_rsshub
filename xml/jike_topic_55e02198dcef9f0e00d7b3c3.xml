@@ -20,15 +20,15 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Fri, 31 Dec 2021 01:05:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 04:26:08 GMT</lastBuildDate>
         <ttl>1</ttl>
         
         <item>
-            <title><![CDATA[Swift String的index(_:offsetBy:)的时间复杂度是O(n)。这是一个看上去仿佛是一个O(1)的加减法操作，但实际上不然。在Unicode中很多字符是由多个Unicode Scalar...]]></title>
-            <description><![CDATA[<br>Swift String的index(_:offsetBy:)的时间复杂度是O(n)。这是一个看上去仿佛是一个O(1)的加减法操作，但实际上不然。在Unicode中很多字符是由多个Unicode Scalar组合成的。比如👨‍👩‍👦‍👦实际上是由👨 👩 👦 👦 这四个emoji拼起来的。<br>Swift做了很多工作来保证Swift String可以正确地计算包含这种字符的字符串的长度和Index的正确性，index(_:offsetBy:)就是其中之一。Swift的String.Index包含了字符串在UTF16表示下的一个字符的Index(Int)，当调用这个函数时Swift需要用传入的offset计算出对应的UTF16 offset，这就需要检查前面的字符能否拼接到一起，所以这个函数是一个O(n)的函数。<br>我们曾经在一个for in loop中用循环的index来计算String.Index后来测试性能的时候发现了一些问题。如果你也遇到了这样的情况，你可以存下当前的String.Index然后用index(after:)，后者是一个O(1)的方法，这样应该能提升不少性能。如果不在一个循环里也不需要处理多Scalar字符，你也可以直接使用UTF16来提高性能。]]></description>
-            <pubDate>Wed, 29 Dec 2021 16:48:38 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/61cc91665cb36200103f56a5</guid>
-            <link>https://m.okjike.com/originalPosts/61cc91665cb36200103f56a5</link>
+            <title><![CDATA[常常看这个视频勉励自己。]]></title>
+            <description><![CDATA[<br>常常看这个视频勉励自己。]]></description>
+            <pubDate>Wed, 29 Dec 2021 12:30:49 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/61cc54f93ba7720010738d43</guid>
+            <link>https://m.okjike.com/originalPosts/61cc54f93ba7720010738d43</link>
             
             
             
