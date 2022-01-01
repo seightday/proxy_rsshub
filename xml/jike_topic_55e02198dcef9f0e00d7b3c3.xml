@@ -20,7 +20,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sat, 01 Jan 2022 16:29:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jan 2022 20:20:16 GMT</lastBuildDate>
         <ttl>1</ttl>
         
         <item>
@@ -107,11 +107,12 @@ pycharm   Jupyter    VS code推荐那一个。]]></title>
         </item>
         
         <item>
-            <title><![CDATA[我有一个想法，就是搭建一个个人网站，把所有的动态发到自己网站上。技术上来说这并不难，用到的技术和个人博客差不多。加一个用户系统的话，还可以让自己的朋友...]]></title>
-            <description><![CDATA[<br>我有一个想法，就是搭建一个个人网站，把所有的动态发到自己网站上。技术上来说这并不难，用到的技术和个人博客差不多。加一个用户系统的话，还可以让自己的朋友也可以发动态和互相评论。<br><br>接下来是重点。把这个个人网站开源，并且形成一个标准协议，使得可以编写一个聚合网站，只要知道遵循这个协议的个人网站都可以被聚合。这样就实现了通过“关注”（记录个站网址）把关注的人的动态聚合，不用一个一个去查看。包括评论点赞等等都可以通过标准的协议去获取。广场则可以通过爬关注链实现。<br><br>这个方案的好处在于对服务器要求不高，是个天然的大规模集群。你的服务器性能好一点，就多给自己的朋友开放点账户，性能差一点呢，就自个用。<br><br>此外可以享受高度定制化，只要你遵循这个协议，前端你想要什么就可以有什么（比如暗黑模式）。<br><br>所有的数据存储在可以信任的服务器，不会因为服务提供商跑路就丢失数据，因为这是去中心化构型。想屏蔽谁，特别关心谁，都可以自由定制。发的动态有错别字，也支持修改。<br><br>唯一的问题就是门槛有点儿高，要有服务器和域名，要会自己部署，不过你也可以抱朋友大腿。等到ipv6普及了，人人都有公网地址，肯定是个站的天下。什么是web3.0？这就是web3.0啊！<br><br>如果有人觉得有意思的话，考虑放进22年计划。]]></description>
-            <pubDate>Mon, 27 Dec 2021 11:30:27 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/61c9a3d31dec34001166e7b3</guid>
-            <link>https://m.okjike.com/originalPosts/61c9a3d31dec34001166e7b3</link>
+            <title><![CDATA[疫情在家学python。
+真的不好学。]]></title>
+            <description><![CDATA[<br>疫情在家学python。<br>真的不好学。<br><picture><source srcset="https://cdn.jellow.site/Fm1GfexXX51H9tQwt2NjhW7IfKY5v2.jpeg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/Fm1GfexXX51H9tQwt2NjhW7IfKY5v2.jpeg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Fm1GfexXX51H9tQwt2NjhW7IfKY5v2.jpeg"></picture>]]></description>
+            <pubDate>Tue, 28 Dec 2021 06:02:02 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/61caa85a5cb36200103f4c12</guid>
+            <link>https://m.okjike.com/originalPosts/61caa85a5cb36200103f4c12</link>
             
             
             
