@@ -20,8 +20,42 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sun, 16 Jan 2022 01:09:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jan 2022 04:25:21 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[100 Days of SwiftUI
+Day014 optionals, nil coalescing, and checkpoint 9
+昨天晚上学完竟然忘记发了🥲过了一遍教程，完成教程后的题目。今天完成checkpoint9...]]></title>
+            <description><![CDATA[<br>100 Days of SwiftUI<br>Day014 optionals, nil coalescing, and checkpoint 9<br>昨天晚上学完竟然忘记发了🥲过了一遍教程，完成教程后的题目。今天完成checkpoint9。<br><picture><source srcset="https://cdn.jellow.site/Fto-NqHjup5OPyxjHUN5qmErpl3Sv2.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/Fto-NqHjup5OPyxjHUN5qmErpl3Sv2.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Fto-NqHjup5OPyxjHUN5qmErpl3Sv2.jpg"></picture>]]></description>
+            <pubDate>Sun, 16 Jan 2022 00:22:14 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/61e365365cb36200103fd523</guid>
+            <link>https://m.okjike.com/originalPosts/61e365365cb36200103fd523</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[TLDR：如下图所示，可以通过以下代码将这个豆瓣widget嵌入到任何支持HTML img tag的地方。请注意将链接中的id数字替换为你的豆瓣ID，将type更换为book/music即可...]]></title>
+            <description><![CDATA[<br>TLDR：如下图所示，可以通过以下代码将这个豆瓣widget嵌入到任何支持HTML img tag的地方。请注意将链接中的id数字替换为你的豆瓣ID，将type更换为book/music即可展示书/音统计数据。<br>< img src="https://qce78q.api.cloudendpoint.cn/generateDoubanStatsSvg?id=152076608&type=movie" /><br><br>hey guys，前几天发布过一条用Vue生成豆瓣widget的讯息，经过一番尝试，现在Vue component会被恰当地渲染成svg的格式，用于嵌入在你的博客，Github等任何支持HTML img tag的地方。损失之处在于，原本的阿里普惠体被替换为苹方，但无伤大雅。后续我们会制作2*4的大尺寸widget，会展示更多你的豆瓣数据，比如年阅片量趋势、最近看过的一部电影海报等。thank you all🍻<br><picture><source srcset="https://cdn.jellow.site/Fj4jTusU3J3iHkvHP28i2HgkWOyGv2.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/Fj4jTusU3J3iHkvHP28i2HgkWOyGv2.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Fj4jTusU3J3iHkvHP28i2HgkWOyGv2.jpg"></picture>]]></description>
+            <pubDate>Sat, 15 Jan 2022 20:24:13 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/61e32d6db0296c00109ba0c7</guid>
+            <link>https://m.okjike.com/originalPosts/61e32d6db0296c00109ba0c7</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[对蜜罐这个名字非常执着 笑死了]]></title>
@@ -147,38 +181,6 @@
             <pubDate>Fri, 10 Dec 2021 08:23:19 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/61b30e775466fb00111d6a14</guid>
             <link>https://m.okjike.com/originalPosts/61b30e775466fb00111d6a14</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[每次换电脑都要重新折腾一次软件和工具，费时费力，这一次索性全部给梳理完整了，一个软件对应一个自动化安装脚本，思路比较简单，结合 github@thoughtbot/dotfi...]]></title>
-            <description><![CDATA[<br>每次换电脑都要重新折腾一次软件和工具，费时费力，这一次索性全部给梳理完整了，一个软件对应一个自动化安装脚本，思路比较简单，结合 github@thoughtbot/dotfiles 这个项目，在 .zshrc 最后引入一个 .zshrc.local，不妨碍之前的配置，然后在软件安装的时候自动完成 alias 和 config 的配置。其他的 .vimrc/.gitconfig/.tmuxrc 等同理。在两台新机器上实验了下，真香~<br><picture><source srcset="https://cdn.jellow.site/ForAInBvchGrF_9b9Q6qWoQWxw6Hv2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/ForAInBvchGrF_9b9Q6qWoQWxw6Hv2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/ForAInBvchGrF_9b9Q6qWoQWxw6Hv2.png"></picture>]]></description>
-            <pubDate>Thu, 02 Dec 2021 08:59:32 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/61a88af4936da50010e5689f</guid>
-            <link>https://m.okjike.com/originalPosts/61a88af4936da50010e5689f</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[之前开发的vscode插件，footstep-mark，结合朋友的使用意见增加了跨文件标记的功能，实测好用😃]]></title>
-            <description><![CDATA[<br>                    <img referrerpolicy="no-referrer" src="https://chen-kai.gallerycdn.vsassets.io/extensions/chen-kai/footstep-mark/2.0.3/1635752491992/Microsoft.VisualStudio.Services.Icons.Default"><br>                    <a href="https://marketplace.visualstudio.com/items?itemName=chen-kai.footstep-mark&ssr=false#overview">footstep-mark - Visual Studio Marketplace</a><br>                <br>之前开发的vscode插件，footstep-mark，结合朋友的使用意见增加了跨文件标记的功能，实测好用😃]]></description>
-            <pubDate>Mon, 01 Nov 2021 09:39:15 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/617fb5c38127430010bb2e1b</guid>
-            <link>https://m.okjike.com/originalPosts/617fb5c38127430010bb2e1b</link>
             
             
             
