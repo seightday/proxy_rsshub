@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[JitHub - 即刻圈子]]></title>
         <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
-        <atom:link href="http://rsshub/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
+        <atom:link href="https://vercel.getrss2021.xyz/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
         <description><![CDATA[开发者们分享，问答，也可以交友的地方。欢迎所有工程师！ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -20,8 +20,58 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 17 Jan 2022 01:06:32 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Mon, 17 Jan 2022 04:26:30 GMT</lastBuildDate>
+        <ttl>5</ttl>
+        
+        <item>
+            <title><![CDATA[这是从事编程工作的 Keyerror 同学的分享🧐
+
+Keyerror 在 GitHub 上创立并维护了 Psyduck 项目，坚持用 XMind 分享编程知识，至今已收获了 4000 多个 Star。 
+...]]></title>
+            <description><![CDATA[<br>                    <img referrerpolicy="no-referrer" src="http://mmbiz.qpic.cn/mmbiz_jpg/waeeux0egwluDskvVLq4o5CuZjuWOwQ90t76KAlsTuwtPjSCfJ8iavoOhxnPHiaKGjvt5I42oUqjncFOyvZBOHqg/0?wx_fmt=jpeg"><br>                    <a href="https://mp.weixin.qq.com/s/E3ZobZTQY51y7a1faZ7qtQ">我用 XMind 在 GitHub 上分享编程知识｜思维导图的 101 种用法</a><br>                <br>这是从事编程工作的 Keyerror 同学的分享🧐<br><br>Keyerror 在 GitHub 上创立并维护了 Psyduck 项目，坚持用 XMind 分享编程知识，至今已收获了 4000 多个 Star。 <br><br>Psyduck 是用 XMind 记录和整理 CS 基础知识体系的知识分享项目。目前涵盖Linux 操作系统、网络、C++、Golang 以及数据库的一些设计等。<br><br>让我们一起来看看是什么让他坚持在 GitHub 上借 XMind 进行持续输出的🤟]]></description>
+            <pubDate>Mon, 17 Jan 2022 02:50:52 GMT</pubDate>
+            <guid isPermaLink="false">https://mp.weixin.qq.com/s/E3ZobZTQY51y7a1faZ7qtQ</guid>
+            <link>https://mp.weixin.qq.com/s/E3ZobZTQY51y7a1faZ7qtQ</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[🕊️ 我的软件工程之旅
+
+Age 23-24:
+- HTML
+- CSS
+- jQuery
+- Bootstrap
+- Hexo
+
+Age 25-26:
+- Git
+- ES6
+- Vue.js
+- Node.js(Express)
+- Linux(Nginx)
+- Elec...]]></title>
+            <description><![CDATA[<br>🕊️ 我的软件工程之旅<br><br>Age 23-24:<br>- HTML<br>- CSS<br>- jQuery<br>- Bootstrap<br>- Hexo<br><br>Age 25-26:<br>- Git<br>- ES6<br>- Vue.js<br>- Node.js(Express)<br>- Linux(Nginx)<br>- Electron<br>- PostgreSQL<br><br>Age 26-now:<br>- React.js<br>- TypeScript<br>- TailwindCSS<br>- Nest.js<br>- FaunaDB/Supabase<br>- Figma<br><br>你呢？]]></description>
+            <pubDate>Mon, 17 Jan 2022 00:30:38 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/61e4b8aea5d382001153d9da</guid>
+            <link>https://m.okjike.com/originalPosts/61e4b8aea5d382001153d9da</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[校园卡¥39一个月，每个月100GB+流量，还送了我两年的b站大会员，算得上做慈善了吧🤣]]></title>
@@ -74,46 +124,11 @@ Day014 optionals, nil coalescing, and checkpoint 9
         </item>
         
         <item>
-            <title><![CDATA[对蜜罐这个名字非常执着 笑死了]]></title>
-            <description><![CDATA[<br>对蜜罐这个名字非常执着 笑死了<br><picture><source srcset="https://cdn.jellow.site/Fra03qEM2D_m2m6101y9QlZNOIrmv2.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/Fra03qEM2D_m2m6101y9QlZNOIrmv2.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Fra03qEM2D_m2m6101y9QlZNOIrmv2.jpg"></picture><br><picture><source srcset="https://cdn.jellow.site/FspFwXSx_WwuGLLxZkow1hnqfyrlv2.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FspFwXSx_WwuGLLxZkow1hnqfyrlv2.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FspFwXSx_WwuGLLxZkow1hnqfyrlv2.jpg"></picture>]]></description>
-            <pubDate>Sat, 15 Jan 2022 14:01:07 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/61e2d3a32898a30010ecc7d5</guid>
-            <link>https://m.okjike.com/originalPosts/61e2d3a32898a30010ecc7d5</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[请问现在学c++还有前途吗，非科班想学c++能学明白吗，在网上看到说非常难学😭]]></title>
             <description><![CDATA[<br>请问现在学c++还有前途吗，非科班想学c++能学明白吗，在网上看到说非常难学😭]]></description>
             <pubDate>Sat, 15 Jan 2022 01:23:52 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/61e222285cb36200103fcdaa</guid>
             <link>https://m.okjike.com/originalPosts/61e222285cb36200103fcdaa</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[🦦🦦🦦我来求github星星咯。
-快来帮帮忙忙点个星星。感谢支持！（需要GitHub账户，如果没有就算咯）
-
-地址：https://github.com/Phantomxm2021/ARMOD-Fram...]]></title>
-            <description><![CDATA[<br>🦦🦦🦦我来求github星星咯。<br>快来帮帮忙忙点个星星。感谢支持！（需要GitHub账户，如果没有就算咯）<br><br>地址：https://github.com/Phantomxm2021/ARMOD-Framework/tree/iOS-1.0.0-Alpha.1<br><picture><source srcset="https://cdn.jellow.site/FkYVyyCOxeHI6UQa-yOvs1j8ctqnv2.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FkYVyyCOxeHI6UQa-yOvs1j8ctqnv2.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FkYVyyCOxeHI6UQa-yOvs1j8ctqnv2.jpg"></picture>]]></description>
-            <pubDate>Fri, 14 Jan 2022 15:14:39 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/61e1935f2898a30010ecc0a5</guid>
-            <link>https://m.okjike.com/originalPosts/61e1935f2898a30010ecc0a5</link>
             
             
             
