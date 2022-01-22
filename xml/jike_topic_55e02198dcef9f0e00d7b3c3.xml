@@ -20,15 +20,18 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sat, 22 Jan 2022 04:22:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jan 2022 08:20:21 GMT</lastBuildDate>
         <ttl>1</ttl>
         
         <item>
-            <title><![CDATA[写python玩儿wordle实在太简单了]]></title>
-            <description><![CDATA[<br>写python玩儿wordle实在太简单了<br><picture><source srcset="https://cdn.jellow.site/FnKSFOB4VNuXRfFnxEKNCDduUTUNv2?imageMogr2/auto-orient/heic-exif/1/format/jpeg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FnKSFOB4VNuXRfFnxEKNCDduUTUNv2?imageMogr2/auto-orient/heic-exif/1/format/jpeg/" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FnKSFOB4VNuXRfFnxEKNCDduUTUNv2?imageMogr2/auto-orient/heic-exif/1/format/jpeg/"></picture><br><picture><source srcset="https://cdn.jellow.site/FiDE3bf4A5tOb7-JYiLTPJFEa-rov2.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FiDE3bf4A5tOb7-JYiLTPJFEa-rov2.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FiDE3bf4A5tOb7-JYiLTPJFEa-rov2.jpg"></picture>]]></description>
-            <pubDate>Fri, 21 Jan 2022 15:13:50 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/61eacdaeb5ab17001080be0f</guid>
-            <link>https://m.okjike.com/originalPosts/61eacdaeb5ab17001080be0f</link>
+            <title><![CDATA[最快破解wordle的办法
+1. 首先build 一个map，按照每个字母在五字单词中出现的频率排名
+2. 先尝试出现频率最高的字母
+3. 第一次尝试后就可以filter找到能符合条...]]></title>
+            <description><![CDATA[<br>最快破解wordle的办法<br>1. 首先build 一个map，按照每个字母在五字单词中出现的频率排名<br>2. 先尝试出现频率最高的字母<br>3. 第一次尝试后就可以filter找到能符合条件的单词了<br>4. 在符合条件的单词中重复1-3<br>应该非常快能找到。可以自己写python测一测 很快的]]></description>
+            <pubDate>Fri, 21 Jan 2022 17:28:15 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/61eaed2ffc97a40010e42dc3</guid>
+            <link>https://m.okjike.com/originalPosts/61eaed2ffc97a40010e42dc3</link>
             
             
             
