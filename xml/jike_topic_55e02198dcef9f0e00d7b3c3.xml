@@ -20,15 +20,15 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 26 Jan 2022 08:20:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 12:28:01 GMT</lastBuildDate>
         <ttl>1</ttl>
         
         <item>
-            <title><![CDATA[遛娃去咯]]></title>
-            <description><![CDATA[<br>遛娃去咯<br><picture><source srcset="https://cdn.jellow.site/Fkc4NvWngb2gRJcaILcs3Z8pqXeqv2.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/Fkc4NvWngb2gRJcaILcs3Z8pqXeqv2.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Fkc4NvWngb2gRJcaILcs3Z8pqXeqv2.jpg"></picture>]]></description>
-            <pubDate>Tue, 25 Jan 2022 12:14:23 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/61efe99faf0caf0010cb8e24</guid>
-            <link>https://m.okjike.com/originalPosts/61efe99faf0caf0010cb8e24</link>
+            <title><![CDATA[一个前端开发注意事项：单独使用一个开发用的浏览器，上面不要安装屏蔽广告、字体美化等插件/脚本，以免遇到问题时很难找出原因。比如广告屏蔽插件会屏蔽类名为....]]></title>
+            <description><![CDATA[<br>一个前端开发注意事项：单独使用一个开发用的浏览器，上面不要安装屏蔽广告、字体美化等插件/脚本，以免遇到问题时很难找出原因。比如广告屏蔽插件会屏蔽类名为.ad的元素，如果开发时用了类似类名，就显示不出来了。]]></description>
+            <pubDate>Wed, 26 Jan 2022 07:16:09 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/61f0f53917f76d001002337c</guid>
+            <link>https://m.okjike.com/originalPosts/61f0f53917f76d001002337c</link>
             
             
             
@@ -40,12 +40,11 @@
         </item>
         
         <item>
-            <title><![CDATA[#独立开发的日常 
-最近写安卓项目，在compose和flutter之间摇摆，最后还是偏向于flutter，原因很现实，compose太新了，很多常用组件没有，比如wheelpicker，我也...]]></title>
-            <description><![CDATA[<br>#独立开发的日常 <br>最近写安卓项目，在compose和flutter之间摇摆，最后还是偏向于flutter，原因很现实，compose太新了，很多常用组件没有，比如wheelpicker，我也知道没有可以自己写，但是做自己项目的时候，想快速上线，选择相对成熟的有丰富第三方组件的flutter才是最好的吧]]></description>
-            <pubDate>Tue, 25 Jan 2022 04:20:30 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/61ef7a8ea25bfe0011887b3a</guid>
-            <link>https://m.okjike.com/originalPosts/61ef7a8ea25bfe0011887b3a</link>
+            <title><![CDATA[遛娃去咯]]></title>
+            <description><![CDATA[<br>遛娃去咯<br><picture><source srcset="https://cdn.jellow.site/Fkc4NvWngb2gRJcaILcs3Z8pqXeqv2.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/Fkc4NvWngb2gRJcaILcs3Z8pqXeqv2.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Fkc4NvWngb2gRJcaILcs3Z8pqXeqv2.jpg"></picture>]]></description>
+            <pubDate>Tue, 25 Jan 2022 12:14:23 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/61efe99faf0caf0010cb8e24</guid>
+            <link>https://m.okjike.com/originalPosts/61efe99faf0caf0010cb8e24</link>
             
             
             
