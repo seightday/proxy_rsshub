@@ -20,7 +20,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 26 Jan 2022 20:18:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 01:02:50 GMT</lastBuildDate>
         <ttl>1</ttl>
         
         <item>
@@ -58,12 +58,11 @@
         </item>
         
         <item>
-            <title><![CDATA[#独立开发的日常 
-最近写安卓项目，在compose和flutter之间摇摆，最后还是偏向于flutter，原因很现实，compose太新了，很多常用组件没有，比如wheelpicker，我也...]]></title>
-            <description><![CDATA[<br>#独立开发的日常 <br>最近写安卓项目，在compose和flutter之间摇摆，最后还是偏向于flutter，原因很现实，compose太新了，很多常用组件没有，比如wheelpicker，我也知道没有可以自己写，但是做自己项目的时候，想快速上线，选择相对成熟的有丰富第三方组件的flutter才是最好的吧]]></description>
-            <pubDate>Tue, 25 Jan 2022 04:20:30 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/61ef7a8ea25bfe0011887b3a</guid>
-            <link>https://m.okjike.com/originalPosts/61ef7a8ea25bfe0011887b3a</link>
+            <title><![CDATA[了解IT相关入门知识，阮一峰老师就够了，循序渐进，逐渐带你开悟，一遍不行两遍。为了入门OAuth2.0，看了老师的精彩三篇，再加上可上手、可执行的案例demo源码实...]]></title>
+            <description><![CDATA[<br>了解IT相关入门知识，阮一峰老师就够了，循序渐进，逐渐带你开悟，一遍不行两遍。为了入门OAuth2.0，看了老师的精彩三篇，再加上可上手、可执行的案例demo源码实操一遍，基本理解原理了，非常友好。真正由入门到坚持，而不是由入门到放弃。推荐一下。<br><br>阮一峰的网络日志（隔三岔五逛逛）<br><br>https://www.ruanyifeng.com/blog/<br><br>通俗版本：<br><br>OAuth 2.0 的一个简单解释<br><br>https://www.ruanyifeng.com/blog/2019/04/oauth_design.html<br><br>OAuth 2.0 的四种方式<br><br>https://www.ruanyifeng.com/blog/2019/04/oauth-grant-types.html<br><br>GitHub OAuth 第三方登录示例教程<br><br>https://www.ruanyifeng.com/blog/2019/04/github-oauth.html<br><br>稍微抽象版本：<br><br>理解OAuth 2.0<br><br>https://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html<br><br>推荐上面搭配使用！]]></description>
+            <pubDate>Tue, 25 Jan 2022 10:19:34 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/61efceb6f0307c00104708f4</guid>
+            <link>https://m.okjike.com/originalPosts/61efceb6f0307c00104708f4</link>
             
             
             
