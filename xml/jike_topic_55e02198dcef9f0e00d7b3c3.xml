@@ -20,8 +20,43 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Fri, 28 Jan 2022 08:21:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 12:28:14 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[原来是这个意思，还挺生动形象的]]></title>
+            <description><![CDATA[<br>原来是这个意思，还挺生动形象的<br><picture><source srcset="https://cdn.jellow.site/Fi5PZQk2ngHk6xv_Emj9c-mGx6J-v2.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/Fi5PZQk2ngHk6xv_Emj9c-mGx6J-v2.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Fi5PZQk2ngHk6xv_Emj9c-mGx6J-v2.jpg"></picture>]]></description>
+            <pubDate>Thu, 27 Jan 2022 16:13:14 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/61f2c49a936eaf0010f0ff85</guid>
+            <link>https://m.okjike.com/originalPosts/61f2c49a936eaf0010f0ff85</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[剑指前端offer作者hzfe免费送红包封面啦，程序员专属😬
+数量还挺多的，随便领，欢迎扩散😀
+
+剑指前端offer📖：https://febook.hzfe.org/awesome-interview...]]></title>
+            <description><![CDATA[<br>                    <img referrerpolicy="no-referrer" src="https://cdn.jellow.site/icons/link.png"><br>                    <a href="https://support.weixin.qq.com/cgi-bin/mmsupport-bin/showredpacket?receiveuri=bPFDcgTtldT&amp;check_type=2#wechat_redirect">https://support.weixin.qq.com/cgi-bin/mmsupport-bin/showredpacket?receiveuri=bPFDcgTtldT&amp;check_type=2#wechat_redirect</a><br>                <br>剑指前端offer作者hzfe免费送红包封面啦，程序员专属😬<br>数量还挺多的，随便领，欢迎扩散😀<br><br>剑指前端offer📖：https://febook.hzfe.org/awesome-interview/]]></description>
+            <pubDate>Thu, 27 Jan 2022 12:34:49 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/61f291695865e700100d5f6b</guid>
+            <link>https://m.okjike.com/originalPosts/61f291695865e700100d5f6b</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[目前见过最好看的vue开源组件库]]></title>
@@ -56,24 +91,6 @@
         </item>
         
         <item>
-            <title><![CDATA[最近喜欢上一个叫做fair-code的概念。将产品作为开源软件运作，让企业私有部署作为第一顺位，而仍然保持对软件的盈利能力。
-
-一个很好的例子是n8n（n8n.io）。n8...]]></title>
-            <description><![CDATA[<br>                    <img referrerpolicy="no-referrer" src="https://faircode.io/logo.png"><br>                    <a href="https://faircode.io/">Fair-code</a><br>                <br>最近喜欢上一个叫做fair-code的概念。将产品作为开源软件运作，让企业私有部署作为第一顺位，而仍然保持对软件的盈利能力。<br><br>一个很好的例子是n8n（n8n.io）。n8n类似是一个开源的IFTTT，实现了一套完整的事件流设计、运行和管理的机制。<br><br>作为开源软件，n8n得到了很好的社区输入，使得自身的丰富性得到持续不断的增强（更多的插件）。另一方面，n8n也运营自己的云产品，向不想自行托管的客户收费。<br><br>从组织成长的角度看，开源软件更容易被替换。当不使用一套开源的方案后，相对地迁移到另一套方案的难度大概率会比较低。<br><br>感兴趣的朋友可以在faircode.io看到英文的解释。<br><br>举一个我看到的例子，Raport是一个metrics aggregator（https://raport.pro/）。简单说，就是能把Google Analytics、Facebook、Twitter之类的各种数据拉到一个界面。现在有很多类似的商业SaaS软件。<br><br>其实这些商业软件很多都能被Redash取代（https://github.com/getredash）。Redash是我多年前贡献过一阵子的开源数据可视化软件。你可以写SQL查询不同底层的数据库。如果想要支持商业数据，只需要让Redash支持读取Google Analytics、Facebook或者Twitter的数据就行了。Redash是基于BSD2的，所以理论上是可以通过这种方式被修改、开源并商业化的。<br><br>Redash本身也是一个fair-code项目，它的作者也提供付费的云服务。未来的几年如果能看到SaaS往fair-code的方向多发展，相信开源社区能够创造出相较于如今更多倍的价值。<br><br>如果有人愿意聊聊做fair-code项目，欢迎联系。]]></description>
-            <pubDate>Wed, 26 Jan 2022 06:56:43 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/61f0f0ab936eaf0010f0f502</guid>
-            <link>https://m.okjike.com/originalPosts/61f0f0ab936eaf0010f0f502</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[刚出来时就申请了，几个月了，终于等到我拿到爱的号码牌了🥺]]></title>
             <description><![CDATA[<br>刚出来时就申请了，几个月了，终于等到我拿到爱的号码牌了🥺<br><picture><source srcset="https://cdn.jellow.site/FkOXPF9Nur_ubhNr-90K9CoJN5BKv2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FkOXPF9Nur_ubhNr-90K9CoJN5BKv2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FkOXPF9Nur_ubhNr-90K9CoJN5BKv2.png"></picture>]]></description>
             <pubDate>Wed, 26 Jan 2022 04:52:21 GMT</pubDate>
@@ -95,22 +112,6 @@
             <pubDate>Tue, 25 Jan 2022 10:19:34 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/61efceb6f0307c00104708f4</guid>
             <link>https://m.okjike.com/originalPosts/61efceb6f0307c00104708f4</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[哪位大神翻译下看看对不对🌝🌝]]></title>
-            <description><![CDATA[<br>哪位大神翻译下看看对不对🌝🌝<br><picture><source srcset="https://cdn.jellow.site/FjZdBa51xBqzFdugbSH9IafSeXkxv2.jpeg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FjZdBa51xBqzFdugbSH9IafSeXkxv2.jpeg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FjZdBa51xBqzFdugbSH9IafSeXkxv2.jpeg"></picture>]]></description>
-            <pubDate>Sun, 23 Jan 2022 10:21:59 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/61ed2c47fc97a40010e438ee</guid>
-            <link>https://m.okjike.com/originalPosts/61ed2c47fc97a40010e438ee</link>
             
             
             
