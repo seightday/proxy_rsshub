@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[JitHub - 即刻圈子]]></title>
         <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
-        <atom:link href="http://rsshub/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
+        <atom:link href="https://vercel.getrss2021.xyz/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
         <description><![CDATA[开发者们分享，问答，也可以交友的地方。欢迎所有工程师！ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -20,8 +20,26 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 31 Jan 2022 04:23:39 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Mon, 31 Jan 2022 08:22:26 GMT</lastBuildDate>
+        <ttl>5</ttl>
+        
+        <item>
+            <title><![CDATA[朋友们，大家有没有代码洁癖症
+知道自己写的算法框架有些不舒服
+但又没想到更漂亮的新版解决方案]]></title>
+            <description><![CDATA[<br>朋友们，大家有没有代码洁癖症<br>知道自己写的算法框架有些不舒服<br>但又没想到更漂亮的新版解决方案<br><picture><source srcset="https://cdn.jellow.site/FhbgAuG7PPNF5vWAuNgje-4Nc_j7v2.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FhbgAuG7PPNF5vWAuNgje-4Nc_j7v2.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FhbgAuG7PPNF5vWAuNgje-4Nc_j7v2.jpg"></picture>]]></description>
+            <pubDate>Mon, 31 Jan 2022 03:01:45 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/61f75119237cbf0010095a53</guid>
+            <link>https://m.okjike.com/originalPosts/61f75119237cbf0010095a53</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[万即，想要知道有啥方法可以判断两个多边形是否相交。
@@ -66,25 +84,6 @@
             <pubDate>Sun, 30 Jan 2022 07:42:14 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/61f64156b7a4c6001033f932</guid>
             <link>https://m.okjike.com/originalPosts/61f64156b7a4c6001033f932</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Notion、WordPress 等有基于Block概念的编辑器。人们喜欢 Block。
-
-我们似乎标准化了一件事：插入新 Block 的 / 键。但是其他所有的内容都是完全专有且非标准的
-...]]></title>
-            <description><![CDATA[<br>                    <img referrerpolicy="no-referrer" src="https://blockprotocol.org/assets/bp_og_cover.png"><br>                    <a href="https://blockprotocol.org/">Block Protocol</a><br>                <br>Notion、WordPress 等有基于Block概念的编辑器。人们喜欢 Block。<br><br>我们似乎标准化了一件事：插入新 Block 的 / 键。但是其他所有的内容都是完全专有且非标准的<br><br>如果在网络上的 Block 是可互换和可重复使用的，不是很酷吗？<br><br>于是一个开放的、免费的、非专有的协议诞生了👇]]></description>
-            <pubDate>Fri, 28 Jan 2022 07:03:47 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/61f39553b5300b00119ed15a</guid>
-            <link>https://m.okjike.com/originalPosts/61f39553b5300b00119ed15a</link>
             
             
             
@@ -163,7 +162,7 @@ Day014 optionals, nil coalescing, and checkpoint 9
         
         <item>
             <title><![CDATA[Github 推出了新的产品 Code Search，https://cs.github.com/about ，从此在 Github 的工作就不仅仅是 Copy & Paste 了，还有 Search :-)]]></title>
-            <description><![CDATA[<br>Github 推出了新的产品 Code Search，https://cs.github.com/about ，从此在 Github 的工作就不仅仅是 Copy &amp; Paste 了，还有 Search :-)<br><picture><source srcset="https://cdn.jellow.site/FvBnPY-3Q7WwnScT4ivxggqE-Qx1v2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FvBnPY-3Q7WwnScT4ivxggqE-Qx1v2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FvBnPY-3Q7WwnScT4ivxggqE-Qx1v2.png"></picture>]]></description>
+            <description><![CDATA[<br>Github 推出了新的产品 Code Search，https://cs.github.com/about ，从此在 Github 的工作就不仅仅是 Copy & Paste 了，还有 Search :-)<br><picture><source srcset="https://cdn.jellow.site/FvBnPY-3Q7WwnScT4ivxggqE-Qx1v2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FvBnPY-3Q7WwnScT4ivxggqE-Qx1v2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FvBnPY-3Q7WwnScT4ivxggqE-Qx1v2.png"></picture>]]></description>
             <pubDate>Fri, 10 Dec 2021 08:23:19 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/61b30e775466fb00111d6a14</guid>
             <link>https://m.okjike.com/originalPosts/61b30e775466fb00111d6a14</link>
