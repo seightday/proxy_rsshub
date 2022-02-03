@@ -20,7 +20,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 02 Feb 2022 20:19:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 01:00:20 GMT</lastBuildDate>
         <ttl>1</ttl>
         
         <item>
@@ -40,14 +40,13 @@
         </item>
         
         <item>
-            <title><![CDATA[Day 4 / JavaScript 
+            <title><![CDATA[Rich-cli是一个命令行工具箱，用于终端中的花哨输出，使用Rich Python库构建。
 
-今天的有一点点难，数学公式犹豫着不太会写
-但好在还是磕磕绊绊又多了几格进度！🥳]]></title>
-            <description><![CDATA[<br>Day 4 / JavaScript <br><br>今天的有一点点难，数学公式犹豫着不太会写<br>但好在还是磕磕绊绊又多了几格进度！🥳<br><picture><source srcset="https://cdn.jellow.site/Fvunw76yzrRgdQqR1frpSwRLHx7Pv2.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/Fvunw76yzrRgdQqR1frpSwRLHx7Pv2.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Fvunw76yzrRgdQqR1frpSwRLHx7Pv2.jpg"></picture>]]></description>
-            <pubDate>Wed, 02 Feb 2022 05:57:52 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/61fa1d605e62db0010d012ef</guid>
-            <link>https://m.okjike.com/originalPosts/61fa1d605e62db0010d012ef</link>
+使用rich命令突出显示终端中的各种文件类型，并为Markdown和JSON文件提供专门渲...]]></title>
+            <description><![CDATA[<br>Rich-cli是一个命令行工具箱，用于终端中的花哨输出，使用Rich Python库构建。<br><br>使用rich命令突出显示终端中的各种文件类型，并为Markdown和JSON文件提供专门渲染。此外，您可以从命令行标记文本并设置格式。<br><picture><source srcset="https://cdn.jellow.site/FpAxGQwHEsbWXcDYDehkg3gb4gFBv2.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FpAxGQwHEsbWXcDYDehkg3gb4gFBv2.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FpAxGQwHEsbWXcDYDehkg3gb4gFBv2.jpg"></picture>]]></description>
+            <pubDate>Wed, 02 Feb 2022 11:37:24 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/61fa6cf417f76d00100266e2</guid>
+            <link>https://m.okjike.com/originalPosts/61fa6cf417f76d00100266e2</link>
             
             
             
