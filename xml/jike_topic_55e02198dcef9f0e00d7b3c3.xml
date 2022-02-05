@@ -20,7 +20,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sat, 05 Feb 2022 12:22:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Feb 2022 16:20:45 GMT</lastBuildDate>
         <ttl>1</ttl>
         
         <item>
@@ -45,6 +45,22 @@
             <pubDate>Sat, 05 Feb 2022 00:55:15 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/61fdcaf317f76d00100277b4</guid>
             <link>https://m.okjike.com/originalPosts/61fdcaf317f76d00100277b4</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[回归到我的 Coral（ 一个 Golang 实现的编程语言 - 目前还只有编译器前端，做到语义分析阶段 - 其实 Parser 也不见得完善，不断修修改改中 🔨 - 单元测试丰富...]]></title>
+            <description><![CDATA[<br>回归到我的 Coral（ 一个 Golang 实现的编程语言 - 目前还只有编译器前端，做到语义分析阶段 - 其实 Parser 也不见得完善，不断修修改改中 🔨 - 单元测试丰富，几乎写一个功能就补一个测试 ）<br><br>过年这几天一边陪老人，一边把编译错误重新搞了下。<br><br>——————————————<br>如果你真的很闲，可以来看看我这个其实啥用也没有的 编程语言实现旅程<br>https://github.com/ShenQingchuan/Coral-lang<br><picture><source srcset="https://cdn.jellow.site/FrTXIXHE_cAntBoAG7ASdsJgrk2Rv2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FrTXIXHE_cAntBoAG7ASdsJgrk2Rv2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FrTXIXHE_cAntBoAG7ASdsJgrk2Rv2.png"></picture>]]></description>
+            <pubDate>Fri, 04 Feb 2022 15:13:28 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/61fd429882c6a9001184f7d2</guid>
+            <link>https://m.okjike.com/originalPosts/61fd429882c6a9001184f7d2</link>
             
             
             
@@ -93,22 +109,6 @@
             <pubDate>Thu, 03 Feb 2022 05:27:45 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/61fb67d1a25bfe001188bbff</guid>
             <link>https://m.okjike.com/originalPosts/61fb67d1a25bfe001188bbff</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[我一直喷小程序造成信息孤岛，但当今天去麦当劳点餐时候发现要下个50m的客户端，里面还用RN（谢谢没上flutter），顿时觉得不管是web3还是5g消息快来吧]]></title>
-            <description><![CDATA[<br>我一直喷小程序造成信息孤岛，但当今天去麦当劳点餐时候发现要下个50m的客户端，里面还用RN（谢谢没上flutter），顿时觉得不管是web3还是5g消息快来吧<br><picture><source srcset="https://cdn.jellow.site/FjEDBJR3SJWyBWkWizFTQjys69fpv2.jpeg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FjEDBJR3SJWyBWkWizFTQjys69fpv2.jpeg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FjEDBJR3SJWyBWkWizFTQjys69fpv2.jpeg"></picture>]]></description>
-            <pubDate>Thu, 03 Feb 2022 03:56:13 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/61fb525d237cbf0010096ffb</guid>
-            <link>https://m.okjike.com/originalPosts/61fb525d237cbf0010096ffb</link>
             
             
             
