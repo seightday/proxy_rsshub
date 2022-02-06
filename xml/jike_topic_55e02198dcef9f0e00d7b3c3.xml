@@ -20,7 +20,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sun, 06 Feb 2022 12:26:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Feb 2022 16:25:24 GMT</lastBuildDate>
         <ttl>1</ttl>
         
         <item>
@@ -74,6 +74,22 @@
         </item>
         
         <item>
+            <title><![CDATA[回归到我的 Coral（ 一个 Golang 实现的编程语言 - 目前还只有编译器前端，做到语义分析阶段 - 其实 Parser 也不见得完善，不断修修改改中 🔨 - 单元测试丰富...]]></title>
+            <description><![CDATA[<br>回归到我的 Coral（ 一个 Golang 实现的编程语言 - 目前还只有编译器前端，做到语义分析阶段 - 其实 Parser 也不见得完善，不断修修改改中 🔨 - 单元测试丰富，几乎写一个功能就补一个测试 ）<br><br>过年这几天一边陪老人，一边把编译错误重新搞了下。<br><br>——————————————<br>如果你真的很闲，可以来看看我这个其实啥用也没有的 编程语言实现旅程<br>https://github.com/ShenQingchuan/Coral-lang<br><picture><source srcset="https://cdn.jellow.site/FrTXIXHE_cAntBoAG7ASdsJgrk2Rv2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FrTXIXHE_cAntBoAG7ASdsJgrk2Rv2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FrTXIXHE_cAntBoAG7ASdsJgrk2Rv2.png"></picture>]]></description>
+            <pubDate>Fri, 04 Feb 2022 15:13:28 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/61fd429882c6a9001184f7d2</guid>
+            <link>https://m.okjike.com/originalPosts/61fd429882c6a9001184f7d2</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[终于可以从Ctrl+C/V程序员变成Tab程序员了👍🏿]]></title>
             <description><![CDATA[<br>终于可以从Ctrl+C/V程序员变成Tab程序员了👍🏿<br><picture><source srcset="https://cdn.jellow.site/FtGwEQbwgmMtQg_pIC4hiysSmObwv2.jpeg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FtGwEQbwgmMtQg_pIC4hiysSmObwv2.jpeg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FtGwEQbwgmMtQg_pIC4hiysSmObwv2.jpeg"></picture>]]></description>
             <pubDate>Fri, 04 Feb 2022 07:08:28 GMT</pubDate>
@@ -95,22 +111,6 @@
             <pubDate>Fri, 04 Feb 2022 06:23:58 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/61fcc67e17f76d0010027219</guid>
             <link>https://m.okjike.com/originalPosts/61fcc67e17f76d0010027219</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[去年，OpenAI 发布了重磅产品——Codex，一个能自己编程的 AI。然后Github 发布了Copilot，刚刚 DeepMind 发布了竞赛级代码生成系统 AlphaCode，并声称新的代码...]]></title>
-            <description><![CDATA[<br>                    <img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/vz8uwIhCXl_JqJGaUoUessaut6aLXPffnRi4fq7M82o01WJOBKFIWkPLh6Hg-tvnJCLw6mKu-gEGUNIPftbm7xzwUfZFKRl9VW-Nl-IbIFcbgAiKh7A9"><br>                    <a href="https://www.deepmind.com/blog/article/Competitive-programming-with-AlphaCode">Competitive programming with AlphaCode</a><br>                <br>去年，OpenAI 发布了重磅产品——Codex，一个能自己编程的 AI。然后Github 发布了Copilot，刚刚 DeepMind 发布了竞赛级代码生成系统 AlphaCode，并声称新的代码生成系统可与人类程序员竞争，这个编程版“阿法狗”还悄悄参赛 Codeforces，击败了一半程序员。]]></description>
-            <pubDate>Thu, 03 Feb 2022 05:27:45 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/61fb67d1a25bfe001188bbff</guid>
-            <link>https://m.okjike.com/originalPosts/61fb67d1a25bfe001188bbff</link>
             
             
             
