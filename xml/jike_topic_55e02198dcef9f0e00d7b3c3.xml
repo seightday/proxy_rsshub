@@ -20,15 +20,19 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Fri, 11 Feb 2022 04:22:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 08:20:37 GMT</lastBuildDate>
         <ttl>1</ttl>
         
         <item>
-            <title><![CDATA[气抖冷，编程网站夹带私货，骗我去看 80 年代劲舞金曲。]]></title>
-            <description><![CDATA[<br>气抖冷，编程网站夹带私货，骗我去看 80 年代劲舞金曲。<br><picture><source srcset="https://cdn.jellow.site/FoPXXtyhkqor4O68U995MUOb7ayGv2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FoPXXtyhkqor4O68U995MUOb7ayGv2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FoPXXtyhkqor4O68U995MUOb7ayGv2.png"></picture><br><picture><source srcset="https://cdn.jellow.site/FjulEMN4mk8vU_fXP5WaHwO4fl37v2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FjulEMN4mk8vU_fXP5WaHwO4fl37v2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FjulEMN4mk8vU_fXP5WaHwO4fl37v2.png"></picture>]]></description>
-            <pubDate>Thu, 10 Feb 2022 13:32:35 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/620513f3a25bfe001188eef7</guid>
-            <link>https://m.okjike.com/originalPosts/620513f3a25bfe001188eef7</link>
+            <title><![CDATA[neno 是什么
+https://www.github.com/openneno/neno   
+neno 笔记项目最初是由仿写浮墨笔记而来的。
+
+neno 笔记是以 github 仓库作为存储，不依赖与任何后端的完...]]></title>
+            <description><![CDATA[<br>neno 是什么<br>https://www.github.com/openneno/neno   <br>neno 笔记项目最初是由仿写浮墨笔记而来的。<br><br>neno 笔记是以 github 仓库作为存储，不依赖与任何后端的完全开源的笔记应用。<br><br>技术上使用了svelte 和tailwindcss 。<br><br>neno 能做什么<br>我很喜欢卡片式的笔记记录方式和使用标签的分类方式。<br><br>这方面，浮墨笔记应该是做的最好的。<br><br>正如开头写的那样，neno 只是浮墨笔记的模仿者。如果你喜欢这种记录方式，并且对数据安全和数据迁移能力有一定自己的需求，那么你可以尝试 neno 。<br><br>neno 的外围工具有哪些<br>考虑到笔记来源的多样性和输入方式的多样性，我开发了几个快速输入的工具。<br><br>微信输入<br>使用了个人微信公众号的接口，可以快速输入笔记到 neno<br><br>neno-wx由 python 编写,可以使用 severless 的方式进行部署,可以自己部署到服务器<br><br>telegram bot<br>使用了 telo<br>egram bot<br><br>neno-tg同样由 python 编写,部署方式和上面相同。<br><br>utools 的 neno 插件<br>utools 是我一直在使用的快速效率工具,我也为它设计了 neno 的插件<br><br>在 utools 中，搜索 neno 就可以使用 neno 的插件。<br><br>neno-cli 是在命令行中进行笔记的输入。<br>使用 golang 编写，可以通过add命令行进行笔记的输入。<br><br>考虑到可能有很多笔记散落在 kindle,微信读书,网页摘录等等,这些源的输入我正在开发中(指新建文件夹)。<br><br>考虑到移动设备的的输入，neno 的 APP 也正在开发中,计划使用 flutter 做跨端的开发。<br><br>如果你喜欢neno ，你可以在 github 上点个 star,鼓励我继续开发。<br><br>如果你也对 neno 的开发有想法，你可以加我 wx：bmFybXpteQ== ，加入群聊，或者在 github 上提 issue 。<br><br>另外：我正在找远程的工作。<br><br>我的技术栈是 golang 、vue 、svelte ，小程序。<br><br>很感谢能看到这里。]]></description>
+            <pubDate>Fri, 11 Feb 2022 01:57:34 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6205c28e237cbf001009a648</guid>
+            <link>https://m.okjike.com/originalPosts/6205c28e237cbf001009a648</link>
             
             
             
@@ -40,12 +44,11 @@
         </item>
         
         <item>
-            <title><![CDATA[年后第一条更新来了！除了聊会儿技术以外还有前所未有的极长考拉唠嗑时间，讲了讲我人生滑雪第一摔的故事_(:_」∠)_
-看比赛看得人根本坐不住啊想立刻飞到新疆去...]]></title>
-            <description><![CDATA[<br>                    <img referrerpolicy="no-referrer" src="http://mmbiz.qpic.cn/mmbiz_jpg/ynfhMM8PT7UNOvES9ZNZIfRaslRBTibMepqgAhFDgNQualaHawuIkLHbKqIznnLcG6apibtWpibXvdSibTBkXolmlA/0?wx_fmt=jpeg"><br>                    <a href="https://mp.weixin.qq.com/s/y5jZL3PoEs6R7D0BUFs94w">【ReactiveJava】简单聊聊Vert.x和一些往日滑雪搞笑事件</a><br>                <br>年后第一条更新来了！除了聊会儿技术以外还有前所未有的极长考拉唠嗑时间，讲了讲我人生滑雪第一摔的故事_(:_」∠)_<br>看比赛看得人根本坐不住啊想立刻飞到新疆去！<br>希望大家看得开心🥳]]></description>
-            <pubDate>Thu, 10 Feb 2022 09:42:35 GMT</pubDate>
-            <guid isPermaLink="false">https://mp.weixin.qq.com/s/y5jZL3PoEs6R7D0BUFs94w</guid>
-            <link>https://mp.weixin.qq.com/s/y5jZL3PoEs6R7D0BUFs94w</link>
+            <title><![CDATA[气抖冷，编程网站夹带私货，骗我去看 80 年代劲舞金曲。]]></title>
+            <description><![CDATA[<br>气抖冷，编程网站夹带私货，骗我去看 80 年代劲舞金曲。<br><picture><source srcset="https://cdn.jellow.site/FoPXXtyhkqor4O68U995MUOb7ayGv2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FoPXXtyhkqor4O68U995MUOb7ayGv2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FoPXXtyhkqor4O68U995MUOb7ayGv2.png"></picture><br><picture><source srcset="https://cdn.jellow.site/FjulEMN4mk8vU_fXP5WaHwO4fl37v2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FjulEMN4mk8vU_fXP5WaHwO4fl37v2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FjulEMN4mk8vU_fXP5WaHwO4fl37v2.png"></picture>]]></description>
+            <pubDate>Thu, 10 Feb 2022 13:32:35 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/620513f3a25bfe001188eef7</guid>
+            <link>https://m.okjike.com/originalPosts/620513f3a25bfe001188eef7</link>
             
             
             
