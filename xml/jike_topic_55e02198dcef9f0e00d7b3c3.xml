@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[JitHub - 即刻圈子]]></title>
         <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
-        <atom:link href="http://rsshub/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
+        <atom:link href="https://vercel.getrss2021.xyz/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
         <description><![CDATA[开发者们分享，问答，也可以交友的地方。欢迎所有工程师！ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -20,8 +20,47 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 15 Feb 2022 04:23:36 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Tue, 15 Feb 2022 08:21:52 GMT</lastBuildDate>
+        <ttl>5</ttl>
+        
+        <item>
+            <title><![CDATA[马士兵到底是什么妖魔鬼怪，感觉快占领 B 站科技区了，什么 Java 八股文，每个账号都要发一遍。先不论讲得好不好，这种做法就很恶心。]]></title>
+            <description><![CDATA[<br>马士兵到底是什么妖魔鬼怪，感觉快占领 B 站科技区了，什么 Java 八股文，每个账号都要发一遍。先不论讲得好不好，这种做法就很恶心。<br><picture><source srcset="https://cdn.jellow.site/FiN_cxD4mqpzvKRy0UhqCVb4Oo-vv2.jpeg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FiN_cxD4mqpzvKRy0UhqCVb4Oo-vv2.jpeg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FiN_cxD4mqpzvKRy0UhqCVb4Oo-vv2.jpeg"></picture>]]></description>
+            <pubDate>Tue, 15 Feb 2022 03:48:45 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/620b229d07e8950010cf694b</guid>
+            <link>https://m.okjike.com/originalPosts/620b229d07e8950010cf694b</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[情人🧡節老婆不在🖤家
+孤獨🧡寂寞就來玩🖤我
+只有妳想不到的
+沒有妳玩不到的
+午夜必備神器
+激情互動
+多人交互共享資源
+java，kotlin，python，c++應有盡...]]></title>
+            <description><![CDATA[<br>情人🧡節老婆不在🖤家<br>孤獨🧡寂寞就來玩🖤我<br>只有妳想不到的<br>沒有妳玩不到的<br>午夜必備神器<br>激情互動<br>多人交互共享資源<br>java，kotlin，python，c++應有盡有類型齊全<br>全棧工程，傳統寫bug，海到晚上睡不著<br>🌐https://github.com/<br>快來體驗壹下吧<br>有頭髮🈲入]]></description>
+            <pubDate>Mon, 14 Feb 2022 14:42:38 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/620a6a5e09c40f0010a4ce3e</guid>
+            <link>https://m.okjike.com/originalPosts/620a6a5e09c40f0010a4ce3e</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[目前在做java开发，老板说rust+wasm是未来主流，想让我学rust，但是我本人想转golang已经自学的差不多了，问下广大即友，未来go和rust哪个好?]]></title>
@@ -73,22 +112,6 @@
         </item>
         
         <item>
-            <title><![CDATA[挑战 B 站底线属于是，现在都还没下架视频，应该是默许了。]]></title>
-            <description><![CDATA[<br>挑战 B 站底线属于是，现在都还没下架视频，应该是默许了。<br><picture><source srcset="https://cdn.jellow.site/FiXVUyWFcwre48eSkXCElSost2rAv2.jpeg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FiXVUyWFcwre48eSkXCElSost2rAv2.jpeg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FiXVUyWFcwre48eSkXCElSost2rAv2.jpeg"></picture>]]></description>
-            <pubDate>Sun, 13 Feb 2022 08:19:24 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6208bf0c5e62db0010d05e0a</guid>
-            <link>https://m.okjike.com/originalPosts/6208bf0c5e62db0010d05e0a</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[推荐一个技术向的周刊，不止技术，互联网爱好者都可以看：
 
 - 混沌周刊：https://weekly.love/
@@ -98,24 +121,6 @@
             <pubDate>Sun, 13 Feb 2022 07:02:25 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6208ad010256da0010796e76</guid>
             <link>https://m.okjike.com/originalPosts/6208ad010256da0010796e76</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[今年想要学习前端，前端的小伙伴可以帮忙推荐一些学习资料么。
-有编程基础，前端知识 === 0。
-想要从头开始学习前端，现在前端的框架知识太多了，有点无从下手的...]]></title>
-            <description><![CDATA[<br>今年想要学习前端，前端的小伙伴可以帮忙推荐一些学习资料么。<br>有编程基础，前端知识 === 0。<br>想要从头开始学习前端，现在前端的框架知识太多了，有点无从下手的感觉 🤣]]></description>
-            <pubDate>Thu, 10 Feb 2022 08:29:43 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6204ccf70256da0010795bec</guid>
-            <link>https://m.okjike.com/originalPosts/6204ccf70256da0010795bec</link>
             
             
             
@@ -180,7 +185,7 @@ Day014 optionals, nil coalescing, and checkpoint 9
         
         <item>
             <title><![CDATA[Github 推出了新的产品 Code Search，https://cs.github.com/about ，从此在 Github 的工作就不仅仅是 Copy & Paste 了，还有 Search :-)]]></title>
-            <description><![CDATA[<br>Github 推出了新的产品 Code Search，https://cs.github.com/about ，从此在 Github 的工作就不仅仅是 Copy &amp; Paste 了，还有 Search :-)<br><picture><source srcset="https://cdn.jellow.site/FvBnPY-3Q7WwnScT4ivxggqE-Qx1v2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FvBnPY-3Q7WwnScT4ivxggqE-Qx1v2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FvBnPY-3Q7WwnScT4ivxggqE-Qx1v2.png"></picture>]]></description>
+            <description><![CDATA[<br>Github 推出了新的产品 Code Search，https://cs.github.com/about ，从此在 Github 的工作就不仅仅是 Copy & Paste 了，还有 Search :-)<br><picture><source srcset="https://cdn.jellow.site/FvBnPY-3Q7WwnScT4ivxggqE-Qx1v2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FvBnPY-3Q7WwnScT4ivxggqE-Qx1v2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FvBnPY-3Q7WwnScT4ivxggqE-Qx1v2.png"></picture>]]></description>
             <pubDate>Fri, 10 Dec 2021 08:23:19 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/61b30e775466fb00111d6a14</guid>
             <link>https://m.okjike.com/originalPosts/61b30e775466fb00111d6a14</link>
