@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[JitHub - 即刻圈子]]></title>
         <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
-        <atom:link href="https://vercel.getrss2021.xyz/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
+        <atom:link href="http://rsshub/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
         <description><![CDATA[开发者们分享，问答，也可以交友的地方。欢迎所有工程师！ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -20,8 +20,8 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 15 Feb 2022 08:21:52 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Tue, 15 Feb 2022 12:29:07 GMT</lastBuildDate>
+        <ttl>1</ttl>
         
         <item>
             <title><![CDATA[马士兵到底是什么妖魔鬼怪，感觉快占领 B 站科技区了，什么 Java 八股文，每个账号都要发一遍。先不论讲得好不好，这种做法就很恶心。]]></title>
@@ -79,11 +79,12 @@ java，kotlin，python，c++應有盡...]]></title>
         </item>
         
         <item>
-            <title><![CDATA[突然发现在 B 站宣传一些程序或者网站，标题一般都会有耗时多少天，多少岁，良心免费。]]></title>
-            <description><![CDATA[<br>突然发现在 B 站宣传一些程序或者网站，标题一般都会有耗时多少天，多少岁，良心免费。<br><picture><source srcset="https://cdn.jellow.site/FmZBEZ3MQm2a7TkRw5RClg2Lu0O_v2.jpeg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FmZBEZ3MQm2a7TkRw5RClg2Lu0O_v2.jpeg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FmZBEZ3MQm2a7TkRw5RClg2Lu0O_v2.jpeg"></picture>]]></description>
-            <pubDate>Mon, 14 Feb 2022 02:29:49 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6209be9d66ba8f00108f0165</guid>
-            <link>https://m.okjike.com/originalPosts/6209be9d66ba8f00108f0165</link>
+            <title><![CDATA[今天情人节，如果还没想好怎么送礼物，可以参考下我这个：
+去年给女朋友做的，一个纯前端实现的送礼抽奖小工具，前面好几个页面都可以用来写情话，送礼效果拉满...]]></title>
+            <description><![CDATA[<br>今天情人节，如果还没想好怎么送礼物，可以参考下我这个：<br>去年给女朋友做的，一个纯前端实现的送礼抽奖小工具，前面好几个页面都可以用来写情话，送礼效果拉满。<br>在线demo：https://valentine.kyrieliu.cn/<br>现在已经开源到 Github 了，并且附上了很详细的配置说明（万物皆可配置），欢迎 star / fork / 使用。<br><picture><source srcset="https://cdn.jellow.site/Fg25EyVIUNpf3OwTVa851cOjPFABv2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/Fg25EyVIUNpf3OwTVa851cOjPFABv2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Fg25EyVIUNpf3OwTVa851cOjPFABv2.png"></picture>]]></description>
+            <pubDate>Mon, 14 Feb 2022 01:44:12 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6209b3ec936eaf0010f175be</guid>
+            <link>https://m.okjike.com/originalPosts/6209b3ec936eaf0010f175be</link>
             
             
             
@@ -95,12 +96,11 @@ java，kotlin，python，c++應有盡...]]></title>
         </item>
         
         <item>
-            <title><![CDATA[今天情人节，如果还没想好怎么送礼物，可以参考下我这个：
-去年给女朋友做的，一个纯前端实现的送礼抽奖小工具，前面好几个页面都可以用来写情话，送礼效果拉满...]]></title>
-            <description><![CDATA[<br>今天情人节，如果还没想好怎么送礼物，可以参考下我这个：<br>去年给女朋友做的，一个纯前端实现的送礼抽奖小工具，前面好几个页面都可以用来写情话，送礼效果拉满。<br>在线demo：https://valentine.kyrieliu.cn/<br>现在已经开源到 Github 了，并且附上了很详细的配置说明（万物皆可配置），欢迎 star / fork / 使用。<br><picture><source srcset="https://cdn.jellow.site/Fg25EyVIUNpf3OwTVa851cOjPFABv2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/Fg25EyVIUNpf3OwTVa851cOjPFABv2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Fg25EyVIUNpf3OwTVa851cOjPFABv2.png"></picture>]]></description>
-            <pubDate>Mon, 14 Feb 2022 01:44:12 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6209b3ec936eaf0010f175be</guid>
-            <link>https://m.okjike.com/originalPosts/6209b3ec936eaf0010f175be</link>
+            <title><![CDATA[挑战 B 站底线属于是，现在都还没下架视频，应该是默许了。]]></title>
+            <description><![CDATA[<br>挑战 B 站底线属于是，现在都还没下架视频，应该是默许了。<br><picture><source srcset="https://cdn.jellow.site/FiXVUyWFcwre48eSkXCElSost2rAv2.jpeg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FiXVUyWFcwre48eSkXCElSost2rAv2.jpeg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FiXVUyWFcwre48eSkXCElSost2rAv2.jpeg"></picture>]]></description>
+            <pubDate>Sun, 13 Feb 2022 08:19:24 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6208bf0c5e62db0010d05e0a</guid>
+            <link>https://m.okjike.com/originalPosts/6208bf0c5e62db0010d05e0a</link>
             
             
             
@@ -185,7 +185,7 @@ Day014 optionals, nil coalescing, and checkpoint 9
         
         <item>
             <title><![CDATA[Github 推出了新的产品 Code Search，https://cs.github.com/about ，从此在 Github 的工作就不仅仅是 Copy & Paste 了，还有 Search :-)]]></title>
-            <description><![CDATA[<br>Github 推出了新的产品 Code Search，https://cs.github.com/about ，从此在 Github 的工作就不仅仅是 Copy & Paste 了，还有 Search :-)<br><picture><source srcset="https://cdn.jellow.site/FvBnPY-3Q7WwnScT4ivxggqE-Qx1v2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FvBnPY-3Q7WwnScT4ivxggqE-Qx1v2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FvBnPY-3Q7WwnScT4ivxggqE-Qx1v2.png"></picture>]]></description>
+            <description><![CDATA[<br>Github 推出了新的产品 Code Search，https://cs.github.com/about ，从此在 Github 的工作就不仅仅是 Copy &amp; Paste 了，还有 Search :-)<br><picture><source srcset="https://cdn.jellow.site/FvBnPY-3Q7WwnScT4ivxggqE-Qx1v2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FvBnPY-3Q7WwnScT4ivxggqE-Qx1v2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FvBnPY-3Q7WwnScT4ivxggqE-Qx1v2.png"></picture>]]></description>
             <pubDate>Fri, 10 Dec 2021 08:23:19 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/61b30e775466fb00111d6a14</guid>
             <link>https://m.okjike.com/originalPosts/61b30e775466fb00111d6a14</link>
