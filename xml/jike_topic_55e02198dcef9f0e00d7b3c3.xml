@@ -20,8 +20,27 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Fri, 18 Feb 2022 04:23:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 08:21:14 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[不要用打码来隐藏信息，唯一有效的方式就是黑色方块盖住。
+https://bishopfox.com/blog/unredacter-tool-never-pixelation
+
+这篇文章讲了把打码文字还原的原理以...]]></title>
+            <description><![CDATA[<br>不要用打码来隐藏信息，唯一有效的方式就是黑色方块盖住。<br>https://bishopfox.com/blog/unredacter-tool-never-pixelation<br><br>这篇文章讲了把打码文字还原的原理以及各种细节问题，并开源了工具库 https://github.com/bishopfox/unredacter 。<br><br>之前Depix( https://github.com/beurtschipper/Depix )这个库也做了同样的事情，但效果一般。<br><picture><source srcset="https://cdn.jellow.site/FnKRR5bRcSoW1SdhL-woAgJSR0NDv2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FnKRR5bRcSoW1SdhL-woAgJSR0NDv2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FnKRR5bRcSoW1SdhL-woAgJSR0NDv2.png"></picture><br><picture><source srcset="https://cdn.jellow.site/FtS7ZqFbIti0O6B_7pFSsJ9bLQMWv2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FtS7ZqFbIti0O6B_7pFSsJ9bLQMWv2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FtS7ZqFbIti0O6B_7pFSsJ9bLQMWv2.png"></picture>]]></description>
+            <pubDate>Fri, 18 Feb 2022 07:39:38 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/620f4d3a17f76d001002cf80</guid>
+            <link>https://m.okjike.com/originalPosts/620f4d3a17f76d001002cf80</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[程序开发过程中的常用工具合集：
@@ -81,23 +100,6 @@ https://github.com/baiy/Ctool]]></title>
             <pubDate>Tue, 15 Feb 2022 15:06:04 GMT</pubDate>
             <guid isPermaLink="false">https://mp.weixin.qq.com/s/vQV1K7tXCEZWFpOTFgH8wg</guid>
             <link>https://mp.weixin.qq.com/s/vQV1K7tXCEZWFpOTFgH8wg</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[整理的数据结构和算法知识图，供自己查阅和复习。有需要的自取
-（为什么要删我动态？）]]></title>
-            <description><![CDATA[<br>整理的数据结构和算法知识图，供自己查阅和复习。有需要的自取<br>（为什么要删我动态？）<br><picture><source srcset="https://cdn.jellow.site/FmUne3VTwVNvkVzwECKGEnCIWR0yv2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FmUne3VTwVNvkVzwECKGEnCIWR0yv2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FmUne3VTwVNvkVzwECKGEnCIWR0yv2.png"></picture>]]></description>
-            <pubDate>Tue, 15 Feb 2022 03:45:24 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/620b21d41561300010b02459</guid>
-            <link>https://m.okjike.com/originalPosts/620b21d41561300010b02459</link>
             
             
             
