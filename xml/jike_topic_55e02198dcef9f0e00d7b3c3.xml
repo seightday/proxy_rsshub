@@ -20,7 +20,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 03 Mar 2022 12:31:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 16:28:43 GMT</lastBuildDate>
         <ttl>1</ttl>
         
         <item>
@@ -42,11 +42,11 @@
         </item>
         
         <item>
-            <title><![CDATA[现在程序员写 bug 又有了新借口，这是 Copilot 帮我写的，我没仔细看，🌶️🐔 Copilot *（其实是自己写的）]]></title>
-            <description><![CDATA[<br>现在程序员写 bug 又有了新借口，这是 Copilot 帮我写的，我没仔细看，🌶️🐔 Copilot *（其实是自己写的）]]></description>
-            <pubDate>Thu, 03 Mar 2022 02:02:15 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/622021a7d049db0010473545</guid>
-            <link>https://m.okjike.com/originalPosts/622021a7d049db0010473545</link>
+            <title><![CDATA[GitHub Copilot 给的补全，AI 怒斥 React 了属于是🤔]]></title>
+            <description><![CDATA[<br>GitHub Copilot 给的补全，AI 怒斥 React 了属于是🤔<br><picture><source srcset="https://cdn.jellow.site/FgWjJLH7XNkCNrJFobgsuQcwXvbCv2.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FgWjJLH7XNkCNrJFobgsuQcwXvbCv2.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FgWjJLH7XNkCNrJFobgsuQcwXvbCv2.jpg"></picture>]]></description>
+            <pubDate>Thu, 03 Mar 2022 10:00:52 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/622091d45700790010feb517</guid>
+            <link>https://m.okjike.com/originalPosts/622091d45700790010feb517</link>
             
             
             
@@ -58,15 +58,27 @@
         </item>
         
         <item>
-            <title><![CDATA[Pytorch 外置手册(U-tools专用)
-
-本手册依赖 [uTools效率工具](http://www.u.tools/) 以及 [程序员手册插件](https://yuanliao.info/d/356-1-1-4-bug-tmux)
-
-手...]]></title>
-            <description><![CDATA[<br>Pytorch 外置手册(U-tools专用)<br><br>本手册依赖 [uTools效率工具](http://www.u.tools/) 以及 [程序员手册插件](https://yuanliao.info/d/356-1-1-4-bug-tmux)<br><br>手册优点：<br><br>1. 借助Utools可实现API速查<br>2. 离线文档，搜索速度比官方快很多<br>3. 精简全部JS引入，提高加载速度<br>4. 精简部分CSS样式，提高阅读体验<br>5. 精简无关标签，提高阅读体验<br><br>Github：https://github.com/Nothing1024<br><br>下载地址：https://github.com/Nothing1024/Pytorch-handbook-Utools/releases<br><br>Pytorch 外置手册实现思路：<br><br>1. 下载地址保存路径插件工具解压无关元素，只保留内容元素<br>2. 调整CSS文件，内容能够填充100%(因为手册默认渲染是有外边距的)<br>3. 获取网站对应超链接：我个人分为三类，含有API目录的（两列列表）| 单页内容含有API | 纯超链接<br>4. 对应类别设置对应的id获取：<br>   a. 含有API目录的（两列列表）：找到对应表格，第一列获取名称，id，路径，第二列获取描述<br>   b. 单页内容含有API：获取对应<dt>标签，通过id获取名称，通过拼接当前url获取路径，通过后面的内容获取描述<br>   c. 纯超链接：只保留单页，感觉不用扩展<br>5. 拼接JSON，通过刚才获得的URL爬取网页<br><br>爬取期间遇到的情况：<br><br>1. 刚开始本来想直接爬第三方文档的，样式简单也好爬，但只找到了中文文档和老版的官方文档，所以只能自己手动爬了<br>2. 部分网页异常，有几个网页的设计规范和往常规范不同，感觉像临时添加的？最后需要特殊处理<br>3. JSON的存储规范本来想参考一下第三方文档的，但没想到devdocs连重复的API也加进去了，感觉像是人工爬取，就放弃了<br><picture><source srcset="https://cdn.jellow.site/Fn9FH3bQwXOptLwiZAPnLnu-vF-wv2.jpeg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/Fn9FH3bQwXOptLwiZAPnLnu-vF-wv2.jpeg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Fn9FH3bQwXOptLwiZAPnLnu-vF-wv2.jpeg"></picture><br><picture><source srcset="https://cdn.jellow.site/FrnasM2h0nn1bJSuxKOLfrDO3iKEv2.jpeg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FrnasM2h0nn1bJSuxKOLfrDO3iKEv2.jpeg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FrnasM2h0nn1bJSuxKOLfrDO3iKEv2.jpeg"></picture></dt>]]></description>
-            <pubDate>Tue, 01 Mar 2022 06:52:01 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/621dc2917d902d0010d9548e</guid>
-            <link>https://m.okjike.com/originalPosts/621dc2917d902d0010d9548e</link>
+            <title><![CDATA[我不理解。同胞们为什么要干这个事情]]></title>
+            <description><![CDATA[<br>我不理解。同胞们为什么要干这个事情<br><picture><source srcset="https://cdn.jellow.site/FjPeV6HNWxgz7sBePeDGW9GiyYCDv2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FjPeV6HNWxgz7sBePeDGW9GiyYCDv2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FjPeV6HNWxgz7sBePeDGW9GiyYCDv2.png"></picture>]]></description>
+            <pubDate>Thu, 03 Mar 2022 09:45:03 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62208e1f5700790010feb4f8</guid>
+            <link>https://m.okjike.com/originalPosts/62208e1f5700790010feb4f8</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[现在程序员写 bug 又有了新借口，这是 Copilot 帮我写的，我没仔细看，🌶️🐔 Copilot *（其实是自己写的）]]></title>
+            <description><![CDATA[<br>现在程序员写 bug 又有了新借口，这是 Copilot 帮我写的，我没仔细看，🌶️🐔 Copilot *（其实是自己写的）]]></description>
+            <pubDate>Thu, 03 Mar 2022 02:02:15 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/622021a7d049db0010473545</guid>
+            <link>https://m.okjike.com/originalPosts/622021a7d049db0010473545</link>
             
             
             
@@ -101,23 +113,6 @@
             <pubDate>Mon, 28 Feb 2022 01:46:07 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/621c295fe7dcac00103403db</guid>
             <link>https://m.okjike.com/originalPosts/621c295fe7dcac00103403db</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[新 App 全部功能开发完成，周末开发，前前后后花了4个月，下周开始进入集成测试 🔮🔮，大约 1 个月后可以发布。
-这是一个基于 LBS 的图片分享站，一起分享去...]]></title>
-            <description><![CDATA[<br>新 App 全部功能开发完成，周末开发，前前后后花了4个月，下周开始进入集成测试 🔮🔮，大约 1 个月后可以发布。<br>这是一个基于 LBS 的图片分享站，一起分享去过地方的美景！图片默认撑满屏幕点对点显示，并支持 P3 广色域，全面基于Material You设计，可能是国内社交平台体验最好的。<br>吸取了很多 Chill Talk 社区管理的经验，新 App 发布图片将会有数小时审核期，审核通过后才会公开，但评论互动依然是实时。用户被判定违规后会禁言+降权而不是直接封号（次数超过阀值依然会封禁）。<br><picture><source srcset="https://cdn.jellow.site/FmMgDZI3rqgRsZ1-_Er2G3-afefuv2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FmMgDZI3rqgRsZ1-_Er2G3-afefuv2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FmMgDZI3rqgRsZ1-_Er2G3-afefuv2.png"></picture><br><picture><source srcset="https://cdn.jellow.site/Fk5zELZE7M-sGUVQhYXcvg7dYS8Hv2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/Fk5zELZE7M-sGUVQhYXcvg7dYS8Hv2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Fk5zELZE7M-sGUVQhYXcvg7dYS8Hv2.png"></picture><br><picture><source srcset="https://cdn.jellow.site/FkAUKUmkkaBnbdnOi2ki2ZldI-lyv2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FkAUKUmkkaBnbdnOi2ki2ZldI-lyv2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FkAUKUmkkaBnbdnOi2ki2ZldI-lyv2.png"></picture><br><picture><source srcset="https://cdn.jellow.site/FiztINV4-xrSTMvXE5zSfW1pR54qv2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FiztINV4-xrSTMvXE5zSfW1pR54qv2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FiztINV4-xrSTMvXE5zSfW1pR54qv2.png"></picture><br><picture><source srcset="https://cdn.jellow.site/Fv2DJU7G7hkpBfA34CH0wF5_E3LYv2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/Fv2DJU7G7hkpBfA34CH0wF5_E3LYv2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Fv2DJU7G7hkpBfA34CH0wF5_E3LYv2.png"></picture><br><picture><source srcset="https://cdn.jellow.site/FkZD3mGtxihyF9Z7VJ8RSeLvy2wNv2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FkZD3mGtxihyF9Z7VJ8RSeLvy2wNv2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FkZD3mGtxihyF9Z7VJ8RSeLvy2wNv2.png"></picture><br><picture><source srcset="https://cdn.jellow.site/FgRu2OuW_yeaEZo48UgKpT5kx81Zv2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FgRu2OuW_yeaEZo48UgKpT5kx81Zv2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FgRu2OuW_yeaEZo48UgKpT5kx81Zv2.png"></picture><br><picture><source srcset="https://cdn.jellow.site/FpdqjRP_AdaPRIwGP0Si1mAUG386v2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FpdqjRP_AdaPRIwGP0Si1mAUG386v2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FpdqjRP_AdaPRIwGP0Si1mAUG386v2.png"></picture><br><picture><source srcset="https://cdn.jellow.site/FtztqudCYOZ5NkSPc2H_IkaPheRUv2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FtztqudCYOZ5NkSPc2H_IkaPheRUv2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FtztqudCYOZ5NkSPc2H_IkaPheRUv2.png"></picture>]]></description>
-            <pubDate>Sun, 27 Feb 2022 15:03:31 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/621b92c3afcbe30010eaaf5b</guid>
-            <link>https://m.okjike.com/originalPosts/621b92c3afcbe30010eaaf5b</link>
             
             
             
