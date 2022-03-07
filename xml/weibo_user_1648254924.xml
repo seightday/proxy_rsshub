@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[大白找白菜的微博]]></title>
         <link>http://weibo.com/1648254924/</link>
-        <atom:link href="https://rsshub.rssforever.com/weibo/user/1648254924" rel="self" type="application/rss+xml" />
+        <atom:link href="http://rsshub/weibo/user/1648254924" rel="self" type="application/rss+xml" />
         <description><![CDATA[为你省钱为你分忧，暖男大白一心为你❤ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -15,13 +15,13 @@
         <language>zh-cn</language>
         
         <image>
-            <url>https://tvax2.sinaimg.cn/crop.0.0.828.828.180/623e5fccly8gdippwpjd3j20n00n0jsf.jpg?KID=imgbed,tva&#38;Expires=1646681285&#38;ssig=dHS1Qmp4IB</url>
+            <url>https://tvax2.sinaimg.cn/crop.0.0.828.828.180/623e5fccly8gdippwpjd3j20n00n0jsf.jpg?KID=imgbed,tva&#38;Expires=1646695214&#38;ssig=u7wmU%2BZ3EL</url>
             <title><![CDATA[大白找白菜的微博]]></title>
             <link>http://weibo.com/1648254924/</link>
         </image>
         
-        <lastBuildDate>Mon, 07 Mar 2022 16:28:06 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Mon, 07 Mar 2022 20:20:15 GMT</lastBuildDate>
+        <ttl>1</ttl>
         
         <item>
             <title><![CDATA[￥9.9 【可签到】七季婴幼儿童可吞咽牙膏*2+牙刷  【可签到】牙膏*2+牙刷，刷出一口健康好牙，添加食用木糖醇，不怕孩子吞咽~低氟配方，保护牙釉质，防蛀牙！还...]]></title>
