@@ -20,8 +20,42 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 10 Mar 2022 01:19:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 04:25:07 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[有什么可以边敲代码边干但又不会影响敲代码效率的事情😂]]></title>
+            <description><![CDATA[<br>有什么可以边敲代码边干但又不会影响敲代码效率的事情😂]]></description>
+            <pubDate>Wed, 09 Mar 2022 12:23:10 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62289c2e73aeff0010605bbf</guid>
+            <link>https://m.okjike.com/originalPosts/62289c2e73aeff0010605bbf</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[最近群里有个很有意思的讨论，有个需求是在浏览器对资源文件做摘要，纯js实现的MD5算法对1MB的资源摘要大概是50ms左右，但是对方想更快一些。
+
+然后我参考了hash...]]></title>
+            <description><![CDATA[<br>最近群里有个很有意思的讨论，有个需求是在浏览器对资源文件做摘要，纯js实现的MD5算法对1MB的资源摘要大概是50ms左右，但是对方想更快一些。<br><br>然后我参考了hash算法的性能数据 CPB（每字节周期数，数字越小越好，说要不试一试 SHA 系列，但是实验结果反而是劣化了（劣化原因可能有多种，代码实现 js 语言本身都有可能）<br><br>然后当事人又尝试了 wasm，一开始大家都有顾虑，wasm 肯定比 js 实现快一些，但是可能通信时间会抹平原本的速度优势，但是测试下来发现 1MB 资源的 MD5 计算只要 10ms！这个速度已经非常快了，要知道 js 引擎解析 80KB 的js也得10ms左右，这个结果可以满足大部分需求了<br><br>参考链接🔗：https://en.wikipedia.org/wiki/Secure_Hash_Algorithms<br><picture><source srcset="https://cdn.jellow.site/FhSK0a0nm4cR-UqfH_V0uySySKgQv2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FhSK0a0nm4cR-UqfH_V0uySySKgQv2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FhSK0a0nm4cR-UqfH_V0uySySKgQv2.png"></picture>]]></description>
+            <pubDate>Wed, 09 Mar 2022 03:32:36 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62281fd473aeff00106058dd</guid>
+            <link>https://m.okjike.com/originalPosts/62281fd473aeff00106058dd</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[弱弱的问一句，码农必都是用macbook吗]]></title>
@@ -48,38 +82,6 @@
             <pubDate>Tue, 08 Mar 2022 05:17:50 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6226e6fe7137ef0010dcefc2</guid>
             <link>https://m.okjike.com/originalPosts/6226e6fe7137ef0010dcefc2</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[大数据开发偏数据仓库方向，目标字节阿里网易，有即友一块儿学吗？每天打卡互卷，下图是近期学习计划。]]></title>
-            <description><![CDATA[<br>大数据开发偏数据仓库方向，目标字节阿里网易，有即友一块儿学吗？每天打卡互卷，下图是近期学习计划。<br><picture><source srcset="https://cdn.jellow.site/FjqkalE3OPlB4vx4b5JaLYiDykFvv2.jpeg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FjqkalE3OPlB4vx4b5JaLYiDykFvv2.jpeg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FjqkalE3OPlB4vx4b5JaLYiDykFvv2.jpeg"></picture>]]></description>
-            <pubDate>Mon, 07 Mar 2022 13:53:35 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62260e5f2fa277001075a9e6</guid>
-            <link>https://m.okjike.com/originalPosts/62260e5f2fa277001075a9e6</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[大笑，数理工程师们甭去做开发了，来局里吧，管饭。]]></title>
-            <description><![CDATA[<br>大笑，数理工程师们甭去做开发了，来局里吧，管饭。<br><picture><source srcset="https://cdn.jellow.site/FoXSNlQUrK45QYDU8a69ChmuZz5Ov2.jpeg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FoXSNlQUrK45QYDU8a69ChmuZz5Ov2.jpeg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FoXSNlQUrK45QYDU8a69ChmuZz5Ov2.jpeg"></picture>]]></description>
-            <pubDate>Mon, 07 Mar 2022 11:37:23 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6225ee732fa277001075a8f9</guid>
-            <link>https://m.okjike.com/originalPosts/6225ee732fa277001075a8f9</link>
             
             
             
