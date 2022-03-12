@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss  xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
 
-
 >
     <channel>
         <title><![CDATA[JitHub - 即刻圈子]]></title>
         <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
-        <atom:link href="http://rsshub/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
+        <atom:link href="https://vercel.getrss2021.xyz/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
         <description><![CDATA[开发者们分享，问答，也可以交友的地方。欢迎所有工程师！ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -21,8 +20,8 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sat, 12 Mar 2022 04:25:32 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Sat, 12 Mar 2022 08:22:30 GMT</lastBuildDate>
+        <ttl>5</ttl>
         
         <item>
             <title><![CDATA[小徐又把这个 API 小小更新了一下，可以支持 3D 的绿墙了，可以调整角度、间隙、颜色等等。
@@ -184,7 +183,7 @@ Day014 optionals, nil coalescing, and checkpoint 9
         
         <item>
             <title><![CDATA[Github 推出了新的产品 Code Search，https://cs.github.com/about ，从此在 Github 的工作就不仅仅是 Copy & Paste 了，还有 Search :-)]]></title>
-            <description><![CDATA[<br>Github 推出了新的产品 Code Search，https://cs.github.com/about ，从此在 Github 的工作就不仅仅是 Copy &amp; Paste 了，还有 Search :-)<br><picture><source srcset="https://cdn.jellow.site/FvBnPY-3Q7WwnScT4ivxggqE-Qx1v2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FvBnPY-3Q7WwnScT4ivxggqE-Qx1v2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FvBnPY-3Q7WwnScT4ivxggqE-Qx1v2.png"></picture>]]></description>
+            <description><![CDATA[<br>Github 推出了新的产品 Code Search，https://cs.github.com/about ，从此在 Github 的工作就不仅仅是 Copy & Paste 了，还有 Search :-)<br><picture><source srcset="https://cdn.jellow.site/FvBnPY-3Q7WwnScT4ivxggqE-Qx1v2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FvBnPY-3Q7WwnScT4ivxggqE-Qx1v2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FvBnPY-3Q7WwnScT4ivxggqE-Qx1v2.png"></picture>]]></description>
             <pubDate>Fri, 10 Dec 2021 08:23:19 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/61b30e775466fb00111d6a14</guid>
             <link>https://m.okjike.com/originalPosts/61b30e775466fb00111d6a14</link>
