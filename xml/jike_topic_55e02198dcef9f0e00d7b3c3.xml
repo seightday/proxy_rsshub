@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sat, 12 Mar 2022 01:09:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 04:25:32 GMT</lastBuildDate>
         <ttl>1</ttl>
         
         <item>
@@ -34,6 +34,22 @@
             <pubDate>Fri, 11 Mar 2022 11:31:40 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/622b331c01726c00107fd59e</guid>
             <link>https://m.okjike.com/originalPosts/622b331c01726c00107fd59e</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[这个SSMS有没有必要安装啊，仅用于上课]]></title>
+            <description><![CDATA[<br>这个SSMS有没有必要安装啊，仅用于上课<br><picture><source srcset="https://cdn.jellow.site/Fp3B579bccxekbwFwDqSll_sDXkXv2.jpeg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/Fp3B579bccxekbwFwDqSll_sDXkXv2.jpeg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Fp3B579bccxekbwFwDqSll_sDXkXv2.jpeg"></picture>]]></description>
+            <pubDate>Fri, 11 Mar 2022 00:48:35 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/622a9c63c0d5d700101b4c44</guid>
+            <link>https://m.okjike.com/originalPosts/622a9c63c0d5d700101b4c44</link>
             
             
             
@@ -69,24 +85,6 @@
             <pubDate>Wed, 09 Mar 2022 12:23:10 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62289c2e73aeff0010605bbf</guid>
             <link>https://m.okjike.com/originalPosts/62289c2e73aeff0010605bbf</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[最近群里有个很有意思的讨论，有个需求是在浏览器对资源文件做摘要，纯js实现的MD5算法对1MB的资源摘要大概是50ms左右，但是对方想更快一些。
-
-然后我参考了hash...]]></title>
-            <description><![CDATA[<br>最近群里有个很有意思的讨论，有个需求是在浏览器对资源文件做摘要，纯js实现的MD5算法对1MB的资源摘要大概是50ms左右，但是对方想更快一些。<br><br>然后我参考了hash算法的性能数据 CPB（每字节周期数，数字越小越好，说要不试一试 SHA 系列，但是实验结果反而是劣化了（劣化原因可能有多种，代码实现 js 语言本身都有可能）<br><br>然后当事人又尝试了 wasm，一开始大家都有顾虑，wasm 肯定比 js 实现快一些，但是可能通信时间会抹平原本的速度优势，但是测试下来发现 1MB 资源的 MD5 计算只要 10ms！这个速度已经非常快了，要知道 js 引擎解析 80KB 的js也得10ms左右，这个结果可以满足大部分需求了<br><br>参考链接🔗：https://en.wikipedia.org/wiki/Secure_Hash_Algorithms<br><picture><source srcset="https://cdn.jellow.site/FhSK0a0nm4cR-UqfH_V0uySySKgQv2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FhSK0a0nm4cR-UqfH_V0uySySKgQv2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FhSK0a0nm4cR-UqfH_V0uySySKgQv2.png"></picture>]]></description>
-            <pubDate>Wed, 09 Mar 2022 03:32:36 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62281fd473aeff00106058dd</guid>
-            <link>https://m.okjike.com/originalPosts/62281fd473aeff00106058dd</link>
             
             
             
