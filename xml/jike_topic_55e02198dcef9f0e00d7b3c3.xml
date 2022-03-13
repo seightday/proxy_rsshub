@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sun, 13 Mar 2022 04:25:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 08:21:59 GMT</lastBuildDate>
         <ttl>1</ttl>
         
         <item>
@@ -97,15 +97,12 @@
         </item>
         
         <item>
-            <title><![CDATA[小徐又把这个 API 小小更新了一下，可以支持 3D 的绿墙了，可以调整角度、间隙、颜色等等。
-
-🐙 https://github.com/CatsJuice/ssr-contributions-img
-
-这样嵌...]]></title>
-            <description><![CDATA[<br>小徐又把这个 API 小小更新了一下，可以支持 3D 的绿墙了，可以调整角度、间隙、颜色等等。<br><br>🐙 https://github.com/CatsJuice/ssr-contributions-img<br><br>这样嵌入 Notion 也好看一些了。<br>灵感来源也是：https://chrome.google.com/webstore/detail/github-isometric-contribu/mjoedlfflcchnleknnceiplgaeoegien<br><br>源码部分，使用 SVG 手撸的，可以参考一下蛤。<br><br>🔗前一条  ：<br>https://web.okjike.com/originalPost/62255f9e87b7d90010a4f274<br><picture><source srcset="https://cdn.jellow.site/Fk4dcB8UzR07tDGQVMb3toi1AGY2v2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/Fk4dcB8UzR07tDGQVMb3toi1AGY2v2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Fk4dcB8UzR07tDGQVMb3toi1AGY2v2.png"></picture><br><picture><source srcset="https://cdn.jellow.site/FhlS9T2cYnCiW4XBYc04FEAaV6AMv2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FhlS9T2cYnCiW4XBYc04FEAaV6AMv2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FhlS9T2cYnCiW4XBYc04FEAaV6AMv2.png"></picture><br><picture><source srcset="https://cdn.jellow.site/Fjpz7UocPMyY4oSItZeqO0BHfTMZv2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/Fjpz7UocPMyY4oSItZeqO0BHfTMZv2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Fjpz7UocPMyY4oSItZeqO0BHfTMZv2.png"></picture>]]></description>
-            <pubDate>Fri, 11 Mar 2022 11:31:40 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/622b331c01726c00107fd59e</guid>
-            <link>https://m.okjike.com/originalPosts/622b331c01726c00107fd59e</link>
+            <title><![CDATA[我终于明白键盘上的home和end键是干嘛使的了
+之前一直觉得这两个键很鸡肋，但是今天用terminal打开了一份几千行的文件，用这两个键来查看初始条件和最终结果真是...]]></title>
+            <description><![CDATA[<br>我终于明白键盘上的home和end键是干嘛使的了<br>之前一直觉得这两个键很鸡肋，但是今天用terminal打开了一份几千行的文件，用这两个键来查看初始条件和最终结果真是比用鼠标滑快太多了。]]></description>
+            <pubDate>Fri, 11 Mar 2022 17:40:46 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/622b899e01726c00107fd81f</guid>
+            <link>https://m.okjike.com/originalPosts/622b899e01726c00107fd81f</link>
             
             
             
@@ -117,14 +114,15 @@
         </item>
         
         <item>
-            <title><![CDATA[额外吹一下咱们徐哥，CSS这块还是「有点水平」的，这个项目里面有一些他用 CSS 「画」的东西：
-🐙 ：https://github.com/CatsJuice/awesome-effects
+            <title><![CDATA[小徐又把这个 API 小小更新了一下，可以支持 3D 的绿墙了，可以调整角度、间隙、颜色等等。
 
-比如 时...]]></title>
-            <description><![CDATA[<br>额外吹一下咱们徐哥，CSS这块还是「有点水平」的，这个项目里面有一些他用 CSS 「画」的东西：<br>🐙 ：https://github.com/CatsJuice/awesome-effects<br><br>比如 时钟和键盘。预览地址：<br>⌚️时钟：https://catsjuice.github.io/awesome-effects/clock-clock-white/<br><br>⌨️ 键盘：https://catsjuice.github.io/awesome-effects/leopold-keyboard/<br><picture><source srcset="https://cdn.jellow.site/FkTHw1cO6zwgvQeIjx7zX9e-QCiOv2.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FkTHw1cO6zwgvQeIjx7zX9e-QCiOv2.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FkTHw1cO6zwgvQeIjx7zX9e-QCiOv2.jpg"></picture><br><picture><source srcset="https://cdn.jellow.site/FlmB8whbnW36TU5HZeKAQB0Jt7pJv2.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FlmB8whbnW36TU5HZeKAQB0Jt7pJv2.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FlmB8whbnW36TU5HZeKAQB0Jt7pJv2.jpg"></picture>]]></description>
-            <pubDate>Tue, 08 Mar 2022 05:17:50 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6226e6fe7137ef0010dcefc2</guid>
-            <link>https://m.okjike.com/originalPosts/6226e6fe7137ef0010dcefc2</link>
+🐙 https://github.com/CatsJuice/ssr-contributions-img
+
+这样嵌...]]></title>
+            <description><![CDATA[<br>小徐又把这个 API 小小更新了一下，可以支持 3D 的绿墙了，可以调整角度、间隙、颜色等等。<br><br>🐙 https://github.com/CatsJuice/ssr-contributions-img<br><br>这样嵌入 Notion 也好看一些了。<br>灵感来源也是：https://chrome.google.com/webstore/detail/github-isometric-contribu/mjoedlfflcchnleknnceiplgaeoegien<br><br>源码部分，使用 SVG 手撸的，可以参考一下蛤。<br><br>🔗前一条  ：<br>https://web.okjike.com/originalPost/62255f9e87b7d90010a4f274<br><picture><source srcset="https://cdn.jellow.site/Fk4dcB8UzR07tDGQVMb3toi1AGY2v2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/Fk4dcB8UzR07tDGQVMb3toi1AGY2v2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Fk4dcB8UzR07tDGQVMb3toi1AGY2v2.png"></picture><br><picture><source srcset="https://cdn.jellow.site/FhlS9T2cYnCiW4XBYc04FEAaV6AMv2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FhlS9T2cYnCiW4XBYc04FEAaV6AMv2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FhlS9T2cYnCiW4XBYc04FEAaV6AMv2.png"></picture><br><picture><source srcset="https://cdn.jellow.site/Fjpz7UocPMyY4oSItZeqO0BHfTMZv2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/Fjpz7UocPMyY4oSItZeqO0BHfTMZv2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Fjpz7UocPMyY4oSItZeqO0BHfTMZv2.png"></picture>]]></description>
+            <pubDate>Fri, 11 Mar 2022 11:31:40 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/622b331c01726c00107fd59e</guid>
+            <link>https://m.okjike.com/originalPosts/622b331c01726c00107fd59e</link>
             
             
             
