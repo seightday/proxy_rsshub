@@ -21,8 +21,26 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 14 Mar 2022 20:20:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 01:18:28 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[命令行自动补全，前有 copilot，现有 fig.io。
+
+这种工具极大的提高了程序员的编程体验，我就随便拍一个，应该后面还有更多更多这样的工具。]]></title>
+            <description><![CDATA[<br>                    <img referrerpolicy="no-referrer" src="https://repository-images.githubusercontent.com/299482335/73b47831-7f71-40e1-8b61-40eaa4555bb0"><br>                    <a href="https://github.com/withfig/autocomplete">GitHub - withfig/autocomplete: Fig adds autocomplete to your terminal.</a><br>                <br>命令行自动补全，前有 copilot，现有 fig.io。<br><br>这种工具极大的提高了程序员的编程体验，我就随便拍一个，应该后面还有更多更多这样的工具。]]></description>
+            <pubDate>Sun, 13 Mar 2022 03:22:44 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/622d6384b0966200119a649f</guid>
+            <link>https://m.okjike.com/originalPosts/622d6384b0966200119a649f</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[https://exercism.org/
@@ -86,23 +104,6 @@
             <pubDate>Sat, 12 Mar 2022 08:07:06 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/622c54aa01726c00107fdb69</guid>
             <link>https://m.okjike.com/originalPosts/622c54aa01726c00107fdb69</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[我终于明白键盘上的home和end键是干嘛使的了
-之前一直觉得这两个键很鸡肋，但是今天用terminal打开了一份几千行的文件，用这两个键来查看初始条件和最终结果真是...]]></title>
-            <description><![CDATA[<br>我终于明白键盘上的home和end键是干嘛使的了<br>之前一直觉得这两个键很鸡肋，但是今天用terminal打开了一份几千行的文件，用这两个键来查看初始条件和最终结果真是比用鼠标滑快太多了。]]></description>
-            <pubDate>Fri, 11 Mar 2022 17:40:46 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/622b899e01726c00107fd81f</guid>
-            <link>https://m.okjike.com/originalPosts/622b899e01726c00107fd81f</link>
             
             
             
