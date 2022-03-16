@@ -21,8 +21,25 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 15 Mar 2022 20:20:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 01:18:38 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[临时组成的队Hackthon拿了第二名，我这个菜狗还是有点东西的😆😆
+安排两个同学做react 前端，重点是Google maps API，另外两个同学做python flask 后端，重...]]></title>
+            <description><![CDATA[<br>临时组成的队Hackthon拿了第二名，我这个菜狗还是有点东西的😆😆<br>安排两个同学做react 前端，重点是Google maps API，另外两个同学做python flask 后端，重点是k-means，最后找个外援帮忙做heroku 部署（cors 部署真的有点麻烦）<br>我负责告诉大家该干啥，并且在现场吃零食🍕<br><br>（一点题外话：经网友提醒后我发现中英文混杂在语音没问题，但文字看起来确实不太美观，但是有些词我确实不知道咋翻译，如果deployment不是“部署”请告诉我～<br><br>图为编外成员猫哥晚上12点还在陪我们开会，感谢猫哥的支持😘<br><picture><source srcset="https://cdn.jellow.site/FsnHGrowdXiUy0xelGvRvHGLqwfsv2.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FsnHGrowdXiUy0xelGvRvHGLqwfsv2.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FsnHGrowdXiUy0xelGvRvHGLqwfsv2.jpg"></picture>]]></description>
+            <pubDate>Tue, 15 Mar 2022 21:26:24 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6231048037f63b0010f125c7</guid>
+            <link>https://m.okjike.com/originalPosts/6231048037f63b0010f125c7</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[果然低智商是搞不了强化学习的
@@ -97,26 +114,6 @@ import的问题卡了两天，而且准备放弃了]]></title>
             <pubDate>Sat, 12 Mar 2022 22:23:31 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/622d1d63b0966200119a6378</guid>
             <link>https://m.okjike.com/originalPosts/622d1d63b0966200119a6378</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Docusaurus真是一个超棒的文档解决方案。
-优点太多。
-1.基于 react构建。
-2. mdx格式支持markdown混写react代码
-3. 国际化支持很好。提供命令write-translations...]]></title>
-            <description><![CDATA[<br>Docusaurus真是一个超棒的文档解决方案。<br>优点太多。<br>1.基于 react构建。<br>2. mdx格式支持markdown混写react代码<br>3. 国际化支持很好。提供命令write-translations一键生成其他locale字符串填充json，改起来效率很高。<br>4. 大量案例可以参考。<br>5. 部署方便，vercel/github pages/自行部署都可<br>6. 可插拔架构pluggable architecture，拓展丰富。如果要从零做文档系统，这是个不错的学习范例。<br>多版本、集成文档搜索etc，不胜枚举。]]></description>
-            <pubDate>Sat, 12 Mar 2022 08:07:06 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/622c54aa01726c00107fdb69</guid>
-            <link>https://m.okjike.com/originalPosts/622c54aa01726c00107fdb69</link>
             
             
             
