@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[分享白菜达人的微博]]></title>
         <link>http://weibo.com/5609361977/</link>
-        <atom:link href="http://rsshub/weibo/user/5609361977" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub.rssforever.com/weibo/user/5609361977" rel="self" type="application/rss+xml" />
         <description><![CDATA[跟着博主抢红包，薅羊毛！撸免单！买超优惠商品！ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -16,13 +16,13 @@
         <language>zh-cn</language>
         
         <image>
-            <url>https://tvax2.sinaimg.cn/crop.0.0.512.512.180/0067Cjihly8gb7w03ko6vj30e80e874q.jpg?KID=imgbed,tva&#38;Expires=1648063628&#38;ssig=JevNgRoMDo</url>
+            <url>https://tvax2.sinaimg.cn/crop.0.0.512.512.180/0067Cjihly8gb7w03ko6vj30e80e874q.jpg?KID=imgbed,tva&#38;Expires=1648077589&#38;ssig=Q4Q0kPPsNy</url>
             <title><![CDATA[分享白菜达人的微博]]></title>
             <link>http://weibo.com/5609361977/</link>
         </image>
         
-        <lastBuildDate>Wed, 23 Mar 2022 16:27:09 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Wed, 23 Mar 2022 20:19:50 GMT</lastBuildDate>
+        <ttl>5</ttl>
         
         <item>
             <title><![CDATA[南国椰奶枣100g*3袋，12.9地址]]></title>
