@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss  xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
 
-
 >
     <channel>
         <title><![CDATA[JitHub - 即刻圈子]]></title>
         <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
-        <atom:link href="http://rsshub/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
+        <atom:link href="https://vercel.getrss2021.xyz/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
         <description><![CDATA[开发者们分享，问答，也可以交友的地方。欢迎所有工程师！ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -21,8 +20,8 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Fri, 25 Mar 2022 08:23:06 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Fri, 25 Mar 2022 13:04:09 GMT</lastBuildDate>
+        <ttl>5</ttl>
         
         <item>
             <title><![CDATA[程序员做设计]]></title>
@@ -41,7 +40,9 @@
         </item>
         
         <item>
-            <title><![CDATA[我写的 vs 别人写的 🥶 现在这水平...能pass都要想/搜很久 很想甩一堆感叹号在自己脸上]]></title>
+            <title><![CDATA[我写的 vs 别人写的 🥶
+现在这水平...能pass都要想/搜很久
+很想甩一堆感叹号在自己脸上]]></title>
             <description><![CDATA[<br>我写的 vs 别人写的 🥶<br>现在这水平...能pass都要想/搜很久<br>很想甩一堆感叹号在自己脸上<br><picture><source srcset="https://cdn.jellow.site/FmdXYQl1i5_jGxXJMrPxoXbswpX6v2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FmdXYQl1i5_jGxXJMrPxoXbswpX6v2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FmdXYQl1i5_jGxXJMrPxoXbswpX6v2.png"></picture>]]></description>
             <pubDate>Wed, 23 Mar 2022 22:23:18 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/623b9dd6a2178000104b114d</guid>
@@ -57,7 +58,9 @@
         </item>
         
         <item>
-            <title><![CDATA[👀 写了个 VS Code 插件，双击括号自动选择内容，双击 HTML 标签自动多选结束标签（什么这居然不是自带的？！） https://github.com/antfu/vscode-smart-click...]]></title>
+            <title><![CDATA[👀 写了个 VS Code 插件，双击括号自动选择内容，双击 HTML 标签自动多选结束标签（什么这居然不是自带的？！）
+
+https://github.com/antfu/vscode-smart-clic...]]></title>
             <description><![CDATA[<br>👀 写了个 VS Code 插件，双击括号自动选择内容，双击 HTML 标签自动多选结束标签（什么这居然不是自带的？！）<br><br>https://github.com/antfu/vscode-smart-clicks<img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FvQmEnJxgyBoZE21jwb5m3nHeaATv2.gif">]]></description>
             <pubDate>Wed, 23 Mar 2022 15:57:21 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/623b436140bdef0010e3b1c7</guid>
@@ -121,7 +124,9 @@
         </item>
         
         <item>
-            <title><![CDATA[总结一下最近使用树莓派4B 8G安装ubuntu-mate并搭建私人Gitlab服务器遇到的坑点 1. 树莓派连接了WiFi，又用网线连接到主电脑，此时树莓派有两个ip地址，一个是同...]]></title>
+            <title><![CDATA[总结一下最近使用树莓派4B 8G安装ubuntu-mate并搭建私人Gitlab服务器遇到的坑点
+
+1. 树莓派连接了WiFi，又用网线连接到主电脑，此时树莓派有两个ip地址，一个是...]]></title>
             <description><![CDATA[<br>总结一下最近使用树莓派4B 8G安装ubuntu-mate并搭建私人Gitlab服务器遇到的坑点<br><br>1. 树莓派连接了WiFi，又用网线连接到主电脑，此时树莓派有两个ip地址，一个是同一个局域网下分配的ip，另一个是在电脑cmd用arp -a命令直接看到的ip，实际上用ssh连接时，以分配的ip为准（即WiFi的ip）<br><br>2. 安装好ubuntu-mate后，树莓派在开机时会检测是否有HDMI输出，如果没有连接显示器，则会开机失败，需要在装好系统的SD卡（system-boot）的根目录下修改config.txt文件（Win10环境读卡器），把#hdmi_force_hotplug=1，改为hdmi_force_hotplug=1（去掉#注释），而我发现并没有这句代码，于是在加了这句代码后，再把hdmi_device=2去掉注释（去除句首#） <br><br>3. 安装ubuntu-mate后，无法连接WiFi，表现为，输入密码后处于连接中状态，一段时间后连接超时并要求重新输入密码。而树莓派官方系统Raspbian则没问题，按照网上资料处理几次依然无法解决，在ubuntu论坛上也看到多个类似问题，但依然没有解决，目前只能连网线。<br><br>4. 在使用过程中，发现过一段时间后ssh会自动断开，推测是进入休眠状态，于是关闭屏保程序，取消屏保计时，于是问题暂时解决。但在我远程重启树莓派后，问题再次复现，发现是因为我装了苹果系统的主题，开机需要登录系统账号，于是进入设置界面，关闭系统自动挂起（suspend相关的都关闭），同时让系统账户自动登入，于是问题彻底解决。<br><br>5. 配置完Gitlab后，执行命令sudo gitlab-ctl reconfigure进行重新配置，网上资料称，该过程最后会重启gitlab，但实际发现，如果不再执行sudo gitlab-ctl start，可能会出现打开gitlab地址时报502错误，执行后得以解决。<br><br>6. 注册了gitlab账号后，记得用root账号通过注册申请🤣，还有就是gitlab的网站要用谷歌内核的浏览器打开，ie内核不行。<br><br>7. 后续发现Tabby这款终端软件真的好看又方便，果断放弃putty和XShell🤣<br><picture><source srcset="https://cdn.jellow.site/FsRwq3Of5FTLkjmdR62F7RfpPVFLv2.jpeg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FsRwq3Of5FTLkjmdR62F7RfpPVFLv2.jpeg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FsRwq3Of5FTLkjmdR62F7RfpPVFLv2.jpeg"></picture><br><picture><source srcset="https://cdn.jellow.site/FkLa0hnzqio5ubtkKIoloRDNt6WZv2.jpeg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FkLa0hnzqio5ubtkKIoloRDNt6WZv2.jpeg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FkLa0hnzqio5ubtkKIoloRDNt6WZv2.jpeg"></picture>]]></description>
             <pubDate>Thu, 10 Feb 2022 04:34:48 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/620495e8ac75d90010436c70</guid>
@@ -137,7 +142,9 @@
         </item>
         
         <item>
-            <title><![CDATA[100 Days of SwiftUI Day014 optionals, nil coalescing, and checkpoint 9 昨天晚上学完竟然忘记发了🥲过了一遍教程，完成教程后的题目。今天完成checkpoint9...]]></title>
+            <title><![CDATA[100 Days of SwiftUI
+Day014 optionals, nil coalescing, and checkpoint 9
+昨天晚上学完竟然忘记发了🥲过了一遍教程，完成教程后的题目。今天完成checkpoint9...]]></title>
             <description><![CDATA[<br>100 Days of SwiftUI<br>Day014 optionals, nil coalescing, and checkpoint 9<br>昨天晚上学完竟然忘记发了🥲过了一遍教程，完成教程后的题目。今天完成checkpoint9。<br><picture><source srcset="https://cdn.jellow.site/Fto-NqHjup5OPyxjHUN5qmErpl3Sv2.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/Fto-NqHjup5OPyxjHUN5qmErpl3Sv2.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Fto-NqHjup5OPyxjHUN5qmErpl3Sv2.jpg"></picture>]]></description>
             <pubDate>Sun, 16 Jan 2022 00:22:14 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/61e365365cb36200103fd523</guid>
@@ -170,7 +177,7 @@
         
         <item>
             <title><![CDATA[Github 推出了新的产品 Code Search，https://cs.github.com/about ，从此在 Github 的工作就不仅仅是 Copy & Paste 了，还有 Search :-)]]></title>
-            <description><![CDATA[<br>Github 推出了新的产品 Code Search，https://cs.github.com/about ，从此在 Github 的工作就不仅仅是 Copy &amp; Paste 了，还有 Search :-)<br><picture><source srcset="https://cdn.jellow.site/FvBnPY-3Q7WwnScT4ivxggqE-Qx1v2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FvBnPY-3Q7WwnScT4ivxggqE-Qx1v2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FvBnPY-3Q7WwnScT4ivxggqE-Qx1v2.png"></picture>]]></description>
+            <description><![CDATA[<br>Github 推出了新的产品 Code Search，https://cs.github.com/about ，从此在 Github 的工作就不仅仅是 Copy & Paste 了，还有 Search :-)<br><picture><source srcset="https://cdn.jellow.site/FvBnPY-3Q7WwnScT4ivxggqE-Qx1v2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FvBnPY-3Q7WwnScT4ivxggqE-Qx1v2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FvBnPY-3Q7WwnScT4ivxggqE-Qx1v2.png"></picture>]]></description>
             <pubDate>Fri, 10 Dec 2021 08:23:19 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/61b30e775466fb00111d6a14</guid>
             <link>https://m.okjike.com/originalPosts/61b30e775466fb00111d6a14</link>
