@@ -21,15 +21,15 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 28 Mar 2022 16:28:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 20:20:46 GMT</lastBuildDate>
         <ttl>1</ttl>
         
         <item>
-            <title><![CDATA[在网上看见 “浪漫是操作系统、编译原理和计算机图形学” 感觉有点道理。 我一直是个笨比，这三项都做不好，马马虎虎，浅尝辄止。但浪漫是可以切实感受到的。 写...]]></title>
-            <description><![CDATA[<br>在网上看见<br>“浪漫是操作系统、编译原理和计算机图形学”<br>感觉有点道理。<br><br>我一直是个笨比，这三项都做不好，马马虎虎，浅尝辄止。但浪漫是可以切实感受到的。<br><br>写操作系统是去年春夏的事情，只记得当时只有我们班的实验和别的班不太一样，没有答案可以抄，要求到自己写个操作系统。有胸怀大志的教授，厉害且负责的TA，最后确实连bug带抄在终端打印出来“SUMMER”——在期末的夏天，确实很浪漫。<br><br>学图形学是在去年秋天。男孩子对于计算机软件的梦想，大概大多是游戏吧。一开始写传统的OpenGL，感觉这个框架很难用，效率很低，后来用了Qt和现代OpenGL，自由控制渲染的每一个流程 感觉十分快乐。<br><br>编译原理是现在在学的，也有胸怀大志的教授带着博士生TA和一堆前沿方向。只是大家在焦虑的社会里各有各的忙碌，我开学时的热情也消耗殆尽。不过我目前还没学到后端，但是实现了前端的词法和语法检查之后看到自己的编译器输出的报错和gcc大致一样，兴奋得睡不着觉。<br><br>浪漫到底是什么呢？大概是在热爱的领域以一己之力挑战成熟复杂的系统，明知道写出来的操作系统大部分代码都是照猫画虎，明知道现在的游戏引擎不只是画几个三角形，明知道自己用C++写的编译器离完全支持C89还十分遥远，明知道不可能挑战数十年来成千上万人的智慧结晶，仍然享受不断修改错误，优化性能，独自造一个没有作用的东西的过程吧。<br><br>可惜的是，写操作系统的浪漫到了期末就变成无从完成“另辟蹊径*任务的痛苦，图形学到了大作业赶工糊弄。希望今年的编译器能有个好结果。<br><br>可惜的是，明天和后天要写数据挖掘作业，看深度学习代码，和繁杂丑陋的数学公式打交道，准备炼丹计划，写炼丹周报，没有时间盯着语法分析器修一下午bug了。<br><br>不过浪漫取决于自己的感受，希望有一天炼丹也可以浪漫，世间所有事物都能浪漫。<br><picture><source srcset="https://cdn.jellow.site/Fpv8QmDgalnh9ucLqg_nzGBpa93Iv2.jpeg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/Fpv8QmDgalnh9ucLqg_nzGBpa93Iv2.jpeg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Fpv8QmDgalnh9ucLqg_nzGBpa93Iv2.jpeg"></picture>]]></description>
-            <pubDate>Sat, 26 Mar 2022 20:54:32 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/623f7d8837f63b0010f17079</guid>
-            <link>https://m.okjike.com/originalPosts/623f7d8837f63b0010f17079</link>
+            <title><![CDATA[自制单词卡全功能演示。删除组合键，改用菜单功能。该代码适配老版硬件(兼容咸鱼上的驱动板，新款硬件将不再兼容），新版硬件将支持更多功能，与本硬件不再兼容...]]></title>
+            <description><![CDATA[<br>自制单词卡全功能演示。删除组合键，改用菜单功能。该代码适配老版硬件(兼容咸鱼上的驱动板，新款硬件将不再兼容），新版硬件将支持更多功能，与本硬件不再兼容。]]></description>
+            <pubDate>Mon, 28 Mar 2022 10:49:54 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/624192d2d1c7fd00104637bb</guid>
+            <link>https://m.okjike.com/originalPosts/624192d2d1c7fd00104637bb</link>
             
             
             
