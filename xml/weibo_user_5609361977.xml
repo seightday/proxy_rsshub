@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[分享白菜达人的微博]]></title>
         <link>http://weibo.com/5609361977/</link>
-        <atom:link href="http://rsshub.app/weibo/user/5609361977" rel="self" type="application/rss+xml" />
+        <atom:link href="http://rsshub/weibo/user/5609361977" rel="self" type="application/rss+xml" />
         <description><![CDATA[跟着博主抢红包，薅羊毛！撸免单！买超优惠商品！ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -16,13 +16,13 @@
         <language>zh-cn</language>
         
         <image>
-            <url>https://tvax2.sinaimg.cn/crop.0.0.512.512.180/0067Cjihly8gb7w03ko6vj30e80e874q.jpg?KID=imgbed,tva&#38;Expires=1648509642&#38;ssig=ODx9UQIxx8</url>
+            <url>https://tvax2.sinaimg.cn/crop.0.0.512.512.180/0067Cjihly8gb7w03ko6vj30e80e874q.jpg?KID=imgbed,tva&#38;Expires=1648527927&#38;ssig=VPWEEQEQj9</url>
             <title><![CDATA[分享白菜达人的微博]]></title>
             <link>http://weibo.com/5609361977/</link>
         </image>
         
-        <lastBuildDate>Mon, 28 Mar 2022 20:20:44 GMT</lastBuildDate>
-        <ttl>120</ttl>
+        <lastBuildDate>Tue, 29 Mar 2022 01:25:28 GMT</lastBuildDate>
+        <ttl>1</ttl>
         
         <item>
             <title><![CDATA[【13.8】玛呖德 紫米面包 770g [图片][图片][图片]]]></title>
