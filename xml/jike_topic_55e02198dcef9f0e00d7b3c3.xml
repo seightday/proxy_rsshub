@@ -21,8 +21,40 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 05 Apr 2022 08:24:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 12:32:58 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[我在一个无鉴权的接口上应用过类似方法。参数中加一个 timestamp，但实际在值上作了手脚，将最后一位强制改成偶数。于是当破解接口的人想当然地传 timestamp 过...]]></title>
+            <description><![CDATA[<br>                    <img referrerpolicy="no-referrer" src="https://zu1k.com/images/logo.jpg"><br>                    <a href="https://zu1k.com/posts/thinking/deception-tactics-in-deepl-api-design/">DeepL Api 设计中的欺骗战术</a><br>                <br>我在一个无鉴权的接口上应用过类似方法。参数中加一个 timestamp，但实际在值上作了手脚，将最后一位强制改成偶数。于是当破解接口的人想当然地传 timestamp 过来时就会发现 ip 被封了。由于传过来的当前时间戳有时有奇数，有时有偶数，于是就会出现有时直接被封，有时过一会才被封的诡异现象。当他们尝试用一个可请求的时间戳再次请求时，会发现过一会也被封了，因为时间戳与服务器时间相差超过一定时间了。还可以处理得更复杂，更加隐蔽。]]></description>
+            <pubDate>Tue, 05 Apr 2022 09:38:57 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/624c0e317513c20010dcaacf</guid>
+            <link>https://m.okjike.com/originalPosts/624c0e317513c20010dcaacf</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[深入理解java虚拟机书中很经典的案例。 那些bytes对象会被收集？😏]]></title>
+            <description><![CDATA[<br>深入理解java虚拟机书中很经典的案例。<br><br>那些bytes对象会被收集？😏<br><picture><source srcset="https://cdn.jellow.site/FvSgJQJomSxZgyxj4G_Bz6o2HMqxv2.jpeg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FvSgJQJomSxZgyxj4G_Bz6o2HMqxv2.jpeg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FvSgJQJomSxZgyxj4G_Bz6o2HMqxv2.jpeg"></picture>]]></description>
+            <pubDate>Mon, 04 Apr 2022 12:09:05 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/624adfe17513c20010dca41b</guid>
+            <link>https://m.okjike.com/originalPosts/624adfe17513c20010dca41b</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[Star Order ── Github Star 管理工具 链接：https://starorder.ap Star Order 是一个用于管理 GitHub Star 的使用 SwiftUI 开发的纯原生专业工具。通过方便灵...]]></title>
@@ -46,38 +78,6 @@
             <pubDate>Sat, 02 Apr 2022 08:16:29 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6248065dc9e8dc00101b4370</guid>
             <link>https://m.okjike.com/originalPosts/6248065dc9e8dc00101b4370</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[给开源社区做贡献，生怕自己的渣水平破坏了原作者的代码的简洁，结果收到了这样的回复，开心得一蹦三尺高🥹 #独立开发的日常]]></title>
-            <description><![CDATA[<br>给开源社区做贡献，生怕自己的渣水平破坏了原作者的代码的简洁，结果收到了这样的回复，开心得一蹦三尺高🥹<br><br>#独立开发的日常 <br><picture><source srcset="https://cdn.jellow.site/Fo3nVwccbkqXGTV5zgYVKiA4Elqev2.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/Fo3nVwccbkqXGTV5zgYVKiA4Elqev2.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Fo3nVwccbkqXGTV5zgYVKiA4Elqev2.jpg"></picture>]]></description>
-            <pubDate>Thu, 31 Mar 2022 03:36:26 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/624521ba37f63b0010f18c5f</guid>
-            <link>https://m.okjike.com/originalPosts/624521ba37f63b0010f18c5f</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[我有必要把git，深度学习还有Python ，pytorch完整从0搞一遍，之前被赶鸭子上架赶傻了，基础好薄弱 于是乎今天整了一下午git 还说自己程序员 情何以堪😂]]></title>
-            <description><![CDATA[<br>我有必要把git，深度学习还有Python ，pytorch完整从0搞一遍，之前被赶鸭子上架赶傻了，基础好薄弱<br>于是乎今天整了一下午git<br>还说自己程序员 情何以堪😂<br><picture><source srcset="https://cdn.jellow.site/FpiI5VYmhdiGvll-Vc_HR-fPE8j1v2.jpeg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FpiI5VYmhdiGvll-Vc_HR-fPE8j1v2.jpeg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FpiI5VYmhdiGvll-Vc_HR-fPE8j1v2.jpeg"></picture>]]></description>
-            <pubDate>Tue, 29 Mar 2022 09:30:19 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6242d1ab41be4f0010e907d2</guid>
-            <link>https://m.okjike.com/originalPosts/6242d1ab41be4f0010e907d2</link>
             
             
             
