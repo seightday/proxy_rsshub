@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 06 Apr 2022 01:27:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 04:24:56 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[一位开发者因受到上海疫情影响，在家隔离，抽空写了一本技术书籍：《语音合成：从入门到放弃》，并开源到了GitHub。]]></title>
+            <description><![CDATA[<br>                    <img referrerpolicy="no-referrer" src="https://opengraph.githubassets.com/71c2fba02afbacf7bfd4058a5d1df90e904783da71a80197339fa4faaadb025f/cnlinxi/book-text-to-speech"><br>                    <a href="https://github.com/cnlinxi/book-text-to-speech">GitHub - cnlinxi/book-text-to-speech: A book about Text-to-Speech (TTS) in Chinese.</a><br>                <br>一位开发者因受到上海疫情影响，在家隔离，抽空写了一本技术书籍：《语音合成：从入门到放弃》，并开源到了GitHub。]]></description>
+            <pubDate>Tue, 05 Apr 2022 13:32:13 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/624c44dd8b80870010b9dcd1</guid>
+            <link>https://m.okjike.com/originalPosts/624c44dd8b80870010b9dcd1</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[我在一个无鉴权的接口上应用过类似方法。参数中加一个 timestamp，但实际在值上作了手脚，将最后一位强制改成偶数。于是当破解接口的人想当然地传 timestamp 过...]]></title>
@@ -62,22 +78,6 @@
             <pubDate>Mon, 04 Apr 2022 12:09:05 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/624adfe17513c20010dca41b</guid>
             <link>https://m.okjike.com/originalPosts/624adfe17513c20010dca41b</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Star Order ── Github Star 管理工具 链接：https://starorder.ap Star Order 是一个用于管理 GitHub Star 的使用 SwiftUI 开发的纯原生专业工具。通过方便灵...]]></title>
-            <description><![CDATA[<br>Star Order ── Github Star 管理工具<br><br>链接：https://starorder.ap<br><br>Star Order 是一个用于管理 GitHub Star 的使用 SwiftUI 开发的纯原生专业工具。通过方便灵活的标签，全面准确的排序检索，让您面对成百上千的 Star 仓库时，能够快速的挑选出最需要的那一个。<br><picture><source srcset="https://cdn.jellow.site/Filh9Br5T1pT_5ReoK3ieMRyMlXYv2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/Filh9Br5T1pT_5ReoK3ieMRyMlXYv2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Filh9Br5T1pT_5ReoK3ieMRyMlXYv2.png"></picture>]]></description>
-            <pubDate>Sun, 03 Apr 2022 13:54:04 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6249a6fce8de690010ddb35a</guid>
-            <link>https://m.okjike.com/originalPosts/6249a6fce8de690010ddb35a</link>
             
             
             
