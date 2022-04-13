@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 13 Apr 2022 04:26:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 08:25:23 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[#github每日一推 MarkText 新生代markdown编辑器 继Typora “89元/3台设备/免费升级”事件之后，暂时还没有找到好的markdown编辑器，故推荐MarkText编辑器。 Mar...]]></title>
+            <description><![CDATA[<br>                    <img referrerpolicy="no-referrer" src="https://opengraph.githubassets.com/3ebb9f2f053f96871c36a08f4ad756e607fec4838680ada56c020d486d3619ac/marktext/marktext"><br>                    <a href="https://github.com/marktext/marktext">GitHub - marktext/marktext: 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.</a><br>                <br>#github每日一推 MarkText 新生代markdown编辑器<br>继Typora “89元/3台设备/免费升级”事件之后，暂时还没有找到好的markdown编辑器，故推荐MarkText编辑器。<br>MarkText着重关注速度、可用性且功能强大的开源编辑器。<br>现支持Linux、MacOS和Windows。<br>功能：<br>1、实现所见即所得功能。<br>2、编辑模式：源码编辑模式、打字模式、专注模式。<br>3、支持数学表达式和emoji<br>项目地址<br>https://github.com/marktext/marktext<br>程序下载地址：<br>https://github.com/marktext/marktext/releases]]></description>
+            <pubDate>Wed, 13 Apr 2022 01:55:14 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62562d82f617f000104ae90f</guid>
+            <link>https://m.okjike.com/originalPosts/62562d82f617f000104ae90f</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[展示一下近期在做的小项目，不知道大家是否感兴趣： 1. 基于本地知识库的markdown文件 2. 支持拖拽和排列，无限画布，放大缩小 3. 生成一个静态html页面可以部署...]]></title>
@@ -46,22 +62,6 @@
             <pubDate>Tue, 12 Apr 2022 02:19:51 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6254e1c78586600010399b9c</guid>
             <link>https://m.okjike.com/originalPosts/6254e1c78586600010399b9c</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[#github每日一推 WTF是面向终端的个人数据表盘 WTF是面向终端的个人数据表盘，可使用WTF去检测系统、服务及相关重要数据，一目了然就可获得你所需要并且特别重要...]]></title>
-            <description><![CDATA[<br>                    <img referrerpolicy="no-referrer" src="https://opengraph.githubassets.com/7c6e520bc351ab8d3c1e0f2d9bc95f1f33777bd4474016540ba7d94be7972229/wtfutil/wtf"><br>                    <a href="https://github.com/wtfutil/wtf">GitHub - wtfutil/wtf: The personal information dashboard for your terminal</a><br>                <br>#github每日一推 WTF是面向终端的个人数据表盘<br>WTF是面向终端的个人数据表盘，可使用WTF去检测系统、服务及相关重要数据，一目了然就可获得你所需要并且特别重要的状态和数据。<br>WTF在全世界上，有数以千计的开发者和科技爱好者正在使用，WTF是开源免费。<br><br>https://github.com/wtfutil/wtf]]></description>
-            <pubDate>Tue, 12 Apr 2022 01:52:14 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6254db4e8586600010399b6d</guid>
-            <link>https://m.okjike.com/originalPosts/6254db4e8586600010399b6d</link>
             
             
             
