@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[分享白菜达人的微博]]></title>
         <link>http://weibo.com/5609361977/</link>
-        <atom:link href="http://rsshub.app/weibo/user/5609361977" rel="self" type="application/rss+xml" />
+        <atom:link href="http://rsshub/weibo/user/5609361977" rel="self" type="application/rss+xml" />
         <description><![CDATA[跟着博主抢红包，薅羊毛！撸免单！买超优惠商品！ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -16,13 +16,13 @@
         <language>zh-cn</language>
         
         <image>
-            <url>https://tvax2.sinaimg.cn/crop.0.0.512.512.180/0067Cjihly8gb7w03ko6vj30e80e874q.jpg?KID=imgbed,tva&#38;Expires=1650137232&#38;ssig=dA25AE6jle</url>
+            <url>https://tvax2.sinaimg.cn/crop.0.0.512.512.180/0067Cjihly8gb7w03ko6vj30e80e874q.jpg?KID=imgbed,tva&#38;Expires=1650151175&#38;ssig=sQ48MFwCfC</url>
             <title><![CDATA[分享白菜达人的微博]]></title>
             <link>http://weibo.com/5609361977/</link>
         </image>
         
-        <lastBuildDate>Sat, 16 Apr 2022 16:27:13 GMT</lastBuildDate>
-        <ttl>120</ttl>
+        <lastBuildDate>Sat, 16 Apr 2022 20:19:36 GMT</lastBuildDate>
+        <ttl>1</ttl>
         
         <item>
             <title><![CDATA[【68】敷益清 组合面膜 4盒，共25片含：15片面膜+10片眼膜 ，蓝膜/粉膜/绿膜/冰膜/灯泡膜都有，四个组合可选~[图片][图片][图片]]]></title>
