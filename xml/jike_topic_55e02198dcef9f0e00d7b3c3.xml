@@ -21,8 +21,40 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 20 Apr 2022 08:27:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 12:38:29 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[【福利】少数派付费教程上新啦！转发并关注抽三个即友送教程🎁 「100 小时后请叫我程序员」属于少数派全新策划的 Plus 栏目，将在未来一年里，更新以下三部分...]]></title>
+            <description><![CDATA[<br>【福利】少数派付费教程上新啦！转发并关注抽三个即友送教程🎁<br><br>「100 小时后请叫我程序员」属于少数派全新策划的 Plus 栏目，将在未来一年里，更新以下三部分内容（前往查看全部内容更新时间表）：<br><br>1⃣️知识体系：26 篇文章详细讲解专业领域知识点，夯实基础；<br>2⃣️技能拓展：16 篇主题分享，延展编程知识图谱，快速掌握行业动态；<br>3⃣️线上研讨会：内容更新期间举办 3 次线上直播，与主理人线上直接交流学习心得。<br><br>购买链接：https://sspai.com/post/72729]]></description>
+            <pubDate>Wed, 20 Apr 2022 09:49:18 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/625fd71ed11b21001034469a</guid>
+            <link>https://m.okjike.com/originalPosts/625fd71ed11b21001034469a</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[#github有趣的项目一推 建议感兴趣的同学，可使用Sampler源码做一些你自己想做的事情，相对来说还是比较灵活的（例如：服务端各种状态检测，Docker容器状态检测...]]></title>
+            <description><![CDATA[<br>#github有趣的项目一推 建议感兴趣的同学，可使用Sampler源码做一些你自己想做的事情，相对来说还是比较灵活的（例如：服务端各种状态检测，Docker容器状态检测和数据库检测等）。<br>Sampler是一个用于执行shell命令、可视化和警报的工具。采用YAML文件配置即可。<br><br>https://github.com/sqshq/sampler<img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Fq20Yh8d4Lo-QwTaR4TS5rQIIH_Ev2.gif">]]></description>
+            <pubDate>Wed, 20 Apr 2022 02:23:30 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/625f6ea2f72d120010fb7d78</guid>
+            <link>https://m.okjike.com/originalPosts/625f6ea2f72d120010fb7d78</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[疫情在家待着无聊？可以跟着这位小哥，拿游戏遥控器操控自己的脸…… 项目地址：https://github.com/maHidaka/ros_face]]></title>
@@ -78,38 +110,6 @@
             <pubDate>Mon, 18 Apr 2022 02:58:23 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/625cd3cf1282b90010415875</guid>
             <link>https://m.okjike.com/originalPosts/625cd3cf1282b90010415875</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[继上次的做饭指南后，又有人写了延寿指南。 https://github.com/geekan/HowToLiveLonger]]></title>
-            <description><![CDATA[<br>继上次的做饭指南后，又有人写了延寿指南。<br><br>https://github.com/geekan/HowToLiveLonger<br><picture><source srcset="https://cdn.jellow.site/FsO4f1X2V1wmvuORaEs_iFTIhyfEv2.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FsO4f1X2V1wmvuORaEs_iFTIhyfEv2.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FsO4f1X2V1wmvuORaEs_iFTIhyfEv2.jpg"></picture>]]></description>
-            <pubDate>Sun, 17 Apr 2022 15:28:58 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/625c323a562b860010116f5e</guid>
-            <link>https://m.okjike.com/originalPosts/625c323a562b860010116f5e</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[以前我们有看到不少 image2text 的工具库，这个仓库直接实现了 text2image，有点厉害啦：https://github.com/lucidrains/DALLE2-pytorch 用的是 DALL·E·2 这个...]]></title>
-            <description><![CDATA[<br>以前我们有看到不少 image2text 的工具库，这个仓库直接实现了 text2image，有点厉害啦：https://github.com/lucidrains/DALLE2-pytorch<br><br>用的是 DALL·E·2 这个 AI 系统：https://openai.com/dall-e-2/<br><picture><source srcset="https://cdn.jellow.site/Fqe_c1wbmg4YxhHsR5KDmgjTNM4_v2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/Fqe_c1wbmg4YxhHsR5KDmgjTNM4_v2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Fqe_c1wbmg4YxhHsR5KDmgjTNM4_v2.png"></picture>]]></description>
-            <pubDate>Sat, 16 Apr 2022 20:45:27 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/625b2ae7d11b210010342c82</guid>
-            <link>https://m.okjike.com/originalPosts/625b2ae7d11b210010342c82</link>
             
             
             
