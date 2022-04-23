@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[分享白菜达人的微博]]></title>
         <link>http://weibo.com/5609361977/</link>
-        <atom:link href="https://rsshub.rssforever.com/weibo/user/5609361977" rel="self" type="application/rss+xml" />
+        <atom:link href="http://rsshub/weibo/user/5609361977" rel="self" type="application/rss+xml" />
         <description><![CDATA[跟着博主抢红包，薅羊毛！撸免单！买超优惠商品！ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -16,13 +16,29 @@
         <language>zh-cn</language>
         
         <image>
-            <url>https://tvax2.sinaimg.cn/crop.0.0.512.512.180/0067Cjihly8gb7w03ko6vj30e80e874q.jpg?KID=imgbed,tva&#38;Expires=1650669705&#38;ssig=3TNvv5om3z</url>
+            <url>https://tvax2.sinaimg.cn/crop.0.0.512.512.180/0067Cjihly8gb7w03ko6vj30e80e874q.jpg?KID=imgbed,tva&#38;Expires=1650688688&#38;ssig=kGppqzOnhX</url>
             <title><![CDATA[分享白菜达人的微博]]></title>
             <link>http://weibo.com/5609361977/</link>
         </image>
         
-        <lastBuildDate>Fri, 22 Apr 2022 20:21:45 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Sat, 23 Apr 2022 01:38:10 GMT</lastBuildDate>
+        <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[PDD【13.9】脆升升.香脆薯条200g，共10包 [图片][图片][图片]]]></title>
+            <description><![CDATA[PDD【13.9】脆升升.香脆薯条200g，共10包 <img style="" src="https://wx3.sinaimg.cn/large/0067Cjihly1h1jecfo3hoj30m80m8782.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://wx1.sinaimg.cn/large/0067Cjihly1h1jecfrq2wj30m80m8jv9.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://wx2.sinaimg.cn/large/0067Cjihly1h1jecfogtvj30m80m8whd.jpg" referrerpolicy="no-referrer"><br><br>]]></description>
+            <pubDate>Sat, 23 Apr 2022 01:27:08 GMT</pubDate>
+            <guid isPermaLink="false">https://weibo.com/5609361977/LpJVZ3Jt6</guid>
+            <link>https://weibo.com/5609361977/LpJVZ3Jt6</link>
+            
+            
+            
+            <author><![CDATA[分享白菜达人]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[百草味玫瑰红葡萄干60g*5袋【拍五件，29.9】 【专区任选5件29.9】百草味玫瑰红葡萄干60g*5袋 [图片]]]></title>
@@ -158,22 +174,6 @@
             <pubDate>Fri, 22 Apr 2022 12:36:08 GMT</pubDate>
             <guid isPermaLink="false">https://weibo.com/5609361977/LpET2sHKx</guid>
             <link>https://weibo.com/5609361977/LpET2sHKx</link>
-            
-            
-            
-            <author><![CDATA[分享白菜达人]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[有你一面多口味拌面6袋 11.48 [图片][图片][图片]]]></title>
-            <description><![CDATA[有你一面多口味拌面6袋 11.48 <img style="" src="https://wx2.sinaimg.cn/large/0067Cjihly1h1ire3kwkxj30m80m8wjz.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://wx2.sinaimg.cn/large/0067Cjihly1h1ire4ehc7j30m80m8dl7.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://wx4.sinaimg.cn/large/0067Cjihly1h1ire3o4ecj30u00u0wlb.jpg" referrerpolicy="no-referrer"><br><br>]]></description>
-            <pubDate>Fri, 22 Apr 2022 12:12:56 GMT</pubDate>
-            <guid isPermaLink="false">https://weibo.com/5609361977/LpEJCAdwM</guid>
-            <link>https://weibo.com/5609361977/LpEJCAdwM</link>
             
             
             
