@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 26 Apr 2022 04:33:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 08:26:02 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[初三就开始写代码了, 后浪后浪]]></title>
+            <description><![CDATA[<br>初三就开始写代码了, 后浪后浪<br><picture><source srcset="https://cdn.jellow.site/Fm_bD0mVDhI6RgMtttUl7_KRuq8Hv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/Fm_bD0mVDhI6RgMtttUl7_KRuq8Hv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Fm_bD0mVDhI6RgMtttUl7_KRuq8Hv3.png"></picture>]]></description>
+            <pubDate>Tue, 26 Apr 2022 05:10:16 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62677eb8f95839c040abbffa</guid>
+            <link>https://m.okjike.com/originalPosts/62677eb8f95839c040abbffa</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[看来大家都很期待 Twitter 的算法呀！！哈哈哈哈 😂]]></title>
@@ -30,6 +46,38 @@
             <pubDate>Tue, 26 Apr 2022 00:09:30 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6267383af95839c040a52393</guid>
             <link>https://m.okjike.com/originalPosts/6267383af95839c040a52393</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[激动 https://github.com/twitter/the-algorithm]]></title>
+            <description><![CDATA[<br>激动<br>https://github.com/twitter/the-algorithm<br><picture><source srcset="https://cdn.jellow.site/FgdfDJMq7rQCWcTLCzdA70_ntXQsv3.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FgdfDJMq7rQCWcTLCzdA70_ntXQsv3.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FgdfDJMq7rQCWcTLCzdA70_ntXQsv3.jpg"></picture>]]></description>
+            <pubDate>Mon, 25 Apr 2022 21:34:20 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/626713dcf95839c040a318e0</guid>
+            <link>https://m.okjike.com/originalPosts/626713dcf95839c040a318e0</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[最近每天都在做超出能力范围的功能 真面向百度的编程 好在大部分功能都实现了]]></title>
+            <description><![CDATA[<br>最近每天都在做超出能力范围的功能<br>真面向百度的编程<br>好在大部分功能都实现了]]></description>
+            <pubDate>Mon, 25 Apr 2022 15:45:45 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6266c2293c187d32ad0356db</guid>
+            <link>https://m.okjike.com/originalPosts/6266c2293c187d32ad0356db</link>
             
             
             
@@ -121,59 +169,11 @@
         </item>
         
         <item>
-            <title><![CDATA[总结一下最近使用树莓派4B 8G安装ubuntu-mate并搭建私人Gitlab服务器遇到的坑点 1. 树莓派连接了WiFi，又用网线连接到主电脑，此时树莓派有两个ip地址，一个是同...]]></title>
-            <description><![CDATA[<br>总结一下最近使用树莓派4B 8G安装ubuntu-mate并搭建私人Gitlab服务器遇到的坑点<br><br>1. 树莓派连接了WiFi，又用网线连接到主电脑，此时树莓派有两个ip地址，一个是同一个局域网下分配的ip，另一个是在电脑cmd用arp -a命令直接看到的ip，实际上用ssh连接时，以分配的ip为准（即WiFi的ip）<br><br>2. 安装好ubuntu-mate后，树莓派在开机时会检测是否有HDMI输出，如果没有连接显示器，则会开机失败，需要在装好系统的SD卡（system-boot）的根目录下修改config.txt文件（Win10环境读卡器），把#hdmi_force_hotplug=1，改为hdmi_force_hotplug=1（去掉#注释），而我发现并没有这句代码，于是在加了这句代码后，再把hdmi_device=2去掉注释（去除句首#） <br><br>3. 安装ubuntu-mate后，无法连接WiFi，表现为，输入密码后处于连接中状态，一段时间后连接超时并要求重新输入密码。而树莓派官方系统Raspbian则没问题，按照网上资料处理几次依然无法解决，在ubuntu论坛上也看到多个类似问题，但依然没有解决，目前只能连网线。<br><br>4. 在使用过程中，发现过一段时间后ssh会自动断开，推测是进入休眠状态，于是关闭屏保程序，取消屏保计时，于是问题暂时解决。但在我远程重启树莓派后，问题再次复现，发现是因为我装了苹果系统的主题，开机需要登录系统账号，于是进入设置界面，关闭系统自动挂起（suspend相关的都关闭），同时让系统账户自动登入，于是问题彻底解决。<br><br>5. 配置完Gitlab后，执行命令sudo gitlab-ctl reconfigure进行重新配置，网上资料称，该过程最后会重启gitlab，但实际发现，如果不再执行sudo gitlab-ctl start，可能会出现打开gitlab地址时报502错误，执行后得以解决。<br><br>6. 注册了gitlab账号后，记得用root账号通过注册申请🤣，还有就是gitlab的网站要用谷歌内核的浏览器打开，ie内核不行。<br><br>7. 后续发现Tabby这款终端软件真的好看又方便，果断放弃putty和XShell🤣<br><picture><source srcset="https://cdn.jellow.site/FsRwq3Of5FTLkjmdR62F7RfpPVFLv2.jpeg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FsRwq3Of5FTLkjmdR62F7RfpPVFLv2.jpeg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FsRwq3Of5FTLkjmdR62F7RfpPVFLv2.jpeg"></picture><br><picture><source srcset="https://cdn.jellow.site/FkLa0hnzqio5ubtkKIoloRDNt6WZv2.jpeg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FkLa0hnzqio5ubtkKIoloRDNt6WZv2.jpeg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FkLa0hnzqio5ubtkKIoloRDNt6WZv2.jpeg"></picture>]]></description>
-            <pubDate>Thu, 10 Feb 2022 04:34:48 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/620495e8ac75d90010436c70</guid>
-            <link>https://m.okjike.com/originalPosts/620495e8ac75d90010436c70</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[100 Days of SwiftUI Day014 optionals, nil coalescing, and checkpoint 9 昨天晚上学完竟然忘记发了🥲过了一遍教程，完成教程后的题目。今天完成checkpoint9...]]></title>
-            <description><![CDATA[<br>100 Days of SwiftUI<br>Day014 optionals, nil coalescing, and checkpoint 9<br>昨天晚上学完竟然忘记发了🥲过了一遍教程，完成教程后的题目。今天完成checkpoint9。<br><picture><source srcset="https://cdn.jellow.site/Fto-NqHjup5OPyxjHUN5qmErpl3Sv2.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/Fto-NqHjup5OPyxjHUN5qmErpl3Sv2.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Fto-NqHjup5OPyxjHUN5qmErpl3Sv2.jpg"></picture>]]></description>
-            <pubDate>Sun, 16 Jan 2022 00:22:14 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/61e365365cb36200103fd523</guid>
-            <link>https://m.okjike.com/originalPosts/61e365365cb36200103fd523</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[可以在 iPad 上开发 iOS App 了]]></title>
-            <description><![CDATA[<br>可以在 iPad 上开发 iOS App 了<br><picture><source srcset="https://cdn.jellow.site/FqjfhmHqND0cV3cznA7RA8tq9tgwv2.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FqjfhmHqND0cV3cznA7RA8tq9tgwv2.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FqjfhmHqND0cV3cznA7RA8tq9tgwv2.jpg"></picture>]]></description>
-            <pubDate>Thu, 16 Dec 2021 16:16:32 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/61bb66605827190010e02541</guid>
-            <link>https://m.okjike.com/originalPosts/61bb66605827190010e02541</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Github 推出了新的产品 Code Search，https://cs.github.com/about ，从此在 Github 的工作就不仅仅是 Copy & Paste 了，还有 Search :-)]]></title>
-            <description><![CDATA[<br>Github 推出了新的产品 Code Search，https://cs.github.com/about ，从此在 Github 的工作就不仅仅是 Copy &amp; Paste 了，还有 Search :-)<br><picture><source srcset="https://cdn.jellow.site/FvBnPY-3Q7WwnScT4ivxggqE-Qx1v2.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FvBnPY-3Q7WwnScT4ivxggqE-Qx1v2.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FvBnPY-3Q7WwnScT4ivxggqE-Qx1v2.png"></picture>]]></description>
-            <pubDate>Fri, 10 Dec 2021 08:23:19 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/61b30e775466fb00111d6a14</guid>
-            <link>https://m.okjike.com/originalPosts/61b30e775466fb00111d6a14</link>
+            <title><![CDATA[记录一下大二时候的一个爬虫小项目，今天偶然看到。]]></title>
+            <description><![CDATA[<br>记录一下大二时候的一个爬虫小项目，今天偶然看到。<br><picture><source srcset="https://cdn.jellow.site/FmQoYjRmnX8YauAK5gIOqiinDrSIv2.jpeg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FmQoYjRmnX8YauAK5gIOqiinDrSIv2.jpeg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FmQoYjRmnX8YauAK5gIOqiinDrSIv2.jpeg"></picture>]]></description>
+            <pubDate>Wed, 20 Apr 2022 12:49:25 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62600155c4500000107b6ad0</guid>
+            <link>https://m.okjike.com/originalPosts/62600155c4500000107b6ad0</link>
             
             
             
