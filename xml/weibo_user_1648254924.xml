@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[大白找白菜的微博]]></title>
         <link>http://weibo.com/1648254924/</link>
-        <atom:link href="https://rsshub.rssforever.com/weibo/user/1648254924" rel="self" type="application/rss+xml" />
+        <atom:link href="http://rsshub/weibo/user/1648254924" rel="self" type="application/rss+xml" />
         <description><![CDATA[为你省钱为你分忧，暖男大白一心为你❤ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -16,13 +16,13 @@
         <language>zh-cn</language>
         
         <image>
-            <url>https://tvax2.sinaimg.cn/crop.0.0.828.828.180/623e5fccly8gdippwpjd3j20n00n0jsf.jpg?KID=imgbed,tva&#38;Expires=1651346848&#38;ssig=1zI8JH6sM7</url>
+            <url>https://tvax2.sinaimg.cn/crop.0.0.828.828.180/623e5fccly8gdippwpjd3j20n00n0jsf.jpg?KID=imgbed,tva&#38;Expires=1651360829&#38;ssig=CmPBkc%2F4Mr</url>
             <title><![CDATA[大白找白菜的微博]]></title>
             <link>http://weibo.com/1648254924/</link>
         </image>
         
-        <lastBuildDate>Sat, 30 Apr 2022 16:27:29 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Sat, 30 Apr 2022 20:20:30 GMT</lastBuildDate>
+        <ttl>1</ttl>
         
         <item>
             <title><![CDATA[￥29.9 可复美类人胶原蛋白敷料2片 【爆款面膜，院线同款】敏肌挚爱急救膜，获40项发明专利的类人胶原蛋白面膜贴，改善起皮泛红、修复受损角质层、抑制皮炎痤疮...]]></title>
