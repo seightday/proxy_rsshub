@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss  xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
 
-
 >
     <channel>
         <title><![CDATA[JitHub - 即刻圈子]]></title>
         <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
-        <atom:link href="http://rsshub/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
+        <atom:link href="https://vercel.getrss2021.xyz/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
         <description><![CDATA[开发者们分享，问答，也可以交友的地方。欢迎所有工程师！ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -21,11 +20,13 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sun, 01 May 2022 08:24:05 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Sun, 01 May 2022 12:34:40 GMT</lastBuildDate>
+        <ttl>5</ttl>
         
         <item>
-            <title><![CDATA[udemy 买了一门AWS课99块钱，其他10块钱买的课先放一放，先看这个贵的🤣🤣 （想求公司报销但是我估计他们会直接问我：为啥不看自己公司的官方视频教程？ 还...]]></title>
+            <title><![CDATA[udemy 买了一门AWS课99块钱，其他10块钱买的课先放一放，先看这个贵的🤣🤣
+（想求公司报销但是我估计他们会直接问我：为啥不看自己公司的官方视频教程？
+还...]]></title>
             <description><![CDATA[<br>udemy 买了一门AWS课99块钱，其他10块钱买的课先放一放，先看这个贵的🤣🤣<br>（想求公司报销但是我估计他们会直接问我：为啥不看自己公司的官方视频教程？<br>还能为啥，你们的教程太混乱了呗🙂]]></description>
             <pubDate>Sun, 01 May 2022 02:07:47 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/626deb73bcb7ff09f7a211e7</guid>
@@ -57,6 +58,22 @@
         </item>
         
         <item>
+            <title><![CDATA[【知乎想法】居然还有ip属地未知的？]]></title>
+            <description><![CDATA[<br>【知乎想法】居然还有ip属地未知的？<br><picture><source srcset="https://cdn.jellow.site/FowvRoxbXcAS6b8O9C6YbVua5Kd-v3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FowvRoxbXcAS6b8O9C6YbVua5Kd-v3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FowvRoxbXcAS6b8O9C6YbVua5Kd-v3.png"></picture>]]></description>
+            <pubDate>Sat, 30 Apr 2022 16:38:08 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/626d65f092d6c04d4833407f</guid>
+            <link>https://m.okjike.com/originalPosts/626d65f092d6c04d4833407f</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Github Copilot经常会提醒我一些我没完成的case，特别好。]]></title>
             <description><![CDATA[<br>Github Copilot经常会提醒我一些我没完成的case，特别好。<br><picture><source srcset="https://cdn.jellow.site/FtLq0EFNESbXYpVLrssi-pzCzbgev3.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FtLq0EFNESbXYpVLrssi-pzCzbgev3.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FtLq0EFNESbXYpVLrssi-pzCzbgev3.jpg"></picture>]]></description>
             <pubDate>Sat, 30 Apr 2022 12:43:30 GMT</pubDate>
@@ -73,7 +90,28 @@
         </item>
         
         <item>
-            <title><![CDATA[BIlibili 阿婆主「图灵的猫」，开发了一个名为「启灵 1.0」的科幻小说 AI 辅助创作平台，我试了一下，还可以哦！ http://smart.pfish.xyz/]]></title>
+            <title><![CDATA[刚才开电脑拉了下代码
+发现最近新写的代码都被同事加上了license、
+这license一加上、
+突然觉子自己的代码一下子高端了起来😂
+有格调了😏]]></title>
+            <description><![CDATA[<br>刚才开电脑拉了下代码<br>发现最近新写的代码都被同事加上了license、<br>这license一加上、<br>突然觉子自己的代码一下子高端了起来😂<br>有格调了😏<br><picture><source srcset="https://cdn.jellow.site/FtH3uVZDKYLfUTU59x4vGkadEENmv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FtH3uVZDKYLfUTU59x4vGkadEENmv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FtH3uVZDKYLfUTU59x4vGkadEENmv3.png"></picture>]]></description>
+            <pubDate>Sat, 30 Apr 2022 07:40:03 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/626ce7d392d6c04d4827c5f4</guid>
+            <link>https://m.okjike.com/originalPosts/626ce7d392d6c04d4827c5f4</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[BIlibili 阿婆主「图灵的猫」，开发了一个名为「启灵 1.0」的科幻小说 AI 辅助创作平台，我试了一下，还可以哦！
+http://smart.pfish.xyz/]]></title>
             <description><![CDATA[<br>BIlibili 阿婆主「图灵的猫」，开发了一个名为「启灵 1.0」的科幻小说 AI 辅助创作平台，我试了一下，还可以哦！<br>http://smart.pfish.xyz/<br><picture><source srcset="https://cdn.jellow.site/Fk_LhTnJq-okNgopcz0u2_nxHiCUv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/Fk_LhTnJq-okNgopcz0u2_nxHiCUv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Fk_LhTnJq-okNgopcz0u2_nxHiCUv3.png"></picture>]]></description>
             <pubDate>Fri, 29 Apr 2022 07:42:37 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/626b96ed4bac8508046b9b8f</guid>
@@ -89,23 +127,8 @@
         </item>
         
         <item>
-            <title><![CDATA[独立开发变现周刊（第52期）：在Shopify上开发一个月收入2万美元的APP 分享独立开发、产品变现相关内容，每周五发布。 目录： 1、Relingo: 在日常阅读中渐进性掌...]]></title>
-            <description><![CDATA[<br>独立开发变现周刊（第52期）：在Shopify上开发一个月收入2万美元的APP<br><br>分享独立开发、产品变现相关内容，每周五发布。<br><br>目录：<br>1、Relingo: 在日常阅读中渐进性掌握单词<br>2、Passage: 为开发者建立的生物识别认证<br>3、Visily: 面向非设计师的人工智能协同设计软件<br>4、基于Shopify上开发一个每月2万美元收入的APP<br><br>详细内容：https://www.ezindie.com/weekly/issue-52<br><picture><source srcset="https://cdn.jellow.site/Fl1UeDWD0ZvFoMXaL-iuGi_Y9ekFv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/Fl1UeDWD0ZvFoMXaL-iuGi_Y9ekFv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Fl1UeDWD0ZvFoMXaL-iuGi_Y9ekFv3.png"></picture>]]></description>
-            <pubDate>Fri, 29 Apr 2022 01:01:48 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/626b38fc33f5cae7ced8ecf9</guid>
-            <link>https://m.okjike.com/originalPosts/626b38fc33f5cae7ced8ecf9</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Fig也太tm nb了吧。。。 https://fig.io/invite/?code=b7tMm79DXC]]></title>
+            <title><![CDATA[Fig也太tm nb了吧。。。
+https://fig.io/invite/?code=b7tMm79DXC]]></title>
             <description><![CDATA[<br>Fig也太tm nb了吧。。。<br>https://fig.io/invite/?code=b7tMm79DXC]]></description>
             <pubDate>Thu, 28 Apr 2022 15:32:57 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/626ab3a9088385b3782abd4b</guid>
@@ -121,27 +144,12 @@
         </item>
         
         <item>
-            <title><![CDATA[#github有趣的项目一推 💡💡💡 Json数据可视化工具（与传统的格式化还不一样，属于思维导图模式🛠，让你的思维更清晰），让你跟清晰知道数据之间的关联...]]></title>
+            <title><![CDATA[#github有趣的项目一推 💡💡💡
+Json数据可视化工具（与传统的格式化还不一样，属于思维导图模式🛠，让你的思维更清晰），让你跟清晰知道数据之间的关联...]]></title>
             <description><![CDATA[<br>#github有趣的项目一推 💡💡💡<br>Json数据可视化工具（与传统的格式化还不一样，属于思维导图模式🛠，让你的思维更清晰），让你跟清晰知道数据之间的关联关系。<br>来自“github主”的介绍：❤️<br>JSON Visio是为你的json数据提供的数据可视化工具，它可以无缝地在图表上说明你的数据，而不需要重组任何东西，直接粘贴或导入文件。<br><br>https://jsonvisio.com/editor ---案例地址<br>希望你们喜欢。🤓<br>https://github.com/AykutSarac/jsonvisio.com<br><picture><source srcset="https://cdn.jellow.site/FvqbFv9nJJN768VnLggICfDpThUAv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FvqbFv9nJJN768VnLggICfDpThUAv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FvqbFv9nJJN768VnLggICfDpThUAv3.png"></picture>]]></description>
             <pubDate>Thu, 28 Apr 2022 09:16:53 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/626a5b854076cbe793a7327a</guid>
             <link>https://m.okjike.com/originalPosts/626a5b854076cbe793a7327a</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[完美！开源地址：https://oshwhub.com/zhushengji/213-mo-shui-ping-dan-ci-ka-tf-ban-ben]]></title>
-            <description><![CDATA[<br>完美！开源地址：https://oshwhub.com/zhushengji/213-mo-shui-ping-dan-ci-ka-tf-ban-ben<br><picture><source srcset="https://cdn.jellow.site/Fta1mvDVjatUadccXNIjoTuBqMMKv3.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/Fta1mvDVjatUadccXNIjoTuBqMMKv3.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Fta1mvDVjatUadccXNIjoTuBqMMKv3.jpg"></picture>]]></description>
-            <pubDate>Tue, 26 Apr 2022 10:58:26 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6267d052c587ffb232538edb</guid>
-            <link>https://m.okjike.com/originalPosts/6267d052c587ffb232538edb</link>
             
             
             
