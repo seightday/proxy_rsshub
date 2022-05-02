@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss  xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
 
+
 >
     <channel>
         <title><![CDATA[一觉醒来世界发生了什么 - 即刻圈子]]></title>
         <link>https://m.okjike.com/topics/553870e8e4b0cafb0a1bef68</link>
-        <atom:link href="https://vercel.getrss2021.xyz/jike/topic/553870e8e4b0cafb0a1bef68" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub/jike/topic/553870e8e4b0cafb0a1bef68" rel="self" type="application/rss+xml" />
         <description><![CDATA[每天早上向你汇报当你睡觉的时候世界发生了什么，快速一览昨夜今晨要闻。 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -20,11 +21,11 @@
             <link>https://m.okjike.com/topics/553870e8e4b0cafb0a1bef68</link>
         </image>
         
-        <lastBuildDate>Mon, 02 May 2022 08:27:33 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Mon, 02 May 2022 12:39:18 GMT</lastBuildDate>
+        <ttl>1</ttl>
         
         <item>
-            <title><![CDATA[一觉醒来世界发生了什么 05月01日]]></title>
+            <title><![CDATA[一觉醒来世界发生了什么 05月02日]]></title>
             <description><![CDATA[1、<a href="https://www.jiemian.com/article/7412266.html">湖南长沙居民自建房倒塌事故现场救援进展：第7名被困人员被救出</a><br>2、<a href="https://www.jiemian.com/article/7412373.html">羽毛球亚锦赛：中国队夺三项冠军，王祉怡获赛会个人首冠</a><br>3、<a href="https://www.36kr.com/newsflashes/1722253807975683">五一假期总票房破亿</a><br>4、<a href="https://www.36kr.com/newsflashes/1722258408045576">B站设立纪录片开放周，全部纪录片免费观看</a><br>5、<a href="https://www.36kr.com/newsflashes/1722197435366406">AC米兰在中国首家电商旗舰店上线天猫</a><br>6、<a href="https://www.3dmgame.com/news/202205/3841515.html">《阿凡达2》曝新剧照 男女主角新造型亮相</a><br>7、<a href="https://www.3dmgame.com/news/202205/3841511.html">英伟达挖走英特尔CPU架构师 将负责未来Arm架构产品的研发</a><br>]]></description>
             <pubDate>Sun, 01 May 2022 23:05:23 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/626f12334d3715c6ec37743e</guid>
@@ -40,7 +41,7 @@
         </item>
         
         <item>
-            <title><![CDATA[一觉醒来世界发生了什么 04月30日]]></title>
+            <title><![CDATA[一觉醒来世界发生了什么 05月01日]]></title>
             <description><![CDATA[1、<a href="https://www.thepaper.cn/newsDetail_forward_17887798">长沙自建房倒塌事故：23人被困5人已获救，仍有39人失联</a><br>2、<a href="https://www.36kr.com/newsflashes/1720742054853897">一季度GDP十强城市：广州稳居第四，武汉增速最快</a><br>3、<a href="http://www.pingwest.com/w/262813">我国成功发射四维01/02卫星</a><br>4、<a href="http://www.pingwest.com/w/262799">蔚来ET5首批全工艺生产线试制车正式下线</a><br>5、<a href="https://www.3dmgame.com/news/202204/3841466.html">《刺猬索尼克2》成北美影史票房最高游戏改编电影</a><br>6、<a href="http://www.pingwest.com/w/262826">苹果 App Store 将大量删除长期不更新应用</a><br>]]></description>
             <pubDate>Sat, 30 Apr 2022 23:05:13 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/626dc0a94d3715c6ec36d2a7</guid>
@@ -56,7 +57,7 @@
         </item>
         
         <item>
-            <title><![CDATA[一觉醒来世界发生了什么 04月29日]]></title>
+            <title><![CDATA[一觉醒来世界发生了什么 04月30日]]></title>
             <description><![CDATA[1、<a href="http://www.pingwest.com/w/262786">广东：对符合条件的消费者给予新能源汽车综合使用补贴8000元/辆</a><br>2、<a href="http://www.pingwest.com/w/262815">顺丰航空机队规模突破70架</a><br>3、<a href="http://www.pingwest.com/w/262821">微博公众号将更新 文章评论将显示IP所在地</a><br>4、<a href="http://www.pingwest.com/w/262799">蔚来ET5首批全工艺生产线试制车正式下线</a><br>5、<a href="http://cn.chinadaily.com.cn/a/202204/29/WS626baccaa3101c3ee7ad3418.html">日本失联观光船船体被找到 14人确认遇难</a><br>6、<a href="http://www.myzaker.com/article/626b3969b15ec06c944e09ca">可口可乐遭黑客入侵，161GB 数据被窃取，官方称正在调查</a><br>7、<a href="https://m.ithome.com/html/615812.htm">微软 Win11 应用商店全新网页版已正式上线：圆角 UI，添加搜索栏，支持一键安装应用</a><br>]]></description>
             <pubDate>Fri, 29 Apr 2022 23:05:03 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/626c6f1f4d3715c6ec36352a</guid>
@@ -72,7 +73,7 @@
         </item>
         
         <item>
-            <title><![CDATA[一觉醒来世界发生了什么 04月28日]]></title>
+            <title><![CDATA[一觉醒来世界发生了什么 04月29日]]></title>
             <description><![CDATA[1、<a href="http://www.pingwest.com/w/262689">五一劳动奖章”首次颁给外卖站：饿了么站点获选全国工人先锋号</a><br>2、<a href="https://www.thepaper.cn/newsDetail_forward_17853944">“五一”假期福建高速公路日均车流量或超过350万辆次</a><br>3、<a href="http://www.pingwest.com/w/262692">微博 IP 属地功能大升级 强制开放评论属地显示</a><br>4、<a href="http://www.pingwest.com/w/262686">全国一体化算力网络成渝国家枢纽节点（重庆）开建</a><br>5、<a href="http://www.pingwest.com/w/262735">欧盟将就苹果Apple Pay提起反垄断指控：最高罚款全球营业额10%</a><br>6、<a href="http://cn.chinadaily.com.cn/a/202204/28/WS626a1e5fa3101c3ee7ad2f0f.html">英国卫生安全局欲暂停病毒检测、裁员40% 专家批评：此举或以生命为代价</a><br>7、<a href="https://m.ithome.com/html/615586.htm">卡梅隆电影《阿凡达 2》正式定名为《阿凡达：水之道》，《阿凡达》（2009）声画重制版将上映</a><br>8、<a href="http://www.pingwest.com/w/262710">索尼新品发布会定档5月11日</a><br>]]></description>
             <pubDate>Thu, 28 Apr 2022 23:05:52 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/626b1dd04d3715c6ec359a43</guid>
@@ -88,7 +89,7 @@
         </item>
         
         <item>
-            <title><![CDATA[一觉醒来世界发生了什么 04月27日]]></title>
+            <title><![CDATA[一觉醒来世界发生了什么 04月28日]]></title>
             <description><![CDATA[1、<a href="http://www.pingwest.com/w/262643">深圳将通过美团、京东平台发放5亿元消费券</a><br>2、<a href="http://www.pingwest.com/w/262644">菜鸟北京运力将向封控区、管控区倾斜 封控区推24小时配送</a><br>3、<a href="https://news.ifeng.com/c/8FY8D3VwgXY">网易云音乐正式起诉腾讯音乐不正当竞争</a><br>4、<a href="https://www.thepaper.cn/newsDetail_forward_17830623">日媒：日本北海道失联观光船所属公司社长道歉</a><br>5、<a href="http://cn.chinadaily.com.cn/a/202204/27/WS6268f379a3101c3ee7ad2c77.html">新冠疫情致劳动力规模骤降 英国经济今年将遭受80亿英镑损失</a><br>6、<a href="https://www.thepaper.cn/newsDetail_forward_17828142">俄罗斯反击： “断气”！</a><br>7、<a href="http://www.pingwest.com/w/262656">Netflix与日本工作室Studio Colorido合作 共同制作动漫电影</a><br>8、<a href="http://www.pingwest.com/w/262658">苹果在美国首先推出自助维修服务 将提供 49 美元的工具租赁套件</a><br>]]></description>
             <pubDate>Wed, 27 Apr 2022 23:05:45 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6269cc49a6bd34e8f1f7b446</guid>
@@ -104,7 +105,7 @@
         </item>
         
         <item>
-            <title><![CDATA[一觉醒来世界发生了什么 04月26日]]></title>
+            <title><![CDATA[一觉醒来世界发生了什么 04月27日]]></title>
             <description><![CDATA[1、<a href="http://www.pingwest.com/w/262549">神州十三号返回舱在京开舱</a><br>2、<a href="http://www.pingwest.com/w/262571">美团闪购：已送出近百万个民生物资订单 携手商超增5倍备货量保供给</a><br>3、<a href="http://www.pingwest.com/w/262568">华为预测：2030年人工智能算力需求会增长500倍以上</a><br>4、<a href="http://www.pingwest.com/w/262575">储能产业链投资计划已经超过了1.2万亿元</a><br>5、<a href="http://cn.chinadaily.com.cn/a/202204/26/WS6267b5f8a3101c3ee7ad290f.html">加媒：全球疫苗接种率仅为59% 新冠病毒变异毒株仍是威胁</a><br>6、<a href="http://cn.chinadaily.com.cn/a/202204/26/WS6267a453a3101c3ee7ad28d5.html">美国研究：新冠疫情期间，美国青少年自杀风险急剧增加</a><br>7、<a href="http://www.pingwest.com/w/262537">诺基亚宣布为微软 Azure 提供数据中心交换机产品</a><br>]]></description>
             <pubDate>Tue, 26 Apr 2022 23:05:35 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62687abfa6bd34e8f1f71517</guid>
@@ -120,7 +121,7 @@
         </item>
         
         <item>
-            <title><![CDATA[一觉醒来世界发生了什么 04月25日]]></title>
+            <title><![CDATA[一觉醒来世界发生了什么 04月26日]]></title>
             <description><![CDATA[1、<a href="https://www.jiemian.com/article/7384857.html">郑州：24日22时至25日10时，新增确诊1例、无症状2例，均为学生</a><br>2、<a href="http://www.pingwest.com/w/262499">用牛粪发电，全国最大单体生物质 RNG 热电联产项目投产</a><br>3、<a href="http://www.pingwest.com/w/262491">开源鸿蒙 OpenHarmony 3.1 Release 版本发布，逐步支持复杂标准带屏设备开发</a><br>4、<a href="http://www.pingwest.com/w/262460">台积电或将在2026年初交付首批2nm芯片</a><br>5、<a href="http://www.pingwest.com/w/262501">网易云音乐上线 Hi-Res 音质</a><br>6、<a href="http://cn.chinadaily.com.cn/a/202204/25/WS62664347a3101c3ee7ad2571.html">美国累计死亡病例逼近百万！研究称近24万美国人本可因接种疫苗免于死亡
 </a><br>7、<a href="http://cn.chinadaily.com.cn/a/202204/25/WS626640aaa3101c3ee7ad255a.html">英格兰超七成人口感染新冠 比例或将继续上升</a><br>8、<a href="http://www.pingwest.com/w/262486">奥迪 CEO 称欧洲车企应在 2040 年前停止使用化石燃料</a><br>]]></description>
             <pubDate>Mon, 25 Apr 2022 23:05:26 GMT</pubDate>
@@ -137,7 +138,7 @@
         </item>
         
         <item>
-            <title><![CDATA[一觉醒来世界发生了什么 04月24日]]></title>
+            <title><![CDATA[一觉醒来世界发生了什么 04月25日]]></title>
             <description><![CDATA[1、<a href="https://www.jiemian.com/article/7379182.html">新浪微博：将不断加大对言论攻击及网络暴力等行为的排查处置力度</a><br>2、<a href="https://www.jiemian.com/article/7379140.html">17款移动App存在隐私不合规行为被通报</a><br>3、<a href="http://news.ifeng.com/c/8FTiWslZyS1">家中失火2幼童被困 工人锯护栏救下</a><br>4、<a href="http://www.pingwest.com/w/262398">国家航天局在海南文昌设立遥感数据中心</a><br>5、<a href="https://www.jiemian.com/article/7379121.html">美国新墨西哥州野火蔓延灾情严重</a><br>6、<a href="http://www.pingwest.com/w/262432">日本大力支持电池产业：计划2030年占全球20%市场份额</a><br>7、<a href="http://www.pingwest.com/w/262417">苹果App Store或将下架长期不更新的应用程序</a><br>]]></description>
             <pubDate>Sun, 24 Apr 2022 23:05:16 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6265d7aca6bd34e8f1f5cb67</guid>
@@ -153,7 +154,7 @@
         </item>
         
         <item>
-            <title><![CDATA[一觉醒来世界发生了什么 04月23日]]></title>
+            <title><![CDATA[一觉醒来世界发生了什么 04月24日]]></title>
             <description><![CDATA[1、<a href="http://www.pingwest.com/w/262360">2021年我国成年国民综合阅读率81.6%</a><br>2、<a href="https://www.36kr.com/newsflashes/1711068560217864">微信分割朋友圈传言为不实消息</a><br>3、<a href="http://www.pingwest.com/w/262359">广东佛山交通 e 码上线 实现乘车码、健康码、核酸证明三合一</a><br>4、<a href="https://new.qq.com/omn/20220423/20220423A06XTW00.html">日本北海道一艘载有26人观光船遇险失联</a><br>5、<a href="https://www.36kr.com/newsflashes/1711049754842633">日本央行行长重申将维持宽松货币政策，日元对美元汇率逼近20年来低谷</a><br>6、<a href="https://www.36kr.com/newsflashes/1710969560389385">众议院要求Twitter保留与马斯克的所有通信记录，以备将来调查</a><br>7、<a href="https://www.36kr.com/newsflashes/1711080153355781">新西兰发现首例新冠重组毒株XE感染病例</a><br>8、<a href="http://www.pingwest.com/w/262355">索尼 Playstation Plus 订阅服务将从五月底开始上线</a><br>]]></description>
             <pubDate>Sat, 23 Apr 2022 23:05:55 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/626486530d42d8eb2f62cfe2</guid>
@@ -169,7 +170,7 @@
         </item>
         
         <item>
-            <title><![CDATA[一觉醒来世界发生了什么 04月22日]]></title>
+            <title><![CDATA[一觉醒来世界发生了什么 04月23日]]></title>
             <description><![CDATA[1、<a href="https://www.thepaper.cn/newsDetail_forward_17750282">百联为特殊困难人群开通服务通道，一天收到近800个咨询</a><br>2、<a href="https://www.thepaper.cn/newsDetail_forward_17750514">官方发布神十三航天员在轨拍摄的地球照片
 </a><br>3、<a href="https://www.jiemian.com/article/7372462.html">国家卫健委：我国具备能力和条件坚持“动态清零”不动摇</a><br>4、<a href="http://www.pingwest.com/w/262310">工信部：将对存在突出问题的新能源汽车企业下发风险提示函</a><br>5、<a href="https://www.thepaper.cn/newsDetail_forward_17751763">泰国下月起取消疫苗接种者入境核酸检测和隔离要求</a><br>6、<a href="http://www.pingwest.com/w/262337">2022 年一季度印度智能手机出货量小米第一，三星第二</a><br>]]></description>
             <pubDate>Fri, 22 Apr 2022 23:05:21 GMT</pubDate>
