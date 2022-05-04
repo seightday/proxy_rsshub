@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 04 May 2022 04:34:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2022 08:25:50 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[✍️缩短命令、调整按键、自动补全，这些代码值得你放进 PowerShell 配置文件 如果你在 PowerShell 上频繁运行外部命令，例如用 adb 调试 Android、使用 ffmpeg ...]]></title>
+            <description><![CDATA[<br>✍️缩短命令、调整按键、自动补全，这些代码值得你放进 PowerShell 配置文件<br><br>如果你在 PowerShell 上频繁运行外部命令，例如用 adb 调试 Android、使用 ffmpeg 批量处理音视频，那么难免会有「有什么办法能让这么长的命令短一点」的疑问；如果你常常用 PowerShell 和系统交互，例如批量处理文件和文本，可能总是不太习惯默认的 Tab 功能和按键映射；而如果你正在用 PowerShell 开发，需要使用 git、npm、dotnet 等命令行工具，或者要用 winget、choco 安装软件，那么一定会感叹「PowerShell 竟然默认不支持这些命令的自动补全」。<br><br>一劳永逸的解决方案是修改 PowerShell 的配置文件。<br><br>一般来说，PowerShell 中用户创建的变量、函数等只能在当前的窗口会话生效。但配置文件非常特殊，PowerShell 每次启动前都会加载该文件。如果将某些命令写入这个文件，修改就能全局生效。新建或修改配置文件最简单的方法是输入 notepad $profile，在弹出的编辑窗口添加命令即可。<br><br>下文我将用一系列例子向大家展示我是如何定制一个顺手的 PowerShell 的，希望可以帮助到你。<br><br>🔗阅读更多：https://sspai.com/post/73019?utm_source=jike&amp;utm_medium=social<br><picture><source srcset="https://cdn.jellow.site/FsCqpZdO3t5RvgstyEtSTpAg2Jxfv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FsCqpZdO3t5RvgstyEtSTpAg2Jxfv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FsCqpZdO3t5RvgstyEtSTpAg2Jxfv3.png"></picture><br><picture><source srcset="https://cdn.jellow.site/Fo28cGrLMbVMTQ9RlLSLeEwghCb5v3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/Fo28cGrLMbVMTQ9RlLSLeEwghCb5v3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Fo28cGrLMbVMTQ9RlLSLeEwghCb5v3.png"></picture>]]></description>
+            <pubDate>Wed, 04 May 2022 04:29:12 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62720118977cda8730400979</guid>
+            <link>https://m.okjike.com/originalPosts/62720118977cda8730400979</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[少花钱多办事，一个python程序员搞定前后端😂 PyScript是一个框架，允许用户使用HTML的界面在浏览器中创建丰富的Python应用程序。PyScript旨在为用户提供一流...]]></title>
@@ -30,6 +46,22 @@
             <pubDate>Tue, 03 May 2022 15:54:08 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/627150208caf7810c09bffc2</guid>
             <link>https://m.okjike.com/originalPosts/627150208caf7810c09bffc2</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[阿里大龄程序员被裁，4个月找不到工作房贷要断供。找我要程序外包单子，300块抢着干，都不容易啊 #独立开发的日常]]></title>
+            <description><![CDATA[<br>阿里大龄程序员被裁，4个月找不到工作房贷要断供。找我要程序外包单子，300块抢着干，都不容易啊<br><br>#独立开发的日常 <br><picture><source srcset="https://cdn.jellow.site/FoJhMicFA8xPFw4NR-p1MpdBYhcNv3.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FoJhMicFA8xPFw4NR-p1MpdBYhcNv3.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FoJhMicFA8xPFw4NR-p1MpdBYhcNv3.jpg"></picture><br><picture><source srcset="https://cdn.jellow.site/Fr66Nnql4K494KOwYmzBEIqQFtpZv3.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/Fr66Nnql4K494KOwYmzBEIqQFtpZv3.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Fr66Nnql4K494KOwYmzBEIqQFtpZv3.jpg"></picture>]]></description>
+            <pubDate>Tue, 03 May 2022 12:45:02 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/627123ce18b7eb097668934a</guid>
+            <link>https://m.okjike.com/originalPosts/627123ce18b7eb097668934a</link>
             
             
             
@@ -121,43 +153,11 @@
         </item>
         
         <item>
-            <title><![CDATA[写伪代码好快乐！vscode好棒！死宅感到好幸福！]]></title>
-            <description><![CDATA[<br>写伪代码好快乐！vscode好棒！死宅感到好幸福！<br><picture><source srcset="https://cdn.jellow.site/FtUlsPCrAcNjIMiSz-B4sHX4FTMdv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FtUlsPCrAcNjIMiSz-B4sHX4FTMdv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FtUlsPCrAcNjIMiSz-B4sHX4FTMdv3.png"></picture>]]></description>
-            <pubDate>Sun, 01 May 2022 13:44:08 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/626e8ea81148f30b0929c199</guid>
-            <link>https://m.okjike.com/originalPosts/626e8ea81148f30b0929c199</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Github Copilot经常会提醒我一些我没完成的case，特别好。]]></title>
             <description><![CDATA[<br>Github Copilot经常会提醒我一些我没完成的case，特别好。<br><picture><source srcset="https://cdn.jellow.site/FtLq0EFNESbXYpVLrssi-pzCzbgev3.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FtLq0EFNESbXYpVLrssi-pzCzbgev3.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FtLq0EFNESbXYpVLrssi-pzCzbgev3.jpg"></picture>]]></description>
             <pubDate>Sat, 30 Apr 2022 12:43:30 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/626d2ef233f5cae7ce028aa0</guid>
             <link>https://m.okjike.com/originalPosts/626d2ef233f5cae7ce028aa0</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[BIlibili 阿婆主「图灵的猫」，开发了一个名为「启灵 1.0」的科幻小说 AI 辅助创作平台，我试了一下，还可以哦！ http://smart.pfish.xyz/]]></title>
-            <description><![CDATA[<br>BIlibili 阿婆主「图灵的猫」，开发了一个名为「启灵 1.0」的科幻小说 AI 辅助创作平台，我试了一下，还可以哦！<br>http://smart.pfish.xyz/<br><picture><source srcset="https://cdn.jellow.site/Fk_LhTnJq-okNgopcz0u2_nxHiCUv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/Fk_LhTnJq-okNgopcz0u2_nxHiCUv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Fk_LhTnJq-okNgopcz0u2_nxHiCUv3.png"></picture>]]></description>
-            <pubDate>Fri, 29 Apr 2022 07:42:37 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/626b96ed4bac8508046b9b8f</guid>
-            <link>https://m.okjike.com/originalPosts/626b96ed4bac8508046b9b8f</link>
             
             
             
