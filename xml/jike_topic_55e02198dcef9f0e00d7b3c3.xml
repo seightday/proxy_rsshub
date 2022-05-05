@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 05 May 2022 12:40:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2022 16:29:23 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[🤔专利申请有眉目了 ！]]></title>
+            <description><![CDATA[<br>🤔专利申请有眉目了 ！<br><picture><source srcset="https://cdn.jellow.site/FqJnAGJo1OMra5W_xFc11Gu94QOiv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FqJnAGJo1OMra5W_xFc11Gu94QOiv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FqJnAGJo1OMra5W_xFc11Gu94QOiv3.png"></picture>]]></description>
+            <pubDate>Thu, 05 May 2022 07:11:00 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62737884fd798e904128195a</guid>
+            <link>https://m.okjike.com/originalPosts/62737884fd798e904128195a</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[上段时间和一个开发者吃饭，对方说自己很喜欢编程写代码。 我耿直问，那你知道 Jeff Dean 吗？-不知道。 我继续问，那你用 TensorFlow 吗？-听过没用过。 就很离...]]></title>
@@ -94,22 +110,6 @@
             <pubDate>Wed, 04 May 2022 14:31:06 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62728e2a2443398ce197ab39</guid>
             <link>https://m.okjike.com/originalPosts/62728e2a2443398ce197ab39</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[✍️缩短命令、调整按键、自动补全，这些代码值得你放进 PowerShell 配置文件 如果你在 PowerShell 上频繁运行外部命令，例如用 adb 调试 Android、使用 ffmpeg ...]]></title>
-            <description><![CDATA[<br>✍️缩短命令、调整按键、自动补全，这些代码值得你放进 PowerShell 配置文件<br><br>如果你在 PowerShell 上频繁运行外部命令，例如用 adb 调试 Android、使用 ffmpeg 批量处理音视频，那么难免会有「有什么办法能让这么长的命令短一点」的疑问；如果你常常用 PowerShell 和系统交互，例如批量处理文件和文本，可能总是不太习惯默认的 Tab 功能和按键映射；而如果你正在用 PowerShell 开发，需要使用 git、npm、dotnet 等命令行工具，或者要用 winget、choco 安装软件，那么一定会感叹「PowerShell 竟然默认不支持这些命令的自动补全」。<br><br>一劳永逸的解决方案是修改 PowerShell 的配置文件。<br><br>一般来说，PowerShell 中用户创建的变量、函数等只能在当前的窗口会话生效。但配置文件非常特殊，PowerShell 每次启动前都会加载该文件。如果将某些命令写入这个文件，修改就能全局生效。新建或修改配置文件最简单的方法是输入 notepad $profile，在弹出的编辑窗口添加命令即可。<br><br>下文我将用一系列例子向大家展示我是如何定制一个顺手的 PowerShell 的，希望可以帮助到你。<br><br>🔗阅读更多：https://sspai.com/post/73019?utm_source=jike&amp;utm_medium=social<br><picture><source srcset="https://cdn.jellow.site/FsCqpZdO3t5RvgstyEtSTpAg2Jxfv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FsCqpZdO3t5RvgstyEtSTpAg2Jxfv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FsCqpZdO3t5RvgstyEtSTpAg2Jxfv3.png"></picture><br><picture><source srcset="https://cdn.jellow.site/Fo28cGrLMbVMTQ9RlLSLeEwghCb5v3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/Fo28cGrLMbVMTQ9RlLSLeEwghCb5v3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Fo28cGrLMbVMTQ9RlLSLeEwghCb5v3.png"></picture>]]></description>
-            <pubDate>Wed, 04 May 2022 04:29:12 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62720118977cda8730400979</guid>
-            <link>https://m.okjike.com/originalPosts/62720118977cda8730400979</link>
             
             
             
