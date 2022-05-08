@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sat, 07 May 2022 20:21:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2022 01:45:58 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[写了个程序——JDDNS，功能： 域名动态解析到自己的动态公网ip 目的： ①可以用域名访问自己电脑上的文件 ②非80端口甚至可以搭个个人网站 注意事项： ①目前自...]]></title>
+            <description><![CDATA[写了个程序——JDDNS，功能：<br>域名动态解析到自己的动态公网ip<br><br>目的：<br>①可以用域名访问自己电脑上的文件<br>②非80端口甚至可以搭个个人网站<br><br>注意事项：<br>①目前自用，也开放给程序员用<br>②版本比较低，没有为特别情况写case<br>③版本比较低，还没完成挂在后台tick的功能<br>④只支持阿里云<br>⑤没文档<br>以后有空慢慢更。<br><br>仓库：<br>https://github.com/chenwansal/jddns<br><img src="https://cdn.jellow.site/FtLPzXuJ-Kay1hd7R2-KqG9bdFHDv3.png" referrerpolicy="no-referrer"><br><img src="https://cdn.jellow.site/FslYl-SJcrHpW_Pp4vuR-GZ6vQXsv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sat, 07 May 2022 16:32:57 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62769f396b00383e70f31845</guid>
+            <link>https://m.okjike.com/originalPosts/62769f396b00383e70f31845</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[看到学校墙上 Linus 的介绍下面挂着一句话，“电脑就像空调一样，当你开窗的时候就没有用了。” 我百思不得其解，有什么联系，于是发到了群里问朋友，朋友猜测可...]]></title>
@@ -78,22 +94,6 @@
             <pubDate>Sat, 07 May 2022 03:07:37 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6275e2792b65e89b07beba72</guid>
             <link>https://m.okjike.com/originalPosts/6275e2792b65e89b07beba72</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[请问各位程序猿大佬，python用unquote解析url地址，为啥解出来是乱码😢]]></title>
-            <description><![CDATA[请问各位程序猿大佬，python用unquote解析url地址，为啥解出来是乱码😢<br><img src="https://cdn.jellow.site/Fg7zWtrwH9a8xM4pY_CF5y1SuGS6v3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 06 May 2022 13:18:10 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/627520122b65e89b0778fb19</guid>
-            <link>https://m.okjike.com/originalPosts/627520122b65e89b0778fb19</link>
             
             
             
