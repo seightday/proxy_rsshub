@@ -21,15 +21,15 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sun, 08 May 2022 01:45:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2022 04:27:06 GMT</lastBuildDate>
         <ttl>1</ttl>
         
         <item>
-            <title><![CDATA[写了个程序——JDDNS，功能： 域名动态解析到自己的动态公网ip 目的： ①可以用域名访问自己电脑上的文件 ②非80端口甚至可以搭个个人网站 注意事项： ①目前自...]]></title>
-            <description><![CDATA[写了个程序——JDDNS，功能：<br>域名动态解析到自己的动态公网ip<br><br>目的：<br>①可以用域名访问自己电脑上的文件<br>②非80端口甚至可以搭个个人网站<br><br>注意事项：<br>①目前自用，也开放给程序员用<br>②版本比较低，没有为特别情况写case<br>③版本比较低，还没完成挂在后台tick的功能<br>④只支持阿里云<br>⑤没文档<br>以后有空慢慢更。<br><br>仓库：<br>https://github.com/chenwansal/jddns<br><img src="https://cdn.jellow.site/FtLPzXuJ-Kay1hd7R2-KqG9bdFHDv3.png" referrerpolicy="no-referrer"><br><img src="https://cdn.jellow.site/FslYl-SJcrHpW_Pp4vuR-GZ6vQXsv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 07 May 2022 16:32:57 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62769f396b00383e70f31845</guid>
-            <link>https://m.okjike.com/originalPosts/62769f396b00383e70f31845</link>
+            <title><![CDATA[为什么c/cpp/go声明数组的时候必须使用常量或者字面量来初始化数组长度？ 而java，py，js可以使用变量，或者根本不需要指定大小 我的理解是这样的，学习操作系统...]]></title>
+            <description><![CDATA[为什么c/cpp/go声明数组的时候必须使用常量或者字面量来初始化数组长度？<br>而java，py，js可以使用变量，或者根本不需要指定大小<br><br>我的理解是这样的，学习操作系统的时候，有一个程序装入的过程，就是把程序加载到内存中成为一个进程的过程。<br>os需要为这个进程分配内存空间，指令和数据都需要用到这个内存空间。<br>像c/go这样的直接编译为可执行文件的语言，是直接面向OS的，所以程序中数据的所占的空间应该是编译时确定的，这样才可以在程序装入是分配内存。声明数组的时候自然应该使用常量/字面量。<br><br>而java，js，py都隔了一层，直接面向OS的是jvm/解释器，OS装入jvm的时候应该是为jvm这个进程分配内存，而我们的自己写的Java程序，具体需要多少内存可以不确定，可以运行时再让jvm分配给我们。所以可以使用变量声明数组的大小。如果jvm从os那里申请来的内存被我们用完了，比方说栈溢出、堆溢出，就会出现outmermoryerror。<br><br>那为什么OS不可以和jvm一样动态的为一个进程分配内存，这也是我好奇的点，也许并不是不可以，只是我没接触到。不过猜想是进程和线程的区别的问题。<br>另外就是jvm申请内存的时候，如果我们写的程序就只有一点点内存消耗 jvm又会从OS申请多少，会不会导致java程序特别耗内存，因为很多内存都没有被实际地使用。jvm调优还没学哭了。]]></description>
+            <pubDate>Sat, 07 May 2022 09:53:28 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62764198161d308d3e09ca38</guid>
+            <link>https://m.okjike.com/originalPosts/62764198161d308d3e09ca38</link>
             
             
             
