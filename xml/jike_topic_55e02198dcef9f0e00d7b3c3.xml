@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 10 May 2022 04:26:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 08:26:10 GMT</lastBuildDate>
         <ttl>1</ttl>
         
         <item>
@@ -30,6 +30,22 @@
             <pubDate>Mon, 09 May 2022 01:53:52 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62787430941de411af987bc7</guid>
             <link>https://m.okjike.com/originalPosts/62787430941de411af987bc7</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[作为主语言是go程序员 买了好多go语言相关的书。总的来说推荐左边这两本。 Go语言学习笔记是上上次找工作的时候看的了，写的简单易懂，对于一些该有的特性也都介...]]></title>
+            <description><![CDATA[作为主语言是go程序员 买了好多go语言相关的书。总的来说推荐左边这两本。<br><br>Go语言学习笔记是上上次找工作的时候看的了，写的简单易懂，对于一些该有的特性也都介绍的差不多，但就是基于的版本太老了，但入门看这本还是很推荐的。<br><br>灯塔大佬的Go语言设计与实现已经不用多说了，人家的博客写的真是牛逼，读起来有深度，但是也能理解。技术人的榜样，（听说还是94年的，现在在虾皮搞k8s）我今天晚上就是重新看这本书，把我从面试宝典的恶心情绪里救出来了，再次感谢。<br><br>最后这本面试笔试宝典是我今天才到的货，我先看了目录，本来是准备这次找工作复习来的，因为从目录上看好像面试也就问这些问题了，晚上看了前三章，怎么说呢，不太推荐，真的读的累，动不动两三页源码+注释，要么就汇编分析，一个切片扩容超过1024是不是1.25倍扩容给讲了三四页...看得我头晕...人家灯塔一两句话就说明白了。不能说内容有问题，只是读起来太费劲了。<br><br>还有柴大的Go语言高级编程，那本就不太适合面试看了，基础很少，那本是给拓宽视野的。<br><br>ps：前两天看黄健宏大佬写的redis的设计与实现，那阅读起来叫一个顺畅，强烈推荐！<br><img src="https://cdn.jellow.site/FgnFwiLOK_JMw2CDm2xqF8PqnoH1v3.heic" referrerpolicy="no-referrer"><br><img src="https://cdn.jellow.site/FiucBT9jEy8eR1UO1FErwU-aT3pNv3.heic" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sun, 08 May 2022 18:35:04 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62780d58941de411af7b9691</guid>
+            <link>https://m.okjike.com/originalPosts/62780d58941de411af7b9691</link>
             
             
             
@@ -78,22 +94,6 @@
             <pubDate>Sat, 07 May 2022 14:57:59 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/627688f76b00383e70e73622</guid>
             <link>https://m.okjike.com/originalPosts/627688f76b00383e70e73622</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[为什么c/cpp/go声明数组的时候必须使用常量或者字面量来初始化数组长度？ 而java，py，js可以使用变量，或者根本不需要指定大小 我的理解是这样的，学习操作系统...]]></title>
-            <description><![CDATA[为什么c/cpp/go声明数组的时候必须使用常量或者字面量来初始化数组长度？<br>而java，py，js可以使用变量，或者根本不需要指定大小<br><br>我的理解是这样的，学习操作系统的时候，有一个程序装入的过程，就是把程序加载到内存中成为一个进程的过程。<br>os需要为这个进程分配内存空间，指令和数据都需要用到这个内存空间。<br>像c/go这样的直接编译为可执行文件的语言，是直接面向OS的，所以程序中数据的所占的空间应该是编译时确定的，这样才可以在程序装入是分配内存。声明数组的时候自然应该使用常量/字面量。<br><br>而java，js，py都隔了一层，直接面向OS的是jvm/解释器，OS装入jvm的时候应该是为jvm这个进程分配内存，而我们的自己写的Java程序，具体需要多少内存可以不确定，可以运行时再让jvm分配给我们。所以可以使用变量声明数组的大小。如果jvm从os那里申请来的内存被我们用完了，比方说栈溢出、堆溢出，就会出现outmermoryerror。<br><br>那为什么OS不可以和jvm一样动态的为一个进程分配内存，这也是我好奇的点，也许并不是不可以，只是我没接触到。不过猜想是进程和线程的区别的问题。<br>另外就是jvm申请内存的时候，如果我们写的程序就只有一点点内存消耗 jvm又会从OS申请多少，会不会导致java程序特别耗内存，因为很多内存都没有被实际地使用。jvm调优还没学哭了。]]></description>
-            <pubDate>Sat, 07 May 2022 09:53:28 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62764198161d308d3e09ca38</guid>
-            <link>https://m.okjike.com/originalPosts/62764198161d308d3e09ca38</link>
             
             
             
