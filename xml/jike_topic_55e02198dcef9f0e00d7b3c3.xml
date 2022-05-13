@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss  xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
 
+
 >
     <channel>
         <title><![CDATA[JitHub - 即刻圈子]]></title>
         <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
-        <atom:link href="https://vercel.getrss2021.xyz/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
         <description><![CDATA[开发者们分享，问答，也可以交友的地方。欢迎所有工程师！ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -20,14 +21,28 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Fri, 13 May 2022 04:59:04 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Fri, 13 May 2022 08:26:08 GMT</lastBuildDate>
+        <ttl>1</ttl>
         
         <item>
-            <title><![CDATA[关于“如何在群里优雅的提问和解答”，这本书给出了最干练的建议和分析。你绝对想不到，这段内容是出自一本技术书籍。
-
-好书就是，本以为它只讲某个专题，结果讲...]]></title>
-            <description><![CDATA[<br>关于“如何在群里优雅的提问和解答”，这本书给出了最干练的建议和分析。你绝对想不到，这段内容是出自一本技术书籍。<br><br>好书就是，本以为它只讲某个专题，结果讲了很多意想不到的话题。待我看完后，可能要预定它为我今年读过的五星好书。<br><picture><source srcset="https://cdn.jellow.site/Fi-l7XuFxPLOqxZRdhZFQWrwBPf5v3.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/Fi-l7XuFxPLOqxZRdhZFQWrwBPf5v3.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Fi-l7XuFxPLOqxZRdhZFQWrwBPf5v3.jpg"></picture><br><picture><source srcset="https://cdn.jellow.site/FguB4JE5D4gPbxFal-ULOrPK5Y8Iv3.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FguB4JE5D4gPbxFal-ULOrPK5Y8Iv3.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FguB4JE5D4gPbxFal-ULOrPK5Y8Iv3.jpg"></picture>]]></description>
+            <title><![CDATA[# 分享一些关于独立开发的干货 1. 我主要做iOS App的开发，以下的内容都是基于我过往的经验。并不全面，甚至不一定对，欢迎👏补充和更正。 2. 目前我的App都是...]]></title>
+            <description><![CDATA[# 分享一些关于独立开发的干货<br><br>1. 我主要做iOS App的开发，以下的内容都是基于我过往的经验。并不全面，甚至不一定对，欢迎👏补充和更正。<br>2. 目前我的App都是采用Swift开发的，目前Swift已经相对比较稳定了，如果从头做一个独立App，更推荐Swift，简单易学也更易用。<br>3. 最新的App我甚至已经用上了SwiftUI，有一说一，写UI是真的快，但是Bug和坑也比较多，如果是小型项目，demo可以用SwiftUI，但考虑到后期维护的话，Snapkit是更合适的选择。<br>4. iOS的内购开发非常坑！非常坑！非常坑！建议使用SwiftyStoreKit，会轻松简单很多。<br>5. iOS审核比较严格，被拒是很常见的事情，放平心态，审核说你哪不对，你改到他满意就好。实在无法达成一致，就去找苹果申诉，但是过程很漫长，必要时可以让他们电话联系你。你可以要求苹果那边找会说普通话的人与你沟通。<br>6. 小型项目没必要自己搭一个完整的后端，可以使用Leancloud这样的Serverless服务商。<br>7. 苹果给你打钱如果打到国内的银行卡里，会有5万美元的外汇限制（超过部分需要申请），而且每次需要去银行线下填单子（不知道现在改进了没？），汇率也不友好。可以选择Pingpong这样的跨境电商收款服务。<br>8. 把经常用到的代码规整一下，做一个自己的Cocopods私有库，必要时直接引入会方便很多。<br>9. 统计工具我用过最好是fabric，可惜现在🈚️了。试用过友盟，AppCenter和Firebase，Firebase和AppCenter国内的数据会缺失很多，所以我现在是友盟+Firebase。<br>10. PromiseKit很好用，代码更优雅，写的时候也更舒服。<br>11. 其他的内容我会在之后持续更新，欢迎关注。]]></description>
+            <pubDate>Fri, 13 May 2022 01:28:25 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/627db439e53a769622842f96</guid>
+            <link>https://m.okjike.com/originalPosts/627db439e53a769622842f96</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[关于“如何在群里优雅的提问和解答”，《Google软件工程》这本书给出了最干练的建议和分析。你绝对想不到，这段内容是出自一本技术书籍。 好书就是，本以为它只...]]></title>
+            <description><![CDATA[关于“如何在群里优雅的提问和解答”，《Google软件工程》这本书给出了最干练的建议和分析。你绝对想不到，这段内容是出自一本技术书籍。<br><br>好书就是，本以为它只讲某个专题，结果讲了很多意想不到的话题。待我看完后，可能要预定它为我今年读过的五星好书。<br><img src="https://cdn.jellow.site/Fi-l7XuFxPLOqxZRdhZFQWrwBPf5v3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdn.jellow.site/FguB4JE5D4gPbxFal-ULOrPK5Y8Iv3.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Thu, 12 May 2022 09:52:15 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/627cd8cfd95aa52c6888f63a</guid>
             <link>https://m.okjike.com/originalPosts/627cd8cfd95aa52c6888f63a</link>
@@ -43,7 +58,7 @@
         
         <item>
             <title><![CDATA[前端侧重于人机交互和用户体验，后端侧重于业务逻辑和大规模数据处理。理论上，面向用户的产品里，所有问题（包括产品、设计、后端、甚至看不见的问题）的表现形...]]></title>
-            <description><![CDATA[<br>前端侧重于人机交互和用户体验，后端侧重于业务逻辑和大规模数据处理。理论上，面向用户的产品里，所有问题（包括产品、设计、后端、甚至看不见的问题）的表现形式，都会暴露在前端，而只有部分问题（数据问题、计算问题、安全问题等）暴露在后端，这就意味着前端起到了至关重要的承载和连接作用。<br><br>前端技术的更新日新月异；前端框架的技术选型百家争鸣；视觉审美的潮流不断更替；可视化效果酷炫无比；用户的运营体系逐渐精细化；适老化、无障碍化、青少年人群的诉求浮出水面；智能设备的升级和适配无穷无尽。所有的这一切，对前端领域和前端同学就一个要求：要折腾，爱折腾，反复折腾。]]></description>
+            <description><![CDATA[前端侧重于人机交互和用户体验，后端侧重于业务逻辑和大规模数据处理。理论上，面向用户的产品里，所有问题（包括产品、设计、后端、甚至看不见的问题）的表现形式，都会暴露在前端，而只有部分问题（数据问题、计算问题、安全问题等）暴露在后端，这就意味着前端起到了至关重要的承载和连接作用。<br><br>前端技术的更新日新月异；前端框架的技术选型百家争鸣；视觉审美的潮流不断更替；可视化效果酷炫无比；用户的运营体系逐渐精细化；适老化、无障碍化、青少年人群的诉求浮出水面；智能设备的升级和适配无穷无尽。所有的这一切，对前端领域和前端同学就一个要求：要折腾，爱折腾，反复折腾。]]></description>
             <pubDate>Thu, 12 May 2022 05:38:57 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/627c9d716c5e45686da08302</guid>
             <link>https://m.okjike.com/originalPosts/627c9d716c5e45686da08302</link>
@@ -58,10 +73,8 @@
         </item>
         
         <item>
-            <title><![CDATA[国内的开源精神是真的不行。
-
-最近在调研一个算法领域，看到两个国内作者的的repo，一个是bug很多（因为他们发了paper我怀疑是故意把代码整成这样的），一个是缺...]]></title>
-            <description><![CDATA[<br>国内的开源精神是真的不行。<br><br>最近在调研一个算法领域，看到两个国内作者的的repo，一个是bug很多（因为他们发了paper我怀疑是故意把代码整成这样的），一个是缺文件，我发了issue询问（因为无人发现所以我是第一个提issue的），作者直接隐藏了repo……<br><br>又看到一个国外作者的repo，readme写得和issue回复得那叫一个详细，生怕别人跑不出来结果。<br><br>高下立判。]]></description>
+            <title><![CDATA[国内的开源精神是真的不行。 最近在调研一个算法领域，看到两个国内作者的的repo，一个是bug很多（因为他们发了paper我怀疑是故意把代码整成这样的），一个是缺...]]></title>
+            <description><![CDATA[国内的开源精神是真的不行。<br><br>最近在调研一个算法领域，看到两个国内作者的的repo，一个是bug很多（因为他们发了paper我怀疑是故意把代码整成这样的），一个是缺文件，我发了issue询问（因为无人发现所以我是第一个提issue的），作者直接隐藏了repo……<br><br>又看到一个国外作者的repo，readme写得和issue回复得那叫一个详细，生怕别人跑不出来结果。<br><br>高下立判。]]></description>
             <pubDate>Thu, 12 May 2022 03:49:37 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/627c83d1f4528f2d714384ca</guid>
             <link>https://m.okjike.com/originalPosts/627c83d1f4528f2d714384ca</link>
@@ -77,7 +90,7 @@
         
         <item>
             <title><![CDATA[学了3天Typescript写了一个同步微信读书划线和笔记的Obsidian插件，发现Typescript真的对有静态语言经验的开发很友好，本人是后端程序员一枚，上海疫情被封在家...]]></title>
-            <description><![CDATA[<br>学了3天Typescript写了一个同步微信读书划线和笔记的Obsidian插件，发现Typescript真的对有静态语言经验的开发很友好，本人是后端程序员一枚，上海疫情被封在家挺无聊的，接触 Typescript 还是挺偶然的，平时笔记软件 Obsidian ，在逛 github 的时候看到 Obsidian 有 kindle 相关的插件来同步划线，然鹅我平时都用微信读书比较多，所以就在思考为啥不能自己做一个微信读书插件，于是它就诞生了，<br><br>在用 Obsidian 的同学可以先试试，目前插件还在官方审核，可以先从 <br>进入到github页面手动安装，https://github.com/zhaohongxuan/obsidian-weread-plugin  欢迎star以及 issue~<br><picture><source srcset="https://cdn.jellow.site/Fr_P3wdmS0ZWYj9BwnHwk5jH1ANmv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/Fr_P3wdmS0ZWYj9BwnHwk5jH1ANmv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Fr_P3wdmS0ZWYj9BwnHwk5jH1ANmv3.png"></picture>]]></description>
+            <description><![CDATA[学了3天Typescript写了一个同步微信读书划线和笔记的Obsidian插件，发现Typescript真的对有静态语言经验的开发很友好，本人是后端程序员一枚，上海疫情被封在家挺无聊的，接触 Typescript 还是挺偶然的，平时笔记软件 Obsidian ，在逛 github 的时候看到 Obsidian 有 kindle 相关的插件来同步划线，然鹅我平时都用微信读书比较多，所以就在思考为啥不能自己做一个微信读书插件，于是它就诞生了，<br><br>在用 Obsidian 的同学可以先试试，目前插件还在官方审核，可以先从 <br>进入到github页面手动安装，https://github.com/zhaohongxuan/obsidian-weread-plugin  欢迎star以及 issue~<br><img src="https://cdn.jellow.site/Fr_P3wdmS0ZWYj9BwnHwk5jH1ANmv3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Thu, 12 May 2022 02:51:57 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/627c764d0b40245af6833e73</guid>
             <link>https://m.okjike.com/originalPosts/627c764d0b40245af6833e73</link>
@@ -92,10 +105,8 @@
         </item>
         
         <item>
-            <title><![CDATA[组内招开发，有兴趣可以联系我。两个月前发了一次，至今没招到人。。。。。
-
-铃盛RingCentral，著名955外企(在那个白名单上)，WFH居家办公，只要人在国内就行。...]]></title>
-            <description><![CDATA[<br>组内招开发，有兴趣可以联系我。两个月前发了一次，至今没招到人。。。。。<br><br>铃盛RingCentral，著名955外企(在那个白名单上)，WFH居家办公，只要人在国内就行。公司在厦门，所以薪资的话没北上广高，但也差不多，对二三线城市尤其合适。<br><br>岗位的需求主要为3个，<br>1，流利的英语听说读写，对，包括说<br>2，有javascript的全栈的经验<br><br>具体JD见评论]]></description>
+            <title><![CDATA[组内招开发，有兴趣可以联系我。两个月前发了一次，至今没招到人。。。。。 铃盛RingCentral，著名955外企(在那个白名单上)，WFH居家办公，只要人在国内就行。公...]]></title>
+            <description><![CDATA[组内招开发，有兴趣可以联系我。两个月前发了一次，至今没招到人。。。。。<br><br>铃盛RingCentral，著名955外企(在那个白名单上)，WFH居家办公，只要人在国内就行。公司在厦门，所以薪资的话没北上广高，但也差不多，对二三线城市尤其合适。<br><br>岗位的需求主要为3个，<br>1，流利的英语听说读写，对，包括说<br>2，有javascript的全栈的经验<br><br>具体JD见评论]]></description>
             <pubDate>Wed, 11 May 2022 07:03:59 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/627b5fdf3f458e83fe8314db</guid>
             <link>https://m.okjike.com/originalPosts/627b5fdf3f458e83fe8314db</link>
@@ -110,37 +121,8 @@
         </item>
         
         <item>
-            <title><![CDATA[自己有想法开发多款软件，但是目前个人技术栈只支持完成网页功能场景的实现.
-
-个人觉得网页版程序在日常使用中远远不如移动端普遍，有计划学一下移动端开发。
-
-...]]></title>
-            <description><![CDATA[<br>自己有想法开发多款软件，但是目前个人技术栈只支持完成网页功能场景的实现.<br><br>个人觉得网页版程序在日常使用中远远不如移动端普遍，有计划学一下移动端开发。<br><br>包括但不限于flutter，Android，swift…]]></description>
-            <pubDate>Tue, 10 May 2022 09:54:45 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/627a3665bac7bfdcb2ed61fe</guid>
-            <link>https://m.okjike.com/originalPosts/627a3665bac7bfdcb2ed61fe</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[用pycharm作为环境运行 需要添加库
-lxml
-openpyxl
-selenium
-pillow
-jsonthch
-resquest
-win32的第一个和第二个库
-
-但是图片上有几个库打死都安装不上，有老板能帮...]]></title>
-            <description><![CDATA[<br>用pycharm作为环境运行 需要添加库<br>lxml<br>openpyxl<br>selenium<br>pillow<br>jsonthch<br>resquest<br>win32的第一个和第二个库<br><br>但是图片上有几个库打死都安装不上，有老板能帮我解决吗？解决好付费<br><picture><source srcset="https://cdn.jellow.site/Fs7Pd4fpvjqwU0T-Gg5-DrY2B-56v3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/Fs7Pd4fpvjqwU0T-Gg5-DrY2B-56v3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Fs7Pd4fpvjqwU0T-Gg5-DrY2B-56v3.png"></picture>]]></description>
+            <title><![CDATA[用pycharm作为环境运行 需要添加库 lxml openpyxl selenium pillow jsonthch resquest win32的第一个和第二个库 但是图片上有几个库打死都安装不上，有老板能帮...]]></title>
+            <description><![CDATA[用pycharm作为环境运行 需要添加库<br>lxml<br>openpyxl<br>selenium<br>pillow<br>jsonthch<br>resquest<br>win32的第一个和第二个库<br><br>但是图片上有几个库打死都安装不上，有老板能帮我解决吗？解决好付费<br><img src="https://cdn.jellow.site/Fs7Pd4fpvjqwU0T-Gg5-DrY2B-56v3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Tue, 10 May 2022 07:02:48 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/627a0e1855ec2d6b70347140</guid>
             <link>https://m.okjike.com/originalPosts/627a0e1855ec2d6b70347140</link>
@@ -155,10 +137,8 @@ win32的第一个和第二个库
         </item>
         
         <item>
-            <title><![CDATA[作为主语言是go程序员 买了好多go语言相关的书。总的来说推荐左边这两本。
-
-Go语言学习笔记是上上次找工作的时候看的了，写的简单易懂，对于一些该有的特性也都...]]></title>
-            <description><![CDATA[<br>作为主语言是go程序员 买了好多go语言相关的书。总的来说推荐左边这两本。<br><br>Go语言学习笔记是上上次找工作的时候看的了，写的简单易懂，对于一些该有的特性也都介绍的差不多，但就是基于的版本太老了，但入门看这本还是很推荐的。<br><br>灯塔大佬的Go语言设计与实现已经不用多说了，人家的博客写的真是牛逼，读起来有深度，但是也能理解。技术人的榜样，（听说还是94年的，现在在虾皮搞k8s）我今天晚上就是重新看这本书，把我从面试宝典的恶心情绪里救出来了，再次感谢。<br><br>最后这本面试笔试宝典是我今天才到的货，我先看了目录，本来是准备这次找工作复习来的，因为从目录上看好像面试也就问这些问题了，晚上看了前三章，怎么说呢，不太推荐，真的读的累，动不动两三页源码+注释，要么就汇编分析，一个切片扩容超过1024是不是1.25倍扩容给讲了三四页...看得我头晕...人家灯塔一两句话就说明白了。不能说内容有问题，只是读起来太费劲了。<br><br>还有柴大的Go语言高级编程，那本就不太适合面试看了，基础很少，那本是给拓宽视野的。<br><br>ps：前两天看黄健宏大佬写的redis的设计与实现，那阅读起来叫一个顺畅，强烈推荐！<br><picture><source srcset="https://cdn.jellow.site/FgnFwiLOK_JMw2CDm2xqF8PqnoH1v3.heic?imageMogr2/auto-orient/heic-exif/1/format/jpeg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FgnFwiLOK_JMw2CDm2xqF8PqnoH1v3.heic" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FgnFwiLOK_JMw2CDm2xqF8PqnoH1v3.heic"></picture><br><picture><source srcset="https://cdn.jellow.site/FiucBT9jEy8eR1UO1FErwU-aT3pNv3.heic?imageMogr2/auto-orient/heic-exif/1/format/jpeg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FiucBT9jEy8eR1UO1FErwU-aT3pNv3.heic" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FiucBT9jEy8eR1UO1FErwU-aT3pNv3.heic"></picture>]]></description>
+            <title><![CDATA[作为主语言是go程序员 买了好多go语言相关的书。总的来说推荐左边这两本。 Go语言学习笔记是上上次找工作的时候看的了，写的简单易懂，对于一些该有的特性也都介...]]></title>
+            <description><![CDATA[作为主语言是go程序员 买了好多go语言相关的书。总的来说推荐左边这两本。<br><br>Go语言学习笔记是上上次找工作的时候看的了，写的简单易懂，对于一些该有的特性也都介绍的差不多，但就是基于的版本太老了，但入门看这本还是很推荐的。<br><br>灯塔大佬的Go语言设计与实现已经不用多说了，人家的博客写的真是牛逼，读起来有深度，但是也能理解。技术人的榜样，（听说还是94年的，现在在虾皮搞k8s）我今天晚上就是重新看这本书，把我从面试宝典的恶心情绪里救出来了，再次感谢。<br><br>最后这本面试笔试宝典是我今天才到的货，我先看了目录，本来是准备这次找工作复习来的，因为从目录上看好像面试也就问这些问题了，晚上看了前三章，怎么说呢，不太推荐，真的读的累，动不动两三页源码+注释，要么就汇编分析，一个切片扩容超过1024是不是1.25倍扩容给讲了三四页...看得我头晕...人家灯塔一两句话就说明白了。不能说内容有问题，只是读起来太费劲了。<br><br>还有柴大的Go语言高级编程，那本就不太适合面试看了，基础很少，那本是给拓宽视野的。<br><br>ps：前两天看黄健宏大佬写的redis的设计与实现，那阅读起来叫一个顺畅，强烈推荐！<br><img src="https://cdn.jellow.site/FgnFwiLOK_JMw2CDm2xqF8PqnoH1v3.heic" referrerpolicy="no-referrer"><br><img src="https://cdn.jellow.site/FiucBT9jEy8eR1UO1FErwU-aT3pNv3.heic" referrerpolicy="no-referrer">]]></description>
             <pubDate>Sun, 08 May 2022 18:35:04 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62780d58941de411af7b9691</guid>
             <link>https://m.okjike.com/originalPosts/62780d58941de411af7b9691</link>
@@ -173,12 +153,8 @@ Go语言学习笔记是上上次找工作的时候看的了，写的简单易懂
         </item>
         
         <item>
-            <title><![CDATA[- 技术分享之网络编程的那些事儿：https://xiaorui.cc/archives/7271
-
-- 几十场技术分享的PPT下载：https://github.com/rfyiamcool/share_ppt
-
-这位技术博主@rfy...]]></title>
-            <description><![CDATA[<br>- 技术分享之网络编程的那些事儿：https://xiaorui.cc/archives/7271<br><br>- 几十场技术分享的PPT下载：https://github.com/rfyiamcool/share_ppt<br><br>这位技术博主@rfyiamcool的PPT做得很美观，流程图画得一级棒。<br><br>更惊叹的是，他在公司做了几十场技术分享，这些PPT全都免费公开了，兼具实战性、趣味性、观赏性。这么棒的技术PPT素材，说是前无古人，也不为过吧？<br><picture><source srcset="https://cdn.jellow.site/FtP-yz3Saidu879HmZZnVqd3uO2Sv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FtP-yz3Saidu879HmZZnVqd3uO2Sv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FtP-yz3Saidu879HmZZnVqd3uO2Sv3.png"></picture><br><picture><source srcset="https://cdn.jellow.site/Fg_cKwJlcV5QhOUu-yDZ5xT_Cxuwv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/Fg_cKwJlcV5QhOUu-yDZ5xT_Cxuwv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Fg_cKwJlcV5QhOUu-yDZ5xT_Cxuwv3.png"></picture><br><picture><source srcset="https://cdn.jellow.site/FvFYm0x1PWeEMY707r8bOb0wKoeVv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FvFYm0x1PWeEMY707r8bOb0wKoeVv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FvFYm0x1PWeEMY707r8bOb0wKoeVv3.png"></picture><br><picture><source srcset="https://cdn.jellow.site/FruboR0Hl8fdzv1ejE-qfdCS3wwjv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FruboR0Hl8fdzv1ejE-qfdCS3wwjv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FruboR0Hl8fdzv1ejE-qfdCS3wwjv3.png"></picture>]]></description>
+            <title><![CDATA[- 技术分享之网络编程的那些事儿：https://xiaorui.cc/archives/7271 - 几十场技术分享的PPT下载：https://github.com/rfyiamcool/share_ppt 这位技术博主@rfyia...]]></title>
+            <description><![CDATA[- 技术分享之网络编程的那些事儿：https://xiaorui.cc/archives/7271<br><br>- 几十场技术分享的PPT下载：https://github.com/rfyiamcool/share_ppt<br><br>这位技术博主@rfyiamcool的PPT做得很美观，流程图画得一级棒。<br><br>更惊叹的是，他在公司做了几十场技术分享，这些PPT全都免费公开了，兼具实战性、趣味性、观赏性。这么棒的技术PPT素材，说是前无古人，也不为过吧？<br><img src="https://cdn.jellow.site/FtP-yz3Saidu879HmZZnVqd3uO2Sv3.png" referrerpolicy="no-referrer"><br><img src="https://cdn.jellow.site/Fg_cKwJlcV5QhOUu-yDZ5xT_Cxuwv3.png" referrerpolicy="no-referrer"><br><img src="https://cdn.jellow.site/FvFYm0x1PWeEMY707r8bOb0wKoeVv3.png" referrerpolicy="no-referrer"><br><img src="https://cdn.jellow.site/FruboR0Hl8fdzv1ejE-qfdCS3wwjv3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Sat, 07 May 2022 06:40:26 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6276145a4657e34038fba675</guid>
             <link>https://m.okjike.com/originalPosts/6276145a4657e34038fba675</link>
@@ -193,10 +169,8 @@ Go语言学习笔记是上上次找工作的时候看的了，写的简单易懂
         </item>
         
         <item>
-            <title><![CDATA[GitHub项目精选：https://tommymerlin.gitee.io/%E6%B1%87%E6%80%BB/GitHub%E9%A1%B9%E7%9B%AE%E7%B2%BE%E9%80%89/
-
-这分类也太全面了，时不时能淘到一些好玩的...]]></title>
-            <description><![CDATA[<br>GitHub项目精选：https://tommymerlin.gitee.io/%E6%B1%87%E6%80%BB/GitHub%E9%A1%B9%E7%9B%AE%E7%B2%BE%E9%80%89/<br><br>这分类也太全面了，时不时能淘到一些好玩的小项目<br><picture><source srcset="https://cdn.jellow.site/Fou6jSEGPe4caBji_oolf3xFid6sv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/Fou6jSEGPe4caBji_oolf3xFid6sv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Fou6jSEGPe4caBji_oolf3xFid6sv3.png"></picture>]]></description>
+            <title><![CDATA[GitHub项目精选：https://tommymerlin.gitee.io/%E6%B1%87%E6%80%BB/GitHub%E9%A1%B9%E7%9B%AE%E7%B2%BE%E9%80%89/ 这分类也太全面了，时不时能淘到一些好玩的小...]]></title>
+            <description><![CDATA[GitHub项目精选：https://tommymerlin.gitee.io/%E6%B1%87%E6%80%BB/GitHub%E9%A1%B9%E7%9B%AE%E7%B2%BE%E9%80%89/<br><br>这分类也太全面了，时不时能淘到一些好玩的小项目<br><img src="https://cdn.jellow.site/Fou6jSEGPe4caBji_oolf3xFid6sv3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Sat, 07 May 2022 06:12:41 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62760dd984f25ff1268c62dc</guid>
             <link>https://m.okjike.com/originalPosts/62760dd984f25ff1268c62dc</link>
