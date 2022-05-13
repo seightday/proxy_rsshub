@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Fri, 13 May 2022 12:48:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 May 2022 16:34:06 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[软件开发中有一个重要的定律叫“海勒姆定律”：当你的 API 有足够多的用户时，你的承诺和约定已不重要；API 的所有行为（包括那些未囊括在公共说明中的一部分）...]]></title>
+            <description><![CDATA[软件开发中有一个重要的定律叫“海勒姆定律”：当你的 API 有足够多的用户时，你的承诺和约定已不重要；API 的所有行为（包括那些未囊括在公共说明中的一部分）最终都会被其他人所使用和依赖。<br><br>软件随着时间变化产生问题时，这个定律一直都是主导因素。<br><br>它在概念上类似于热力学中的「熵」：根据热力学第一定律，能量是守恒的，可以互相转化。热力学第二定律进一步指出，虽然能量可以转化，但是无法100%利用。在转化过程中，总是有一部分能量会被浪费掉。熵就是系统里的无效能量，是系统的混乱度。热力学第二定律的一个重要推论就是：熵永远在增加。<br><br>如果不施加外力影响，事物永远向着更混乱的状态发展。比如，房间如果没人打扫，只会越来越乱。熵只能减轻，永远无法根除。<br><br>尽管我们有最佳意识、最佳的工程师和可靠的代码评审实践，但我们不能假定大家会完全遵守先前的约定或最佳实践。<br><br>比如，在实际工作中，我们一方面要尽量设计好接口，将接口和实现隔离，但同时也要留意隐式接口问题，隐示接口会限制系统的设计和发展。虽然隐式接口理论上不是你的锅，但使用者不会这么认为。<br><br>再比如，项目的大多数依赖项（无论是隐式的还是显式的），随着时间的推移都可能发生变化。软件工程就是随着时间不断集成的编程，多人开发多版本程序。不仅包括编程，还包括在一段时间内，用来构建和维护代码的所有工具和流程，最大限度地保持代码的长期价值。<br><br>现在你终于明白了：为什么bug永远改不完？因为熵永远在增加。]]></description>
+            <pubDate>Fri, 13 May 2022 10:19:23 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/627e30abdc79e8e3d338dc4f</guid>
+            <link>https://m.okjike.com/originalPosts/627e30abdc79e8e3d338dc4f</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[# 分享一些关于独立开发的干货 1. 我主要做iOS App的开发，以下的内容都是基于我过往的经验。并不全面，甚至不一定对，欢迎👏补充和更正。 2. 目前我的App都是...]]></title>
@@ -142,22 +158,6 @@
             <pubDate>Sun, 08 May 2022 18:35:04 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62780d58941de411af7b9691</guid>
             <link>https://m.okjike.com/originalPosts/62780d58941de411af7b9691</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[- 技术分享之网络编程的那些事儿：https://xiaorui.cc/archives/7271 - 几十场技术分享的PPT下载：https://github.com/rfyiamcool/share_ppt 这位技术博主@rfyia...]]></title>
-            <description><![CDATA[- 技术分享之网络编程的那些事儿：https://xiaorui.cc/archives/7271<br><br>- 几十场技术分享的PPT下载：https://github.com/rfyiamcool/share_ppt<br><br>这位技术博主@rfyiamcool的PPT做得很美观，流程图画得一级棒。<br><br>更惊叹的是，他在公司做了几十场技术分享，这些PPT全都免费公开了，兼具实战性、趣味性、观赏性。这么棒的技术PPT素材，说是前无古人，也不为过吧？<br><img src="https://cdn.jellow.site/FtP-yz3Saidu879HmZZnVqd3uO2Sv3.png" referrerpolicy="no-referrer"><br><img src="https://cdn.jellow.site/Fg_cKwJlcV5QhOUu-yDZ5xT_Cxuwv3.png" referrerpolicy="no-referrer"><br><img src="https://cdn.jellow.site/FvFYm0x1PWeEMY707r8bOb0wKoeVv3.png" referrerpolicy="no-referrer"><br><img src="https://cdn.jellow.site/FruboR0Hl8fdzv1ejE-qfdCS3wwjv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 07 May 2022 06:40:26 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6276145a4657e34038fba675</guid>
-            <link>https://m.okjike.com/originalPosts/6276145a4657e34038fba675</link>
             
             
             
