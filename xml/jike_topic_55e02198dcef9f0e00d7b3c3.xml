@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sat, 14 May 2022 16:28:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 May 2022 20:21:20 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[一个穿墙问题，向大伙请教。]]></title>
+            <description><![CDATA[一个穿墙问题，向大伙请教。<br><img src="https://cdn.jellow.site/FnezwK9u0bqYPzQr4_GRH_DIQ0tjv3.png" referrerpolicy="no-referrer"><br><img src="https://cdn.jellow.site/FvtpXHcVRjrIK0rn5YgfsvBTZLBCv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sat, 14 May 2022 15:23:19 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/627fc967bb4f64e77d493d61</guid>
+            <link>https://m.okjike.com/originalPosts/627fc967bb4f64e77d493d61</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[想手撕一个操作系统内核玩具那种耍耍，有没有入门教程推荐。]]></title>
@@ -142,22 +158,6 @@
             <pubDate>Wed, 11 May 2022 07:03:59 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/627b5fdf3f458e83fe8314db</guid>
             <link>https://m.okjike.com/originalPosts/627b5fdf3f458e83fe8314db</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[作为主语言是go程序员 买了好多go语言相关的书。总的来说推荐左边这两本。 Go语言学习笔记是上上次找工作的时候看的了，写的简单易懂，对于一些该有的特性也都介...]]></title>
-            <description><![CDATA[作为主语言是go程序员 买了好多go语言相关的书。总的来说推荐左边这两本。<br><br>Go语言学习笔记是上上次找工作的时候看的了，写的简单易懂，对于一些该有的特性也都介绍的差不多，但就是基于的版本太老了，但入门看这本还是很推荐的。<br><br>灯塔大佬的Go语言设计与实现已经不用多说了，人家的博客写的真是牛逼，读起来有深度，但是也能理解。技术人的榜样，（听说还是94年的，现在在虾皮搞k8s）我今天晚上就是重新看这本书，把我从面试宝典的恶心情绪里救出来了，再次感谢。<br><br>最后这本面试笔试宝典是我今天才到的货，我先看了目录，本来是准备这次找工作复习来的，因为从目录上看好像面试也就问这些问题了，晚上看了前三章，怎么说呢，不太推荐，真的读的累，动不动两三页源码+注释，要么就汇编分析，一个切片扩容超过1024是不是1.25倍扩容给讲了三四页...看得我头晕...人家灯塔一两句话就说明白了。不能说内容有问题，只是读起来太费劲了。<br><br>还有柴大的Go语言高级编程，那本就不太适合面试看了，基础很少，那本是给拓宽视野的。<br><br>ps：前两天看黄健宏大佬写的redis的设计与实现，那阅读起来叫一个顺畅，强烈推荐！<br><img src="https://cdn.jellow.site/FgnFwiLOK_JMw2CDm2xqF8PqnoH1v3.heic" referrerpolicy="no-referrer"><br><img src="https://cdn.jellow.site/FiucBT9jEy8eR1UO1FErwU-aT3pNv3.heic" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sun, 08 May 2022 18:35:04 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62780d58941de411af7b9691</guid>
-            <link>https://m.okjike.com/originalPosts/62780d58941de411af7b9691</link>
             
             
             
