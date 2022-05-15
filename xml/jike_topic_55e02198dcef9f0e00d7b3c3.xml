@@ -21,8 +21,40 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sun, 15 May 2022 12:38:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 May 2022 16:29:17 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[周末在家写写我的个人网站——C10导航。 【网站简介】 C10导航，顾名思义是为我妻子做的页面。 【版本计划】 ✓ 1.0.0 网址导航 - 收录我妻子常用的网址 1.1.0 ...]]></title>
+            <description><![CDATA[周末在家写写我的个人网站——C10导航。<br><br>【网站简介】<br>C10导航，顾名思义是为我妻子做的页面。<br><br>【版本计划】<br>✓ 1.0.0 网址导航<br>- 收录我妻子常用的网址<br>1.1.0 工具集<br>- 根据她的喜好制作“今天吃什么外卖”工具<br>- 根据她的喜好制作“今天买什么菜”工具<br>2.0.0 杰克的内容<br>- 我的博客<br>- 我的作品集<br><br>【技术】<br>前端：原生js + html + css<br>- 由于本人没怎么学过前端框架，所以自己针对这个网站搭了框架<br>后端：Node.js / TypeScript<br>- 后续如有数据库需求则视情况选择文件系统还是MySQL<br><br>【源码】<br>https://github.com/chenwansal/c10navigation<br><br>【其他】<br>服务器和域名在备案中，备案通过就把之前的域名用上。<br><img src="https://cdn.jellow.site/FnxXmK2GKO1aVbVowr12Dexv3BBhv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sun, 15 May 2022 15:03:46 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62811652e8693e9b8ba255cb</guid>
+            <link>https://m.okjike.com/originalPosts/62811652e8693e9b8ba255cb</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[little big city —— 开源的 3D 地图生成 链接：https://pissang.github.io/little-big-city/ 根据坐标，自动生成 3D 地图。具备球形和等体积两种风格，支持多...]]></title>
+            <description><![CDATA[little big city —— 开源的 3D 地图生成<br><br>链接：https://pissang.github.io/little-big-city/<br><br>根据坐标，自动生成 3D 地图。具备球形和等体积两种风格，支持多种参数定制 。<br><img src="https://cdn.jellow.site/lm3ILWIkoNm0N3E0_dIXVTjfY3lRv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sun, 15 May 2022 12:16:22 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6280ef1616ebdeaa15656e4d</guid>
+            <link>https://m.okjike.com/originalPosts/6280ef1616ebdeaa15656e4d</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[作为自封的 TS 高手，想听我聊点啥？🌚]]></title>
@@ -73,22 +105,6 @@
         </item>
         
         <item>
-            <title><![CDATA[软件开发中有一个重要的定律叫“海勒姆定律”：当你的 API 有足够多的用户时，你的承诺和约定已不重要；API 的所有行为（包括那些未囊括在公共说明中的一部分）...]]></title>
-            <description><![CDATA[软件开发中有一个重要的定律叫“海勒姆定律”：当你的 API 有足够多的用户时，你的承诺和约定已不重要；API 的所有行为（包括那些未囊括在公共说明中的一部分）最终都会被其他人所使用和依赖。<br><br>软件随着时间变化产生问题时，这个定律一直都是主导因素。<br><br>它在概念上类似于热力学中的「熵」：根据热力学第一定律，能量是守恒的，可以互相转化。热力学第二定律进一步指出，虽然能量可以转化，但是无法100%利用。在转化过程中，总是有一部分能量会被浪费掉。熵就是系统里的无效能量，是系统的混乱度。热力学第二定律的一个重要推论就是：熵永远在增加。<br><br>如果不施加外力影响，事物永远向着更混乱的状态发展。比如，房间如果没人打扫，只会越来越乱。熵只能减轻，永远无法根除。<br><br>尽管我们有最佳意识、最佳的工程师和可靠的代码评审实践，但我们不能假定大家会完全遵守先前的约定或最佳实践。<br><br>比如，在实际工作中，我们一方面要尽量设计好接口，将接口和实现隔离，但同时也要留意隐式接口问题，隐示接口会限制系统的设计和发展。虽然隐式接口理论上不是你的锅，但使用者不会这么认为。<br><br>再比如，项目的大多数依赖项（无论是隐式的还是显式的），随着时间的推移都可能发生变化。软件工程就是随着时间不断集成的编程，多人开发多版本程序。不仅包括编程，还包括在一段时间内，用来构建和维护代码的所有工具和流程，最大限度地保持代码的长期价值。<br><br>现在你终于明白了：为什么bug永远改不完？因为熵永远在增加。]]></description>
-            <pubDate>Fri, 13 May 2022 10:19:23 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/627e30abdc79e8e3d338dc4f</guid>
-            <link>https://m.okjike.com/originalPosts/627e30abdc79e8e3d338dc4f</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[# 分享一些关于独立开发的干货 1. 我主要做iOS App的开发，以下的内容都是基于我过往的经验。并不全面，甚至不一定对，欢迎👏补充和更正。 2. 目前我的App都是...]]></title>
             <description><![CDATA[# 分享一些关于独立开发的干货<br><br>1. 我主要做iOS App的开发，以下的内容都是基于我过往的经验。并不全面，甚至不一定对，欢迎👏补充和更正。<br>2. 目前我的App都是采用Swift开发的，目前Swift已经相对比较稳定了，如果从头做一个独立App，更推荐Swift，简单易学也更易用。<br>3. 最新的App我甚至已经用上了SwiftUI，有一说一，写UI是真的快，但是Bug和坑也比较多，如果是小型项目，demo可以用SwiftUI，但考虑到后期维护的话，Snapkit是更合适的选择。<br>4. iOS的内购开发非常坑！非常坑！非常坑！建议使用SwiftyStoreKit，会轻松简单很多。<br>5. iOS审核比较严格，被拒是很常见的事情，放平心态，审核说你哪不对，你改到他满意就好。实在无法达成一致，就去找苹果申诉，但是过程很漫长，必要时可以让他们电话联系你。你可以要求苹果那边找会说普通话的人与你沟通。<br>6. 小型项目没必要自己搭一个完整的后端，可以使用Leancloud这样的Serverless服务商。<br>7. 苹果给你打钱如果打到国内的银行卡里，会有5万美元的外汇限制（超过部分需要申请），而且每次需要去银行线下填单子（不知道现在改进了没？），汇率也不友好。可以选择Pingpong这样的跨境电商收款服务。<br>8. 把经常用到的代码规整一下，做一个自己的Cocopods私有库，必要时直接引入会方便很多。<br>9. 统计工具我用过最好是fabric，可惜现在🈚️了。试用过友盟，AppCenter和Firebase，Firebase和AppCenter国内的数据会缺失很多，所以我现在是友盟+Firebase。<br>10. PromiseKit很好用，代码更优雅，写的时候也更舒服。<br>11. 其他的内容我会在之后持续更新，欢迎关注。]]></description>
             <pubDate>Fri, 13 May 2022 01:28:25 GMT</pubDate>
@@ -126,22 +142,6 @@
             <pubDate>Thu, 12 May 2022 09:52:15 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/627cd8cfd95aa52c6888f63a</guid>
             <link>https://m.okjike.com/originalPosts/627cd8cfd95aa52c6888f63a</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[国内的开源精神是真的不行。 最近在调研一个算法领域，看到两个国内作者的的repo，一个是bug很多（因为他们发了paper我怀疑是故意把代码整成这样的），一个是缺...]]></title>
-            <description><![CDATA[国内的开源精神是真的不行。<br><br>最近在调研一个算法领域，看到两个国内作者的的repo，一个是bug很多（因为他们发了paper我怀疑是故意把代码整成这样的），一个是缺文件，我发了issue询问（因为无人发现所以我是第一个提issue的），作者直接隐藏了repo……<br><br>又看到一个国外作者的repo，readme写得和issue回复得那叫一个详细，生怕别人跑不出来结果。<br><br>高下立判。]]></description>
-            <pubDate>Thu, 12 May 2022 03:49:37 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/627c83d1f4528f2d714384ca</guid>
-            <link>https://m.okjike.com/originalPosts/627c83d1f4528f2d714384ca</link>
             
             
             
