@@ -21,8 +21,40 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 17 May 2022 16:33:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 May 2022 20:22:03 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[笑不活了 哈哈哈哈哈哈哈哈哈哈]]></title>
+            <description><![CDATA[笑不活了<br>哈哈哈哈哈哈哈哈哈哈<br><img src="https://cdn.jellow.site/FnrAZzomjiQmraehHstlavqYmmuFv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 17 May 2022 15:25:20 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6283be6034df66d2e8add3ce</guid>
+            <link>https://m.okjike.com/originalPosts/6283be6034df66d2e8add3ce</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[我有一个新闻数据集的压缩包，一百多万个txt文件，想要塞到数据库应该咋办？光解压这个压缩包都需要一个多小时，用Java一个一个读出来写到数据库里面吗？有什么...]]></title>
+            <description><![CDATA[我有一个新闻数据集的压缩包，一百多万个txt文件，想要塞到数据库应该咋办？光解压这个压缩包都需要一个多小时，用Java一个一个读出来写到数据库里面吗？有什么速度快的方法不<br>感谢]]></description>
+            <pubDate>Tue, 17 May 2022 07:18:23 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62834c3f930fc4a6d7283602</guid>
+            <link>https://m.okjike.com/originalPosts/62834c3f930fc4a6d7283602</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[现在国外大学的大作业都是Flutter App了？最近接到好多女大学生的单子]]></title>
@@ -137,43 +169,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Henry Heffernan 的个人网站 链接：https://henryheffernan.com/ 跪着看完的软件工程师个人网站，运用 treejs 技术。先用 3D 做了一个办公室，具体的网站内容都...]]></title>
-            <description><![CDATA[Henry Heffernan 的个人网站<br><br>链接：https://henryheffernan.com/<br><br>跪着看完的软件工程师个人网站，运用 treejs 技术。先用 3D 做了一个办公室，具体的网站内容都在电脑屏幕里。屏幕里界面则是模拟老版本的 Windows 操作系统，你甚至能在里面在线玩毁灭战士 1（DOOM）。<br><img src="https://cdn.jellow.site/FvbalGiIgKvCfGZqvP7hqbvYKN4lv3.png" referrerpolicy="no-referrer"><br><img src="https://cdn.jellow.site/Fl6Se8yDULVfnbFzqut62DcguTwpv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sun, 15 May 2022 13:45:27 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/628103f7e8693e9b8b98b277</guid>
-            <link>https://m.okjike.com/originalPosts/628103f7e8693e9b8b98b277</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[little big city —— 开源的 3D 地图生成 链接：https://pissang.github.io/little-big-city/ 根据坐标，自动生成 3D 地图。具备球形和等体积两种风格，支持多...]]></title>
             <description><![CDATA[little big city —— 开源的 3D 地图生成<br><br>链接：https://pissang.github.io/little-big-city/<br><br>根据坐标，自动生成 3D 地图。具备球形和等体积两种风格，支持多种参数定制 。<br><img src="https://cdn.jellow.site/lm3ILWIkoNm0N3E0_dIXVTjfY3lRv3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Sun, 15 May 2022 12:16:22 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6280ef1616ebdeaa15656e4d</guid>
             <link>https://m.okjike.com/originalPosts/6280ef1616ebdeaa15656e4d</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[# 分享一些关于独立开发的干货 1. 我主要做iOS App的开发，以下的内容都是基于我过往的经验。并不全面，甚至不一定对，欢迎👏补充和更正。 2. 目前我的App都是...]]></title>
-            <description><![CDATA[# 分享一些关于独立开发的干货<br><br>1. 我主要做iOS App的开发，以下的内容都是基于我过往的经验。并不全面，甚至不一定对，欢迎👏补充和更正。<br>2. 目前我的App都是采用Swift开发的，目前Swift已经相对比较稳定了，如果从头做一个独立App，更推荐Swift，简单易学也更易用。<br>3. 最新的App我甚至已经用上了SwiftUI，有一说一，写UI是真的快，但是Bug和坑也比较多，如果是小型项目，demo可以用SwiftUI，但考虑到后期维护的话，Snapkit是更合适的选择。<br>4. iOS的内购开发非常坑！非常坑！非常坑！建议使用SwiftyStoreKit，会轻松简单很多。<br>5. iOS审核比较严格，被拒是很常见的事情，放平心态，审核说你哪不对，你改到他满意就好。实在无法达成一致，就去找苹果申诉，但是过程很漫长，必要时可以让他们电话联系你。你可以要求苹果那边找会说普通话的人与你沟通。<br>6. 小型项目没必要自己搭一个完整的后端，可以使用Leancloud这样的Serverless服务商。<br>7. 苹果给你打钱如果打到国内的银行卡里，会有5万美元的外汇限制（超过部分需要申请），而且每次需要去银行线下填单子（不知道现在改进了没？），汇率也不友好。可以选择Pingpong这样的跨境电商收款服务。<br>8. 把经常用到的代码规整一下，做一个自己的Cocopods私有库，必要时直接引入会方便很多。<br>9. 统计工具我用过最好是fabric，可惜现在🈚️了。试用过友盟，AppCenter和Firebase，Firebase和AppCenter国内的数据会缺失很多，所以我现在是友盟+Firebase。<br>10. PromiseKit很好用，代码更优雅，写的时候也更舒服。<br>11. 其他的内容我会在之后持续更新，欢迎关注。]]></description>
-            <pubDate>Fri, 13 May 2022 01:28:25 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/627db439e53a769622842f96</guid>
-            <link>https://m.okjike.com/originalPosts/627db439e53a769622842f96</link>
             
             
             
