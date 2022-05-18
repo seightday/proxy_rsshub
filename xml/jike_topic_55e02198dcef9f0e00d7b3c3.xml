@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss  xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
 
-
 >
     <channel>
         <title><![CDATA[JitHub - 即刻圈子]]></title>
         <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
-        <atom:link href="https://rsshub/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
+        <atom:link href="https://vercel.getrss2021.xyz/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
         <description><![CDATA[开发者们分享，问答，也可以交友的地方。欢迎所有工程师！ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -21,12 +20,29 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 18 May 2022 01:37:48 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Wed, 18 May 2022 04:34:42 GMT</lastBuildDate>
+        <ttl>5</ttl>
         
         <item>
-            <title><![CDATA[笑不活了 哈哈哈哈哈哈哈哈哈哈]]></title>
-            <description><![CDATA[笑不活了<br>哈哈哈哈哈哈哈哈哈哈<br><img src="https://cdn.jellow.site/FnrAZzomjiQmraehHstlavqYmmuFv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <title><![CDATA[朋友去年的论文找了几个macOS 漏洞，只是发论文，并没有联系他们。今年Apple 主动联系说要给钱，🍎好感度+1]]></title>
+            <description><![CDATA[<br>朋友去年的论文找了几个macOS 漏洞，只是发论文，并没有联系他们。今年Apple 主动联系说要给钱，🍎好感度+1]]></description>
+            <pubDate>Wed, 18 May 2022 00:24:18 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62843cb21a63c949ea1e556f</guid>
+            <link>https://m.okjike.com/originalPosts/62843cb21a63c949ea1e556f</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[笑不活了
+哈哈哈哈哈哈哈哈哈哈]]></title>
+            <description><![CDATA[<br>笑不活了<br>哈哈哈哈哈哈哈哈哈哈<br><picture><source srcset="https://cdn.jellow.site/FnrAZzomjiQmraehHstlavqYmmuFv3.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FnrAZzomjiQmraehHstlavqYmmuFv3.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FnrAZzomjiQmraehHstlavqYmmuFv3.jpg"></picture>]]></description>
             <pubDate>Tue, 17 May 2022 15:25:20 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6283be6034df66d2e8add3ce</guid>
             <link>https://m.okjike.com/originalPosts/6283be6034df66d2e8add3ce</link>
@@ -42,7 +58,7 @@
         
         <item>
             <title><![CDATA[我有一个新闻数据集的压缩包，一百多万个txt文件，想要塞到数据库应该咋办？光解压这个压缩包都需要一个多小时，用Java一个一个读出来写到数据库里面吗？有什么...]]></title>
-            <description><![CDATA[我有一个新闻数据集的压缩包，一百多万个txt文件，想要塞到数据库应该咋办？光解压这个压缩包都需要一个多小时，用Java一个一个读出来写到数据库里面吗？有什么速度快的方法不<br>感谢]]></description>
+            <description><![CDATA[<br>我有一个新闻数据集的压缩包，一百多万个txt文件，想要塞到数据库应该咋办？光解压这个压缩包都需要一个多小时，用Java一个一个读出来写到数据库里面吗？有什么速度快的方法不<br>感谢]]></description>
             <pubDate>Tue, 17 May 2022 07:18:23 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62834c3f930fc4a6d7283602</guid>
             <link>https://m.okjike.com/originalPosts/62834c3f930fc4a6d7283602</link>
@@ -58,7 +74,7 @@
         
         <item>
             <title><![CDATA[现在国外大学的大作业都是Flutter App了？最近接到好多女大学生的单子]]></title>
-            <description><![CDATA[现在国外大学的大作业都是Flutter App了？最近接到好多女大学生的单子<img src="https://cdn.jellow.site/Fg_2huPGtYy3RMNoZ1xNVLXVZydNv3.gif" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[<br>现在国外大学的大作业都是Flutter App了？最近接到好多女大学生的单子<img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Fg_2huPGtYy3RMNoZ1xNVLXVZydNv3.gif">]]></description>
             <pubDate>Tue, 17 May 2022 01:09:55 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6282f5e3ed6520aa857a9d36</guid>
             <link>https://m.okjike.com/originalPosts/6282f5e3ed6520aa857a9d36</link>
@@ -74,7 +90,7 @@
         
         <item>
             <title><![CDATA[接了个小程序单，要了3080，那老哥答应的那么爽快。。。 这是要高了还是低了😢]]></title>
-            <description><![CDATA[接了个小程序单，要了3080，那老哥答应的那么爽快。。。 这是要高了还是低了😢<br><img src="https://cdn.jellow.site/Fmczhbf4A0ZhOAasJZeW9-tyFf_av3.jpg" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[<br>接了个小程序单，要了3080，那老哥答应的那么爽快。。。 这是要高了还是低了😢<br><picture><source srcset="https://cdn.jellow.site/Fmczhbf4A0ZhOAasJZeW9-tyFf_av3.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/Fmczhbf4A0ZhOAasJZeW9-tyFf_av3.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Fmczhbf4A0ZhOAasJZeW9-tyFf_av3.jpg"></picture>]]></description>
             <pubDate>Mon, 16 May 2022 15:47:47 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6282722398f334c6e5878e4a</guid>
             <link>https://m.okjike.com/originalPosts/6282722398f334c6e5878e4a</link>
@@ -89,24 +105,9 @@
         </item>
         
         <item>
-            <title><![CDATA[今天看了会儿Bruno Simon的教程 大概算是刚入门Three.js🤔 想把之前学的知识像建模啊shader啊都整合进来，做些轻量级的web端交互，感觉说不定会更加方便传播]]></title>
-            <description><![CDATA[今天看了会儿Bruno Simon的教程<br>大概算是刚入门Three.js🤔<br><br>想把之前学的知识像建模啊shader啊都整合进来，做些轻量级的web端交互，感觉说不定会更加方便传播]]></description>
-            <pubDate>Mon, 16 May 2022 15:24:23 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62826ca761f8964a49c7a0db</guid>
-            <link>https://m.okjike.com/originalPosts/62826ca761f8964a49c7a0db</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[有啥开源的团队wiki推荐？ （我是重度confluence用户，奈何太贵了）]]></title>
-            <description><![CDATA[有啥开源的团队wiki推荐？<br>（我是重度confluence用户，奈何太贵了）]]></description>
+            <title><![CDATA[有啥开源的团队wiki推荐？
+（我是重度confluence用户，奈何太贵了）]]></title>
+            <description><![CDATA[<br>有啥开源的团队wiki推荐？<br>（我是重度confluence用户，奈何太贵了）]]></description>
             <pubDate>Mon, 16 May 2022 14:54:31 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/628265a7c8776562d8f0df72</guid>
             <link>https://m.okjike.com/originalPosts/628265a7c8776562d8f0df72</link>
@@ -121,8 +122,10 @@
         </item>
         
         <item>
-            <title><![CDATA[这位技术博主的愿望，非常美妙；网站也做得很漂亮。就读于南京师范大学地理信息科学系，大三。 https://www.yonniye.com/about.html]]></title>
-            <description><![CDATA[这位技术博主的愿望，非常美妙；网站也做得很漂亮。就读于南京师范大学地理信息科学系，大三。<br><br>https://www.yonniye.com/about.html<br><img src="https://cdn.jellow.site/Fum7hhBTUdmJycE0PQVN6imG_lGov3.png" referrerpolicy="no-referrer"><br><img src="https://cdn.jellow.site/FlCTRBSyhXEGSkMS_dKTGNK-kTPPv3.png" referrerpolicy="no-referrer"><br><img src="https://cdn.jellow.site/FhdSU4yL7xvbHr-AbcsNfMSn9VxUv3.png" referrerpolicy="no-referrer">]]></description>
+            <title><![CDATA[这位技术博主的愿望，非常美妙；网站也做得很漂亮。就读于南京师范大学地理信息科学系，大三。
+
+https://www.yonniye.com/about.html]]></title>
+            <description><![CDATA[<br>这位技术博主的愿望，非常美妙；网站也做得很漂亮。就读于南京师范大学地理信息科学系，大三。<br><br>https://www.yonniye.com/about.html<br><picture><source srcset="https://cdn.jellow.site/Fum7hhBTUdmJycE0PQVN6imG_lGov3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/Fum7hhBTUdmJycE0PQVN6imG_lGov3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Fum7hhBTUdmJycE0PQVN6imG_lGov3.png"></picture><br><picture><source srcset="https://cdn.jellow.site/FlCTRBSyhXEGSkMS_dKTGNK-kTPPv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FlCTRBSyhXEGSkMS_dKTGNK-kTPPv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FlCTRBSyhXEGSkMS_dKTGNK-kTPPv3.png"></picture><br><picture><source srcset="https://cdn.jellow.site/FhdSU4yL7xvbHr-AbcsNfMSn9VxUv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FhdSU4yL7xvbHr-AbcsNfMSn9VxUv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FhdSU4yL7xvbHr-AbcsNfMSn9VxUv3.png"></picture>]]></description>
             <pubDate>Mon, 16 May 2022 04:40:01 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6281d5a12c34b4f2e60f35f9</guid>
             <link>https://m.okjike.com/originalPosts/6281d5a12c34b4f2e60f35f9</link>
@@ -137,8 +140,16 @@
         </item>
         
         <item>
-            <title><![CDATA[周末在家写写我的个人网站——C10导航。 【网站简介】 是为我妻子做的页面，也是我的个人主页。 【版本计划】 ✓ 1.0.0 网址导航 - 收录我妻子常用的网址 1.1.0 ...]]></title>
-            <description><![CDATA[周末在家写写我的个人网站——C10导航。<br><br>【网站简介】<br>是为我妻子做的页面，也是我的个人主页。<br><br>【版本计划】<br>✓ 1.0.0 网址导航<br>- 收录我妻子常用的网址<br>1.1.0 工具集<br>- 根据她的喜好制作“今天吃什么外卖”工具<br>- 根据她的喜好制作“今天买什么菜”工具<br>2.0.0 杰克的内容<br>- 我的博客<br>- 我的作品集<br><br>【技术】<br>前端：原生js + html + css<br>- 由于本人没怎么学过前端框架，所以自己针对这个网站搭了框架<br>后端：Node.js / TypeScript<br>- 后续如有数据库需求则视情况选择文件系统还是MySQL<br><br>【源码】<br>https://github.com/chenwansal/c10navigation<br><br>【其他】<br>服务器和域名在备案中，备案通过就把之前的域名用上。<br><img src="https://cdn.jellow.site/FnxXmK2GKO1aVbVowr12Dexv3BBhv3.png" referrerpolicy="no-referrer">]]></description>
+            <title><![CDATA[周末在家写写我的个人网站——C10导航。
+
+【网站简介】
+是为我妻子做的页面，也是我的个人主页。
+
+【版本计划】
+✓ 1.0.0 网址导航
+- 收录我妻子常用的网址
+1.1....]]></title>
+            <description><![CDATA[<br>周末在家写写我的个人网站——C10导航。<br><br>【网站简介】<br>是为我妻子做的页面，也是我的个人主页。<br><br>【版本计划】<br>✓ 1.0.0 网址导航<br>- 收录我妻子常用的网址<br>1.1.0 工具集<br>- 根据她的喜好制作“今天吃什么外卖”工具<br>- 根据她的喜好制作“今天买什么菜”工具<br>2.0.0 杰克的内容<br>- 我的博客<br>- 我的作品集<br><br>【技术】<br>前端：原生js + html + css<br>- 由于本人没怎么学过前端框架，所以自己针对这个网站搭了框架<br>后端：Node.js / TypeScript<br>- 后续如有数据库需求则视情况选择文件系统还是MySQL<br><br>【源码】<br>https://github.com/chenwansal/c10navigation<br><br>【其他】<br>服务器和域名在备案中，备案通过就把之前的域名用上。<br><picture><source srcset="https://cdn.jellow.site/FnxXmK2GKO1aVbVowr12Dexv3BBhv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FnxXmK2GKO1aVbVowr12Dexv3BBhv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FnxXmK2GKO1aVbVowr12Dexv3BBhv3.png"></picture>]]></description>
             <pubDate>Sun, 15 May 2022 15:03:46 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62811652e8693e9b8ba255cb</guid>
             <link>https://m.okjike.com/originalPosts/62811652e8693e9b8ba255cb</link>
@@ -154,7 +165,7 @@
         
         <item>
             <title><![CDATA[为了应对面试，给老婆讲了俩小时git jekins docker k8s 她基本都搞明白了…]]></title>
-            <description><![CDATA[为了应对面试，给老婆讲了俩小时git jekins docker k8s 她基本都搞明白了…<br><img src="https://cdn.jellow.site/FmewHZiyIZUUAtqyi52aVY2LOruCv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[<br>为了应对面试，给老婆讲了俩小时git jekins docker k8s 她基本都搞明白了…<br><picture><source srcset="https://cdn.jellow.site/FmewHZiyIZUUAtqyi52aVY2LOruCv3.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FmewHZiyIZUUAtqyi52aVY2LOruCv3.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FmewHZiyIZUUAtqyi52aVY2LOruCv3.jpg"></picture>]]></description>
             <pubDate>Sun, 15 May 2022 14:25:33 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62810d5d4799f0ac97577cda</guid>
             <link>https://m.okjike.com/originalPosts/62810d5d4799f0ac97577cda</link>
@@ -169,8 +180,12 @@
         </item>
         
         <item>
-            <title><![CDATA[little big city —— 开源的 3D 地图生成 链接：https://pissang.github.io/little-big-city/ 根据坐标，自动生成 3D 地图。具备球形和等体积两种风格，支持多...]]></title>
-            <description><![CDATA[little big city —— 开源的 3D 地图生成<br><br>链接：https://pissang.github.io/little-big-city/<br><br>根据坐标，自动生成 3D 地图。具备球形和等体积两种风格，支持多种参数定制 。<br><img src="https://cdn.jellow.site/lm3ILWIkoNm0N3E0_dIXVTjfY3lRv3.png" referrerpolicy="no-referrer">]]></description>
+            <title><![CDATA[little big city —— 开源的 3D 地图生成
+
+链接：https://pissang.github.io/little-big-city/
+
+根据坐标，自动生成 3D 地图。具备球形和等体积两种风格，支持...]]></title>
+            <description><![CDATA[<br>little big city —— 开源的 3D 地图生成<br><br>链接：https://pissang.github.io/little-big-city/<br><br>根据坐标，自动生成 3D 地图。具备球形和等体积两种风格，支持多种参数定制 。<br><picture><source srcset="https://cdn.jellow.site/lm3ILWIkoNm0N3E0_dIXVTjfY3lRv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/lm3ILWIkoNm0N3E0_dIXVTjfY3lRv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/lm3ILWIkoNm0N3E0_dIXVTjfY3lRv3.png"></picture>]]></description>
             <pubDate>Sun, 15 May 2022 12:16:22 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6280ef1616ebdeaa15656e4d</guid>
             <link>https://m.okjike.com/originalPosts/6280ef1616ebdeaa15656e4d</link>
