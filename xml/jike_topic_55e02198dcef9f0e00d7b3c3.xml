@@ -21,8 +21,40 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 19 May 2022 08:26:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 May 2022 12:41:39 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[自从用了screen，我就不需要docker了。 注： 1. 我知道这俩是啥 2. 我的需求仅是关闭会话时依然保持服务正常运行 3. 迷你服务器，迷你网站]]></title>
+            <description><![CDATA[自从用了screen，我就不需要docker了。<br><br>注：<br>1. 我知道这俩是啥<br>2. 我的需求仅是关闭会话时依然保持服务正常运行<br>3. 迷你服务器，迷你网站]]></description>
+            <pubDate>Thu, 19 May 2022 06:04:47 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6285ddff8e839f912a832225</guid>
+            <link>https://m.okjike.com/originalPosts/6285ddff8e839f912a832225</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[杀鸡（gitee）儆猴（github） 互联网不是法外之地，希望 github 你好自为之（狗头）]]></title>
+            <description><![CDATA[杀鸡（gitee）儆猴（github）<br>互联网不是法外之地，希望 github 你好自为之（狗头）<br><img src="https://cdn.jellow.site/FpGv5xqPKhJdXqYaix_T2uQ9S8Cvv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdn.jellow.site/FpNVYdniCkuL53oWcxR-rWZGssAKv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 19 May 2022 05:39:48 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6285d8249c957d00eb5320b3</guid>
+            <link>https://m.okjike.com/originalPosts/6285d8249c957d00eb5320b3</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[机械想转码，究竟是学c++还是java好啊，各位攻城狮]]></title>
@@ -121,43 +153,11 @@
         </item>
         
         <item>
-            <title><![CDATA[有啥开源的团队wiki推荐？ （我是重度confluence用户，奈何太贵了）]]></title>
-            <description><![CDATA[有啥开源的团队wiki推荐？<br>（我是重度confluence用户，奈何太贵了）]]></description>
-            <pubDate>Mon, 16 May 2022 14:54:31 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/628265a7c8776562d8f0df72</guid>
-            <link>https://m.okjike.com/originalPosts/628265a7c8776562d8f0df72</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[这位技术博主的愿望，非常美妙；网站也做得很漂亮。就读于南京师范大学地理信息科学系，大三。 https://www.yonniye.com/about.html]]></title>
             <description><![CDATA[这位技术博主的愿望，非常美妙；网站也做得很漂亮。就读于南京师范大学地理信息科学系，大三。<br><br>https://www.yonniye.com/about.html<br><img src="https://cdn.jellow.site/Fum7hhBTUdmJycE0PQVN6imG_lGov3.png" referrerpolicy="no-referrer"><br><img src="https://cdn.jellow.site/FlCTRBSyhXEGSkMS_dKTGNK-kTPPv3.png" referrerpolicy="no-referrer"><br><img src="https://cdn.jellow.site/FhdSU4yL7xvbHr-AbcsNfMSn9VxUv3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Mon, 16 May 2022 04:40:01 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6281d5a12c34b4f2e60f35f9</guid>
             <link>https://m.okjike.com/originalPosts/6281d5a12c34b4f2e60f35f9</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[周末在家写写我的个人网站——C10导航。 【网站简介】 是为我妻子做的页面，也是我的个人主页。 【版本计划】 ✓ 1.0.0 网址导航 - 收录我妻子常用的网址 1.1.0 ...]]></title>
-            <description><![CDATA[周末在家写写我的个人网站——C10导航。<br><br>【网站简介】<br>是为我妻子做的页面，也是我的个人主页。<br><br>【版本计划】<br>✓ 1.0.0 网址导航<br>- 收录我妻子常用的网址<br>1.1.0 工具集<br>- 根据她的喜好制作“今天吃什么外卖”工具<br>- 根据她的喜好制作“今天买什么菜”工具<br>2.0.0 杰克的内容<br>- 我的博客<br>- 我的作品集<br><br>【技术】<br>前端：原生js + html + css<br>- 由于本人没怎么学过前端框架，所以自己针对这个网站搭了框架<br>后端：Node.js / TypeScript<br>- 后续如有数据库需求则视情况选择文件系统还是MySQL<br><br>【源码】<br>https://github.com/chenwansal/c10navigation<br><br>【其他】<br>服务器和域名在备案中，备案通过就把之前的域名用上。<br><img src="https://cdn.jellow.site/FnxXmK2GKO1aVbVowr12Dexv3BBhv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sun, 15 May 2022 15:03:46 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62811652e8693e9b8ba255cb</guid>
-            <link>https://m.okjike.com/originalPosts/62811652e8693e9b8ba255cb</link>
             
             
             
