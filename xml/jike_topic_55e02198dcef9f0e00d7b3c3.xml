@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sun, 22 May 2022 04:26:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 May 2022 08:24:29 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[【技术分享】 只用位运算符，如何实现+-×/呢？ 来跟随杰克小编一起看看吧！ 【原理】 注释里有说明实现原理，希望我的描述能够让人容易理解。 【图示说明】 图1...]]></title>
+            <description><![CDATA[【技术分享】<br>只用位运算符，如何实现+-×/呢？<br>来跟随杰克小编一起看看吧！<br><br>【原理】<br>注释里有说明实现原理，希望我的描述能够让人容易理解。<br><br>【图示说明】<br>图1是加法<br>图2是减法<br>图3是乘法<br>图4是除法<br>图5图6是输出运算结果<br><img src="https://cdn.jellow.site/FhKIM4Njl7rR0mWOObJtHH2q99jWv3.png" referrerpolicy="no-referrer"><br><img src="https://cdn.jellow.site/FnF11WCq1Z_EyRksYC9XnP9LF3zRv3.png" referrerpolicy="no-referrer"><br><img src="https://cdn.jellow.site/FllQlU1-ZFZaGucB-quJchAAmVAUv3.png" referrerpolicy="no-referrer"><br><img src="https://cdn.jellow.site/FrrDnzIA8A_t6SYZg10uGnWqhuxNv3.png" referrerpolicy="no-referrer"><br><img src="https://cdn.jellow.site/FhilB6u9jOzQHGYr7QLPG8YKUA2qv3.png" referrerpolicy="no-referrer"><br><img src="https://cdn.jellow.site/Fgd2HelODMReEOtdwQV3eHl5n0gDv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sun, 22 May 2022 06:50:59 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6289dd53ccde890ee5615c8c</guid>
+            <link>https://m.okjike.com/originalPosts/6289dd53ccde890ee5615c8c</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[大家一起看定点数除法的源码🐵我在努力理解中。 解释：RawValue是用long来表示定点数，高位32位代表整数部分，低位32位代表小数部分。]]></title>
@@ -78,22 +94,6 @@
             <pubDate>Fri, 20 May 2022 11:30:47 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62877be7bff5cbb69e712e39</guid>
             <link>https://m.okjike.com/originalPosts/62877be7bff5cbb69e712e39</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[🤣🤣热乎的，“物件捕捉”App上线了！ 可从App Store上下载！几分钟内即可构建属于自己的三维模型。 使用文档： https://www.yuque.com/phantomsxr/xrmod/vk...]]></title>
-            <description><![CDATA[🤣🤣热乎的，“物件捕捉”App上线了！<br>可从App Store上下载！几分钟内即可构建属于自己的三维模型。<br>使用文档：<br>https://www.yuque.com/phantomsxr/xrmod/vko5gu<br><img src="https://cdn.jellow.site/FlvhPBSBmQ7ghV9jTHLYdslL2mhCv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdn.jellow.site/Fr9ptaTYU-0SetNAELa4P_8Q3-jBv3.png" referrerpolicy="no-referrer"><br><img src="https://cdn.jellow.site/FhCkMfcfcBP0gveB1dDMpbvCxpfkv3.png" referrerpolicy="no-referrer"><br><img src="https://cdn.jellow.site/FvPyJGbWyZ1dDtB3roAaO3f-Mnjbv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 20 May 2022 07:38:36 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6287457c150c9c7214f08382</guid>
-            <link>https://m.okjike.com/originalPosts/6287457c150c9c7214f08382</link>
             
             
             
