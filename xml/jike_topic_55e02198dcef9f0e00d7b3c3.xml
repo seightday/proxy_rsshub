@@ -21,8 +21,40 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sun, 22 May 2022 12:34:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 May 2022 16:28:25 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[Side Project 指南 https://sideproject.guide/ 工作之余，很多程序员喜欢用代码建造一些小工具，通常称之为 Side Project（业余项目）。这份手册总结如何判断一...]]></title>
+            <description><![CDATA[Side Project 指南<br><br>https://sideproject.guide/<br><br>工作之余，很多程序员喜欢用代码建造一些小工具，通常称之为 Side Project（业余项目）。这份手册总结如何判断一个点子的好坏，如何快速实现，如何传播，帮助你用 Side Project 成功赚到钱。]]></description>
+            <pubDate>Sun, 22 May 2022 14:08:07 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/628a43c7824db9fe335d856c</guid>
+            <link>https://m.okjike.com/originalPosts/628a43c7824db9fe335d856c</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[之前读者朋友催更了很久的「建网站」教程终于写完了～ 这是一个「免代码」搭建个人域名网站或作品集的方法。以及最重要的是写在题记里的那句「Never assume the ...]]></title>
+            <description><![CDATA[<img src="http://mmbiz.qpic.cn/mmbiz_jpg/EfdRqR5iaqs02Z7WmBPX6xOLLAGiaJZEskhWas30wzNYXLljGErSpoNQwjrong0gYnyoleUwzEYtqWibB3XSnNcuw/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>                    <a href="https://mp.weixin.qq.com/s/_ztoB8j4o6GTBlhFVKIr8A">如何「免代码」搭建个人网站或作品集？</a><br>                <br>之前读者朋友催更了很久的「建网站」教程终于写完了～<br><br>这是一个「免代码」搭建个人域名网站或作品集的方法。以及最重要的是写在题记里的那句「Never assume the computer assumes anything. <br><br>永远不要假设计算机为你假设了任何前提。」<br><br>Never assume anything.<br><br>文末有彩蛋：）]]></description>
+            <pubDate>Sun, 22 May 2022 12:59:32 GMT</pubDate>
+            <guid isPermaLink="false">https://mp.weixin.qq.com/s/_ztoB8j4o6GTBlhFVKIr8A</guid>
+            <link>https://mp.weixin.qq.com/s/_ztoB8j4o6GTBlhFVKIr8A</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[【技术分享】 只用位运算符，如何实现+-×/呢？ 来跟随杰克小编一起看看吧！ 【原理】 注释里有说明实现原理，希望我的描述能够让人容易理解。 【图示说明】 图1...]]></title>
@@ -73,22 +105,6 @@
         </item>
         
         <item>
-            <title><![CDATA[写 TypeScript 一定要习惯和利用它的类型推导能力。 类型推导的本质好处是打破 type 到 data 的单向性，给予用户 data 到 type 的能力，这样用户就可以合理选择...]]></title>
-            <description><![CDATA[写 TypeScript 一定要习惯和利用它的类型推导能力。<br><br>类型推导的本质好处是打破 type 到 data 的单向性，给予用户 data 到 type 的能力，这样用户就可以合理选择切入点，而不是只能先声明类型，再去声明对应的数据。<br><br>要知道，很多场景下，其实是类型跟着数据走。直接维护一份形态良好且会随时间改变的数据才是最佳选择，否则你会觉得 type 和 data 产生了重复。]]></description>
-            <pubDate>Sat, 21 May 2022 10:54:11 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6288c4d33204b6c2a3b0577d</guid>
-            <link>https://m.okjike.com/originalPosts/6288c4d33204b6c2a3b0577d</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[https://github.com/wfxr/forgit Forgit是一个旨在帮助程序员，活着使用git的用户。 更有效地使用git的工具。它提供了一个用户界面，并使git的许多功能具有交互...]]></title>
             <description><![CDATA[https://github.com/wfxr/forgit<br>Forgit是一个旨在帮助程序员，活着使用git的用户。<br>更有效地使用git的工具。它提供了一个用户界面，并使git的许多功能具有交互性。屏幕截图可用。<br><img src="https://cdn.jellow.site/Fjx6iMwWk8kY0NCzV22xdRakeC92v3.png" referrerpolicy="no-referrer"><br><img src="https://cdn.jellow.site/FiyANVb7ZNrGvPW7gXCLhkPLpR8nv3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Sat, 21 May 2022 04:11:25 GMT</pubDate>
@@ -126,22 +142,6 @@
             <pubDate>Fri, 20 May 2022 00:38:55 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6286e31fc8d0e71675da0bf6</guid>
             <link>https://m.okjike.com/originalPosts/6286e31fc8d0e71675da0bf6</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[杀鸡（gitee）儆猴（github） 互联网不是法外之地，希望 github 你好自为之（狗头）]]></title>
-            <description><![CDATA[杀鸡（gitee）儆猴（github）<br>互联网不是法外之地，希望 github 你好自为之（狗头）<br><img src="https://cdn.jellow.site/FpGv5xqPKhJdXqYaix_T2uQ9S8Cvv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdn.jellow.site/FpNVYdniCkuL53oWcxR-rWZGssAKv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 19 May 2022 05:39:48 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6285d8249c957d00eb5320b3</guid>
-            <link>https://m.okjike.com/originalPosts/6285d8249c957d00eb5320b3</link>
             
             
             
