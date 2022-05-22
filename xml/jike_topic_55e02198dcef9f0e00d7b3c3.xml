@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sat, 21 May 2022 20:22:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 May 2022 01:40:59 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[大家一起看定点数除法的源码🐵我在努力理解中。 解释：RawValue是用long来表示定点数，高位32位代表整数部分，低位32位代表小数部分。]]></title>
+            <description><![CDATA[大家一起看定点数除法的源码🐵我在努力理解中。<br><br>解释：RawValue是用long来表示定点数，高位32位代表整数部分，低位32位代表小数部分。<br><img src="https://cdn.jellow.site/FjS-WdacrX1lYQa9bBZPten6YHwNv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sat, 21 May 2022 15:59:03 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62890c477a7ad5e9ac40109f</guid>
+            <link>https://m.okjike.com/originalPosts/62890c477a7ad5e9ac40109f</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[https://github.com/wfxr/forgit Forgit是一个旨在帮助程序员，活着使用git的用户。 更有效地使用git的工具。它提供了一个用户界面，并使git的许多功能具有交互...]]></title>
@@ -46,22 +62,6 @@
             <pubDate>Fri, 20 May 2022 11:30:47 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62877be7bff5cbb69e712e39</guid>
             <link>https://m.okjike.com/originalPosts/62877be7bff5cbb69e712e39</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[尽管我不喜欢 Gitee，但 Gitee 的开源审核措施不是 Gitee 本身的问题。在一个越发封闭的环境里，Gitee 这样的举措是一种必然。]]></title>
-            <description><![CDATA[尽管我不喜欢 Gitee，但 Gitee 的开源审核措施不是 Gitee 本身的问题。在一个越发封闭的环境里，Gitee 这样的举措是一种必然。]]></description>
-            <pubDate>Fri, 20 May 2022 09:10:47 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62875b175687956af6c213a5</guid>
-            <link>https://m.okjike.com/originalPosts/62875b175687956af6c213a5</link>
             
             
             
