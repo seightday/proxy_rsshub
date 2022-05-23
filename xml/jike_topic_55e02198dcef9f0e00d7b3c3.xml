@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss  xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
 
-
 >
     <channel>
         <title><![CDATA[JitHub - 即刻圈子]]></title>
         <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
-        <atom:link href="https://rsshub/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
+        <atom:link href="https://vercel.getrss2021.xyz/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
         <description><![CDATA[开发者们分享，问答，也可以交友的地方。欢迎所有工程师！ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -21,12 +20,49 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 23 May 2022 04:37:07 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Mon, 23 May 2022 08:26:45 GMT</lastBuildDate>
+        <ttl>5</ttl>
         
         <item>
-            <title><![CDATA[Side Project 指南 https://sideproject.guide/ 工作之余，很多程序员喜欢用代码建造一些小工具，通常称之为 Side Project（业余项目）。这份手册总结如何判断一...]]></title>
-            <description><![CDATA[Side Project 指南<br><br>https://sideproject.guide/<br><br>工作之余，很多程序员喜欢用代码建造一些小工具，通常称之为 Side Project（业余项目）。这份手册总结如何判断一个点子的好坏，如何快速实现，如何传播，帮助你用 Side Project 成功赚到钱。]]></description>
+            <title><![CDATA[淘宝上找3D 打印，打了个绿墙🌚]]></title>
+            <description><![CDATA[<br>淘宝上找3D 打印，打了个绿墙🌚<br><picture><source srcset="https://cdn.jellow.site/FlB47rOj0lo824gbrFvG55Qny829v3.heic?imageMogr2/auto-orient/heic-exif/1/format/jpeg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FlB47rOj0lo824gbrFvG55Qny829v3.heic" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FlB47rOj0lo824gbrFvG55Qny829v3.heic"></picture>]]></description>
+            <pubDate>Mon, 23 May 2022 01:41:30 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/628ae64abe1482302c77a1df</guid>
+            <link>https://m.okjike.com/originalPosts/628ae64abe1482302c77a1df</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[https://youtu.be/OQ5jsbhAv_M
+讲的不错 推荐一下]]></title>
+            <description><![CDATA[<br>https://youtu.be/OQ5jsbhAv_M<br>讲的不错 推荐一下<br><picture><source srcset="https://cdn.jellow.site/Fujr0CEIN_8YmT6dVL9LPo1urwEYv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/Fujr0CEIN_8YmT6dVL9LPo1urwEYv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Fujr0CEIN_8YmT6dVL9LPo1urwEYv3.png"></picture>]]></description>
+            <pubDate>Sun, 22 May 2022 17:03:40 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/628a6cec5687956af629eac8</guid>
+            <link>https://m.okjike.com/originalPosts/628a6cec5687956af629eac8</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Side Project 指南
+
+https://sideproject.guide/
+
+工作之余，很多程序员喜欢用代码建造一些小工具，通常称之为 Side Project（业余项目）。这份手册总结如何判断...]]></title>
+            <description><![CDATA[<br>Side Project 指南<br><br>https://sideproject.guide/<br><br>工作之余，很多程序员喜欢用代码建造一些小工具，通常称之为 Side Project（业余项目）。这份手册总结如何判断一个点子的好坏，如何快速实现，如何传播，帮助你用 Side Project 成功赚到钱。]]></description>
             <pubDate>Sun, 22 May 2022 14:08:07 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/628a43c7824db9fe335d856c</guid>
             <link>https://m.okjike.com/originalPosts/628a43c7824db9fe335d856c</link>
@@ -41,8 +77,10 @@
         </item>
         
         <item>
-            <title><![CDATA[之前读者朋友催更了很久的「建网站」教程终于写完了～ 这是一个「免代码」搭建个人域名网站或作品集的方法。以及最重要的是写在题记里的那句「Never assume the ...]]></title>
-            <description><![CDATA[<img src="http://mmbiz.qpic.cn/mmbiz_jpg/EfdRqR5iaqs02Z7WmBPX6xOLLAGiaJZEskhWas30wzNYXLljGErSpoNQwjrong0gYnyoleUwzEYtqWibB3XSnNcuw/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>                    <a href="https://mp.weixin.qq.com/s/_ztoB8j4o6GTBlhFVKIr8A">如何「免代码」搭建个人网站或作品集？</a><br>                <br>之前读者朋友催更了很久的「建网站」教程终于写完了～<br><br>这是一个「免代码」搭建个人域名网站或作品集的方法。以及最重要的是写在题记里的那句「Never assume the computer assumes anything. <br><br>永远不要假设计算机为你假设了任何前提。」<br><br>Never assume anything.<br><br>文末有彩蛋：）]]></description>
+            <title><![CDATA[之前读者朋友催更了很久的「建网站」教程终于写完了～
+
+这是一个「免代码」搭建个人域名网站或作品集的方法。以及最重要的是写在题记里的那句「Never assume the...]]></title>
+            <description><![CDATA[<br>                    <img referrerpolicy="no-referrer" src="http://mmbiz.qpic.cn/mmbiz_jpg/EfdRqR5iaqs02Z7WmBPX6xOLLAGiaJZEskhWas30wzNYXLljGErSpoNQwjrong0gYnyoleUwzEYtqWibB3XSnNcuw/0?wx_fmt=jpeg"><br>                    <a href="https://mp.weixin.qq.com/s/_ztoB8j4o6GTBlhFVKIr8A">如何「免代码」搭建个人网站或作品集？</a><br>                <br>之前读者朋友催更了很久的「建网站」教程终于写完了～<br><br>这是一个「免代码」搭建个人域名网站或作品集的方法。以及最重要的是写在题记里的那句「Never assume the computer assumes anything. <br><br>永远不要假设计算机为你假设了任何前提。」<br><br>Never assume anything.<br><br>文末有彩蛋：）]]></description>
             <pubDate>Sun, 22 May 2022 12:59:32 GMT</pubDate>
             <guid isPermaLink="false">https://mp.weixin.qq.com/s/_ztoB8j4o6GTBlhFVKIr8A</guid>
             <link>https://mp.weixin.qq.com/s/_ztoB8j4o6GTBlhFVKIr8A</link>
@@ -57,8 +95,16 @@
         </item>
         
         <item>
-            <title><![CDATA[【技术分享】 只用位运算符，如何实现+-×/呢？ 来跟随杰克小编一起看看吧！ 【原理】 注释里有说明实现原理，希望我的描述能够让人容易理解。 【图示说明】 图1...]]></title>
-            <description><![CDATA[【技术分享】<br>只用位运算符，如何实现+-×/呢？<br>来跟随杰克小编一起看看吧！<br><br>【原理】<br>注释里有说明实现原理，希望我的描述能够让人容易理解。<br><br>【图示说明】<br>图1是加法<br>图2是减法<br>图3是乘法<br>图4是除法<br>图5图6是输出运算结果<br><img src="https://cdn.jellow.site/FhKIM4Njl7rR0mWOObJtHH2q99jWv3.png" referrerpolicy="no-referrer"><br><img src="https://cdn.jellow.site/FnF11WCq1Z_EyRksYC9XnP9LF3zRv3.png" referrerpolicy="no-referrer"><br><img src="https://cdn.jellow.site/FllQlU1-ZFZaGucB-quJchAAmVAUv3.png" referrerpolicy="no-referrer"><br><img src="https://cdn.jellow.site/FrrDnzIA8A_t6SYZg10uGnWqhuxNv3.png" referrerpolicy="no-referrer"><br><img src="https://cdn.jellow.site/FhilB6u9jOzQHGYr7QLPG8YKUA2qv3.png" referrerpolicy="no-referrer"><br><img src="https://cdn.jellow.site/Fgd2HelODMReEOtdwQV3eHl5n0gDv3.png" referrerpolicy="no-referrer">]]></description>
+            <title><![CDATA[【技术分享】
+只用位运算符，如何实现+-×/呢？
+来跟随杰克小编一起看看吧！
+
+【原理】
+注释里有说明实现原理，希望我的描述能够让人容易理解。
+
+【图示说明】
+...]]></title>
+            <description><![CDATA[<br>【技术分享】<br>只用位运算符，如何实现+-×/呢？<br>来跟随杰克小编一起看看吧！<br><br>【原理】<br>注释里有说明实现原理，希望我的描述能够让人容易理解。<br><br>【图示说明】<br>图1是加法<br>图2是减法<br>图3是乘法<br>图4是除法<br>图5图6是输出运算结果<br><picture><source srcset="https://cdn.jellow.site/FhKIM4Njl7rR0mWOObJtHH2q99jWv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FhKIM4Njl7rR0mWOObJtHH2q99jWv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FhKIM4Njl7rR0mWOObJtHH2q99jWv3.png"></picture><br><picture><source srcset="https://cdn.jellow.site/FnF11WCq1Z_EyRksYC9XnP9LF3zRv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FnF11WCq1Z_EyRksYC9XnP9LF3zRv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FnF11WCq1Z_EyRksYC9XnP9LF3zRv3.png"></picture><br><picture><source srcset="https://cdn.jellow.site/FllQlU1-ZFZaGucB-quJchAAmVAUv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FllQlU1-ZFZaGucB-quJchAAmVAUv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FllQlU1-ZFZaGucB-quJchAAmVAUv3.png"></picture><br><picture><source srcset="https://cdn.jellow.site/FrrDnzIA8A_t6SYZg10uGnWqhuxNv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FrrDnzIA8A_t6SYZg10uGnWqhuxNv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FrrDnzIA8A_t6SYZg10uGnWqhuxNv3.png"></picture><br><picture><source srcset="https://cdn.jellow.site/FhilB6u9jOzQHGYr7QLPG8YKUA2qv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FhilB6u9jOzQHGYr7QLPG8YKUA2qv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FhilB6u9jOzQHGYr7QLPG8YKUA2qv3.png"></picture><br><picture><source srcset="https://cdn.jellow.site/Fgd2HelODMReEOtdwQV3eHl5n0gDv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/Fgd2HelODMReEOtdwQV3eHl5n0gDv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Fgd2HelODMReEOtdwQV3eHl5n0gDv3.png"></picture>]]></description>
             <pubDate>Sun, 22 May 2022 06:50:59 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6289dd53ccde890ee5615c8c</guid>
             <link>https://m.okjike.com/originalPosts/6289dd53ccde890ee5615c8c</link>
@@ -73,8 +119,9 @@
         </item>
         
         <item>
-            <title><![CDATA[小程序接单报价应该报多少呢？ 目前一天的工资大概1100]]></title>
-            <description><![CDATA[小程序接单报价应该报多少呢？<br>目前一天的工资大概1100]]></description>
+            <title><![CDATA[小程序接单报价应该报多少呢？
+目前一天的工资大概1100]]></title>
+            <description><![CDATA[<br>小程序接单报价应该报多少呢？<br>目前一天的工资大概1100]]></description>
             <pubDate>Sun, 22 May 2022 06:18:01 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6289d599f365e667cf74021b</guid>
             <link>https://m.okjike.com/originalPosts/6289d599f365e667cf74021b</link>
@@ -89,40 +136,10 @@
         </item>
         
         <item>
-            <title><![CDATA[大家一起看定点数除法的源码🐵我在努力理解中。 解释：RawValue是用long来表示定点数，高位32位代表整数部分，低位32位代表小数部分。]]></title>
-            <description><![CDATA[大家一起看定点数除法的源码🐵我在努力理解中。<br><br>解释：RawValue是用long来表示定点数，高位32位代表整数部分，低位32位代表小数部分。<br><img src="https://cdn.jellow.site/FjS-WdacrX1lYQa9bBZPten6YHwNv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 21 May 2022 15:59:03 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62890c477a7ad5e9ac40109f</guid>
-            <link>https://m.okjike.com/originalPosts/62890c477a7ad5e9ac40109f</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[在macOS上跑python爬虫的时候，记得关闭自动进入睡眠，一睡眠爬虫就自动停止报错。]]></title>
-            <description><![CDATA[在macOS上跑python爬虫的时候，记得关闭自动进入睡眠，一睡眠爬虫就自动停止报错。<br><img src="https://cdn.jellow.site/Fp3By7An1-W6OFsORSvQz9ftvZgVv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 21 May 2022 14:05:24 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6288f1a4360fb4affad848d5</guid>
-            <link>https://m.okjike.com/originalPosts/6288f1a4360fb4affad848d5</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[https://github.com/wfxr/forgit Forgit是一个旨在帮助程序员，活着使用git的用户。 更有效地使用git的工具。它提供了一个用户界面，并使git的许多功能具有交互...]]></title>
-            <description><![CDATA[https://github.com/wfxr/forgit<br>Forgit是一个旨在帮助程序员，活着使用git的用户。<br>更有效地使用git的工具。它提供了一个用户界面，并使git的许多功能具有交互性。屏幕截图可用。<br><img src="https://cdn.jellow.site/Fjx6iMwWk8kY0NCzV22xdRakeC92v3.png" referrerpolicy="no-referrer"><br><img src="https://cdn.jellow.site/FiyANVb7ZNrGvPW7gXCLhkPLpR8nv3.png" referrerpolicy="no-referrer">]]></description>
+            <title><![CDATA[https://github.com/wfxr/forgit
+Forgit是一个旨在帮助程序员，活着使用git的用户。
+更有效地使用git的工具。它提供了一个用户界面，并使git的许多功能具有交互...]]></title>
+            <description><![CDATA[<br>https://github.com/wfxr/forgit<br>Forgit是一个旨在帮助程序员，活着使用git的用户。<br>更有效地使用git的工具。它提供了一个用户界面，并使git的许多功能具有交互性。屏幕截图可用。<br><picture><source srcset="https://cdn.jellow.site/Fjx6iMwWk8kY0NCzV22xdRakeC92v3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/Fjx6iMwWk8kY0NCzV22xdRakeC92v3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Fjx6iMwWk8kY0NCzV22xdRakeC92v3.png"></picture><br><picture><source srcset="https://cdn.jellow.site/FiyANVb7ZNrGvPW7gXCLhkPLpR8nv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FiyANVb7ZNrGvPW7gXCLhkPLpR8nv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FiyANVb7ZNrGvPW7gXCLhkPLpR8nv3.png"></picture>]]></description>
             <pubDate>Sat, 21 May 2022 04:11:25 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6288666d824db9fe337bffeb</guid>
             <link>https://m.okjike.com/originalPosts/6288666d824db9fe337bffeb</link>
@@ -138,7 +155,7 @@
         
         <item>
             <title><![CDATA[如何提高编程技术？]]></title>
-            <description><![CDATA[如何提高编程技术？]]></description>
+            <description><![CDATA[<br>如何提高编程技术？]]></description>
             <pubDate>Fri, 20 May 2022 11:30:47 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62877be7bff5cbb69e712e39</guid>
             <link>https://m.okjike.com/originalPosts/62877be7bff5cbb69e712e39</link>
@@ -154,7 +171,7 @@
         
         <item>
             <title><![CDATA[花了两个小时终于弄好了，我的fancy terminal！]]></title>
-            <description><![CDATA[花了两个小时终于弄好了，我的fancy terminal！<br><img src="https://cdn.jellow.site/Fieie8MnVhIZWM1XwkiKMALrHDjNv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[<br>花了两个小时终于弄好了，我的fancy terminal！<br><picture><source srcset="https://cdn.jellow.site/Fieie8MnVhIZWM1XwkiKMALrHDjNv3.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/Fieie8MnVhIZWM1XwkiKMALrHDjNv3.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Fieie8MnVhIZWM1XwkiKMALrHDjNv3.jpg"></picture>]]></description>
             <pubDate>Fri, 20 May 2022 00:38:55 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6286e31fc8d0e71675da0bf6</guid>
             <link>https://m.okjike.com/originalPosts/6286e31fc8d0e71675da0bf6</link>
@@ -170,7 +187,7 @@
         
         <item>
             <title><![CDATA[接了个小程序单，要了3080，那老哥答应的那么爽快。。。 这是要高了还是低了😢]]></title>
-            <description><![CDATA[接了个小程序单，要了3080，那老哥答应的那么爽快。。。 这是要高了还是低了😢<br><img src="https://cdn.jellow.site/Fmczhbf4A0ZhOAasJZeW9-tyFf_av3.jpg" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[<br>接了个小程序单，要了3080，那老哥答应的那么爽快。。。 这是要高了还是低了😢<br><picture><source srcset="https://cdn.jellow.site/Fmczhbf4A0ZhOAasJZeW9-tyFf_av3.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/Fmczhbf4A0ZhOAasJZeW9-tyFf_av3.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Fmczhbf4A0ZhOAasJZeW9-tyFf_av3.jpg"></picture>]]></description>
             <pubDate>Mon, 16 May 2022 15:47:47 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6282722398f334c6e5878e4a</guid>
             <link>https://m.okjike.com/originalPosts/6282722398f334c6e5878e4a</link>
