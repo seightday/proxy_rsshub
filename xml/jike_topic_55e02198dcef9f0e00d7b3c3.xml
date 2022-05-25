@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[JitHub - 即刻圈子]]></title>
         <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
-        <atom:link href="http://rsshub.app/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
         <description><![CDATA[开发者们分享，问答，也可以交友的地方。欢迎所有工程师！ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -21,8 +21,8 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 24 May 2022 19:40:55 GMT</lastBuildDate>
-        <ttl>120</ttl>
+        <lastBuildDate>Wed, 25 May 2022 01:50:52 GMT</lastBuildDate>
+        <ttl>1</ttl>
         
         <item>
             <title><![CDATA[看着程序员工作的一天 无数的电话微信消息 大会小会 边开会边打键盘 听着都累了]]></title>
@@ -78,6 +78,22 @@
             <pubDate>Mon, 23 May 2022 14:38:10 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/628b9c52dc5c6c0e7bf3f1a0</guid>
             <link>https://m.okjike.com/originalPosts/628b9c52dc5c6c0e7bf3f1a0</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[我真的搞不懂，Android开发发展这么多年了，一个列表的上拉加载更多，居然没有官方组件，太离谱了。 🖖格局裂开]]></title>
+            <description><![CDATA[我真的搞不懂，Android开发发展这么多年了，一个列表的上拉加载更多，居然没有官方组件，太离谱了。<br>🖖格局裂开]]></description>
+            <pubDate>Mon, 23 May 2022 13:29:31 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/628b8c3bf365e667cf3f5014</guid>
+            <link>https://m.okjike.com/originalPosts/628b8c3bf365e667cf3f5014</link>
             
             
             
@@ -158,22 +174,6 @@
             <pubDate>Sun, 22 May 2022 06:50:59 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6289dd53ccde890ee5615c8c</guid>
             <link>https://m.okjike.com/originalPosts/6289dd53ccde890ee5615c8c</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[如何提高编程技术？]]></title>
-            <description><![CDATA[如何提高编程技术？]]></description>
-            <pubDate>Fri, 20 May 2022 11:30:47 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62877be7bff5cbb69e712e39</guid>
-            <link>https://m.okjike.com/originalPosts/62877be7bff5cbb69e712e39</link>
             
             
             
