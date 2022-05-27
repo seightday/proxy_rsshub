@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[JitHub - 即刻圈子]]></title>
         <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
-        <atom:link href="https://rsshub/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub.rssforever.com/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
         <description><![CDATA[开发者们分享，问答，也可以交友的地方。欢迎所有工程师！ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -21,12 +21,28 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Fri, 27 May 2022 12:40:34 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Fri, 27 May 2022 16:30:56 GMT</lastBuildDate>
+        <ttl>5</ttl>
+        
+        <item>
+            <title><![CDATA[大家有知道这种类型的图片是怎么生成的吗？]]></title>
+            <description><![CDATA[<br>大家有知道这种类型的图片是怎么生成的吗？<br><picture><source srcset="https://cdn.jellow.site/FtXAun7Ajhe1mUC46D4lAGCX3743v3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FtXAun7Ajhe1mUC46D4lAGCX3743v3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FtXAun7Ajhe1mUC46D4lAGCX3743v3.png"></picture>]]></description>
+            <pubDate>Fri, 27 May 2022 08:32:31 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62908c9f855dfaa9690bbd9a</guid>
+            <link>https://m.okjike.com/originalPosts/62908c9f855dfaa9690bbd9a</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[哪个大冤种的电脑，居然不设防！rm -rf /，走起！]]></title>
-            <description><![CDATA[哪个大冤种的电脑，居然不设防！rm -rf /，走起！<br><img src="https://cdn.jellow.site/FmyhQbs7x_6zkdzwuEo0ojMCGjF5v3.jpeg" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[<br>哪个大冤种的电脑，居然不设防！rm -rf /，走起！<br><picture><source srcset="https://cdn.jellow.site/FmyhQbs7x_6zkdzwuEo0ojMCGjF5v3.jpeg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FmyhQbs7x_6zkdzwuEo0ojMCGjF5v3.jpeg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FmyhQbs7x_6zkdzwuEo0ojMCGjF5v3.jpeg"></picture>]]></description>
             <pubDate>Thu, 26 May 2022 16:15:25 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/628fa79daf16fd2fabbcd286</guid>
             <link>https://m.okjike.com/originalPosts/628fa79daf16fd2fabbcd286</link>
@@ -42,7 +58,7 @@
         
         <item>
             <title><![CDATA[Copilot这也太恐怖了，为什么中文的注释都可以预测出来？？？🥶🥶🥶]]></title>
-            <description><![CDATA[Copilot这也太恐怖了，为什么中文的注释都可以预测出来？？？🥶🥶🥶<br><img src="https://cdn.jellow.site/FrW42gIhR5nQg5zwHa2GJGDupigzv3.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[<br>Copilot这也太恐怖了，为什么中文的注释都可以预测出来？？？🥶🥶🥶<br><picture><source srcset="https://cdn.jellow.site/FrW42gIhR5nQg5zwHa2GJGDupigzv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FrW42gIhR5nQg5zwHa2GJGDupigzv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FrW42gIhR5nQg5zwHa2GJGDupigzv3.png"></picture>]]></description>
             <pubDate>Thu, 26 May 2022 01:29:13 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/628ed7e9855dfaa96934732d</guid>
             <link>https://m.okjike.com/originalPosts/628ed7e9855dfaa96934732d</link>
@@ -57,24 +73,8 @@
         </item>
         
         <item>
-            <title><![CDATA[课余时间在做的小玩意，用wordpress作CMS简单好用易开发，难怪有教授的研究室会开课专门教wordpress。]]></title>
-            <description><![CDATA[课余时间在做的小玩意，用wordpress作CMS简单好用易开发，难怪有教授的研究室会开课专门教wordpress。<br><img src="https://cdn.jellow.site/Fso8T5CScbzCC83CwypAqVZc-vcNv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 25 May 2022 13:21:34 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/628e2d5eaf16fd2fab0b623e</guid>
-            <link>https://m.okjike.com/originalPosts/628e2d5eaf16fd2fab0b623e</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[这个api加粗文字重要语义部分，确实能提高我的阅读速度🤯 https://api.bionic-reading.com/convert/ 我测试了一下，读论文的速度提高1.25到1.6倍左右]]></title>
-            <description><![CDATA[这个api加粗文字重要语义部分，确实能提高我的阅读速度🤯<br>https://api.bionic-reading.com/convert/<br><br>我测试了一下，读论文的速度提高1.25到1.6倍左右<br><img src="https://cdn.jellow.site/FiltbwoEP6-ZgNuxmgfzS47IKtU6v3.jpg" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[<br>这个api加粗文字重要语义部分，确实能提高我的阅读速度🤯<br>https://api.bionic-reading.com/convert/<br><br>我测试了一下，读论文的速度提高1.25到1.6倍左右<br><picture><source srcset="https://cdn.jellow.site/FiltbwoEP6-ZgNuxmgfzS47IKtU6v3.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FiltbwoEP6-ZgNuxmgfzS47IKtU6v3.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FiltbwoEP6-ZgNuxmgfzS47IKtU6v3.jpg"></picture>]]></description>
             <pubDate>Wed, 25 May 2022 13:14:59 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/628e2bd3855dfaa969f7a0d8</guid>
             <link>https://m.okjike.com/originalPosts/628e2bd3855dfaa969f7a0d8</link>
@@ -90,7 +90,7 @@
         
         <item>
             <title><![CDATA[坐标广州的朋友们，运营商好像把github的ip解析到了127.0.0.1 我他喵说为啥我的copilot挂了...]]></title>
-            <description><![CDATA[坐标广州的朋友们，运营商好像把github的ip解析到了127.0.0.1<br><br>我他喵说为啥我的copilot挂了...<br><img src="https://cdn.jellow.site/FvTEjGsRI16rbm0xSYD5i2fpL8kbv3.png" referrerpolicy="no-referrer"><br><img src="https://cdn.jellow.site/FkH4P80EmSL_osgsnWfgjVCBSMIjv3.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[<br>坐标广州的朋友们，运营商好像把github的ip解析到了127.0.0.1<br><br>我他喵说为啥我的copilot挂了...<br><picture><source srcset="https://cdn.jellow.site/FvTEjGsRI16rbm0xSYD5i2fpL8kbv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FvTEjGsRI16rbm0xSYD5i2fpL8kbv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FvTEjGsRI16rbm0xSYD5i2fpL8kbv3.png"></picture><br><picture><source srcset="https://cdn.jellow.site/FkH4P80EmSL_osgsnWfgjVCBSMIjv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FkH4P80EmSL_osgsnWfgjVCBSMIjv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FkH4P80EmSL_osgsnWfgjVCBSMIjv3.png"></picture>]]></description>
             <pubDate>Wed, 25 May 2022 08:16:09 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/628de5c93dbc3dc8d63d0acd</guid>
             <link>https://m.okjike.com/originalPosts/628de5c93dbc3dc8d63d0acd</link>
@@ -106,7 +106,7 @@
         
         <item>
             <title><![CDATA[「OpenAI Codex」的70种应用： GitHub Copilot用于生成代码 Pygma用于将Figma设计转为前端框架代码 Replit用于生成某段代码的解释/作用描述 Warp用于终端代码补...]]></title>
-            <description><![CDATA[<img src="https://openai.com/content/images/2022/05/codex-apps.png" referrerpolicy="no-referrer"><br>                    <a href="https://openai.com/blog/codex-apps/">Powering Next Generation Applications with OpenAI Codex</a><br>                <br>「OpenAI Codex」的70种应用：<br>GitHub Copilot用于生成代码<br>Pygma用于将Figma设计转为前端框架代码<br>Replit用于生成某段代码的解释/作用描述<br>Warp用于终端代码补全<br>Machinet生成Java测试<br>🧐不禁感叹，这些大公司的科研落地能力太强了]]></description>
+            <description><![CDATA[<br>                    <img referrerpolicy="no-referrer" src="https://openai.com/content/images/2022/05/codex-apps.png"><br>                    <a href="https://openai.com/blog/codex-apps/">Powering Next Generation Applications with OpenAI Codex</a><br>                <br>「OpenAI Codex」的70种应用：<br>GitHub Copilot用于生成代码<br>Pygma用于将Figma设计转为前端框架代码<br>Replit用于生成某段代码的解释/作用描述<br>Warp用于终端代码补全<br>Machinet生成Java测试<br>🧐不禁感叹，这些大公司的科研落地能力太强了]]></description>
             <pubDate>Wed, 25 May 2022 07:41:37 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/628dddb1fe3714b94e2d09fb</guid>
             <link>https://m.okjike.com/originalPosts/628dddb1fe3714b94e2d09fb</link>
@@ -122,7 +122,7 @@
         
         <item>
             <title><![CDATA[练过中国功夫的M60坦克！]]></title>
-            <description><![CDATA[练过中国功夫的M60坦克！<br><video src="https://videocdn.jellow.site/lv7vVg-zx4UwCIVBnhUe7DT9o9mO.mp4?sign=5f30e0517e426199ae6cfb0b7f089a1f&amp;t=6290cd56" controls=""></video>]]></description>
+            <description><![CDATA[<br>练过中国功夫的M60坦克！]]></description>
             <pubDate>Wed, 25 May 2022 07:14:21 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/628dd74daf16fd2fabdc2c82</guid>
             <link>https://m.okjike.com/originalPosts/628dd74daf16fd2fabdc2c82</link>
@@ -138,7 +138,7 @@
         
         <item>
             <title><![CDATA[https://learnopengl-cn.github.io/ 大学不是计算机专业，现在开始补图形学基础。 各位大侠都是怎么学习的游戏引擎呢？]]></title>
-            <description><![CDATA[https://learnopengl-cn.github.io/<br>大学不是计算机专业，现在开始补图形学基础。<br>各位大侠都是怎么学习的游戏引擎呢？]]></description>
+            <description><![CDATA[<br>https://learnopengl-cn.github.io/<br>大学不是计算机专业，现在开始补图形学基础。<br>各位大侠都是怎么学习的游戏引擎呢？]]></description>
             <pubDate>Tue, 24 May 2022 11:37:52 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/628cc390ccde890ee5aec310</guid>
             <link>https://m.okjike.com/originalPosts/628cc390ccde890ee5aec310</link>
@@ -154,7 +154,7 @@
         
         <item>
             <title><![CDATA[中文变量名，好用👍🏻]]></title>
-            <description><![CDATA[中文变量名，好用👍🏻<br><img src="https://cdn.jellow.site/FgSxUm6Rufulrsw1zAiIPgNJa-Pxv3.png" referrerpolicy="no-referrer"><br><img src="https://cdn.jellow.site/FipgiYSooiyBCesTFPdPAQXVD1Mdv3.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[<br>中文变量名，好用👍🏻<br><picture><source srcset="https://cdn.jellow.site/FgSxUm6Rufulrsw1zAiIPgNJa-Pxv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FgSxUm6Rufulrsw1zAiIPgNJa-Pxv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FgSxUm6Rufulrsw1zAiIPgNJa-Pxv3.png"></picture><br><picture><source srcset="https://cdn.jellow.site/FipgiYSooiyBCesTFPdPAQXVD1Mdv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FipgiYSooiyBCesTFPdPAQXVD1Mdv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FipgiYSooiyBCesTFPdPAQXVD1Mdv3.png"></picture>]]></description>
             <pubDate>Mon, 23 May 2022 16:50:26 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/628bbb526ab2ff52fcb96e3d</guid>
             <link>https://m.okjike.com/originalPosts/628bbb526ab2ff52fcb96e3d</link>
@@ -170,7 +170,7 @@
         
         <item>
             <title><![CDATA[之前读者朋友催更了很久的「建网站」教程终于写完了～ 这是一个「免代码」搭建个人域名网站或作品集的方法。以及最重要的是写在题记里的那句「Never assume the ...]]></title>
-            <description><![CDATA[<img src="http://mmbiz.qpic.cn/mmbiz_jpg/EfdRqR5iaqs02Z7WmBPX6xOLLAGiaJZEskhWas30wzNYXLljGErSpoNQwjrong0gYnyoleUwzEYtqWibB3XSnNcuw/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>                    <a href="https://mp.weixin.qq.com/s/_ztoB8j4o6GTBlhFVKIr8A">如何「免代码」搭建个人网站或作品集？</a><br>                <br>之前读者朋友催更了很久的「建网站」教程终于写完了～<br><br>这是一个「免代码」搭建个人域名网站或作品集的方法。以及最重要的是写在题记里的那句「Never assume the computer assumes anything. <br><br>永远不要假设计算机为你假设了任何前提。」<br><br>Never assume anything.<br><br>文末有彩蛋：）]]></description>
+            <description><![CDATA[<br>                    <img referrerpolicy="no-referrer" src="http://mmbiz.qpic.cn/mmbiz_jpg/EfdRqR5iaqs02Z7WmBPX6xOLLAGiaJZEskhWas30wzNYXLljGErSpoNQwjrong0gYnyoleUwzEYtqWibB3XSnNcuw/0?wx_fmt=jpeg"><br>                    <a href="https://mp.weixin.qq.com/s/_ztoB8j4o6GTBlhFVKIr8A">如何「免代码」搭建个人网站或作品集？</a><br>                <br>之前读者朋友催更了很久的「建网站」教程终于写完了～<br><br>这是一个「免代码」搭建个人域名网站或作品集的方法。以及最重要的是写在题记里的那句「Never assume the computer assumes anything. <br><br>永远不要假设计算机为你假设了任何前提。」<br><br>Never assume anything.<br><br>文末有彩蛋：）]]></description>
             <pubDate>Sun, 22 May 2022 12:59:32 GMT</pubDate>
             <guid isPermaLink="false">https://mp.weixin.qq.com/s/_ztoB8j4o6GTBlhFVKIr8A</guid>
             <link>https://mp.weixin.qq.com/s/_ztoB8j4o6GTBlhFVKIr8A</link>
