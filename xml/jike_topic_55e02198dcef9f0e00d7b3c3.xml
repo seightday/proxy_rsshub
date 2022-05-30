@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 30 May 2022 04:41:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 08:28:36 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[之前说要写个C# int1类型，实际目的是为了节省bool所占用的空间。 因int1无法在应用层实现（至少得改动到编译器），因此写了个bool8类型。 用时间换空间，解决了...]]></title>
+            <description><![CDATA[之前说要写个C# int1类型，实际目的是为了节省bool所占用的空间。<br><br>因int1无法在应用层实现（至少得改动到编译器），因此写了个bool8类型。<br><br>用时间换空间，解决了需求。<br><img src="https://cdn.jellow.site/FlF_vGH2ihSwnRE9kZ3wSqR4IiRMv3.png" referrerpolicy="no-referrer"><br><img src="https://cdn.jellow.site/Fu4WJo1VZY_kFbgMkOObMokMziIZv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 30 May 2022 02:52:13 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6294315daf16fd2fabc790c7</guid>
+            <link>https://m.okjike.com/originalPosts/6294315daf16fd2fabc790c7</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[UIVERSE.IO —— 开源前端 UI 代码拷贝库 链接：https://uiverse.io 这个网站按控件对很多漂亮的前端 UI 效果进行归类整理，前端工程师可以直接拷贝代码拿来直接...]]></title>
@@ -46,6 +62,22 @@
             <pubDate>Sun, 29 May 2022 13:15:18 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/629371e65518e6971d40cf29</guid>
             <link>https://m.okjike.com/originalPosts/629371e65518e6971d40cf29</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[python语言的websocket的client客户端该怎么长连接啊，csdn快翻烂了，还是几分钟就断开连接😫😫]]></title>
+            <description><![CDATA[python语言的websocket的client客户端该怎么长连接啊，csdn快翻烂了，还是几分钟就断开连接😫😫]]></description>
+            <pubDate>Sun, 29 May 2022 07:21:39 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62931f03db99d5b687f74ec6</guid>
+            <link>https://m.okjike.com/originalPosts/62931f03db99d5b687f74ec6</link>
             
             
             
@@ -142,38 +174,6 @@
             <pubDate>Fri, 27 May 2022 08:32:31 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62908c9f855dfaa9690bbd9a</guid>
             <link>https://m.okjike.com/originalPosts/62908c9f855dfaa9690bbd9a</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[这个api加粗文字重要语义部分，确实能提高我的阅读速度🤯 https://api.bionic-reading.com/convert/ 我测试了一下，读论文的速度提高1.25到1.6倍左右]]></title>
-            <description><![CDATA[这个api加粗文字重要语义部分，确实能提高我的阅读速度🤯<br>https://api.bionic-reading.com/convert/<br><br>我测试了一下，读论文的速度提高1.25到1.6倍左右<br><img src="https://cdn.jellow.site/FiltbwoEP6-ZgNuxmgfzS47IKtU6v3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 25 May 2022 13:14:59 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/628e2bd3855dfaa969f7a0d8</guid>
-            <link>https://m.okjike.com/originalPosts/628e2bd3855dfaa969f7a0d8</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[练过中国功夫的M60坦克！]]></title>
-            <description><![CDATA[练过中国功夫的M60坦克！<br><video src="https://videocdn.jellow.site/lv7vVg-zx4UwCIVBnhUe7DT9o9mO.mp4?sign=4a7299134ba2139826063fccb6f9ab7c&amp;t=6294502d" controls=""></video>]]></description>
-            <pubDate>Wed, 25 May 2022 07:14:21 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/628dd74daf16fd2fabdc2c82</guid>
-            <link>https://m.okjike.com/originalPosts/628dd74daf16fd2fabdc2c82</link>
             
             
             
