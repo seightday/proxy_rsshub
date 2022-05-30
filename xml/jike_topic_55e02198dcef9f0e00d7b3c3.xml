@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 30 May 2022 16:30:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 20:22:41 GMT</lastBuildDate>
         <ttl>1</ttl>
         
         <item>
@@ -46,6 +46,22 @@
             <pubDate>Mon, 30 May 2022 02:52:13 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6294315daf16fd2fabc790c7</guid>
             <link>https://m.okjike.com/originalPosts/6294315daf16fd2fabc790c7</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[新文章：『Hugo + GitHub Action，搭建你的博客自动发布系统』 终于把博客搭建系列坑填完了，包含域名注册解析、Hugo使用、GitHub Pages配置、GitHub Action自动...]]></title>
+            <description><![CDATA[<img src="https://www.pseudoyu.com/images/fly.png" referrerpolicy="no-referrer"><br>                    <a href="https://www.pseudoyu.com/zh/2022/05/29/deploy_your_blog_using_hugo_and_github_action/">Hugo + GitHub Action，搭建你的博客自动发布系统</a><br>                <br>新文章：『Hugo + GitHub Action，搭建你的博客自动发布系统』<br><br>终于把博客搭建系列坑填完了，包含域名注册解析、Hugo使用、GitHub Pages配置、GitHub Action自动发布、域名重定向等，集成了umami网站数据分析与Cusdis评论系统，另外还加了一个Ghost搭建的番外篇。]]></description>
+            <pubDate>Mon, 30 May 2022 01:47:59 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6294224fdb99d5b687683648</guid>
+            <link>https://m.okjike.com/originalPosts/6294224fdb99d5b687683648</link>
             
             
             
@@ -126,22 +142,6 @@
             <pubDate>Sat, 28 May 2022 05:40:01 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6291b5b1855dfaa9699294be</guid>
             <link>https://m.okjike.com/originalPosts/6291b5b1855dfaa9699294be</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Pixcall 是来自国产团队的资源管理软件。 面向设计师、视频工作者，需要对大量本地图片、视频素材进行管理的用户。 体验很丝滑，而且本地功能是免费的。]]></title>
-            <description><![CDATA[Pixcall 是来自国产团队的资源管理软件。<br>面向设计师、视频工作者，需要对大量本地图片、视频素材进行管理的用户。<br><br>体验很丝滑，而且本地功能是免费的。<br><img src="https://cdn.jellow.site/FmRzwMMYtn0ZYfNIDPSxFMCghxrqv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 28 May 2022 01:25:54 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62917a22c9d7be4df5b8dd30</guid>
-            <link>https://m.okjike.com/originalPosts/62917a22c9d7be4df5b8dd30</link>
             
             
             
