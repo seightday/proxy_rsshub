@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 01 Jun 2022 12:46:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2022 16:32:49 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[MacOS完全原生代码编写的 Discord 客户端 https://swiftcordapp.github.io/Swiftcord/]]></title>
+            <description><![CDATA[<span>用户昵称：xinxing <br> Username：55DB8D68-AE63-4811-8365-76ADB0AB2D17</span><br><br>MacOS完全原生代码编写的 Discord 客户端<br>https://swiftcordapp.github.io/Swiftcord/<br><img src="https://cdn.jellow.site/FswaGhEtt9G-TDd1p7fHXAPYDHQ0v3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 01 Jun 2022 13:10:27 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62976543c24c995d9f5441ef</guid>
+            <link>https://m.okjike.com/originalPosts/62976543c24c995d9f5441ef</link>
+            
+            
+            
+            <author><![CDATA[xinxing]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[清华大学开源的这个项目挺有意思啊，输入文字可以生成一段视频]]></title>
@@ -98,22 +114,6 @@
             
             
             <author><![CDATA[Hu胡鹤仙]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[之前说要写个C# int1类型，实际目的是为了节省bool所占用的空间。 因int1无法在应用层实现（至少得改动到编译器），因此写了个bool8类型。 用时间换空间，解决了...]]></title>
-            <description><![CDATA[<span>用户昵称：杰克有茶lv3 <br> Username：C027E21D-DFD6-4F88-AF40-31871E1FB6F4</span><br><br>之前说要写个C# int1类型，实际目的是为了节省bool所占用的空间。<br><br>因int1无法在应用层实现（至少得改动到编译器），因此写了个bool8类型。<br><br>用时间换空间，解决了需求。<br><img src="https://cdn.jellow.site/FlF_vGH2ihSwnRE9kZ3wSqR4IiRMv3.png" referrerpolicy="no-referrer"><br><img src="https://cdn.jellow.site/Fu4WJo1VZY_kFbgMkOObMokMziIZv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 30 May 2022 02:52:13 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6294315daf16fd2fabc790c7</guid>
-            <link>https://m.okjike.com/originalPosts/6294315daf16fd2fabc790c7</link>
-            
-            
-            
-            <author><![CDATA[杰克有茶lv3]]></author>
             
                 
             
