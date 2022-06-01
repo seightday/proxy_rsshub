@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 01 Jun 2022 05:15:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2022 08:31:46 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[清华大学开源的这个项目挺有意思啊，输入文字可以生成一段视频]]></title>
+            <description><![CDATA[<span>用户昵称：Sailing-轻舟 <br> Username：91ae5777-48ea-4683-bbc9-a76f0c8ef386</span><br><br>                    <img src="https://opengraph.githubassets.com/cf726e98901007908913eb6208d2e4d2f76fd7c323bc4960b27d3ae26fc098df/THUDM/CogVideo" referrerpolicy="no-referrer"><br>                    <a href="http://github.com/THUDM/CogVideo">GitHub - THUDM/CogVideo: Text-to-video generation.</a><br>                <br>清华大学开源的这个项目挺有意思啊，输入文字可以生成一段视频]]></description>
+            <pubDate>Wed, 01 Jun 2022 04:32:40 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6296ebe80ab5c3f4dd13939f</guid>
+            <link>https://m.okjike.com/originalPosts/6296ebe80ab5c3f4dd13939f</link>
+            
+            
+            
+            <author><![CDATA[Sailing-轻舟]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[之前我做过吹气检测的糟糕的尝试，确实不容易。吹气的噪音的特点是比较频谱分布平均和说话不太一样，我做了频谱分析然后判断是不是平均大概达到一个值，但是还是...]]></title>
@@ -98,22 +114,6 @@
             
             
             <author><![CDATA[杰克有茶lv3]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[新文章：『Hugo + GitHub Action，搭建你的博客自动发布系统』 终于把博客搭建系列坑填完了，包含域名注册解析、Hugo使用、GitHub Pages配置、GitHub Action自动...]]></title>
-            <description><![CDATA[<span>用户昵称：pseudoyu <br> Username：c4db90d4-3e4f-4b72-9f9f-4d0161380842</span><br><br>                    <img src="https://www.pseudoyu.com/images/fly.png" referrerpolicy="no-referrer"><br>                    <a href="https://www.pseudoyu.com/zh/2022/05/29/deploy_your_blog_using_hugo_and_github_action/">Hugo + GitHub Action，搭建你的博客自动发布系统</a><br>                <br>新文章：『Hugo + GitHub Action，搭建你的博客自动发布系统』<br><br>终于把博客搭建系列坑填完了，包含域名注册解析、Hugo使用、GitHub Pages配置、GitHub Action自动发布、域名重定向等，集成了umami网站数据分析与Cusdis评论系统，另外还加了一个Ghost搭建的番外篇。]]></description>
-            <pubDate>Mon, 30 May 2022 01:47:59 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6294224fdb99d5b687683648</guid>
-            <link>https://m.okjike.com/originalPosts/6294224fdb99d5b687683648</link>
-            
-            
-            
-            <author><![CDATA[pseudoyu]]></author>
             
                 
             
