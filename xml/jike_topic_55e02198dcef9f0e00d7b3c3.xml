@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sat, 04 Jun 2022 12:31:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 16:25:35 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[随便写点东西。 最近在写节点编辑器，本来只是受 blender houdini ASE 之类软件启发，想做一个数值计算工具玩玩，用来做策划辅助。虽然市面有 machinations.io ...]]></title>
+            <description><![CDATA[<span>用户昵称：Houdou <br> Username：B34DAE09-E29F-4AAE-AF7E-3171B1A58650</span><br><br>随便写点东西。<br><br>最近在写节点编辑器，本来只是受 blender houdini  ASE 之类软件启发，想做一个数值计算工具玩玩，用来做策划辅助。虽然市面有 machinations.io 这种产品了，但是稍微有点难用，还变成订阅制收费了。正巧还有别的场景需要一个节点编辑器，就决定自己造轮子了。<br><br>相比于线性的信息，或许网状的图更符合人的理解方式。自从接触节点式编程以来，越来越习惯于这种方式。表达也更自然，也更容易阅读。人可以在阅读图的时候，获取更多维度的信息。除了文字，节点的位置，连线方向，甚至颜色样式等等都可以提供辅助信息。读者一眼就能读懂（当然前提是输出信息的人编排合理）。<br><br>可惜的是，代码也好，日常文字也好，线性编排已经固化成为最广泛使用的信息拓扑结构了。现在来说，产出一幅容易阅读的图并不是一件容易的事。抛开思维方式的转变，工具的普及性和易用性仍然是一个大问题。<br><br>记得初中的时候，买过几本概念地图的教辅。把知识点按照不同类型聚合，总结关系和对比画成图，确实很容易理解和记忆，甚是喜欢。相比之下，其他大部分笔记观念还停留在划重点这种简单筛选上。当时还没意识到，那是多么高级的一种学习辅助。<br><br>思维导图在我看来就是一个好的方向。但是很多思维导图有一个致命的限制：必须按照树状结构来组织信息。虽然一部分场景这样可以满足需求，但是很多时候并不是简单的总分或者父子关系就可以概括信息。多关联性是普遍存在的，一定要约束一个先后或者层级就会造成信息的丢失。<br><br>当然，如果信息本身不复杂，线性编排肯定是够用的。好的编排展开方式可以将复杂关系有条理地铺开，让接收方在读完之后能自然地拓展成完整的信息关联。肯定听语文老师们讲过“总-分-总”吧。但退一步想，如果这个信息传达过程本身并不需要这样一维展开再组装呢？<br><br>想了想，造成这个局面的本质原因还是人类只进化出声带来传达信息吧。声音演化出的文字也只能保留这一维的特性。维度的差距实在难以跨越。唉，明明人类进步的最大障碍（自称）就是同步上下文。什么时候人能随心所欲传达二维信息了，人类或许就能走向下一个阶段吧。<br><br>所以，我想写个节点编辑器。]]></description>
+            <pubDate>Sat, 04 Jun 2022 02:22:26 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/629ac1e2bea23da6f2aa8125</guid>
+            <link>https://m.okjike.com/originalPosts/629ac1e2bea23da6f2aa8125</link>
+            
+            
+            
+            <author><![CDATA[Houdou]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[我要是能认认真真把这几本书都看完，我觉得我也还挺厉害的了.... 可是我耐不住性子😣，自从大学以来，无论是技术书籍还是人文书籍我都看的很少，基本没有完整...]]></title>
@@ -146,22 +162,6 @@
             
             
             <author><![CDATA[-..-]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[UIVERSE.IO —— 开源前端 UI 代码拷贝库 链接：https://uiverse.io 这个网站按控件对很多漂亮的前端 UI 效果进行归类整理，前端工程师可以直接拷贝代码拿来直接...]]></title>
-            <description><![CDATA[<span>用户昵称：龙爪槐守望者 <br> Username：2FCBB59D-93C2-488A-AFBD-38B70B267742</span><br><br>UIVERSE.IO —— 开源前端 UI 代码拷贝库<br>链接：https://uiverse.io<br>这个网站按控件对很多漂亮的前端 UI 效果进行归类整理，前端工程师可以直接拷贝代码拿来直接用，支持在线调整预览效果。<br><img src="https://cdn.jellow.site/Fv0Hd0F4F25utaHz3ZlR_-2ZUfvLv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sun, 29 May 2022 14:07:21 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62937e19db99d5b6872e02be</guid>
-            <link>https://m.okjike.com/originalPosts/62937e19db99d5b6872e02be</link>
-            
-            
-            
-            <author><![CDATA[龙爪槐守望者]]></author>
             
                 
             
