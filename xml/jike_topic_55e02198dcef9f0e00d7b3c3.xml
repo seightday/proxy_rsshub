@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sun, 05 Jun 2022 01:51:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2022 04:23:20 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[Google开源了一个利用SIMD的快速排序算法，比C++ std::sort快10倍]]></title>
+            <description><![CDATA[<span>用户昵称：即刻Engineering <br> Username：C3AD9499-902F-4772-9D0C-F4C8BF41C9CA</span><br><br>                    <img src="https://cdn.jellow.site/icons/link.png" referrerpolicy="no-referrer"><br>                    <a href="https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html?m=1">https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html?m=1</a><br>                <br>Google开源了一个利用SIMD的快速排序算法，比C++ std::sort快10倍]]></description>
+            <pubDate>Sun, 05 Jun 2022 01:55:29 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/629c0d1193437b563a2182cb</guid>
+            <link>https://m.okjike.com/originalPosts/629c0d1193437b563a2182cb</link>
+            
+            
+            
+            <author><![CDATA[即刻Engineering]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[老人使用智能手机，发现能下载的老人桌面都不尽人意，很不舒服。最后在GitHub上找到个意大利开发者的代码，添加中文支持，修改一下界面。完美！]]></title>
@@ -114,22 +130,6 @@
             
             
             <author><![CDATA[xinxing]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[虽然程序员老把抽象挂在嘴上，但千万不要觉得他们的抽象思维有多强，因为程序员嘴上的抽象，有很大可能，只是想让自己能轻松容易一点。不信让我们来举点例子： 1...]]></title>
-            <description><![CDATA[<span>用户昵称：西了意 <br> Username：8741d6e6-eae7-4d4d-9e11-5622ea5b51e8</span><br><br>虽然程序员老把抽象挂在嘴上，但千万不要觉得他们的抽象思维有多强，因为程序员嘴上的抽象，有很大可能，只是想让自己能轻松容易一点。不信让我们来举点例子：<br><br>1. 可能：一方面觉得接口与实现分离好厉害，一方面不理解也不愿意把数据和行为分离。<br><br>2. 可能：一方面觉得复用好厉害，一方面不理解也不愿意把独立的行为或数据处理逻辑抽离（如果不能用在两个以上地方的话）。<br><br>3. 可能：一方面对代码耦合极度厌恶，一方面对 sum 和 product type 接受无能。<br><br>4. 可能：一方面厌恶面条代码，一方面觉得 pipeline 就是高级版的面条代码<br><br>5. 可能：你噼里啪啦说了一堆，对方回复「不就是…么」]]></description>
-            <pubDate>Fri, 03 Jun 2022 05:48:03 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6299a093bea23da6f22b39d1</guid>
-            <link>https://m.okjike.com/originalPosts/6299a093bea23da6f22b39d1</link>
-            
-            
-            
-            <author><![CDATA[西了意]]></author>
             
                 
             
