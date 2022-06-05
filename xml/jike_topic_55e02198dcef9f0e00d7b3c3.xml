@@ -21,8 +21,40 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sat, 04 Jun 2022 20:19:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2022 01:51:41 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[老人使用智能手机，发现能下载的老人桌面都不尽人意，很不舒服。最后在GitHub上找到个意大利开发者的代码，添加中文支持，修改一下界面。完美！]]></title>
+            <description><![CDATA[<span>用户昵称：高能施工队 <br> Username：206ca5b7-e1e9-427b-b0f2-2e98ec2d74f0</span><br><br>老人使用智能手机，发现能下载的老人桌面都不尽人意，很不舒服。最后在GitHub上找到个意大利开发者的代码，添加中文支持，修改一下界面。完美！<br><img src="https://cdn.jellow.site/FvdPCBmrkTa6rzagdwQpLAaoKSnnv3.png" referrerpolicy="no-referrer"><br><img src="https://cdn.jellow.site/FsJYgqDXkmkL_yhKqGIoN75el2lyv3.png" referrerpolicy="no-referrer"><br><img src="https://cdn.jellow.site/FoE-ih1NMy_AA_X0o0gpZkgklu41v3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sat, 04 Jun 2022 10:23:38 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/629b32aa93437b563acb4089</guid>
+            <link>https://m.okjike.com/originalPosts/629b32aa93437b563acb4089</link>
+            
+            
+            
+            <author><![CDATA[高能施工队]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[最近在学js，发现数组的方法名还挺有意思的，很有画面感，可以把数组想象成一个管子。 队尾添加元素是push推，可以想象挤地铁的使劲往里面推，进去的就是队尾。 ...]]></title>
+            <description><![CDATA[<span>用户昵称：莫使惹尘埃 <br> Username：26f01774-2259-4f6f-ae9c-f4bb547390ea</span><br><br>最近在学js，发现数组的方法名还挺有意思的，很有画面感，可以把数组想象成一个管子。<br><br>队尾添加元素是push推，可以想象挤地铁的使劲往里面推，进去的就是队尾。<br><br>队尾删除元素是pop，好像还有拉💩的意思，把最后一个元素像💩一样拉出来。<br><br>头部删除是shift，从管子的头部拉一个元素出来，砍掉<br><br>头部添加是unshift，不删除，就是添加。<br><br>再次感觉到了javaScript这种语言的草率🐶<img src="https://cdn.jellow.site/FvM3vWM2wBeRQ3jAmUxcAXo6OQ9fv3.0" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sat, 04 Jun 2022 09:19:55 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/629b23bb1ea96c2b5b85f721</guid>
+            <link>https://m.okjike.com/originalPosts/629b23bb1ea96c2b5b85f721</link>
+            
+            
+            
+            <author><![CDATA[莫使惹尘埃]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[随便写点东西。 最近在写节点编辑器，本来只是受 blender houdini ASE 之类软件启发，想做一个数值计算工具玩玩，用来做策划辅助。虽然市面有 machinations.io ...]]></title>
@@ -98,38 +130,6 @@
             
             
             <author><![CDATA[西了意]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[有个舍友说话声音真的超大 好聒噪 而且一个LaTex下载一天下不明白 我是真的不理解 csdn上明明那么多傻瓜教程啊 计算机系学生下不好latex还怪老师了😓 而且自己...]]></title>
-            <description><![CDATA[<span>用户昵称：run_2u <br> Username：177e52d5-d633-43ef-9946-62e655322617</span><br><br>有个舍友说话声音真的超大<br>好聒噪<br>而且一个LaTex下载一天下不明白<br>我是真的不理解<br>csdn上明明那么多傻瓜教程啊<br>计算机系学生下不好latex还怪老师了😓<br>而且自己不会也不知道查 不问我<br>不想着怎么解决问题<br>而是一直抱怨<br>这是最讨厌的😪]]></description>
-            <pubDate>Wed, 01 Jun 2022 14:59:09 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62977ebde05a237c6ddb1093</guid>
-            <link>https://m.okjike.com/originalPosts/62977ebde05a237c6ddb1093</link>
-            
-            
-            
-            <author><![CDATA[run_2u]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[MacOS完全原生代码编写的 Discord 客户端 https://swiftcordapp.github.io/Swiftcord/]]></title>
-            <description><![CDATA[<span>用户昵称：xinxing <br> Username：55DB8D68-AE63-4811-8365-76ADB0AB2D17</span><br><br>MacOS完全原生代码编写的 Discord 客户端<br>https://swiftcordapp.github.io/Swiftcord/<br><img src="https://cdn.jellow.site/FswaGhEtt9G-TDd1p7fHXAPYDHQ0v3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 01 Jun 2022 13:10:27 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62976543c24c995d9f5441ef</guid>
-            <link>https://m.okjike.com/originalPosts/62976543c24c995d9f5441ef</link>
-            
-            
-            
-            <author><![CDATA[xinxing]]></author>
             
                 
             
