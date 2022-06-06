@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 06 Jun 2022 12:40:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2022 16:29:23 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[github彻底上不去了，准备搬到gitlab或者codeberg😭]]></title>
+            <description><![CDATA[<span>用户昵称：不会画画的王小明 <br> Username：082ba126-59d1-44c8-8c84-1a84b9fc2bf8</span><br><br>github彻底上不去了，准备搬到gitlab或者codeberg😭]]></description>
+            <pubDate>Mon, 06 Jun 2022 10:02:22 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/629dd0aedb9bfd260d532b70</guid>
+            <link>https://m.okjike.com/originalPosts/629dd0aedb9bfd260d532b70</link>
+            
+            
+            
+            <author><![CDATA[不会画画的王小明]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[在改一老项目，这个 Copilot 给我的打马虎眼了，return ‘Hello World’都来了。 不行啊，起来干活了 Copilot！！🤖️]]></title>
@@ -162,22 +178,6 @@
             
             
             <author><![CDATA[xinxing]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[清华大学开源的这个项目挺有意思啊，输入文字可以生成一段视频]]></title>
-            <description><![CDATA[<span>用户昵称：Sailing-轻舟 <br> Username：91ae5777-48ea-4683-bbc9-a76f0c8ef386</span><br><br>                    <img src="https://opengraph.githubassets.com/cf726e98901007908913eb6208d2e4d2f76fd7c323bc4960b27d3ae26fc098df/THUDM/CogVideo" referrerpolicy="no-referrer"><br>                    <a href="http://github.com/THUDM/CogVideo">GitHub - THUDM/CogVideo: Text-to-video generation.</a><br>                <br>清华大学开源的这个项目挺有意思啊，输入文字可以生成一段视频]]></description>
-            <pubDate>Wed, 01 Jun 2022 04:32:40 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6296ebe80ab5c3f4dd13939f</guid>
-            <link>https://m.okjike.com/originalPosts/6296ebe80ab5c3f4dd13939f</link>
-            
-            
-            
-            <author><![CDATA[Sailing-轻舟]]></author>
             
                 
             
