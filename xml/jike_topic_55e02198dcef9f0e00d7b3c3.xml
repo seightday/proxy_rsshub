@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sun, 05 Jun 2022 20:19:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2022 01:49:43 GMT</lastBuildDate>
         <ttl>1</ttl>
         
         <item>
@@ -34,6 +34,22 @@
             
             
             <author><![CDATA[杰克有茶lv3]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[之前整理了一下自己的软硬件建了一个 GitHub 项目，没想到半个多月到了 100 star，虽然是个 Markdown 项目，也还挺开心挺有纪念意义的，就当作是一个开始了。 立...]]></title>
+            <description><![CDATA[<span>用户昵称：pseudoyu <br> Username：c4db90d4-3e4f-4b72-9f9f-4d0161380842</span><br><br>之前整理了一下自己的软硬件建了一个 GitHub 项目，没想到半个多月到了 100 star，虽然是个 Markdown 项目，也还挺开心挺有纪念意义的，就当作是一个开始了。<br><br>立个 flag，明天开始新的一岁里要多看书，多写代码，多写技术博客，尽可能参加一些开源。<br><br>https://github.com/pseudoyu/yu-tools<br><img src="https://cdn.jellow.site/Fir5oLKSD8QSyg9VZ4TACAixU15fv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sun, 05 Jun 2022 05:13:02 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/629c3b5e7a89189f100e7c94</guid>
+            <link>https://m.okjike.com/originalPosts/629c3b5e7a89189f100e7c94</link>
+            
+            
+            
+            <author><![CDATA[pseudoyu]]></author>
             
                 
             
@@ -82,22 +98,6 @@
             
             
             <author><![CDATA[高能施工队]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[最近在学js，发现数组的方法名还挺有意思的，很有画面感，可以把数组想象成一个管子。 队尾添加元素是push推，可以想象挤地铁的使劲往里面推，进去的就是队尾。 ...]]></title>
-            <description><![CDATA[<span>用户昵称：莫使惹尘埃 <br> Username：26f01774-2259-4f6f-ae9c-f4bb547390ea</span><br><br>最近在学js，发现数组的方法名还挺有意思的，很有画面感，可以把数组想象成一个管子。<br><br>队尾添加元素是push推，可以想象挤地铁的使劲往里面推，进去的就是队尾。<br><br>队尾删除元素是pop，好像还有拉💩的意思，把最后一个元素像💩一样拉出来。<br><br>头部删除是shift，从管子的头部拉一个元素出来，砍掉<br><br>头部添加是unshift，不删除，就是添加。<br><br>再次感觉到了javaScript这种语言的草率🐶<img src="https://cdn.jellow.site/FvM3vWM2wBeRQ3jAmUxcAXo6OQ9fv3.0" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 04 Jun 2022 09:19:55 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/629b23bb1ea96c2b5b85f721</guid>
-            <link>https://m.okjike.com/originalPosts/629b23bb1ea96c2b5b85f721</link>
-            
-            
-            
-            <author><![CDATA[莫使惹尘埃]]></author>
             
                 
             
