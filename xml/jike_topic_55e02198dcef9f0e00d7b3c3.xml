@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 08 Jun 2022 01:45:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 04:33:39 GMT</lastBuildDate>
         <ttl>1</ttl>
         
         <item>
@@ -34,6 +34,38 @@
             
             
             <author><![CDATA[不完全炸毛]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Area120是谷歌的内部产品孵化器，容许员工在公司内建立自己的Startup，开发实验性项目，上面有一些很好玩的产品。 https://area120.google.com/#latest]]></title>
+            <description><![CDATA[<span>用户昵称：xinxing <br> Username：55DB8D68-AE63-4811-8365-76ADB0AB2D17</span><br><br>Area120是谷歌的内部产品孵化器，容许员工在公司内建立自己的Startup，开发实验性项目，上面有一些很好玩的产品。<br><br>https://area120.google.com/#latest <br><img src="https://cdn.jellow.site/FmOajyEcJDJw9QV6PZENPdDurxwHv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 07 Jun 2022 11:10:03 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/629f320b4765357a9db8f08b</guid>
+            <link>https://m.okjike.com/originalPosts/629f320b4765357a9db8f08b</link>
+            
+            
+            
+            <author><![CDATA[xinxing]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[原来已经有人实现了 Electron 差量更新。]]></title>
+            <description><![CDATA[<span>用户昵称：Airyland <br> Username：C6C8DE3A-E89D-4978-9E7D-B2E167D835A9</span><br><br>                    <img src="https://image-322k.onrender.com/image?link=https://electrondelta.com" referrerpolicy="no-referrer"><br>                    <a href="https://electrondelta.com/">electron-delta</a><br>                <br>原来已经有人实现了 Electron 差量更新。]]></description>
+            <pubDate>Tue, 07 Jun 2022 08:50:49 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/629f11694765357a9da5c89a</guid>
+            <link>https://m.okjike.com/originalPosts/629f11694765357a9da5c89a</link>
+            
+            
+            
+            <author><![CDATA[Airyland]]></author>
             
                 
             
@@ -121,22 +153,6 @@
         </item>
         
         <item>
-            <title><![CDATA[之前整理了一下自己的软硬件建了一个 GitHub 项目，没想到半个多月到了 100 star，虽然是个 Markdown 项目，也还挺开心挺有纪念意义的，就当作是一个开始了。 立...]]></title>
-            <description><![CDATA[<span>用户昵称：pseudoyu <br> Username：c4db90d4-3e4f-4b72-9f9f-4d0161380842</span><br><br>之前整理了一下自己的软硬件建了一个 GitHub 项目，没想到半个多月到了 100 star，虽然是个 Markdown 项目，也还挺开心挺有纪念意义的，就当作是一个开始了。<br><br>立个 flag，明天开始新的一岁里要多看书，多写代码，多写技术博客，尽可能参加一些开源。<br><br>https://github.com/pseudoyu/yu-tools<br><img src="https://cdn.jellow.site/Fir5oLKSD8QSyg9VZ4TACAixU15fv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sun, 05 Jun 2022 05:13:02 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/629c3b5e7a89189f100e7c94</guid>
-            <link>https://m.okjike.com/originalPosts/629c3b5e7a89189f100e7c94</link>
-            
-            
-            
-            <author><![CDATA[pseudoyu]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Google开源了一个利用SIMD的快速排序算法，比C++ std::sort快10倍]]></title>
             <description><![CDATA[<span>用户昵称：即刻Engineering <br> Username：C3AD9499-902F-4772-9D0C-F4C8BF41C9CA</span><br><br>                    <img src="https://cdn.jellow.site/icons/link.png" referrerpolicy="no-referrer"><br>                    <a href="https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html?m=1">https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html?m=1</a><br>                <br>Google开源了一个利用SIMD的快速排序算法，比C++ std::sort快10倍]]></description>
             <pubDate>Sun, 05 Jun 2022 01:55:29 GMT</pubDate>
@@ -146,22 +162,6 @@
             
             
             <author><![CDATA[即刻Engineering]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Karabiner Elements 是一个开源的macOS键盘映射工具，可以搭配 https://github.com/Vonng/Capslock 把Capslock变成一个强大的功能修饰键Hyper，对70%以下配列的...]]></title>
-            <description><![CDATA[<span>用户昵称：赵小轩 <br> Username：75ad023f-d0ef-42bf-b448-a4cafe938624</span><br><br>Karabiner Elements 是一个开源的macOS键盘映射工具，可以搭配 https://github.com/Vonng/Capslock 把Capslock变成一个强大的功能修饰键Hyper，对70%以下配列的键盘党简直救星。<br><img src="https://cdn.jellow.site/FklLm2dcU6-fReKdSMTMxh_MYVlnv3.png" referrerpolicy="no-referrer"><br><img src="https://cdn.jellow.site/FvwmcjebrDBz6zBZbQzJGgZHZp0pv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sun, 05 Jun 2022 00:58:01 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/629bff99844f69eee5012271</guid>
-            <link>https://m.okjike.com/originalPosts/629bff99844f69eee5012271</link>
-            
-            
-            
-            <author><![CDATA[赵小轩]]></author>
             
                 
             
