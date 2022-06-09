@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[JitHub - 即刻圈子]]></title>
         <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
-        <atom:link href="https://rsshub/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub.rssforever.com/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
         <description><![CDATA[开发者们分享，问答，也可以交友的地方。欢迎所有工程师！ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 09 Jun 2022 12:40:50 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Thu, 09 Jun 2022 16:29:15 GMT</lastBuildDate>
+        <ttl>5</ttl>
+        
+        <item>
+            <title><![CDATA[害怕，在b站发了个动态吐槽nodejs。 顺手吊了一顿腾讯云的CIDI文档。 结果居然有腾讯云的工作人员专门来回复我，对接解释这个文档问题。 这风控系统这么强的吗？...]]></title>
+            <description><![CDATA[<span>用户昵称：苍麟 <br> Username：4d437de1-d746-4bbe-b24f-86b171bc7f6d</span><br><br>害怕，在b站发了个动态吐槽nodejs。 顺手吊了一顿腾讯云的CIDI文档。<br>结果居然有腾讯云的工作人员专门来回复我，对接解释这个文档问题。<br><br>这风控系统这么强的吗？<br><br>我才1w粉，就一默默无闻的路人，可能是即将618了，云厂商那边加大了风控系统的资源调度吧。 全网爬虫高强度扫描]]></description>
+            <pubDate>Thu, 09 Jun 2022 04:46:25 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62a17b21d643574bb53d18e1</guid>
+            <link>https://m.okjike.com/originalPosts/62a17b21d643574bb53d18e1</link>
+            
+            
+            
+            <author><![CDATA[苍麟]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[shell和cmd要各写一份 x 用nodejs/python写批处理 ✓]]></title>
@@ -90,7 +106,7 @@
         
         <item>
             <title><![CDATA[Roomplan APIs结合XRMOD Engine UDM系统🤩实现在线实时在线软装设计！ 完美！]]></title>
-            <description><![CDATA[<span>用户昵称：NSWell <br> Username：954520B4-3BA4-44AC-9B41-B046770A245C</span><br><br>Roomplan APIs结合XRMOD Engine UDM系统🤩实现在线实时在线软装设计！ 完美！<br><video src="https://videocdn.jellow.site/lr3jCxOdj8Sp2L82FG5Y_BvrEIo1.mp4?sign=af8dcad5569cceda14ac6237802b6d91&amp;t=62a1f15a" controls=""></video>]]></description>
+            <description><![CDATA[<span>用户昵称：NSWell <br> Username：954520B4-3BA4-44AC-9B41-B046770A245C</span><br><br>Roomplan APIs结合XRMOD Engine UDM系统🤩实现在线实时在线软装设计！ 完美！<br><video src="https://videocdn.jellow.site/lr3jCxOdj8Sp2L82FG5Y_BvrEIo1.mp4?sign=416ab0b955ef732412ca488249bd2e8f&amp;t=62a224ca" controls=""></video>]]></description>
             <pubDate>Wed, 08 Jun 2022 07:10:17 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62a04b599a3118112b9f80dc</guid>
             <link>https://m.okjike.com/originalPosts/62a04b599a3118112b9f80dc</link>
@@ -114,22 +130,6 @@
             
             
             <author><![CDATA[山高路远.稳中求进]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Area120是谷歌的内部产品孵化器，容许员工在公司内建立自己的Startup，开发实验性项目，上面有一些很好玩的产品。 https://area120.google.com/#latest]]></title>
-            <description><![CDATA[<span>用户昵称：xinxing <br> Username：55DB8D68-AE63-4811-8365-76ADB0AB2D17</span><br><br>Area120是谷歌的内部产品孵化器，容许员工在公司内建立自己的Startup，开发实验性项目，上面有一些很好玩的产品。<br><br>https://area120.google.com/#latest <br><img src="https://cdn.jellow.site/FmOajyEcJDJw9QV6PZENPdDurxwHv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 07 Jun 2022 11:10:03 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/629f320b4765357a9db8f08b</guid>
-            <link>https://m.okjike.com/originalPosts/629f320b4765357a9db8f08b</link>
-            
-            
-            
-            <author><![CDATA[xinxing]]></author>
             
                 
             
