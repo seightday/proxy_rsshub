@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[JitHub - 即刻圈子]]></title>
         <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
-        <atom:link href="https://rsshub.rssforever.com/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
         <description><![CDATA[开发者们分享，问答，也可以交友的地方。欢迎所有工程师！ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -21,8 +21,8 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 09 Jun 2022 16:29:15 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Thu, 09 Jun 2022 20:25:44 GMT</lastBuildDate>
+        <ttl>1</ttl>
         
         <item>
             <title><![CDATA[害怕，在b站发了个动态吐槽nodejs。 顺手吊了一顿腾讯云的CIDI文档。 结果居然有腾讯云的工作人员专门来回复我，对接解释这个文档问题。 这风控系统这么强的吗？...]]></title>
@@ -106,7 +106,7 @@
         
         <item>
             <title><![CDATA[Roomplan APIs结合XRMOD Engine UDM系统🤩实现在线实时在线软装设计！ 完美！]]></title>
-            <description><![CDATA[<span>用户昵称：NSWell <br> Username：954520B4-3BA4-44AC-9B41-B046770A245C</span><br><br>Roomplan APIs结合XRMOD Engine UDM系统🤩实现在线实时在线软装设计！ 完美！<br><video src="https://videocdn.jellow.site/lr3jCxOdj8Sp2L82FG5Y_BvrEIo1.mp4?sign=416ab0b955ef732412ca488249bd2e8f&amp;t=62a224ca" controls=""></video>]]></description>
+            <description><![CDATA[<span>用户昵称：NSWell <br> Username：954520B4-3BA4-44AC-9B41-B046770A245C</span><br><br>Roomplan APIs结合XRMOD Engine UDM系统🤩实现在线实时在线软装设计！ 完美！<br><video src="https://videocdn.jellow.site/lr3jCxOdj8Sp2L82FG5Y_BvrEIo1.mp4?sign=8ff57ced80f27a18f508eb5494d5b7c5&amp;t=62a25e50" controls=""></video>]]></description>
             <pubDate>Wed, 08 Jun 2022 07:10:17 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62a04b599a3118112b9f80dc</guid>
             <link>https://m.okjike.com/originalPosts/62a04b599a3118112b9f80dc</link>
