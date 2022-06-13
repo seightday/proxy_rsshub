@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 13 Jun 2022 01:57:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 04:42:15 GMT</lastBuildDate>
         <ttl>1</ttl>
         
         <item>
@@ -34,6 +34,22 @@
             
             
             <author><![CDATA[杰克有茶-999hp]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[今天把String字串常见的用法给学了 \n 换行 \“ \” Length 测一个字串的长度 ToUpper() 把字符转成大写 ToLower() 把字符转小写 Contains() 判断一个字串是否含...]]></title>
+            <description><![CDATA[<span>用户昵称：袁迪庚Ruslan <br> Username：F96E535F-F068-4A47-8EA2-32A290CEA300</span><br><br>今天把String字串常见的用法给学了<br><br>\n <br>换行<br><br>\“ <br>\”<br><br>Length <br>测一个字串的长度<br><br>ToUpper() <br>把字符转成大写<br><br>ToLower() <br>把字符转小写<br><br>Contains() <br>判断一个字串是否含有子字串<br><br>［ ］<br>测一个字串里特定位置的值是什么<br><br>* C#中所有数字都是从0开始计算的 <br><br>IndexOf() <br>用特定位置的值来找 字元/字串 的位置<br>*找不到会传回-1<br><br>Substring() <br>做切割，只传回切割特定位置后（若干数量）的值<br><img src="https://cdn.jellow.site/FmAXfAW8GpV61L_jEAMX5luzv8iOv3.heic" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sun, 12 Jun 2022 15:34:24 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62a60780ed3311040f0984a9</guid>
+            <link>https://m.okjike.com/originalPosts/62a60780ed3311040f0984a9</link>
+            
+            
+            
+            <author><![CDATA[袁迪庚Ruslan]]></author>
             
                 
             
@@ -94,22 +110,6 @@
             <pubDate>Sat, 11 Jun 2022 14:30:56 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62a4a720ed3311040f6a8979</guid>
             <link>https://m.okjike.com/originalPosts/62a4a720ed3311040f6a8979</link>
-            
-            
-            
-            <author><![CDATA[杰克有茶-999hp]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[【Unity2D动作游戏开发】 第3节-动作帧设计（攻击盒、受击盒、防御盒） 这是动作游戏的核心之一。]]></title>
-            <description><![CDATA[<span>用户昵称：杰克有茶-999hp <br> Username：C027E21D-DFD6-4F88-AF40-31871E1FB6F4</span><br><br>                    <img src="http://i0.hdslb.com/bfs/archive/77c749a7ea8b993976386636087143e752509759.jpg" referrerpolicy="no-referrer"><br>                    <a href="https://www.bilibili.com/video/BV1hZ4y1q7AF?share_medium=iphone&amp;share_plat=ios&amp;share_session_id=D91B1BBD-9048-4A78-874B-9B5B5EFF7F58&amp;share_source=COPY&amp;share_tag=s_i&amp;timestamp=1654949088&amp;unique_k=6KdWRjz">【Unity2D动作游戏开发】第3节-动作帧设计（攻击盒、受击盒、防御盒）_哔哩哔哩_bilibili</a><br>                <br>【Unity2D动作游戏开发】<br>第3节-动作帧设计（攻击盒、受击盒、防御盒）<br>这是动作游戏的核心之一。]]></description>
-            <pubDate>Sat, 11 Jun 2022 12:05:21 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62a48501a6751bff2379ba89</guid>
-            <link>https://m.okjike.com/originalPosts/62a48501a6751bff2379ba89</link>
             
             
             
