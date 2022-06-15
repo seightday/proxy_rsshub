@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 15 Jun 2022 04:37:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 08:27:50 GMT</lastBuildDate>
         <ttl>1</ttl>
         
         <item>
@@ -73,6 +73,22 @@
         </item>
         
         <item>
+            <title><![CDATA[我不明白，gitee为什么会认为普通用户会帮他们推广付费的企业版产品。]]></title>
+            <description><![CDATA[<span>用户昵称：梅油乾 <br> Username：ded160d1-e1ef-423e-b8e3-d9bf2b948ed8</span><br><br>我不明白，gitee为什么会认为普通用户会帮他们推广付费的企业版产品。<br><img src="https://cdn.jellow.site/FgKbV1Ccs0aM5-cYpn31W_9vfFhGv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 14 Jun 2022 09:28:37 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62a854c59997cb45de0cee2c</guid>
+            <link>https://m.okjike.com/originalPosts/62a854c59997cb45de0cee2c</link>
+            
+            
+            
+            <author><![CDATA[梅油乾]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[后知后觉，原来Windows已经有官方包管理器了。]]></title>
             <description><![CDATA[<span>用户昵称：OrangeCLK <br> Username：4dc31286-9c96-42a1-b295-1dc5ba351c34</span><br><br>                    <img src="https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png" referrerpolicy="no-referrer"><br>                    <a href="https://docs.microsoft.com/zh-cn/windows/package-manager/winget/">使用 winget 工具安装和管理应用程序</a><br>                <br>后知后觉，原来Windows已经有官方包管理器了。]]></description>
             <pubDate>Mon, 13 Jun 2022 15:23:18 GMT</pubDate>
@@ -98,22 +114,6 @@
             
             
             <author><![CDATA[哥飞]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[今天把String字串常见的用法给学了 \n 换行 \“ \” Length 测一个字串的长度 ToUpper() 把字符转成大写 ToLower() 把字符转小写 Contains() 判断一个字串是否含...]]></title>
-            <description><![CDATA[<span>用户昵称：袁迪庚Ruslan <br> Username：F96E535F-F068-4A47-8EA2-32A290CEA300</span><br><br>今天把String字串常见的用法给学了<br><br>\n <br>换行<br><br>\“ <br>\”<br><br>Length <br>测一个字串的长度<br><br>ToUpper() <br>把字符转成大写<br><br>ToLower() <br>把字符转小写<br><br>Contains() <br>判断一个字串是否含有子字串<br><br>［ ］<br>测一个字串里特定位置的值是什么<br><br>* C#中所有数字都是从0开始计算的 <br><br>IndexOf() <br>用特定位置的值来找 字元/字串 的位置<br>*找不到会传回-1<br><br>Substring() <br>做切割，只传回切割特定位置后（若干数量）的值<br><img src="https://cdn.jellow.site/FmAXfAW8GpV61L_jEAMX5luzv8iOv3.heic" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sun, 12 Jun 2022 15:34:24 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62a60780ed3311040f0984a9</guid>
-            <link>https://m.okjike.com/originalPosts/62a60780ed3311040f0984a9</link>
-            
-            
-            
-            <author><![CDATA[袁迪庚Ruslan]]></author>
             
                 
             
