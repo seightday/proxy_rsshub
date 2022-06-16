@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 16 Jun 2022 01:49:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 04:35:37 GMT</lastBuildDate>
         <ttl>1</ttl>
         
         <item>
@@ -34,6 +34,22 @@
             
             
             <author><![CDATA[银他妈]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[知识管理的核心是 ​管理链接，而非管理本体 ​容器网页化（存储为一个html） 功能插件化（积木般组合功能） ​操作快捷键（用快捷键全键盘操作） ​笔记卡片化...]]></title>
+            <description><![CDATA[<span>用户昵称：朴禅郑仁 <br> Username：08105272-cb94-40bf-8df6-feaa50fa1be9</span><br><br>知识管理的核心是<br>​管理链接，而非管理本体<br> <br>​容器网页化（存储为一个html）<br>功能插件化（积木般组合功能）<br>​操作快捷键（用快捷键全键盘操作）<br>​笔记卡片化（颗粒越小越容易复用）<br>​文本标记化（纯文本写作，富文本展示）<br>​链接维基化（链接可指向多种信息）<br>​ <br>​在这六个方面<br>​做的最好的软件是TiddlyWiki]]></description>
+            <pubDate>Wed, 15 Jun 2022 14:22:10 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62a9eb129a3118112b01c580</guid>
+            <link>https://m.okjike.com/originalPosts/62a9eb129a3118112b01c580</link>
+            
+            
+            
+            <author><![CDATA[朴禅郑仁]]></author>
             
                 
             
@@ -146,22 +162,6 @@
             
             
             <author><![CDATA[哥飞]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[分享一个极简 CSS 框架，很适合像我一样只对前端技术了解极浅的后端开发者使用。 这个框架添加的 CSS Class 很少，引入框架后直接写原生 HTML 标签就可以了。组...]]></title>
-            <description><![CDATA[<span>用户昵称：uwu <br> Username：e6b31067-74b6-4ef7-b00d-412121e99662</span><br><br>                    <img src="https://picocss.com/img/opengraph.jpg" referrerpolicy="no-referrer"><br>                    <a href="https://picocss.com/">Pico.css • Minimal CSS Framework for semantic HTML</a><br>                <br>分享一个极简 CSS 框架，很适合像我一样只对前端技术了解极浅的后端开发者使用。<br><br>这个框架添加的 CSS Class 很少，引入框架后直接写原生 HTML 标签就可以了。组件相对有限，不过多了我也用不上🤔]]></description>
-            <pubDate>Sun, 12 Jun 2022 09:18:03 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62a5af4b935abf283d18fa41</guid>
-            <link>https://m.okjike.com/originalPosts/62a5af4b935abf283d18fa41</link>
-            
-            
-            
-            <author><![CDATA[uwu]]></author>
             
                 
             
