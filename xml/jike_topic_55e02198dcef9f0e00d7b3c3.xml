@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss  xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
 
-
 >
     <channel>
         <title><![CDATA[JitHub - 即刻圈子]]></title>
         <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
-        <atom:link href="https://rsshub.rssforever.com/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
+        <atom:link href="https://vercel.getrss2021.xyz/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
         <description><![CDATA[开发者们分享，问答，也可以交友的地方。欢迎所有工程师！ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -21,11 +20,13 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 20 Jun 2022 01:51:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 04:29:58 GMT</lastBuildDate>
         <ttl>5</ttl>
         
         <item>
-            <title><![CDATA[# Touch Bar 的奇妙 bug 写完代码准备退出时发现 Esc 没了，这可咋办啊？ 在线等挺急的]]></title>
+            <title><![CDATA[# Touch Bar 的奇妙 bug
+写完代码准备退出时发现 Esc 没了，这可咋办啊？
+在线等挺急的]]></title>
             <description><![CDATA[<br># Touch Bar 的奇妙 bug<br>写完代码准备退出时发现 Esc 没了，这可咋办啊？<br>在线等挺急的<br><picture><source srcset="https://cdn.jellow.site/Fume1BIMENiJutCsvlUDaA4V3YVIv3.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/Fume1BIMENiJutCsvlUDaA4V3YVIv3.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Fume1BIMENiJutCsvlUDaA4V3YVIv3.jpg"></picture>]]></description>
             <pubDate>Sun, 19 Jun 2022 13:14:45 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62af21450d0f59604e462e9f</guid>
@@ -41,7 +42,11 @@
         </item>
         
         <item>
-            <title><![CDATA[自学编程的小尴尬 昨天我不是去公司加班嘛，一共来了4个人，3个研发部，1个产品部。 本来代码写的好好的，我部门领导突然聊起老师这个话题，都在聊大学的时候遇...]]></title>
+            <title><![CDATA[自学编程的小尴尬
+
+       昨天我不是去公司加班嘛，一共来了4个人，3个研发部，1个产品部。
+
+       本来代码写的好好的，我部门领导突然聊起老师这个话题，都...]]></title>
             <description><![CDATA[<br>自学编程的小尴尬<br><br>       昨天我不是去公司加班嘛，一共来了4个人，3个研发部，1个产品部。<br><br>       本来代码写的好好的，我部门领导突然聊起老师这个话题，都在聊大学的时候遇到的老师质量。有的老师认真备课，有的老师照本宣科。随后又讨论当时学习的学科。<br><br>       因为我大学的专业是土木工程，虽然和信息工程有50%的匹配度。但是我是真的如坐针毡，加上他们都不知道我是自学的原因，以为我也是和他们同专业的。<br><br>       他们聊天的时候，我根本不想插话。只想写好手上的代码，这时候领导问我<br><br>   “诶，小唐，你们现在还学不学汇编？”<br>   “汇编？”（非常疑惑的语气）<br>   “看吧，应该不学了，这反应应该都没听说过。”<br><br>      这时候产品部的女生补充道：“我们大学还有，但是都是选修课。很少有人选。”<br><br>    领导： “哦，原来如此。”<br><br>    昨天办公室开了26度的空调，一开始我觉得有点冷。可那几分钟我觉得好热。]]></description>
             <pubDate>Sun, 19 Jun 2022 02:09:39 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62ae85632da7acdb0c451dbe</guid>
@@ -57,7 +62,9 @@
         </item>
         
         <item>
-            <title><![CDATA[今天买了个域名：liuyu.xin 刚好是我姓名的全拼 用来做点啥呢🧐]]></title>
+            <title><![CDATA[今天买了个域名：liuyu.xin
+刚好是我姓名的全拼
+用来做点啥呢🧐]]></title>
             <description><![CDATA[<br>今天买了个域名：liuyu.xin<br>刚好是我姓名的全拼<br>用来做点啥呢🧐]]></description>
             <pubDate>Sat, 18 Jun 2022 08:46:53 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62ad90fd2da7acdb0ce0dcf1</guid>
@@ -121,7 +128,8 @@
         </item>
         
         <item>
-            <title><![CDATA[除了bing外，还有什么好用点的搜索引擎可以在国内使用？ 我推荐Ecosia，Ecosia成立于2009年，做为一个环保搜索引擎，通过搜索广告的利润来种树。搜索结果据说是...]]></title>
+            <title><![CDATA[除了bing外，还有什么好用点的搜索引擎可以在国内使用？
+我推荐Ecosia，Ecosia成立于2009年，做为一个环保搜索引擎，通过搜索广告的利润来种树。搜索结果据说是...]]></title>
             <description><![CDATA[<br>除了bing外，还有什么好用点的搜索引擎可以在国内使用？<br>我推荐Ecosia，Ecosia成立于2009年，做为一个环保搜索引擎，通过搜索广告的利润来种树。搜索结果据说是由bing和Yahoo提供的，界面友好简洁，而且目前Safari、火狐和Vivaldi都已经内置了这个搜索引擎，Chrome和Edge也有提供插件。<br>官网链接：https://www.ecosia.org/<br><picture><source srcset="https://cdn.jellow.site/FnFznN6m53QcgOfZZN4-dS8loEEiv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FnFznN6m53QcgOfZZN4-dS8loEEiv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FnFznN6m53QcgOfZZN4-dS8loEEiv3.png"></picture><br><picture><source srcset="https://cdn.jellow.site/FkVRExkXHsIcMfnYX0YHS0z6Y7eAv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FkVRExkXHsIcMfnYX0YHS0z6Y7eAv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FkVRExkXHsIcMfnYX0YHS0z6Y7eAv3.png"></picture><br><picture><source srcset="https://cdn.jellow.site/FlNNZJGZtcqzusnNBWckBmeveFYIv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FlNNZJGZtcqzusnNBWckBmeveFYIv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FlNNZJGZtcqzusnNBWckBmeveFYIv3.png"></picture><br><picture><source srcset="https://cdn.jellow.site/FldYS7uSOtFodznBYbG_oaogDIy9v3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FldYS7uSOtFodznBYbG_oaogDIy9v3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FldYS7uSOtFodznBYbG_oaogDIy9v3.png"></picture><br><picture><source srcset="https://cdn.jellow.site/FmkLj9ZAoQPdpFn3ko8m49OMDZfzv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FmkLj9ZAoQPdpFn3ko8m49OMDZfzv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FmkLj9ZAoQPdpFn3ko8m49OMDZfzv3.png"></picture>]]></description>
             <pubDate>Thu, 16 Jun 2022 01:13:30 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62aa83bafd3e0247c66689c4</guid>
@@ -137,7 +145,8 @@
         </item>
         
         <item>
-            <title><![CDATA[因为多次被即友误认为是大叔，掏出了大学写的lowpoly开源代码，把自己的微信头像跑了一下诞生新头像 先看看啥效果，不行再换回面膜大叔]]></title>
+            <title><![CDATA[因为多次被即友误认为是大叔，掏出了大学写的lowpoly开源代码，把自己的微信头像跑了一下诞生新头像
+先看看啥效果，不行再换回面膜大叔]]></title>
             <description><![CDATA[<br>因为多次被即友误认为是大叔，掏出了大学写的lowpoly开源代码，把自己的微信头像跑了一下诞生新头像<br>先看看啥效果，不行再换回面膜大叔<br><picture><source srcset="https://cdn.jellow.site/Fg1BmYucVhS6vXLEfSk_0hshehrEv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/Fg1BmYucVhS6vXLEfSk_0hshehrEv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Fg1BmYucVhS6vXLEfSk_0hshehrEv3.png"></picture><br><picture><source srcset="https://cdn.jellow.site/FjnbQTiKdmYGdUZ2Q4RFYKCOFSd_v3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FjnbQTiKdmYGdUZ2Q4RFYKCOFSd_v3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FjnbQTiKdmYGdUZ2Q4RFYKCOFSd_v3.png"></picture><br><picture><source srcset="https://cdn.jellow.site/Fo3-6Q7rQuA5JegqPwbf2LQyr1Zov3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/Fo3-6Q7rQuA5JegqPwbf2LQyr1Zov3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Fo3-6Q7rQuA5JegqPwbf2LQyr1Zov3.png"></picture><br><picture><source srcset="https://cdn.jellow.site/FrPYX-itFEtE5eLVKa2rWByPpq1bv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FrPYX-itFEtE5eLVKa2rWByPpq1bv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FrPYX-itFEtE5eLVKa2rWByPpq1bv3.png"></picture>]]></description>
             <pubDate>Wed, 15 Jun 2022 09:29:15 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62a9a66b72d5ee334d3bd3fe</guid>
@@ -153,7 +162,9 @@
         </item>
         
         <item>
-            <title><![CDATA[在圈里发现一些有意思的网站和资源，记录备用😂 1. 面向僵尸的solidity学习站 https://redirect.ruguoapp.com/?redirect=https%3A%2F%2Fcryptozombies.io%2Fzh...]]></title>
+            <title><![CDATA[在圈里发现一些有意思的网站和资源，记录备用😂
+
+1. 面向僵尸的solidity学习站 https://redirect.ruguoapp.com/?redirect=https%3A%2F%2Fcryptozombies.io%2Fz...]]></title>
             <description><![CDATA[<br>在圈里发现一些有意思的网站和资源，记录备用😂<br><br>1. 面向僵尸的solidity学习站 https://redirect.ruguoapp.com/?redirect=https%3A%2F%2Fcryptozombies.io%2Fzh%2Fcourse<br>2. 开源匿名提问箱 https://github.com/TankNee/AnonymousQuestionBox<br>3. 前端UI代码库 https://uiverse.io<br>4. NFT概念 https://redirect.ruguoapp.com/?redirect=https%3A%2F%2Fmyfirstnft.info%2F<br>5. 生成代码截图 https://chalk.ist]]></description>
             <pubDate>Wed, 15 Jun 2022 02:10:40 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62a93fa09a3118112ba5a81b</guid>
@@ -169,7 +180,13 @@
         </item>
         
         <item>
-            <title><![CDATA[我整理的Unity游戏开发学习途径，希望能帮到想做游戏的人。 重点： 一边做项目，一边按顺序学。 学习时间参考： 我愚笨，2200小时入门。]]></title>
+            <title><![CDATA[我整理的Unity游戏开发学习途径，希望能帮到想做游戏的人。
+
+重点：
+一边做项目，一边按顺序学。
+
+学习时间参考：
+我愚笨，2200小时入门。]]></title>
             <description><![CDATA[<br>                    <img referrerpolicy="no-referrer" src="https://www.notion.so/images/meta/default.png"><br>                    <a href="https://jackwithtea.notion.site/bd9815453ed14853b38983acd14610d5">Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.</a><br>                <br>我整理的Unity游戏开发学习途径，希望能帮到想做游戏的人。<br><br>重点：<br>一边做项目，一边按顺序学。<br><br>学习时间参考：<br>我愚笨，2200小时入门。]]></description>
             <pubDate>Wed, 15 Jun 2022 01:21:39 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62a934234765357a9d313bb6</guid>
