@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 21 Jun 2022 08:31:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 12:48:06 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[设计Unity客户端单体架构时要思考的内容： ①不使用单例和静态类，且仅主入口类有生命周期函数，如何让程序运作？ ②两个不同的程序集互相不依赖对方，如果让它...]]></title>
+            <description><![CDATA[<span>用户昵称：愚笨的杰克有茶 <br> Username：C027E21D-DFD6-4F88-AF40-31871E1FB6F4</span><br><br>设计Unity客户端单体架构时要思考的内容：<br>①不使用单例和静态类，且仅主入口类有生命周期函数，如何让程序运作？<br>②两个不同的程序集互相不依赖对方，如果让它们能互相调用到对方？<br>③代码是否能自如地变更控制流程？<br>④过三个月后，能否快速定位到某个业务的代码所在？<br>⑤仅看类名，是否能马上知道它是干嘛的？<br>⑥是否能自如地替换底层模块？（比如从TCP换UDP、从Protobuf换Msgpack、从AB包换AA包）]]></description>
+            <pubDate>Tue, 21 Jun 2022 02:56:06 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62b13346157de77c11c5a2a1</guid>
+            <link>https://m.okjike.com/originalPosts/62b13346157de77c11c5a2a1</link>
+            
+            
+            
+            <author><![CDATA[愚笨的杰克有茶]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[花几十元的年费买域名、几百元的年费买服务器、几百元的年费买图床，这些我都认了。还要花几百元的年费买 https证书，这让一个本就不富裕的新生代农民工更加雪上...]]></title>
@@ -34,6 +50,22 @@
             
             
             <author><![CDATA[千古壹号]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[说 commit 里有 emoji 的都是异端，那么我这种直接用 gitmoji 的, 不是要被架起来烧死 🌚 https://gitmoji.dev]]></title>
+            <description><![CDATA[<span>用户昵称：HwangSSS <br> Username：660cee5b-42b3-47a5-b084-c38987c315ed</span><br><br>说 commit 里有 emoji 的都是异端，那么我这种直接用 gitmoji 的, 不是要被架起来烧死 🌚<br><br>https://gitmoji.dev]]></description>
+            <pubDate>Tue, 21 Jun 2022 01:14:31 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62b11b77ce1abc58f2cbdf81</guid>
+            <link>https://m.okjike.com/originalPosts/62b11b77ce1abc58f2cbdf81</link>
+            
+            
+            
+            <author><![CDATA[HwangSSS]]></author>
             
                 
             
@@ -74,7 +106,7 @@
         
         <item>
             <title><![CDATA[Shader Showdown 最近最喜欢看的“电竞比赛”😏 两个选手现场限时写shader，最后谁的呼声高谁就直接晋级。 紧张刺激程度完全不输某些游戏，选手也都很有体育精...]]></title>
-            <description><![CDATA[<span>用户昵称：不可兼容 <br> Username：b837591e-0977-425c-b302-46219fb068a8</span><br><br>Shader Showdown<br>最近最喜欢看的“电竞比赛”😏<br><br>两个选手现场限时写shader，最后谁的呼声高谁就直接晋级。<br>紧张刺激程度完全不输某些游戏，选手也都很有体育精神，看得我燃起来了🔥<br><video src="https://videocdn.jellow.site/lse8guPlupDhJTlj6pxnxg9nFvJ2.mp4?sign=61be331741eba85d663718ec487c05db&amp;t=62b1873d" controls=""></video>]]></description>
+            <description><![CDATA[<span>用户昵称：不可兼容 <br> Username：b837591e-0977-425c-b302-46219fb068a8</span><br><br>Shader Showdown<br>最近最喜欢看的“电竞比赛”😏<br><br>两个选手现场限时写shader，最后谁的呼声高谁就直接晋级。<br>紧张刺激程度完全不输某些游戏，选手也都很有体育精神，看得我燃起来了🔥<br><video src="https://videocdn.jellow.site/lse8guPlupDhJTlj6pxnxg9nFvJ2.mp4?sign=50e2c776c3e3cf0ac36af3f48c78b5f4&amp;t=62b1c485" controls=""></video>]]></description>
             <pubDate>Mon, 20 Jun 2022 05:12:28 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62b001bcfd3c6c18815e0bbd</guid>
             <link>https://m.okjike.com/originalPosts/62b001bcfd3c6c18815e0bbd</link>
@@ -114,38 +146,6 @@
             
             
             <author><![CDATA[南唐]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[今天买了个域名：liuyu.xin 刚好是我姓名的全拼 用来做点啥呢🧐]]></title>
-            <description><![CDATA[<span>用户昵称：阿特拉斯请耸肩 <br> Username：561f7160-d58c-4156-ab66-a103c9955e52</span><br><br>今天买了个域名：liuyu.xin<br>刚好是我姓名的全拼<br>用来做点啥呢🧐]]></description>
-            <pubDate>Sat, 18 Jun 2022 08:46:53 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62ad90fd2da7acdb0ce0dcf1</guid>
-            <link>https://m.okjike.com/originalPosts/62ad90fd2da7acdb0ce0dcf1</link>
-            
-            
-            
-            <author><![CDATA[阿特拉斯请耸肩]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[请问一下这种样式的博客网站，能用什么模板+GitHub实现，谢谢了！♥(｡￫v￩｡)♥]]></title>
-            <description><![CDATA[<span>用户昵称：前端菜鸟加油 <br> Username：c12494ca-bc2d-4a87-adc3-4daffd3d446b</span><br><br>请问一下这种样式的博客网站，能用什么模板+GitHub实现，谢谢了！♥(｡￫v￩｡)♥<br><img src="https://cdn.jellow.site/FhKtNavaBe0o8wK08PRPhHEDI1qvv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 17 Jun 2022 11:56:05 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62ac6bd5a213754f85b929a1</guid>
-            <link>https://m.okjike.com/originalPosts/62ac6bd5a213754f85b929a1</link>
-            
-            
-            
-            <author><![CDATA[前端菜鸟加油]]></author>
             
                 
             
