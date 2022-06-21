@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss  xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
 
-
 >
     <channel>
         <title><![CDATA[JitHub - 即刻圈子]]></title>
         <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
-        <atom:link href="https://rsshub/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
+        <atom:link href="https://vercel.getrss2021.xyz/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
         <description><![CDATA[开发者们分享，问答，也可以交友的地方。欢迎所有工程师！ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -21,19 +20,21 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 21 Jun 2022 16:33:11 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Tue, 21 Jun 2022 20:21:02 GMT</lastBuildDate>
+        <ttl>5</ttl>
         
         <item>
-            <title><![CDATA[设计Unity客户端单体架构时要思考的内容： ①不使用单例和静态类，且仅主入口类有生命周期函数，如何让程序运作？ ②两个不同的程序集互相不依赖对方，如果让它...]]></title>
-            <description><![CDATA[<span>用户昵称：愚笨的杰克有茶 <br> Username：C027E21D-DFD6-4F88-AF40-31871E1FB6F4</span><br><br>设计Unity客户端单体架构时要思考的内容：<br>①不使用单例和静态类，且仅主入口类有生命周期函数，如何让程序运作？<br>②两个不同的程序集互相不依赖对方，如果让它们能互相调用到对方？<br>③代码是否能自如地变更控制流程？<br>④过三个月后，能否快速定位到某个业务的代码所在？<br>⑤仅看类名，是否能马上知道它是干嘛的？<br>⑥是否能自如地替换底层模块？（比如从TCP换UDP、从Protobuf换Msgpack、从AB包换AA包）]]></description>
+            <title><![CDATA[设计Unity客户端单体架构时要思考的内容：
+①不使用单例和静态类，且仅主入口类有生命周期函数，如何让程序运作？
+②两个不同的程序集互相不依赖对方，如果让它...]]></title>
+            <description><![CDATA[<br>设计Unity客户端单体架构时要思考的内容：<br>①不使用单例和静态类，且仅主入口类有生命周期函数，如何让程序运作？<br>②两个不同的程序集互相不依赖对方，如果让它们能互相调用到对方？<br>③代码是否能自如地变更控制流程？<br>④过三个月后，能否快速定位到某个业务的代码所在？<br>⑤仅看类名，是否能马上知道它是干嘛的？<br>⑥是否能自如地替换底层模块？（比如从TCP换UDP、从Protobuf换Msgpack、从AB包换AA包）]]></description>
             <pubDate>Tue, 21 Jun 2022 02:56:06 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62b13346157de77c11c5a2a1</guid>
             <link>https://m.okjike.com/originalPosts/62b13346157de77c11c5a2a1</link>
             
             
             
-            <author><![CDATA[愚笨的杰克有茶]]></author>
+            
             
                 
             
@@ -42,14 +43,14 @@
         
         <item>
             <title><![CDATA[花几十元的年费买域名、几百元的年费买服务器、几百元的年费买图床，这些我都认了。还要花几百元的年费买 https证书，这让一个本就不富裕的新生代农民工更加雪上...]]></title>
-            <description><![CDATA[<span>用户昵称：千古壹号 <br> Username：smyhvae</span><br><br>花几十元的年费买域名、几百元的年费买服务器、几百元的年费买图床，这些我都认了。还要花几百元的年费买 https证书，这让一个本就不富裕的新生代农民工更加雪上加霜。]]></description>
+            <description><![CDATA[<br>花几十元的年费买域名、几百元的年费买服务器、几百元的年费买图床，这些我都认了。还要花几百元的年费买 https证书，这让一个本就不富裕的新生代农民工更加雪上加霜。]]></description>
             <pubDate>Tue, 21 Jun 2022 01:52:46 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62b1246e47f396137578150f</guid>
             <link>https://m.okjike.com/originalPosts/62b1246e47f396137578150f</link>
             
             
             
-            <author><![CDATA[千古壹号]]></author>
+            
             
                 
             
@@ -57,15 +58,17 @@
         </item>
         
         <item>
-            <title><![CDATA[说 commit 里有 emoji 的都是异端，那么我这种直接用 gitmoji 的, 不是要被架起来烧死 🌚 https://gitmoji.dev]]></title>
-            <description><![CDATA[<span>用户昵称：HwangSSS <br> Username：660cee5b-42b3-47a5-b084-c38987c315ed</span><br><br>说 commit 里有 emoji 的都是异端，那么我这种直接用 gitmoji 的, 不是要被架起来烧死 🌚<br><br>https://gitmoji.dev]]></description>
+            <title><![CDATA[说 commit 里有 emoji 的都是异端，那么我这种直接用 gitmoji 的, 不是要被架起来烧死 🌚
+
+https://gitmoji.dev]]></title>
+            <description><![CDATA[<br>说 commit 里有 emoji 的都是异端，那么我这种直接用 gitmoji 的, 不是要被架起来烧死 🌚<br><br>https://gitmoji.dev]]></description>
             <pubDate>Tue, 21 Jun 2022 01:14:31 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62b11b77ce1abc58f2cbdf81</guid>
             <link>https://m.okjike.com/originalPosts/62b11b77ce1abc58f2cbdf81</link>
             
             
             
-            <author><![CDATA[HwangSSS]]></author>
+            
             
                 
             
@@ -73,15 +76,19 @@
         </item>
         
         <item>
-            <title><![CDATA[试了下 JetBrains 的新 UI 立即开始改起了 Bug 🐶 果然好看才是第一生产力🤪]]></title>
-            <description><![CDATA[<span>用户昵称：benwk <br> Username：5205D979-D100-4133-BEC9-066CECF845AA</span><br><br>试了下 JetBrains 的新 UI<br><br>立即开始改起了 Bug 🐶<br><br>果然好看才是第一生产力🤪<br><img src="https://cdn.jellow.site/FsqKuvvgDZwnY0o093EqGIbiGKETv3.png" referrerpolicy="no-referrer">]]></description>
+            <title><![CDATA[试了下 JetBrains 的新 UI
+
+立即开始改起了 Bug 🐶
+
+果然好看才是第一生产力🤪]]></title>
+            <description><![CDATA[<br>试了下 JetBrains 的新 UI<br><br>立即开始改起了 Bug 🐶<br><br>果然好看才是第一生产力🤪<br><picture><source srcset="https://cdn.jellow.site/FsqKuvvgDZwnY0o093EqGIbiGKETv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FsqKuvvgDZwnY0o093EqGIbiGKETv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FsqKuvvgDZwnY0o093EqGIbiGKETv3.png"></picture>]]></description>
             <pubDate>Mon, 20 Jun 2022 11:51:20 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62b05f385f0030aa232f92aa</guid>
             <link>https://m.okjike.com/originalPosts/62b05f385f0030aa232f92aa</link>
             
             
             
-            <author><![CDATA[benwk]]></author>
+            
             
                 
             
@@ -89,15 +96,16 @@
         </item>
         
         <item>
-            <title><![CDATA[@EasyChen 老师有心了，《精益副业：程序员如何优雅做副业》发布了。 Easy 老师最早在微博做技术，搞 sae 。后来创业做了 jobdeer ，之后回重庆老家做独立开发。...]]></title>
-            <description><![CDATA[<span>用户昵称：哥飞 <br> Username：a2d6acc1-626f-4d15-a22a-849e88a4c9f0</span><br><br>@EasyChen 老师有心了，《精益副业：程序员如何优雅做副业》发布了。<br>Easy 老师最早在微博做技术，搞 sae 。后来创业做了 jobdeer ，之后回重庆老家做独立开发。<br>很多人直接或者间接用过的 pushdeer 就是 Easy 老师做的。<br>这本新书，扩展自老师之前写的《程序员如何优雅地挣零花钱》，后半部分以实际案例形式讲了“独立开发变现”和“网课变现实践”等相关内容。<br><img src="https://cdn.jellow.site/FniUAJn9tW69M8DSWiKXNr0OjbQXv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <title><![CDATA[@EasyChen 老师有心了，《精益副业：程序员如何优雅做副业》发布了。
+Easy 老师最早在微博做技术，搞 sae 。后来创业做了 jobdeer ，之后回重庆老家做独立开发。...]]></title>
+            <description><![CDATA[<br>@EasyChen 老师有心了，《精益副业：程序员如何优雅做副业》发布了。<br>Easy 老师最早在微博做技术，搞 sae 。后来创业做了 jobdeer ，之后回重庆老家做独立开发。<br>很多人直接或者间接用过的 pushdeer 就是 Easy 老师做的。<br>这本新书，扩展自老师之前写的《程序员如何优雅地挣零花钱》，后半部分以实际案例形式讲了“独立开发变现”和“网课变现实践”等相关内容。<br><picture><source srcset="https://cdn.jellow.site/FniUAJn9tW69M8DSWiKXNr0OjbQXv3.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FniUAJn9tW69M8DSWiKXNr0OjbQXv3.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FniUAJn9tW69M8DSWiKXNr0OjbQXv3.jpg"></picture>]]></description>
             <pubDate>Mon, 20 Jun 2022 11:28:48 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62b059f0c16d1eb27770ffc6</guid>
             <link>https://m.okjike.com/originalPosts/62b059f0c16d1eb27770ffc6</link>
             
             
             
-            <author><![CDATA[哥飞]]></author>
+            
             
                 
             
@@ -105,15 +113,19 @@
         </item>
         
         <item>
-            <title><![CDATA[Shader Showdown 最近最喜欢看的“电竞比赛”😏 两个选手现场限时写shader，最后谁的呼声高谁就直接晋级。 紧张刺激程度完全不输某些游戏，选手也都很有体育精...]]></title>
-            <description><![CDATA[<span>用户昵称：不可兼容 <br> Username：b837591e-0977-425c-b302-46219fb068a8</span><br><br>Shader Showdown<br>最近最喜欢看的“电竞比赛”😏<br><br>两个选手现场限时写shader，最后谁的呼声高谁就直接晋级。<br>紧张刺激程度完全不输某些游戏，选手也都很有体育精神，看得我燃起来了🔥<br><video src="https://videocdn.jellow.site/lse8guPlupDhJTlj6pxnxg9nFvJ2.mp4?sign=18d1cab653430f446f82035e30fba48e&amp;t=62b1f811" controls=""></video>]]></description>
+            <title><![CDATA[Shader Showdown
+最近最喜欢看的“电竞比赛”😏
+
+两个选手现场限时写shader，最后谁的呼声高谁就直接晋级。
+紧张刺激程度完全不输某些游戏，选手也都很有体育...]]></title>
+            <description><![CDATA[<br>Shader Showdown<br>最近最喜欢看的“电竞比赛”😏<br><br>两个选手现场限时写shader，最后谁的呼声高谁就直接晋级。<br>紧张刺激程度完全不输某些游戏，选手也都很有体育精神，看得我燃起来了🔥]]></description>
             <pubDate>Mon, 20 Jun 2022 05:12:28 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62b001bcfd3c6c18815e0bbd</guid>
             <link>https://m.okjike.com/originalPosts/62b001bcfd3c6c18815e0bbd</link>
             
             
             
-            <author><![CDATA[不可兼容]]></author>
+            
             
                 
             
@@ -121,15 +133,17 @@
         </item>
         
         <item>
-            <title><![CDATA[# Touch Bar 的奇妙 bug 写完代码准备退出时发现 Esc 没了，这可咋办啊？ 在线等挺急的]]></title>
-            <description><![CDATA[<span>用户昵称：李谨记 <br> Username：8B060D8D-2991-428B-BB86-07E36CA0479F</span><br><br># Touch Bar 的奇妙 bug<br>写完代码准备退出时发现 Esc 没了，这可咋办啊？<br>在线等挺急的<br><img src="https://cdn.jellow.site/Fume1BIMENiJutCsvlUDaA4V3YVIv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <title><![CDATA[# Touch Bar 的奇妙 bug
+写完代码准备退出时发现 Esc 没了，这可咋办啊？
+在线等挺急的]]></title>
+            <description><![CDATA[<br># Touch Bar 的奇妙 bug<br>写完代码准备退出时发现 Esc 没了，这可咋办啊？<br>在线等挺急的<br><picture><source srcset="https://cdn.jellow.site/Fume1BIMENiJutCsvlUDaA4V3YVIv3.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/Fume1BIMENiJutCsvlUDaA4V3YVIv3.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Fume1BIMENiJutCsvlUDaA4V3YVIv3.jpg"></picture>]]></description>
             <pubDate>Sun, 19 Jun 2022 13:14:45 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62af21450d0f59604e462e9f</guid>
             <link>https://m.okjike.com/originalPosts/62af21450d0f59604e462e9f</link>
             
             
             
-            <author><![CDATA[李谨记]]></author>
+            
             
                 
             
@@ -137,15 +151,19 @@
         </item>
         
         <item>
-            <title><![CDATA[自学编程的小尴尬 昨天我不是去公司加班嘛，一共来了4个人，3个研发部，1个产品部。 本来代码写的好好的，我部门领导突然聊起老师这个话题，都在聊大学的时候遇...]]></title>
-            <description><![CDATA[<span>用户昵称：南唐 <br> Username：a424629c-e6d0-4654-bb42-d006bebf7ee5</span><br><br>自学编程的小尴尬<br><br>       昨天我不是去公司加班嘛，一共来了4个人，3个研发部，1个产品部。<br><br>       本来代码写的好好的，我部门领导突然聊起老师这个话题，都在聊大学的时候遇到的老师质量。有的老师认真备课，有的老师照本宣科。随后又讨论当时学习的学科。<br><br>       因为我大学的专业是土木工程，虽然和信息工程有50%的匹配度。但是我是真的如坐针毡，加上他们都不知道我是自学的原因，以为我也是和他们同专业的。<br><br>       他们聊天的时候，我根本不想插话。只想写好手上的代码，这时候领导问我<br><br>   “诶，小唐，你们现在还学不学汇编？”<br>   “汇编？”（非常疑惑的语气）<br>   “看吧，应该不学了，这反应应该都没听说过。”<br><br>      这时候产品部的女生补充道：“我们大学还有，但是都是选修课。很少有人选。”<br><br>    领导： “哦，原来如此。”<br><br>    昨天办公室开了26度的空调，一开始我觉得有点冷。可那几分钟我觉得好热。]]></description>
+            <title><![CDATA[自学编程的小尴尬
+
+       昨天我不是去公司加班嘛，一共来了4个人，3个研发部，1个产品部。
+
+       本来代码写的好好的，我部门领导突然聊起老师这个话题，都...]]></title>
+            <description><![CDATA[<br>自学编程的小尴尬<br><br>       昨天我不是去公司加班嘛，一共来了4个人，3个研发部，1个产品部。<br><br>       本来代码写的好好的，我部门领导突然聊起老师这个话题，都在聊大学的时候遇到的老师质量。有的老师认真备课，有的老师照本宣科。随后又讨论当时学习的学科。<br><br>       因为我大学的专业是土木工程，虽然和信息工程有50%的匹配度。但是我是真的如坐针毡，加上他们都不知道我是自学的原因，以为我也是和他们同专业的。<br><br>       他们聊天的时候，我根本不想插话。只想写好手上的代码，这时候领导问我<br><br>   “诶，小唐，你们现在还学不学汇编？”<br>   “汇编？”（非常疑惑的语气）<br>   “看吧，应该不学了，这反应应该都没听说过。”<br><br>      这时候产品部的女生补充道：“我们大学还有，但是都是选修课。很少有人选。”<br><br>    领导： “哦，原来如此。”<br><br>    昨天办公室开了26度的空调，一开始我觉得有点冷。可那几分钟我觉得好热。]]></description>
             <pubDate>Sun, 19 Jun 2022 02:09:39 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62ae85632da7acdb0c451dbe</guid>
             <link>https://m.okjike.com/originalPosts/62ae85632da7acdb0c451dbe</link>
             
             
             
-            <author><![CDATA[南唐]]></author>
+            
             
                 
             
@@ -153,15 +171,17 @@
         </item>
         
         <item>
-            <title><![CDATA[在圈里发现一些有意思的网站和资源，记录备用😂 1. 面向僵尸的solidity学习站 https://redirect.ruguoapp.com/?redirect=https%3A%2F%2Fcryptozombies.io%2Fzh...]]></title>
-            <description><![CDATA[<span>用户昵称：张知柳 <br> Username：f5660c0c-7512-401f-b94e-b58ef7ba31e9</span><br><br>在圈里发现一些有意思的网站和资源，记录备用😂<br><br>1. 面向僵尸的solidity学习站 https://redirect.ruguoapp.com/?redirect=https%3A%2F%2Fcryptozombies.io%2Fzh%2Fcourse<br>2. 开源匿名提问箱 https://github.com/TankNee/AnonymousQuestionBox<br>3. 前端UI代码库 https://uiverse.io<br>4. NFT概念 https://redirect.ruguoapp.com/?redirect=https%3A%2F%2Fmyfirstnft.info%2F<br>5. 生成代码截图 https://chalk.ist]]></description>
+            <title><![CDATA[在圈里发现一些有意思的网站和资源，记录备用😂
+
+1. 面向僵尸的solidity学习站 https://redirect.ruguoapp.com/?redirect=https%3A%2F%2Fcryptozombies.io%2Fz...]]></title>
+            <description><![CDATA[<br>在圈里发现一些有意思的网站和资源，记录备用😂<br><br>1. 面向僵尸的solidity学习站 https://redirect.ruguoapp.com/?redirect=https%3A%2F%2Fcryptozombies.io%2Fzh%2Fcourse<br>2. 开源匿名提问箱 https://github.com/TankNee/AnonymousQuestionBox<br>3. 前端UI代码库 https://uiverse.io<br>4. NFT概念 https://redirect.ruguoapp.com/?redirect=https%3A%2F%2Fmyfirstnft.info%2F<br>5. 生成代码截图 https://chalk.ist]]></description>
             <pubDate>Wed, 15 Jun 2022 02:10:40 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62a93fa09a3118112ba5a81b</guid>
             <link>https://m.okjike.com/originalPosts/62a93fa09a3118112ba5a81b</link>
             
             
             
-            <author><![CDATA[张知柳]]></author>
+            
             
                 
             
@@ -169,15 +189,21 @@
         </item>
         
         <item>
-            <title><![CDATA[我整理的Unity游戏开发学习途径，希望能帮到想做游戏的人。 重点： 一边做项目，一边按顺序学。 学习时间参考： 我愚笨，2200小时入门。]]></title>
-            <description><![CDATA[<span>用户昵称：愚笨的杰克有茶 <br> Username：C027E21D-DFD6-4F88-AF40-31871E1FB6F4</span><br><br>                    <img src="https://www.notion.so/images/meta/default.png" referrerpolicy="no-referrer"><br>                    <a href="https://jackwithtea.notion.site/bd9815453ed14853b38983acd14610d5">Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.</a><br>                <br>我整理的Unity游戏开发学习途径，希望能帮到想做游戏的人。<br><br>重点：<br>一边做项目，一边按顺序学。<br><br>学习时间参考：<br>我愚笨，2200小时入门。]]></description>
+            <title><![CDATA[我整理的Unity游戏开发学习途径，希望能帮到想做游戏的人。
+
+重点：
+一边做项目，一边按顺序学。
+
+学习时间参考：
+我愚笨，2200小时入门。]]></title>
+            <description><![CDATA[<br>                    <img referrerpolicy="no-referrer" src="https://www.notion.so/images/meta/default.png"><br>                    <a href="https://jackwithtea.notion.site/bd9815453ed14853b38983acd14610d5">Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.</a><br>                <br>我整理的Unity游戏开发学习途径，希望能帮到想做游戏的人。<br><br>重点：<br>一边做项目，一边按顺序学。<br><br>学习时间参考：<br>我愚笨，2200小时入门。]]></description>
             <pubDate>Wed, 15 Jun 2022 01:21:39 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62a934234765357a9d313bb6</guid>
             <link>https://m.okjike.com/originalPosts/62a934234765357a9d313bb6</link>
             
             
             
-            <author><![CDATA[愚笨的杰克有茶]]></author>
+            
             
                 
             
