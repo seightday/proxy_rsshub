@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss  xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
 
-
 >
     <channel>
         <title><![CDATA[JitHub - 即刻圈子]]></title>
         <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
-        <atom:link href="https://rsshub/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
+        <atom:link href="https://vercel.getrss2021.xyz/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
         <description><![CDATA[开发者们分享，问答，也可以交友的地方。欢迎所有工程师！ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -21,19 +20,19 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 23 Jun 2022 20:21:31 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Fri, 24 Jun 2022 01:53:49 GMT</lastBuildDate>
+        <ttl>5</ttl>
         
         <item>
             <title><![CDATA[花了200小时吧，一边跟着学习，一边写了一个游戏引擎的框架... 虽然只写完2D的渲染管线，还没加物理引擎，不过应该可以放进简历里了🥲]]></title>
-            <description><![CDATA[<span>用户昵称：橘猫儿Leo <br> Username：D8D1DAF0-EA6C-4520-94E3-BFE4F62E3937</span><br><br>花了200小时吧，一边跟着学习，一边写了一个游戏引擎的框架... 虽然只写完2D的渲染管线，还没加物理引擎，不过应该可以放进简历里了🥲<br><img src="https://cdn.jellow.site/FqSZMvtP74G9rIczhgvrS50j72M8v3.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[<br>花了200小时吧，一边跟着学习，一边写了一个游戏引擎的框架... 虽然只写完2D的渲染管线，还没加物理引擎，不过应该可以放进简历里了🥲<br><picture><source srcset="https://cdn.jellow.site/FqSZMvtP74G9rIczhgvrS50j72M8v3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FqSZMvtP74G9rIczhgvrS50j72M8v3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FqSZMvtP74G9rIczhgvrS50j72M8v3.png"></picture>]]></description>
             <pubDate>Thu, 23 Jun 2022 05:24:35 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62b3f9132d39f94d8185e4ba</guid>
             <link>https://m.okjike.com/originalPosts/62b3f9132d39f94d8185e4ba</link>
             
             
             
-            <author><![CDATA[橘猫儿Leo]]></author>
+            
             
                 
             
@@ -42,14 +41,14 @@
         
         <item>
             <title><![CDATA[本圈子主理人开放申请中，大家快来积极参与吧！🌸]]></title>
-            <description><![CDATA[<span>用户昵称：愚笨的杰克有茶 <br> Username：C027E21D-DFD6-4F88-AF40-31871E1FB6F4</span><br><br>本圈子主理人开放申请中，大家快来积极参与吧！🌸]]></description>
+            <description><![CDATA[<br>本圈子主理人开放申请中，大家快来积极参与吧！🌸]]></description>
             <pubDate>Thu, 23 Jun 2022 03:23:42 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62b3dcbe197079ceb0672463</guid>
             <link>https://m.okjike.com/originalPosts/62b3dcbe197079ceb0672463</link>
             
             
             
-            <author><![CDATA[愚笨的杰克有茶]]></author>
+            
             
                 
             
@@ -57,15 +56,17 @@
         </item>
         
         <item>
-            <title><![CDATA[Github Copilot 宣布结束测试开始收费了，10美元一个月。然后很多人就去打一星。 但是我猜，还是会有很多人付费的，毕竟真的能节省时间。 来个投票，你愿意付费...]]></title>
-            <description><![CDATA[<span>用户昵称：哥飞 <br> Username：a2d6acc1-626f-4d15-a22a-849e88a4c9f0</span><br><br>Github Copilot 宣布结束测试开始收费了，10美元一个月。然后很多人就去打一星。<br>但是我猜，还是会有很多人付费的，毕竟真的能节省时间。<br>来个投票，你愿意付费吗？<br>愿意的评论1，不愿意的评论2。]]></description>
+            <title><![CDATA[Github Copilot 宣布结束测试开始收费了，10美元一个月。然后很多人就去打一星。
+但是我猜，还是会有很多人付费的，毕竟真的能节省时间。
+来个投票，你愿意付费...]]></title>
+            <description><![CDATA[<br>Github Copilot 宣布结束测试开始收费了，10美元一个月。然后很多人就去打一星。<br>但是我猜，还是会有很多人付费的，毕竟真的能节省时间。<br>来个投票，你愿意付费吗？<br>愿意的评论1，不愿意的评论2。]]></description>
             <pubDate>Wed, 22 Jun 2022 00:56:15 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62b268af49e7647c2b06f986</guid>
             <link>https://m.okjike.com/originalPosts/62b268af49e7647c2b06f986</link>
             
             
             
-            <author><![CDATA[哥飞]]></author>
+            
             
                 
             
@@ -74,14 +75,14 @@
         
         <item>
             <title><![CDATA[要开始收费了，Copilot，100刀每年。这个钱好像不得不花了]]></title>
-            <description><![CDATA[<span>用户昵称：HwangSSS <br> Username：660cee5b-42b3-47a5-b084-c38987c315ed</span><br><br>要开始收费了，Copilot，100刀每年。这个钱好像不得不花了<br><img src="https://cdn.jellow.site/FoqexeaF7DYbKxpzyIUZk1L93_WVv3.png" referrerpolicy="no-referrer"><br><img src="https://cdn.jellow.site/Fnvv095oWgo24FQH3oCn5cCb2j26v3.jpg" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[<br>要开始收费了，Copilot，100刀每年。这个钱好像不得不花了<br><picture><source srcset="https://cdn.jellow.site/FoqexeaF7DYbKxpzyIUZk1L93_WVv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FoqexeaF7DYbKxpzyIUZk1L93_WVv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FoqexeaF7DYbKxpzyIUZk1L93_WVv3.png"></picture><br><picture><source srcset="https://cdn.jellow.site/Fnvv095oWgo24FQH3oCn5cCb2j26v3.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/Fnvv095oWgo24FQH3oCn5cCb2j26v3.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Fnvv095oWgo24FQH3oCn5cCb2j26v3.jpg"></picture>]]></description>
             <pubDate>Wed, 22 Jun 2022 00:00:59 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62b25bbb4fa99449a30ab5ec</guid>
             <link>https://m.okjike.com/originalPosts/62b25bbb4fa99449a30ab5ec</link>
             
             
             
-            <author><![CDATA[HwangSSS]]></author>
+            
             
                 
             
@@ -90,14 +91,14 @@
         
         <item>
             <title><![CDATA[花几十元的年费买域名、几百元的年费买服务器、几百元的年费买图床，这些我都认了。还要花几百元的年费买 https证书，这让一个本就不富裕的新生代农民工更加雪上...]]></title>
-            <description><![CDATA[<span>用户昵称：千古壹号 <br> Username：smyhvae</span><br><br>花几十元的年费买域名、几百元的年费买服务器、几百元的年费买图床，这些我都认了。还要花几百元的年费买 https证书，这让一个本就不富裕的新生代农民工更加雪上加霜。]]></description>
+            <description><![CDATA[<br>花几十元的年费买域名、几百元的年费买服务器、几百元的年费买图床，这些我都认了。还要花几百元的年费买 https证书，这让一个本就不富裕的新生代农民工更加雪上加霜。]]></description>
             <pubDate>Tue, 21 Jun 2022 01:52:46 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62b1246e47f396137578150f</guid>
             <link>https://m.okjike.com/originalPosts/62b1246e47f396137578150f</link>
             
             
             
-            <author><![CDATA[千古壹号]]></author>
+            
             
                 
             
@@ -105,15 +106,19 @@
         </item>
         
         <item>
-            <title><![CDATA[试了下 JetBrains 的新 UI 立即开始改起了 Bug 🐶 果然好看才是第一生产力🤪]]></title>
-            <description><![CDATA[<span>用户昵称：benwk <br> Username：5205D979-D100-4133-BEC9-066CECF845AA</span><br><br>试了下 JetBrains 的新 UI<br><br>立即开始改起了 Bug 🐶<br><br>果然好看才是第一生产力🤪<br><img src="https://cdn.jellow.site/FsqKuvvgDZwnY0o093EqGIbiGKETv3.png" referrerpolicy="no-referrer">]]></description>
+            <title><![CDATA[试了下 JetBrains 的新 UI
+
+立即开始改起了 Bug 🐶
+
+果然好看才是第一生产力🤪]]></title>
+            <description><![CDATA[<br>试了下 JetBrains 的新 UI<br><br>立即开始改起了 Bug 🐶<br><br>果然好看才是第一生产力🤪<br><picture><source srcset="https://cdn.jellow.site/FsqKuvvgDZwnY0o093EqGIbiGKETv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FsqKuvvgDZwnY0o093EqGIbiGKETv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FsqKuvvgDZwnY0o093EqGIbiGKETv3.png"></picture>]]></description>
             <pubDate>Mon, 20 Jun 2022 11:51:20 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62b05f385f0030aa232f92aa</guid>
             <link>https://m.okjike.com/originalPosts/62b05f385f0030aa232f92aa</link>
             
             
             
-            <author><![CDATA[benwk]]></author>
+            
             
                 
             
@@ -121,15 +126,16 @@
         </item>
         
         <item>
-            <title><![CDATA[@EasyChen 老师有心了，《精益副业：程序员如何优雅做副业》发布了。 Easy 老师最早在微博做技术，搞 sae 。后来创业做了 jobdeer ，之后回重庆老家做独立开发。...]]></title>
-            <description><![CDATA[<span>用户昵称：哥飞 <br> Username：a2d6acc1-626f-4d15-a22a-849e88a4c9f0</span><br><br>@EasyChen 老师有心了，《精益副业：程序员如何优雅做副业》发布了。<br>Easy 老师最早在微博做技术，搞 sae 。后来创业做了 jobdeer ，之后回重庆老家做独立开发。<br>很多人直接或者间接用过的 pushdeer 就是 Easy 老师做的。<br>这本新书，扩展自老师之前写的《程序员如何优雅地挣零花钱》，后半部分以实际案例形式讲了“独立开发变现”和“网课变现实践”等相关内容。<br><img src="https://cdn.jellow.site/FniUAJn9tW69M8DSWiKXNr0OjbQXv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <title><![CDATA[@EasyChen 老师有心了，《精益副业：程序员如何优雅做副业》发布了。
+Easy 老师最早在微博做技术，搞 sae 。后来创业做了 jobdeer ，之后回重庆老家做独立开发。...]]></title>
+            <description><![CDATA[<br>@EasyChen 老师有心了，《精益副业：程序员如何优雅做副业》发布了。<br>Easy 老师最早在微博做技术，搞 sae 。后来创业做了 jobdeer ，之后回重庆老家做独立开发。<br>很多人直接或者间接用过的 pushdeer 就是 Easy 老师做的。<br>这本新书，扩展自老师之前写的《程序员如何优雅地挣零花钱》，后半部分以实际案例形式讲了“独立开发变现”和“网课变现实践”等相关内容。<br><picture><source srcset="https://cdn.jellow.site/FniUAJn9tW69M8DSWiKXNr0OjbQXv3.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FniUAJn9tW69M8DSWiKXNr0OjbQXv3.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FniUAJn9tW69M8DSWiKXNr0OjbQXv3.jpg"></picture>]]></description>
             <pubDate>Mon, 20 Jun 2022 11:28:48 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62b059f0c16d1eb27770ffc6</guid>
             <link>https://m.okjike.com/originalPosts/62b059f0c16d1eb27770ffc6</link>
             
             
             
-            <author><![CDATA[哥飞]]></author>
+            
             
                 
             
@@ -137,15 +143,16 @@
         </item>
         
         <item>
-            <title><![CDATA[#独立开发的日常 写了个用来快速注册小程序的小程序。可以免300元微信认证费。有注册小程序需求的朋友们可以试试～😃 完整的产品说明看这里：https://idoubi.c...]]></title>
-            <description><![CDATA[<span>用户昵称：艾逗笔 <br> Username：35224A78-8B11-469E-B307-16B58688FBEC</span><br><br>#独立开发的日常 写了个用来快速注册小程序的小程序。可以免300元微信认证费。有注册小程序需求的朋友们可以试试～😃<br>完整的产品说明看这里：https://idoubi.cc/posts/quick-register-miniprogram/<br><img src="https://cdn.jellow.site/FmmcyqmkPAGIVuurNquRrCZn0ncOv3.png" referrerpolicy="no-referrer"><br><img src="https://cdn.jellow.site/FtQW48z0Pq_0uabnSZOCjB9Ng6YCv3.png" referrerpolicy="no-referrer">]]></description>
+            <title><![CDATA[#独立开发的日常 写了个用来快速注册小程序的小程序。可以免300元微信认证费。有注册小程序需求的朋友们可以试试～😃
+完整的产品说明看这里：https://idoubi.c...]]></title>
+            <description><![CDATA[<br>#独立开发的日常 写了个用来快速注册小程序的小程序。可以免300元微信认证费。有注册小程序需求的朋友们可以试试～😃<br>完整的产品说明看这里：https://idoubi.cc/posts/quick-register-miniprogram/<br><picture><source srcset="https://cdn.jellow.site/FmmcyqmkPAGIVuurNquRrCZn0ncOv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FmmcyqmkPAGIVuurNquRrCZn0ncOv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FmmcyqmkPAGIVuurNquRrCZn0ncOv3.png"></picture><br><picture><source srcset="https://cdn.jellow.site/FtQW48z0Pq_0uabnSZOCjB9Ng6YCv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FtQW48z0Pq_0uabnSZOCjB9Ng6YCv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FtQW48z0Pq_0uabnSZOCjB9Ng6YCv3.png"></picture>]]></description>
             <pubDate>Mon, 20 Jun 2022 10:01:57 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62b045951f2496b0ccdc78a2</guid>
             <link>https://m.okjike.com/originalPosts/62b045951f2496b0ccdc78a2</link>
             
             
             
-            <author><![CDATA[艾逗笔]]></author>
+            
             
                 
             
@@ -153,15 +160,19 @@
         </item>
         
         <item>
-            <title><![CDATA[Shader Showdown 最近最喜欢看的“电竞比赛”😏 两个选手现场限时写shader，最后谁的呼声高谁就直接晋级。 紧张刺激程度完全不输某些游戏，选手也都很有体育精...]]></title>
-            <description><![CDATA[<span>用户昵称：不可兼容 <br> Username：b837591e-0977-425c-b302-46219fb068a8</span><br><br>Shader Showdown<br>最近最喜欢看的“电竞比赛”😏<br><br>两个选手现场限时写shader，最后谁的呼声高谁就直接晋级。<br>紧张刺激程度完全不输某些游戏，选手也都很有体育精神，看得我燃起来了🔥<br><video src="https://videocdn.jellow.site/lse8guPlupDhJTlj6pxnxg9nFvJ2.mp4?sign=254e533b02e352bbd770772727f1ae9c&amp;t=62b4d253" controls=""></video>]]></description>
+            <title><![CDATA[Shader Showdown
+最近最喜欢看的“电竞比赛”😏
+
+两个选手现场限时写shader，最后谁的呼声高谁就直接晋级。
+紧张刺激程度完全不输某些游戏，选手也都很有体育...]]></title>
+            <description><![CDATA[<br>Shader Showdown<br>最近最喜欢看的“电竞比赛”😏<br><br>两个选手现场限时写shader，最后谁的呼声高谁就直接晋级。<br>紧张刺激程度完全不输某些游戏，选手也都很有体育精神，看得我燃起来了🔥]]></description>
             <pubDate>Mon, 20 Jun 2022 05:12:28 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62b001bcfd3c6c18815e0bbd</guid>
             <link>https://m.okjike.com/originalPosts/62b001bcfd3c6c18815e0bbd</link>
             
             
             
-            <author><![CDATA[不可兼容]]></author>
+            
             
                 
             
@@ -169,15 +180,21 @@
         </item>
         
         <item>
-            <title><![CDATA[我整理的Unity游戏开发学习途径，希望能帮到想做游戏的人。 重点： 一边做项目，一边按顺序学。 学习时间参考： 我愚笨，2200小时入门。]]></title>
-            <description><![CDATA[<span>用户昵称：愚笨的杰克有茶 <br> Username：C027E21D-DFD6-4F88-AF40-31871E1FB6F4</span><br><br>                    <img src="https://www.notion.so/images/meta/default.png" referrerpolicy="no-referrer"><br>                    <a href="https://jackwithtea.notion.site/bd9815453ed14853b38983acd14610d5">Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.</a><br>                <br>我整理的Unity游戏开发学习途径，希望能帮到想做游戏的人。<br><br>重点：<br>一边做项目，一边按顺序学。<br><br>学习时间参考：<br>我愚笨，2200小时入门。]]></description>
+            <title><![CDATA[我整理的Unity游戏开发学习途径，希望能帮到想做游戏的人。
+
+重点：
+一边做项目，一边按顺序学。
+
+学习时间参考：
+我愚笨，2200小时入门。]]></title>
+            <description><![CDATA[<br>                    <img referrerpolicy="no-referrer" src="https://www.notion.so/images/meta/default.png"><br>                    <a href="https://jackwithtea.notion.site/bd9815453ed14853b38983acd14610d5">Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.</a><br>                <br>我整理的Unity游戏开发学习途径，希望能帮到想做游戏的人。<br><br>重点：<br>一边做项目，一边按顺序学。<br><br>学习时间参考：<br>我愚笨，2200小时入门。]]></description>
             <pubDate>Wed, 15 Jun 2022 01:21:39 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62a934234765357a9d313bb6</guid>
             <link>https://m.okjike.com/originalPosts/62a934234765357a9d313bb6</link>
             
             
             
-            <author><![CDATA[愚笨的杰克有茶]]></author>
+            
             
                 
             
