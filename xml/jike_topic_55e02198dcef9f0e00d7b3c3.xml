@@ -21,8 +21,40 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sat, 25 Jun 2022 04:31:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2022 08:23:52 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[接一个月前的动态， 肝了个通宵用React+TS把之前Vue的项目重构了，过程中似乎感受到了工程化的魅力。 顺便还学会了用yarn和scss。 香，太香了！ 还有即友推荐的E...]]></title>
+            <description><![CDATA[<span>用户昵称：白云无尽 <br> Username：1ac08f86-e07b-4358-81be-a66b90dbcc20</span><br><br>接一个月前的动态，<br>肝了个通宵用React+TS把之前Vue的项目重构了，过程中似乎感受到了工程化的魅力。<br>顺便还学会了用yarn和scss。<br>香，太香了！<br>还有即友推荐的ElasticUI也很香，大大减少了我抓耳挠腮的次数🙈<br>睡醒看上周收藏的Jetpack Compose，还有个base Android 8的App也需要重构🥲客户端技术这两年发展真迅猛啊。]]></description>
+            <pubDate>Fri, 24 Jun 2022 22:18:51 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62b6384b0b73fa978b5ebefb</guid>
+            <link>https://m.okjike.com/originalPosts/62b6384b0b73fa978b5ebefb</link>
+            
+            
+            
+            <author><![CDATA[白云无尽]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[初中就开始学编程。 夸张😂😂😂😂😂]]></title>
+            <description><![CDATA[<span>用户昵称：前端菜鸟加油 <br> Username：c12494ca-bc2d-4a87-adc3-4daffd3d446b</span><br><br>初中就开始学编程。<br><br>夸张😂😂😂😂😂<br><img src="https://cdn.jellow.site/FjgXDXzdgROJbwNY0uBx-K8sS_knv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 24 Jun 2022 15:13:02 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62b5d47e0b73fa978b44123c</guid>
+            <link>https://m.okjike.com/originalPosts/62b5d47e0b73fa978b44123c</link>
+            
+            
+            
+            <author><![CDATA[前端菜鸟加油]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[花了200小时吧，一边跟着学习，一边写了一个游戏引擎的框架... 虽然只写完2D的渲染管线，还没加物理引擎，不过应该可以放进简历里了🥲]]></title>
@@ -130,38 +162,6 @@
             
             
             <author><![CDATA[哥飞]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[#独立开发的日常 写了个用来快速注册小程序的小程序。可以免300元微信认证费。有注册小程序需求的朋友们可以试试～😃 完整的产品说明看这里：https://idoubi.c...]]></title>
-            <description><![CDATA[<span>用户昵称：艾逗笔 <br> Username：35224A78-8B11-469E-B307-16B58688FBEC</span><br><br>#独立开发的日常 写了个用来快速注册小程序的小程序。可以免300元微信认证费。有注册小程序需求的朋友们可以试试～😃<br>完整的产品说明看这里：https://idoubi.cc/posts/quick-register-miniprogram/<br><img src="https://cdn.jellow.site/FmmcyqmkPAGIVuurNquRrCZn0ncOv3.png" referrerpolicy="no-referrer"><br><img src="https://cdn.jellow.site/FtQW48z0Pq_0uabnSZOCjB9Ng6YCv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 20 Jun 2022 10:01:57 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62b045951f2496b0ccdc78a2</guid>
-            <link>https://m.okjike.com/originalPosts/62b045951f2496b0ccdc78a2</link>
-            
-            
-            
-            <author><![CDATA[艾逗笔]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Shader Showdown 最近最喜欢看的“电竞比赛”😏 两个选手现场限时写shader，最后谁的呼声高谁就直接晋级。 紧张刺激程度完全不输某些游戏，选手也都很有体育精...]]></title>
-            <description><![CDATA[<span>用户昵称：不可兼容 <br> Username：b837591e-0977-425c-b302-46219fb068a8</span><br><br>Shader Showdown<br>最近最喜欢看的“电竞比赛”😏<br><br>两个选手现场限时写shader，最后谁的呼声高谁就直接晋级。<br>紧张刺激程度完全不输某些游戏，选手也都很有体育精神，看得我燃起来了🔥<br><video src="https://videocdn.jellow.site/lse8guPlupDhJTlj6pxnxg9nFvJ2.mp4?sign=ba1b3a2bc5f0315c1eac36a3b73ca997&amp;t=62b695b1" controls=""></video>]]></description>
-            <pubDate>Mon, 20 Jun 2022 05:12:28 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62b001bcfd3c6c18815e0bbd</guid>
-            <link>https://m.okjike.com/originalPosts/62b001bcfd3c6c18815e0bbd</link>
-            
-            
-            
-            <author><![CDATA[不可兼容]]></author>
             
                 
             
