@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[分享白菜达人的微博]]></title>
         <link>https://weibo.com/5609361977/</link>
-        <atom:link href="https://rsshub.rssforever.com/weibo/user/5609361977" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub/weibo/user/5609361977" rel="self" type="application/rss+xml" />
         <description><![CDATA[跟着博主抢红包，薅羊毛！撸免单！买超优惠商品！ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -16,13 +16,29 @@
         <language>zh-cn</language>
         
         <image>
-            <url>https://tvax2.sinaimg.cn/crop.0.0.512.512.180/0067Cjihly8gb7w03ko6vj30e80e874q.jpg?KID=imgbed,tva&#38;Expires=1656285600&#38;ssig=yl%2Fe%2BCXguM</url>
+            <url>https://tvax2.sinaimg.cn/crop.0.0.512.512.180/0067Cjihly8gb7w03ko6vj30e80e874q.jpg?KID=imgbed,tva&#38;Expires=1656305947&#38;ssig=vrOaHwjvF6</url>
             <title><![CDATA[分享白菜达人的微博]]></title>
             <link>https://weibo.com/5609361977/</link>
         </image>
         
-        <lastBuildDate>Sun, 26 Jun 2022 20:20:01 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Mon, 27 Jun 2022 01:59:08 GMT</lastBuildDate>
+        <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[pdd 【9.9】比比赞 紫米面包 2斤 [图片][图片][图片]]]></title>
+            <description><![CDATA[pdd <br><br>【9.9】比比赞 紫米面包 2斤 <img style="" src="https://wx3.sinaimg.cn/large/0067Cjihly1h3mkalu16kj30m80m8dkt.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://wx4.sinaimg.cn/large/0067Cjihly1h3mkalx513j30m80m8dkf.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://wx1.sinaimg.cn/large/0067Cjihly1h3mkaltul5j30kd0kdq6r.jpg" referrerpolicy="no-referrer"><br><br>]]></description>
+            <pubDate>Mon, 27 Jun 2022 01:50:17 GMT</pubDate>
+            <guid isPermaLink="false">https://weibo.com/5609361977/LzCREC8R7</guid>
+            <link>https://weibo.com/5609361977/LzCREC8R7</link>
+            
+            
+            
+            <author><![CDATA[分享白菜达人]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[PDD 【15.9】奈雪的茶 汽泡水500m*5瓶 [图片][图片][图片]]]></title>
@@ -158,22 +174,6 @@
             <pubDate>Sun, 26 Jun 2022 12:51:33 GMT</pubDate>
             <guid isPermaLink="false">https://weibo.com/5609361977/LzxLziBl0</guid>
             <link>https://weibo.com/5609361977/LzxLziBl0</link>
-            
-            
-            
-            <author><![CDATA[分享白菜达人]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[猫超包邮，可消灭猫超卡【19.95】花王.玫瑰香皂130g*3块 [图片][图片][图片]]]></title>
-            <description><![CDATA[猫超包邮，可消灭猫超卡<br>【19.95】花王.玫瑰香皂130g*3块 <img style="" src="https://wx3.sinaimg.cn/large/0067Cjihly1h3lxd8rbk1j30rs0rsq50.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://wx1.sinaimg.cn/large/0067Cjihly1h3lxd8si04j30m80m8n15.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://wx3.sinaimg.cn/large/0067Cjihly1h3lxd8rp9rj30m80m8goi.jpg" referrerpolicy="no-referrer"><br><br>]]></description>
-            <pubDate>Sun, 26 Jun 2022 12:37:18 GMT</pubDate>
-            <guid isPermaLink="false">https://weibo.com/5609361977/LzxFMyPZP</guid>
-            <link>https://weibo.com/5609361977/LzxFMyPZP</link>
             
             
             
