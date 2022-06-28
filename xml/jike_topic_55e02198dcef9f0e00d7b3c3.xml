@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss  xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
 
-
 >
     <channel>
         <title><![CDATA[JitHub - 即刻圈子]]></title>
         <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
-        <atom:link href="https://rsshub/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
+        <atom:link href="https://vercel.getrss2021.xyz/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
         <description><![CDATA[开发者们分享，问答，也可以交友的地方。欢迎所有工程师！ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -21,19 +20,39 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 28 Jun 2022 01:57:18 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Tue, 28 Jun 2022 04:45:35 GMT</lastBuildDate>
+        <ttl>5</ttl>
         
         <item>
-            <title><![CDATA[Input Source Pro 新版本发布 🥳 - 终于，输入法提示可以定位到光标啦！👈🤡 - 支持为每个 App 独立配置输入法恢复逻辑 - 「应用规则」添加应用更加方便，...]]></title>
-            <description><![CDATA[<span>用户昵称：Runjuu <br> Username：211AC08F-8546-4CAE-8274-5C371574332A</span><br><br>Input Source Pro 新版本发布 🥳<br><br>- 终于，输入法提示可以定位到光标啦！👈🤡<br>- 支持为每个 App 独立配置输入法恢复逻辑<br>- 「应用规则」添加应用更加方便，可以直接选择当前运行中的应用<br><br>快来试试最新的提示功能！😆<br><video src="https://videocdn.jellow.site/FtQ4AhszODA1yZ-8fpGJB0PXQ_A8.mp4?sign=897bbe05fabd8400cf559476ea74e663&amp;t=62ba6598" controls=""></video>]]></description>
+            <title><![CDATA[求问，这个漫画叫什么我要去追😂]]></title>
+            <description><![CDATA[<br>求问，这个漫画叫什么我要去追😂<br><picture><source srcset="https://cdn.jellow.site/FsNOplDskiQw859kUfgjzV65eSYhv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FsNOplDskiQw859kUfgjzV65eSYhv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FsNOplDskiQw859kUfgjzV65eSYhv3.png"></picture><br><picture><source srcset="https://cdn.jellow.site/FqFtyux9p47R13VoZB55TPO__mKrv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FqFtyux9p47R13VoZB55TPO__mKrv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FqFtyux9p47R13VoZB55TPO__mKrv3.png"></picture>]]></description>
+            <pubDate>Sun, 26 Jun 2022 23:23:18 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62b8ea660b73fa978b95add8</guid>
+            <link>https://m.okjike.com/originalPosts/62b8ea660b73fa978b95add8</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Input Source Pro 新版本发布 🥳
+
+- 终于，输入法提示可以定位到光标啦！👈🤡
+- 支持为每个 App 独立配置输入法恢复逻辑
+- 「应用规则」添加应用更加方便...]]></title>
+            <description><![CDATA[<br>Input Source Pro 新版本发布 🥳<br><br>- 终于，输入法提示可以定位到光标啦！👈🤡<br>- 支持为每个 App 独立配置输入法恢复逻辑<br>- 「应用规则」添加应用更加方便，可以直接选择当前运行中的应用<br><br>快来试试最新的提示功能！😆]]></description>
             <pubDate>Sun, 26 Jun 2022 22:49:50 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62b8e28e0b73fa978b92bb03</guid>
             <link>https://m.okjike.com/originalPosts/62b8e28e0b73fa978b92bb03</link>
             
             
             
-            <author><![CDATA[Runjuu]]></author>
+            
             
                 
             
@@ -41,15 +60,17 @@
         </item>
         
         <item>
-            <title><![CDATA[精益副业 —— 程序员副业指南 链接：http://r.ftqq.com/lean-side-bussiness/ 已经作为自由职业者的前前端工程师 Easy 写的，扩展了之前写的《程序员如何优雅地...]]></title>
-            <description><![CDATA[<span>用户昵称：龙爪槐守望者 <br> Username：2FCBB59D-93C2-488A-AFBD-38B70B267742</span><br><br>精益副业 —— 程序员副业指南<br>链接：http://r.ftqq.com/lean-side-bussiness/<br>已经作为自由职业者的前前端工程师 Easy 写的，扩展了之前写的《程序员如何优雅地挣零花钱》的内容，将其放到更大的副业视角；同时，引入经过互联网行业验证的「精益创业」流程，并优化为副业专用的「精益副业」流程。打算经营副业的同学可以看看。<br><img src="https://cdn.jellow.site/FmZNOYjsYytoW65R7sS4FjiwQbrHv3.png" referrerpolicy="no-referrer">]]></description>
+            <title><![CDATA[精益副业 —— 程序员副业指南
+链接：http://r.ftqq.com/lean-side-bussiness/
+已经作为自由职业者的前前端工程师 Easy 写的，扩展了之前写的《程序员如何优雅地...]]></title>
+            <description><![CDATA[<br>精益副业 —— 程序员副业指南<br>链接：http://r.ftqq.com/lean-side-bussiness/<br>已经作为自由职业者的前前端工程师 Easy 写的，扩展了之前写的《程序员如何优雅地挣零花钱》的内容，将其放到更大的副业视角；同时，引入经过互联网行业验证的「精益创业」流程，并优化为副业专用的「精益副业」流程。打算经营副业的同学可以看看。<br><picture><source srcset="https://cdn.jellow.site/FmZNOYjsYytoW65R7sS4FjiwQbrHv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FmZNOYjsYytoW65R7sS4FjiwQbrHv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FmZNOYjsYytoW65R7sS4FjiwQbrHv3.png"></picture>]]></description>
             <pubDate>Sun, 26 Jun 2022 15:38:03 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62b87d5b16fcfed063d71233</guid>
             <link>https://m.okjike.com/originalPosts/62b87d5b16fcfed063d71233</link>
             
             
             
-            <author><![CDATA[龙爪槐守望者]]></author>
+            
             
                 
             
@@ -57,31 +78,18 @@
         </item>
         
         <item>
-            <title><![CDATA[tldraw是一个开源可自部署的共享画布。TL;DR是“Too Long; Don't Read”的缩写，相当于文章摘要。而它跟draw拼起来，刚好是tldraw。 网站：www.tldraw.com 仓库...]]></title>
-            <description><![CDATA[<span>用户昵称：gantrol <br> Username：EA8FE109-3ACB-4641-98C8-B7D61EDD8637</span><br><br>tldraw是一个开源可自部署的共享画布。TL;DR是“Too Long; Don't Read”的缩写，相当于文章摘要。而它跟draw拼起来，刚好是tldraw。<br><br>网站：www.tldraw.com<br>仓库：github.com/tldraw/tldraw<br><br>图为一群学龄前水平画手创作，然后一位大佬随意乱杀。<br><img src="https://cdn.jellow.site/FkJsJJAFnR5fxD1BEj_P8Z8Wmdqbv3.png" referrerpolicy="no-referrer">]]></description>
+            <title><![CDATA[tldraw是一个开源可自部署的共享画布。TL;DR是“Too Long; Don't Read”的缩写，相当于文章摘要。而它跟draw拼起来，刚好是tldraw。
+
+网站：www.tldraw.com
+仓库...]]></title>
+            <description><![CDATA[<br>tldraw是一个开源可自部署的共享画布。TL;DR是“Too Long; Don't Read”的缩写，相当于文章摘要。而它跟draw拼起来，刚好是tldraw。<br><br>网站：www.tldraw.com<br>仓库：github.com/tldraw/tldraw<br><br>图为一群学龄前水平画手创作，然后一位大佬随意乱杀。<br><picture><source srcset="https://cdn.jellow.site/FkJsJJAFnR5fxD1BEj_P8Z8Wmdqbv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FkJsJJAFnR5fxD1BEj_P8Z8Wmdqbv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FkJsJJAFnR5fxD1BEj_P8Z8Wmdqbv3.png"></picture>]]></description>
             <pubDate>Sun, 26 Jun 2022 08:12:03 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62b814d35b02b79418937cef</guid>
             <link>https://m.okjike.com/originalPosts/62b814d35b02b79418937cef</link>
             
             
             
-            <author><![CDATA[gantrol]]></author>
             
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[最近看到一些数学艺术很好看，也把一个类似的想法实现了出来： 一个用数学函数, t, i 和其他变量生成图形的工具 Tin。 https://github.com/ddiu8081/tin https:/...]]></title>
-            <description><![CDATA[<span>用户昵称：Diu <br> Username：f9774c49-6784-47a7-9bf4-b90474619a36</span><br><br>最近看到一些数学艺术很好看，也把一个类似的想法实现了出来：<br>一个用数学函数, t, i 和其他变量生成图形的工具 Tin。<br><br>https://github.com/ddiu8081/tin<br>https://notes.ljl.li/introducing-tin/<img src="https://cdn.jellow.site/Fj5bPQHB5BnOyEh9Vj_St3IKyXtzv3.gif" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 25 Jun 2022 10:42:46 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62b6e6a60d31b3f7d1b453c5</guid>
-            <link>https://m.okjike.com/originalPosts/62b6e6a60d31b3f7d1b453c5</link>
-            
-            
-            
-            <author><![CDATA[Diu]]></author>
             
                 
             
@@ -90,14 +98,14 @@
         
         <item>
             <title><![CDATA[Telegram不到100MB的大小，真正小而美的软件。]]></title>
-            <description><![CDATA[<span>用户昵称：xinxing <br> Username：55DB8D68-AE63-4811-8365-76ADB0AB2D17</span><br><br>Telegram不到100MB的大小，真正小而美的软件。]]></description>
+            <description><![CDATA[<br>Telegram不到100MB的大小，真正小而美的软件。]]></description>
             <pubDate>Sat, 25 Jun 2022 10:21:28 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62b6e1a849e7647c2b1cc540</guid>
             <link>https://m.okjike.com/originalPosts/62b6e1a849e7647c2b1cc540</link>
             
             
             
-            <author><![CDATA[xinxing]]></author>
+            
             
                 
             
@@ -106,14 +114,14 @@
         
         <item>
             <title><![CDATA[麦当劳的广告屏幕链接的系统，没认错的话，是Ubuntu ？]]></title>
-            <description><![CDATA[<span>用户昵称：昵称404_500 <br> Username：ADB90250-8FCD-45E1-88F8-7BE243B1301D</span><br><br>麦当劳的广告屏幕链接的系统，没认错的话，是Ubuntu ？<br><img src="https://cdn.jellow.site/Fjc7iMlVjx8RmyGqir3dWIluzAsSv3.heic" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[<br>麦当劳的广告屏幕链接的系统，没认错的话，是Ubuntu ？<br><picture><source srcset="https://cdn.jellow.site/Fjc7iMlVjx8RmyGqir3dWIluzAsSv3.heic?imageMogr2/auto-orient/heic-exif/1/format/jpeg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/Fjc7iMlVjx8RmyGqir3dWIluzAsSv3.heic" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Fjc7iMlVjx8RmyGqir3dWIluzAsSv3.heic"></picture>]]></description>
             <pubDate>Sat, 25 Jun 2022 09:34:39 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62b6d6af8010bda01b1abbcb</guid>
             <link>https://m.okjike.com/originalPosts/62b6d6af8010bda01b1abbcb</link>
             
             
             
-            <author><![CDATA[昵称404_500]]></author>
+            
             
                 
             
@@ -122,14 +130,14 @@
         
         <item>
             <title><![CDATA[小程序不需要用户授权，就能默默拿到你的用户身份唯一标识 openid]]></title>
-            <description><![CDATA[<span>用户昵称：彭宏豪95 <br> Username：eb471b12-6eb9-4970-8dc5-426f0f27cc47</span><br><br>小程序不需要用户授权，就能默默拿到你的用户身份唯一标识 openid<br><img src="https://cdn.jellow.site/FnZy7ZPJ_G_XiekK6qkP7HCEn-Yqv3.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[<br>小程序不需要用户授权，就能默默拿到你的用户身份唯一标识 openid<br><picture><source srcset="https://cdn.jellow.site/FnZy7ZPJ_G_XiekK6qkP7HCEn-Yqv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FnZy7ZPJ_G_XiekK6qkP7HCEn-Yqv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FnZy7ZPJ_G_XiekK6qkP7HCEn-Yqv3.png"></picture>]]></description>
             <pubDate>Sat, 25 Jun 2022 07:46:35 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62b6bd5b0f826f7fefd9665a</guid>
             <link>https://m.okjike.com/originalPosts/62b6bd5b0f826f7fefd9665a</link>
             
             
             
-            <author><![CDATA[彭宏豪95]]></author>
+            
             
                 
             
@@ -138,14 +146,14 @@
         
         <item>
             <title><![CDATA[花了200小时吧，一边跟着学习，一边写了一个游戏引擎的框架... 虽然只写完2D的渲染管线，还没加物理引擎，不过应该可以放进简历里了🥲]]></title>
-            <description><![CDATA[<span>用户昵称：橘猫儿Leo <br> Username：D8D1DAF0-EA6C-4520-94E3-BFE4F62E3937</span><br><br>花了200小时吧，一边跟着学习，一边写了一个游戏引擎的框架... 虽然只写完2D的渲染管线，还没加物理引擎，不过应该可以放进简历里了🥲<br><img src="https://cdn.jellow.site/FqSZMvtP74G9rIczhgvrS50j72M8v3.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[<br>花了200小时吧，一边跟着学习，一边写了一个游戏引擎的框架... 虽然只写完2D的渲染管线，还没加物理引擎，不过应该可以放进简历里了🥲<br><picture><source srcset="https://cdn.jellow.site/FqSZMvtP74G9rIczhgvrS50j72M8v3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FqSZMvtP74G9rIczhgvrS50j72M8v3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FqSZMvtP74G9rIczhgvrS50j72M8v3.png"></picture>]]></description>
             <pubDate>Thu, 23 Jun 2022 05:24:35 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62b3f9132d39f94d8185e4ba</guid>
             <link>https://m.okjike.com/originalPosts/62b3f9132d39f94d8185e4ba</link>
             
             
             
-            <author><![CDATA[橘猫儿Leo]]></author>
+            
             
                 
             
@@ -153,15 +161,16 @@
         </item>
         
         <item>
-            <title><![CDATA[@EasyChen 老师有心了，《精益副业：程序员如何优雅做副业》发布了。 Easy 老师最早在微博做技术，搞 sae 。后来创业做了 jobdeer ，之后回重庆老家做独立开发。...]]></title>
-            <description><![CDATA[<span>用户昵称：哥飞 <br> Username：a2d6acc1-626f-4d15-a22a-849e88a4c9f0</span><br><br>@EasyChen 老师有心了，《精益副业：程序员如何优雅做副业》发布了。<br>Easy 老师最早在微博做技术，搞 sae 。后来创业做了 jobdeer ，之后回重庆老家做独立开发。<br>很多人直接或者间接用过的 pushdeer 就是 Easy 老师做的。<br>这本新书，扩展自老师之前写的《程序员如何优雅地挣零花钱》，后半部分以实际案例形式讲了“独立开发变现”和“网课变现实践”等相关内容。<br><img src="https://cdn.jellow.site/FniUAJn9tW69M8DSWiKXNr0OjbQXv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <title><![CDATA[@EasyChen 老师有心了，《精益副业：程序员如何优雅做副业》发布了。
+Easy 老师最早在微博做技术，搞 sae 。后来创业做了 jobdeer ，之后回重庆老家做独立开发。...]]></title>
+            <description><![CDATA[<br>@EasyChen 老师有心了，《精益副业：程序员如何优雅做副业》发布了。<br>Easy 老师最早在微博做技术，搞 sae 。后来创业做了 jobdeer ，之后回重庆老家做独立开发。<br>很多人直接或者间接用过的 pushdeer 就是 Easy 老师做的。<br>这本新书，扩展自老师之前写的《程序员如何优雅地挣零花钱》，后半部分以实际案例形式讲了“独立开发变现”和“网课变现实践”等相关内容。<br><picture><source srcset="https://cdn.jellow.site/FniUAJn9tW69M8DSWiKXNr0OjbQXv3.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FniUAJn9tW69M8DSWiKXNr0OjbQXv3.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FniUAJn9tW69M8DSWiKXNr0OjbQXv3.jpg"></picture>]]></description>
             <pubDate>Mon, 20 Jun 2022 11:28:48 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62b059f0c16d1eb27770ffc6</guid>
             <link>https://m.okjike.com/originalPosts/62b059f0c16d1eb27770ffc6</link>
             
             
             
-            <author><![CDATA[哥飞]]></author>
+            
             
                 
             
@@ -169,15 +178,21 @@
         </item>
         
         <item>
-            <title><![CDATA[我整理的Unity游戏开发学习途径，希望能帮到想做游戏的人。 重点： 一边做项目，一边按顺序学。 学习时间参考： 我愚笨，2200小时入门。]]></title>
-            <description><![CDATA[<span>用户昵称：杰克有茶16byte <br> Username：C027E21D-DFD6-4F88-AF40-31871E1FB6F4</span><br><br>                    <img src="https://www.notion.so/images/meta/default.png" referrerpolicy="no-referrer"><br>                    <a href="https://jackwithtea.notion.site/bd9815453ed14853b38983acd14610d5">Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.</a><br>                <br>我整理的Unity游戏开发学习途径，希望能帮到想做游戏的人。<br><br>重点：<br>一边做项目，一边按顺序学。<br><br>学习时间参考：<br>我愚笨，2200小时入门。]]></description>
+            <title><![CDATA[我整理的Unity游戏开发学习途径，希望能帮到想做游戏的人。
+
+重点：
+一边做项目，一边按顺序学。
+
+学习时间参考：
+我愚笨，2200小时入门。]]></title>
+            <description><![CDATA[<br>                    <img referrerpolicy="no-referrer" src="https://www.notion.so/images/meta/default.png"><br>                    <a href="https://jackwithtea.notion.site/bd9815453ed14853b38983acd14610d5">Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.</a><br>                <br>我整理的Unity游戏开发学习途径，希望能帮到想做游戏的人。<br><br>重点：<br>一边做项目，一边按顺序学。<br><br>学习时间参考：<br>我愚笨，2200小时入门。]]></description>
             <pubDate>Wed, 15 Jun 2022 01:21:39 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62a934234765357a9d313bb6</guid>
             <link>https://m.okjike.com/originalPosts/62a934234765357a9d313bb6</link>
             
             
             
-            <author><![CDATA[杰克有茶16byte]]></author>
+            
             
                 
             
