@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss  xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
 
-
 >
     <channel>
         <title><![CDATA[JitHub - 即刻圈子]]></title>
         <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
-        <atom:link href="https://rsshub/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
+        <atom:link href="https://vercel.getrss2021.xyz/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
         <description><![CDATA[开发者们分享，问答，也可以交友的地方。欢迎所有工程师！ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -21,19 +20,19 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Fri, 01 Jul 2022 04:58:07 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Fri, 01 Jul 2022 08:27:28 GMT</lastBuildDate>
+        <ttl>5</ttl>
         
         <item>
             <title><![CDATA[4. 编辑器巡礼 - 内核恐慌]]></title>
-            <description><![CDATA[<span>用户昵称：呆唯Yui <br> Username：lkavion</span><br><br>                    <img src="https://cdn.jellow.site/FixDkFCTfR9jUnOcLdF0Slzsl4db?imageMogr2/auto-orient/heic-exif/1/format/jpeg?imageView2/0/w/800/h/800/format/jpeg/q/80" referrerpolicy="no-referrer"><br>                    <a href="https://www.xiaoyuzhoufm.com/episode/5e84c3ac418a84a0462df9e0?s=eyJ1IjogIjVlNDRmNzk2MzQxOWY0MDhiMzE4Njg4NCJ9">4. 编辑器巡礼 - 内核恐慌</a><br>                <br>Vim 9.0发布之际不妨听听]]></description>
+            <description><![CDATA[<br>                    <img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FixDkFCTfR9jUnOcLdF0Slzsl4db?imageMogr2/auto-orient/heic-exif/1/format/jpeg?imageView2/0/w/800/h/800/format/jpeg/q/80"><br>                    <a href="https://www.xiaoyuzhoufm.com/episode/5e84c3ac418a84a0462df9e0?s=eyJ1IjogIjVlNDRmNzk2MzQxOWY0MDhiMzE4Njg4NCJ9">4. 编辑器巡礼 - 内核恐慌</a><br>                <br>Vim 9.0发布之际不妨听听]]></description>
             <pubDate>Fri, 01 Jul 2022 01:00:49 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62be474147fd97524fc380f1</guid>
             <link>https://m.okjike.com/originalPosts/62be474147fd97524fc380f1</link>
             
             
             
-            <author><![CDATA[呆唯Yui]]></author>
+            
             
                 
             
@@ -41,15 +40,33 @@
         </item>
         
         <item>
-            <title><![CDATA[RegexOne 一个互动式学习正则表达式的在线工具 https://regexone.com/ 这种跟着任务学，有实时反馈的互动学习方式，推荐给大家。]]></title>
-            <description><![CDATA[<span>用户昵称：哥飞 <br> Username：a2d6acc1-626f-4d15-a22a-849e88a4c9f0</span><br><br>RegexOne 一个互动式学习正则表达式的在线工具<br>https://regexone.com/<br>这种跟着任务学，有实时反馈的互动学习方式，推荐给大家。<br><img src="https://cdn.jellow.site/FrbTUA41i1vkdcPVhkgfMxXdy0NYv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <title><![CDATA[无题]]></title>
+            <description><![CDATA[<br><br><picture><source srcset="https://cdn.jellow.site/FnQ2geDSYszQuc78ymxbs9phMiq-v3.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FnQ2geDSYszQuc78ymxbs9phMiq-v3.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FnQ2geDSYszQuc78ymxbs9phMiq-v3.jpg"></picture>]]></description>
+            <pubDate>Thu, 30 Jun 2022 23:43:44 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62be3530c2a155a6d95e767c</guid>
+            <link>https://m.okjike.com/originalPosts/62be3530c2a155a6d95e767c</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RegexOne 一个互动式学习正则表达式的在线工具
+https://regexone.com/
+这种跟着任务学，有实时反馈的互动学习方式，推荐给大家。]]></title>
+            <description><![CDATA[<br>RegexOne 一个互动式学习正则表达式的在线工具<br>https://regexone.com/<br>这种跟着任务学，有实时反馈的互动学习方式，推荐给大家。<br><picture><source srcset="https://cdn.jellow.site/FrbTUA41i1vkdcPVhkgfMxXdy0NYv3.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FrbTUA41i1vkdcPVhkgfMxXdy0NYv3.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FrbTUA41i1vkdcPVhkgfMxXdy0NYv3.jpg"></picture>]]></description>
             <pubDate>Thu, 30 Jun 2022 14:28:01 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62bdb2f1394a9e6bdc220400</guid>
             <link>https://m.okjike.com/originalPosts/62bdb2f1394a9e6bdc220400</link>
             
             
             
-            <author><![CDATA[哥飞]]></author>
+            
             
                 
             
@@ -58,14 +75,14 @@
         
         <item>
             <title><![CDATA[Vim快捷键快给我弄晕了😵‍💫]]></title>
-            <description><![CDATA[<span>用户昵称：seannnnnnn_ <br> Username：799DCAF9-EF40-455E-8DD4-97CCDF4D0484</span><br><br>Vim快捷键快给我弄晕了😵‍💫]]></description>
+            <description><![CDATA[<br>Vim快捷键快给我弄晕了😵‍💫]]></description>
             <pubDate>Thu, 30 Jun 2022 12:48:19 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62bd9b9337101da90965aaac</guid>
             <link>https://m.okjike.com/originalPosts/62bd9b9337101da90965aaac</link>
             
             
             
-            <author><![CDATA[seannnnnnn_]]></author>
+            
             
                 
             
@@ -73,15 +90,20 @@
         </item>
         
         <item>
-            <title><![CDATA[SQLBolt 一个互动式学 SQL 的在线工具 https://sqlbolt.com/ 总共包含以下20个章节： SQL 简介 SQL 第 1 课：SELECT 查询 101 SQL 第 2 课：带约束的查询 (Pt. 1...]]></title>
-            <description><![CDATA[<span>用户昵称：哥飞 <br> Username：a2d6acc1-626f-4d15-a22a-849e88a4c9f0</span><br><br>SQLBolt 一个互动式学 SQL 的在线工具<br>https://sqlbolt.com/<br>总共包含以下20个章节：<br>SQL 简介<br>SQL 第 1 课：SELECT 查询 101<br>SQL 第 2 课：带约束的查询 (Pt. 1)<br>SQL 第 3 课：带约束的查询 (Pt. 2)<br>SQL 第 4 课：过滤和排序查询结果<br>SQL 回顾：简单的 SELECT 查询<br>SQL 第 6 课：使用 JOIN 进行多表查询<br>SQL 第 7 课：外部连接<br>SQL 第 8 课：关于 NULL 的简短说明<br>SQL 第 9 课：使用表达式进行查询<br>SQL 第 10 课：聚合查询 (Pt. 1)<br>SQL 第 11 课：聚合查询 (Pt. 2)<br>SQL 第 12 课：查询的执行顺序<br>SQL 第 13 课：插入行<br>SQL 第 14 课：更新行<br>SQL 第 15 课：删除行<br>SQL 第 16 课：创建表<br>SQL 第 17 课：更改表<br>SQL 第 18 课：删除表<br>SQL 第 X 课：走向无限和超越！<br><img src="https://cdn.jellow.site/FpM7Om9t7EYupB8_Hie-gmUHqXsGv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <title><![CDATA[SQLBolt 一个互动式学 SQL 的在线工具
+https://sqlbolt.com/
+总共包含以下20个章节：
+SQL 简介
+SQL 第 1 课：SELECT 查询 101
+SQL 第 2 课：带约束的查询 (Pt. 1...]]></title>
+            <description><![CDATA[<br>SQLBolt 一个互动式学 SQL 的在线工具<br>https://sqlbolt.com/<br>总共包含以下20个章节：<br>SQL 简介<br>SQL 第 1 课：SELECT 查询 101<br>SQL 第 2 课：带约束的查询 (Pt. 1)<br>SQL 第 3 课：带约束的查询 (Pt. 2)<br>SQL 第 4 课：过滤和排序查询结果<br>SQL 回顾：简单的 SELECT 查询<br>SQL 第 6 课：使用 JOIN 进行多表查询<br>SQL 第 7 课：外部连接<br>SQL 第 8 课：关于 NULL 的简短说明<br>SQL 第 9 课：使用表达式进行查询<br>SQL 第 10 课：聚合查询 (Pt. 1)<br>SQL 第 11 课：聚合查询 (Pt. 2)<br>SQL 第 12 课：查询的执行顺序<br>SQL 第 13 课：插入行<br>SQL 第 14 课：更新行<br>SQL 第 15 课：删除行<br>SQL 第 16 课：创建表<br>SQL 第 17 课：更改表<br>SQL 第 18 课：删除表<br>SQL 第 X 课：走向无限和超越！<br><picture><source srcset="https://cdn.jellow.site/FpM7Om9t7EYupB8_Hie-gmUHqXsGv3.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FpM7Om9t7EYupB8_Hie-gmUHqXsGv3.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FpM7Om9t7EYupB8_Hie-gmUHqXsGv3.jpg"></picture>]]></description>
             <pubDate>Thu, 30 Jun 2022 09:27:16 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62bd6c747facdc0bcd61cee1</guid>
             <link>https://m.okjike.com/originalPosts/62bd6c747facdc0bcd61cee1</link>
             
             
             
-            <author><![CDATA[哥飞]]></author>
+            
             
                 
             
@@ -89,15 +111,17 @@
         </item>
         
         <item>
-            <title><![CDATA[Beekeeper Studio 一款开源的跨平台 SQL 编辑器 https://github.com/beekeeper-studio/beekeeper-studio 提供 SQL 语法高亮、自动补全、数据表内容筛选与过滤、...]]></title>
-            <description><![CDATA[<span>用户昵称：哥飞 <br> Username：a2d6acc1-626f-4d15-a22a-849e88a4c9f0</span><br><br>Beekeeper Studio 一款开源的跨平台 SQL 编辑器<br>https://github.com/beekeeper-studio/beekeeper-studio<br>提供 SQL 语法高亮、自动补全、数据表内容筛选与过滤、连接 Web 数据库、存储历史查询记录等功能。<br>该编辑器支持 SQLite、MySQL、MariaDB、Postgres 等主流数据库，并兼容 Windows、macOS、Linux 等桌面操作系统。<br><img src="https://cdn.jellow.site/Fs7HaCOhBqp_bG71t83bXbVdtMI2v3.jpg" referrerpolicy="no-referrer">]]></description>
+            <title><![CDATA[Beekeeper Studio 一款开源的跨平台 SQL 编辑器
+https://github.com/beekeeper-studio/beekeeper-studio
+提供 SQL 语法高亮、自动补全、数据表内容筛选与过滤、...]]></title>
+            <description><![CDATA[<br>Beekeeper Studio 一款开源的跨平台 SQL 编辑器<br>https://github.com/beekeeper-studio/beekeeper-studio<br>提供 SQL 语法高亮、自动补全、数据表内容筛选与过滤、连接 Web 数据库、存储历史查询记录等功能。<br>该编辑器支持 SQLite、MySQL、MariaDB、Postgres 等主流数据库，并兼容 Windows、macOS、Linux 等桌面操作系统。<br><picture><source srcset="https://cdn.jellow.site/Fs7HaCOhBqp_bG71t83bXbVdtMI2v3.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/Fs7HaCOhBqp_bG71t83bXbVdtMI2v3.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/Fs7HaCOhBqp_bG71t83bXbVdtMI2v3.jpg"></picture>]]></description>
             <pubDate>Wed, 29 Jun 2022 16:31:06 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62bc7e4a0d31b3f7d13dbe79</guid>
             <link>https://m.okjike.com/originalPosts/62bc7e4a0d31b3f7d13dbe79</link>
             
             
             
-            <author><![CDATA[哥飞]]></author>
+            
             
                 
             
@@ -106,14 +130,14 @@
         
         <item>
             <title><![CDATA[这里对上一条帖子（https://m.okjike.com/reposts/62b967aa0e5bf5cb8bcdb317?s=eyJ1IjoiNWVlMDYwZjBiOGNmZWEwMDE3N2JjNGE5In0%3D）作个补充，我挑几个笔记类软件...]]></title>
-            <description><![CDATA[<span>用户昵称：朴禅郑仁 <br> Username：08105272-cb94-40bf-8df6-feaa50fa1be9</span><br><br>这里对上一条帖子（https://m.okjike.com/reposts/62b967aa0e5bf5cb8bcdb317?s=eyJ1IjoiNWVlMDYwZjBiOGNmZWEwMDE3N2JjNGE5In0%3D）作个补充，我挑几个笔记类软件，简单说一下亮点和弱点：<br><br>- onenote：亮点是可以和微软的全家桶配合起来用，包括用有手机App、有剪藏插件、可以onedrive同步，不用折腾各种语法、各种插件、省事，弱点是卡片化、双链、md编辑这些没法实现。<br><br>- mybase：一款很老的软件，亮点是功能强大、有文档目录树、有笔记内TOC，弱点是笔记都存在一个mybase的数据库文件中，这样有风险，还有一些细节体验不够好。<br><br>- 印象笔记：亮点是综合功能多、多端同步、剪藏方便、搜索快，弱点是md编辑不行、管理笔记麻烦、老是推广告，其中最大的弱点是笔记一多了，打开软件很卡。<br><br>- 为知笔记：亮点同印象笔记，还有比印象笔记强的是目录多层级、md编辑强一些，弱点是搜索慢且不够精准。<br><br>- 幕布：国内学习workflowy的大纲笔记，刚出来时感觉新鲜，但是里面存在笔记一多就头大了，一方面是打开速度慢，一方面是不支持批量导出（这里吐槽一句：凡是不支持批量导出自己笔记的软件，凡是导出专用格式而无法选择其他通用格式的软件，都是垃圾！）<br><br>- trilium：亮点是多层级目录树、父笔记自动显示子笔记列表、md编辑、克隆笔记（一处修改多处同步）、快捷插入文本和表格方便等等，弱点是默认了许多边栏和按钮，无法隐藏，会干扰注意力。<br><br>- notion：亮点是block和database，以及样式漂亮，用来搭建博客的话也不错，弱点是需要联网，以及不fq的话联网速度慢。<br><br>- wolai和flowus：国内仿notion的软件，比起notion的优点是访问速度快、功能和编辑体验上适合中国人的使用习惯，弱点是没有抄到notion的database；当然，它们这三款放在一起看，我不满意的地方就是需要联网，而且批量导出笔记不行。<br><br>- obsidian：亮点是本地保存为md文件，以及社区插件众多，弱点一个是一些笔记内置功能对于ob要靠社区插件补全、一个是没有多选项卡、还有一个是所见即所得体验不好。<br><br>- logseq：亮点是大纲笔记+双链+块的颗粒度够细，还有笔记在本地生成md文件，弱点是不够稳定，会发生卡顿、丢笔记情况。这一类笔记的先行者是国外的roam research。这种大纲/双链/颗粒度细的软件，我用不习惯，其中一个原因是笔记中有许多[[]]符号，[[影响]]了[[阅读体验]]，干扰[[注意力]]。<br><br>- 思源笔记：就功能而言，它是最强的，相当于把文档、模块、可折叠大纲笔记、目录树、双链、看板、多选项卡等特性融合到一起了，标签可以有子标签，还有内置很强大的graphviz、mermaid、plantuml绘图功能，弱点一方面是生成sy格式文件，而不是md格式文件，一方面是虽然用md语法，但是它为了扩展功能，往里面加了些自定义的语法，这部分语法导出为md并不通用。<br><br>- 石墨文档、语雀、飞书：这三款都是主打团队协作的，放在一起说；石墨适合小团队协作编辑文档；语雀适合个人或小团队不用折腾代码和配置就可以搭建知识库，通常是对外展示的；飞书不仅是团队协作文档，更有一系列办公功能、团队管理功能嵌入其中。它们都不适合作为个人做笔记与搭建知识库用，适合把需要与人协作的文档或者需要对外展示的文档放上去。<br><br>- org-mode：堪称最强编辑器，加上emacs里面的各种功能、各种插件，作为搭建知识库的软件来说，可以all in one了；弱点是学习成本太高，以及你在博文里也提到的，org-mode依赖emacs，它的强大很大程度是emacs赋予的，在别的软件如vim中使用org-mode插件，发挥不出它在emacs里面的威力。<br><br>- zim desktop wiki：这是我的主力笔记软件。亮点是文档目录树、笔记内悬浮TOC、wikitext语法且所见即所得、方便创建多种wiki链接、在本地生成txt文件、笔记可以导出为md/html/rst/latex等多种格式、有多种插件包括graphviz画图等、多选项卡同时打开多篇笔记、快速笔记功能可以记录碎片、有日历方便记daily notes、有gtd任务管理功能且用wikitext语法就可以设定与管理、有反向链接、每篇笔记的附件单独放一个文件夹、可以连接git进行版本管理、各种快捷键比较多所以基本不用鼠标，还有一个我非常看重的亮点就是界面很简单，不会用花里胡哨的设计来干扰写作时注意力，同时背后又隐藏着强大的功能；正如它的名字显示的，它适合用来搭建一个电脑本地的wiki知识库；它的弱点是没有手机App端，插入的表格简单，没有默认主题可以换，需要自己自定义颜色配置，没有插入模板文字的功能，搜索体验不够好。<br><br>- tiddlywiki：亮点在上面一条也说了（https://m.okjike.com/originalPosts/62a9eb129a3118112b01c580?s=eyJ1IjoiNWVlMDYwZjBiOGNmZWEwMDE3N2JjNGE5In0%3D），就是容器网页化、功能插件化、操作快捷化、笔记卡片化、文本标记化、链接维基化，其实很多软件也都有这些特征，但是在卡片化这块，我认为tiddlywiki是最适合做卡片笔记的软件，还有个亮点是它存储为一个html，相当于把文本+样式+功能都用卡片实现了，一条笔记是一张卡片，定义一个样式也是写一张卡片，装一个插件还是写一张卡片，很神奇。因为存储为一个html，所以很适合把它直接发布为博客。当然，它的弱点也是因为html，一方面是不合适直接粘贴图片，因为保存的那个html会很大，所以最好通过图片上传到图库然后插入图片中图库中的链接，另一方面每次做一个修改，都会下载一个html文件在本地，当然，可以通过多种方式比如TiddlyDesktop来解决这个问题。还有一个弱点就是学习成本高。<br><br>总的来说，没有一款完全满意的，不是这里少点啥，就是那里缺点啥。<br><br>目前用的是：<br>锤子便签：手机端记录碎片<br>minipad2：电脑端记录碎片<br>印象笔记：专门用于手机端和电脑浏览器端剪藏网页<br>zim wiki：把碎片放到zim的wiki知识库里<br>tiddlywiki：目前还在试用，准备把积累的笔记都卡片化和维基化到这里。<br><br>对于大多数人，如果想一款软件尽量有更多功能的话（all in one），我的建议是：<br><br>初阶版之大综合：印象笔记<br>初阶版之大综合+md编辑：为知笔记<br>进阶版之md编辑与双链：obsidian<br>进阶版之模块化与多维表格：notion<br>进阶版之大纲与双链：logseq<br>进阶版之大综合：思源笔记<br>高阶版之本地维基：zim wiki<br>高阶版之卡片笔记：tiddlywiki<br>顶配版：org-mode<br><br>另外有四点很重要：<br><br>1. 内容＞工具，坚持记录、思考与写作，哪怕是纸笔也能积累很多知识、写出很多文章。<br><br>2. 选择什么工具，不可照搬，更不要跟风，最重要的是了解自己的需求，也就是你拿这个工具用来干什么。<br><br>3. 没有一款软件是完美的，没有一款软件可以all in one，关键是工作流与分类结构。<br><br>- 工作流就是你用哪几个工具组合起来做事，每个工具负责干什么，它们如何协作。<br>- 分类结构就是你如何为你的知识、你的内容做分类。参考我在之前写的一条帖子（https://m.okjike.com/originalPosts/62b2d7c319324d5f5645c371?s=eyJ1IjoiNWVlMDYwZjBiOGNmZWEwMDE3N2JjNGE5In0%3D）<br>工作流和分类结构，相对比较稳定，你换一款工具，但是工作流和分类结构不一定换。<br><br>4. 长期积累，不断记录、不断回顾、不断整理很重要，我发现有很多人折腾了许多工具，实际上笔记没有记多少，文章也没有写几篇。那倒不如用简单的工具做到长期积累。（比如这个例子：https://randomthoughts.sorenbjornstad.com/，从2009年10月到2022年6月，记了1万2千多条碎片，这还仅仅是碎片，他还用tiddlywiki搭建了wiki知识库，还有一个网站作为个人博客，分别负责写碎片、写卡片、写长文。）]]></description>
+            <description><![CDATA[<br>这里对上一条帖子（https://m.okjike.com/reposts/62b967aa0e5bf5cb8bcdb317?s=eyJ1IjoiNWVlMDYwZjBiOGNmZWEwMDE3N2JjNGE5In0%3D）作个补充，我挑几个笔记类软件，简单说一下亮点和弱点：<br><br>- onenote：亮点是可以和微软的全家桶配合起来用，包括用有手机App、有剪藏插件、可以onedrive同步，不用折腾各种语法、各种插件、省事，弱点是卡片化、双链、md编辑这些没法实现。<br><br>- mybase：一款很老的软件，亮点是功能强大、有文档目录树、有笔记内TOC，弱点是笔记都存在一个mybase的数据库文件中，这样有风险，还有一些细节体验不够好。<br><br>- 印象笔记：亮点是综合功能多、多端同步、剪藏方便、搜索快，弱点是md编辑不行、管理笔记麻烦、老是推广告，其中最大的弱点是笔记一多了，打开软件很卡。<br><br>- 为知笔记：亮点同印象笔记，还有比印象笔记强的是目录多层级、md编辑强一些，弱点是搜索慢且不够精准。<br><br>- 幕布：国内学习workflowy的大纲笔记，刚出来时感觉新鲜，但是里面存在笔记一多就头大了，一方面是打开速度慢，一方面是不支持批量导出（这里吐槽一句：凡是不支持批量导出自己笔记的软件，凡是导出专用格式而无法选择其他通用格式的软件，都是垃圾！）<br><br>- trilium：亮点是多层级目录树、父笔记自动显示子笔记列表、md编辑、克隆笔记（一处修改多处同步）、快捷插入文本和表格方便等等，弱点是默认了许多边栏和按钮，无法隐藏，会干扰注意力。<br><br>- notion：亮点是block和database，以及样式漂亮，用来搭建博客的话也不错，弱点是需要联网，以及不fq的话联网速度慢。<br><br>- wolai和flowus：国内仿notion的软件，比起notion的优点是访问速度快、功能和编辑体验上适合中国人的使用习惯，弱点是没有抄到notion的database；当然，它们这三款放在一起看，我不满意的地方就是需要联网，而且批量导出笔记不行。<br><br>- obsidian：亮点是本地保存为md文件，以及社区插件众多，弱点一个是一些笔记内置功能对于ob要靠社区插件补全、一个是没有多选项卡、还有一个是所见即所得体验不好。<br><br>- logseq：亮点是大纲笔记+双链+块的颗粒度够细，还有笔记在本地生成md文件，弱点是不够稳定，会发生卡顿、丢笔记情况。这一类笔记的先行者是国外的roam research。这种大纲/双链/颗粒度细的软件，我用不习惯，其中一个原因是笔记中有许多[[]]符号，[[影响]]了[[阅读体验]]，干扰[[注意力]]。<br><br>- 思源笔记：就功能而言，它是最强的，相当于把文档、模块、可折叠大纲笔记、目录树、双链、看板、多选项卡等特性融合到一起了，标签可以有子标签，还有内置很强大的graphviz、mermaid、plantuml绘图功能，弱点一方面是生成sy格式文件，而不是md格式文件，一方面是虽然用md语法，但是它为了扩展功能，往里面加了些自定义的语法，这部分语法导出为md并不通用。<br><br>- 石墨文档、语雀、飞书：这三款都是主打团队协作的，放在一起说；石墨适合小团队协作编辑文档；语雀适合个人或小团队不用折腾代码和配置就可以搭建知识库，通常是对外展示的；飞书不仅是团队协作文档，更有一系列办公功能、团队管理功能嵌入其中。它们都不适合作为个人做笔记与搭建知识库用，适合把需要与人协作的文档或者需要对外展示的文档放上去。<br><br>- org-mode：堪称最强编辑器，加上emacs里面的各种功能、各种插件，作为搭建知识库的软件来说，可以all in one了；弱点是学习成本太高，以及你在博文里也提到的，org-mode依赖emacs，它的强大很大程度是emacs赋予的，在别的软件如vim中使用org-mode插件，发挥不出它在emacs里面的威力。<br><br>- zim desktop wiki：这是我的主力笔记软件。亮点是文档目录树、笔记内悬浮TOC、wikitext语法且所见即所得、方便创建多种wiki链接、在本地生成txt文件、笔记可以导出为md/html/rst/latex等多种格式、有多种插件包括graphviz画图等、多选项卡同时打开多篇笔记、快速笔记功能可以记录碎片、有日历方便记daily notes、有gtd任务管理功能且用wikitext语法就可以设定与管理、有反向链接、每篇笔记的附件单独放一个文件夹、可以连接git进行版本管理、各种快捷键比较多所以基本不用鼠标，还有一个我非常看重的亮点就是界面很简单，不会用花里胡哨的设计来干扰写作时注意力，同时背后又隐藏着强大的功能；正如它的名字显示的，它适合用来搭建一个电脑本地的wiki知识库；它的弱点是没有手机App端，插入的表格简单，没有默认主题可以换，需要自己自定义颜色配置，没有插入模板文字的功能，搜索体验不够好。<br><br>- tiddlywiki：亮点在上面一条也说了（https://m.okjike.com/originalPosts/62a9eb129a3118112b01c580?s=eyJ1IjoiNWVlMDYwZjBiOGNmZWEwMDE3N2JjNGE5In0%3D），就是容器网页化、功能插件化、操作快捷化、笔记卡片化、文本标记化、链接维基化，其实很多软件也都有这些特征，但是在卡片化这块，我认为tiddlywiki是最适合做卡片笔记的软件，还有个亮点是它存储为一个html，相当于把文本+样式+功能都用卡片实现了，一条笔记是一张卡片，定义一个样式也是写一张卡片，装一个插件还是写一张卡片，很神奇。因为存储为一个html，所以很适合把它直接发布为博客。当然，它的弱点也是因为html，一方面是不合适直接粘贴图片，因为保存的那个html会很大，所以最好通过图片上传到图库然后插入图片中图库中的链接，另一方面每次做一个修改，都会下载一个html文件在本地，当然，可以通过多种方式比如TiddlyDesktop来解决这个问题。还有一个弱点就是学习成本高。<br><br>总的来说，没有一款完全满意的，不是这里少点啥，就是那里缺点啥。<br><br>目前用的是：<br>锤子便签：手机端记录碎片<br>minipad2：电脑端记录碎片<br>印象笔记：专门用于手机端和电脑浏览器端剪藏网页<br>zim wiki：把碎片放到zim的wiki知识库里<br>tiddlywiki：目前还在试用，准备把积累的笔记都卡片化和维基化到这里。<br><br>对于大多数人，如果想一款软件尽量有更多功能的话（all in one），我的建议是：<br><br>初阶版之大综合：印象笔记<br>初阶版之大综合+md编辑：为知笔记<br>进阶版之md编辑与双链：obsidian<br>进阶版之模块化与多维表格：notion<br>进阶版之大纲与双链：logseq<br>进阶版之大综合：思源笔记<br>高阶版之本地维基：zim wiki<br>高阶版之卡片笔记：tiddlywiki<br>顶配版：org-mode<br><br>另外有四点很重要：<br><br>1. 内容＞工具，坚持记录、思考与写作，哪怕是纸笔也能积累很多知识、写出很多文章。<br><br>2. 选择什么工具，不可照搬，更不要跟风，最重要的是了解自己的需求，也就是你拿这个工具用来干什么。<br><br>3. 没有一款软件是完美的，没有一款软件可以all in one，关键是工作流与分类结构。<br><br>- 工作流就是你用哪几个工具组合起来做事，每个工具负责干什么，它们如何协作。<br>- 分类结构就是你如何为你的知识、你的内容做分类。参考我在之前写的一条帖子（https://m.okjike.com/originalPosts/62b2d7c319324d5f5645c371?s=eyJ1IjoiNWVlMDYwZjBiOGNmZWEwMDE3N2JjNGE5In0%3D）<br>工作流和分类结构，相对比较稳定，你换一款工具，但是工作流和分类结构不一定换。<br><br>4. 长期积累，不断记录、不断回顾、不断整理很重要，我发现有很多人折腾了许多工具，实际上笔记没有记多少，文章也没有写几篇。那倒不如用简单的工具做到长期积累。（比如这个例子：https://randomthoughts.sorenbjornstad.com/，从2009年10月到2022年6月，记了1万2千多条碎片，这还仅仅是碎片，他还用tiddlywiki搭建了wiki知识库，还有一个网站作为个人博客，分别负责写碎片、写卡片、写长文。）]]></description>
             <pubDate>Mon, 27 Jun 2022 14:50:51 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62b9c3cb2c5643956663f412</guid>
             <link>https://m.okjike.com/originalPosts/62b9c3cb2c5643956663f412</link>
             
             
             
-            <author><![CDATA[朴禅郑仁]]></author>
+            
             
                 
             
@@ -121,31 +145,17 @@
         </item>
         
         <item>
-            <title><![CDATA[求问，这个漫画叫什么我要去追😂]]></title>
-            <description><![CDATA[<span>用户昵称：Bullepop <br> Username：f9b618f0-97b2-46b5-ba2e-651e5580a894</span><br><br>求问，这个漫画叫什么我要去追😂<br><img src="https://cdn.jellow.site/FsNOplDskiQw859kUfgjzV65eSYhv3.png" referrerpolicy="no-referrer"><br><img src="https://cdn.jellow.site/FqFtyux9p47R13VoZB55TPO__mKrv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sun, 26 Jun 2022 23:23:18 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62b8ea660b73fa978b95add8</guid>
-            <link>https://m.okjike.com/originalPosts/62b8ea660b73fa978b95add8</link>
-            
-            
-            
-            <author><![CDATA[Bullepop]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[精益副业 —— 程序员副业指南 链接：http://r.ftqq.com/lean-side-bussiness/ 已经作为自由职业者的前前端工程师 Easy 写的，扩展了之前写的《程序员如何优雅地...]]></title>
-            <description><![CDATA[<span>用户昵称：龙爪槐守望者 <br> Username：2FCBB59D-93C2-488A-AFBD-38B70B267742</span><br><br>精益副业 —— 程序员副业指南<br>链接：http://r.ftqq.com/lean-side-bussiness/<br>已经作为自由职业者的前前端工程师 Easy 写的，扩展了之前写的《程序员如何优雅地挣零花钱》的内容，将其放到更大的副业视角；同时，引入经过互联网行业验证的「精益创业」流程，并优化为副业专用的「精益副业」流程。打算经营副业的同学可以看看。<br><img src="https://cdn.jellow.site/FmZNOYjsYytoW65R7sS4FjiwQbrHv3.png" referrerpolicy="no-referrer">]]></description>
+            <title><![CDATA[精益副业 —— 程序员副业指南
+链接：http://r.ftqq.com/lean-side-bussiness/
+已经作为自由职业者的前前端工程师 Easy 写的，扩展了之前写的《程序员如何优雅地...]]></title>
+            <description><![CDATA[<br>精益副业 —— 程序员副业指南<br>链接：http://r.ftqq.com/lean-side-bussiness/<br>已经作为自由职业者的前前端工程师 Easy 写的，扩展了之前写的《程序员如何优雅地挣零花钱》的内容，将其放到更大的副业视角；同时，引入经过互联网行业验证的「精益创业」流程，并优化为副业专用的「精益副业」流程。打算经营副业的同学可以看看。<br><picture><source srcset="https://cdn.jellow.site/FmZNOYjsYytoW65R7sS4FjiwQbrHv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FmZNOYjsYytoW65R7sS4FjiwQbrHv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FmZNOYjsYytoW65R7sS4FjiwQbrHv3.png"></picture>]]></description>
             <pubDate>Sun, 26 Jun 2022 15:38:03 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62b87d5b16fcfed063d71233</guid>
             <link>https://m.okjike.com/originalPosts/62b87d5b16fcfed063d71233</link>
             
             
             
-            <author><![CDATA[龙爪槐守望者]]></author>
+            
             
                 
             
@@ -153,15 +163,18 @@
         </item>
         
         <item>
-            <title><![CDATA[tldraw是一个开源可自部署的共享画布。TL;DR是“Too Long; Don't Read”的缩写，相当于文章摘要。而它跟draw拼起来，刚好是tldraw。 网站：www.tldraw.com 仓库...]]></title>
-            <description><![CDATA[<span>用户昵称：gantrol <br> Username：EA8FE109-3ACB-4641-98C8-B7D61EDD8637</span><br><br>tldraw是一个开源可自部署的共享画布。TL;DR是“Too Long; Don't Read”的缩写，相当于文章摘要。而它跟draw拼起来，刚好是tldraw。<br><br>网站：www.tldraw.com<br>仓库：github.com/tldraw/tldraw<br><br>图为一群学龄前水平画手创作，然后一位大佬随意乱杀。<br><img src="https://cdn.jellow.site/FkJsJJAFnR5fxD1BEj_P8Z8Wmdqbv3.png" referrerpolicy="no-referrer">]]></description>
+            <title><![CDATA[tldraw是一个开源可自部署的共享画布。TL;DR是“Too Long; Don't Read”的缩写，相当于文章摘要。而它跟draw拼起来，刚好是tldraw。
+
+网站：www.tldraw.com
+仓库...]]></title>
+            <description><![CDATA[<br>tldraw是一个开源可自部署的共享画布。TL;DR是“Too Long; Don't Read”的缩写，相当于文章摘要。而它跟draw拼起来，刚好是tldraw。<br><br>网站：www.tldraw.com<br>仓库：github.com/tldraw/tldraw<br><br>图为一群学龄前水平画手创作，然后一位大佬随意乱杀。<br><picture><source srcset="https://cdn.jellow.site/FkJsJJAFnR5fxD1BEj_P8Z8Wmdqbv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FkJsJJAFnR5fxD1BEj_P8Z8Wmdqbv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FkJsJJAFnR5fxD1BEj_P8Z8Wmdqbv3.png"></picture>]]></description>
             <pubDate>Sun, 26 Jun 2022 08:12:03 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62b814d35b02b79418937cef</guid>
             <link>https://m.okjike.com/originalPosts/62b814d35b02b79418937cef</link>
             
             
             
-            <author><![CDATA[gantrol]]></author>
+            
             
                 
             
@@ -170,14 +183,14 @@
         
         <item>
             <title><![CDATA[花了200小时吧，一边跟着学习，一边写了一个游戏引擎的框架... 虽然只写完2D的渲染管线，还没加物理引擎，不过应该可以放进简历里了🥲]]></title>
-            <description><![CDATA[<span>用户昵称：橘猫儿Leo <br> Username：D8D1DAF0-EA6C-4520-94E3-BFE4F62E3937</span><br><br>花了200小时吧，一边跟着学习，一边写了一个游戏引擎的框架... 虽然只写完2D的渲染管线，还没加物理引擎，不过应该可以放进简历里了🥲<br><img src="https://cdn.jellow.site/FqSZMvtP74G9rIczhgvrS50j72M8v3.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[<br>花了200小时吧，一边跟着学习，一边写了一个游戏引擎的框架... 虽然只写完2D的渲染管线，还没加物理引擎，不过应该可以放进简历里了🥲<br><picture><source srcset="https://cdn.jellow.site/FqSZMvtP74G9rIczhgvrS50j72M8v3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdn.jellow.site/FqSZMvtP74G9rIczhgvrS50j72M8v3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdn.jellow.site/FqSZMvtP74G9rIczhgvrS50j72M8v3.png"></picture>]]></description>
             <pubDate>Thu, 23 Jun 2022 05:24:35 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62b3f9132d39f94d8185e4ba</guid>
             <link>https://m.okjike.com/originalPosts/62b3f9132d39f94d8185e4ba</link>
             
             
             
-            <author><![CDATA[橘猫儿Leo]]></author>
+            
             
                 
             
