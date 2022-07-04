@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[大白找白菜的微博]]></title>
         <link>https://weibo.com/1648254924/</link>
-        <atom:link href="https://rsshub.rssforever.com/weibo/user/1648254924" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub/weibo/user/1648254924" rel="self" type="application/rss+xml" />
         <description><![CDATA[为你省钱为你分忧，暖男大白一心为你❤ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -16,13 +16,13 @@
         <language>zh-cn</language>
         
         <image>
-            <url>https://tvax2.sinaimg.cn/crop.0.0.828.828.180/623e5fccly8gdippwpjd3j20n00n0jsf.jpg?KID=imgbed,tva&#38;Expires=1656962990&#38;ssig=HO5vQRQl1w</url>
+            <url>https://tvax2.sinaimg.cn/crop.0.0.828.828.180/623e5fccly8gdippwpjd3j20n00n0jsf.jpg?KID=imgbed,tva&#38;Expires=1656976816&#38;ssig=VXRB25skQE</url>
             <title><![CDATA[大白找白菜的微博]]></title>
             <link>https://weibo.com/1648254924/</link>
         </image>
         
-        <lastBuildDate>Mon, 04 Jul 2022 16:29:51 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Mon, 04 Jul 2022 20:20:17 GMT</lastBuildDate>
+        <ttl>1</ttl>
         
         <item>
             <title><![CDATA[￥19.9 【拍三件19.9】鱿小溅炭烤手撕鱿鱼条 【拍三件】鱿小溅手撕鱿鱼丝，选用天然海域深海大鱿鱼，果木烤制，新鲜入味，肉质醇厚，手撕筋道，咬一口满嘴生香，...]]></title>
