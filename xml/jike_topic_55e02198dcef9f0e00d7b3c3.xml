@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 11 Jul 2022 08:27:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 12:42:28 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[这就是为什么我用本地纯文本markdown + 自建家庭NAS]]></title>
+            <description><![CDATA[<span>用户昵称：范冰XDash <br> Username：160F8D03-E580-4799-8D02-B86B1A6FBF64</span><br><br>这就是为什么我用本地纯文本markdown + 自建家庭NAS<br><img src="https://cdn.jellow.site/FvQjJbGOdjt_7g0aUr4T7XTglzmav3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 11 Jul 2022 07:47:33 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62cbd59503306d33b4fb0062</guid>
+            <link>https://m.okjike.com/originalPosts/62cbd59503306d33b4fb0062</link>
+            
+            
+            
+            <author><![CDATA[范冰XDash]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[massCode https://github.com/massCodeIO/massCode 一个免费开源的跨平台代码片段管理工具。 支持组织管理、Markdown 编辑、搜索同步、自动保存、JSON 存储等功...]]></title>
@@ -89,24 +105,8 @@
         </item>
         
         <item>
-            <title><![CDATA[https://github.com/WebStackPage/WebStackPage.github.io WebStack.cc - 设计师网址导航 一个开源的网址导航程序 一些 demo ： - http://webstack.cc/cn/index....]]></title>
-            <description><![CDATA[<span>用户昵称：哥飞 <br> Username：a2d6acc1-626f-4d15-a22a-849e88a4c9f0</span><br><br>https://github.com/WebStackPage/WebStackPage.github.io<br>WebStack.cc - 设计师网址导航<br>一个开源的网址导航程序<br>一些 demo ：<br>- http://webstack.cc/cn/index.html<br>- https://nav.wiki-power.com/<br>作者 @viggoz <br><img src="https://cdn.jellow.site/FlQkGMuuGr6E0y5ETIEHnVLCJTGqv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 07 Jul 2022 08:45:34 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62c69d2e43db0e296f4203e0</guid>
-            <link>https://m.okjike.com/originalPosts/62c69d2e43db0e296f4203e0</link>
-            
-            
-            
-            <author><![CDATA[哥飞]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[css画人像，什么叫耐心🫠🫠]]></title>
-            <description><![CDATA[<span>用户昵称：Roll20 <br> Username：F87758AC-6839-44AD-B882-D35994BFFB0C</span><br><br>css画人像，什么叫耐心🫠🫠<br><video src="https://videocdn.jellow.site/lsIGRx47ZlHdOoPDBJXEZ2HMhHeE.mp4?sign=98508ca21ee93af0e4c3bbc6f165c6ea&amp;t=62cbe549" controls=""></video>]]></description>
+            <description><![CDATA[<span>用户昵称：Roll20 <br> Username：F87758AC-6839-44AD-B882-D35994BFFB0C</span><br><br>css画人像，什么叫耐心🫠🫠<br><video src="https://videocdn.jellow.site/lsIGRx47ZlHdOoPDBJXEZ2HMhHeE.mp4?sign=af9d414051e92512324ce352bb3e9ce4&amp;t=62cc1fe9" controls=""></video>]]></description>
             <pubDate>Thu, 07 Jul 2022 05:43:36 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62c6728820c97a5834a20287</guid>
             <link>https://m.okjike.com/originalPosts/62c6728820c97a5834a20287</link>
@@ -154,7 +154,7 @@
         
         <item>
             <title><![CDATA[Android客服端第一版也差不多了，基本功能完成了。 这个展示资源包只有159行，其中还包括了差不多一半的单行括号。资源包编写最麻烦的就是剧情设计还有选项设计...]]></title>
-            <description><![CDATA[<span>用户昵称：Verlif <br> Username：38d48aa5-482a-4f7e-8ef7-78dac411ea8e</span><br><br>Android客服端第一版也差不多了，基本功能完成了。<br>这个展示资源包只有159行，其中还包括了差不多一半的单行括号。资源包编写最麻烦的就是剧情设计还有选项设计，虽然只需要复制粘贴，但还是麻烦，以后再优化。<br>不需要任何编程知识就可以完成自己的游戏，也可以分享资源包给其他人或是游玩其他作者的作品。视频里的exec这些都是有文档的，基本就是命令行的格式。需要啥效果，只需要找到文档中的命令，复制粘贴就行了，不要太简单。<br>现在资源包能自定义的包括故事设定、事件、选项、事件分支、道具、规则、技能与标签。基本上可以实现大部分的文字游戏需求。甚至可以用来做试卷，哈哈哈哈哈哈。<br><video src="https://videocdn.jellow.site/loy3P_-Jxj6K3kz_vFnX2M8u75zd.mp4?sign=a7d354a8a042613cc950cfaf1b4b62c0&amp;t=62cbe60d" controls=""></video>]]></description>
+            <description><![CDATA[<span>用户昵称：Verlif <br> Username：38d48aa5-482a-4f7e-8ef7-78dac411ea8e</span><br><br>Android客服端第一版也差不多了，基本功能完成了。<br>这个展示资源包只有159行，其中还包括了差不多一半的单行括号。资源包编写最麻烦的就是剧情设计还有选项设计，虽然只需要复制粘贴，但还是麻烦，以后再优化。<br>不需要任何编程知识就可以完成自己的游戏，也可以分享资源包给其他人或是游玩其他作者的作品。视频里的exec这些都是有文档的，基本就是命令行的格式。需要啥效果，只需要找到文档中的命令，复制粘贴就行了，不要太简单。<br>现在资源包能自定义的包括故事设定、事件、选项、事件分支、道具、规则、技能与标签。基本上可以实现大部分的文字游戏需求。甚至可以用来做试卷，哈哈哈哈哈哈。<br><video src="https://videocdn.jellow.site/loy3P_-Jxj6K3kz_vFnX2M8u75zd.mp4?sign=b5b66035c2dd2f32b7c1bd7dcf6bc666&amp;t=62cc1fe9" controls=""></video>]]></description>
             <pubDate>Sun, 03 Jul 2022 04:23:46 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62c119d213392561e43673f6</guid>
             <link>https://m.okjike.com/originalPosts/62c119d213392561e43673f6</link>
