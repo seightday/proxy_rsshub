@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[JitHub - 即刻圈子]]></title>
         <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
-        <atom:link href="https://rsshub.rssforever.com/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
         <description><![CDATA[开发者们分享，问答，也可以交友的地方。欢迎所有工程师！ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -21,12 +21,12 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 13 Jul 2022 01:58:33 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Wed, 13 Jul 2022 04:38:54 GMT</lastBuildDate>
+        <ttl>1</ttl>
         
         <item>
             <title><![CDATA[算法🤤🤤]]></title>
-            <description><![CDATA[<span>用户昵称：Roll20 <br> Username：F87758AC-6839-44AD-B882-D35994BFFB0C</span><br><br>算法🤤🤤<br><video src="https://videocdn.jellow.site/ljwOcWq8aCm2cBWbjHWbjgLX7QBD.mp4?sign=6248089c5cf5df61ce0356c7e83d599c&amp;t=62ce2d3a" controls=""></video>]]></description>
+            <description><![CDATA[<span>用户昵称：Roll20 <br> Username：F87758AC-6839-44AD-B882-D35994BFFB0C</span><br><br>算法🤤🤤<br><video src="https://videocdn.jellow.site/ljwOcWq8aCm2cBWbjHWbjgLX7QBD.mp4?sign=1c5a1f7ed596facd45aba3acc4c5dd12&amp;t=62ce5366" controls=""></video>]]></description>
             <pubDate>Mon, 11 Jul 2022 16:33:01 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62cc50bd4fe6b84f73466b42</guid>
             <link>https://m.okjike.com/originalPosts/62cc50bd4fe6b84f73466b42</link>
@@ -50,6 +50,22 @@
             
             
             <author><![CDATA[范冰XDash]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[原来浏览器「shift+F5」是强制刷新啊！长知识了！]]></title>
+            <description><![CDATA[<span>用户昵称：桌沿奇思 <br> Username：8a6595bb-1f2d-4b0e-a2a6-43a205f4d1a9</span><br><br>原来浏览器「shift+F5」是强制刷新啊！长知识了！<br><img src="https://cdn.jellow.site/FqtxzM3yODQM9Ha5qkdkwXztRPTbv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 11 Jul 2022 01:48:02 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62cb8152926fef6722aa8a70</guid>
+            <link>https://m.okjike.com/originalPosts/62cb8152926fef6722aa8a70</link>
+            
+            
+            
+            <author><![CDATA[桌沿奇思]]></author>
             
                 
             
@@ -105,22 +121,6 @@
         </item>
         
         <item>
-            <title><![CDATA[css画人像，什么叫耐心🫠🫠]]></title>
-            <description><![CDATA[<span>用户昵称：Roll20 <br> Username：F87758AC-6839-44AD-B882-D35994BFFB0C</span><br><br>css画人像，什么叫耐心🫠🫠<br><video src="https://videocdn.jellow.site/lsIGRx47ZlHdOoPDBJXEZ2HMhHeE.mp4?sign=fd08fd616597f580a8cbe7286887ef60&amp;t=62ce2dce" controls=""></video>]]></description>
-            <pubDate>Thu, 07 Jul 2022 05:43:36 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62c6728820c97a5834a20287</guid>
-            <link>https://m.okjike.com/originalPosts/62c6728820c97a5834a20287</link>
-            
-            
-            
-            <author><![CDATA[Roll20]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[整了一个浏览器性能测试器，大家可以点击下面的链接看看自己手机电脑浏览器性能是不是有两下子 我点到256就卡住了.... http://project.wocai.de/youliangxiazi/]]></title>
             <description><![CDATA[<span>用户昵称：kokdemo <br> Username：kokdemo</span><br><br>整了一个浏览器性能测试器，大家可以点击下面的链接看看自己手机电脑浏览器性能是不是有两下子<br>我点到256就卡住了....<br><br>http://project.wocai.de/youliangxiazi/<br><img src="https://cdn.jellow.site/FhxmJwGGc2FNVUukYHdBy8yx0nvJv3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Wed, 06 Jul 2022 13:40:41 GMT</pubDate>
@@ -154,7 +154,7 @@
         
         <item>
             <title><![CDATA[Android客服端第一版也差不多了，基本功能完成了。 这个展示资源包只有159行，其中还包括了差不多一半的单行括号。资源包编写最麻烦的就是剧情设计还有选项设计...]]></title>
-            <description><![CDATA[<span>用户昵称：Verlif <br> Username：38d48aa5-482a-4f7e-8ef7-78dac411ea8e</span><br><br>Android客服端第一版也差不多了，基本功能完成了。<br>这个展示资源包只有159行，其中还包括了差不多一半的单行括号。资源包编写最麻烦的就是剧情设计还有选项设计，虽然只需要复制粘贴，但还是麻烦，以后再优化。<br>不需要任何编程知识就可以完成自己的游戏，也可以分享资源包给其他人或是游玩其他作者的作品。视频里的exec这些都是有文档的，基本就是命令行的格式。需要啥效果，只需要找到文档中的命令，复制粘贴就行了，不要太简单。<br>现在资源包能自定义的包括故事设定、事件、选项、事件分支、道具、规则、技能与标签。基本上可以实现大部分的文字游戏需求。甚至可以用来做试卷，哈哈哈哈哈哈。<br><video src="https://videocdn.jellow.site/loy3P_-Jxj6K3kz_vFnX2M8u75zd.mp4?sign=65822600b41a55657bdee3b1d0d07eab&amp;t=62ce2dce" controls=""></video>]]></description>
+            <description><![CDATA[<span>用户昵称：Verlif <br> Username：38d48aa5-482a-4f7e-8ef7-78dac411ea8e</span><br><br>Android客服端第一版也差不多了，基本功能完成了。<br>这个展示资源包只有159行，其中还包括了差不多一半的单行括号。资源包编写最麻烦的就是剧情设计还有选项设计，虽然只需要复制粘贴，但还是麻烦，以后再优化。<br>不需要任何编程知识就可以完成自己的游戏，也可以分享资源包给其他人或是游玩其他作者的作品。视频里的exec这些都是有文档的，基本就是命令行的格式。需要啥效果，只需要找到文档中的命令，复制粘贴就行了，不要太简单。<br>现在资源包能自定义的包括故事设定、事件、选项、事件分支、道具、规则、技能与标签。基本上可以实现大部分的文字游戏需求。甚至可以用来做试卷，哈哈哈哈哈哈。<br><video src="https://videocdn.jellow.site/loy3P_-Jxj6K3kz_vFnX2M8u75zd.mp4?sign=07ed88ddd2aaeeded3b005119f6c504f&amp;t=62ce5366" controls=""></video>]]></description>
             <pubDate>Sun, 03 Jul 2022 04:23:46 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62c119d213392561e43673f6</guid>
             <link>https://m.okjike.com/originalPosts/62c119d213392561e43673f6</link>
