@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 13 Jul 2022 20:21:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 02:04:25 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[学了一周的Python，刚刚学到了一点皮毛，目前的水平仅能徒手写出来个人机对战的剪刀石头布的小游戏。 不过远景目标也是有的，就是想写一个以生成时间为过滤条件...]]></title>
+            <description><![CDATA[<span>用户昵称：数字游民Jarod <br> Username：ad370052-e980-47a2-b98c-53394c5bd081</span><br><br>学了一周的Python，刚刚学到了一点皮毛，目前的水平仅能徒手写出来个人机对战的剪刀石头布的小游戏。<br><br>不过远景目标也是有的，就是想写一个以生成时间为过滤条件的微信读书笔记导出工具，目前市面上还看没看到能实现类似功能的程序。<br><br>要实现这个目标大概需要以下几个步骤：<br><br>1. 通过微信读书API抓取读书笔记到本地数据库。<br><br>2. 通过判断笔记/高亮划线生成的时间戳，过滤出自『上次导入时间』-『当前时间』这一时间段的所有笔记/高亮划线内容。<br><br>3. 将过滤出的所有笔记逐条打上『#YYYY-MM-DD』格式的日期tag和『#书名』tag，外加1-2个自定义tag，例如『#inbox』。 <br><br>4. 将输出的笔记写入到一个名为WR_YYYYMMDDmmss(本次导入时间).md的文件中，并自动将这个文件存入Logseq的pages文件夹下面。<br><br>它的目标用户群应该主要是，以微信读书为主要阅读器，喜欢同时阅读多本书，有回顾/深度处理读书笔记的刚需，并且主力使用Logseq/Roam/Obsidian等双链笔记工具进行个人知识管理的人群。<br><br>名字我也起好了，就叫『微信读书时间胶囊』。]]></description>
+            <pubDate>Wed, 13 Jul 2022 17:57:07 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62cf07730f0d1519eab622ee</guid>
+            <link>https://m.okjike.com/originalPosts/62cf07730f0d1519eab622ee</link>
+            
+            
+            
+            <author><![CDATA[数字游民Jarod]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[go有哪些开源项目适合入门学习呀...]]></title>
@@ -41,24 +57,8 @@
         </item>
         
         <item>
-            <title><![CDATA[我们总是很多的想法，想做的太多，有时候甚至兴奋的睡不着。但不要过度思考，停下来，静下来，有时反而能抽丝剥茧，获得一些不一样的的思路]]></title>
-            <description><![CDATA[<span>用户昵称：陈怀哲 <br> Username：FB8EA0A6-9134-498E-B309-E67979477377</span><br><br>我们总是很多的想法，想做的太多，有时候甚至兴奋的睡不着。但不要过度思考，停下来，静下来，有时反而能抽丝剥茧，获得一些不一样的的思路<br><img src="https://cdn.jellow.site/FlrF8feISKXFOMVbhDkPdrxRcf-Cv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 12 Jul 2022 04:00:24 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62ccf1d84fe6b84f7359b04b</guid>
-            <link>https://m.okjike.com/originalPosts/62ccf1d84fe6b84f7359b04b</link>
-            
-            
-            
-            <author><![CDATA[陈怀哲]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[算法🤤🤤]]></title>
-            <description><![CDATA[<span>用户昵称：Roll20 <br> Username：F87758AC-6839-44AD-B882-D35994BFFB0C</span><br><br>算法🤤🤤<br><video src="https://videocdn.jellow.site/ljwOcWq8aCm2cBWbjHWbjgLX7QBD.mp4?sign=40046a37c724066fa2b7bee7eefe7c84&amp;t=62cf3067" controls=""></video>]]></description>
+            <description><![CDATA[<span>用户昵称：Roll20 <br> Username：F87758AC-6839-44AD-B882-D35994BFFB0C</span><br><br>算法🤤🤤<br><video src="https://videocdn.jellow.site/ljwOcWq8aCm2cBWbjHWbjgLX7QBD.mp4?sign=7d655abaa38a3ef8347d95c6858aef67&amp;t=62cf80b1" controls=""></video>]]></description>
             <pubDate>Mon, 11 Jul 2022 16:33:01 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62cc50bd4fe6b84f73466b42</guid>
             <link>https://m.okjike.com/originalPosts/62cc50bd4fe6b84f73466b42</link>
@@ -66,6 +66,22 @@
             
             
             <author><![CDATA[Roll20]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[看了一天HTTP文章，文档，0.9 1.0 1.1 2.0 3.0真的头晕😵‍💫]]></title>
+            <description><![CDATA[<span>用户昵称：白衣与他 <br> Username：15017b1c-96d6-478e-a8f5-242a375d48b7</span><br><br>看了一天HTTP文章，文档，0.9 1.0 1.1 2.0 3.0真的头晕😵‍💫]]></description>
+            <pubDate>Mon, 11 Jul 2022 09:58:03 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62cbf42b8c98d481bca89427</guid>
+            <link>https://m.okjike.com/originalPosts/62cbf42b8c98d481bca89427</link>
+            
+            
+            
+            <author><![CDATA[白衣与他]]></author>
             
                 
             
@@ -98,22 +114,6 @@
             
             
             <author><![CDATA[哥飞]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[各位开发者有啥好的记账app推荐么]]></title>
-            <description><![CDATA[<span>用户昵称：Jackwtao <br> Username：C5BE51C2-9726-444E-B177-11B455B7F271</span><br><br>各位开发者有啥好的记账app推荐么]]></description>
-            <pubDate>Fri, 08 Jul 2022 10:42:14 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62c80a0694dc95324b1a9cb9</guid>
-            <link>https://m.okjike.com/originalPosts/62c80a0694dc95324b1a9cb9</link>
-            
-            
-            
-            <author><![CDATA[Jackwtao]]></author>
             
                 
             
@@ -154,7 +154,7 @@
         
         <item>
             <title><![CDATA[Android客服端第一版也差不多了，基本功能完成了。 这个展示资源包只有159行，其中还包括了差不多一半的单行括号。资源包编写最麻烦的就是剧情设计还有选项设计...]]></title>
-            <description><![CDATA[<span>用户昵称：Verlif <br> Username：38d48aa5-482a-4f7e-8ef7-78dac411ea8e</span><br><br>Android客服端第一版也差不多了，基本功能完成了。<br>这个展示资源包只有159行，其中还包括了差不多一半的单行括号。资源包编写最麻烦的就是剧情设计还有选项设计，虽然只需要复制粘贴，但还是麻烦，以后再优化。<br>不需要任何编程知识就可以完成自己的游戏，也可以分享资源包给其他人或是游玩其他作者的作品。视频里的exec这些都是有文档的，基本就是命令行的格式。需要啥效果，只需要找到文档中的命令，复制粘贴就行了，不要太简单。<br>现在资源包能自定义的包括故事设定、事件、选项、事件分支、道具、规则、技能与标签。基本上可以实现大部分的文字游戏需求。甚至可以用来做试卷，哈哈哈哈哈哈。<br><video src="https://videocdn.jellow.site/loy3P_-Jxj6K3kz_vFnX2M8u75zd.mp4?sign=46e974438d9905e810c6d6519fe49b51&amp;t=62cf3067" controls=""></video>]]></description>
+            <description><![CDATA[<span>用户昵称：Verlif <br> Username：38d48aa5-482a-4f7e-8ef7-78dac411ea8e</span><br><br>Android客服端第一版也差不多了，基本功能完成了。<br>这个展示资源包只有159行，其中还包括了差不多一半的单行括号。资源包编写最麻烦的就是剧情设计还有选项设计，虽然只需要复制粘贴，但还是麻烦，以后再优化。<br>不需要任何编程知识就可以完成自己的游戏，也可以分享资源包给其他人或是游玩其他作者的作品。视频里的exec这些都是有文档的，基本就是命令行的格式。需要啥效果，只需要找到文档中的命令，复制粘贴就行了，不要太简单。<br>现在资源包能自定义的包括故事设定、事件、选项、事件分支、道具、规则、技能与标签。基本上可以实现大部分的文字游戏需求。甚至可以用来做试卷，哈哈哈哈哈哈。<br><video src="https://videocdn.jellow.site/loy3P_-Jxj6K3kz_vFnX2M8u75zd.mp4?sign=f68a3f30bf7e39df251b49db242da107&amp;t=62cf80b1" controls=""></video>]]></description>
             <pubDate>Sun, 03 Jul 2022 04:23:46 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62c119d213392561e43673f6</guid>
             <link>https://m.okjike.com/originalPosts/62c119d213392561e43673f6</link>
