@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 14 Jul 2022 02:04:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 04:54:15 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[UI设计的重要性如何？ 分享一个特例，craigslist.org, 按数据看，全球排名前100，是不是很神奇。 ps：该特例不代表一般情况 pps：该特例不是为了说明UI设计不重...]]></title>
+            <description><![CDATA[<span>用户昵称：陈怀哲 <br> Username：FB8EA0A6-9134-498E-B309-E67979477377</span><br><br>UI设计的重要性如何？ 分享一个特例，craigslist.org, 按数据看，全球排名前100，是不是很神奇。<br><br>ps：该特例不代表一般情况<br>pps：该特例不是为了说明UI设计不重要<br><img src="https://cdn.jellow.site/FjAPOLlTSubfnldl74RBJm-dp1Aiv3.png" referrerpolicy="no-referrer"><br><img src="https://cdn.jellow.site/FuhjJQOYoiPhRNDeU-VcAZgcTDc3v3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 14 Jul 2022 03:32:41 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62cf8e596033545c425ed2fa</guid>
+            <link>https://m.okjike.com/originalPosts/62cf8e596033545c425ed2fa</link>
+            
+            
+            
+            <author><![CDATA[陈怀哲]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[学了一周的Python，刚刚学到了一点皮毛，目前的水平仅能徒手写出来个人机对战的剪刀石头布的小游戏。 不过远景目标也是有的，就是想写一个以生成时间为过滤条件...]]></title>
@@ -58,7 +74,7 @@
         
         <item>
             <title><![CDATA[算法🤤🤤]]></title>
-            <description><![CDATA[<span>用户昵称：Roll20 <br> Username：F87758AC-6839-44AD-B882-D35994BFFB0C</span><br><br>算法🤤🤤<br><video src="https://videocdn.jellow.site/ljwOcWq8aCm2cBWbjHWbjgLX7QBD.mp4?sign=7d655abaa38a3ef8347d95c6858aef67&amp;t=62cf80b1" controls=""></video>]]></description>
+            <description><![CDATA[<span>用户昵称：Roll20 <br> Username：F87758AC-6839-44AD-B882-D35994BFFB0C</span><br><br>算法🤤🤤<br><video src="https://videocdn.jellow.site/ljwOcWq8aCm2cBWbjHWbjgLX7QBD.mp4?sign=8fc1cd6df3939349eed6e1ceabe9b96d&amp;t=62cfa7ec" controls=""></video>]]></description>
             <pubDate>Mon, 11 Jul 2022 16:33:01 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62cc50bd4fe6b84f73466b42</guid>
             <link>https://m.okjike.com/originalPosts/62cc50bd4fe6b84f73466b42</link>
@@ -66,22 +82,6 @@
             
             
             <author><![CDATA[Roll20]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[看了一天HTTP文章，文档，0.9 1.0 1.1 2.0 3.0真的头晕😵‍💫]]></title>
-            <description><![CDATA[<span>用户昵称：白衣与他 <br> Username：15017b1c-96d6-478e-a8f5-242a375d48b7</span><br><br>看了一天HTTP文章，文档，0.9 1.0 1.1 2.0 3.0真的头晕😵‍💫]]></description>
-            <pubDate>Mon, 11 Jul 2022 09:58:03 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62cbf42b8c98d481bca89427</guid>
-            <link>https://m.okjike.com/originalPosts/62cbf42b8c98d481bca89427</link>
-            
-            
-            
-            <author><![CDATA[白衣与他]]></author>
             
                 
             
@@ -154,7 +154,7 @@
         
         <item>
             <title><![CDATA[Android客服端第一版也差不多了，基本功能完成了。 这个展示资源包只有159行，其中还包括了差不多一半的单行括号。资源包编写最麻烦的就是剧情设计还有选项设计...]]></title>
-            <description><![CDATA[<span>用户昵称：Verlif <br> Username：38d48aa5-482a-4f7e-8ef7-78dac411ea8e</span><br><br>Android客服端第一版也差不多了，基本功能完成了。<br>这个展示资源包只有159行，其中还包括了差不多一半的单行括号。资源包编写最麻烦的就是剧情设计还有选项设计，虽然只需要复制粘贴，但还是麻烦，以后再优化。<br>不需要任何编程知识就可以完成自己的游戏，也可以分享资源包给其他人或是游玩其他作者的作品。视频里的exec这些都是有文档的，基本就是命令行的格式。需要啥效果，只需要找到文档中的命令，复制粘贴就行了，不要太简单。<br>现在资源包能自定义的包括故事设定、事件、选项、事件分支、道具、规则、技能与标签。基本上可以实现大部分的文字游戏需求。甚至可以用来做试卷，哈哈哈哈哈哈。<br><video src="https://videocdn.jellow.site/loy3P_-Jxj6K3kz_vFnX2M8u75zd.mp4?sign=f68a3f30bf7e39df251b49db242da107&amp;t=62cf80b1" controls=""></video>]]></description>
+            <description><![CDATA[<span>用户昵称：Verlif <br> Username：38d48aa5-482a-4f7e-8ef7-78dac411ea8e</span><br><br>Android客服端第一版也差不多了，基本功能完成了。<br>这个展示资源包只有159行，其中还包括了差不多一半的单行括号。资源包编写最麻烦的就是剧情设计还有选项设计，虽然只需要复制粘贴，但还是麻烦，以后再优化。<br>不需要任何编程知识就可以完成自己的游戏，也可以分享资源包给其他人或是游玩其他作者的作品。视频里的exec这些都是有文档的，基本就是命令行的格式。需要啥效果，只需要找到文档中的命令，复制粘贴就行了，不要太简单。<br>现在资源包能自定义的包括故事设定、事件、选项、事件分支、道具、规则、技能与标签。基本上可以实现大部分的文字游戏需求。甚至可以用来做试卷，哈哈哈哈哈哈。<br><video src="https://videocdn.jellow.site/loy3P_-Jxj6K3kz_vFnX2M8u75zd.mp4?sign=04de47e757b2f703c7168f611aebbc49&amp;t=62cfa7ec" controls=""></video>]]></description>
             <pubDate>Sun, 03 Jul 2022 04:23:46 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62c119d213392561e43673f6</guid>
             <link>https://m.okjike.com/originalPosts/62c119d213392561e43673f6</link>
