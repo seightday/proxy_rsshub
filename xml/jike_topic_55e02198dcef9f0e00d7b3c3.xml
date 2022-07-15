@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Fri, 15 Jul 2022 16:32:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 20:21:37 GMT</lastBuildDate>
         <ttl>1</ttl>
         
         <item>
@@ -41,6 +41,22 @@
         </item>
         
         <item>
+            <title><![CDATA[今天在看浏览器原理相关的文章，里面提到“网页的各个部分实际上是图层”通过Compositor Thread将不同的层组合在一起，就像PS一样。然后就看到了“立体的网页”...]]></title>
+            <description><![CDATA[<span>用户昵称：白衣与他 <br> Username：15017b1c-96d6-478e-a8f5-242a375d48b7</span><br><br>今天在看浏览器原理相关的文章，里面提到“网页的各个部分实际上是图层”通过Compositor Thread将不同的层组合在一起，就像PS一样。然后就看到了“立体的网页”。好有意思~<br><img src="https://cdn.jellow.site/FlsQv32X5XIp-ZFBPacyhSOZakV9v3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 14 Jul 2022 12:02:48 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62d005e8100bbd1839a08ece</guid>
+            <link>https://m.okjike.com/originalPosts/62d005e8100bbd1839a08ece</link>
+            
+            
+            
+            <author><![CDATA[白衣与他]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[学完python基础了,想学python爬虫，有推荐的书或者视频吗？]]></title>
             <description><![CDATA[<span>用户昵称：Xiaoye <br> Username：e20a668e-3e8d-4952-b451-3484ee350634</span><br><br>学完python基础了,想学python爬虫，有推荐的书或者视频吗？]]></description>
             <pubDate>Thu, 14 Jul 2022 06:23:00 GMT</pubDate>
@@ -50,22 +66,6 @@
             
             
             <author><![CDATA[Xiaoye]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[UI设计的重要性如何？ 分享一个特例，craigslist.org, 按数据看，全球排名前100，是不是很神奇。 ps：该特例不代表一般情况 pps：该特例不是为了说明UI设计不重...]]></title>
-            <description><![CDATA[<span>用户昵称：陈怀哲 <br> Username：FB8EA0A6-9134-498E-B309-E67979477377</span><br><br>UI设计的重要性如何？ 分享一个特例，craigslist.org, 按数据看，全球排名前100，是不是很神奇。<br><br>ps：该特例不代表一般情况<br>pps：该特例不是为了说明UI设计不重要<br><img src="https://cdn.jellow.site/FjAPOLlTSubfnldl74RBJm-dp1Aiv3.png" referrerpolicy="no-referrer"><br><img src="https://cdn.jellow.site/FuhjJQOYoiPhRNDeU-VcAZgcTDc3v3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 14 Jul 2022 03:32:41 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62cf8e596033545c425ed2fa</guid>
-            <link>https://m.okjike.com/originalPosts/62cf8e596033545c425ed2fa</link>
-            
-            
-            
-            <author><![CDATA[陈怀哲]]></author>
             
                 
             
@@ -106,7 +106,7 @@
         
         <item>
             <title><![CDATA[算法🤤🤤]]></title>
-            <description><![CDATA[<span>用户昵称：Roll20 <br> Username：F87758AC-6839-44AD-B882-D35994BFFB0C</span><br><br>算法🤤🤤<br><video src="https://videocdn.jellow.site/ljwOcWq8aCm2cBWbjHWbjgLX7QBD.mp4?sign=635a7b5b300ab6246c30daee6d64e612&amp;t=62d19d90" controls=""></video>]]></description>
+            <description><![CDATA[<span>用户昵称：Roll20 <br> Username：F87758AC-6839-44AD-B882-D35994BFFB0C</span><br><br>算法🤤🤤<br><video src="https://videocdn.jellow.site/ljwOcWq8aCm2cBWbjHWbjgLX7QBD.mp4?sign=2e7925cfdfc161d6a8bb9772044d006c&amp;t=62d1d359" controls=""></video>]]></description>
             <pubDate>Mon, 11 Jul 2022 16:33:01 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62cc50bd4fe6b84f73466b42</guid>
             <link>https://m.okjike.com/originalPosts/62cc50bd4fe6b84f73466b42</link>
@@ -154,7 +154,7 @@
         
         <item>
             <title><![CDATA[Android客服端第一版也差不多了，基本功能完成了。 这个展示资源包只有159行，其中还包括了差不多一半的单行括号。资源包编写最麻烦的就是剧情设计还有选项设计...]]></title>
-            <description><![CDATA[<span>用户昵称：Verlif <br> Username：38d48aa5-482a-4f7e-8ef7-78dac411ea8e</span><br><br>Android客服端第一版也差不多了，基本功能完成了。<br>这个展示资源包只有159行，其中还包括了差不多一半的单行括号。资源包编写最麻烦的就是剧情设计还有选项设计，虽然只需要复制粘贴，但还是麻烦，以后再优化。<br>不需要任何编程知识就可以完成自己的游戏，也可以分享资源包给其他人或是游玩其他作者的作品。视频里的exec这些都是有文档的，基本就是命令行的格式。需要啥效果，只需要找到文档中的命令，复制粘贴就行了，不要太简单。<br>现在资源包能自定义的包括故事设定、事件、选项、事件分支、道具、规则、技能与标签。基本上可以实现大部分的文字游戏需求。甚至可以用来做试卷，哈哈哈哈哈哈。<br><video src="https://videocdn.jellow.site/loy3P_-Jxj6K3kz_vFnX2M8u75zd.mp4?sign=a125f3d3dee0c1f8f4d32266ce99d16c&amp;t=62d19d90" controls=""></video>]]></description>
+            <description><![CDATA[<span>用户昵称：Verlif <br> Username：38d48aa5-482a-4f7e-8ef7-78dac411ea8e</span><br><br>Android客服端第一版也差不多了，基本功能完成了。<br>这个展示资源包只有159行，其中还包括了差不多一半的单行括号。资源包编写最麻烦的就是剧情设计还有选项设计，虽然只需要复制粘贴，但还是麻烦，以后再优化。<br>不需要任何编程知识就可以完成自己的游戏，也可以分享资源包给其他人或是游玩其他作者的作品。视频里的exec这些都是有文档的，基本就是命令行的格式。需要啥效果，只需要找到文档中的命令，复制粘贴就行了，不要太简单。<br>现在资源包能自定义的包括故事设定、事件、选项、事件分支、道具、规则、技能与标签。基本上可以实现大部分的文字游戏需求。甚至可以用来做试卷，哈哈哈哈哈哈。<br><video src="https://videocdn.jellow.site/loy3P_-Jxj6K3kz_vFnX2M8u75zd.mp4?sign=cd530d2c265c6e7d732f2a0c7ed57fdb&amp;t=62d1d359" controls=""></video>]]></description>
             <pubDate>Sun, 03 Jul 2022 04:23:46 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62c119d213392561e43673f6</guid>
             <link>https://m.okjike.com/originalPosts/62c119d213392561e43673f6</link>
