@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Fri, 15 Jul 2022 20:21:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2022 01:57:16 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[打算开发一款笔记类软件，中文名叫想记，英文名叫thinknote。 支持发布文本、图片、标签，选择emoji表达心情，使用时间线展示内容。 支持跨端使用，全平台数据同...]]></title>
+            <description><![CDATA[<span>用户昵称：艾逗笔 <br> Username：35224A78-8B11-469E-B307-16B58688FBEC</span><br><br>打算开发一款笔记类软件，中文名叫想记，英文名叫thinknote。<br>支持发布文本、图片、标签，选择emoji表达心情，使用时间线展示内容。<br>支持跨端使用，全平台数据同步，API开发用go，部署用k8s，web端react，桌面端tauri，移动端flutter，提供vscode、alfread、utools等插件，提供webhook供第三方扩展。<br>暂时想到这些，边写代码边完善功能。<br><br>虽然同类型软件已有很多，还是要造自己的轮子啊。😆<br><img src="https://cdn.jellow.site/FrxLw9xdyLfcZVHI4IqJSSuxBUH_v3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 15 Jul 2022 01:36:46 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62d0c4aef48eadf29753e5f8</guid>
+            <link>https://m.okjike.com/originalPosts/62d0c4aef48eadf29753e5f8</link>
+            
+            
+            
+            <author><![CDATA[艾逗笔]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[至此，《编程范式与西方哲学史》这一系列已经完结。这个系列可能是一个过于沉迷自我表达的系列，注定阅读量不会太高。毕竟，编程已经够抽象了，你还要给我讲哲学...]]></title>
@@ -105,22 +121,6 @@
         </item>
         
         <item>
-            <title><![CDATA[算法🤤🤤]]></title>
-            <description><![CDATA[<span>用户昵称：Roll20 <br> Username：F87758AC-6839-44AD-B882-D35994BFFB0C</span><br><br>算法🤤🤤<br><video src="https://videocdn.jellow.site/ljwOcWq8aCm2cBWbjHWbjgLX7QBD.mp4?sign=2e7925cfdfc161d6a8bb9772044d006c&amp;t=62d1d359" controls=""></video>]]></description>
-            <pubDate>Mon, 11 Jul 2022 16:33:01 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62cc50bd4fe6b84f73466b42</guid>
-            <link>https://m.okjike.com/originalPosts/62cc50bd4fe6b84f73466b42</link>
-            
-            
-            
-            <author><![CDATA[Roll20]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[最近看到的一个非常不错的项目了。]]></title>
             <description><![CDATA[<span>用户昵称：owlwong <br> Username：1672AA0A-939A-478A-AE26-98569F27F0EF</span><br><br>                    <img src="https://repository-images.githubusercontent.com/510607652/3cd4fb02-10f8-4e57-906c-206cfe3bdcc9" referrerpolicy="no-referrer"><br>                    <a href="https://github.com/pocketbase/pocketbase">GitHub - pocketbase/pocketbase: Open Source realtime backend in 1 file</a><br>                <br>最近看到的一个非常不错的项目了。]]></description>
             <pubDate>Fri, 08 Jul 2022 09:55:29 GMT</pubDate>
@@ -154,7 +154,7 @@
         
         <item>
             <title><![CDATA[Android客服端第一版也差不多了，基本功能完成了。 这个展示资源包只有159行，其中还包括了差不多一半的单行括号。资源包编写最麻烦的就是剧情设计还有选项设计...]]></title>
-            <description><![CDATA[<span>用户昵称：Verlif <br> Username：38d48aa5-482a-4f7e-8ef7-78dac411ea8e</span><br><br>Android客服端第一版也差不多了，基本功能完成了。<br>这个展示资源包只有159行，其中还包括了差不多一半的单行括号。资源包编写最麻烦的就是剧情设计还有选项设计，虽然只需要复制粘贴，但还是麻烦，以后再优化。<br>不需要任何编程知识就可以完成自己的游戏，也可以分享资源包给其他人或是游玩其他作者的作品。视频里的exec这些都是有文档的，基本就是命令行的格式。需要啥效果，只需要找到文档中的命令，复制粘贴就行了，不要太简单。<br>现在资源包能自定义的包括故事设定、事件、选项、事件分支、道具、规则、技能与标签。基本上可以实现大部分的文字游戏需求。甚至可以用来做试卷，哈哈哈哈哈哈。<br><video src="https://videocdn.jellow.site/loy3P_-Jxj6K3kz_vFnX2M8u75zd.mp4?sign=cd530d2c265c6e7d732f2a0c7ed57fdb&amp;t=62d1d359" controls=""></video>]]></description>
+            <description><![CDATA[<span>用户昵称：Verlif <br> Username：38d48aa5-482a-4f7e-8ef7-78dac411ea8e</span><br><br>Android客服端第一版也差不多了，基本功能完成了。<br>这个展示资源包只有159行，其中还包括了差不多一半的单行括号。资源包编写最麻烦的就是剧情设计还有选项设计，虽然只需要复制粘贴，但还是麻烦，以后再优化。<br>不需要任何编程知识就可以完成自己的游戏，也可以分享资源包给其他人或是游玩其他作者的作品。视频里的exec这些都是有文档的，基本就是命令行的格式。需要啥效果，只需要找到文档中的命令，复制粘贴就行了，不要太简单。<br>现在资源包能自定义的包括故事设定、事件、选项、事件分支、道具、规则、技能与标签。基本上可以实现大部分的文字游戏需求。甚至可以用来做试卷，哈哈哈哈哈哈。<br><video src="https://videocdn.jellow.site/loy3P_-Jxj6K3kz_vFnX2M8u75zd.mp4?sign=9e2ae343be72c083f68dcf463bf6a677&amp;t=62d22203" controls=""></video>]]></description>
             <pubDate>Sun, 03 Jul 2022 04:23:46 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62c119d213392561e43673f6</guid>
             <link>https://m.okjike.com/originalPosts/62c119d213392561e43673f6</link>
