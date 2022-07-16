@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sat, 16 Jul 2022 04:32:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2022 08:24:08 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[程序员+健身 每天早上光吃这些药(不是）就顶半顿早饭了]]></title>
+            <description><![CDATA[<span>用户昵称：罐装懒人 <br> Username：7a8bd452-08c5-4b5e-b0c9-9cfc43bc008d</span><br><br>程序员+健身<br>每天早上光吃这些药(不是）就顶半顿早饭了<br><img src="https://cdn.jellow.site/FoFzW9qHqRKMiHaV9P4IzcY1mP-Xv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sat, 16 Jul 2022 02:58:50 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62d2296a0f46c1c4a1cea8a2</guid>
+            <link>https://m.okjike.com/originalPosts/62d2296a0f46c1c4a1cea8a2</link>
+            
+            
+            
+            <author><![CDATA[罐装懒人]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[打算开发一款笔记类软件，中文名叫想记，英文名叫thinknote。 支持发布文本、图片、标签，选择emoji表达心情，使用时间线展示内容。 支持跨端使用，全平台数据同...]]></title>
@@ -105,22 +121,6 @@
         </item>
         
         <item>
-            <title><![CDATA[go有哪些开源项目适合入门学习呀...]]></title>
-            <description><![CDATA[<span>用户昵称：小谷围仁波切.bit <br> Username：1a585305-8fdb-4cfa-ba4e-136478d1a316</span><br><br>go有哪些开源项目适合入门学习呀...]]></description>
-            <pubDate>Wed, 13 Jul 2022 03:17:18 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62ce393ec8cb3fc11f295bac</guid>
-            <link>https://m.okjike.com/originalPosts/62ce393ec8cb3fc11f295bac</link>
-            
-            
-            
-            <author><![CDATA[小谷围仁波切.bit]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[最近看到的一个非常不错的项目了。]]></title>
             <description><![CDATA[<span>用户昵称：owlwong <br> Username：1672AA0A-939A-478A-AE26-98569F27F0EF</span><br><br>                    <img src="https://repository-images.githubusercontent.com/510607652/3cd4fb02-10f8-4e57-906c-206cfe3bdcc9" referrerpolicy="no-referrer"><br>                    <a href="https://github.com/pocketbase/pocketbase">GitHub - pocketbase/pocketbase: Open Source realtime backend in 1 file</a><br>                <br>最近看到的一个非常不错的项目了。]]></description>
             <pubDate>Fri, 08 Jul 2022 09:55:29 GMT</pubDate>
@@ -154,7 +154,7 @@
         
         <item>
             <title><![CDATA[Android客服端第一版也差不多了，基本功能完成了。 这个展示资源包只有159行，其中还包括了差不多一半的单行括号。资源包编写最麻烦的就是剧情设计还有选项设计...]]></title>
-            <description><![CDATA[<span>用户昵称：Verlif <br> Username：38d48aa5-482a-4f7e-8ef7-78dac411ea8e</span><br><br>Android客服端第一版也差不多了，基本功能完成了。<br>这个展示资源包只有159行，其中还包括了差不多一半的单行括号。资源包编写最麻烦的就是剧情设计还有选项设计，虽然只需要复制粘贴，但还是麻烦，以后再优化。<br>不需要任何编程知识就可以完成自己的游戏，也可以分享资源包给其他人或是游玩其他作者的作品。视频里的exec这些都是有文档的，基本就是命令行的格式。需要啥效果，只需要找到文档中的命令，复制粘贴就行了，不要太简单。<br>现在资源包能自定义的包括故事设定、事件、选项、事件分支、道具、规则、技能与标签。基本上可以实现大部分的文字游戏需求。甚至可以用来做试卷，哈哈哈哈哈哈。<br><video src="https://videocdn.jellow.site/loy3P_-Jxj6K3kz_vFnX2M8u75zd.mp4?sign=3848b567ac9a8d935c68e46bf95cf0b4&amp;t=62d24665" controls=""></video>]]></description>
+            <description><![CDATA[<span>用户昵称：Verlif <br> Username：38d48aa5-482a-4f7e-8ef7-78dac411ea8e</span><br><br>Android客服端第一版也差不多了，基本功能完成了。<br>这个展示资源包只有159行，其中还包括了差不多一半的单行括号。资源包编写最麻烦的就是剧情设计还有选项设计，虽然只需要复制粘贴，但还是麻烦，以后再优化。<br>不需要任何编程知识就可以完成自己的游戏，也可以分享资源包给其他人或是游玩其他作者的作品。视频里的exec这些都是有文档的，基本就是命令行的格式。需要啥效果，只需要找到文档中的命令，复制粘贴就行了，不要太简单。<br>现在资源包能自定义的包括故事设定、事件、选项、事件分支、道具、规则、技能与标签。基本上可以实现大部分的文字游戏需求。甚至可以用来做试卷，哈哈哈哈哈哈。<br><video src="https://videocdn.jellow.site/loy3P_-Jxj6K3kz_vFnX2M8u75zd.mp4?sign=ba69f94cc4732e40e5fa8010cde067db&amp;t=62d27cb0" controls=""></video>]]></description>
             <pubDate>Sun, 03 Jul 2022 04:23:46 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62c119d213392561e43673f6</guid>
             <link>https://m.okjike.com/originalPosts/62c119d213392561e43673f6</link>
