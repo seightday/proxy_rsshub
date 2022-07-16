@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sat, 16 Jul 2022 01:57:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2022 04:32:29 GMT</lastBuildDate>
         <ttl>1</ttl>
         
         <item>
@@ -57,15 +57,15 @@
         </item>
         
         <item>
-            <title><![CDATA[今天在看浏览器原理相关的文章，里面提到“网页的各个部分实际上是图层”通过Compositor Thread将不同的层组合在一起，就像PS一样。然后就看到了“立体的网页”...]]></title>
-            <description><![CDATA[<span>用户昵称：白衣与他 <br> Username：15017b1c-96d6-478e-a8f5-242a375d48b7</span><br><br>今天在看浏览器原理相关的文章，里面提到“网页的各个部分实际上是图层”通过Compositor Thread将不同的层组合在一起，就像PS一样。然后就看到了“立体的网页”。好有意思~<br><img src="https://cdn.jellow.site/FlsQv32X5XIp-ZFBPacyhSOZakV9v3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 14 Jul 2022 12:02:48 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62d005e8100bbd1839a08ece</guid>
-            <link>https://m.okjike.com/originalPosts/62d005e8100bbd1839a08ece</link>
+            <title><![CDATA[独立开发变现周刊（第63期）： 一个爬虫类产品，4个月做到月收入3000美元 分享独立开发、产品变现相关内容，每周五发布。 目录 1、Automa: 可视化设定模块使浏览...]]></title>
+            <description><![CDATA[<span>用户昵称：凯凯刘 <br> Username：17df3f5b-8c45-49aa-8a20-e7f9e698210d</span><br><br>独立开发变现周刊（第63期）： 一个爬虫类产品，4个月做到月收入3000美元<br>分享独立开发、产品变现相关内容，每周五发布。<br><br>目录<br>1、Automa: 可视化设定模块使浏览器自动化插件<br>2、Versoly: No-code在线创建产品页面<br>3、Directual: No-code构建Web3 app平台工具<br>4、ScrapingBee: 一个爬虫类产品，4个月做到月收入3000美元<br>详细内容请查看：https://www.ezindie.com/weekly/issue-63<br><img src="https://cdn.jellow.site/FpPswOjnQlG5mddiFyLAevHVCrlov3.png" referrerpolicy="no-referrer"><br><img src="https://cdn.jellow.site/Fo_ArMjpSYTR_GEW63E_QAkfcfoOv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 15 Jul 2022 00:56:35 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62d0bb4304dc276a9a0f8cae</guid>
+            <link>https://m.okjike.com/originalPosts/62d0bb4304dc276a9a0f8cae</link>
             
             
             
-            <author><![CDATA[白衣与他]]></author>
+            <author><![CDATA[凯凯刘]]></author>
             
                 
             
@@ -154,7 +154,7 @@
         
         <item>
             <title><![CDATA[Android客服端第一版也差不多了，基本功能完成了。 这个展示资源包只有159行，其中还包括了差不多一半的单行括号。资源包编写最麻烦的就是剧情设计还有选项设计...]]></title>
-            <description><![CDATA[<span>用户昵称：Verlif <br> Username：38d48aa5-482a-4f7e-8ef7-78dac411ea8e</span><br><br>Android客服端第一版也差不多了，基本功能完成了。<br>这个展示资源包只有159行，其中还包括了差不多一半的单行括号。资源包编写最麻烦的就是剧情设计还有选项设计，虽然只需要复制粘贴，但还是麻烦，以后再优化。<br>不需要任何编程知识就可以完成自己的游戏，也可以分享资源包给其他人或是游玩其他作者的作品。视频里的exec这些都是有文档的，基本就是命令行的格式。需要啥效果，只需要找到文档中的命令，复制粘贴就行了，不要太简单。<br>现在资源包能自定义的包括故事设定、事件、选项、事件分支、道具、规则、技能与标签。基本上可以实现大部分的文字游戏需求。甚至可以用来做试卷，哈哈哈哈哈哈。<br><video src="https://videocdn.jellow.site/loy3P_-Jxj6K3kz_vFnX2M8u75zd.mp4?sign=9e2ae343be72c083f68dcf463bf6a677&amp;t=62d22203" controls=""></video>]]></description>
+            <description><![CDATA[<span>用户昵称：Verlif <br> Username：38d48aa5-482a-4f7e-8ef7-78dac411ea8e</span><br><br>Android客服端第一版也差不多了，基本功能完成了。<br>这个展示资源包只有159行，其中还包括了差不多一半的单行括号。资源包编写最麻烦的就是剧情设计还有选项设计，虽然只需要复制粘贴，但还是麻烦，以后再优化。<br>不需要任何编程知识就可以完成自己的游戏，也可以分享资源包给其他人或是游玩其他作者的作品。视频里的exec这些都是有文档的，基本就是命令行的格式。需要啥效果，只需要找到文档中的命令，复制粘贴就行了，不要太简单。<br>现在资源包能自定义的包括故事设定、事件、选项、事件分支、道具、规则、技能与标签。基本上可以实现大部分的文字游戏需求。甚至可以用来做试卷，哈哈哈哈哈哈。<br><video src="https://videocdn.jellow.site/loy3P_-Jxj6K3kz_vFnX2M8u75zd.mp4?sign=3848b567ac9a8d935c68e46bf95cf0b4&amp;t=62d24665" controls=""></video>]]></description>
             <pubDate>Sun, 03 Jul 2022 04:23:46 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62c119d213392561e43673f6</guid>
             <link>https://m.okjike.com/originalPosts/62c119d213392561e43673f6</link>
