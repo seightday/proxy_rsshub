@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sun, 17 Jul 2022 12:35:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2022 16:26:52 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[写了一篇关于Notion建站的教程。通过GitHub的开源项目NotionNext可以快速部署博客系统，依托Notion强大的编辑功能，随时随地撰写文章，记录创意与灵感。同时利用...]]></title>
+            <description><![CDATA[<span>用户昵称：樹程Leslie <br> Username：15395A47-43FC-4C79-A534-C9B8991E4D11</span><br><br>                    <img src="https://cdn.jellow.site/icons/link.png" referrerpolicy="no-referrer"><br>                    <a href="https://justgoidea.com/tec/41.html">https://justgoidea.com/tec/41.html</a><br>                <br>写了一篇关于Notion建站的教程。通过GitHub的开源项目NotionNext可以快速部署博客系统，依托Notion强大的编辑功能，随时随地撰写文章，记录创意与灵感。同时利用腾讯云DNSPod实现自定义域名。]]></description>
+            <pubDate>Sun, 17 Jul 2022 11:14:25 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62d3ef111d236dd27ed09f28</guid>
+            <link>https://m.okjike.com/originalPosts/62d3ef111d236dd27ed09f28</link>
+            
+            
+            
+            <author><![CDATA[樹程Leslie]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[程序员+健身 每天早上光吃这些药(不是）就顶半顿早饭了]]></title>
@@ -154,7 +170,7 @@
         
         <item>
             <title><![CDATA[Android客服端第一版也差不多了，基本功能完成了。 这个展示资源包只有159行，其中还包括了差不多一半的单行括号。资源包编写最麻烦的就是剧情设计还有选项设计...]]></title>
-            <description><![CDATA[<span>用户昵称：Verlif <br> Username：38d48aa5-482a-4f7e-8ef7-78dac411ea8e</span><br><br>Android客服端第一版也差不多了，基本功能完成了。<br>这个展示资源包只有159行，其中还包括了差不多一半的单行括号。资源包编写最麻烦的就是剧情设计还有选项设计，虽然只需要复制粘贴，但还是麻烦，以后再优化。<br>不需要任何编程知识就可以完成自己的游戏，也可以分享资源包给其他人或是游玩其他作者的作品。视频里的exec这些都是有文档的，基本就是命令行的格式。需要啥效果，只需要找到文档中的命令，复制粘贴就行了，不要太简单。<br>现在资源包能自定义的包括故事设定、事件、选项、事件分支、道具、规则、技能与标签。基本上可以实现大部分的文字游戏需求。甚至可以用来做试卷，哈哈哈哈哈哈。<br><video src="https://videocdn.jellow.site/loy3P_-Jxj6K3kz_vFnX2M8u75zd.mp4?sign=39d335ff3fb618982c65fe3456078497&amp;t=62d40874" controls=""></video>]]></description>
+            <description><![CDATA[<span>用户昵称：Verlif <br> Username：38d48aa5-482a-4f7e-8ef7-78dac411ea8e</span><br><br>Android客服端第一版也差不多了，基本功能完成了。<br>这个展示资源包只有159行，其中还包括了差不多一半的单行括号。资源包编写最麻烦的就是剧情设计还有选项设计，虽然只需要复制粘贴，但还是麻烦，以后再优化。<br>不需要任何编程知识就可以完成自己的游戏，也可以分享资源包给其他人或是游玩其他作者的作品。视频里的exec这些都是有文档的，基本就是命令行的格式。需要啥效果，只需要找到文档中的命令，复制粘贴就行了，不要太简单。<br>现在资源包能自定义的包括故事设定、事件、选项、事件分支、道具、规则、技能与标签。基本上可以实现大部分的文字游戏需求。甚至可以用来做试卷，哈哈哈哈哈哈。<br><video src="https://videocdn.jellow.site/loy3P_-Jxj6K3kz_vFnX2M8u75zd.mp4?sign=f0e5c4b822f40660d22cc148da765007&amp;t=62d43ead" controls=""></video>]]></description>
             <pubDate>Sun, 03 Jul 2022 04:23:46 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62c119d213392561e43673f6</guid>
             <link>https://m.okjike.com/originalPosts/62c119d213392561e43673f6</link>
@@ -162,22 +178,6 @@
             
             
             <author><![CDATA[Verlif]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[4. 编辑器巡礼 - 内核恐慌]]></title>
-            <description><![CDATA[<span>用户昵称：呆唯Yui <br> Username：lkavion</span><br><br>                    <img src="https://cdn.jellow.site/FixDkFCTfR9jUnOcLdF0Slzsl4db?imageMogr2/auto-orient/heic-exif/1/format/jpeg?imageView2/0/w/800/h/800/format/jpeg/q/80" referrerpolicy="no-referrer"><br>                    <a href="https://www.xiaoyuzhoufm.com/episode/5e84c3ac418a84a0462df9e0?s=eyJ1IjogIjVlNDRmNzk2MzQxOWY0MDhiMzE4Njg4NCJ9">4. 编辑器巡礼 - 内核恐慌</a><br>                <br>Vim 9.0发布之际不妨听听]]></description>
-            <pubDate>Fri, 01 Jul 2022 01:00:49 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62be474147fd97524fc380f1</guid>
-            <link>https://m.okjike.com/originalPosts/62be474147fd97524fc380f1</link>
-            
-            
-            
-            <author><![CDATA[呆唯Yui]]></author>
             
                 
             
