@@ -21,12 +21,28 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 18 Jul 2022 02:02:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 04:53:16 GMT</lastBuildDate>
         <ttl>1</ttl>
         
         <item>
+            <title><![CDATA[有个技术同事住的小区要居家隔离七天。 然后他远程登录到公司电脑写代码。 他的电脑屏幕是开着的。 所以，在公司看到的就是，有一台电脑，没人坐在座位上，也能...]]></title>
+            <description><![CDATA[<span>用户昵称：哥飞 <br> Username：a2d6acc1-626f-4d15-a22a-849e88a4c9f0</span><br><br>有个技术同事住的小区要居家隔离七天。<br>然后他远程登录到公司电脑写代码。<br>他的电脑屏幕是开着的。<br>所以，在公司看到的就是，有一台电脑，没人坐在座位上，也能够自动写代码。]]></description>
+            <pubDate>Mon, 18 Jul 2022 02:50:58 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62d4ca92476d008e51a8d331</guid>
+            <link>https://m.okjike.com/originalPosts/62d4ca92476d008e51a8d331</link>
+            
+            
+            
+            <author><![CDATA[哥飞]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[写了一篇关于Notion建站的教程。通过GitHub的开源项目NotionNext可以快速部署博客系统，依托Notion强大的编辑功能，随时随地撰写文章，记录创意与灵感。同时利用...]]></title>
-            <description><![CDATA[<span>用户昵称：樹程Leslie <br> Username：15395A47-43FC-4C79-A534-C9B8991E4D11</span><br><br>                    <img src="https://cdn.jellow.site/icons/link.png" referrerpolicy="no-referrer"><br>                    <a href="https://justgoidea.com/tec/41.html">https://justgoidea.com/tec/41.html</a><br>                <br>写了一篇关于Notion建站的教程。通过GitHub的开源项目NotionNext可以快速部署博客系统，依托Notion强大的编辑功能，随时随地撰写文章，记录创意与灵感。同时利用腾讯云DNSPod实现自定义域名。]]></description>
+            <description><![CDATA[<span>用户昵称：樹程Leslie <br> Username：15395A47-43FC-4C79-A534-C9B8991E4D11</span><br><br>                    <img src="https://cdn.jellow.site/icons/link.png" referrerpolicy="no-referrer"><br>                    <a href="https://justgoidea.com/tech/41.html">https://justgoidea.com/tech/41.html</a><br>                <br>写了一篇关于Notion建站的教程。通过GitHub的开源项目NotionNext可以快速部署博客系统，依托Notion强大的编辑功能，随时随地撰写文章，记录创意与灵感。同时利用腾讯云DNSPod实现自定义域名。]]></description>
             <pubDate>Sun, 17 Jul 2022 11:14:25 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62d3ef111d236dd27ed09f28</guid>
             <link>https://m.okjike.com/originalPosts/62d3ef111d236dd27ed09f28</link>
@@ -105,22 +121,6 @@
         </item>
         
         <item>
-            <title><![CDATA[今天在看浏览器原理相关的文章，里面提到“网页的各个部分实际上是图层”通过Compositor Thread将不同的层组合在一起，就像PS一样。然后就看到了“立体的网页”...]]></title>
-            <description><![CDATA[<span>用户昵称：白衣与他 <br> Username：15017b1c-96d6-478e-a8f5-242a375d48b7</span><br><br>今天在看浏览器原理相关的文章，里面提到“网页的各个部分实际上是图层”通过Compositor Thread将不同的层组合在一起，就像PS一样。然后就看到了“立体的网页”。好有意思~<br><img src="https://cdn.jellow.site/FlsQv32X5XIp-ZFBPacyhSOZakV9v3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 14 Jul 2022 12:02:48 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62d005e8100bbd1839a08ece</guid>
-            <link>https://m.okjike.com/originalPosts/62d005e8100bbd1839a08ece</link>
-            
-            
-            
-            <author><![CDATA[白衣与他]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[学完python基础了,想学python爬虫，有推荐的书或者视频吗？]]></title>
             <description><![CDATA[<span>用户昵称：Xiaoye <br> Username：e20a668e-3e8d-4952-b451-3484ee350634</span><br><br>学完python基础了,想学python爬虫，有推荐的书或者视频吗？]]></description>
             <pubDate>Thu, 14 Jul 2022 06:23:00 GMT</pubDate>
@@ -170,7 +170,7 @@
         
         <item>
             <title><![CDATA[Android客服端第一版也差不多了，基本功能完成了。 这个展示资源包只有159行，其中还包括了差不多一半的单行括号。资源包编写最麻烦的就是剧情设计还有选项设计...]]></title>
-            <description><![CDATA[<span>用户昵称：Verlif <br> Username：38d48aa5-482a-4f7e-8ef7-78dac411ea8e</span><br><br>Android客服端第一版也差不多了，基本功能完成了。<br>这个展示资源包只有159行，其中还包括了差不多一半的单行括号。资源包编写最麻烦的就是剧情设计还有选项设计，虽然只需要复制粘贴，但还是麻烦，以后再优化。<br>不需要任何编程知识就可以完成自己的游戏，也可以分享资源包给其他人或是游玩其他作者的作品。视频里的exec这些都是有文档的，基本就是命令行的格式。需要啥效果，只需要找到文档中的命令，复制粘贴就行了，不要太简单。<br>现在资源包能自定义的包括故事设定、事件、选项、事件分支、道具、规则、技能与标签。基本上可以实现大部分的文字游戏需求。甚至可以用来做试卷，哈哈哈哈哈哈。<br><video src="https://videocdn.jellow.site/loy3P_-Jxj6K3kz_vFnX2M8u75zd.mp4?sign=e9720ab65a214343a2d2e7691eaa86ae&amp;t=62d4c653" controls=""></video>]]></description>
+            <description><![CDATA[<span>用户昵称：Verlif <br> Username：38d48aa5-482a-4f7e-8ef7-78dac411ea8e</span><br><br>Android客服端第一版也差不多了，基本功能完成了。<br>这个展示资源包只有159行，其中还包括了差不多一半的单行括号。资源包编写最麻烦的就是剧情设计还有选项设计，虽然只需要复制粘贴，但还是麻烦，以后再优化。<br>不需要任何编程知识就可以完成自己的游戏，也可以分享资源包给其他人或是游玩其他作者的作品。视频里的exec这些都是有文档的，基本就是命令行的格式。需要啥效果，只需要找到文档中的命令，复制粘贴就行了，不要太简单。<br>现在资源包能自定义的包括故事设定、事件、选项、事件分支、道具、规则、技能与标签。基本上可以实现大部分的文字游戏需求。甚至可以用来做试卷，哈哈哈哈哈哈。<br><video src="https://videocdn.jellow.site/loy3P_-Jxj6K3kz_vFnX2M8u75zd.mp4?sign=d87bda15c21daf27c0ee9f216d91d466&amp;t=62d4ed4e" controls=""></video>]]></description>
             <pubDate>Sun, 03 Jul 2022 04:23:46 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62c119d213392561e43673f6</guid>
             <link>https://m.okjike.com/originalPosts/62c119d213392561e43673f6</link>
