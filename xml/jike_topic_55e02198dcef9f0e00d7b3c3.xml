@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 18 Jul 2022 04:53:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 08:32:40 GMT</lastBuildDate>
         <ttl>1</ttl>
         
         <item>
@@ -34,6 +34,22 @@
             
             
             <author><![CDATA[哥飞]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[水军和喷子你们要多看看程序员的书]]></title>
+            <description><![CDATA[<span>用户昵称：Myth-Prometheus <br> Username：0D099B61-13CD-4D47-A674-2C68556BE4C5</span><br><br>水军和喷子你们要多看看程序员的书<br><img src="https://cdnv2.ruguoapp.com/lha5ja-h2D05P2GaD90tgKcK_Kn4v3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 18 Jul 2022 00:01:52 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62d4a2f0c69bb0d14757cd98</guid>
+            <link>https://m.okjike.com/originalPosts/62d4a2f0c69bb0d14757cd98</link>
+            
+            
+            
+            <author><![CDATA[Myth-Prometheus]]></author>
             
                 
             
@@ -58,7 +74,7 @@
         
         <item>
             <title><![CDATA[程序员+健身 每天早上光吃这些药(不是）就顶半顿早饭了]]></title>
-            <description><![CDATA[<span>用户昵称：罐装懒人 <br> Username：7a8bd452-08c5-4b5e-b0c9-9cfc43bc008d</span><br><br>程序员+健身<br>每天早上光吃这些药(不是）就顶半顿早饭了<br><img src="https://cdn.jellow.site/FoFzW9qHqRKMiHaV9P4IzcY1mP-Xv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[<span>用户昵称：罐装懒人 <br> Username：7a8bd452-08c5-4b5e-b0c9-9cfc43bc008d</span><br><br>程序员+健身<br>每天早上光吃这些药(不是）就顶半顿早饭了<br><img src="https://cdnv2.ruguoapp.com/FoFzW9qHqRKMiHaV9P4IzcY1mP-Xv3.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Sat, 16 Jul 2022 02:58:50 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62d2296a0f46c1c4a1cea8a2</guid>
             <link>https://m.okjike.com/originalPosts/62d2296a0f46c1c4a1cea8a2</link>
@@ -74,7 +90,7 @@
         
         <item>
             <title><![CDATA[打算开发一款笔记类软件，中文名叫想记，英文名叫thinknote。 支持发布文本、图片、标签，选择emoji表达心情，使用时间线展示内容。 支持跨端使用，全平台数据同...]]></title>
-            <description><![CDATA[<span>用户昵称：艾逗笔 <br> Username：35224A78-8B11-469E-B307-16B58688FBEC</span><br><br>打算开发一款笔记类软件，中文名叫想记，英文名叫thinknote。<br>支持发布文本、图片、标签，选择emoji表达心情，使用时间线展示内容。<br>支持跨端使用，全平台数据同步，API开发用go，部署用k8s，web端react，桌面端tauri，移动端flutter，提供vscode、alfread、utools等插件，提供webhook供第三方扩展。<br>暂时想到这些，边写代码边完善功能。<br><br>虽然同类型软件已有很多，还是要造自己的轮子啊。😆<br><img src="https://cdn.jellow.site/FrxLw9xdyLfcZVHI4IqJSSuxBUH_v3.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[<span>用户昵称：艾逗笔 <br> Username：35224A78-8B11-469E-B307-16B58688FBEC</span><br><br>打算开发一款笔记类软件，中文名叫想记，英文名叫thinknote。<br>支持发布文本、图片、标签，选择emoji表达心情，使用时间线展示内容。<br>支持跨端使用，全平台数据同步，API开发用go，部署用k8s，web端react，桌面端tauri，移动端flutter，提供vscode、alfread、utools等插件，提供webhook供第三方扩展。<br>暂时想到这些，边写代码边完善功能。<br><br>虽然同类型软件已有很多，还是要造自己的轮子啊。😆<br><img src="https://cdnv2.ruguoapp.com/FrxLw9xdyLfcZVHI4IqJSSuxBUH_v3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Fri, 15 Jul 2022 01:36:46 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62d0c4aef48eadf29753e5f8</guid>
             <link>https://m.okjike.com/originalPosts/62d0c4aef48eadf29753e5f8</link>
@@ -98,22 +114,6 @@
             
             
             <author><![CDATA[nhak]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[独立开发变现周刊（第63期）： 一个爬虫类产品，4个月做到月收入3000美元 分享独立开发、产品变现相关内容，每周五发布。 目录 1、Automa: 可视化设定模块使浏览...]]></title>
-            <description><![CDATA[<span>用户昵称：凯凯刘 <br> Username：17df3f5b-8c45-49aa-8a20-e7f9e698210d</span><br><br>独立开发变现周刊（第63期）： 一个爬虫类产品，4个月做到月收入3000美元<br>分享独立开发、产品变现相关内容，每周五发布。<br><br>目录<br>1、Automa: 可视化设定模块使浏览器自动化插件<br>2、Versoly: No-code在线创建产品页面<br>3、Directual: No-code构建Web3 app平台工具<br>4、ScrapingBee: 一个爬虫类产品，4个月做到月收入3000美元<br>详细内容请查看：https://www.ezindie.com/weekly/issue-63<br><img src="https://cdn.jellow.site/FpPswOjnQlG5mddiFyLAevHVCrlov3.png" referrerpolicy="no-referrer"><br><img src="https://cdn.jellow.site/Fo_ArMjpSYTR_GEW63E_QAkfcfoOv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 15 Jul 2022 00:56:35 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62d0bb4304dc276a9a0f8cae</guid>
-            <link>https://m.okjike.com/originalPosts/62d0bb4304dc276a9a0f8cae</link>
-            
-            
-            
-            <author><![CDATA[凯凯刘]]></author>
             
                 
             
@@ -154,7 +154,7 @@
         
         <item>
             <title><![CDATA[#独立开发的日常 我写了一个用 SQL 转换 Go struct 的小工具。经常用 Go 写 CRUD 的朋友可能会用上。写了一篇博客详细介绍这个工具的开发背景和技术栈，欢迎试用...]]></title>
-            <description><![CDATA[<span>用户昵称：艾逗笔 <br> Username：35224A78-8B11-469E-B307-16B58688FBEC</span><br><br>#独立开发的日常 我写了一个用 SQL 转换 Go struct 的小工具。经常用 Go 写 CRUD 的朋友可能会用上。写了一篇博客详细介绍这个工具的开发背景和技术栈，欢迎试用。https://idoubi.cc/posts/sql2struct-new-version/<br><img src="https://cdn.jellow.site/FlPdPplf4N991aore0JOLmOL7WuXv3.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[<span>用户昵称：艾逗笔 <br> Username：35224A78-8B11-469E-B307-16B58688FBEC</span><br><br>#独立开发的日常 我写了一个用 SQL 转换 Go struct 的小工具。经常用 Go 写 CRUD 的朋友可能会用上。写了一篇博客详细介绍这个工具的开发背景和技术栈，欢迎试用。https://idoubi.cc/posts/sql2struct-new-version/<br><img src="https://cdnv2.ruguoapp.com/FlPdPplf4N991aore0JOLmOL7WuXv3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Tue, 05 Jul 2022 01:00:22 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62c38d2682c9996321ae6fd9</guid>
             <link>https://m.okjike.com/originalPosts/62c38d2682c9996321ae6fd9</link>
@@ -170,7 +170,7 @@
         
         <item>
             <title><![CDATA[Android客服端第一版也差不多了，基本功能完成了。 这个展示资源包只有159行，其中还包括了差不多一半的单行括号。资源包编写最麻烦的就是剧情设计还有选项设计...]]></title>
-            <description><![CDATA[<span>用户昵称：Verlif <br> Username：38d48aa5-482a-4f7e-8ef7-78dac411ea8e</span><br><br>Android客服端第一版也差不多了，基本功能完成了。<br>这个展示资源包只有159行，其中还包括了差不多一半的单行括号。资源包编写最麻烦的就是剧情设计还有选项设计，虽然只需要复制粘贴，但还是麻烦，以后再优化。<br>不需要任何编程知识就可以完成自己的游戏，也可以分享资源包给其他人或是游玩其他作者的作品。视频里的exec这些都是有文档的，基本就是命令行的格式。需要啥效果，只需要找到文档中的命令，复制粘贴就行了，不要太简单。<br>现在资源包能自定义的包括故事设定、事件、选项、事件分支、道具、规则、技能与标签。基本上可以实现大部分的文字游戏需求。甚至可以用来做试卷，哈哈哈哈哈哈。<br><video src="https://videocdn.jellow.site/loy3P_-Jxj6K3kz_vFnX2M8u75zd.mp4?sign=d87bda15c21daf27c0ee9f216d91d466&amp;t=62d4ed4e" controls=""></video>]]></description>
+            <description><![CDATA[<span>用户昵称：Verlif <br> Username：38d48aa5-482a-4f7e-8ef7-78dac411ea8e</span><br><br>Android客服端第一版也差不多了，基本功能完成了。<br>这个展示资源包只有159行，其中还包括了差不多一半的单行括号。资源包编写最麻烦的就是剧情设计还有选项设计，虽然只需要复制粘贴，但还是麻烦，以后再优化。<br>不需要任何编程知识就可以完成自己的游戏，也可以分享资源包给其他人或是游玩其他作者的作品。视频里的exec这些都是有文档的，基本就是命令行的格式。需要啥效果，只需要找到文档中的命令，复制粘贴就行了，不要太简单。<br>现在资源包能自定义的包括故事设定、事件、选项、事件分支、道具、规则、技能与标签。基本上可以实现大部分的文字游戏需求。甚至可以用来做试卷，哈哈哈哈哈哈。<br><video src="https://videocdn.jellow.site/loy3P_-Jxj6K3kz_vFnX2M8u75zd.mp4?sign=4b3fc373b3c38fcc18389fae61db7b32&amp;t=62d52092" controls=""></video>]]></description>
             <pubDate>Sun, 03 Jul 2022 04:23:46 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62c119d213392561e43673f6</guid>
             <link>https://m.okjike.com/originalPosts/62c119d213392561e43673f6</link>
