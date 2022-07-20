@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[JitHub - 即刻圈子]]></title>
         <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
-        <atom:link href="https://rsshub.rssforever.com/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
         <description><![CDATA[开发者们分享，问答，也可以交友的地方。欢迎所有工程师！ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -21,8 +21,8 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 20 Jul 2022 12:41:01 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Wed, 20 Jul 2022 16:30:54 GMT</lastBuildDate>
+        <ttl>1</ttl>
         
         <item>
             <title><![CDATA[做国内的内容服务你永远不知道哪条内容打到了一公斤棉花或者一公斤铁上了。 听闻近日某个个人项目国内域名被 ban 有感。]]></title>
@@ -170,7 +170,7 @@
         
         <item>
             <title><![CDATA[Android客服端第一版也差不多了，基本功能完成了。 这个展示资源包只有159行，其中还包括了差不多一半的单行括号。资源包编写最麻烦的就是剧情设计还有选项设计...]]></title>
-            <description><![CDATA[<span>用户昵称：Verlif <br> Username：38d48aa5-482a-4f7e-8ef7-78dac411ea8e</span><br><br>Android客服端第一版也差不多了，基本功能完成了。<br>这个展示资源包只有159行，其中还包括了差不多一半的单行括号。资源包编写最麻烦的就是剧情设计还有选项设计，虽然只需要复制粘贴，但还是麻烦，以后再优化。<br>不需要任何编程知识就可以完成自己的游戏，也可以分享资源包给其他人或是游玩其他作者的作品。视频里的exec这些都是有文档的，基本就是命令行的格式。需要啥效果，只需要找到文档中的命令，复制粘贴就行了，不要太简单。<br>现在资源包能自定义的包括故事设定、事件、选项、事件分支、道具、规则、技能与标签。基本上可以实现大部分的文字游戏需求。甚至可以用来做试卷，哈哈哈哈哈哈。<br><video src="https://videocdn.jellow.site/loy3P_-Jxj6K3kz_vFnX2M8u75zd.mp4?sign=98c12cd02e7a224893639ddc84590fe6&amp;t=62d7fedf" controls=""></video>]]></description>
+            <description><![CDATA[<span>用户昵称：Verlif <br> Username：38d48aa5-482a-4f7e-8ef7-78dac411ea8e</span><br><br>Android客服端第一版也差不多了，基本功能完成了。<br>这个展示资源包只有159行，其中还包括了差不多一半的单行括号。资源包编写最麻烦的就是剧情设计还有选项设计，虽然只需要复制粘贴，但还是麻烦，以后再优化。<br>不需要任何编程知识就可以完成自己的游戏，也可以分享资源包给其他人或是游玩其他作者的作品。视频里的exec这些都是有文档的，基本就是命令行的格式。需要啥效果，只需要找到文档中的命令，复制粘贴就行了，不要太简单。<br>现在资源包能自定义的包括故事设定、事件、选项、事件分支、道具、规则、技能与标签。基本上可以实现大部分的文字游戏需求。甚至可以用来做试卷，哈哈哈哈哈哈。<br><video src="https://videocdn.jellow.site/loy3P_-Jxj6K3kz_vFnX2M8u75zd.mp4?sign=6b9a83f8a9328176c8b5f4f5787db762&amp;t=62d8327b" controls=""></video>]]></description>
             <pubDate>Sun, 03 Jul 2022 04:23:46 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62c119d213392561e43673f6</guid>
             <link>https://m.okjike.com/originalPosts/62c119d213392561e43673f6</link>
