@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 20 Jul 2022 04:44:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2022 08:27:55 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[做国内的内容服务你永远不知道哪条内容打到了一公斤棉花或者一公斤铁上了。 听闻近日某个个人项目国内域名被 ban 有感。]]></title>
+            <description><![CDATA[<span>用户昵称：Shuhari <br> Username：6C07C7A4-0777-42B3-8A81-FB506FC9722D</span><br><br>做国内的内容服务你永远不知道哪条内容打到了一公斤棉花或者一公斤铁上了。<br><br>听闻近日某个个人项目国内域名被 ban 有感。]]></description>
+            <pubDate>Wed, 20 Jul 2022 02:45:14 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62d76c3aae6b64e72c2e77ab</guid>
+            <link>https://m.okjike.com/originalPosts/62d76c3aae6b64e72c2e77ab</link>
+            
+            
+            
+            <author><![CDATA[Shuhari]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[学习Python第二周，花一整天时间鼓捣出了第一个对我而言有实际应用价值的程序：『初来乍到99单词表』: 1. 我根据个人在多个陌生国度的日常生活的实际体验，选取...]]></title>
@@ -66,22 +82,6 @@
             
             
             <author><![CDATA[P小二]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[跑 模 型]]></title>
-            <description><![CDATA[<span>用户昵称：史蒂芬抠 <br> Username：02cb34ab-5584-4e80-93d3-8896cde76772</span><br><br>跑 模 型<br><img src="https://cdnv2.ruguoapp.com/Fgdj2SscOsWz7EU8HyiexSxwG-COv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FhBPurXPmp5oEHbn3cfqHrRYMUKfv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 18 Jul 2022 11:32:03 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62d544b3476d008e51b7830a</guid>
-            <link>https://m.okjike.com/originalPosts/62d544b3476d008e51b7830a</link>
-            
-            
-            
-            <author><![CDATA[史蒂芬抠]]></author>
             
                 
             
@@ -170,7 +170,7 @@
         
         <item>
             <title><![CDATA[Android客服端第一版也差不多了，基本功能完成了。 这个展示资源包只有159行，其中还包括了差不多一半的单行括号。资源包编写最麻烦的就是剧情设计还有选项设计...]]></title>
-            <description><![CDATA[<span>用户昵称：Verlif <br> Username：38d48aa5-482a-4f7e-8ef7-78dac411ea8e</span><br><br>Android客服端第一版也差不多了，基本功能完成了。<br>这个展示资源包只有159行，其中还包括了差不多一半的单行括号。资源包编写最麻烦的就是剧情设计还有选项设计，虽然只需要复制粘贴，但还是麻烦，以后再优化。<br>不需要任何编程知识就可以完成自己的游戏，也可以分享资源包给其他人或是游玩其他作者的作品。视频里的exec这些都是有文档的，基本就是命令行的格式。需要啥效果，只需要找到文档中的命令，复制粘贴就行了，不要太简单。<br>现在资源包能自定义的包括故事设定、事件、选项、事件分支、道具、规则、技能与标签。基本上可以实现大部分的文字游戏需求。甚至可以用来做试卷，哈哈哈哈哈哈。<br><video src="https://videocdn.jellow.site/loy3P_-Jxj6K3kz_vFnX2M8u75zd.mp4?sign=eb97db993cf18b6553cd95efdd9812d7&amp;t=62d78f29" controls=""></video>]]></description>
+            <description><![CDATA[<span>用户昵称：Verlif <br> Username：38d48aa5-482a-4f7e-8ef7-78dac411ea8e</span><br><br>Android客服端第一版也差不多了，基本功能完成了。<br>这个展示资源包只有159行，其中还包括了差不多一半的单行括号。资源包编写最麻烦的就是剧情设计还有选项设计，虽然只需要复制粘贴，但还是麻烦，以后再优化。<br>不需要任何编程知识就可以完成自己的游戏，也可以分享资源包给其他人或是游玩其他作者的作品。视频里的exec这些都是有文档的，基本就是命令行的格式。需要啥效果，只需要找到文档中的命令，复制粘贴就行了，不要太简单。<br>现在资源包能自定义的包括故事设定、事件、选项、事件分支、道具、规则、技能与标签。基本上可以实现大部分的文字游戏需求。甚至可以用来做试卷，哈哈哈哈哈哈。<br><video src="https://videocdn.jellow.site/loy3P_-Jxj6K3kz_vFnX2M8u75zd.mp4?sign=f2606127d61776f393642dde1f0c64c9&amp;t=62d7c1fb" controls=""></video>]]></description>
             <pubDate>Sun, 03 Jul 2022 04:23:46 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62c119d213392561e43673f6</guid>
             <link>https://m.okjike.com/originalPosts/62c119d213392561e43673f6</link>
