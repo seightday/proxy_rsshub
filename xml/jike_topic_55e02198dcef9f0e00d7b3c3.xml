@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 21 Jul 2022 16:29:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 20:22:40 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[我也有80star的项目啦]]></title>
+            <description><![CDATA[<span>用户昵称：linaom1214 <br> Username：7f56a36b-c468-43fd-a9cd-57362e13b353</span><br><br>我也有80star的项目啦<br><img src="https://cdnv2.ruguoapp.com/FvmJj8U_P5_-Ln0jrwfpD1IGh5J2v3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 21 Jul 2022 14:58:13 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62d969855154ef85322a19fa</guid>
+            <link>https://m.okjike.com/originalPosts/62d969855154ef85322a19fa</link>
+            
+            
+            
+            <author><![CDATA[linaom1214]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[乱码原因，奇怪的知识增加了]]></title>
@@ -57,15 +73,15 @@
         </item>
         
         <item>
-            <title><![CDATA[我去]]></title>
-            <description><![CDATA[<span>用户昵称：CyberJunk <br> Username：CFE43473-0602-406B-8514-10FF7C297805</span><br><br>我去<br><img src="https://cdnv2.ruguoapp.com/FizIdPJ9UJ44mbEZyC-0tOYt2YS5v3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 19 Jul 2022 15:30:10 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62d6ce02ae6b64e72c21b062</guid>
-            <link>https://m.okjike.com/originalPosts/62d6ce02ae6b64e72c21b062</link>
+            <title><![CDATA[今天看Github才发现unity彻底放弃了与vscode相关的官方插件的开发，直接在讨论区摆烂说建议大伙用vs和rider……是真的糟心。]]></title>
+            <description><![CDATA[<span>用户昵称：Hafezurm <br> Username：3eccbffe-e4e3-4cea-96e8-6c535302b38c</span><br><br>今天看Github才发现unity彻底放弃了与vscode相关的官方插件的开发，直接在讨论区摆烂说建议大伙用vs和rider……是真的糟心。]]></description>
+            <pubDate>Thu, 21 Jul 2022 03:33:55 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62d8c923ae6b64e72c51905f</guid>
+            <link>https://m.okjike.com/originalPosts/62d8c923ae6b64e72c51905f</link>
             
             
             
-            <author><![CDATA[CyberJunk]]></author>
+            <author><![CDATA[Hafezurm]]></author>
             
                 
             
@@ -153,31 +169,15 @@
         </item>
         
         <item>
-            <title><![CDATA[最近看到的一个非常不错的项目了。]]></title>
-            <description><![CDATA[<span>用户昵称：owlwong <br> Username：1672AA0A-939A-478A-AE26-98569F27F0EF</span><br><br>                    <img src="https://repository-images.githubusercontent.com/510607652/3cd4fb02-10f8-4e57-906c-206cfe3bdcc9" referrerpolicy="no-referrer"><br>                    <a href="https://github.com/pocketbase/pocketbase">GitHub - pocketbase/pocketbase: Open Source realtime backend in 1 file</a><br>                <br>最近看到的一个非常不错的项目了。]]></description>
-            <pubDate>Fri, 08 Jul 2022 09:55:29 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62c7ff11bc1e62b1f019bbae</guid>
-            <link>https://m.okjike.com/originalPosts/62c7ff11bc1e62b1f019bbae</link>
+            <title><![CDATA[一切工程的核心问题是「控制复杂度」，对于 software engineering 来讲，其中的一个重要实现路径是「引入中间层」。而「中间层」的引入之所以能够“控制/降低"复...]]></title>
+            <description><![CDATA[<span>用户昵称：TerenceXie <br> Username：3FA05A44-F819-4D0F-8DBA-A61CF3854ED8</span><br><br>一切工程的核心问题是「控制复杂度」，对于 software engineering 来讲，其中的一个重要实现路径是「引入中间层」。而「中间层」的引入之所以能够“控制/降低"复杂度，源自于最为朴素的「组合」数学特征：A 端的 m 个任务同 B 端的 n 个任务对接，在没有中间层的情况下，你不得不实现 m*n 个对接任务。但如果有了共同遵守的中间层「协议/数据」，则对接任务的数量可以直接被降为 m+n 个。<br><br>这意味着，当你需要在A(B) 端引入一个新任务时，不必再被迫实现 n(m) 个对应段的对接任务。这样低成本的「改造/创新」代价，会不由自主地激发「两端」更为高速的更新迭代。<br><br>这同样意味着，当 A 端已经创新升级到一个新 level 时，B 端可以通过「资源堆积」而不是「硬性创新」来完成同 A 端的配合。但对于外部来讲，整个系统所提供的就是新 level 的优质体验，即便是当前的 B 端服务依旧贫乏落后，但却不耽误整个系统的优质表现。于是，承载 A 端的新时代技术宠儿，依旧能够被处在旧时代的 B 端服务。只要，它们通过间接的中间层来做交互。]]></description>
+            <pubDate>Thu, 14 Jul 2022 05:31:55 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62cfaa4b390368bd32e4e7a9</guid>
+            <link>https://m.okjike.com/originalPosts/62cfaa4b390368bd32e4e7a9</link>
             
             
             
-            <author><![CDATA[owlwong]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[#独立开发的日常 我写了一个用 SQL 转换 Go struct 的小工具。经常用 Go 写 CRUD 的朋友可能会用上。写了一篇博客详细介绍这个工具的开发背景和技术栈，欢迎试用...]]></title>
-            <description><![CDATA[<span>用户昵称：艾逗笔 <br> Username：35224A78-8B11-469E-B307-16B58688FBEC</span><br><br>#独立开发的日常 我写了一个用 SQL 转换 Go struct 的小工具。经常用 Go 写 CRUD 的朋友可能会用上。写了一篇博客详细介绍这个工具的开发背景和技术栈，欢迎试用。https://idoubi.cc/posts/sql2struct-new-version/<br><img src="https://cdnv2.ruguoapp.com/FlPdPplf4N991aore0JOLmOL7WuXv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 05 Jul 2022 01:00:22 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62c38d2682c9996321ae6fd9</guid>
-            <link>https://m.okjike.com/originalPosts/62c38d2682c9996321ae6fd9</link>
-            
-            
-            
-            <author><![CDATA[艾逗笔]]></author>
+            <author><![CDATA[TerenceXie]]></author>
             
                 
             
