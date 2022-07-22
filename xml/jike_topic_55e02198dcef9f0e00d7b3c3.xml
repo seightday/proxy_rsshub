@@ -21,8 +21,40 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Fri, 22 Jul 2022 04:48:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 08:28:28 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[关于编程语言的选择： 能解决问题吗？ ↓ 用得顺手吗？ ↓ 性能理想吗？ ↓ 编写效率高吗？ ↓ 修改与阅读效率高吗？ ↓ 库齐全吗？ ↓ 有致命缺陷吗？ ↓ 一直...]]></title>
+            <description><![CDATA[<span>用户昵称：绝克有茶 <br> Username：C027E21D-DFD6-4F88-AF40-31871E1FB6F4</span><br><br>关于编程语言的选择：<br>能解决问题吗？<br>↓<br>用得顺手吗？<br>↓<br>性能理想吗？<br>↓<br>编写效率高吗？<br>↓<br>修改与阅读效率高吗？<br>↓<br>库齐全吗？<br>↓<br>有致命缺陷吗？<br>↓<br>一直有人在维护吗？]]></description>
+            <pubDate>Fri, 22 Jul 2022 05:32:28 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62da366c959273b412a8965e</guid>
+            <link>https://m.okjike.com/originalPosts/62da366c959273b412a8965e</link>
+            
+            
+            
+            <author><![CDATA[绝克有茶]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Github学生认证死活通过不了 提工单了都是机器人秒拒 有没有最近申请的即友来帮下忙QAQ]]></title>
+            <description><![CDATA[<span>用户昵称：鲨雕 <br> Username：9eec0862-42c8-4493-9bd4-aea499645153</span><br><br>Github学生认证死活通过不了<br>提工单了都是机器人秒拒<br>有没有最近申请的即友来帮下忙QAQ]]></description>
+            <pubDate>Fri, 22 Jul 2022 02:52:38 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62da10f6900a84663c3682fc</guid>
+            <link>https://m.okjike.com/originalPosts/62da10f6900a84663c3682fc</link>
+            
+            
+            
+            <author><![CDATA[鲨雕]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[我发现身边的男生都挺喜欢跟我讨论技术的🤔 一方面是因为这是他们自己的强项，确实讲的有自信。 另一方面是我对于自己未知的知识都比较感兴趣的，一边听一边问...]]></title>
@@ -66,22 +98,6 @@
             
             
             <author><![CDATA[闷声写bug]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[用AI把人写的让人看不懂的人话翻译成人能看懂的人话]]></title>
-            <description><![CDATA[<span>用户昵称：数字游民Jarod <br> Username：ad370052-e980-47a2-b98c-53394c5bd081</span><br><br>用AI把人写的让人看不懂的人话翻译成人能看懂的人话<br><img src="https://cdnv2.ruguoapp.com/FsMap1TVm4i7xv6iCF3rIumR5H35v3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 21 Jul 2022 07:40:08 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62d902d8bb4ef1f023c6bf13</guid>
-            <link>https://m.okjike.com/originalPosts/62d902d8bb4ef1f023c6bf13</link>
-            
-            
-            
-            <author><![CDATA[数字游民Jarod]]></author>
             
                 
             
@@ -162,22 +178,6 @@
             
             
             <author><![CDATA[艾逗笔]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[一切工程的核心问题是「控制复杂度」，对于 software engineering 来讲，其中的一个重要实现路径是「引入中间层」。而「中间层」的引入之所以能够“控制/降低"复...]]></title>
-            <description><![CDATA[<span>用户昵称：TerenceXie <br> Username：3FA05A44-F819-4D0F-8DBA-A61CF3854ED8</span><br><br>一切工程的核心问题是「控制复杂度」，对于 software engineering 来讲，其中的一个重要实现路径是「引入中间层」。而「中间层」的引入之所以能够“控制/降低"复杂度，源自于最为朴素的「组合」数学特征：A 端的 m 个任务同 B 端的 n 个任务对接，在没有中间层的情况下，你不得不实现 m*n 个对接任务。但如果有了共同遵守的中间层「协议/数据」，则对接任务的数量可以直接被降为 m+n 个。<br><br>这意味着，当你需要在A(B) 端引入一个新任务时，不必再被迫实现 n(m) 个对应段的对接任务。这样低成本的「改造/创新」代价，会不由自主地激发「两端」更为高速的更新迭代。<br><br>这同样意味着，当 A 端已经创新升级到一个新 level 时，B 端可以通过「资源堆积」而不是「硬性创新」来完成同 A 端的配合。但对于外部来讲，整个系统所提供的就是新 level 的优质体验，即便是当前的 B 端服务依旧贫乏落后，但却不耽误整个系统的优质表现。于是，承载 A 端的新时代技术宠儿，依旧能够被处在旧时代的 B 端服务。只要，它们通过间接的中间层来做交互。]]></description>
-            <pubDate>Thu, 14 Jul 2022 05:31:55 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62cfaa4b390368bd32e4e7a9</guid>
-            <link>https://m.okjike.com/originalPosts/62cfaa4b390368bd32e4e7a9</link>
-            
-            
-            
-            <author><![CDATA[TerenceXie]]></author>
             
                 
             
