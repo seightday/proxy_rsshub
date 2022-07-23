@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Fri, 22 Jul 2022 20:22:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2022 01:59:34 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[这几天忙的飞起，看到一个哥们给我提了一个bug，再一看，惊喜的发现已经突破1.1k的下载了~ 看来还是很多人碰到跟我一样需要同步obsidian内容到notion的。]]></title>
+            <description><![CDATA[<span>用户昵称：EasyPlux <br> Username：40441D2D-9682-4FAD-B220-C01B89635F95</span><br><br>这几天忙的飞起，看到一个哥们给我提了一个bug，再一看，惊喜的发现已经突破1.1k的下载了~<br>看来还是很多人碰到跟我一样需要同步obsidian内容到notion的。<br><img src="https://cdnv2.ruguoapp.com/Fj8YBTlxyvw5hprHx0E_GNARfnZ3v3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 22 Jul 2022 13:34:29 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62daa765aa2677e534206b0c</guid>
+            <link>https://m.okjike.com/originalPosts/62daa765aa2677e534206b0c</link>
+            
+            
+            
+            <author><![CDATA[EasyPlux]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[关于编程语言的选择： 能解决问题吗？ ↓ 用得顺手吗？ ↓ 性能理想吗？ ↓ 编写效率高吗？ ↓ 修改与阅读效率高吗？ ↓ 库齐全吗？ ↓ 有致命缺陷吗？ ↓ 一直...]]></title>
@@ -98,22 +114,6 @@
             
             
             <author><![CDATA[闷声写bug]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[学习Python第二周，花一整天时间鼓捣出了第一个对我而言有实际应用价值的程序：『初来乍到99单词表』: 1. 我根据个人在多个陌生国度的日常生活的实际体验，选取...]]></title>
-            <description><![CDATA[<span>用户昵称：数字游民Jarod <br> Username：ad370052-e980-47a2-b98c-53394c5bd081</span><br><br>学习Python第二周，花一整天时间鼓捣出了第一个对我而言有实际应用价值的程序：『初来乍到99单词表』:<br><br>1. 我根据个人在多个陌生国度的日常生活的实际体验，选取了99个最高频使用的单词和表达方式(包含70个单词/短句和29个数字), 构成了一份原始单词表。<br><br>2. 通过python脚本将这份原始单词表每个条目前面加上" - ", 使其变成logseq能识别的大纲block格式，每一个单词/短句各占一行，为一个独立的block。<br><br>3. 接入谷歌翻译API（googletrans), 将原始单词表翻译成目标语言单词表。<br><br>4. 使用zip函数将目标语言单词表的每一行插入原始单词表对应行的下面，并同时对其进行缩进，在原始单词表每一行的最后加上#card，输出成为一个新的文件。这一步的目的主要是为了激活创建logseq可识别的SRS(间隔重复功能)格式。 <br><br>5. 在新的单词表上方加入{{cards [[]]}}，并将其转化成.md格式。<br><br>有朋友可能会问，用Duolingo不就成了。可是但凡用过Duolingo的朋友应该都知道，Duolingo的学习曲线是很缓慢的，并不会在一开始就cover日常生活中最最常用的表达方式。<br><br>我这个程序面对的目标群体是，初到一个新的国度，没有兴趣精通某一门语言，只希望在短时间内掌握这门语言最最核心的部分，从而达到便利当地日常生活的目的。就好比我目前生活在土耳其，我没有计划花大量时间学习土耳其语，但是通过学习表中的99个条目，可以帮我搞定绝大部分日常生活及旅行的场景。<br><br>另外，使用logseq作为这单词表的功能基础，也意味着你可以轻易地在它的基础上进行编辑，删减或者增加。<br><br>我已将代码开源并上传到了github，目前包含的语言有西班牙语，法语和土耳其语，感兴趣的朋友可以点击下方链接下载使用，欢迎通过Github issue提出新的语言需求和建议。<br><br>https://github.com/jarodise/List99<br><img src="https://cdnv2.ruguoapp.com/FiTHRwvqNvgYtE5prrTvOuUOaRZ6v3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 19 Jul 2022 09:38:40 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62d67ba0a270a4cad54243e6</guid>
-            <link>https://m.okjike.com/originalPosts/62d67ba0a270a4cad54243e6</link>
-            
-            
-            
-            <author><![CDATA[数字游民Jarod]]></author>
             
                 
             
