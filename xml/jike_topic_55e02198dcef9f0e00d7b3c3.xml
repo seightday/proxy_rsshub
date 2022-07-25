@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 25 Jul 2022 04:52:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 08:28:24 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[如果你懒得为结构体编写 NewXXX 构造器，不妨试试这个工具。 这个工具不需要安装，只需要代码里加一行注释，Go就会自动帮你生成构造器代码。]]></title>
+            <description><![CDATA[<span>用户昵称：benn <br> Username：b6f8811d-a1e5-40a3-8f30-ba94cd73e18f</span><br><br>                    <img src="https://opengraph.githubassets.com/c8ba00061db72e99e54e15fa4fac413d91ea33dfa086f0aac681f391cf834175/Bin-Huang/make-constructor" referrerpolicy="no-referrer"><br>                    <a href="https://github.com/Bin-Huang/make-constructor">GitHub - Bin-Huang/make-constructor: A command-line tool to generate constructor code for a struct. It don't need manual installation, just add a comment line to the struct then it works.</a><br>                <br>如果你懒得为结构体编写 NewXXX 构造器，不妨试试这个工具。<br>这个工具不需要安装，只需要代码里加一行注释，Go就会自动帮你生成构造器代码。]]></description>
+            <pubDate>Mon, 25 Jul 2022 07:42:21 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62de495da8e6fc5cd967a2de</guid>
+            <link>https://m.okjike.com/originalPosts/62de495da8e6fc5cd967a2de</link>
+            
+            
+            
+            <author><![CDATA[benn]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[求推荐点b站有趣的up主 学习 玩乐都可以]]></title>
@@ -162,22 +178,6 @@
             
             
             <author><![CDATA[樹程Leslie]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[打算开发一款笔记类软件，中文名叫想记，英文名叫thinknote。 支持发布文本、图片、标签，选择emoji表达心情，使用时间线展示内容。 支持跨端使用，全平台数据同...]]></title>
-            <description><![CDATA[<span>用户昵称：艾逗笔 <br> Username：35224A78-8B11-469E-B307-16B58688FBEC</span><br><br>打算开发一款笔记类软件，中文名叫想记，英文名叫thinknote。<br>支持发布文本、图片、标签，选择emoji表达心情，使用时间线展示内容。<br>支持跨端使用，全平台数据同步，API开发用go，部署用k8s，web端react，桌面端tauri，移动端flutter，提供vscode、alfread、utools等插件，提供webhook供第三方扩展。<br>暂时想到这些，边写代码边完善功能。<br><br>虽然同类型软件已有很多，还是要造自己的轮子啊。😆<br><img src="https://cdnv2.ruguoapp.com/FrxLw9xdyLfcZVHI4IqJSSuxBUH_v3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 15 Jul 2022 01:36:46 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62d0c4aef48eadf29753e5f8</guid>
-            <link>https://m.okjike.com/originalPosts/62d0c4aef48eadf29753e5f8</link>
-            
-            
-            
-            <author><![CDATA[艾逗笔]]></author>
             
                 
             
