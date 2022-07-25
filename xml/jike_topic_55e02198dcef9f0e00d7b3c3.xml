@@ -21,12 +21,28 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 25 Jul 2022 08:28:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 12:43:42 GMT</lastBuildDate>
         <ttl>1</ttl>
         
         <item>
-            <title><![CDATA[如果你懒得为结构体编写 NewXXX 构造器，不妨试试这个工具。 这个工具不需要安装，只需要代码里加一行注释，Go就会自动帮你生成构造器代码。]]></title>
-            <description><![CDATA[<span>用户昵称：benn <br> Username：b6f8811d-a1e5-40a3-8f30-ba94cd73e18f</span><br><br>                    <img src="https://opengraph.githubassets.com/c8ba00061db72e99e54e15fa4fac413d91ea33dfa086f0aac681f391cf834175/Bin-Huang/make-constructor" referrerpolicy="no-referrer"><br>                    <a href="https://github.com/Bin-Huang/make-constructor">GitHub - Bin-Huang/make-constructor: A command-line tool to generate constructor code for a struct. It don't need manual installation, just add a comment line to the struct then it works.</a><br>                <br>如果你懒得为结构体编写 NewXXX 构造器，不妨试试这个工具。<br>这个工具不需要安装，只需要代码里加一行注释，Go就会自动帮你生成构造器代码。]]></description>
+            <title><![CDATA[首先推荐播客《代码英雄》（Command Line Heroes），由红帽制作的音频节目，邀请到的嘉宾都比较厉害，有谷歌、NASA等企业的技术大牛，讲述内容包括但不限于开源...]]></title>
+            <description><![CDATA[<span>用户昵称：张蜥蜴小朋友 <br> Username：5ec7de99-4ac0-4a10-9255-cdf0f61e9db6</span><br><br>                    <img src="https://img.linux.net.cn/static/image/common/linisi.svg" referrerpolicy="no-referrer"><br>                    <a href="https://linux.cn/article-14133-1.html">观点|《代码英雄》第五季（1）：成为一个码农</a><br>                <br>首先推荐播客《代码英雄》（Command Line Heroes），由红帽制作的音频节目，邀请到的嘉宾都比较厉害，有谷歌、NASA等企业的技术大牛，讲述内容包括但不限于开源、操作系统、容器等技术的发展历程。<br><br>其次推荐这一期节目，主题是：成为一个码农（Coder），为一些想入行或刚入行的人提供了一些建议。<br><br>为什么CS学位比较值钱？科班和非科班有那么重要吗？科班出身是否比非科班的员工表现更好？CS学位真的有价值吗？编程培训班为什么有逐渐变成了”社区学院“的趋势？结尾也讨论了关于技术岗位的年龄歧视、现实生活的问题。]]></description>
+            <pubDate>Mon, 25 Jul 2022 09:26:08 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62de61b05fec34a55a18cb7a</guid>
+            <link>https://m.okjike.com/originalPosts/62de61b05fec34a55a18cb7a</link>
+            
+            
+            
+            <author><![CDATA[张蜥蜴小朋友]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[如果你懒得为struct编写NewXX构造器，不妨试试这个工具。 这个工具不需要安装，只需要代码里加一行注释，Go就会自动帮你生成构造器代码。 它设计的主要目的不是...]]></title>
+            <description><![CDATA[<span>用户昵称：benn <br> Username：b6f8811d-a1e5-40a3-8f30-ba94cd73e18f</span><br><br>                    <img src="https://opengraph.githubassets.com/c8ba00061db72e99e54e15fa4fac413d91ea33dfa086f0aac681f391cf834175/Bin-Huang/make-constructor" referrerpolicy="no-referrer"><br>                    <a href="https://github.com/Bin-Huang/make-constructor">GitHub - Bin-Huang/make-constructor: A command-line tool to generate constructor code for a struct. It don't need manual installation, just add a comment line to the struct then it works.</a><br>                <br>如果你懒得为struct编写NewXX构造器，不妨试试这个工具。<br><br>这个工具不需要安装，只需要代码里加一行注释，Go就会自动帮你生成构造器代码。<br><br>它设计的主要目的不是偷懒，而是更好地维护项目代码。不管是编写还是更新构造器代码，都是一个费力且容易出错的事情，这些应该交给自动程序。<br><br>尤其是维护比较大的代码仓库，这个工具不但让人省心，还可以和wire这类依赖注入工具完美兼容契合。<br><br>这行注释可能有点长，但每次使用都不需要参数，和VS Code快捷输入之类的搭配起来很香。<br><br>无需手动安装的这个特性，更是为了方便团队合作。这样其他人就算没有安装这个工具，执行代码也能正常工作，减少了打断和问询的时间成本。]]></description>
             <pubDate>Mon, 25 Jul 2022 07:42:21 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62de495da8e6fc5cd967a2de</guid>
             <link>https://m.okjike.com/originalPosts/62de495da8e6fc5cd967a2de</link>
@@ -34,6 +50,22 @@
             
             
             <author><![CDATA[benn]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[看了一些开源项目，有感: 国内的程序员往往偏好于做代码组织封装，不管代码实现多少了，先嵌套几层文件夹，美其名曰设计模式，结果就是一个小物件，还谈不上是模...]]></title>
+            <description><![CDATA[<span>用户昵称：麦基洗德 <br> Username：86BB19AA-4168-4309-A288-E883FADF23EA</span><br><br>看了一些开源项目，有感: 国内的程序员往往偏好于做代码组织封装，不管代码实现多少了，先嵌套几层文件夹，美其名曰设计模式，结果就是一个小物件，还谈不上是模块，就存在N个文件中，其实按现有计算机和编辑器大可不必。 好的项目往往都是扁平化的，结构简单，功能深邃。]]></description>
+            <pubDate>Mon, 25 Jul 2022 04:26:35 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62de1b7be0cd110d34c99c08</guid>
+            <link>https://m.okjike.com/originalPosts/62de1b7be0cd110d34c99c08</link>
+            
+            
+            
+            <author><![CDATA[麦基洗德]]></author>
             
                 
             
@@ -82,22 +114,6 @@
             
             
             <author><![CDATA[只是一只兔头而已]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[AI文字智能生成图片，现在把几张图片连起来做成了小剧场，嘿嘿。 对了，我是用https://6pen.art生成的，也有App。 #Disco Diffusion]]></title>
-            <description><![CDATA[<span>用户昵称：少北晨 <br> Username：EF89F1E4-4EE0-4C83-AFF8-A3705E7B51C1</span><br><br>AI文字智能生成图片，现在把几张图片连起来做成了小剧场，嘿嘿。<br>对了，我是用https://6pen.art生成的，也有App。<br>#Disco Diffusion<br><img src="https://cdnv2.ruguoapp.com/Fsb2RBffEISn7uQix28KPv7kcHRYv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fvn7o_ICUfG76RUpkUFP6RbGksmpv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 22 Jul 2022 11:33:31 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62da8b0bf1cf83752a4cdb66</guid>
-            <link>https://m.okjike.com/originalPosts/62da8b0bf1cf83752a4cdb66</link>
-            
-            
-            
-            <author><![CDATA[少北晨]]></author>
             
                 
             
@@ -162,22 +178,6 @@
             
             
             <author><![CDATA[闷声写bug]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[写了一篇关于Notion建站的教程。通过GitHub的开源项目NotionNext可以快速部署博客系统，依托Notion强大的编辑功能，随时随地撰写文章，记录创意与灵感。同时利用...]]></title>
-            <description><![CDATA[<span>用户昵称：樹程Leslie <br> Username：15395A47-43FC-4C79-A534-C9B8991E4D11</span><br><br>                    <img src="https://cdnv2.ruguoapp.com/icons/link.png" referrerpolicy="no-referrer"><br>                    <a href="https://justgoidea.com/tech/37.html">https://justgoidea.com/tech/37.html</a><br>                <br>写了一篇关于Notion建站的教程。通过GitHub的开源项目NotionNext可以快速部署博客系统，依托Notion强大的编辑功能，随时随地撰写文章，记录创意与灵感。同时利用腾讯云DNSPod实现自定义域名。]]></description>
-            <pubDate>Sun, 17 Jul 2022 11:14:25 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62d3ef111d236dd27ed09f28</guid>
-            <link>https://m.okjike.com/originalPosts/62d3ef111d236dd27ed09f28</link>
-            
-            
-            
-            <author><![CDATA[樹程Leslie]]></author>
             
                 
             
