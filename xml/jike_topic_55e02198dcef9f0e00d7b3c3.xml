@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[JitHub - 即刻圈子]]></title>
         <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
-        <atom:link href="https://rsshub/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
+        <atom:link href="http://rsshub.app/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
         <description><![CDATA[开发者们分享，问答，也可以交友的地方。欢迎所有工程师！ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -21,8 +21,8 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sat, 30 Jul 2022 01:59:08 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Sat, 30 Jul 2022 04:28:29 GMT</lastBuildDate>
+        <ttl>120</ttl>
         
         <item>
             <title><![CDATA[当枪里只有一颗子弹，所有人都想你死。 当枪里上了五颗子弹，所有人都想你活。]]></title>
@@ -90,7 +90,7 @@
         
         <item>
             <title><![CDATA[算法🤤]]></title>
-            <description><![CDATA[<span>用户昵称：Roll20 <br> Username：F87758AC-6839-44AD-B882-D35994BFFB0C</span><br><br>算法🤤<br><video src="https://videocdn.jellow.site/lsT31qVhBrICytMRwpE_-VgXh45P.mp4?sign=e19e914434dda80f78d7c2195be987a9&amp;t=62e49685" controls=""></video>]]></description>
+            <description><![CDATA[<span>用户昵称：Roll20 <br> Username：F87758AC-6839-44AD-B882-D35994BFFB0C</span><br><br>算法🤤<br><video src="https://videocdn.jellow.site/lsT31qVhBrICytMRwpE_-VgXh45P.mp4?sign=e9166601d53b655d2cd6e674b9d4fa6d&amp;t=62e4ba75" controls=""></video>]]></description>
             <pubDate>Thu, 28 Jul 2022 01:49:58 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62e1eb46afe605d7c51b50a9</guid>
             <link>https://m.okjike.com/originalPosts/62e1eb46afe605d7c51b50a9</link>
