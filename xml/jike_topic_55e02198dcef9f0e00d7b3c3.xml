@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sun, 31 Jul 2022 16:26:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2022 20:20:45 GMT</lastBuildDate>
         <ttl>1</ttl>
         
         <item>
@@ -121,6 +121,22 @@
         </item>
         
         <item>
+            <title><![CDATA[算法🤤]]></title>
+            <description><![CDATA[<span>用户昵称：Roll20 <br> Username：F87758AC-6839-44AD-B882-D35994BFFB0C</span><br><br>算法🤤<br><video src="https://videocdn.jellow.site/lsT31qVhBrICytMRwpE_-VgXh45P.mp4?sign=27a4c95a5ec06523e2d17205d7df52a3&amp;t=62e6ea80" controls=""></video>]]></description>
+            <pubDate>Thu, 28 Jul 2022 01:49:58 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62e1eb46afe605d7c51b50a9</guid>
+            <link>https://m.okjike.com/originalPosts/62e1eb46afe605d7c51b50a9</link>
+            
+            
+            
+            <author><![CDATA[Roll20]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[今天调websocket，一直连接不上服务器，还报ssl的错误。于是我就找服务端同学对逻辑，有哪些握手失败的可能，各种google StackOverflow，持续了几个小时都没有头...]]></title>
             <description><![CDATA[<span>用户昵称：XCG00 <br> Username：d9342a7b-8c95-4106-a881-b1cb720170d5</span><br><br>今天调websocket，一直连接不上服务器，还报ssl的错误。于是我就找服务端同学对逻辑，有哪些握手失败的可能，各种google StackOverflow，持续了几个小时都没有头绪，直到给手机号充了200块钱话费……]]></description>
             <pubDate>Wed, 27 Jul 2022 16:19:16 GMT</pubDate>
@@ -162,22 +178,6 @@
             
             
             <author><![CDATA[张蜥蜴小朋友]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[如果你懒得为struct编写NewXX构造器，不妨试试这个工具。 这个工具不需要安装，只需要代码里加一行注释，Go就会自动帮你生成构造器代码。 它设计的主要目的不是...]]></title>
-            <description><![CDATA[<span>用户昵称：benn <br> Username：b6f8811d-a1e5-40a3-8f30-ba94cd73e18f</span><br><br>                    <img src="https://opengraph.githubassets.com/c8ba00061db72e99e54e15fa4fac413d91ea33dfa086f0aac681f391cf834175/Bin-Huang/make-constructor" referrerpolicy="no-referrer"><br>                    <a href="https://github.com/Bin-Huang/make-constructor">GitHub - Bin-Huang/make-constructor: A command-line tool to generate constructor code for a struct. It don't need manual installation, just add a comment line to the struct then it works.</a><br>                <br>如果你懒得为struct编写NewXX构造器，不妨试试这个工具。<br><br>这个工具不需要安装，只需要代码里加一行注释，Go就会自动帮你生成构造器代码。<br><br>它设计的主要目的不是偷懒，而是更好地维护项目代码。不管是编写还是更新构造器代码，都是一个费力且容易出错的事情，这些应该交给自动程序。<br><br>尤其是维护比较大的代码仓库，这个工具不但让人省心，还可以和wire这类依赖注入工具完美兼容契合。<br><br>这行注释可能有点长，但每次使用都不需要参数，和VS Code快捷输入之类的搭配起来很香。<br><br>无需手动安装的这个特性，更是为了方便团队合作。这样其他人就算没有安装这个工具，执行代码也能正常工作，减少了打断和问询的时间成本。]]></description>
-            <pubDate>Mon, 25 Jul 2022 07:42:21 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62de495da8e6fc5cd967a2de</guid>
-            <link>https://m.okjike.com/originalPosts/62de495da8e6fc5cd967a2de</link>
-            
-            
-            
-            <author><![CDATA[benn]]></author>
             
                 
             
