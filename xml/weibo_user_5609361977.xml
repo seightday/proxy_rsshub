@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[分享白菜达人的微博]]></title>
         <link>https://weibo.com/5609361977/</link>
-        <atom:link href="http://rsshub.app/weibo/user/5609361977" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub/weibo/user/5609361977" rel="self" type="application/rss+xml" />
         <description><![CDATA[跟着博主抢红包，薅羊毛！撸免单！买超优惠商品！ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -16,13 +16,13 @@
         <language>zh-cn</language>
         
         <image>
-            <url>https://tvax2.sinaimg.cn/crop.0.0.512.512.180/0067Cjihly8gb7w03ko6vj30e80e874q.jpg?KID=imgbed,tva&#38;Expires=1659468596&#38;ssig=q%2F2rJpe9DS</url>
+            <url>https://tvax2.sinaimg.cn/crop.0.0.512.512.180/0067Cjihly8gb7w03ko6vj30e80e874q.jpg?KID=imgbed,tva&#38;Expires=1659482568&#38;ssig=LU%2BaUPhchb</url>
             <title><![CDATA[分享白菜达人的微博]]></title>
             <link>https://weibo.com/5609361977/</link>
         </image>
         
-        <lastBuildDate>Tue, 02 Aug 2022 16:29:57 GMT</lastBuildDate>
-        <ttl>120</ttl>
+        <lastBuildDate>Tue, 02 Aug 2022 20:22:49 GMT</lastBuildDate>
+        <ttl>1</ttl>
         
         <item>
             <title><![CDATA[【23.9】盼盼.桃桃乌龙茶300ml*12瓶 [图片][图片][图片]]]></title>
