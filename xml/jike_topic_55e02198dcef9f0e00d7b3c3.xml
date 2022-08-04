@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 04 Aug 2022 04:48:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 08:29:46 GMT</lastBuildDate>
         <ttl>1</ttl>
         
         <item>
@@ -41,15 +41,47 @@
         </item>
         
         <item>
-            <title><![CDATA[想求个pycharm 破解包 或者 激活码也可以 谢谢🙏]]></title>
-            <description><![CDATA[<span>用户昵称：昂航 <br> Username：e0bd5435-e55e-45be-8aa2-b7d9a4568a58</span><br><br>想求个pycharm 破解包 或者 激活码也可以 谢谢🙏]]></description>
-            <pubDate>Tue, 02 Aug 2022 13:52:24 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62e92c18ed20d363a2d14ab5</guid>
-            <link>https://m.okjike.com/originalPosts/62e92c18ed20d363a2d14ab5</link>
+            <title><![CDATA[有代码洁癖真的是一件很辛苦的事。]]></title>
+            <description><![CDATA[<span>用户昵称：Shuhari <br> Username：6C07C7A4-0777-42B3-8A81-FB506FC9722D</span><br><br>有代码洁癖真的是一件很辛苦的事。]]></description>
+            <pubDate>Wed, 03 Aug 2022 16:31:16 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62eaa2d45d45da4dea736b1e</guid>
+            <link>https://m.okjike.com/originalPosts/62eaa2d45d45da4dea736b1e</link>
             
             
             
-            <author><![CDATA[昂航]]></author>
+            <author><![CDATA[Shuhari]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[用暑假打工的钱组了个2k左右的黑苹果台式 使用体验还挺好的🤤]]></title>
+            <description><![CDATA[<span>用户昵称：Grub <br> Username：6cef9a38-372d-437b-ad4f-cc283f91328c</span><br><br>用暑假打工的钱组了个2k左右的黑苹果台式<br>使用体验还挺好的🤤<br><img src="https://cdnv2.ruguoapp.com/FvJYrbJmaeCitVb2NnT7DCERWVX7v3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 03 Aug 2022 11:18:07 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62ea596f2e55425e2047501f</guid>
+            <link>https://m.okjike.com/originalPosts/62ea596f2e55425e2047501f</link>
+            
+            
+            
+            <author><![CDATA[Grub]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[前段时间学了点 Rust，然后刚好有一点需求，就作为练手写了个简单 Rust 程序来完成，其中用到了 tokio 的 Semaphore 来做并发控制。 结果今天无意间发现控制失败...]]></title>
+            <description><![CDATA[<span>用户昵称：L4n <br> Username：84fa8d8c-c2e8-4232-93f1-4df82c52982c</span><br><br>前段时间学了点 Rust，然后刚好有一点需求，就作为练手写了个简单 Rust 程序来完成，其中用到了 tokio 的 Semaphore 来做并发控制。<br>结果今天无意间发现控制失败了，cpu 被吃满了，看了好久才找到原因…<br>感觉是自己经验太少了…对代码理解不透彻造成的问题<br>附上了图了，感兴趣的即友可以看看能不能[只看图1]发现哪里出问题了，也可以给一些建议，正确的写法该怎么写<br><br>图1: 有问题的写法(其实也是 Copilot 自动生成的写法)，并发控制无效<br>图2: 能并发控制的写法<br>图3: 另一种有问题的写法<br>图4: 我现在用的写法(其实我还是觉得不够优雅，请即友们指教)<br><img src="https://cdnv2.ruguoapp.com/Fv55ALHO5VCqdsLEMrpnAJEwpSuev3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FjWvGiFtu0Xw_Tl6P5JsMMmcUjhBv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FiHpwYgV9_1tTaQxddDunxdrooEpv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FjQGfKqwlWBjgpt-lgFXNek_RXUJv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 03 Aug 2022 08:28:24 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62ea31a84d572a90dd92910c</guid>
+            <link>https://m.okjike.com/originalPosts/62ea31a84d572a90dd92910c</link>
+            
+            
+            
+            <author><![CDATA[L4n]]></author>
             
                 
             
@@ -98,38 +130,6 @@
             
             
             <author><![CDATA[异步async]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[无题]]></title>
-            <description><![CDATA[<span>用户昵称：反卷之王 <br> Username：d8e6dec5-9b62-4134-a31b-8a1af8fc7e48</span><br><br><br><img src="https://cdnv2.ruguoapp.com/Fg_IWvpNNoRu9hRoZeivcRV_G_wAv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sun, 31 Jul 2022 23:43:55 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62e713bb289cd24e21b7eb95</guid>
-            <link>https://m.okjike.com/originalPosts/62e713bb289cd24e21b7eb95</link>
-            
-            
-            
-            <author><![CDATA[反卷之王]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[推荐一下小白学编程的app或者论坛嘛🤔]]></title>
-            <description><![CDATA[<span>用户昵称：五百五ya <br> Username：bd15e4fa-81f9-44bc-b500-9784ace1965f</span><br><br>推荐一下小白学编程的app或者论坛嘛🤔]]></description>
-            <pubDate>Sun, 31 Jul 2022 06:52:18 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62e626a2e9f6a648394c0d2d</guid>
-            <link>https://m.okjike.com/originalPosts/62e626a2e9f6a648394c0d2d</link>
-            
-            
-            
-            <author><![CDATA[五百五ya]]></author>
             
                 
             
