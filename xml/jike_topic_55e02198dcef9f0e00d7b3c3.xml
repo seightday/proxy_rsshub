@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 04 Aug 2022 08:29:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 12:40:19 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[我笑死了]]></title>
+            <description><![CDATA[<span>用户昵称：阿法兔 <br> Username：9CCE6435-0766-487E-BF96-8B3953A343DE</span><br><br>我笑死了<br><img src="https://cdnv2.ruguoapp.com/FnFv3itKp5B4BxrwJh_7auNMYS8Zv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 04 Aug 2022 10:35:48 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62eba104e06dc51b3b776080</guid>
+            <link>https://m.okjike.com/originalPosts/62eba104e06dc51b3b776080</link>
+            
+            
+            
+            <author><![CDATA[阿法兔]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[不管你是前端还是后端，如果宣称自己做过微信支付，但却说不清楚具体的步骤和原理，那就是减分项。 我面试常问的一个题目，当用户点下支付按钮后，前后端和微信...]]></title>
@@ -34,6 +50,22 @@
             
             
             <author><![CDATA[哥飞]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[好的代码应该像一颗洋葱，外面看起来是一个整体，但是内部层次分明，每一层都能被轻轻剥离。 当你写一个类，一个方法，甚至是一段语句的时候，要时刻问自己，现...]]></title>
+            <description><![CDATA[<span>用户昵称：nhak <br> Username：acda71d8-c566-4e22-b84e-2d7cfd369a2f</span><br><br>                    <img src="https://mmbiz.qpic.cn/mmbiz_jpg/yJna6SGu00g6oT4tkcC8qqKEgscLHmaSSUoKBstqsuMEqCrVSFKWAbIm1IsbUuXEF7yibcibLggoxKLHtkIqn4bw/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>                    <a href="https://mp.weixin.qq.com/s/BzJCNTdidManYn2PTeiZxw">抽象和抽象的层次</a><br>                <br>好的代码应该像一颗洋葱，外面看起来是一个整体，但是内部层次分明，每一层都能被轻轻剥离。<br><br>当你写一个类，一个方法，甚至是一段语句的时候，要时刻问自己，现在你在哪一层，自己即将新增的代码，是不是正好符合这一层的行为和特征，不多，不少。]]></description>
+            <pubDate>Thu, 04 Aug 2022 01:20:07 GMT</pubDate>
+            <guid isPermaLink="false">https://mp.weixin.qq.com/s/BzJCNTdidManYn2PTeiZxw</guid>
+            <link>https://mp.weixin.qq.com/s/BzJCNTdidManYn2PTeiZxw</link>
+            
+            
+            
+            <author><![CDATA[nhak]]></author>
             
                 
             
@@ -73,22 +105,6 @@
         </item>
         
         <item>
-            <title><![CDATA[前段时间学了点 Rust，然后刚好有一点需求，就作为练手写了个简单 Rust 程序来完成，其中用到了 tokio 的 Semaphore 来做并发控制。 结果今天无意间发现控制失败...]]></title>
-            <description><![CDATA[<span>用户昵称：L4n <br> Username：84fa8d8c-c2e8-4232-93f1-4df82c52982c</span><br><br>前段时间学了点 Rust，然后刚好有一点需求，就作为练手写了个简单 Rust 程序来完成，其中用到了 tokio 的 Semaphore 来做并发控制。<br>结果今天无意间发现控制失败了，cpu 被吃满了，看了好久才找到原因…<br>感觉是自己经验太少了…对代码理解不透彻造成的问题<br>附上了图了，感兴趣的即友可以看看能不能[只看图1]发现哪里出问题了，也可以给一些建议，正确的写法该怎么写<br><br>图1: 有问题的写法(其实也是 Copilot 自动生成的写法)，并发控制无效<br>图2: 能并发控制的写法<br>图3: 另一种有问题的写法<br>图4: 我现在用的写法(其实我还是觉得不够优雅，请即友们指教)<br><img src="https://cdnv2.ruguoapp.com/Fv55ALHO5VCqdsLEMrpnAJEwpSuev3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FjWvGiFtu0Xw_Tl6P5JsMMmcUjhBv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FiHpwYgV9_1tTaQxddDunxdrooEpv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FjQGfKqwlWBjgpt-lgFXNek_RXUJv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 03 Aug 2022 08:28:24 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62ea31a84d572a90dd92910c</guid>
-            <link>https://m.okjike.com/originalPosts/62ea31a84d572a90dd92910c</link>
-            
-            
-            
-            <author><![CDATA[L4n]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[上条动态介绍了撤销的历史。大家对于"撤销"功能已经习以为常，难以想象什么App没有撤销功能。但其实这个功能却困扰了很多人很多年。 实现一个撤销功能并不难，但...]]></title>
             <description><![CDATA[<span>用户昵称：0neSe7en <br> Username：999E74E1-9743-41FB-B8F3-CB1777ABBA49</span><br><br>上条动态介绍了撤销的历史。大家对于"撤销"功能已经习以为常，难以想象什么App没有撤销功能。但其实这个功能却困扰了很多人很多年。<br><br>实现一个撤销功能并不难，但如何能够"正确"的实现，正确的实现用户的期望才是难点。<br><br>比如 OBS Studio这个知名软件，2018年就在日程表上，但直到去年才加入了撤销/重做功能 https://obsproject.com/blog/obs-studio-27-released<br><br>This is on the agenda. Fortunately, it's not a "difficult" feature to write, it's actually pretty simple, but the implementation is what's delicate, and requires a fair amount of experience to get right.<br><br>Liveblocks 也专门写了一篇文章介绍如何在多人协作的环境下实现undo/redo功能 https://liveblocks.io/blog/how-to-build-undo-redo-in-a-multiplayer-environment<br><br>这篇文章 ( https://maxliani.wordpress.com/2021/09/01/undo-the-art-of-part-1/ ) 提到撤销就像建筑中的管道，尤其像下水管和排水管。它会穿过建筑的地基，遍布建筑，在浇灌水泥之前就需要安排好。<br>也就意味着，如果开发过程中就时刻想着"撤销"这个功能，那么会很简单，也会很自然。<br>但如果等到项目完成后才开始加入撤销，那就会极其有侵入性，甚至需要重新设计。<br><img src="https://cdnv2.ruguoapp.com/FnBGDAV4zAhN_xn9zemdZKvyvwR5v3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Tue, 02 Aug 2022 08:27:15 GMT</pubDate>
@@ -98,22 +114,6 @@
             
             
             <author><![CDATA[0neSe7en]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[情人节又快到了，放出这个可以拯救各种直男程序员的纯前端小项目]]></title>
-            <description><![CDATA[<span>用户昵称：kyrieliu <br> Username：A15BA912-CCF4-4EAF-AA97-C1626793B6E7</span><br><br>                    <img src="https://opengraph.githubassets.com/3082234f2090ec1db82b669650012247e7cb683cd713bfbd3045af2e42021420/KKKyrie/giftie" referrerpolicy="no-referrer"><br>                    <a href="https://github.com/KKKyrie/giftie">GitHub - KKKyrie/giftie: 一个用来搞定「送礼问题」的终极解决方案</a><br>                <br>情人节又快到了，放出这个可以拯救各种直男程序员的纯前端小项目]]></description>
-            <pubDate>Tue, 02 Aug 2022 06:35:50 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62e8c5c64d572a90dd6e1821</guid>
-            <link>https://m.okjike.com/originalPosts/62e8c5c64d572a90dd6e1821</link>
-            
-            
-            
-            <author><![CDATA[kyrieliu]]></author>
             
                 
             
