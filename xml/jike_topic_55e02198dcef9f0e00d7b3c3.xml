@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sat, 06 Aug 2022 12:33:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Aug 2022 16:26:55 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[看到一个阿里云和AWS的文档对比，前者源代码+注释提供的信息和二进制代码一模一样，而后者则标注了密密麻麻的详细说明。 其实国外的这些doc也不是程序员在写，而...]]></title>
+            <description><![CDATA[<span>用户昵称：CeliaArt <br> Username：44262EBB-EBD5-425E-9C3E-34C832310D38</span><br><br>看到一个阿里云和AWS的文档对比，前者源代码+注释提供的信息和二进制代码一模一样，而后者则标注了密密麻麻的详细说明。<br>其实国外的这些doc也不是程序员在写，而是有专门的写技术文档的人在写，同时还有专门的support team来解决用户的问题。<br><br>感觉国内的大部分人把文档写得很清楚的欲望很低，以至于时常在读教科书、课程讲义、论文乃至博客都有一种不太好，但也很难准确说出哪里不好的感受。<br>这就好像明知道对方已经完成任务了，而你却只能看到一个空壳。]]></description>
+            <pubDate>Sat, 06 Aug 2022 09:55:27 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62ee3a8fe9f6a648391e4432</guid>
+            <link>https://m.okjike.com/originalPosts/62ee3a8fe9f6a648391e4432</link>
+            
+            
+            
+            <author><![CDATA[CeliaArt]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[看算法看到崩溃，每道题都提醒我是个fw]]></title>
@@ -98,22 +114,6 @@
             
             
             <author><![CDATA[哥飞]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[好的代码应该像一颗洋葱，外面看起来是一个整体，但是内部层次分明，每一层都能被轻轻剥离。 当你写一个类，一个方法，甚至是一段语句的时候，要时刻问自己，现...]]></title>
-            <description><![CDATA[<span>用户昵称：nhak <br> Username：acda71d8-c566-4e22-b84e-2d7cfd369a2f</span><br><br>                    <img src="https://mmbiz.qpic.cn/mmbiz_jpg/yJna6SGu00g6oT4tkcC8qqKEgscLHmaSSUoKBstqsuMEqCrVSFKWAbIm1IsbUuXEF7yibcibLggoxKLHtkIqn4bw/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>                    <a href="https://mp.weixin.qq.com/s/BzJCNTdidManYn2PTeiZxw">抽象和抽象的层次</a><br>                <br>好的代码应该像一颗洋葱，外面看起来是一个整体，但是内部层次分明，每一层都能被轻轻剥离。<br><br>当你写一个类，一个方法，甚至是一段语句的时候，要时刻问自己，现在你在哪一层，自己即将新增的代码，是不是正好符合这一层的行为和特征，不多，不少。]]></description>
-            <pubDate>Thu, 04 Aug 2022 01:20:07 GMT</pubDate>
-            <guid isPermaLink="false">https://mp.weixin.qq.com/s/BzJCNTdidManYn2PTeiZxw</guid>
-            <link>https://mp.weixin.qq.com/s/BzJCNTdidManYn2PTeiZxw</link>
-            
-            
-            
-            <author><![CDATA[nhak]]></author>
             
                 
             
