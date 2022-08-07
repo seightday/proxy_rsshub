@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sun, 07 Aug 2022 16:26:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Aug 2022 20:21:08 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[记录一下第一次尝试自己编写代码解决实际问题 目的是用python把特定导师的cnki所有文献名称爬下来，然后jieba分词，做个词云，简单明了展示导师的研究重点 第一...]]></title>
+            <description><![CDATA[<span>用户昵称：东北冷面 <br> Username：9b1166e0-666a-4928-9b0a-cb6ffed68cc7</span><br><br>记录一下第一次尝试自己编写代码解决实际问题<br><br>目的是用python把特定导师的cnki所有文献名称爬下来，然后jieba分词，做个词云，简单明了展示导师的研究重点<br><br>第一天在中国大学MOOC刷完大半北理工的爬虫基础，然后开始实操，根本无从下手，卒<br><br>第二天搜前人的实例，github上找到个比较简单的，运行起来根本不能跑，从头看源码，看了一会儿看不懂，卒。但是看明白一件事儿，我这个需求用requests❌，用selenium✅<br><br>第三天，也就是今天，在b站看完大半selenium教程，回头看昨天那个实例，cnki网站源码已经天差地别，难怪不能用，selenium相关语法还是老版本，难怪各种报错。于是一边参考教程，一边参考过期实例的大体意思，从头写一遍<br><br>目前已经实现：输入检索式并查找、获取解锁结果第一页所有文献的篇名<br><br>接下来需要实现：自动跳转并获取每一页检索结果的文献的篇名，篇名用逗号隔开导入txt文档，文档用jieba分词生成词云]]></description>
+            <pubDate>Sun, 07 Aug 2022 15:44:59 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62efddfbed20d363a27f9872</guid>
+            <link>https://m.okjike.com/originalPosts/62efddfbed20d363a27f9872</link>
+            
+            
+            
+            <author><![CDATA[东北冷面]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[好贵啊🤣 是我这辈子买过最贵的年费了]]></title>
@@ -162,22 +178,6 @@
             
             
             <author><![CDATA[Jet要出海]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[代码review金字塔：https://www.morling.dev/blog/the-code-review-pyramid/]]></title>
-            <description><![CDATA[<span>用户昵称：赵小轩 <br> Username：75ad023f-d0ef-42bf-b448-a4cafe938624</span><br><br>代码review金字塔：https://www.morling.dev/blog/the-code-review-pyramid/<br><img src="https://cdnv2.ruguoapp.com/Fj2uQs024ESzPfAbKAD3nCIT5ZnYv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 29 Jul 2022 05:43:15 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62e37373ed20d363a23b17ec</guid>
-            <link>https://m.okjike.com/originalPosts/62e37373ed20d363a23b17ec</link>
-            
-            
-            
-            <author><![CDATA[赵小轩]]></author>
             
                 
             
