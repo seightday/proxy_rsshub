@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 08 Aug 2022 08:28:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 12:40:55 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[历时三天半搞定人生第一个实例啦🎉 这是一个小爬虫，用于爬取目标导师在CNKI收录文献的相关信息，基于selenium、jieba、wordcloud，绘制词云，直观了解导师研...]]></title>
+            <description><![CDATA[<span>用户昵称：东北冷面 <br> Username：9b1166e0-666a-4928-9b0a-cb6ffed68cc7</span><br><br>历时三天半搞定人生第一个实例啦🎉<br><br>这是一个小爬虫，用于爬取目标导师在CNKI收录文献的相关信息，基于selenium、jieba、wordcloud，绘制词云，直观了解导师研究方向<br><br>直达链接⬇️<br>https://github.com/whitewatercn/Cnki_TuTor_Evaluation<br><br>不过目前并没有做啥适配😅，用起来还非常僵硬，估计大家想用在自己电脑上需要自行调配好久😅，将来有时间慢慢优化，也欢迎大佬提意见，我先自己用着啦<br><br>TODO<br> 1⃣️爬取合作作者，绘制作者词云，锁定其他相关导师<br> 2⃣️根据时间段选择展示，如每5年绘制一版（方便缕清导师研究方向的变更<br> 3⃣️爬取文献摘要，绘制词云，比只爬文献名更细化（也更头秃<br> 4⃣️支持更多检索条件（目前只支持作者+作者单位，虽然现在感觉够用了，但将来可能有更多需求<br><img src="https://cdnv2.ruguoapp.com/FiBVa82tnVGCrDduFpj3-2Seme-_v3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fi5HU9H4bDbGvF-NNjZ7CvB-4HM4v3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 08 Aug 2022 03:18:22 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62f0807e2bfc336386d3ccb6</guid>
+            <link>https://m.okjike.com/originalPosts/62f0807e2bfc336386d3ccb6</link>
+            
+            
+            
+            <author><![CDATA[东北冷面]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[记录一下第一次尝试自己编写代码解决实际问题 目的是用python把特定导师的cnki所有文献名称爬下来，然后jieba分词，做个词云，简单明了展示导师的研究重点 第一...]]></title>
@@ -82,22 +98,6 @@
             
             
             <author><![CDATA[CeliaArt]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[用了这么久vscode，今天才知道这命令，被自己蠢哭了]]></title>
-            <description><![CDATA[<span>用户昵称：夏唯.0x35e81 <br> Username：5467febf-db5f-4009-8e0e-13056a4fdd0b</span><br><br>用了这么久vscode，今天才知道这命令，被自己蠢哭了<br><img src="https://cdnv2.ruguoapp.com/FuzvrCehwR2Hgj_4A1FYrPqTHX8Bv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FoL_A4VtN1dAV0IpoTBruhSu36cDv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FrY6gvp529jbTjkBmTTq64BeYBViv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 06 Aug 2022 02:50:38 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62edd6fe2e55425e20a0ed50</guid>
-            <link>https://m.okjike.com/originalPosts/62edd6fe2e55425e20a0ed50</link>
-            
-            
-            
-            <author><![CDATA[夏唯.0x35e81]]></author>
             
                 
             
