@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 11 Aug 2022 01:50:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 04:29:37 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[开源了一个很简单但是很常用的SwiftUI chart——贡献图/热力图（contribution chart / heatmap）。源码很短，就是写readme一不小心写到两点🤦🏻‍♂️： htt...]]></title>
+            <description><![CDATA[<span>用户昵称：Vikill <br> Username：579E7AB4-C389-4627-A543-355CA27AC7A2</span><br><br>开源了一个很简单但是很常用的SwiftUI chart——贡献图/热力图（contribution chart / heatmap）。源码很短，就是写readme一不小心写到两点🤦🏻‍♂️：<br>https://github.com/VIkill33/SwiftUI-ContributionChart<br>目前支持：<br>- 自定义块个数<br>- 自定义块颜色<br>- 暗黑模式<br>以后会加入更多功能🤓<br><img src="https://cdnv2.ruguoapp.com/Fk5MYx6hkXyZUBiWkBsrZEue50ZPv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FpP8y8BhCtYcZIRIhrXznSbp1YR4v3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FkqAFip3aJMfB5oTUTP03nsqaePev3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fi9Jpd6fedK9y7Nd52hRdba06bFjv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FguO_n4Qgd2TsKFcoJkm41t4SIouv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FvrrxKKke2kL3ear0rpydgc-7kKuv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FptqDfBeJjcIhhJNeUHT1-8oJJmtv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FotjkSLl_qiFKVHnZIjSvMODb5Bhv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FnSvl-b9eMQP3PmLdDOdojco9AA2v3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 10 Aug 2022 18:27:17 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62f3f88556e415d767986692</guid>
+            <link>https://m.okjike.com/originalPosts/62f3f88556e415d767986692</link>
+            
+            
+            
+            <author><![CDATA[Vikill]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[开发木及简历一年半，上个月上线了会员功能，一个月内共50多位朋友订阅，感谢大家的支持！之后会给大家提供更加优质的服务和功能。附上7月更新日志，🥳🥳�...]]></title>
@@ -98,22 +114,6 @@
             
             
             <author><![CDATA[Roll20]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[历时三天半搞定人生第一个实例啦🎉 这是一个小爬虫，用于爬取目标导师在CNKI收录文献的相关信息，基于selenium、jieba、wordcloud，绘制词云，直观了解导师研...]]></title>
-            <description><![CDATA[<span>用户昵称：东北冷面 <br> Username：9b1166e0-666a-4928-9b0a-cb6ffed68cc7</span><br><br>历时三天半搞定人生第一个实例啦🎉<br><br>这是一个小爬虫，用于爬取目标导师在CNKI收录文献的相关信息，基于selenium、jieba、wordcloud，绘制词云，直观了解导师研究方向<br><br>直达链接⬇️<br>https://github.com/whitewatercn/Cnki_TuTor_Evaluation<br><br>不过目前并没有做啥适配😅，用起来还非常僵硬，估计大家想用在自己电脑上需要自行调配好久😅，将来有时间慢慢优化，也欢迎大佬提意见，我先自己用着啦<br><br>TODO<br> 1⃣️爬取合作作者，绘制作者词云，锁定其他相关导师<br> 2⃣️根据时间段选择展示，如每5年绘制一版（方便缕清导师研究方向的变更<br> 3⃣️爬取文献摘要，绘制词云，比只爬文献名更细化（也更头秃<br> 4⃣️支持更多检索条件（目前只支持作者+作者单位，虽然现在感觉够用了，但将来可能有更多需求<br><img src="https://cdnv2.ruguoapp.com/FiBVa82tnVGCrDduFpj3-2Seme-_v3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fi5HU9H4bDbGvF-NNjZ7CvB-4HM4v3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 08 Aug 2022 03:18:22 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62f0807e2bfc336386d3ccb6</guid>
-            <link>https://m.okjike.com/originalPosts/62f0807e2bfc336386d3ccb6</link>
-            
-            
-            
-            <author><![CDATA[东北冷面]]></author>
             
                 
             
