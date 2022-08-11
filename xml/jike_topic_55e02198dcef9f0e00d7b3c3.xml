@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 11 Aug 2022 12:42:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 16:28:03 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[🤔 请问下有啥比较好用的中文文本纠错API么，目前使用了几个常见的体验: 讯飞>百度>阿里=腾讯]]></title>
+            <description><![CDATA[<span>用户昵称：秋风_ <br> Username：1444E086-340D-466B-B2AB-307A6501B7BD</span><br><br>🤔 请问下有啥比较好用的中文文本纠错API么，目前使用了几个常见的体验:  讯飞&gt;百度&gt;阿里=腾讯]]></description>
+            <pubDate>Thu, 11 Aug 2022 06:45:56 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62f4a5a4560f33c1ad0458fb</guid>
+            <link>https://m.okjike.com/originalPosts/62f4a5a4560f33c1ad0458fb</link>
+            
+            
+            
+            <author><![CDATA[秋风_]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[本兔逐渐GPU化]]></title>
@@ -98,22 +114,6 @@
             
             
             <author><![CDATA[Ssssv]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[StatSleep 的测试版过审了！还以为会被卡！ 主功能如p3所示，第一版本功能比较简陋，详细睡眠图表将在10月初左右随iOS16一齐释出（准备用的是apple自带的图表） ...]]></title>
-            <description><![CDATA[<span>用户昵称：鼠标为什么不是猫标 <br> Username：72A99709-85C7-4A4C-BBAF-3BA25C89A04D</span><br><br>StatSleep 的测试版过审了！还以为会被卡！<br>主功能如p3所示，第一版本功能比较简陋，详细睡眠图表将在10月初左右随iOS16一齐释出（准备用的是apple自带的图表）<br><br>喜欢的朋友可以试试，tf链接放在这<br>https://testflight.apple.com/join/YVWF5qKY<br>公测持续时间为4天左右，如发现任何bug可以在该帖下方留言，我会尽快回复大家<br><br>注意！目前App内暂无导出数据选项，该测试版App无法导入数据至正式版App。建议有autoSleep的朋友可以试试（已支持导入autoSleep睡眠数据）<br><br>目前已知bug：<br>1. 睡眠回顾通知打开后无反应，需要重启App后才能生效<br>2. 带home键的iPhone桌面热力图小组件ui排版有些问题，会挤在一起<br><img src="https://cdnv2.ruguoapp.com/Fs7GUD1kMp_XvaPJ7axSX31PvjHIv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FlBkXoRm_1cZWWyX5VfRErmv4_4yv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FvrRJfKsclmYyXydXr69FMCQNTKAv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 09 Aug 2022 01:22:32 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62f1b6d84933f856cab5c3eb</guid>
-            <link>https://m.okjike.com/originalPosts/62f1b6d84933f856cab5c3eb</link>
-            
-            
-            
-            <author><![CDATA[鼠标为什么不是猫标]]></author>
             
                 
             
