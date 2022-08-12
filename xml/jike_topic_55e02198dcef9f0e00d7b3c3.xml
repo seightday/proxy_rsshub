@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Fri, 12 Aug 2022 04:34:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 08:25:41 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[还是觉得物理世界的算法好神奇🤤]]></title>
+            <description><![CDATA[<span>用户昵称：Roll20 <br> Username：F87758AC-6839-44AD-B882-D35994BFFB0C</span><br><br>还是觉得物理世界的算法好神奇🤤<br><video src="https://videocdn.jellow.site/lsihU83aGRGmwctOazDxregGtOFR.mp4?sign=77ab74fdf777e2c8fc2157fed4386759&amp;t=62f613d5" controls=""></video>]]></description>
+            <pubDate>Fri, 12 Aug 2022 01:38:39 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62f5af1fffe320c27c0b5b0c</guid>
+            <link>https://m.okjike.com/originalPosts/62f5af1fffe320c27c0b5b0c</link>
+            
+            
+            
+            <author><![CDATA[Roll20]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[早上看到了有意思的两个 css 库。 98.css：Windows 98风格 🔗 https://github.com/jdan/98.css system.css：System OS 风格 🔗 https://github.com/sakofchi...]]></title>
@@ -41,6 +57,22 @@
         </item>
         
         <item>
+            <title><![CDATA[阿里今年相继发布了两个分布式数据库PolarDB-X 2.0和OceanBase4.0，客户端操作都完全兼容MySQL。 大致看了下，都支持横向扩展、二级索引和自动路由。 这么看来，...]]></title>
+            <description><![CDATA[<span>用户昵称：我得去整个飞船 <br> Username：708A84C9-2A31-4B07-AC5A-971C0A229AF7</span><br><br>阿里今年相继发布了两个分布式数据库PolarDB-X 2.0和OceanBase4.0，客户端操作都完全兼容MySQL。<br>大致看了下，都支持横向扩展、二级索引和自动路由。<br>这么看来，未来搭建项目时或许可以考虑采用这两个分布式数据库。<br>那么，由分库分表架构倒推的一系列服务端架构和中间件或许就可以拿掉了。就像把网关和服务发现沉淀至基础设施层一样，数据的分片存储也将从服务端负责转到数据库自身负责。<br>这样服务端职责更加单一，只需要考虑业务。<br>面对大并发，只要集群边界能支撑住流量，那么service只需要无脑的横向扩展就可以了。<br>到那时候，架构师就可以架构别的了。<br><br>猜想一下未来所有数据库的客户端协议都能统一，不用再理会具体的数据库类型，也不用理会是分布式还是单机。]]></description>
+            <pubDate>Thu, 11 Aug 2022 07:34:46 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62f4b1165a896e9fd1c5f52d</guid>
+            <link>https://m.okjike.com/originalPosts/62f4b1165a896e9fd1c5f52d</link>
+            
+            
+            
+            <author><![CDATA[我得去整个飞船]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[我敢说这篇 blog 是对前端兼容问题研究最深的文章之一了]]></title>
             <description><![CDATA[<span>用户昵称：卤代烃 <br> Username：4f1fbfd7-bdec-4860-b942-1e648d02e321</span><br><br>                    <img src="https://mmbiz.qpic.cn/mmbiz_jpg/8MK8X2XQgu4C6KSk9OcJMIt6vbm4cQ0m7utlBoGt4F9VILibECEfpVCf5EhicAHaiaY5zdLNlcC1Ig2ee07UhABcg/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>                    <a href="https://mp.weixin.qq.com/s/G2Zzt_r4NI2aQoo2qRN5WQ">🤔 一文搞懂前端兼容问题</a><br>                <br>我敢说这篇 blog 是对前端兼容问题研究最深的文章之一了]]></description>
             <pubDate>Thu, 11 Aug 2022 06:56:51 GMT</pubDate>
@@ -50,22 +82,6 @@
             
             
             <author><![CDATA[卤代烃]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[本兔逐渐GPU化]]></title>
-            <description><![CDATA[<span>用户昵称：阿法兔 <br> Username：9CCE6435-0766-487E-BF96-8B3953A343DE</span><br><br>本兔逐渐GPU化]]></description>
-            <pubDate>Thu, 11 Aug 2022 05:38:09 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62f495c1097479d58742c21b</guid>
-            <link>https://m.okjike.com/originalPosts/62f495c1097479d58742c21b</link>
-            
-            
-            
-            <author><![CDATA[阿法兔]]></author>
             
                 
             
@@ -162,22 +178,6 @@
             
             
             <author><![CDATA[ourongxing]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[上条动态介绍了撤销的历史。大家对于"撤销"功能已经习以为常，难以想象什么App没有撤销功能。但其实这个功能却困扰了很多人很多年。 实现一个撤销功能并不难，但...]]></title>
-            <description><![CDATA[<span>用户昵称：0neSe7en <br> Username：999E74E1-9743-41FB-B8F3-CB1777ABBA49</span><br><br>上条动态介绍了撤销的历史。大家对于"撤销"功能已经习以为常，难以想象什么App没有撤销功能。但其实这个功能却困扰了很多人很多年。<br><br>实现一个撤销功能并不难，但如何能够"正确"的实现，正确的实现用户的期望才是难点。<br><br>比如 OBS Studio这个知名软件，2018年就在日程表上，但直到去年才加入了撤销/重做功能 https://obsproject.com/blog/obs-studio-27-released<br><br>This is on the agenda. Fortunately, it's not a "difficult" feature to write, it's actually pretty simple, but the implementation is what's delicate, and requires a fair amount of experience to get right.<br><br>Liveblocks 也专门写了一篇文章介绍如何在多人协作的环境下实现undo/redo功能 https://liveblocks.io/blog/how-to-build-undo-redo-in-a-multiplayer-environment<br><br>这篇文章 ( https://maxliani.wordpress.com/2021/09/01/undo-the-art-of-part-1/ ) 提到撤销就像建筑中的管道，尤其像下水管和排水管。它会穿过建筑的地基，遍布建筑，在浇灌水泥之前就需要安排好。<br>也就意味着，如果开发过程中就时刻想着"撤销"这个功能，那么会很简单，也会很自然。<br>但如果等到项目完成后才开始加入撤销，那就会极其有侵入性，甚至需要重新设计。<br><img src="https://cdnv2.ruguoapp.com/FnBGDAV4zAhN_xn9zemdZKvyvwR5v3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 02 Aug 2022 08:27:15 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62e8dfe3289cd24e21e83f09</guid>
-            <link>https://m.okjike.com/originalPosts/62e8dfe3289cd24e21e83f09</link>
-            
-            
-            
-            <author><![CDATA[0neSe7en]]></author>
             
                 
             
