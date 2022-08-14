@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sun, 14 Aug 2022 08:23:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Aug 2022 12:34:59 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[最近花了些时间上完了MIT6.824分布式系统的课程，收获颇丰。从头开始手写Raft共识算法，然后实现分布式KV存储，最后加上shard，整个过程非常虐，debug到眼花，很...]]></title>
+            <description><![CDATA[<span>用户昵称：搞即建的 <br> Username：WalleMax</span><br><br>                    <img src="https://opengraph.githubassets.com/079d0c2b373bbd23f3ab757a442a2507d5c043d60ba891fe46fb57ff7197cdde/Sorosliu1029/6.824" referrerpolicy="no-referrer"><br>                    <a href="https://github.com/Sorosliu1029/6.824">GitHub - Sorosliu1029/6.824: 🤹 MIT 6.824 Distributed Systems</a><br>                <br>最近花了些时间上完了MIT6.824分布式系统的课程，收获颇丰。从头开始手写Raft共识算法，然后实现分布式KV存储，最后加上shard，整个过程非常虐，debug到眼花，很多时候要推翻思路重来。不过最后拨开云雾豁然开朗时，那种「oh，yes」的感觉还是很爽的。自信实现的是个简洁优雅的架构。<br><br>推荐给大家，还是挺有挑战性的。基于论文的课程编排是一大亮点，既涵盖理论又涉及业界。另一个亮点是lecture里包含了大量来自学生的提问和与教授之间的互动探讨，真诚、有意思、有启发。]]></description>
+            <pubDate>Sun, 14 Aug 2022 10:19:43 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62f8cc3fbcf03674974f10d3</guid>
+            <link>https://m.okjike.com/originalPosts/62f8cc3fbcf03674974f10d3</link>
+            
+            
+            
+            <author><![CDATA[搞即建的]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[和程序员有时候用小黄鸭调试法调试程序一样，老婆也会用类似的办法来买发卡。 她会问你哪个好看，你只要回答就行，至于回答什么不重要，最后她会选择她喜欢的，...]]></title>
@@ -74,7 +90,7 @@
         
         <item>
             <title><![CDATA[当你过度准备了一场代码面试时]]></title>
-            <description><![CDATA[<span>用户昵称：店長 <br> Username：ruguoapp123</span><br><br>当你过度准备了一场代码面试时<br><video src="https://videocdn.jellow.site/liixAqQ2AA9BEb6dlpf_PWLE2UQM.mp4?sign=814711e5a1e3b00d191dcb0fd9eb9fe0&amp;t=62f8b803" controls=""></video>]]></description>
+            <description><![CDATA[<span>用户昵称：店長 <br> Username：ruguoapp123</span><br><br>当你过度准备了一场代码面试时<br><video src="https://videocdn.jellow.site/liixAqQ2AA9BEb6dlpf_PWLE2UQM.mp4?sign=fe0e778c3fcdd140cedeb499cacf0d35&amp;t=62f8f1d8" controls=""></video>]]></description>
             <pubDate>Fri, 12 Aug 2022 08:23:07 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62f60debf14c0604e93ffcee</guid>
             <link>https://m.okjike.com/originalPosts/62f60debf14c0604e93ffcee</link>
@@ -90,7 +106,7 @@
         
         <item>
             <title><![CDATA[还是觉得物理世界的算法好神奇🤤]]></title>
-            <description><![CDATA[<span>用户昵称：Roll20 <br> Username：F87758AC-6839-44AD-B882-D35994BFFB0C</span><br><br>还是觉得物理世界的算法好神奇🤤<br><video src="https://videocdn.jellow.site/lsihU83aGRGmwctOazDxregGtOFR.mp4?sign=d05a12c02d31a3819946e5d18d114226&amp;t=62f8b803" controls=""></video>]]></description>
+            <description><![CDATA[<span>用户昵称：Roll20 <br> Username：F87758AC-6839-44AD-B882-D35994BFFB0C</span><br><br>还是觉得物理世界的算法好神奇🤤<br><video src="https://videocdn.jellow.site/lsihU83aGRGmwctOazDxregGtOFR.mp4?sign=13c6c5ac327b57767580feea19e5a258&amp;t=62f8f2f8" controls=""></video>]]></description>
             <pubDate>Fri, 12 Aug 2022 01:38:39 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/62f5af1fffe320c27c0b5b0c</guid>
             <link>https://m.okjike.com/originalPosts/62f5af1fffe320c27c0b5b0c</link>
@@ -162,22 +178,6 @@
             
             
             <author><![CDATA[东北冷面]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[说实话，我自己都很佩服我自己，靠着这么一个插件，能给自己找到一个好工作，做自己擅长的事，还能远程办公，自由自在。 我当时确实没有想到一个插件能给我未来...]]></title>
-            <description><![CDATA[<span>用户昵称：ourongxing <br> Username：7f422d5d-d79a-4f45-9880-b89d64d7f37a</span><br><br>说实话，我自己都很佩服我自己，靠着这么一个插件，能给自己找到一个好工作，做自己擅长的事，还能远程办公，自由自在。<br><br>我当时确实没有想到一个插件能给我未来的生活带来巨大的改变，不得不说，我把握住了这次机会，尽管付出了一点代价，不过我能接受。<br><img src="https://cdnv2.ruguoapp.com/FmXJRjPiXXOi-cfknJ_epsdda2C-v3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Ft3Pqi_HBsKZ3GqwRBmrBseyjo4hv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 05 Aug 2022 02:52:10 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62ec85da289cd24e2145f223</guid>
-            <link>https://m.okjike.com/originalPosts/62ec85da289cd24e2145f223</link>
-            
-            
-            
-            <author><![CDATA[ourongxing]]></author>
             
                 
             
