@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 22 Aug 2022 08:27:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 12:41:58 GMT</lastBuildDate>
         <ttl>1</ttl>
         
         <item>
@@ -105,6 +105,22 @@
         </item>
         
         <item>
+            <title><![CDATA[读到这本书 不由得感叹到，系统、精益的学习 比看多少碎片化的博客和视频都强]]></title>
+            <description><![CDATA[<span>用户昵称：non_sense <br> Username：e91689ee-ef8c-456f-81ef-82b15e31c0ad</span><br><br>读到这本书<br>不由得感叹到，系统、精益的学习<br>比看多少碎片化的博客和视频都强<br><img src="https://cdnv2.ruguoapp.com/FqYQQSNLB3L9T9X7VFwBaPetwESdv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 19 Aug 2022 19:34:59 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62ffe5e31b3d55c8adeb7a60</guid>
+            <link>https://m.okjike.com/originalPosts/62ffe5e31b3d55c8adeb7a60</link>
+            
+            
+            
+            <author><![CDATA[non_sense]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[哈哈哈哈哈哈，全球大型同性交友网站被认为是境外小众网站]]></title>
             <description><![CDATA[<span>用户昵称：哥飞 <br> Username：a2d6acc1-626f-4d15-a22a-849e88a4c9f0</span><br><br>哈哈哈哈哈哈，全球大型同性交友网站被认为是境外小众网站<br><img src="https://cdnv2.ruguoapp.com/FrvJL8KcelowiXZJ-D0k4Lhp9dh5v3.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Fri, 19 Aug 2022 04:23:38 GMT</pubDate>
@@ -162,22 +178,6 @@
             
             
             <author><![CDATA[Roll20]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[记录一下第一次尝试自己编写代码解决实际问题 目的是用python把特定导师的cnki所有文献名称爬下来，然后jieba分词，做个词云，简单明了展示导师的研究重点 第一...]]></title>
-            <description><![CDATA[<span>用户昵称：东北冷面 <br> Username：9b1166e0-666a-4928-9b0a-cb6ffed68cc7</span><br><br>记录一下第一次尝试自己编写代码解决实际问题<br><br>目的是用python把特定导师的cnki所有文献名称爬下来，然后jieba分词，做个词云，简单明了展示导师的研究重点<br><br>第一天在中国大学MOOC刷完大半北理工的爬虫基础，然后开始实操，根本无从下手，卒<br><br>第二天搜前人的实例，github上找到个比较简单的，运行起来根本不能跑，从头看源码，看了一会儿看不懂，卒。但是看明白一件事儿，我这个需求用requests❌，用selenium✅<br><br>第三天，也就是今天，在b站看完大半selenium教程，回头看昨天那个实例，cnki网站源码已经天差地别，难怪不能用，selenium相关语法还是老版本，难怪各种报错。于是一边参考教程，一边参考过期实例的大体意思，从头写一遍<br><br>目前已经实现：输入检索式并查找、获取解锁结果第一页所有文献的篇名<br><br>接下来需要实现：自动跳转并获取每一页检索结果的文献的篇名，篇名用逗号隔开导入txt文档，文档用jieba分词生成词云]]></description>
-            <pubDate>Sun, 07 Aug 2022 15:44:59 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62efddfbed20d363a27f9872</guid>
-            <link>https://m.okjike.com/originalPosts/62efddfbed20d363a27f9872</link>
-            
-            
-            
-            <author><![CDATA[东北冷面]]></author>
             
                 
             
