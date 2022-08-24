@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 24 Aug 2022 05:14:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 08:32:58 GMT</lastBuildDate>
         <ttl>1</ttl>
         
         <item>
@@ -153,6 +153,22 @@
         </item>
         
         <item>
+            <title><![CDATA[读到这本书 不由得感叹到，系统、精益的学习 比看多少碎片化的博客和视频都强]]></title>
+            <description><![CDATA[<span>用户昵称：non_sense <br> Username：e91689ee-ef8c-456f-81ef-82b15e31c0ad</span><br><br>读到这本书<br>不由得感叹到，系统、精益的学习<br>比看多少碎片化的博客和视频都强<br><img src="https://cdnv2.ruguoapp.com/FqYQQSNLB3L9T9X7VFwBaPetwESdv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 19 Aug 2022 19:34:59 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62ffe5e31b3d55c8adeb7a60</guid>
+            <link>https://m.okjike.com/originalPosts/62ffe5e31b3d55c8adeb7a60</link>
+            
+            
+            
+            <author><![CDATA[non_sense]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[最近花了些时间上完了MIT6.824分布式系统的课程，收获颇丰。从头开始手写Raft共识算法，然后实现分布式KV存储，最后加上shard，整个过程非常虐，debug到眼花，很...]]></title>
             <description><![CDATA[<span>用户昵称：搞即建的 <br> Username：WalleMax</span><br><br>                    <img src="https://opengraph.githubassets.com/079d0c2b373bbd23f3ab757a442a2507d5c043d60ba891fe46fb57ff7197cdde/Sorosliu1029/6.824" referrerpolicy="no-referrer"><br>                    <a href="https://github.com/Sorosliu1029/6.824">GitHub - Sorosliu1029/6.824: 🤹 MIT 6.824 Distributed Systems</a><br>                <br>最近花了些时间上完了MIT6.824分布式系统的课程，收获颇丰。从头开始手写Raft共识算法，然后实现分布式KV存储，最后加上shard，整个过程非常虐，debug到眼花，很多时候要推翻思路重来。不过最后拨开云雾豁然开朗时，那种「oh，yes」的感觉还是很爽的。自信实现的是个简洁优雅的架构。<br><br>推荐给大家，还是挺有挑战性的。基于论文的课程编排是一大亮点，既涵盖理论又涉及业界。另一个亮点是lecture里包含了大量来自学生的提问和与教授之间的互动探讨，真诚、有意思、有启发。]]></description>
             <pubDate>Sun, 14 Aug 2022 10:19:43 GMT</pubDate>
@@ -162,22 +178,6 @@
             
             
             <author><![CDATA[搞即建的]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[阿里今年相继发布了两个分布式数据库PolarDB-X 2.0和OceanBase4.0，客户端操作都完全兼容MySQL。 大致看了下，都支持横向扩展、二级索引和自动路由。 这么看来，...]]></title>
-            <description><![CDATA[<span>用户昵称：我得去整个飞船 <br> Username：708A84C9-2A31-4B07-AC5A-971C0A229AF7</span><br><br>阿里今年相继发布了两个分布式数据库PolarDB-X 2.0和OceanBase4.0，客户端操作都完全兼容MySQL。<br>大致看了下，都支持横向扩展、二级索引和自动路由。<br>这么看来，未来搭建项目时或许可以考虑采用这两个分布式数据库。<br>那么，由分库分表架构倒推的一系列服务端架构和中间件或许就可以拿掉了。就像把网关和服务发现沉淀至基础设施层一样，数据的分片存储也将从服务端负责转到数据库自身负责。<br>这样服务端职责更加单一，只需要考虑业务。<br>面对大并发，只要集群边界能支撑住流量，那么service只需要无脑的横向扩展就可以了。<br>到那时候，架构师就可以架构别的了。<br><br>猜想一下未来所有数据库的客户端协议都能统一，不用再理会具体的数据库类型，也不用理会是分布式还是单机。]]></description>
-            <pubDate>Thu, 11 Aug 2022 07:34:46 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62f4b1165a896e9fd1c5f52d</guid>
-            <link>https://m.okjike.com/originalPosts/62f4b1165a896e9fd1c5f52d</link>
-            
-            
-            
-            <author><![CDATA[我得去整个飞船]]></author>
             
                 
             
