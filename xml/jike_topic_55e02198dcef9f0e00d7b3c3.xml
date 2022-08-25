@@ -21,8 +21,40 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 25 Aug 2022 02:12:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 05:21:51 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[为了给即友提供更好的即刻搜索体验，我们上线了检索图片中文字的功能！现在，你可以在即刻里搜到更多有意思的动态了。（点图1了解如何使用） 识别图片中文字的技...]]></title>
+            <description><![CDATA[<span>用户昵称：即刻Engineering <br> Username：C3AD9499-902F-4772-9D0C-F4C8BF41C9CA</span><br><br>为了给即友提供更好的即刻搜索体验，我们上线了检索图片中文字的功能！现在，你可以在即刻里搜到更多有意思的动态了。（点图1了解如何使用）<br><br>识别图片中文字的技术称为OCR（Optical Character Recognition，光学字符识别），是指对图像进行分析识别，从中获取文字内容，以文本形式返回的过程。<br><br>OCR分析流程主要分为文本检测和文字识别，文本检测是指识别出图片中文字存在的区域并进行框选的过程，文字识别则是从已经框选出文字区域的图片中提取文字。在经过一系列技术调研和演进之后，我们最终采用DBNet+CRNN的模型组合作为解决方案，取得了不错的效果，如图2，3所示。<br><br>即刻搜索系统遵循业界的通用流程，主要分为召回和排序两个步骤。<br><br>召回指的是从内容候选池中根据规则筛选出数千条符合条件的动态的过程，在这个过程中实现动态数量从数百万到数千的降级。当即友在搜索栏中输入搜索内容点击搜索后，搜索服务会对输入文字进行分词，将分词结果与不同规则结合组成多条召回通道，例如命中搜索内容的热门动态或最新动态等，以不同维度从内容候选池中筛选满足条件的动态。<br><br>排序指的是对召回得到的动态交由Learning to Rank排序模型排序并取topK个结果的过程，这个过程完成了动态数量从数千到数百的降级。<br><br>实践中，我们在内容候选池中存储了每条动态的图片OCR结果，并新增了一路OCR检索的召回通道。当搜索内容命中图片OCR结果时，将命中图片所属的动态与其他召回通道筛选得到的动态一起交由模型完成排序。<br><br>目前的实现只是我们在搜索中的初步优化，我们之后会持续优化搜索服务以提供更好的搜索体验。大家有什么意见或建议，欢迎随时反馈！<img src="https://cdnv2.ruguoapp.com/lit81pRKt5ddSb0DX8oP74SyDaAUv3.gif" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FteAO-boG6UQinINiJa09ZV0B8Arv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fs3MDPeYSCyDORfSjlw8X7sjPFB4v3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 25 Aug 2022 04:07:26 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6306f57efa6f91dae0ab4efc</guid>
+            <link>https://m.okjike.com/originalPosts/6306f57efa6f91dae0ab4efc</link>
+            
+            
+            
+            <author><![CDATA[即刻Engineering]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[翻译了 Local-first software。原文是深度好文，一作是 DDIA 的作者，文中指出了目前云应用普遍存在的问题「用户不再拥有自己的数据的控制权」，并指出了如何在...]]></title>
+            <description><![CDATA[<span>用户昵称：zxch3n <br> Username：7E452F9D-89B4-400B-AE1A-9C62A988AE53</span><br><br>                    <img src="https://pic4.zhimg.com/v2-7d531a35f7e4dcd4127e188df9be6f3f_xs.jpg?source=172ae18b" referrerpolicy="no-referrer"><br>                    <a href="https://zhuanlan.zhihu.com/p/557353347">【译】本地优先软件 Local-first software</a><br>                <br>翻译了 Local-first software。原文是深度好文，一作是 DDIA 的作者，文中指出了目前云应用普遍存在的问题「用户不再拥有自己的数据的控制权」，并指出了如何在不损失用户体验的情况下重新「让用户掌握自己数据所属权」的可行路线。<br><br>原文距今已发表三年，我们可以看到越来越多 local-first 的软件和研究出现。随着相关技术的成熟在未来几年将会有大量的 local-first 的应用出现。但见中文社区还没有好的翻译，所以写了这篇。<br><br>对 local-first 或 CRDT 感兴趣的小伙伴欢迎私戳]]></description>
+            <pubDate>Wed, 24 Aug 2022 12:23:04 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63061828f5218f13d93a0f95</guid>
+            <link>https://m.okjike.com/originalPosts/63061828f5218f13d93a0f95</link>
+            
+            
+            
+            <author><![CDATA[zxch3n]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[前段时间Astro 融资700w，deno融资2100w，bun 刚刚融了 700w美元，现在开源框架真的太能猛了，以后是不是能去开源厂上班了。🤣]]></title>
@@ -105,22 +137,6 @@
         </item>
         
         <item>
-            <title><![CDATA[BookBar v1.0.3版本发布，一个基于Mac菜单栏的书签应用。 官网地址: https://bookbar.app/ 欢迎下载体验。😃]]></title>
-            <description><![CDATA[<span>用户昵称：艾逗笔 <br> Username：35224A78-8B11-469E-B307-16B58688FBEC</span><br><br>BookBar v1.0.3版本发布，一个基于Mac菜单栏的书签应用。<br>官网地址: https://bookbar.app/<br>欢迎下载体验。😃<br><img src="https://cdnv2.ruguoapp.com/lkpVFe-IfjbqUgN7t-IrYYMDrGE6v3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Ftf2QSnfIwOTt9Sm3LmlNl3O-601v3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FvknkYq5BF9r_6PUURi7g4N_0vzPv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sun, 21 Aug 2022 23:21:37 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6302be01188db1d5d051fe32</guid>
-            <link>https://m.okjike.com/originalPosts/6302be01188db1d5d051fe32</link>
-            
-            
-            
-            <author><![CDATA[艾逗笔]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[推荐一个时间追踪工具rize：极致的自动化。Rize 可以自动追踪电脑活动状态和休息状态，根据软件和网站对工作时间进行分类，这种粒度甚至到了如 Notion 的每一个...]]></title>
             <description><![CDATA[<span>用户昵称：郑大钱. <br> Username：f63b4bfc-c7f6-421e-84c4-1a716f495c9c</span><br><br>推荐一个时间追踪工具rize：极致的自动化。Rize 可以自动追踪电脑活动状态和休息状态，根据软件和网站对工作时间进行分类，这种粒度甚至到了如 Notion 的每一个页面这种级别，非常方便对工作进行分类<br>下载地址：https://rize.io/<br><img src="https://cdnv2.ruguoapp.com/Fm6b27LQvfVcAYBQ33Yd525pKGoFv3.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Sun, 21 Aug 2022 14:19:04 GMT</pubDate>
@@ -162,22 +178,6 @@
             
             
             <author><![CDATA[龙爪槐守望者]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[最近花了些时间上完了MIT6.824分布式系统的课程，收获颇丰。从头开始手写Raft共识算法，然后实现分布式KV存储，最后加上shard，整个过程非常虐，debug到眼花，很...]]></title>
-            <description><![CDATA[<span>用户昵称：搞即建的 <br> Username：WalleMax</span><br><br>                    <img src="https://opengraph.githubassets.com/079d0c2b373bbd23f3ab757a442a2507d5c043d60ba891fe46fb57ff7197cdde/Sorosliu1029/6.824" referrerpolicy="no-referrer"><br>                    <a href="https://github.com/Sorosliu1029/6.824">GitHub - Sorosliu1029/6.824: 🤹 MIT 6.824 Distributed Systems</a><br>                <br>最近花了些时间上完了MIT6.824分布式系统的课程，收获颇丰。从头开始手写Raft共识算法，然后实现分布式KV存储，最后加上shard，整个过程非常虐，debug到眼花，很多时候要推翻思路重来。不过最后拨开云雾豁然开朗时，那种「oh，yes」的感觉还是很爽的。自信实现的是个简洁优雅的架构。<br><br>推荐给大家，还是挺有挑战性的。基于论文的课程编排是一大亮点，既涵盖理论又涉及业界。另一个亮点是lecture里包含了大量来自学生的提问和与教授之间的互动探讨，真诚、有意思、有启发。]]></description>
-            <pubDate>Sun, 14 Aug 2022 10:19:43 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/62f8cc3fbcf03674974f10d3</guid>
-            <link>https://m.okjike.com/originalPosts/62f8cc3fbcf03674974f10d3</link>
-            
-            
-            
-            <author><![CDATA[搞即建的]]></author>
             
                 
             
