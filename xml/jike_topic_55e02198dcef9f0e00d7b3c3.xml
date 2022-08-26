@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Fri, 26 Aug 2022 12:40:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 16:29:55 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[正式走上了苹果软件开发之路。 希望能有一些代表作品出来。☺️]]></title>
+            <description><![CDATA[<span>用户昵称：艾逗笔 <br> Username：35224A78-8B11-469E-B307-16B58688FBEC</span><br><br>正式走上了苹果软件开发之路。<br>希望能有一些代表作品出来。☺️<br><img src="https://cdnv2.ruguoapp.com/Fhm0y19KbgyIBAm7NRxcdB9N9GrJv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fv3nBQVXhWimWgIT5nXZCD_fy_5vv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 26 Aug 2022 09:43:12 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/630895b0db3fcdb6e4f3e174</guid>
+            <link>https://m.okjike.com/originalPosts/630895b0db3fcdb6e4f3e174</link>
+            
+            
+            
+            <author><![CDATA[艾逗笔]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[比较认同的一些地方： 1. 「我认为学习从来不是一个线性的进步过程，是某一天突然就开窍了。」 2. 「编程只是一个工具，学习一门技术的时候要快速掌握其最核心的...]]></title>
@@ -114,22 +130,6 @@
             
             
             <author><![CDATA[Diu]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[昨天在看 Element Plus 文档的时候学到了一招快速让 Navbar 形成「最左侧 Logo，最右侧导航项，中间置空」布局的写法，可能对于有经验的前端同学而言算不上什么...]]></title>
-            <description><![CDATA[<span>用户昵称：100gle <br> Username：e9145c28-1ba2-4b49-b375-4fa8e2c62386</span><br><br>昨天在看 Element Plus 文档的时候学到了一招快速让 Navbar 形成「最左侧 Logo，最右侧导航项，中间置空」布局的写法，可能对于有经验的前端同学而言算不上什么奇淫巧技，但对像我这样刚学不久的新手来说太酷了一些。<br><br>先说我之前的是怎么写的：<br><br>在 <nav> 标签中分别用两个盒子来存放 <img referrerpolicy="no-referrer"> 的 Logo 和表示导航项的 <ul> 列表，然后通过 Flexbox 排布之后再调整 <ul> 部分的边距。<br><br>那么 Element Plus 文档中给出的例子是怎样实现的：<br><br>既然已经用了 Flexbox，那么在上述例子中再加入一个 <div> 盒子，然后通过 flex 属性直接调整该盒子的空间占比。<br><br>Wow！😲<br><img src="https://cdnv2.ruguoapp.com/FkBRW7sNtVtYF_VVWz82kESO12k5v3.png" referrerpolicy="no-referrer"></div></ul></ul></nav>]]></description>
-            <pubDate>Tue, 23 Aug 2022 01:42:41 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63043091d44367cba6ee40ff</guid>
-            <link>https://m.okjike.com/originalPosts/63043091d44367cba6ee40ff</link>
-            
-            
-            
-            <author><![CDATA[100gle]]></author>
             
                 
             
