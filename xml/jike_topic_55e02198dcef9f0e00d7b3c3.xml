@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sun, 28 Aug 2022 04:58:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2022 08:25:03 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[5天的代码没了，才发现最近的commit都没成功，没提交到branch上，我就说最近提交github怎么也是秒成功，原来都没提交上 checkout了一下才发现手上的代码变成5天...]]></title>
+            <description><![CDATA[<span>用户昵称：佩斯利 <br> Username：5949ac2d-25b8-4977-9e32-0044c262a8d4</span><br><br>5天的代码没了，才发现最近的commit都没成功，没提交到branch上，我就说最近提交github怎么也是秒成功，原来都没提交上<br>checkout了一下才发现手上的代码变成5天前的了……彻底崩溃……]]></description>
+            <pubDate>Sun, 28 Aug 2022 03:52:54 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/630ae696a4555440fe6a6e31</guid>
+            <link>https://m.okjike.com/originalPosts/630ae696a4555440fe6a6e31</link>
+            
+            
+            
+            <author><![CDATA[佩斯利]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[试了下Stable Diffusion 🤩🤩🤩又快又好用，赛博朋克玫瑰花海。直接用谷歌的colab跑，https://colab.research.google.com/github/huggingface/notebooks/b...]]></title>
@@ -98,22 +114,6 @@
             
             
             <author><![CDATA[思否]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[https://diff.minish-cap.com 自己搭建的stable diffusion服务，目前只支持英文...]]></title>
-            <description><![CDATA[<span>用户昵称：尼美尼美 <br> Username：938722DE-671B-420E-A52A-8857938AF98E</span><br><br>https://diff.minish-cap.com 自己搭建的stable diffusion服务，目前只支持英文...<br><img src="https://cdnv2.ruguoapp.com/loqBVubaQAgkGVGcMdUgcq2PhNh5v3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 26 Aug 2022 03:13:36 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63083a6090ae88f7421b48fd</guid>
-            <link>https://m.okjike.com/originalPosts/63083a6090ae88f7421b48fd</link>
-            
-            
-            
-            <author><![CDATA[尼美尼美]]></author>
             
                 
             
