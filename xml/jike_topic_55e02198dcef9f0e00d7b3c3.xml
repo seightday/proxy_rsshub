@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss  xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
 
-
 >
     <channel>
         <title><![CDATA[JitHub - 即刻圈子]]></title>
         <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
-        <atom:link href="https://rsshub/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
+        <atom:link href="https://vercel.getrss2021.xyz/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
         <description><![CDATA[开发者们分享，问答，也可以交友的地方。欢迎所有工程师！ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -21,19 +20,23 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 29 Aug 2022 05:38:11 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Mon, 29 Aug 2022 08:27:19 GMT</lastBuildDate>
+        <ttl>5</ttl>
         
         <item>
-            <title><![CDATA[obsidian to notion被推友喜欢了 居然顺着网线找到了我的Twitter~]]></title>
-            <description><![CDATA[<span>用户昵称：EasyPlux <br> Username：40441D2D-9682-4FAD-B220-C01B89635F95</span><br><br>obsidian to notion被推友喜欢了<br><br>居然顺着网线找到了我的Twitter~<br><img src="https://cdnv2.ruguoapp.com/FojplHAyTHlaDFOw9JR3fzcJW4Uhv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sun, 28 Aug 2022 14:49:10 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/630b806642c054dcc91e8cf7</guid>
-            <link>https://m.okjike.com/originalPosts/630b806642c054dcc91e8cf7</link>
+            <title><![CDATA[对于软件工程师来说，在职业生涯的不同阶段需要培养什么样的技能或心态呢？
+
+今年 80 岁的 UNIX 核心开发者之一、UNIX 命名者 Brian W.Kernighan 回答：
+
+下面这...]]></title>
+            <description><![CDATA[<br>对于软件工程师来说，在职业生涯的不同阶段需要培养什么样的技能或心态呢？<br><br>今年 80 岁的 UNIX 核心开发者之一、UNIX 命名者 Brian W.Kernighan 回答：<br><br>下面这两个技能，不仅仅是对软件工程师，对每个人而言都很重要。<br><br>一是学习如何写，二是学习如何说。<br><br>如果你能写好、说好，并且能有效地把技术语言传达给非技术人员的话，这将在你一生的职业生涯中发挥难以想象的价值。<br><br>同时，我还认为，要对“有趣”或“值得学习”的事物保持开放的心态。不要让自己变得狭隘，要保持广泛的兴趣。<br><br>法国伟大的科学家路易斯·巴斯德（Louis Pasteur）曾说过：“机会是留给有准备的人”。所以，你看的东西越多，想的东西越多，探索的东西越多，你就越有可能在某件事上变得越幸运。<br><br>完整版： https://mp.weixin.qq.com/s/BtqN4kSSUn5ItUNJyEztuQ<br><picture><source srcset="https://cdnv2.ruguoapp.com/FrpMmsppq-l4Qnzsdza8pk1oCiPIv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/FrpMmsppq-l4Qnzsdza8pk1oCiPIv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/FrpMmsppq-l4Qnzsdza8pk1oCiPIv3.png"></picture>]]></description>
+            <pubDate>Mon, 29 Aug 2022 02:42:02 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/630c277adb3fcdb6e44afe9d</guid>
+            <link>https://m.okjike.com/originalPosts/630c277adb3fcdb6e44afe9d</link>
             
             
             
-            <author><![CDATA[EasyPlux]]></author>
+            
             
                 
             
@@ -41,15 +44,16 @@
         </item>
         
         <item>
-            <title><![CDATA[5天的代码没了，才发现最近的commit都没成功，没提交到branch上，我就说最近提交github怎么也是秒成功，原来都没提交上 checkout了一下才发现手上的代码变成5天...]]></title>
-            <description><![CDATA[<span>用户昵称：佩斯利 <br> Username：5949ac2d-25b8-4977-9e32-0044c262a8d4</span><br><br>5天的代码没了，才发现最近的commit都没成功，没提交到branch上，我就说最近提交github怎么也是秒成功，原来都没提交上<br>checkout了一下才发现手上的代码变成5天前的了……彻底崩溃……]]></description>
+            <title><![CDATA[5天的代码没了，才发现最近的commit都没成功，没提交到branch上，我就说最近提交github怎么也是秒成功，原来都没提交上
+checkout了一下才发现手上的代码变成5天...]]></title>
+            <description><![CDATA[<br>5天的代码没了，才发现最近的commit都没成功，没提交到branch上，我就说最近提交github怎么也是秒成功，原来都没提交上<br>checkout了一下才发现手上的代码变成5天前的了……彻底崩溃……]]></description>
             <pubDate>Sun, 28 Aug 2022 03:52:54 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/630ae696a4555440fe6a6e31</guid>
             <link>https://m.okjike.com/originalPosts/630ae696a4555440fe6a6e31</link>
             
             
             
-            <author><![CDATA[佩斯利]]></author>
+            
             
                 
             
@@ -58,14 +62,14 @@
         
         <item>
             <title><![CDATA[试了下Stable Diffusion 🤩🤩🤩又快又好用，赛博朋克玫瑰花海。直接用谷歌的colab跑，https://colab.research.google.com/github/huggingface/notebooks/b...]]></title>
-            <description><![CDATA[<span>用户昵称：秋风_ <br> Username：1444E086-340D-466B-B2AB-307A6501B7BD</span><br><br>试了下Stable Diffusion 🤩🤩🤩又快又好用，赛博朋克玫瑰花海。直接用谷歌的colab跑，https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/stable_diffusion.ipynb 被分配了个Tesla T4 显卡跑的贼快，平均15秒出一张图。<br><img src="https://cdnv2.ruguoapp.com/Fl3RtiDbqJFhrjva7rNR5TdLh1gZv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FiyWOhh-LvPa6doEYvly_FMJzLSjv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FlvoZibteonI2OwWkJB2ntOI54xiv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FhRcgCpVhDpvoqL_6QatOvUiqO3yv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FlqzFGXOrV9fT8G7spFVhy-MNUvzv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fmj__ohnsTp2mTEpogee6KhxN6ZGv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FjPoPgyGTu_L3QgyPldUYglsj7-ev3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Ft3id-vveHLSiTjTVMlN3V2gGIENv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FoPSnev8YL3xPRI1dai8ACB7LeLhv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[<br>试了下Stable Diffusion 🤩🤩🤩又快又好用，赛博朋克玫瑰花海。直接用谷歌的colab跑，https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/stable_diffusion.ipynb 被分配了个Tesla T4 显卡跑的贼快，平均15秒出一张图。<br><picture><source srcset="https://cdnv2.ruguoapp.com/Fl3RtiDbqJFhrjva7rNR5TdLh1gZv3.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/Fl3RtiDbqJFhrjva7rNR5TdLh1gZv3.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/Fl3RtiDbqJFhrjva7rNR5TdLh1gZv3.jpg"></picture><br><picture><source srcset="https://cdnv2.ruguoapp.com/FiyWOhh-LvPa6doEYvly_FMJzLSjv3.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/FiyWOhh-LvPa6doEYvly_FMJzLSjv3.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/FiyWOhh-LvPa6doEYvly_FMJzLSjv3.jpg"></picture><br><picture><source srcset="https://cdnv2.ruguoapp.com/FlvoZibteonI2OwWkJB2ntOI54xiv3.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/FlvoZibteonI2OwWkJB2ntOI54xiv3.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/FlvoZibteonI2OwWkJB2ntOI54xiv3.jpg"></picture><br><picture><source srcset="https://cdnv2.ruguoapp.com/FhRcgCpVhDpvoqL_6QatOvUiqO3yv3.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/FhRcgCpVhDpvoqL_6QatOvUiqO3yv3.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/FhRcgCpVhDpvoqL_6QatOvUiqO3yv3.jpg"></picture><br><picture><source srcset="https://cdnv2.ruguoapp.com/FlqzFGXOrV9fT8G7spFVhy-MNUvzv3.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/FlqzFGXOrV9fT8G7spFVhy-MNUvzv3.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/FlqzFGXOrV9fT8G7spFVhy-MNUvzv3.jpg"></picture><br><picture><source srcset="https://cdnv2.ruguoapp.com/Fmj__ohnsTp2mTEpogee6KhxN6ZGv3.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/Fmj__ohnsTp2mTEpogee6KhxN6ZGv3.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/Fmj__ohnsTp2mTEpogee6KhxN6ZGv3.jpg"></picture><br><picture><source srcset="https://cdnv2.ruguoapp.com/FjPoPgyGTu_L3QgyPldUYglsj7-ev3.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/FjPoPgyGTu_L3QgyPldUYglsj7-ev3.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/FjPoPgyGTu_L3QgyPldUYglsj7-ev3.jpg"></picture><br><picture><source srcset="https://cdnv2.ruguoapp.com/Ft3id-vveHLSiTjTVMlN3V2gGIENv3.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/Ft3id-vveHLSiTjTVMlN3V2gGIENv3.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/Ft3id-vveHLSiTjTVMlN3V2gGIENv3.jpg"></picture><br><picture><source srcset="https://cdnv2.ruguoapp.com/FoPSnev8YL3xPRI1dai8ACB7LeLhv3.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/FoPSnev8YL3xPRI1dai8ACB7LeLhv3.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/FoPSnev8YL3xPRI1dai8ACB7LeLhv3.jpg"></picture>]]></description>
             <pubDate>Sat, 27 Aug 2022 14:08:54 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/630a2576dfd12fd3f3874730</guid>
             <link>https://m.okjike.com/originalPosts/630a2576dfd12fd3f3874730</link>
             
             
             
-            <author><![CDATA[秋风_]]></author>
+            
             
                 
             
@@ -74,14 +78,14 @@
         
         <item>
             <title><![CDATA[这也太土了，我好喜欢😂😂]]></title>
-            <description><![CDATA[<span>用户昵称：baochirechen.bit <br> Username：e3ed8ed5-dc4e-44e4-9444-87ead1092915</span><br><br>这也太土了，我好喜欢😂😂<br><img src="https://cdnv2.ruguoapp.com/Fj0c-x_LDQjTNhU6Yn6X9TUyc-twv3.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[<br>这也太土了，我好喜欢😂😂<br><picture><source srcset="https://cdnv2.ruguoapp.com/Fj0c-x_LDQjTNhU6Yn6X9TUyc-twv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/Fj0c-x_LDQjTNhU6Yn6X9TUyc-twv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/Fj0c-x_LDQjTNhU6Yn6X9TUyc-twv3.png"></picture>]]></description>
             <pubDate>Sat, 27 Aug 2022 11:01:06 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6309f9720a21ff772deab660</guid>
             <link>https://m.okjike.com/originalPosts/6309f9720a21ff772deab660</link>
             
             
             
-            <author><![CDATA[baochirechen.bit]]></author>
+            
             
                 
             
@@ -90,14 +94,14 @@
         
         <item>
             <title><![CDATA[无题]]></title>
-            <description><![CDATA[<span>用户昵称：TPIAN <br> Username：FE6AA765-624F-4DD3-86E5-A82262F669B8</span><br><br><br><img src="https://cdnv2.ruguoapp.com/FoaFjkSxYqpUguDvE0j4cYxIhdcWv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[<br><br><picture><source srcset="https://cdnv2.ruguoapp.com/FoaFjkSxYqpUguDvE0j4cYxIhdcWv3.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/FoaFjkSxYqpUguDvE0j4cYxIhdcWv3.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/FoaFjkSxYqpUguDvE0j4cYxIhdcWv3.jpg"></picture>]]></description>
             <pubDate>Sat, 27 Aug 2022 01:35:40 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/630974ec90ae88f742391abf</guid>
             <link>https://m.okjike.com/originalPosts/630974ec90ae88f742391abf</link>
             
             
             
-            <author><![CDATA[TPIAN]]></author>
+            
             
                 
             
@@ -105,15 +109,19 @@
         </item>
         
         <item>
-            <title><![CDATA[比较认同的一些地方： 1. 「我认为学习从来不是一个线性的进步过程，是某一天突然就开窍了。」 2. 「编程只是一个工具，学习一门技术的时候要快速掌握其最核心的...]]></title>
-            <description><![CDATA[<span>用户昵称：思否 <br> Username：nicemmp</span><br><br>                    <img src="https://i.microlink.io/https%3A%2F%2Fcards.microlink.io%2F%3Fpreset%3Dchris-biscardi%26subtitle%3Dgeekplux.com%26name%3DGeekPlux%26title%3D%E6%88%91%E6%98%AF%E5%A6%82%E4%BD%95%E5%AD%A6%E4%BC%9A%E7%BC%96%E7%A8%8B%E7%9A%84" referrerpolicy="no-referrer"><br>                    <a href="https://geekplux.com/posts/how-i-learned-programming">我是如何学会编程的 - GeekPlux</a><br>                <br>比较认同的一些地方：<br><br>1. 「我认为学习从来不是一个线性的进步过程，是某一天突然就开窍了。」<br><br>2. 「编程只是一个工具，学习一门技术的时候要快速掌握其最核心的部分，抛弃细枝末节，直接动手实现目标，中途遇到不会的再 Google 即可。这样才是高效快速的学习方式。」<br><br>3. 针对上面一点：「但坏处是知识点掌握的不牢靠，很多细节需要现学现卖，这在日常编程中好像没什么影响，随手 Google 随手写，但面试就很差了，毕竟面试是通过考察细碎的知识点来衡量你的知识面（我不苟同这个面试方式，但确实是现在最流行的）。」]]></description>
+            <title><![CDATA[比较认同的一些地方：
+
+1. 「我认为学习从来不是一个线性的进步过程，是某一天突然就开窍了。」
+
+2. 「编程只是一个工具，学习一门技术的时候要快速掌握其最核心...]]></title>
+            <description><![CDATA[<br>                    <img referrerpolicy="no-referrer" src="https://i.microlink.io/https%3A%2F%2Fcards.microlink.io%2F%3Fpreset%3Dchris-biscardi%26subtitle%3Dgeekplux.com%26name%3DGeekPlux%26title%3D%E6%88%91%E6%98%AF%E5%A6%82%E4%BD%95%E5%AD%A6%E4%BC%9A%E7%BC%96%E7%A8%8B%E7%9A%84"><br>                    <a href="https://geekplux.com/posts/how-i-learned-programming">我是如何学会编程的 - GeekPlux</a><br>                <br>比较认同的一些地方：<br><br>1. 「我认为学习从来不是一个线性的进步过程，是某一天突然就开窍了。」<br><br>2. 「编程只是一个工具，学习一门技术的时候要快速掌握其最核心的部分，抛弃细枝末节，直接动手实现目标，中途遇到不会的再 Google 即可。这样才是高效快速的学习方式。」<br><br>3. 针对上面一点：「但坏处是知识点掌握的不牢靠，很多细节需要现学现卖，这在日常编程中好像没什么影响，随手 Google 随手写，但面试就很差了，毕竟面试是通过考察细碎的知识点来衡量你的知识面（我不苟同这个面试方式，但确实是现在最流行的）。」]]></description>
             <pubDate>Fri, 26 Aug 2022 04:48:25 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/63085099db3fcdb6e4ebecd2</guid>
             <link>https://m.okjike.com/originalPosts/63085099db3fcdb6e4ebecd2</link>
             
             
             
-            <author><![CDATA[思否]]></author>
+            
             
                 
             
@@ -121,15 +129,17 @@
         </item>
         
         <item>
-            <title><![CDATA[为了给即友提供更好的即刻搜索体验，我们上线了检索图片中文字的功能！现在，你可以在即刻里搜到更多有意思的动态了。（点图1了解如何使用） 识别图片中文字的技...]]></title>
-            <description><![CDATA[<span>用户昵称：即刻Engineering <br> Username：C3AD9499-902F-4772-9D0C-F4C8BF41C9CA</span><br><br>为了给即友提供更好的即刻搜索体验，我们上线了检索图片中文字的功能！现在，你可以在即刻里搜到更多有意思的动态了。（点图1了解如何使用）<br><br>识别图片中文字的技术称为OCR（Optical Character Recognition，光学字符识别），是指对图像进行分析识别，从中获取文字内容，以文本形式返回的过程。<br><br>OCR分析流程主要分为文本检测和文字识别，文本检测是指识别出图片中文字存在的区域并进行框选的过程，文字识别则是从已经框选出文字区域的图片中提取文字。在经过一系列技术调研和演进之后，我们最终采用DBNet+CRNN的模型组合作为解决方案，取得了不错的效果，如图2，3所示。<br><br>即刻搜索系统遵循业界的通用流程，主要分为召回和排序两个步骤。<br><br>召回指的是从内容候选池中根据规则筛选出数千条符合条件的动态的过程，在这个过程中实现动态数量从数百万到数千的降级。当即友在搜索栏中输入搜索内容点击搜索后，搜索服务会对输入文字进行分词，将分词结果与不同规则结合组成多条召回通道，例如命中搜索内容的热门动态或最新动态等，以不同维度从内容候选池中筛选满足条件的动态。<br><br>排序指的是对召回得到的动态交由Learning to Rank排序模型排序并取topK个结果的过程，这个过程完成了动态数量从数千到数百的降级。<br><br>实践中，我们在内容候选池中存储了每条动态的图片OCR结果，并新增了一路OCR检索的召回通道。当搜索内容命中图片OCR结果时，将命中图片所属的动态与其他召回通道筛选得到的动态一起交由模型完成排序。<br><br>目前的实现只是我们在搜索中的初步优化，我们之后会持续优化搜索服务以提供更好的搜索体验。大家有什么意见或建议，欢迎随时反馈！<img src="https://cdnv2.ruguoapp.com/lit81pRKt5ddSb0DX8oP74SyDaAUv3.gif" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FteAO-boG6UQinINiJa09ZV0B8Arv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fs3MDPeYSCyDORfSjlw8X7sjPFB4v3.jpg" referrerpolicy="no-referrer">]]></description>
+            <title><![CDATA[为了给即友提供更好的即刻搜索体验，我们上线了检索图片中文字的功能！现在，你可以在即刻里搜到更多有意思的动态了。（点图1了解如何使用）
+
+识别图片中文字的...]]></title>
+            <description><![CDATA[<br>为了给即友提供更好的即刻搜索体验，我们上线了检索图片中文字的功能！现在，你可以在即刻里搜到更多有意思的动态了。（点图1了解如何使用）<br><br>识别图片中文字的技术称为OCR（Optical Character Recognition，光学字符识别），是指对图像进行分析识别，从中获取文字内容，以文本形式返回的过程。<br><br>OCR分析流程主要分为文本检测和文字识别，文本检测是指识别出图片中文字存在的区域并进行框选的过程，文字识别则是从已经框选出文字区域的图片中提取文字。在经过一系列技术调研和演进之后，我们最终采用DBNet+CRNN的模型组合作为解决方案，取得了不错的效果，如图2，3所示。<br><br>即刻搜索系统遵循业界的通用流程，主要分为召回和排序两个步骤。<br><br>召回指的是从内容候选池中根据规则筛选出数千条符合条件的动态的过程，在这个过程中实现动态数量从数百万到数千的降级。当即友在搜索栏中输入搜索内容点击搜索后，搜索服务会对输入文字进行分词，将分词结果与不同规则结合组成多条召回通道，例如命中搜索内容的热门动态或最新动态等，以不同维度从内容候选池中筛选满足条件的动态。<br><br>排序指的是对召回得到的动态交由Learning to Rank排序模型排序并取topK个结果的过程，这个过程完成了动态数量从数千到数百的降级。<br><br>实践中，我们在内容候选池中存储了每条动态的图片OCR结果，并新增了一路OCR检索的召回通道。当搜索内容命中图片OCR结果时，将命中图片所属的动态与其他召回通道筛选得到的动态一起交由模型完成排序。<br><br>目前的实现只是我们在搜索中的初步优化，我们之后会持续优化搜索服务以提供更好的搜索体验。大家有什么意见或建议，欢迎随时反馈！<img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/lit81pRKt5ddSb0DX8oP74SyDaAUv3.gif"><br><picture><source srcset="https://cdnv2.ruguoapp.com/FteAO-boG6UQinINiJa09ZV0B8Arv3.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/FteAO-boG6UQinINiJa09ZV0B8Arv3.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/FteAO-boG6UQinINiJa09ZV0B8Arv3.jpg"></picture><br><picture><source srcset="https://cdnv2.ruguoapp.com/Fs3MDPeYSCyDORfSjlw8X7sjPFB4v3.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/Fs3MDPeYSCyDORfSjlw8X7sjPFB4v3.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/Fs3MDPeYSCyDORfSjlw8X7sjPFB4v3.jpg"></picture>]]></description>
             <pubDate>Thu, 25 Aug 2022 04:07:26 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6306f57efa6f91dae0ab4efc</guid>
             <link>https://m.okjike.com/originalPosts/6306f57efa6f91dae0ab4efc</link>
             
             
             
-            <author><![CDATA[即刻Engineering]]></author>
+            
             
                 
             
@@ -138,14 +148,14 @@
         
         <item>
             <title><![CDATA[翻译了 Local-first software。原文是深度好文，一作是 DDIA 的作者，文中指出了目前云应用普遍存在的问题「用户不再拥有自己的数据的控制权」，并指出了如何在...]]></title>
-            <description><![CDATA[<span>用户昵称：zxch3n <br> Username：7E452F9D-89B4-400B-AE1A-9C62A988AE53</span><br><br>                    <img src="https://pic4.zhimg.com/v2-7d531a35f7e4dcd4127e188df9be6f3f_xs.jpg?source=172ae18b" referrerpolicy="no-referrer"><br>                    <a href="https://zhuanlan.zhihu.com/p/557353347">【译】本地优先软件 Local-first software</a><br>                <br>翻译了 Local-first software。原文是深度好文，一作是 DDIA 的作者，文中指出了目前云应用普遍存在的问题「用户不再拥有自己的数据的控制权」，并指出了如何在不损失用户体验的情况下重新「让用户掌握自己数据所属权」的可行路线。<br><br>原文距今已发表三年，我们可以看到越来越多 local-first 的软件和研究出现。随着相关技术的成熟在未来几年将会有大量的 local-first 的应用出现。但见中文社区还没有好的翻译，所以写了这篇。<br><br>对 local-first 或 CRDT 感兴趣的小伙伴欢迎私戳]]></description>
+            <description><![CDATA[<br>                    <img referrerpolicy="no-referrer" src="https://pic4.zhimg.com/v2-7d531a35f7e4dcd4127e188df9be6f3f_xs.jpg?source=172ae18b"><br>                    <a href="https://zhuanlan.zhihu.com/p/557353347">【译】本地优先软件 Local-first software</a><br>                <br>翻译了 Local-first software。原文是深度好文，一作是 DDIA 的作者，文中指出了目前云应用普遍存在的问题「用户不再拥有自己的数据的控制权」，并指出了如何在不损失用户体验的情况下重新「让用户掌握自己数据所属权」的可行路线。<br><br>原文距今已发表三年，我们可以看到越来越多 local-first 的软件和研究出现。随着相关技术的成熟在未来几年将会有大量的 local-first 的应用出现。但见中文社区还没有好的翻译，所以写了这篇。<br><br>对 local-first 或 CRDT 感兴趣的小伙伴欢迎私戳]]></description>
             <pubDate>Wed, 24 Aug 2022 12:23:04 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/63061828f5218f13d93a0f95</guid>
             <link>https://m.okjike.com/originalPosts/63061828f5218f13d93a0f95</link>
             
             
             
-            <author><![CDATA[zxch3n]]></author>
+            
             
                 
             
@@ -154,14 +164,14 @@
         
         <item>
             <title><![CDATA[前段时间Astro 融资700w，deno融资2100w，bun 刚刚融了 700w美元，现在开源框架真的太能猛了，以后是不是能去开源厂上班了。🤣]]></title>
-            <description><![CDATA[<span>用户昵称：秋风_ <br> Username：1444E086-340D-466B-B2AB-307A6501B7BD</span><br><br>前段时间Astro 融资700w，deno融资2100w，bun 刚刚融了 700w美元，现在开源框架真的太能猛了，以后是不是能去开源厂上班了。🤣<br><img src="https://cdnv2.ruguoapp.com/Fk3sWr84LrQ6NYE8sgvIdHwloqh3v3.jpg" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[<br>前段时间Astro 融资700w，deno融资2100w，bun 刚刚融了 700w美元，现在开源框架真的太能猛了，以后是不是能去开源厂上班了。🤣<br><picture><source srcset="https://cdnv2.ruguoapp.com/Fk3sWr84LrQ6NYE8sgvIdHwloqh3v3.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/Fk3sWr84LrQ6NYE8sgvIdHwloqh3v3.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/Fk3sWr84LrQ6NYE8sgvIdHwloqh3v3.jpg"></picture>]]></description>
             <pubDate>Wed, 24 Aug 2022 04:52:12 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6305ae7c3f54b4009e167cc4</guid>
             <link>https://m.okjike.com/originalPosts/6305ae7c3f54b4009e167cc4</link>
             
             
             
-            <author><![CDATA[秋风_]]></author>
+            
             
                 
             
@@ -169,15 +179,17 @@
         </item>
         
         <item>
-            <title><![CDATA[前几天微软开源了 Fluent Emoji，做了一个Fluent Emoji Maker来帮你组合组件，生成类似风格的Emoji🤣 https://fluent-emoji.ddiu.io/]]></title>
-            <description><![CDATA[<span>用户昵称：Diu <br> Username：f9774c49-6784-47a7-9bf4-b90474619a36</span><br><br>前几天微软开源了 Fluent Emoji，做了一个Fluent Emoji Maker来帮你组合组件，生成类似风格的Emoji🤣<br><br>https://fluent-emoji.ddiu.io/<img src="https://cdnv2.ruguoapp.com/Fu_th_zxTNQfT8dRanc1MgZIPcC8v3.gif" referrerpolicy="no-referrer">]]></description>
+            <title><![CDATA[前几天微软开源了 Fluent Emoji，做了一个Fluent Emoji Maker来帮你组合组件，生成类似风格的Emoji🤣
+
+https://fluent-emoji.ddiu.io/]]></title>
+            <description><![CDATA[<br>前几天微软开源了 Fluent Emoji，做了一个Fluent Emoji Maker来帮你组合组件，生成类似风格的Emoji🤣<br><br>https://fluent-emoji.ddiu.io/<img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/Fu_th_zxTNQfT8dRanc1MgZIPcC8v3.gif">]]></description>
             <pubDate>Tue, 23 Aug 2022 11:14:04 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6304b67cbdb2b43f013ffa72</guid>
             <link>https://m.okjike.com/originalPosts/6304b67cbdb2b43f013ffa72</link>
             
             
             
-            <author><![CDATA[Diu]]></author>
+            
             
                 
             
