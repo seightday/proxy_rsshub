@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sat, 03 Sep 2022 16:27:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Sep 2022 20:21:06 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[Toolhunt是针对开发者推出的高质量工具资讯，前端后端应有尽有，会定期整理某个维度的最佳工具集合，支持邮件订阅 https://www.toolhunt.dev/]]></title>
+            <description><![CDATA[<span>用户昵称：龙爪槐守望者 <br> Username：2FCBB59D-93C2-488A-AFBD-38B70B267742</span><br><br>Toolhunt是针对开发者推出的高质量工具资讯，前端后端应有尽有，会定期整理某个维度的最佳工具集合，支持邮件订阅<br>https://www.toolhunt.dev/<br><img src="https://cdnv2.ruguoapp.com/FlrcqJIm8BjZovzpfuLt3bKSjS_3v3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sat, 03 Sep 2022 15:38:37 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/631374fd5565942fe17810c1</guid>
+            <link>https://m.okjike.com/originalPosts/631374fd5565942fe17810c1</link>
+            
+            
+            
+            <author><![CDATA[龙爪槐守望者]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[虽然我自己基本不用百度了，但还是被逗乐了。 （同事抓头解决bug时搜索的结果）]]></title>
@@ -82,22 +98,6 @@
             
             
             <author><![CDATA[木鱼啊]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[BookBar v1.2.2 版本发布： 1. 绑定了全局快捷键 command + e，支持在任何位置快速唤起菜单栏； 2. 使用.yaml文件定义工作流，添加了使用说明； 3. 支持为每个工...]]></title>
-            <description><![CDATA[<span>用户昵称：艾逗笔 <br> Username：35224A78-8B11-469E-B307-16B58688FBEC</span><br><br>BookBar v1.2.2 版本发布：<br>1. 绑定了全局快捷键 command + e，支持在任何位置快速唤起菜单栏；<br>2. 使用.yaml文件定义工作流，添加了使用说明；<br>3. 支持为每个工作流绑定自定义快捷键；<br><br>这个版本意义重大，绑定全局快捷键之后，解决了鼠标点击效率低的问题。使用自定义快捷键，有些场景甚至比 spotlight 操作更快。<br>比如打开终端这个操作:<br>如果使用 spotlight，需要先 command + space 唤起输入框，然后输入Term 前缀找到Terminal 应用，再回车打开终端；<br>如果使用BookBar自定义工作流，只需要command + e 唤起菜单栏，command + t  打开终端。<br><br>Spotlight 的核心优势在于搜索，想用什么搜什么。BookBar 接下来的迭代重心，需要为工作流支持更多的自定义操作，再探索如何加入检索功能，使其拥有媲美 spotlight 的效率。<br><br>BookBar 的定位是：基于 Mac 菜单栏的效率神器。目前已支持 Chrome 书签、本地应用、自定义工作流等功能，欢迎在官网: https://bookbar.app 下载最新版体验。🥳<br><img src="https://cdnv2.ruguoapp.com/FliNtclo2E1lZSFG_iA1fTH9kGQ7v3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fshal4DMBj1lf-_kVh5Ipp58EY8Ov3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 02 Sep 2022 00:32:38 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63114f26d4818ee92be883fe</guid>
-            <link>https://m.okjike.com/originalPosts/63114f26d4818ee92be883fe</link>
-            
-            
-            
-            <author><![CDATA[艾逗笔]]></author>
             
                 
             
