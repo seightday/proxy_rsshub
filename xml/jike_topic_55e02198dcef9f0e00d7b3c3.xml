@@ -21,8 +21,40 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sun, 04 Sep 2022 05:03:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Sep 2022 08:24:32 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[两个obb碰撞检测，判断它们在轴上的投影即可，先不说性能怎样，原理简单易懂。 # til]]></title>
+            <description><![CDATA[<span>用户昵称：不入门Shader不改名 <br> Username：C027E21D-DFD6-4F88-AF40-31871E1FB6F4</span><br><br>两个obb碰撞检测，判断它们在轴上的投影即可，先不说性能怎样，原理简单易懂。<br><br># til<br><img src="https://cdnv2.ruguoapp.com/Fj5hOC7NNdXIqlVoY8vd2LHAfW-ov3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sun, 04 Sep 2022 04:49:17 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63142e4dd4818ee92b320774</guid>
+            <link>https://m.okjike.com/originalPosts/63142e4dd4818ee92b320774</link>
+            
+            
+            
+            <author><![CDATA[不入门Shader不改名]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[前几天在想，现在有没有一款js框架，能直接用js声明界面元素，而不用HTML或css。今早就看到p5.js （https://p5js.org/） 同时也在想，有没有一个能部署到github ...]]></title>
+            <description><![CDATA[<span>用户昵称：黄健楸 <br> Username：EA8FE109-3ACB-4641-98C8-B7D61EDD8637</span><br><br>前几天在想，现在有没有一款js框架，能直接用js声明界面元素，而不用HTML或css。今早就看到p5.js （https://p5js.org/）<br><br>同时也在想，有没有一个能部署到github pages的在线playground，而不需要后端处理用户输入的代码。发现jupyterlite ，一个浏览器自运行的jupyterlab。不仅能运行python，而且能运行js，还用p5.js <br><br>再一想，如果能组合这些技术组件，可以写一个面向初中生以上的人的JS或Python教程——初学者不用处理安装语言环境的问题，就能学习基本语法并制作可交互应用。提供教程的人也不用自己搭服务器。呃，我先看看有没人做了类似的活<br><br>此外，这个过程中，发现近年来涌现不少网页IDE或Playground，比如Svelte、Vue、p5.js、robotframework官网都有playground，Svelte还有俩；再如stackblitz.com貌似把node.js“放到”浏览器；还有natto.dev、godbolt.org这种靠后端解析的。就算不提虚机，都有很多地方值得进一步研究<br><img src="https://cdnv2.ruguoapp.com/FoTEKTxiHe60py5s5jlhkDpqZzn0v3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FkoGbiAsnjbgzVkY1ZFKj4s7VvkGv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FqNGCDTC5LVWKFV5_x9g0SoSb5Ffv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sun, 04 Sep 2022 02:40:31 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6314101fde6c42f6750c7233</guid>
+            <link>https://m.okjike.com/originalPosts/6314101fde6c42f6750c7233</link>
+            
+            
+            
+            <author><![CDATA[黄健楸]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[Toolhunt是针对开发者推出的高质量工具资讯，前端后端应有尽有，会定期整理某个维度的最佳工具集合，支持邮件订阅 https://www.toolhunt.dev/]]></title>
@@ -57,22 +89,6 @@
         </item>
         
         <item>
-            <title><![CDATA[Cool ! https://nextjs.org/conf]]></title>
-            <description><![CDATA[<span>用户昵称：HwangSSS <br> Username：660cee5b-42b3-47a5-b084-c38987c315ed</span><br><br>Cool !<br><br>https://nextjs.org/conf<br><img src="https://cdnv2.ruguoapp.com/FixGJPx6XyTuYSWdIP--2bhAbOEfv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 03 Sep 2022 07:51:47 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/631307935569e188fc2699ef</guid>
-            <link>https://m.okjike.com/originalPosts/631307935569e188fc2699ef</link>
-            
-            
-            
-            <author><![CDATA[HwangSSS]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[东软这坨💩喂给川内所有人，大家排队做核酸的时间多半都超过了两三个小时。]]></title>
             <description><![CDATA[<span>用户昵称：日月霄 <br> Username：f5281796-8710-4fc5-ad99-35c2f514ce0d</span><br><br>东软这坨💩喂给川内所有人，大家排队做核酸的时间多半都超过了两三个小时。<br><img src="https://cdnv2.ruguoapp.com/FktSZ1LqjkHgP7sAPVP1SMlOAo1-v3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Flo3VyKln0kLeDgbaPlj5LXhYVKHv3.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Fri, 02 Sep 2022 16:23:52 GMT</pubDate>
@@ -82,22 +98,6 @@
             
             
             <author><![CDATA[日月霄]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[工作两个月commit60多次，才写1万多行代码，这正常吗👀]]></title>
-            <description><![CDATA[<span>用户昵称：木鱼啊 <br> Username：fe61bb4d-7ed2-4ae3-8549-cb3f4d4ea45b</span><br><br>工作两个月commit60多次，才写1万多行代码，这正常吗👀]]></description>
-            <pubDate>Fri, 02 Sep 2022 07:34:05 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6311b1edd4818ee92bf44197</guid>
-            <link>https://m.okjike.com/originalPosts/6311b1edd4818ee92bf44197</link>
-            
-            
-            
-            <author><![CDATA[木鱼啊]]></author>
             
                 
             
