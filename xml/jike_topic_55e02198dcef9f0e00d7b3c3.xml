@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sun, 04 Sep 2022 16:28:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Sep 2022 20:22:38 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[本周末完成： 0. 2D 定点数物理引擎架构 1. Gizmos绘制：Box/Circle 2. AABB 与 AABB 碰撞检测 3. AABB 与 OBB 碰撞检测 4. OBB 与 OBB 碰撞检测 5. Circle 与 A...]]></title>
+            <description><![CDATA[<span>用户昵称：不入门Shader不改名 <br> Username：C027E21D-DFD6-4F88-AF40-31871E1FB6F4</span><br><br>本周末完成：<br>0. 2D 定点数物理引擎架构<br>1. Gizmos绘制：Box/Circle<br>2. AABB 与 AABB 碰撞检测<br>3. AABB 与 OBB 碰撞检测<br>4. OBB 与 OBB 碰撞检测<br>5. Circle 与 AABB 碰撞检测<br>6. Circle 与 OBB 碰撞检测<br><video src="https://videocdn.jellow.site/FvYa1tBh1qKYdjHjExcDu0l6ZSV4.mp4?sign=fc1a5f4d92b50224e93c6b515aa197c6&amp;t=63150f73" controls=""></video>]]></description>
+            <pubDate>Sun, 04 Sep 2022 14:45:16 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6314b9fcde6c42f6751fdad7</guid>
+            <link>https://m.okjike.com/originalPosts/6314b9fcde6c42f6751fdad7</link>
+            
+            
+            
+            <author><![CDATA[不入门Shader不改名]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[两个obb碰撞检测，判断它们在轴上的投影即可，先不说性能怎样，原理简单易懂。 # til]]></title>
@@ -66,22 +82,6 @@
             
             
             <author><![CDATA[龙爪槐守望者]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[虽然我自己基本不用百度了，但还是被逗乐了。 （同事抓头解决bug时搜索的结果）]]></title>
-            <description><![CDATA[<span>用户昵称：橘子了没 <br> Username：0A1A146F-3476-45D2-8E25-6CD3B69A5256</span><br><br>虽然我自己基本不用百度了，但还是被逗乐了。<br>（同事抓头解决bug时搜索的结果）<br><img src="https://cdnv2.ruguoapp.com/Fm-X2Wep5M7l1jE06LX0o5YB5FbCv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 03 Sep 2022 08:58:00 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/631317185565942fe16d5b91</guid>
-            <link>https://m.okjike.com/originalPosts/631317185565942fe16d5b91</link>
-            
-            
-            
-            <author><![CDATA[橘子了没]]></author>
             
                 
             
