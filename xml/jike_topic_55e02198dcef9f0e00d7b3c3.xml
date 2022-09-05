@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 05 Sep 2022 16:29:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 20:22:27 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[由于3D和2D算法差别不大，所以顺手把3D的碰撞检测也写了。 分成了两个库：上班时写3D的，因为公司项目会用到；下班时写2D的，因为自己项目会用到。]]></title>
+            <description><![CDATA[<span>用户昵称：不入门Shader不改名 <br> Username：C027E21D-DFD6-4F88-AF40-31871E1FB6F4</span><br><br>由于3D和2D算法差别不大，所以顺手把3D的碰撞检测也写了。<br>分成了两个库：上班时写3D的，因为公司项目会用到；下班时写2D的，因为自己项目会用到。<br><video src="https://videocdn.jellow.site/loPwesXN5BjDnthk_CqVDbMiKgeX.mp4?sign=913bfeabf0ab14539f009b68cdf39453&amp;t=6316618b" controls=""></video>]]></description>
+            <pubDate>Mon, 05 Sep 2022 14:00:53 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63160115d4818ee92b61e21a</guid>
+            <link>https://m.okjike.com/originalPosts/63160115d4818ee92b61e21a</link>
+            
+            
+            
+            <author><![CDATA[不入门Shader不改名]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[实力超群漂亮姐姐：https://bio.link/pokecoder]]></title>
@@ -42,7 +58,7 @@
         
         <item>
             <title><![CDATA[大概三年前写了一个4000行的ray tracer和抗锯齿，我现在还清晰得记得当时有个即友评论说我吃饱了没事干，现成的那么多还自己写干嘛，今年花了半年从main.cpp开始...]]></title>
-            <description><![CDATA[<span>用户昵称：橘猫儿Leo <br> Username：D8D1DAF0-EA6C-4520-94E3-BFE4F62E3937</span><br><br>大概三年前写了一个4000行的ray tracer和抗锯齿，我现在还清晰得记得当时有个即友评论说我吃饱了没事干，现成的那么多还自己写干嘛，今年花了半年从main.cpp开始写了一个游戏引擎，哈哈哈哈哈哈哈<br><video src="https://videocdn.jellow.site/lonGn7sLvPTjJBYH-yWLDm1xCEM5.mp4?sign=5cb85783a658a6abcdb835a42b221c00&amp;t=63162af9" controls=""></video>]]></description>
+            <description><![CDATA[<span>用户昵称：橘猫儿Leo <br> Username：D8D1DAF0-EA6C-4520-94E3-BFE4F62E3937</span><br><br>大概三年前写了一个4000行的ray tracer和抗锯齿，我现在还清晰得记得当时有个即友评论说我吃饱了没事干，现成的那么多还自己写干嘛，今年花了半年从main.cpp开始写了一个游戏引擎，哈哈哈哈哈哈哈<br><video src="https://videocdn.jellow.site/lonGn7sLvPTjJBYH-yWLDm1xCEM5.mp4?sign=51f8f41149d0e9cb47ab3aabc8c96a7e&amp;t=6316618b" controls=""></video>]]></description>
             <pubDate>Sun, 04 Sep 2022 21:46:13 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/63151ca5d4818ee92b48d21b</guid>
             <link>https://m.okjike.com/originalPosts/63151ca5d4818ee92b48d21b</link>
@@ -50,22 +66,6 @@
             
             
             <author><![CDATA[橘猫儿Leo]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[本周末完成： 0. 2D 定点数物理引擎架构 1. Gizmos绘制：Box/Circle 2. AABB 与 AABB 碰撞检测 3. AABB 与 OBB 碰撞检测 4. OBB 与 OBB 碰撞检测 5. Circle 与 A...]]></title>
-            <description><![CDATA[<span>用户昵称：不入门Shader不改名 <br> Username：C027E21D-DFD6-4F88-AF40-31871E1FB6F4</span><br><br>本周末完成：<br>0. 2D 定点数物理引擎架构<br>1. Gizmos绘制：Box/Circle<br>2. AABB 与 AABB 碰撞检测<br>3. AABB 与 OBB 碰撞检测<br>4. OBB 与 OBB 碰撞检测<br>5. Circle 与 AABB 碰撞检测<br>6. Circle 与 OBB 碰撞检测<br><video src="https://videocdn.jellow.site/FvYa1tBh1qKYdjHjExcDu0l6ZSV4.mp4?sign=f0a058be824e634e65db37c24cd5b167&amp;t=63162ae5" controls=""></video>]]></description>
-            <pubDate>Sun, 04 Sep 2022 14:45:16 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6314b9fcde6c42f6751fdad7</guid>
-            <link>https://m.okjike.com/originalPosts/6314b9fcde6c42f6751fdad7</link>
-            
-            
-            
-            <author><![CDATA[不入门Shader不改名]]></author>
             
                 
             
