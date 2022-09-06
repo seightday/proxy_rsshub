@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 06 Sep 2022 05:37:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 08:28:29 GMT</lastBuildDate>
         <ttl>1</ttl>
         
         <item>
@@ -34,6 +34,22 @@
             
             
             <author><![CDATA[阿法兔]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[无题]]></title>
+            <description><![CDATA[<span>用户昵称：麦基洗德 <br> Username：86BB19AA-4168-4309-A288-E883FADF23EA</span><br><br><br><img src="https://cdnv2.ruguoapp.com/Fvqa1GD4BztE5t3ub6zGSIzxsW3qv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 06 Sep 2022 01:27:03 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6316a1e75565942fe1c3fba2</guid>
+            <link>https://m.okjike.com/originalPosts/6316a1e75565942fe1c3fba2</link>
+            
+            
+            
+            <author><![CDATA[麦基洗德]]></author>
             
                 
             
@@ -58,7 +74,7 @@
         
         <item>
             <title><![CDATA[由于3D和2D算法差别不大，所以顺手把3D的碰撞检测也写了。 分成了两个库：上班时写3D的，因为公司项目会用到；下班时写2D的，因为自己项目会用到。]]></title>
-            <description><![CDATA[<span>用户昵称：陈_杰克有茶 <br> Username：C027E21D-DFD6-4F88-AF40-31871E1FB6F4</span><br><br>由于3D和2D算法差别不大，所以顺手把3D的碰撞检测也写了。<br>分成了两个库：上班时写3D的，因为公司项目会用到；下班时写2D的，因为自己项目会用到。<br><video src="https://videocdn.jellow.site/loPwesXN5BjDnthk_CqVDbMiKgeX.mp4?sign=ed276ce42279a34bccadad2e9cc5eeca&amp;t=6316e39b" controls=""></video>]]></description>
+            <description><![CDATA[<span>用户昵称：陈_杰克有茶 <br> Username：C027E21D-DFD6-4F88-AF40-31871E1FB6F4</span><br><br>由于3D和2D算法差别不大，所以顺手把3D的碰撞检测也写了。<br>分成了两个库：上班时写3D的，因为公司项目会用到；下班时写2D的，因为自己项目会用到。<br><video src="https://videocdn.jellow.site/loPwesXN5BjDnthk_CqVDbMiKgeX.mp4?sign=067147098e14196be61e0780a32d98fa&amp;t=63170964" controls=""></video>]]></description>
             <pubDate>Mon, 05 Sep 2022 14:00:53 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/63160115d4818ee92b61e21a</guid>
             <link>https://m.okjike.com/originalPosts/63160115d4818ee92b61e21a</link>
@@ -74,7 +90,7 @@
         
         <item>
             <title><![CDATA[大概三年前写了一个4000行的ray tracer和抗锯齿，我现在还清晰得记得当时有个即友评论说我吃饱了没事干，现成的那么多还自己写干嘛，今年花了半年从main.cpp开始...]]></title>
-            <description><![CDATA[<span>用户昵称：橘猫儿Leo <br> Username：D8D1DAF0-EA6C-4520-94E3-BFE4F62E3937</span><br><br>大概三年前写了一个4000行的ray tracer和抗锯齿，我现在还清晰得记得当时有个即友评论说我吃饱了没事干，现成的那么多还自己写干嘛，今年花了半年从main.cpp开始写了一个游戏引擎，哈哈哈哈哈哈哈<br><video src="https://videocdn.jellow.site/lonGn7sLvPTjJBYH-yWLDm1xCEM5.mp4?sign=d3a3812f82be3f7a402af1a3a428a698&amp;t=6316e39b" controls=""></video>]]></description>
+            <description><![CDATA[<span>用户昵称：橘猫儿Leo <br> Username：D8D1DAF0-EA6C-4520-94E3-BFE4F62E3937</span><br><br>大概三年前写了一个4000行的ray tracer和抗锯齿，我现在还清晰得记得当时有个即友评论说我吃饱了没事干，现成的那么多还自己写干嘛，今年花了半年从main.cpp开始写了一个游戏引擎，哈哈哈哈哈哈哈<br><video src="https://videocdn.jellow.site/lonGn7sLvPTjJBYH-yWLDm1xCEM5.mp4?sign=ef4bc2e2e4f183e4d06e2eea43bec544&amp;t=63170964" controls=""></video>]]></description>
             <pubDate>Sun, 04 Sep 2022 21:46:13 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/63151ca5d4818ee92b48d21b</guid>
             <link>https://m.okjike.com/originalPosts/63151ca5d4818ee92b48d21b</link>
@@ -82,22 +98,6 @@
             
             
             <author><![CDATA[橘猫儿Leo]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[前几天在想，现在有没有一款js框架，能直接用js声明界面元素，而不用HTML或css。今早就看到p5.js （https://p5js.org/） 同时也在想，有没有一个能部署到github ...]]></title>
-            <description><![CDATA[<span>用户昵称：黄健楸 <br> Username：EA8FE109-3ACB-4641-98C8-B7D61EDD8637</span><br><br>前几天在想，现在有没有一款js框架，能直接用js声明界面元素，而不用HTML或css。今早就看到p5.js （https://p5js.org/）<br><br>同时也在想，有没有一个能部署到github pages的在线playground，而不需要后端处理用户输入的代码。发现jupyterlite ，一个浏览器自运行的jupyterlab。不仅能运行python，而且能运行js，还用p5.js <br><br>再一想，如果能组合这些技术组件，可以写一个面向初中生以上的人的JS或Python教程——初学者不用处理安装语言环境的问题，就能学习基本语法并制作可交互应用。提供教程的人也不用自己搭服务器。呃，我先看看有没人做了类似的活<br><br>此外，这个过程中，发现近年来涌现不少网页IDE或Playground，比如Svelte、Vue、p5.js、robotframework官网都有playground，Svelte还有俩；再如stackblitz.com貌似把node.js“放到”浏览器；还有natto.dev、godbolt.org这种靠后端解析的。就算不提虚机，都有很多地方值得进一步研究<br><img src="https://cdnv2.ruguoapp.com/FoTEKTxiHe60py5s5jlhkDpqZzn0v3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FkoGbiAsnjbgzVkY1ZFKj4s7VvkGv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FqNGCDTC5LVWKFV5_x9g0SoSb5Ffv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sun, 04 Sep 2022 02:40:31 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6314101fde6c42f6750c7233</guid>
-            <link>https://m.okjike.com/originalPosts/6314101fde6c42f6750c7233</link>
-            
-            
-            
-            <author><![CDATA[黄健楸]]></author>
             
                 
             
