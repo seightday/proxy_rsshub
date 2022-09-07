@@ -21,12 +21,12 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 07 Sep 2022 05:40:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 08:29:42 GMT</lastBuildDate>
         <ttl>1</ttl>
         
         <item>
             <title><![CDATA[Obsidian，可能是最适合做知识库的软件 —— 配置好的Obsidian，与刚开始接触的Obsidian，看起来完全像两个不同的东西。 刚开始用的时候，我不禁疑惑：就这？网...]]></title>
-            <description><![CDATA[<span>用户昵称：朴禅郑仁 <br> Username：08105272-cb94-40bf-8df6-feaa50fa1be9</span><br><br>Obsidian，可能是最适合做知识库的软件<br><br>——<br><br>配置好的Obsidian，与刚开始接触的Obsidian，看起来完全像两个不同的东西。<br><br>刚开始用的时候，我不禁疑惑：就这？网上很多人称赞，但我觉得这不就一Markdown编辑器吗，连Typora都不如。<br><br>但是配置好之后，我觉得Obsidian可以替代掉印象笔记、为知笔记、Zim Wiki、Notion、思源笔记、Tiddlywiki、Logseq、org-mode了。（当然，其他软件也都各有特色，各有绝活。）<br><br>——<br><br>所谓“配置好了”是指：<br><br>01. 主题：极简风格的Minimal，选择浅色模式。<br><br>02. Snippets：用了21个CSS代码片段来为Minimal主题作补充。<br><br>03. 字体：界面字体和正文字体均为霞鹜文楷，代码字体为Source Code Pro。<br><br>04. 编辑框显示行号，文档末尾显示反链。<br><br>05. 设置官方自带的核心插件。<br><br>06. 装一些第三方插件，比如outliner、advanced table、collapse all、memos、recent files、checklist，不用太多，30个左右。<br><br>07. 第三方插件中，尤其要学习的是templater、quickadd、dataview的用法，这三个插件很强大。<br><br>08. 设置面板布局，不同的布局保存为不同的工作区。<br><br>09. 设定好笔记分类结构和标签分类结构。<br><br>10. 设置homepage、新建笔记、日记、时间戳卡片、memos、模板、附件分别放置的文件夹。<br><br>11. 设置新建笔记、日记、时间戳卡片，以及其他笔记的模板。<br><br>12. 设置一个文件夹，专门放各种索引/MOCs 其中homepage作为总的索引页，一个MOC就是一个主题清单，专门管理一个细分主题所属笔记的链接。<br><br>13. 面板布局分为左中右，左为星标/目录/标签/搜索/最新，都是为了方便找到文档，其中星标放在目录前，因为有一些笔记需要长期编辑。<br><br>14. 面板布局中间是编辑框，最右侧分上下，上为大纲/反链/出链/图谱/task/日历，下为memos（锁定位置）。<br><br>15. 设置快捷键，把最顺手的一些快捷键组合，分配给你在Obsidian中最高频的一些操作。<br><br>16. 用git备份。<br><br>17. 购买官方提供的同步服务和发布服务。（当然，不想购买这两个付费服务，也有免费的解决方案。）<br><br>18. 手机上安装Obsidian App。<br><br>19. 电脑浏览器安装剪藏插件，可以剪藏网页为markdown格式保存到Obsidian。<br><br>20. 用Obsidian Pulish发布一个网站，可以当作博客用。<br><br>——<br><br>拿上面提到的几款软件和Obsidian两两PK，会发现Obsidian不是完美的，但是综合来看最能打：markdown语法、双链、本地存储、官方有同步服务、插件多主题多方便配置、社区强大、树状文件目录、长文档兼容大纲笔记、一键导出为PDF、通过快捷键设置可以几乎全键盘操作、用官方发布服务很容易建个人网站...其他软件不是这个做不到，就是那个做不到。<br><img src="https://cdnv2.ruguoapp.com/FlEa20kTz6q5Oxbh1aBUGNmncVymv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[<span>用户昵称：朴禅郑仁 <br> Username：08105272-cb94-40bf-8df6-feaa50fa1be9</span><br><br>Obsidian，可能是最适合做知识库的软件<br><br>——<br><br>配置好的Obsidian，与刚开始接触的Obsidian，看起来完全像两个不同的东西。<br><br>刚开始用的时候，我不禁疑惑：就这？网上很多人称赞，但我觉得这不就一Markdown编辑器吗，连Typora都不如。<br><br>但是配置好之后，我觉得Obsidian可以替代掉印象笔记、为知笔记、Zim Wiki、Notion、思源笔记、Tiddlywiki、Logseq、org-mode了。（当然，其他软件也都各有特色，各有绝活。）<br><br>——<br><br>所谓“配置好了”是指：<br><br>01. 主题：极简风格的Minimal，选择浅色模式。<br><br>02. Snippets：用了21个CSS代码片段来为Minimal主题作补充。<br><br>03. 字体：界面字体和正文字体均为霞鹜文楷，代码字体为Source Code Pro。<br><br>04. 编辑框显示行号，文档末尾显示反链。<br><br>05. 设置官方自带的核心插件。<br><br>06. 装一些第三方插件，比如outliner、advanced table、collapse all、memos、recent files、checklist，不用太多，30个左右。<br><br>07. 第三方插件中，尤其要学习的是templater、quickadd、dataview的用法，这三个插件很强大。<br><br>08. 设置面板布局，不同的布局保存为不同的工作区。<br><br>09. 设定好笔记分类结构和标签分类结构。<br><br>10. 设置homepage、新建笔记、日记、时间戳卡片、memos、模板、附件分别放置的文件夹。<br><br>11. 设置新建笔记、日记、时间戳卡片，以及其他笔记的模板。<br><br>12. 设置一个文件夹，专门放各种索引/MOCs 其中homepage作为总的索引页，一个MOC就是一个主题清单，专门管理一个细分主题所属笔记的链接。<br><br>13. 面板布局分为左中右，左为星标/目录/标签/搜索/最新，都是为了方便找到文档，其中星标放在目录前，因为有一些笔记需要长期编辑。<br><br>14. 面板布局中间是编辑框，最右侧分上下，上为大纲/反链/出链/图谱/task/日历，下为memos（锁定位置）。<br><br>15. 设置快捷键，把最顺手的一些快捷键组合，分配给你在Obsidian中最高频的一些操作。<br><br>16. 用git备份。<br><br>17. 购买官方提供的同步服务和发布服务。（当然，不想购买这两个付费服务，也有免费的解决方案。）<br><br>18. 手机上安装Obsidian App。<br><br>19. 电脑浏览器安装剪藏插件，可以剪藏网页为markdown格式保存到Obsidian。<br><br>20. 用Obsidian Pulish发布一个网站，可以当作博客用。<br><br>——<br><br>拿上面提到的几款软件和Obsidian两两PK，会发现Obsidian不是完美的，但是综合来看最能打：markdown语法、双链、本地存储、官方有同步服务、插件多主题多方便配置、社区强大、树状文件目录、长文档兼容大纲笔记、一键导出为PDF、通过快捷键设置可以几乎全键盘操作、用官方发布服务很容易建个人网站...其他软件不是这个做不到，就是那个做不到。<br><br>——<br><br>一种IPO（输入-处理-输出）方案：<br><br>电脑记闪念：Obsidian Memos插件<br>手机记闪念：滴答清单<br>闪念整理为卡片+写长文：Obsidian<br>手机上查看Obsidian：坚果云（免费方案）<br>手机上查看Obsidian：Obsidian同步服务（付费方案）<br>剪藏文章：Cubox<br>对外分享文章或团队协作：飞书（飞书文档/飞书知识库/飞书妙记）<br><br>Obsidian的文章，复制到飞书文档不用调格式，【而Logseq的文章或思源笔记的文章，复制粘贴到飞书文档中，格式还需要再调整】，所以如果工作中需要用飞书，Obsidian更适合与飞书联用。<br><br>——<br><br>关于笔记软件和知识管理，还可以参考这一篇：<br><br>→ https://m.okjike.com/originalPosts/62b9c3cb2c5643956663f412?s=eyJ1IjoiNWVlMDYwZjBiOGNmZWEwMDE3N2JjNGE5In0%3D<br><img src="https://cdnv2.ruguoapp.com/FlEa20kTz6q5Oxbh1aBUGNmncVymv3.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Tue, 06 Sep 2022 23:54:01 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6317dd9989e1f3feb56f30b2</guid>
             <link>https://m.okjike.com/originalPosts/6317dd9989e1f3feb56f30b2</link>
@@ -106,7 +106,7 @@
         
         <item>
             <title><![CDATA[大概三年前写了一个4000行的ray tracer和抗锯齿，我现在还清晰得记得当时有个即友评论说我吃饱了没事干，现成的那么多还自己写干嘛，今年花了半年从main.cpp开始...]]></title>
-            <description><![CDATA[<span>用户昵称：橘猫儿Leo <br> Username：D8D1DAF0-EA6C-4520-94E3-BFE4F62E3937</span><br><br>大概三年前写了一个4000行的ray tracer和抗锯齿，我现在还清晰得记得当时有个即友评论说我吃饱了没事干，现成的那么多还自己写干嘛，今年花了半年从main.cpp开始写了一个游戏引擎，哈哈哈哈哈哈哈<br><video src="https://videocdn.jellow.site/lonGn7sLvPTjJBYH-yWLDm1xCEM5.mp4?sign=ae8d794638ec4c8232a1240f80929cd9&amp;t=631835eb" controls=""></video>]]></description>
+            <description><![CDATA[<span>用户昵称：橘猫儿Leo <br> Username：D8D1DAF0-EA6C-4520-94E3-BFE4F62E3937</span><br><br>大概三年前写了一个4000行的ray tracer和抗锯齿，我现在还清晰得记得当时有个即友评论说我吃饱了没事干，现成的那么多还自己写干嘛，今年花了半年从main.cpp开始写了一个游戏引擎，哈哈哈哈哈哈哈<br><video src="https://videocdn.jellow.site/lonGn7sLvPTjJBYH-yWLDm1xCEM5.mp4?sign=a479f77e95b92ee85d86232680363c58&amp;t=63185d7e" controls=""></video>]]></description>
             <pubDate>Sun, 04 Sep 2022 21:46:13 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/63151ca5d4818ee92b48d21b</guid>
             <link>https://m.okjike.com/originalPosts/63151ca5d4818ee92b48d21b</link>
@@ -114,6 +114,22 @@
             
             
             <author><![CDATA[橘猫儿Leo]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Toolhunt是针对开发者推出的高质量工具资讯，前端后端应有尽有，会定期整理某个维度的最佳工具集合，支持邮件订阅 https://www.toolhunt.dev/]]></title>
+            <description><![CDATA[<span>用户昵称：龙爪槐守望者 <br> Username：2FCBB59D-93C2-488A-AFBD-38B70B267742</span><br><br>Toolhunt是针对开发者推出的高质量工具资讯，前端后端应有尽有，会定期整理某个维度的最佳工具集合，支持邮件订阅<br>https://www.toolhunt.dev/<br><img src="https://cdnv2.ruguoapp.com/FlrcqJIm8BjZovzpfuLt3bKSjS_3v3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sat, 03 Sep 2022 15:38:37 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/631374fd5565942fe17810c1</guid>
+            <link>https://m.okjike.com/originalPosts/631374fd5565942fe17810c1</link>
+            
+            
+            
+            <author><![CDATA[龙爪槐守望者]]></author>
             
                 
             
@@ -162,22 +178,6 @@
             
             
             <author><![CDATA[zxch3n]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[前段时间Astro 融资700w，deno融资2100w，bun 刚刚融了 700w美元，现在开源框架真的太能猛了，以后是不是能去开源厂上班了。🤣]]></title>
-            <description><![CDATA[<span>用户昵称：秋风_ <br> Username：1444E086-340D-466B-B2AB-307A6501B7BD</span><br><br>前段时间Astro 融资700w，deno融资2100w，bun 刚刚融了 700w美元，现在开源框架真的太能猛了，以后是不是能去开源厂上班了。🤣<br><img src="https://cdnv2.ruguoapp.com/Fk3sWr84LrQ6NYE8sgvIdHwloqh3v3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 24 Aug 2022 04:52:12 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6305ae7c3f54b4009e167cc4</guid>
-            <link>https://m.okjike.com/originalPosts/6305ae7c3f54b4009e167cc4</link>
-            
-            
-            
-            <author><![CDATA[秋风_]]></author>
             
                 
             
