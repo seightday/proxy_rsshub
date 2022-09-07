@@ -21,8 +21,40 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 06 Sep 2022 20:22:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 02:23:39 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[Obsidian，可能是最适合做知识库的软件 —— 配置好的Obsidian，与刚开始接触的Obsidian，看起来完全像两个不同的东西。 刚开始用的时候，我不禁疑惑：就这？网...]]></title>
+            <description><![CDATA[<span>用户昵称：朴禅郑仁 <br> Username：08105272-cb94-40bf-8df6-feaa50fa1be9</span><br><br>Obsidian，可能是最适合做知识库的软件<br><br>——<br><br>配置好的Obsidian，与刚开始接触的Obsidian，看起来完全像两个不同的东西。<br><br>刚开始用的时候，我不禁疑惑：就这？网上很多人称赞，但我觉得这不就一Markdown编辑器吗，连Typora都不如。<br><br>但是配置好之后，我觉得Obsidian可以替代掉印象笔记、为知笔记、Zim Wiki、Notion、思源笔记、Tiddlywiki、Logseq、org-mode了。（当然，其他软件也都各有特色，各有绝活。）<br><br>——<br><br>所谓“配置好了”是指：<br><br>01. 主题：极简风格的Minimal，选择浅色模式。<br><br>02. Snippets：用了21个CSS代码片段来为Minimal主题作补充。<br><br>03. 字体：界面字体和正文字体均为霞鹜文楷，代码字体为Source Code Pro。<br><br>04. 编辑框显示行号，文档末尾显示反链。<br><br>05. 设置官方自带的核心插件。<br><br>06. 装一些第三方插件，比如outliner、advanced table、collapse all、memos、recent files、checklist，不用太多，30个左右。<br><br>07. 第三方插件中，尤其要学习的是templater、quickadd、dataview的用法，这三个插件很强大。<br><br>08. 设置面板布局，不同的布局保存为不同的工作区。<br><br>09. 设定好笔记分类结构和标签分类结构。<br><br>10. 设置homepage、新建笔记、日记、时间戳卡片、memos、模板、附件分别放置的文件夹。<br><br>11. 设置新建笔记、日记、时间戳卡片，以及其他笔记的模板。<br><br>12. 设置一个文件夹，专门放各种索引/MOCs 其中homepage作为总的索引页，一个MOC就是一个主题清单，专门管理一个细分主题所属笔记的链接。<br><br>13. 面板布局分为左中右，左为星标/目录/标签/搜索/最新，都是为了方便找到文档，其中星标放在目录前，因为有一些笔记需要长期编辑。<br><br>14. 面板布局中间是编辑框，最右侧分上下，上为大纲/反链/出链/图谱/task/日历，下为memos（锁定位置）。<br><br>15. 设置快捷键，把最顺手的一些快捷键组合，分配给你在Obsidian中最高频的一些操作。<br><br>16. 用git备份。<br><br>17. 购买官方提供的同步服务和发布服务。（当然，不想购买这两个付费服务，也有免费的解决方案。）<br><br>18. 手机上安装Obsidian App。<br><br>19. 电脑浏览器安装剪藏插件，可以剪藏网页为markdown格式保存到Obsidian。<br><br>20. 用Obsidian Pulish发布一个网站，可以当作博客用。<br><br>——<br><br>拿上面提到的几款软件和Obsidian两两PK，会发现Obsidian不是完美的，但是综合来看最能打：markdown语法、双链、本地存储、官方有同步服务、插件多主题多方便配置、社区强大、树状文件目录、长文档兼容大纲笔记、一键导出为PDF、通过快捷键设置可以几乎全键盘操作、用官方发布服务很容易建个人网站...其他软件不是这个做不到，就是那个做不到。<br><img src="https://cdnv2.ruguoapp.com/FlEa20kTz6q5Oxbh1aBUGNmncVymv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 06 Sep 2022 23:54:01 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6317dd9989e1f3feb56f30b2</guid>
+            <link>https://m.okjike.com/originalPosts/6317dd9989e1f3feb56f30b2</link>
+            
+            
+            
+            <author><![CDATA[朴禅郑仁]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[周六帮领导面试前端，简历是一家人力资源推过来的，一共面试了14个，js基础知识（原型，this这些）能回答的就一两个，async/await怎么捕获异常2/3的人答不出来，...]]></title>
+            <description><![CDATA[<span>用户昵称：uccs <br> Username：e316c46b-a18d-46e2-a3f4-4e634fdde256</span><br><br>周六帮领导面试前端，简历是一家人力资源推过来的，一共面试了14个，js基础知识（原型，this这些）能回答的就一两个，async/await怎么捕获异常2/3的人答不出来，好，不问 js 基础，那项目中都用的vue，就问 vue 吧，vue 基础使用（包括vue3）能答80分以上的，一半人左右，再问下react+ts 的基本使用，又是一半人答不上来，所有问题不涉及到原理或源码，问他们期望薪资，在15-16k区间。<br>这种水平，给10k我都嫌多，还有他们简历中写的年限（4年居多）➗2，我都嫌菜，是谁给他们的勇气，要这么高薪水。<br>最后筛选了他们中最好的两个人，一个是 js、ts、react、vue 问题基本都答对。另一个是除了ts不会，其他也基本都答对，他给我印象最深刻的是，写了好多慕课网的项目，每个项目都做了详细笔记。<br>ps：坐标上海，我是4年前端]]></description>
+            <pubDate>Tue, 06 Sep 2022 14:53:12 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63175ed885cf40de4a063f7c</guid>
+            <link>https://m.okjike.com/originalPosts/63175ed885cf40de4a063f7c</link>
+            
+            
+            
+            <author><![CDATA[uccs]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[微软：没点实力已经没法注册了… 哈哈哈哈]]></title>
@@ -57,40 +89,8 @@
         </item>
         
         <item>
-            <title><![CDATA[🌟💤]]></title>
-            <description><![CDATA[<span>用户昵称：阿法兔 <br> Username：9CCE6435-0766-487E-BF96-8B3953A343DE</span><br><br>🌟💤<br><img src="https://cdnv2.ruguoapp.com/FuawwXeYYQfLavS3QS4UhWPhZpLdv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 05 Sep 2022 15:18:13 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63161335f9b525be9fc836c4</guid>
-            <link>https://m.okjike.com/originalPosts/63161335f9b525be9fc836c4</link>
-            
-            
-            
-            <author><![CDATA[阿法兔]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[由于3D和2D算法差别不大，所以顺手把3D的碰撞检测也写了。 分成了两个库：上班时写3D的，因为公司项目会用到；下班时写2D的，因为自己项目会用到。]]></title>
-            <description><![CDATA[<span>用户昵称：陈_杰克有茶 <br> Username：C027E21D-DFD6-4F88-AF40-31871E1FB6F4</span><br><br>由于3D和2D算法差别不大，所以顺手把3D的碰撞检测也写了。<br>分成了两个库：上班时写3D的，因为公司项目会用到；下班时写2D的，因为自己项目会用到。<br><video src="https://videocdn.jellow.site/loPwesXN5BjDnthk_CqVDbMiKgeX.mp4?sign=2907a0aad17bbe06ad524f697d1b9085&amp;t=6317b1b0" controls=""></video>]]></description>
-            <pubDate>Mon, 05 Sep 2022 14:00:53 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63160115d4818ee92b61e21a</guid>
-            <link>https://m.okjike.com/originalPosts/63160115d4818ee92b61e21a</link>
-            
-            
-            
-            <author><![CDATA[陈_杰克有茶]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[大概三年前写了一个4000行的ray tracer和抗锯齿，我现在还清晰得记得当时有个即友评论说我吃饱了没事干，现成的那么多还自己写干嘛，今年花了半年从main.cpp开始...]]></title>
-            <description><![CDATA[<span>用户昵称：橘猫儿Leo <br> Username：D8D1DAF0-EA6C-4520-94E3-BFE4F62E3937</span><br><br>大概三年前写了一个4000行的ray tracer和抗锯齿，我现在还清晰得记得当时有个即友评论说我吃饱了没事干，现成的那么多还自己写干嘛，今年花了半年从main.cpp开始写了一个游戏引擎，哈哈哈哈哈哈哈<br><video src="https://videocdn.jellow.site/lonGn7sLvPTjJBYH-yWLDm1xCEM5.mp4?sign=3e7aa1a40a9e3577ca0c42ce910f994c&amp;t=6317b1b0" controls=""></video>]]></description>
+            <description><![CDATA[<span>用户昵称：橘猫儿Leo <br> Username：D8D1DAF0-EA6C-4520-94E3-BFE4F62E3937</span><br><br>大概三年前写了一个4000行的ray tracer和抗锯齿，我现在还清晰得记得当时有个即友评论说我吃饱了没事干，现成的那么多还自己写干嘛，今年花了半年从main.cpp开始写了一个游戏引擎，哈哈哈哈哈哈哈<br><video src="https://videocdn.jellow.site/lonGn7sLvPTjJBYH-yWLDm1xCEM5.mp4?sign=af54389e986dd814db13f8ec8343aa58&amp;t=6318063f" controls=""></video>]]></description>
             <pubDate>Sun, 04 Sep 2022 21:46:13 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/63151ca5d4818ee92b48d21b</guid>
             <link>https://m.okjike.com/originalPosts/63151ca5d4818ee92b48d21b</link>
