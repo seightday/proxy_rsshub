@@ -21,8 +21,40 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 07 Sep 2022 08:29:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 12:45:56 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[完成： Ray → Sphere 也是光追的基础算法。]]></title>
+            <description><![CDATA[<span>用户昵称：陈_杰克有茶 <br> Username：C027E21D-DFD6-4F88-AF40-31871E1FB6F4</span><br><br>完成：<br>Ray → Sphere<br><br>也是光追的基础算法。<br><video src="https://videocdn.jellow.site/FhWl4Mf5smBjgd1y9PRvhHNCgYMY.mp4?sign=1e196409763f98e4e35da3037380fd7e&amp;t=6318995b" controls=""></video>]]></description>
+            <pubDate>Wed, 07 Sep 2022 09:21:29 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/631862993c896988ba935e55</guid>
+            <link>https://m.okjike.com/originalPosts/631862993c896988ba935e55</link>
+            
+            
+            
+            <author><![CDATA[陈_杰克有茶]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[#个人观点#睡后收入 搞了半年独立开发，我对睡后收入的又多了一份理解。睡后收入这种模式，减少了交易环节中的沟通和交付成本，可以让人专注产品本身，让一人企...]]></title>
+            <description><![CDATA[<span>用户昵称：DeckardCain <br> Username：6319930F-A28D-4C2E-A62A-B6E5A005381F</span><br><br>#个人观点#睡后收入 <br><br>搞了半年独立开发，我对睡后收入的又多了一份理解。睡后收入这种模式，减少了交易环节中的沟通和交付成本，可以让人专注产品本身，让一人企业模式成为可能。<br><br>一开始我对睡后收入的理解是，哇自动打钱，好酷啊！每天300，一个月9000，一年10万副业可太牛叉了！我在单位可以摆烂了！<br><br>但是做下来，渠道的拓展，竞对的冲击，产品的迭代……头发掉了不少，钱也没挣多少，可能还不如做外包来的钱多！<br><br>但是，通过发现需求，设计解决方案，实现上线，反馈迭代，完成了整个商业变现模式的闭环，可以让人在赚钱认知，学习能力上得到巨大提升！<br><br>虽然不知道这些能力能否带来更多的收入，但是目前来看还是比较有意思。<br><br>虽然，真的很难做啊！<br><img src="https://cdnv2.ruguoapp.com/FtUxWhpyE0AP-oa1RDQ59OPY9jzRv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 07 Sep 2022 02:56:33 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63180861d4818ee92b921b2e</guid>
+            <link>https://m.okjike.com/originalPosts/63180861d4818ee92b921b2e</link>
+            
+            
+            
+            <author><![CDATA[DeckardCain]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[Obsidian，可能是最适合做知识库的软件 —— 配置好的Obsidian，与刚开始接触的Obsidian，看起来完全像两个不同的东西。 刚开始用的时候，我不禁疑惑：就这？网...]]></title>
@@ -98,38 +130,6 @@
             
             
             <author><![CDATA[麦基洗德]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[大概三年前写了一个4000行的ray tracer和抗锯齿，我现在还清晰得记得当时有个即友评论说我吃饱了没事干，现成的那么多还自己写干嘛，今年花了半年从main.cpp开始...]]></title>
-            <description><![CDATA[<span>用户昵称：橘猫儿Leo <br> Username：D8D1DAF0-EA6C-4520-94E3-BFE4F62E3937</span><br><br>大概三年前写了一个4000行的ray tracer和抗锯齿，我现在还清晰得记得当时有个即友评论说我吃饱了没事干，现成的那么多还自己写干嘛，今年花了半年从main.cpp开始写了一个游戏引擎，哈哈哈哈哈哈哈<br><video src="https://videocdn.jellow.site/lonGn7sLvPTjJBYH-yWLDm1xCEM5.mp4?sign=a479f77e95b92ee85d86232680363c58&amp;t=63185d7e" controls=""></video>]]></description>
-            <pubDate>Sun, 04 Sep 2022 21:46:13 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63151ca5d4818ee92b48d21b</guid>
-            <link>https://m.okjike.com/originalPosts/63151ca5d4818ee92b48d21b</link>
-            
-            
-            
-            <author><![CDATA[橘猫儿Leo]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Toolhunt是针对开发者推出的高质量工具资讯，前端后端应有尽有，会定期整理某个维度的最佳工具集合，支持邮件订阅 https://www.toolhunt.dev/]]></title>
-            <description><![CDATA[<span>用户昵称：龙爪槐守望者 <br> Username：2FCBB59D-93C2-488A-AFBD-38B70B267742</span><br><br>Toolhunt是针对开发者推出的高质量工具资讯，前端后端应有尽有，会定期整理某个维度的最佳工具集合，支持邮件订阅<br>https://www.toolhunt.dev/<br><img src="https://cdnv2.ruguoapp.com/FlrcqJIm8BjZovzpfuLt3bKSjS_3v3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 03 Sep 2022 15:38:37 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/631374fd5565942fe17810c1</guid>
-            <link>https://m.okjike.com/originalPosts/631374fd5565942fe17810c1</link>
-            
-            
-            
-            <author><![CDATA[龙爪槐守望者]]></author>
             
                 
             
