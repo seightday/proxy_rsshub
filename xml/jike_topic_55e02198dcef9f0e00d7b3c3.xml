@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 15 Sep 2022 05:24:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 08:32:12 GMT</lastBuildDate>
         <ttl>1</ttl>
         
         <item>
@@ -66,6 +66,22 @@
             
             
             <author><![CDATA[Tolecen]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[又写了一篇关于绘画的文章，这个教程里不仅包含了text2img ，还有img2img，人像修复，图像清晰化。利用的是开源项目webui 和 colab 。]]></title>
+            <description><![CDATA[<span>用户昵称：秋风_ <br> Username：1444E086-340D-466B-B2AB-307A6501B7BD</span><br><br>                    <img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gibGQibkduDnBMsSqsHia8Q7zISytVAcQ5eEQDtgtaiaCOvnmTyiaq6icMolVxgcibqCLJoEFEuPgZtSLYp64ribV226UA/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>                    <a href="https://mp.weixin.qq.com/s/2H1gCoOVBK89dIhEqoTQmA">用Colab免费部署自己的AI绘画云平台—— Stable Diffusion</a><br>                <br>又写了一篇关于绘画的文章，这个教程里不仅包含了text2img ，还有img2img，人像修复，图像清晰化。利用的是开源项目webui 和 colab 。]]></description>
+            <pubDate>Tue, 13 Sep 2022 06:31:14 GMT</pubDate>
+            <guid isPermaLink="false">https://mp.weixin.qq.com/s/2H1gCoOVBK89dIhEqoTQmA</guid>
+            <link>https://mp.weixin.qq.com/s/2H1gCoOVBK89dIhEqoTQmA</link>
+            
+            
+            
+            <author><![CDATA[秋风_]]></author>
             
                 
             
@@ -162,22 +178,6 @@
             
             
             <author><![CDATA[即刻Engineering]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[翻译了 Local-first software。原文是深度好文，一作是 DDIA 的作者，文中指出了目前云应用普遍存在的问题「用户不再拥有自己的数据的控制权」，并指出了如何在...]]></title>
-            <description><![CDATA[<span>用户昵称：zxch3n <br> Username：7E452F9D-89B4-400B-AE1A-9C62A988AE53</span><br><br>                    <img src="https://pic4.zhimg.com/v2-7d531a35f7e4dcd4127e188df9be6f3f_xs.jpg?source=172ae18b" referrerpolicy="no-referrer"><br>                    <a href="https://zhuanlan.zhihu.com/p/557353347">【译】本地优先软件 Local-first software</a><br>                <br>翻译了 Local-first software。原文是深度好文，一作是 DDIA 的作者，文中指出了目前云应用普遍存在的问题「用户不再拥有自己的数据的控制权」，并指出了如何在不损失用户体验的情况下重新「让用户掌握自己数据所属权」的可行路线。<br><br>原文距今已发表三年，我们可以看到越来越多 local-first 的软件和研究出现。随着相关技术的成熟在未来几年将会有大量的 local-first 的应用出现。但见中文社区还没有好的翻译，所以写了这篇。<br><br>对 local-first 或 CRDT 感兴趣的小伙伴欢迎私戳]]></description>
-            <pubDate>Wed, 24 Aug 2022 12:23:04 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63061828f5218f13d93a0f95</guid>
-            <link>https://m.okjike.com/originalPosts/63061828f5218f13d93a0f95</link>
-            
-            
-            
-            <author><![CDATA[zxch3n]]></author>
             
                 
             
