@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Fri, 16 Sep 2022 12:42:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 16:31:24 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[vitepress 最新的默认主题也太好看了吧。]]></title>
+            <description><![CDATA[<span>用户昵称：ourongxing <br> Username：7f422d5d-d79a-4f45-9880-b89d64d7f37a</span><br><br>vitepress 最新的默认主题也太好看了吧。<br><img src="https://cdnv2.ruguoapp.com/FrXfXaSCf65YzsgIl0oN_HrgK0RVv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 16 Sep 2022 04:00:00 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6323f4c0553522673bb98c0b</guid>
+            <link>https://m.okjike.com/originalPosts/6323f4c0553522673bb98c0b</link>
+            
+            
+            
+            <author><![CDATA[ourongxing]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[无题]]></title>
@@ -41,6 +57,22 @@
         </item>
         
         <item>
+            <title><![CDATA[.me 域名可以备案了]]></title>
+            <description><![CDATA[<span>用户昵称：哥飞 <br> Username：a2d6acc1-626f-4d15-a22a-849e88a4c9f0</span><br><br>.me 域名可以备案了<br><img src="https://cdnv2.ruguoapp.com/FmrlyQjzHRzu_ZkVq55fKbnhGjGvv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 16 Sep 2022 00:31:52 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6323c3f88b216e161ed6bec0</guid>
+            <link>https://m.okjike.com/originalPosts/6323c3f88b216e161ed6bec0</link>
+            
+            
+            
+            <author><![CDATA[哥飞]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[关于logseq/roam上的一个使用疑问：是否需要经常将Daily Note里的内容挪到Page里，并改成block embed？ 场景是：我默认会把笔记记录到Daily里，并关联Page。但未...]]></title>
             <description><![CDATA[<span>用户昵称：0neSe7en <br> Username：999E74E1-9743-41FB-B8F3-CB1777ABBA49</span><br><br>关于logseq/roam上的一个使用疑问：是否需要经常将Daily Note里的内容挪到Page里，并改成block embed？<br><br>场景是：我默认会把笔记记录到Daily里，并关联Page。但未来的某一天我需要修改这个内容时，是不是应该将它移到Page里再做后续的修改。<br>如果不这么做，要么在原始的Daily里修改，但我觉得我不应该修改过去日期的Daily Note。要么我在今天的Daily里补充，但这样1同一件事情会在Page里有两个reference，也很奇怪。]]></description>
             <pubDate>Thu, 15 Sep 2022 17:32:08 GMT</pubDate>
@@ -50,22 +82,6 @@
             
             
             <author><![CDATA[0neSe7en]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[试了下https://github.com/paddlepaddle/paddlehub里的几个模型，重点试了下text2image，对中文语义的理解和生成的图片质量有点惊喜啊，Prompt的输入生成方式太...]]></title>
-            <description><![CDATA[<span>用户昵称：Jet要出海 <br> Username：8607a7e8-2e5b-4553-95d4-99b54613f349</span><br><br>试了下https://github.com/paddlepaddle/paddlehub里的几个模型，重点试了下text2image，对中文语义的理解和生成的图片质量有点惊喜啊，Prompt的输入生成方式太像搜索引擎了，十分友好。但对人的生成处理不是很好，人体扭曲的错误率很高。<br>大家有了解英文的效果好的text2image的平台不，想拿来对比一下。<br><br>附几张生成的我最喜欢的和几张有bug感的<br><img src="https://cdnv2.ruguoapp.com/FhpfBuUcK3eylV3g55WDOhUCmfuiv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fj3NIdKrx3IAm1yJc8cT-MydPmxEv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FmI7zLZvcQidHt2hLuSiblX2sJJVv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FvKom967KEZDhQpMTuSFJeqxpUU_v3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FoyoezwMv5EIXzmYG3AUqpaUyRXNv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FoCZt_NXrguSxmh6MQqF0Zw6e4-Kv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FpJohzZH2Yc5h_DKMx5SqZ_-EimTv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 15 Sep 2022 03:01:48 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6322959c6df1593ca787cf02</guid>
-            <link>https://m.okjike.com/originalPosts/6322959c6df1593ca787cf02</link>
-            
-            
-            
-            <author><![CDATA[Jet要出海]]></author>
             
                 
             
@@ -114,22 +130,6 @@
             
             
             <author><![CDATA[秋风_]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[左右护法，保佑代码不出bug]]></title>
-            <description><![CDATA[<span>用户昵称：Coder_Arthas <br> Username：F63DD665-756E-4FB2-BB16-9A3C3E533E16</span><br><br>左右护法，保佑代码不出bug<br><img src="https://cdnv2.ruguoapp.com/Flv1FI2jL3svToIf-6wcG2EJRETrv3.heic" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 13 Sep 2022 06:08:42 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63201e6ae5d39a99bc68dd21</guid>
-            <link>https://m.okjike.com/originalPosts/63201e6ae5d39a99bc68dd21</link>
-            
-            
-            
-            <author><![CDATA[Coder_Arthas]]></author>
             
                 
             
