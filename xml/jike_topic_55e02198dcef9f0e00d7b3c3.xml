@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[JitHub程序员 - 即刻圈子]]></title>
         <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
-        <atom:link href="https://rsshub.rssforever.com/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
         <description><![CDATA[开发者们分享，问答，也可以交友的地方。欢迎所有工程师！ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -21,8 +21,8 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 26 Sep 2022 05:37:20 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Mon, 26 Sep 2022 08:31:52 GMT</lastBuildDate>
+        <ttl>1</ttl>
         
         <item>
             <title><![CDATA[114 Programming Fonts —— 在线测试最佳编程字体 链接：https://www.programmingfonts.org/ 左侧改变字体、参数和语言，可以在右侧看到字体在代码中显示的具体...]]></title>
@@ -42,7 +42,7 @@
         
         <item>
             <title><![CDATA[一样的游戏不一样的体验 quest2 see through]]></title>
-            <description><![CDATA[<span>用户昵称：NSWell <br> Username：954520B4-3BA4-44AC-9B41-B046770A245C</span><br><br>一样的游戏不一样的体验 quest2 see through<br><video src="https://videocdn.jellow.site/lpXhiFSQy0WhXFaiOZH7_VNfIjXR.mp4?sign=474bce0e049b3e0d2cb263f299806c95&amp;t=63313f40" controls=""></video>]]></description>
+            <description><![CDATA[<span>用户昵称：NSWell <br> Username：954520B4-3BA4-44AC-9B41-B046770A245C</span><br><br>一样的游戏不一样的体验 quest2 see through<br><video src="https://videocdn.jellow.site/lpXhiFSQy0WhXFaiOZH7_VNfIjXR.mp4?sign=a5fbbe6f079f0b078615bcd4dc8cb8a6&amp;t=63316935" controls=""></video>]]></description>
             <pubDate>Sun, 25 Sep 2022 07:10:50 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/632ffefaf873d51fbb6e161f</guid>
             <link>https://m.okjike.com/originalPosts/632ffefaf873d51fbb6e161f</link>
@@ -121,6 +121,22 @@
         </item>
         
         <item>
+            <title><![CDATA[哈哈哈]]></title>
+            <description><![CDATA[<span>用户昵称：信息论 <br> Username：Mellow</span><br><br>哈哈哈<br><img src="https://cdnv2.ruguoapp.com/FqVz2HC77vbh0PMPvhR5-3yUGNYtv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 22 Sep 2022 06:04:17 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/632bfae1553522673b7d97d1</guid>
+            <link>https://m.okjike.com/originalPosts/632bfae1553522673b7d97d1</link>
+            
+            
+            
+            <author><![CDATA[信息论]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[关于logseq/roam上的一个使用疑问：是否需要经常将Daily Note里的内容挪到Page里，并改成block embed？ 场景是：我默认会把笔记记录到Daily里，并关联Page。但未...]]></title>
             <description><![CDATA[<span>用户昵称：0neSe7en <br> Username：999E74E1-9743-41FB-B8F3-CB1777ABBA49</span><br><br>关于logseq/roam上的一个使用疑问：是否需要经常将Daily Note里的内容挪到Page里，并改成block embed？<br><br>场景是：我默认会把笔记记录到Daily里，并关联Page。但未来的某一天我需要修改这个内容时，是不是应该将它移到Page里再做后续的修改。<br>如果不这么做，要么在原始的Daily里修改，但我觉得我不应该修改过去日期的Daily Note。要么我在今天的Daily里补充，但这样1同一件事情会在Page里有两个reference，也很奇怪。]]></description>
             <pubDate>Thu, 15 Sep 2022 17:32:08 GMT</pubDate>
@@ -162,22 +178,6 @@
             
             
             <author><![CDATA[朴禅郑仁]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[应即友的需求写了篇stable-diffusion 的小教程，主要包含了官网和Google Colab两种方式玩耍方式😁 @fizzblock]]></title>
-            <description><![CDATA[<span>用户昵称：秋风_ <br> Username：1444E086-340D-466B-B2AB-307A6501B7BD</span><br><br>                    <img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gibGQibkduDnAibGzCW1jnC7hKibUKrp0vKB2g6BmSoynvxNic2MiaAumE8Vvt4EYiaDvHcPmL7z7Np5tRqWSAZAF0GNg/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>                    <a href="https://mp.weixin.qq.com/s/nDnQuZn3hVgrwqWVada2cw">AI数字绘画 stable-diffusion 保姆级教程</a><br>                <br>应即友的需求写了篇stable-diffusion 的小教程，主要包含了官网和Google Colab两种方式玩耍方式😁 @fizzblock]]></description>
-            <pubDate>Thu, 01 Sep 2022 05:54:30 GMT</pubDate>
-            <guid isPermaLink="false">https://mp.weixin.qq.com/s/nDnQuZn3hVgrwqWVada2cw</guid>
-            <link>https://mp.weixin.qq.com/s/nDnQuZn3hVgrwqWVada2cw</link>
-            
-            
-            
-            <author><![CDATA[秋风_]]></author>
             
                 
             
