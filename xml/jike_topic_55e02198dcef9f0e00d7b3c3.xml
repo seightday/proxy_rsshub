@@ -21,8 +21,40 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Fri, 07 Oct 2022 08:31:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Oct 2022 12:52:12 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[GitHub也成为战场了？ 这样做除了恶化国内难访问GitHub以外 想不明白有什么作用 有兴趣的可以去看看]]></title>
+            <description><![CDATA[<span>用户昵称：CLOUDUH <br> Username：36f64bb1-efef-4180-a4e4-0dfc2b9bcbea</span><br><br>GitHub也成为战场了？<br>这样做除了恶化国内难访问GitHub以外<br>想不明白有什么作用<br>有兴趣的可以去看看<br><img src="https://cdnv2.ruguoapp.com/Fn04IkV3ecDnhYdfFhZNfcC0ZWBev3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 07 Oct 2022 10:49:00 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6340041c02a1dab96e601253</guid>
+            <link>https://m.okjike.com/originalPosts/6340041c02a1dab96e601253</link>
+            
+            
+            
+            <author><![CDATA[CLOUDUH]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[模仿学习绝对是高效的学习方法。 . 以编程学习为例，启动的时候开两个项目。一个是自己的，一个是要学习的代码。 . 开始前，先大致看一下另个项目的解决思路，心...]]></title>
+            <description><![CDATA[<span>用户昵称：DeckardCain <br> Username：6319930F-A28D-4C2E-A62A-B6E5A005381F</span><br><br>模仿学习绝对是高效的学习方法。<br>.<br>以编程学习为例，启动的时候开两个项目。一个是自己的，一个是要学习的代码。<br>.<br>开始前，先大致看一下另个项目的解决思路，心里有个大概概念，然后直接开肝。<br>.<br>在实现中，遇到不会的问题，回过头去看另一个项目的解决方案，然后运用到自己的项目中。<br>.<br>从脑神经科学来看，学习的本质是神经元的重新连接（rewire），进一步来看，需要大脑处在一种学习的化学状态下，也就是神经可塑（neuroplasticity）状态。<br>.<br>要达到这个神经可塑性状态，有两个重要条件，一个是足够的专注度，另外一个是“犯错”的信号。<br>.<br>通过模仿过程中的犯错，思考，修复，反馈，让大脑处于神经可塑状态，从而快速高效学习。<br><img src="https://cdnv2.ruguoapp.com/FrEY4uYOmBmg_DiRJiAK9sExTvAXv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 07 Oct 2022 08:53:36 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/633fe9100e62be9a58d10420</guid>
+            <link>https://m.okjike.com/originalPosts/633fe9100e62be9a58d10420</link>
+            
+            
+            
+            <author><![CDATA[DeckardCain]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[🐱说：你给我学。]]></title>
@@ -82,38 +114,6 @@
             
             
             <author><![CDATA[龙爪槐守望者]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[CODE996 —— 分析 Git 项目工作强度 链接：https://hellodigua.github.io/code996/#/ code996 是一个分析工具，它可以统计 Git 项目的 commit 时间分布，进而推...]]></title>
-            <description><![CDATA[<span>用户昵称：龙爪槐守望者 <br> Username：2FCBB59D-93C2-488A-AFBD-38B70B267742</span><br><br>CODE996 —— 分析 Git 项目工作强度<br>链接：https://hellodigua.github.io/code996/#/ <br>code996 是一个分析工具，它可以统计 Git 项目的 commit 时间分布，进而推导出这个项目的编码工作强度。<br><img src="https://cdnv2.ruguoapp.com/Fnyu9eNwmEW7IEcOPctL4d--y5jTv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 03 Oct 2022 14:31:48 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/633af254fd99f5f3bf2976c4</guid>
-            <link>https://m.okjike.com/originalPosts/633af254fd99f5f3bf2976c4</link>
-            
-            
-            
-            <author><![CDATA[龙爪槐守望者]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[最近在玩 Chrome 插件，最大的感受是，前端这个圈子真是百花齐放（内卷）。 . 你不多会点东西，有的事情还真的不好做。 . 我作为新手，一开始想弄个插件模版学习...]]></title>
-            <description><![CDATA[<span>用户昵称：DeckardCain <br> Username：6319930F-A28D-4C2E-A62A-B6E5A005381F</span><br><br>最近在玩 Chrome 插件，最大的感受是，前端这个圈子真是百花齐放（内卷）。<br>.<br>你不多会点东西，有的事情还真的不好做。<br>.<br>我作为新手，一开始想弄个插件模版学习学习。<br>.<br>但是GitHub 上找了一下，发现Vue 的版本当缺乏维护，既不支持V3清单文件，又不支持Webpack5，根本没办法直接跑起来。<br>.<br>而React倒有一个一直维护的模版，可以做到开箱即用。<br>.<br>所以，我又要修正我之前的观点。前段时间，我把程序员多学几个技能的意义最后定格在挑选工具的乐趣上。现在看来的确过于狭隘了。<br>.<br>因为在某些情况下，你根本没有选择的可能，只有会的更多，才可能走的更远。<br><img src="https://cdnv2.ruguoapp.com/Fg1H2_AouMH5pMCEcND9k1eOspdDv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 03 Oct 2022 13:47:43 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/633ae7ff532d83046cf58f56</guid>
-            <link>https://m.okjike.com/originalPosts/633ae7ff532d83046cf58f56</link>
-            
-            
-            
-            <author><![CDATA[DeckardCain]]></author>
             
                 
             
