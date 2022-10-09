@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sun, 09 Oct 2022 05:03:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Oct 2022 08:29:39 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[在前端浏览器适配上，国内有一大特色，就是各种定制款的浏览器，这里我总结了各个山头的浏览器内核版本（截止到 2022-10-08，主要通过 UA 判断）： - 字节系：核...]]></title>
+            <description><![CDATA[<span>用户昵称：卤代烃 <br> Username：4f1fbfd7-bdec-4860-b942-1e648d02e321</span><br><br>                    <img src="https://image-1255652541.file.myqcloud.com/uPic/WechatIMG17.jpeg" referrerpolicy="no-referrer"><br>                    <a href="https://supercodepower.com/fontend-target">🗂 前端版本兼容问题的探索 | 微信公众号@卤蛋实验室</a><br>                <br>在前端浏览器适配上，国内有一大特色，就是各种定制款的浏览器，这里我总结了各个山头的浏览器内核版本（截止到 2022-10-08，主要通过 UA 判断）：<br><br>- 字节系：核心产品有抖音，今日头条，番茄小说等 APP，内核版本主要为 Chrome 75 和 Chrome 88<br>- 阿里系：核心产品有 UC 浏览器，夸克浏览器等 APP，内核版本主要为 chromium 78<br>- 腾讯系：核心产品为 X5 浏览器，集成在各个腾讯系 APP 里，同时提供了 腾讯浏览服务，第三方 APP 可以自由接入。内核版本主要为 chromium 77 和 chromium 89<br>- 微信系：微信之前的浏览器为 X5 浏览器，后为了和小程序的浏览器内核同构，2020-05-28 后从 X5 迁移到 XWeb，内核版本主要为 chromium 78 和 chromium 86<br>- 百度系：核心产品有手机百度，内核版本主要为 chromium 97<br>- 360 系：核心产品有 360 浏览器，内核版本主要为 chromium 81<br>- 外来系：主要为 Google Chrome 浏览器和微软 Edge 浏览器，这两个浏览器基本是就是内核事实标准，一般是最新的两个版本<br><br>从以上内容可以看出，目前国内的主流内核分布为 ±77 和 ±88，相比目前最新的 106 版本，落后 2-3 年。]]></description>
+            <pubDate>Sun, 09 Oct 2022 04:26:28 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63424d747c323828adfa5153</guid>
+            <link>https://m.okjike.com/originalPosts/63424d747c323828adfa5153</link>
+            
+            
+            
+            <author><![CDATA[卤代烃]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[我整理了一些知名产品的开源替代项目，放到的ezindie网站上，今后如果有类似产品的需求，可以及时参考。这个集合页面会不断更新迭代。 集合页面：https://www.ez...]]></title>
@@ -42,7 +58,7 @@
         
         <item>
             <title><![CDATA[设计鬼才😂]]></title>
-            <description><![CDATA[<span>用户昵称：Thirking <br> Username：30a5f62b-cc0d-4afd-9793-ec7008ae1170</span><br><br>设计鬼才😂<br><video src="https://videocdn.jellow.site/FjTcJWjsIK14CRGknqMZgrlm6Jbh.mp4?sign=11c9304363326eef524e6cef75ea0217&amp;t=63425c4c" controls=""></video>]]></description>
+            <description><![CDATA[<span>用户昵称：Thirking <br> Username：30a5f62b-cc0d-4afd-9793-ec7008ae1170</span><br><br>设计鬼才😂<br><video src="https://videocdn.jellow.site/FjTcJWjsIK14CRGknqMZgrlm6Jbh.mp4?sign=ac2aedf79d9516b0a43050a2df0a7167&amp;t=63428cab" controls=""></video>]]></description>
             <pubDate>Sat, 08 Oct 2022 07:21:07 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/634124e3532d83046c8f88c7</guid>
             <link>https://m.okjike.com/originalPosts/634124e3532d83046c8f88c7</link>
@@ -50,22 +66,6 @@
             
             
             <author><![CDATA[Thirking]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[原生 App 是互联网走过的一段弯路， Web App 也许才是未来。]]></title>
-            <description><![CDATA[<span>用户昵称：哥飞 <br> Username：a2d6acc1-626f-4d15-a22a-849e88a4c9f0</span><br><br>原生 App 是互联网走过的一段弯路， Web App 也许才是未来。]]></description>
-            <pubDate>Sat, 08 Oct 2022 03:26:50 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6340edfa3c90da4eec9f0e60</guid>
-            <link>https://m.okjike.com/originalPosts/6340edfa3c90da4eec9f0e60</link>
-            
-            
-            
-            <author><![CDATA[哥飞]]></author>
             
                 
             
