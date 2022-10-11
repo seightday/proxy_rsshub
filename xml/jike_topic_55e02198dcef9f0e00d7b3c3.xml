@@ -21,8 +21,40 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 11 Oct 2022 08:34:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Oct 2022 12:52:06 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[求助：本人数学专业毕业，想找个培训班或者自学转码。问过很多身边的人，每个人的建议都不一样。 我爸本身也是程序员，现在只管业务了，他觉得深度学习的算法比...]]></title>
+            <description><![CDATA[<span>用户昵称：Apathy-Zhang <br> Username：apathy</span><br><br>求助：本人数学专业毕业，想找个培训班或者自学转码。问过很多身边的人，每个人的建议都不一样。<br>       我爸本身也是程序员，现在只管业务了，他觉得深度学习的算法比较有前景；他们老板和我说，还是觉得大数据以后还会发展，觉得学C和数据库，以后搞搞大数据。我的同学有几个都去学Java干开发了，他们觉得开发不愁找工作。<br>      我本人本科学过一学期C++，数据结构，用过一学期R语言，硕士学过一学期深度学习，用的Pytorch。之所以说的是学过和用过，就是非常简单抄点代码和调包，和真正能用来工作还差得多。<br>      想听听大家的建议，哪个方向更值得去学，或者哪个方向更适合我？对于我自己而言，我是没有任何倾向的，学哪个都一样学，干什么都一样干。]]></description>
+            <pubDate>Tue, 11 Oct 2022 07:44:59 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63451efb54de1bb32c60a620</guid>
+            <link>https://m.okjike.com/originalPosts/63451efb54de1bb32c60a620</link>
+            
+            
+            
+            <author><![CDATA[Apathy-Zhang]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[今天终于把Git搞明白了，以后写码舒服了🥹。 用的是前几天看到即友推荐的教程]]></title>
+            <description><![CDATA[<span>用户昵称：哈利波越 <br> Username：5D9A82C9-9DF6-4A2F-9420-F01314906448</span><br><br>今天终于把Git搞明白了，以后写码舒服了🥹。<br>用的是前几天看到即友推荐的教程]]></description>
+            <pubDate>Tue, 11 Oct 2022 06:52:15 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6345129fd2bb2179844b55d7</guid>
+            <link>https://m.okjike.com/originalPosts/6345129fd2bb2179844b55d7</link>
+            
+            
+            
+            <author><![CDATA[哈利波越]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[做工具站还是内容站？-- 生财英文工具站航海手册笔记 01 工具站就是做一个工具，解决别人的某个需求，比如说图片格式转换、房贷计算等等。 内容站就是持续输出某...]]></title>
@@ -66,38 +98,6 @@
             
             
             <author><![CDATA[Jackwtao]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[恭喜🎉3000 star⭐]]></title>
-            <description><![CDATA[<span>用户昵称：EasyPlux <br> Username：40441D2D-9682-4FAD-B220-C01B89635F95</span><br><br>恭喜🎉3000 star⭐<br><img src="https://cdnv2.ruguoapp.com/FpS49-fUCFxRZWkdE3GG_Ls25nDgv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fk4mCqyPScIvJHIvXpHewogavZXiv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 10 Oct 2022 07:07:54 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6343c4caf170757bb85ecbdd</guid>
-            <link>https://m.okjike.com/originalPosts/6343c4caf170757bb85ecbdd</link>
-            
-            
-            
-            <author><![CDATA[EasyPlux]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[在前端浏览器适配上，国内有一大特色，就是各种定制款的浏览器，这里我总结了各个山头的浏览器内核版本（截止到 2022-10-08，主要通过 UA 判断）： - 字节系：核...]]></title>
-            <description><![CDATA[<span>用户昵称：卤代烃 <br> Username：4f1fbfd7-bdec-4860-b942-1e648d02e321</span><br><br>                    <img src="https://image-1255652541.file.myqcloud.com/uPic/WechatIMG17.jpeg" referrerpolicy="no-referrer"><br>                    <a href="https://supercodepower.com/fontend-target">🗂 前端版本兼容问题的探索 | 微信公众号@卤蛋实验室</a><br>                <br>在前端浏览器适配上，国内有一大特色，就是各种定制款的浏览器，这里我总结了各个山头的浏览器内核版本（截止到 2022-10-08，主要通过 UA 判断）：<br><br>- 字节系：核心产品有抖音，今日头条，番茄小说等 APP，内核版本主要为 Chrome 75 和 Chrome 88<br>- 阿里系：核心产品有 UC 浏览器，夸克浏览器等 APP，内核版本主要为 chromium 78<br>- 腾讯系：核心产品为 X5 浏览器，集成在各个腾讯系 APP 里，同时提供了 腾讯浏览服务，第三方 APP 可以自由接入。内核版本主要为 chromium 77 和 chromium 89<br>- 微信系：微信之前的浏览器为 X5 浏览器，后为了和小程序的浏览器内核同构，2020-05-28 后从 X5 迁移到 XWeb，内核版本主要为 chromium 78 和 chromium 86<br>- 百度系：核心产品有手机百度，内核版本主要为 chromium 97<br>- 360 系：核心产品有 360 浏览器，内核版本主要为 chromium 81<br>- 外来系：主要为 Google Chrome 浏览器和微软 Edge 浏览器，这两个浏览器基本是就是内核事实标准，一般是最新的两个版本<br><br>从以上内容可以看出，目前国内的主流内核分布为 ±77 和 ±88，相比目前最新的 106 版本，落后 2-3 年。]]></description>
-            <pubDate>Sun, 09 Oct 2022 04:26:28 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63424d747c323828adfa5153</guid>
-            <link>https://m.okjike.com/originalPosts/63424d747c323828adfa5153</link>
-            
-            
-            
-            <author><![CDATA[卤代烃]]></author>
             
                 
             
