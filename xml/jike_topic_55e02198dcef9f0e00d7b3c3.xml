@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Fri, 14 Oct 2022 05:26:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Oct 2022 08:32:42 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[我觉得使用AI生成素材会比直接生成图片更能直接用到生产环境。 比如text-to-texture，text-to-sound-effect，text-to-looping-bgm。 也许能帮到很多独立游戏开发...]]></title>
+            <description><![CDATA[<span>用户昵称：0neSe7en <br> Username：999E74E1-9743-41FB-B8F3-CB1777ABBA49</span><br><br>                    <img src="https://withpoly.com/social.png" referrerpolicy="no-referrer"><br>                    <a href="https://withpoly.com/">Poly: Generate design assets with A.I.</a><br>                <br>我觉得使用AI生成素材会比直接生成图片更能直接用到生产环境。<br>比如text-to-texture，text-to-sound-effect，text-to-looping-bgm。<br>也许能帮到很多独立游戏开发者。<br><br>尤其是纹理，需要的量很大，但又对精致程度没有那么高的要求。并且描述需要的纹理比创作一幅画容易的多。]]></description>
+            <pubDate>Fri, 14 Oct 2022 07:21:35 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63490dffb0539e379a8143cc</guid>
+            <link>https://m.okjike.com/originalPosts/63490dffb0539e379a8143cc</link>
+            
+            
+            
+            <author><![CDATA[0neSe7en]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[好消息：Obsidian正式推出了1.0.0版本，越来越好了！ Obsidian不是开源的，是免费的。 软件本身是免费的，那他们靠什么赚钱呢？靠官方的同步服务（Obsidian Sync...]]></title>
@@ -162,22 +178,6 @@
             
             
             <author><![CDATA[信息论]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[关于logseq/roam上的一个使用疑问：是否需要经常将Daily Note里的内容挪到Page里，并改成block embed？ 场景是：我默认会把笔记记录到Daily里，并关联Page。但未...]]></title>
-            <description><![CDATA[<span>用户昵称：0neSe7en <br> Username：999E74E1-9743-41FB-B8F3-CB1777ABBA49</span><br><br>关于logseq/roam上的一个使用疑问：是否需要经常将Daily Note里的内容挪到Page里，并改成block embed？<br><br>场景是：我默认会把笔记记录到Daily里，并关联Page。但未来的某一天我需要修改这个内容时，是不是应该将它移到Page里再做后续的修改。<br>如果不这么做，要么在原始的Daily里修改，但我觉得我不应该修改过去日期的Daily Note。要么我在今天的Daily里补充，但这样1同一件事情会在Page里有两个reference，也很奇怪。]]></description>
-            <pubDate>Thu, 15 Sep 2022 17:32:08 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63236198d1c437427e2e26fb</guid>
-            <link>https://m.okjike.com/originalPosts/63236198d1c437427e2e26fb</link>
-            
-            
-            
-            <author><![CDATA[0neSe7en]]></author>
             
                 
             
