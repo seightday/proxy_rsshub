@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sun, 16 Oct 2022 05:10:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Oct 2022 08:30:27 GMT</lastBuildDate>
         <ttl>1</ttl>
         
         <item>
@@ -34,6 +34,22 @@
             
             
             <author><![CDATA[Wz__]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[低代码平台目前比较火热的场景是中后台应用、内部工具，类似电商运营管理后台、app 管理后台、游戏运营管理后台等等。他的优势在于 1. 对于不懂后端的前端开发者...]]></title>
+            <description><![CDATA[<span>用户昵称：jk2K <br> Username：f93016e7-4dbe-48eb-8a0d-afe136da9158</span><br><br>                    <img src="https://gw.alipayobjects.com/mdn/prod_resou/afts/img/A*TF-5S78DpXMAAAAAAAAAAAAAARQnAQ" referrerpolicy="no-referrer"><br>                    <a href="https://www.yuque.com/jk2k/zvwg2m">语雀</a><br>                <br>低代码平台目前比较火热的场景是中后台应用、内部工具，类似电商运营管理后台、app 管理后台、游戏运营管理后台等等。他的优势在于<br><br>1. 对于不懂后端的前端开发者，直接写 sql 就可以开发后端 api ，甚至直接读写 Redis 、Elasticsearch<br>2. 对于不懂前端的后端开发者，拖拖拽拽就可以生成一个美观好用的管理后台，避免了手写前端代码带来的复杂度和学习成本<br>3. 对于资源有限的小微团队，提高需求迭代效率，降低开发成本，把精力用在刀刃上，避免做重复无聊乏味的工作，原来好几周的人力投入可能降到几天<br><br>Retool 有云端版本和私有化部署版本，真的挺好用的，我将过去做过的项目总结、抽象和归纳，开发《手把手带你用 retool 开发微 SaaS 应用》这门课程<br><br>现在我遇到的问题是<br><br>1. 需要验证这个课程有必要继续开发下去，所以希望大家能通过收藏这门课程来支持我，如果 2 周内语雀收藏数达到 500 后，我将继续编写<br>2. 需要招募课程内测读者，共同打磨我的课程，好处是他将免费获得此课程的电子版。点此加入 https://maiyouweng.feishu.cn/share/base/form/shrcn7Vy5jNJwJ3CDeupQGWLRLb]]></description>
+            <pubDate>Fri, 14 Oct 2022 13:54:09 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63496a0123b6d2750fcedf25</guid>
+            <link>https://m.okjike.com/originalPosts/63496a0123b6d2750fcedf25</link>
+            
+            
+            
+            <author><![CDATA[jk2K]]></author>
             
                 
             
@@ -114,22 +130,6 @@
             
             
             <author><![CDATA[朴禅郑仁]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[今天终于把Git搞明白了，以后写码舒服了🥹。 用的是前几天看到即友推荐的教程]]></title>
-            <description><![CDATA[<span>用户昵称：哈利波越 <br> Username：5D9A82C9-9DF6-4A2F-9420-F01314906448</span><br><br>今天终于把Git搞明白了，以后写码舒服了🥹。<br>用的是前几天看到即友推荐的教程]]></description>
-            <pubDate>Tue, 11 Oct 2022 06:52:15 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6345129fd2bb2179844b55d7</guid>
-            <link>https://m.okjike.com/originalPosts/6345129fd2bb2179844b55d7</link>
-            
-            
-            
-            <author><![CDATA[哈利波越]]></author>
             
                 
             
