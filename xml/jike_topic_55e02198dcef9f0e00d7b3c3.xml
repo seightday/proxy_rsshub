@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 18 Oct 2022 02:25:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Oct 2022 05:38:25 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[中国制霸里的变量声明用的是中文，头一次看到中文命名，英文注释的项目 项目地址：https://github.com/itorr/china-ex/blob/main/html/document.js]]></title>
+            <description><![CDATA[<span>用户昵称：azhubaby <br> Username：06DD4C6C-0CDE-40D1-ABFB-4BDEFE485418</span><br><br>中国制霸里的变量声明用的是中文，头一次看到中文命名，英文注释的项目<br><br>项目地址：https://github.com/itorr/china-ex/blob/main/html/document.js<br><img src="https://cdnv2.ruguoapp.com/Fj2cGLPoFlbELvWBRzWwR7fx67gGv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 18 Oct 2022 01:06:47 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/634dfc275a56ef104d02b40c</guid>
+            <link>https://m.okjike.com/originalPosts/634dfc275a56ef104d02b40c</link>
+            
+            
+            
+            <author><![CDATA[azhubaby]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[一款基于 WebRTC 技术的文字语音匿名聊天系统。 最近花了一周时间重写了 http://free4.chat ，加入了文字聊天功能（花费 1 天时间）。新的技术栈： 后端：Elixir...]]></title>
@@ -34,6 +50,22 @@
             
             
             <author><![CDATA[madawei]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[本来打算三个工作日做完的重构，一个晚上就搞定了。只怪我代码结构优雅，太优雅了。忍不住充个炉石 68 庆祝一下。]]></title>
+            <description><![CDATA[<span>用户昵称：范冰XDash <br> Username：160F8D03-E580-4799-8D02-B86B1A6FBF64</span><br><br>本来打算三个工作日做完的重构，一个晚上就搞定了。只怪我代码结构优雅，太优雅了。忍不住充个炉石 68 庆祝一下。]]></description>
+            <pubDate>Mon, 17 Oct 2022 14:50:45 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/634d6bc5280ccb8d5a1aa793</guid>
+            <link>https://m.okjike.com/originalPosts/634d6bc5280ccb8d5a1aa793</link>
+            
+            
+            
+            <author><![CDATA[范冰XDash]]></author>
             
                 
             
@@ -66,38 +98,6 @@
             
             
             <author><![CDATA[蛊巨雞]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Rust 是一门非常重视开发者用户体验的语言。如果做一个互联网时代的编程语言用户体验的排行，Rust 绝对是傲视群雄的独一档。你无法想象一门语言的编译器在告知你...]]></title>
-            <description><![CDATA[<span>用户昵称：justgoit <br> Username：6BE1AC20-79F4-4C00-838C-ECB21121BE6B</span><br><br>                    <img src="https://static001.geekbang.org/resource/image/93/73/9322249f464e12c2b9cb7655744f8373.jpg" referrerpolicy="no-referrer"><br>                    <a href="https://time.geekbang.org/column/article/408400">开篇词｜让Rust成为你的下一门主力语言-极客时间</a><br>                <br>Rust 是一门非常重视开发者用户体验的语言。如果做一个互联网时代的编程语言用户体验的排行，Rust 绝对是傲视群雄的独一档。你无法想象一门语言的编译器在告知你的代码错误的同时，还会极尽可能，给你推荐正确的代码。这就好比在你开发的时候，旁边坐着一个无所不知还和蔼可亲的大牛，在孜孜不倦地为你审阅代码，帮你找出问题所在。<br>比如下面的代码，我启动了一个新的线程引用当前线程的变量（代码）：let name = "Tyr".to_string();std::thread::spawn(|| { println!("hello {}", name);});这段代码极其简单，但它隐含着线程不安全的访问。当前线程持有的变量 name 可能在新启动的线程使用之前就被释放，发生 use after free 错误。<br>Rust 编译器，不仅能够通过类型安全在编译期检测出这一错误，告诉你这个错误产生的原因：“may outlive borrowed value”（我们暂且不管它是什么意思），并且，它还进一步推荐你加入 “move” 解决这个错误。为了方便你进一步了解错误详情，它还贴心地给出一个命令行 “rustc --explain E0373”，让你可以从知识库中获取更多的信息。]]></description>
-            <pubDate>Sun, 16 Oct 2022 23:21:08 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/634c91e42c7c1da6f8975af5</guid>
-            <link>https://m.okjike.com/originalPosts/634c91e42c7c1da6f8975af5</link>
-            
-            
-            
-            <author><![CDATA[justgoit]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[程序员应该如何面对自己的代码🤔？ . 写的时候 . 哇哦我边界处理的太优雅了！我封装的太好了！我这优化都考虑到了！我真是个天才！ . 上线的时候 . 后端不会炸...]]></title>
-            <description><![CDATA[<span>用户昵称：DeckardCain <br> Username：6319930F-A28D-4C2E-A62A-B6E5A005381F</span><br><br>程序员应该如何面对自己的代码🤔？<br>.<br>写的时候<br>.<br>哇哦我边界处理的太优雅了！我封装的太好了！我这优化都考虑到了！我真是个天才！<br>.<br>上线的时候<br>.<br>后端不会炸吧！前端不会有致命bug吧！我脑子里过了几遍没问题的呀？应用商店怎么还没通过审核？<br>.<br>平稳运行之后<br>.<br>好神奇！我以前怎么那么聪明！我怎么实现的啊！我屈才了！我不应该在这个单位！呜呜呜<br>.<br>要加新需求<br>.<br>好慌！这个代码怎么跑起来啊！以前明明可以，现在怎么不行了！我为什么设计的那么复杂！我真是个大笨蛋！<br>.<br>更新完毕以后<br>.<br>我还是牛叉的！设计的还可以！不过有些地方不够优雅！下次我一定要重构！不过，我还是屈才了！我要去大厂！<br>.<br>你们也是这样的吗？<br><img src="https://cdnv2.ruguoapp.com/FuKFoGV1QPdB73yHS_qlj19ITxZqv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 14 Oct 2022 12:09:03 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6349515fdba39d77f72bc94f</guid>
-            <link>https://m.okjike.com/originalPosts/6349515fdba39d77f72bc94f</link>
-            
-            
-            
-            <author><![CDATA[DeckardCain]]></author>
             
                 
             
