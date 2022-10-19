@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 19 Oct 2022 16:41:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Oct 2022 20:27:26 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[无题]]></title>
+            <description><![CDATA[<span>用户昵称：阿法兔 <br> Username：9CCE6435-0766-487E-BF96-8B3953A343DE</span><br><br><br><img src="https://cdnv2.ruguoapp.com/FmEZLAUUetsgBD6gN0TegHTA4dguv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 19 Oct 2022 14:46:04 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63500dac53c5a9e5acca7002</guid>
+            <link>https://m.okjike.com/originalPosts/63500dac53c5a9e5acca7002</link>
+            
+            
+            
+            <author><![CDATA[阿法兔]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[请回答，为什么最后把卡插到手机上，打开几个App刷一下，就好了？]]></title>
@@ -58,7 +74,7 @@
         
         <item>
             <title><![CDATA[还在担心自己不够幸运吗？ 还在担心看到地狱笑话会损失功德吗？ 快来体验一下我开发的网页版《电子木鱼beta版》吧！ http://www.lskgugu.top:8083/ 不登录！不下...]]></title>
-            <description><![CDATA[<span>用户昵称：南唐 <br> Username：a424629c-e6d0-4654-bb42-d006bebf7ee5</span><br><br>还在担心自己不够幸运吗？<br>还在担心看到地狱笑话会损失功德吗？<br><br>快来体验一下我开发的网页版《电子木鱼beta版》吧！<br><br>http://www.lskgugu.top:8083/<br>不登录！不下载！不索取用户信息！无广告！<br><br>敲击一下，功德增加！这比去寺庙方便多了！<br>后续会持续更新，增加新的功能进一步完善我的作品！希望得到您的关注！<br><br>PS：当然，您有什么意见和建议，可以在评论区提出，我们会采取意见！最后，本动态点赞过100就开源源码！<br><video src="https://videocdn.jellow.site/FqhHTh1E7NtpXG3rhhf7dRVI0nFv.mp4?sign=46225dfc41056c8be2b8d76797a981bd&amp;t=63502dfe" controls=""></video>]]></description>
+            <description><![CDATA[<span>用户昵称：南唐 <br> Username：a424629c-e6d0-4654-bb42-d006bebf7ee5</span><br><br>还在担心自己不够幸运吗？<br>还在担心看到地狱笑话会损失功德吗？<br><br>快来体验一下我开发的网页版《电子木鱼beta版》吧！<br><br>http://www.lskgugu.top:8083/<br>不登录！不下载！不索取用户信息！无广告！<br><br>敲击一下，功德增加！这比去寺庙方便多了！<br>后续会持续更新，增加新的功能进一步完善我的作品！希望得到您的关注！<br><br>PS：当然，您有什么意见和建议，可以在评论区提出，我们会采取意见！最后，本动态点赞过100就开源源码！<br><video src="https://videocdn.jellow.site/FqhHTh1E7NtpXG3rhhf7dRVI0nFv.mp4?sign=a9e531cdc4e3077712013f4a423d06a1&amp;t=635064b6" controls=""></video>]]></description>
             <pubDate>Tue, 18 Oct 2022 07:27:27 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/634e555f489b1f54a4d69d9a</guid>
             <link>https://m.okjike.com/originalPosts/634e555f489b1f54a4d69d9a</link>
@@ -82,22 +98,6 @@
             
             
             <author><![CDATA[azhubaby]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[一款基于 WebRTC 技术的文字语音匿名聊天系统。 最近花了一周时间重写了 http://free4.chat ，加入了文字聊天功能（花费 1 天时间）。新的技术栈： 后端：Elixir...]]></title>
-            <description><![CDATA[<span>用户昵称：madawei <br> Username：7A7EB661-B6FC-47CF-B75B-46DB8D096D5C</span><br><br>                    <img src="https://opengraph.githubassets.com/dc08dd00994a391276c5d641bdbd846369b70d9f4fbd84e7988a5d69cb6c977b/madawei2699/free4chat" referrerpolicy="no-referrer"><br>                    <a href="https://github.com/madawei2699/free4chat">GitHub - madawei2699/free4chat: free4.chat is an instant audio conferencing service.  It is designed by the local first and privacy first principle, and is very easy to use.</a><br>                <br>一款基于 WebRTC 技术的文字语音匿名聊天系统。<br><br>最近花了一周时间重写了 http://free4.chat ，加入了文字聊天功能（花费 1 天时间）。新的技术栈：<br><br>后端：Elixir + Phoenix<br>前端：Nexitjs + Tailwindcss + RxJS<br><br>后端用 Elixir/Erlang 的好处是自带集群功能，目前两台服务器组建集群，客户端随机负载均衡策略选择某个服务器做接入，同一房间的用户可以分布在不同节点的服务器，相比之前 Go 语言的版本，有了极大的 Scale 能力。Elixir/Erlang 还有极其强大的可观测能力，可以在运行时 remote 到 VM 中查看 process 的状态。<br><br>前端用 NextJS 和 Tailwindcss 的好处在于大量的组件可以拿来即用，Tailwindcss 相比之前一些 UI 库好用到爆，可以让我这种前端小白在短时间糊出来还不错的页面，强烈推荐！ RxJS 做组件间的通信工具，感觉比 Redux 要简单多了，Redux 是有点复杂。<br><br>DevOps 的话，后端部署是用 GitHub Actions 将 Docker 容器远程部署在 AWS EC2 上。前端是部署在 @Cloudflare Pages ，后端 API 服务器没有用 Nginx ，通过 iptables 将 80/443 端口流量转发至容器监听的端口，HTTPS/TLS 是由 @Cloudflare 自动配置的。<br><br>监控的话就用 Elixir hoenix 的 LiveDashboard 了。]]></description>
-            <pubDate>Mon, 17 Oct 2022 19:49:50 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/634db1de9425f3e1ae52668e</guid>
-            <link>https://m.okjike.com/originalPosts/634db1de9425f3e1ae52668e</link>
-            
-            
-            
-            <author><![CDATA[madawei]]></author>
             
                 
             
