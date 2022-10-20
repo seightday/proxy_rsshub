@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[JitHub程序员 - 即刻圈子]]></title>
         <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
-        <atom:link href="https://rsshub/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
+        <atom:link href="https://vercel.getrss2021.xyz/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
         <description><![CDATA[开发者们分享，问答，也可以交友的地方。欢迎所有工程师！ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 20 Oct 2022 05:04:34 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Thu, 20 Oct 2022 08:32:45 GMT</lastBuildDate>
+        <ttl>5</ttl>
+        
+        <item>
+            <title><![CDATA[图书推荐 这三本书是这个月我在看的三本书。 严蔚敏的《数据结构》很经典（最好看第二版 因为有青岛大学王卓的网课，b站就可以看，我把链接发到下面👇。 对于...]]></title>
+            <description><![CDATA[<span>用户昵称：杨嘉樹 <br> Username：d0762107-ae13-4861-ad32-2443008d0b80</span><br><br>图书推荐<br>这三本书是这个月我在看的三本书。<br><br>严蔚敏的《数据结构》很经典（最好看第二版 因为有青岛大学王卓的网课，b站就可以看，我把链接发到下面👇。<br><br> 对于我这种算法和数据结构的初学者来说，《漫画算法》清晰明了的说明了什么是算法和数据结构，并且不枯燥。<br><br>《JavaScript高级程序设计》就不用多说了，红宝书，里面的内容很不错，看了一点点，感觉对我帮助很大。<br><br>【《数据结构与算法基础》教学视频目录-哔哩哔哩】 https://b23.tv/U4XGtK2<br><img src="https://cdnv2.ruguoapp.com/FmdPtJnPt804ZupnW6Xd2TH4c1DAv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 20 Oct 2022 03:30:13 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6350c0c553c5a9e5acd8ed36</guid>
+            <link>https://m.okjike.com/originalPosts/6350c0c553c5a9e5acd8ed36</link>
+            
+            
+            
+            <author><![CDATA[杨嘉樹]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[无题]]></title>
@@ -82,22 +98,6 @@
             
             
             <author><![CDATA[祯祯祯祯子]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[中国制霸里的变量声明用的是中文，头一次看到中文命名，英文注释的项目 项目地址：https://github.com/itorr/china-ex/blob/main/html/document.js]]></title>
-            <description><![CDATA[<span>用户昵称：azhubaby <br> Username：06DD4C6C-0CDE-40D1-ABFB-4BDEFE485418</span><br><br>中国制霸里的变量声明用的是中文，头一次看到中文命名，英文注释的项目<br><br>项目地址：https://github.com/itorr/china-ex/blob/main/html/document.js<br><img src="https://cdnv2.ruguoapp.com/Fj2cGLPoFlbELvWBRzWwR7fx67gGv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 18 Oct 2022 01:06:47 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/634dfc275a56ef104d02b40c</guid>
-            <link>https://m.okjike.com/originalPosts/634dfc275a56ef104d02b40c</link>
-            
-            
-            
-            <author><![CDATA[azhubaby]]></author>
             
                 
             
