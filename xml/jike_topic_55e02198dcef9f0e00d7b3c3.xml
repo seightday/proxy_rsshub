@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 20 Oct 2022 12:53:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Oct 2022 16:38:54 GMT</lastBuildDate>
         <ttl>1</ttl>
         
         <item>
@@ -34,6 +34,22 @@
             
             
             <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[今天 Linear 的卡片效果挺火的，除了一般 hover 位移效果，还有光照效果。 Tilt.js 可以简单的 fake hover 效果，不过光照效果要实现的话，可能需要用 mask-imag...]]></title>
+            <description><![CDATA[<span>用户昵称：HwangSSS <br> Username：660cee5b-42b3-47a5-b084-c38987c315ed</span><br><br>今天 Linear 的卡片效果挺火的，除了一般 hover 位移效果，还有光照效果。<br><br>Tilt.js 可以简单的 fake hover 效果，不过光照效果要实现的话，可能需要用  mask-image 这类属性，好好调整一番。<br><br>tilt.js 👉 https://github.com/gijsroge/tilt.js<br>linear的页面 👉 https://linear.app/customers<img src="https://cdnv2.ruguoapp.com/FhZP440incqYyyxakKYFvTB69r0tv3.gif" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FlO9dZs1cPOlGEgWiRtMC7cr4JF8v3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 20 Oct 2022 04:14:09 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6350cb119425f3e1ae9f4647</guid>
+            <link>https://m.okjike.com/originalPosts/6350cb119425f3e1ae9f4647</link>
+            
+            
+            
+            <author><![CDATA[HwangSSS]]></author>
             
                 
             
@@ -82,22 +98,6 @@
             
             
             <author><![CDATA[柴汪汪]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[无题]]></title>
-            <description><![CDATA[<span>用户昵称：阿法兔 <br> Username：9CCE6435-0766-487E-BF96-8B3953A343DE</span><br><br><br><img src="https://cdnv2.ruguoapp.com/FmEZLAUUetsgBD6gN0TegHTA4dguv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 19 Oct 2022 14:46:04 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63500dac53c5a9e5acca7002</guid>
-            <link>https://m.okjike.com/originalPosts/63500dac53c5a9e5acca7002</link>
-            
-            
-            
-            <author><![CDATA[阿法兔]]></author>
             
                 
             
