@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[JitHub程序员 - 即刻圈子]]></title>
         <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
-        <atom:link href="https://vercel.getrss2021.xyz/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
         <description><![CDATA[开发者们分享，问答，也可以交友的地方。欢迎所有工程师！ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 20 Oct 2022 08:32:45 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Thu, 20 Oct 2022 12:53:11 GMT</lastBuildDate>
+        <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[设计师的日常：发现美，记录美，创造美 程序员的日常：发现问题，解决问题，创造问题]]></title>
+            <description><![CDATA[<span>用户昵称：Barret李靖 <br> Username：83F8C091-4C46-43B7-B7AC-B90CD72255E7</span><br><br>设计师的日常：发现美，记录美，创造美<br>程序员的日常：发现问题，解决问题，创造问题]]></description>
+            <pubDate>Thu, 20 Oct 2022 11:28:21 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/635130d55a56ef104d56e68a</guid>
+            <link>https://m.okjike.com/originalPosts/635130d55a56ef104d56e68a</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[图书推荐 这三本书是这个月我在看的三本书。 严蔚敏的《数据结构》很经典（最好看第二版 因为有青岛大学王卓的网课，b站就可以看，我把链接发到下面👇。 对于...]]></title>
@@ -41,6 +57,38 @@
         </item>
         
         <item>
+            <title><![CDATA[《Vue3 入门指南与实战案例》——作者将 Vue 3 的知识点按照做项目的步骤顺序梳理成章，在对比 Vue 3 和 Vue 2 差异的同时，还结合了许多在实际开发中的前端项目...]]></title>
+            <description><![CDATA[<span>用户昵称：100gle <br> Username：e9145c28-1ba2-4b49-b375-4fa8e2c62386</span><br><br>《Vue3 入门指南与实战案例》——作者将 Vue 3 的知识点按照做项目的步骤顺序梳理成章，在对比 Vue 3 和 Vue 2 差异的同时，还结合了许多在实际开发中的前端项目经验。<br><br>所有内容言简意赅，推荐给像我一样刚入门 Vue 3 或是属于以 Vue 2 为主页并打算切换到 Vue 3 的使用者。<br><br>🔗：https://vue3.chengpeiquan.com/<br><img src="https://cdnv2.ruguoapp.com/FmXxbOXrrSj9HDg6S5do6Oy1WKAav3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 20 Oct 2022 02:15:59 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6350af5fb277e8471103f384</guid>
+            <link>https://m.okjike.com/originalPosts/6350af5fb277e8471103f384</link>
+            
+            
+            
+            <author><![CDATA[100gle]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[这个哪里错了啊大佬们]]></title>
+            <description><![CDATA[<span>用户昵称：柴汪汪 <br> Username：9419D35F-F5F0-44F0-930B-4530B4C44A8A</span><br><br>这个哪里错了啊大佬们<br><img src="https://cdnv2.ruguoapp.com/lhabC8NNq2JqVqHU0W7ptkanDfdUv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FoM7WFVXuiNqb_bZZEYMulcrIhZMv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 19 Oct 2022 15:19:49 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/635015955a56ef104d3bbf8b</guid>
+            <link>https://m.okjike.com/originalPosts/635015955a56ef104d3bbf8b</link>
+            
+            
+            
+            <author><![CDATA[柴汪汪]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[无题]]></title>
             <description><![CDATA[<span>用户昵称：阿法兔 <br> Username：9CCE6435-0766-487E-BF96-8B3953A343DE</span><br><br><br><img src="https://cdnv2.ruguoapp.com/FmEZLAUUetsgBD6gN0TegHTA4dguv3.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Wed, 19 Oct 2022 14:46:04 GMT</pubDate>
@@ -50,38 +98,6 @@
             
             
             <author><![CDATA[阿法兔]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[好家伙，Google官方授权的付费版vscode🌝]]></title>
-            <description><![CDATA[<span>用户昵称：江凇 <br> Username：14F7421D-8E77-440D-8118-E9E0521C7529</span><br><br>好家伙，Google官方授权的付费版vscode🌝<br><img src="https://cdnv2.ruguoapp.com/FtT4I8dsAvQmHZnwSdSCkTGqfqI8v3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 19 Oct 2022 13:54:50 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/635001aa047731dd53f7a4b4</guid>
-            <link>https://m.okjike.com/originalPosts/635001aa047731dd53f7a4b4</link>
-            
-            
-            
-            <author><![CDATA[江凇]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[请回答，为什么最后把卡插到手机上，打开几个App刷一下，就好了？]]></title>
-            <description><![CDATA[<span>用户昵称：哥飞 <br> Username：a2d6acc1-626f-4d15-a22a-849e88a4c9f0</span><br><br>请回答，为什么最后把卡插到手机上，打开几个App刷一下，就好了？<br><img src="https://cdnv2.ruguoapp.com/FjW1dCGb6TYZ042DFxUSyrkMJ84yv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 19 Oct 2022 01:22:24 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/634f51505a56ef104d243340</guid>
-            <link>https://m.okjike.com/originalPosts/634f51505a56ef104d243340</link>
-            
-            
-            
-            <author><![CDATA[哥飞]]></author>
             
                 
             
@@ -162,22 +178,6 @@
             
             
             <author><![CDATA[白宦成]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[分享一下自己的异地组网方案，基于 Wireguard，使用一台公网服务器，实现多设备异地组网，实现了以下效果： （1）移动设备与家庭局域网互联。为iPhone、Macbook...]]></title>
-            <description><![CDATA[<span>用户昵称：煎茶_frytea <br> Username：93f05b30-c2af-4096-b90e-32961464b881</span><br><br>分享一下自己的异地组网方案，基于 Wireguard，使用一台公网服务器，实现多设备异地组网，实现了以下效果：<br><br>（1）移动设备与家庭局域网互联。为iPhone、Macbook、iPad 各分配了一个客户端，这样任何一个设备都可以在外独立的连入家庭网络，随时随地访问家里的 NAS、PVE 等服务；<br><br>（2）移动设备与公司局域网互联。公司暂不提供 VPN，在外想要接入公司服务器进行临时操作很不方便。这里在公司服务器启动了一个 OpenWrt 做 NAT，之后将其接入我的分布式局域网之中，实现了异地的办公组网，随时随地访问公司服务器；<br><br>（3）家庭局域网与公网 k3s 集群互联。虽然可以使用公网IP直接远程，但使用 Wireguard 异地组网安全性更高，不需要开放公网 SSH 权限，还可以让公网服务器和家庭服务器组 k3s 集群；<br><br>至于连接效果，以我个人情况举例。公网服务器采用一台腾讯云北京，1c2g6M配置，人在广州，常规延迟50ms上下；<br><br>使用远程桌面相比 todesk 体验有明显提升；rancher 部署在家庭服务器，管理公网的 k3s 集群，效果也不错；SSH 更不用说，操作很顺滑；远程操作各地 OpenWrt 的 Web 界面也很流畅。<br><br>安全方面，每个客户端都有独立的密钥，公网服务器仅需开启任意一个 UDP 端口，相比 frp 无论安全性还是易用性、扩展性都更强。<br><br>#wireguard <br><img src="https://cdnv2.ruguoapp.com/FnAl49b_3AzKvqxF1bEGlF9wid56v3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Ftpub2AgDC7dYLF-hE8LyXm342hev3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fv2L1IqFs2uicpdUGlr3QQIecqyiv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fs7M8g7bozKCEQo_4PTj1rXv4M8fv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sun, 02 Oct 2022 12:17:17 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6339814d0e62be9a5831642c</guid>
-            <link>https://m.okjike.com/originalPosts/6339814d0e62be9a5831642c</link>
-            
-            
-            
-            <author><![CDATA[煎茶_frytea]]></author>
             
                 
             
