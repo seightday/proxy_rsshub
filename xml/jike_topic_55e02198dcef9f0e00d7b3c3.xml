@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sat, 22 Oct 2022 16:34:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Oct 2022 20:25:55 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[使用docusaurus快速搭建个人网站/博客 1、做了个内容站点，技术用的是 docusaurus，Facebook 的一个建站工具 2、中文教程： www.docusaurus.cn; docusaurus.io ;...]]></title>
+            <description><![CDATA[<span>用户昵称：陈怀哲 <br> Username：FB8EA0A6-9134-498E-B309-E67979477377</span><br><br>使用docusaurus快速搭建个人网站/博客<br><br>1、做了个内容站点，技术用的是 docusaurus，Facebook 的一个建站工具<br>2、中文教程： www.docusaurus.cn; docusaurus.io ;<br>3、整个过程大概 1小时，搭配 Vercel 使用，完美<br>4、域名是在 NameCheap 上购买的<br>5、B站上搜一搜，有视频教程<br>6、自带 sitemap 生成，自带一些常用的插件<br>7、内容建设就是把文章整理成 MD 格式文件，同步到 Github 仓库，就自动发布更新<br>8、站点效果展示：https://www.docusaurus.cn/showcase]]></description>
+            <pubDate>Sat, 22 Oct 2022 14:06:47 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6353f8f75b6a0045b9580424</guid>
+            <link>https://m.okjike.com/originalPosts/6353f8f75b6a0045b9580424</link>
+            
+            
+            
+            <author><![CDATA[陈怀哲]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[陪老婆待产期间发了两个版本]]></title>
@@ -130,22 +146,6 @@
             
             
             <author><![CDATA[杨嘉樹]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[《Vue3 入门指南与实战案例》——作者将 Vue 3 的知识点按照做项目的步骤顺序梳理成章，在对比 Vue 3 和 Vue 2 差异的同时，还结合了许多在实际开发中的前端项目...]]></title>
-            <description><![CDATA[<span>用户昵称：100gle <br> Username：e9145c28-1ba2-4b49-b375-4fa8e2c62386</span><br><br>《Vue3 入门指南与实战案例》——作者将 Vue 3 的知识点按照做项目的步骤顺序梳理成章，在对比 Vue 3 和 Vue 2 差异的同时，还结合了许多在实际开发中的前端项目经验。<br><br>所有内容言简意赅，推荐给像我一样刚入门 Vue 3 或是属于以 Vue 2 为主页并打算切换到 Vue 3 的使用者。<br><br>🔗：https://vue3.chengpeiquan.com/<br><img src="https://cdnv2.ruguoapp.com/FmXxbOXrrSj9HDg6S5do6Oy1WKAav3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 20 Oct 2022 02:15:59 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6350af5fb277e8471103f384</guid>
-            <link>https://m.okjike.com/originalPosts/6350af5fb277e8471103f384</link>
-            
-            
-            
-            <author><![CDATA[100gle]]></author>
             
                 
             
