@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Fri, 28 Oct 2022 08:33:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Oct 2022 12:48:27 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[日常写代码，我建议一定要比较频繁的拉取和提交。不要埋头写了一天，到了下班时间，才想起来去提交代码 每次只是完成了一个很小的功能迭代或者修复了一个很小的 ...]]></title>
+            <description><![CDATA[<span>用户昵称：踏月流星 <br> Username：704ED62D-B1CD-4CA5-94B3-D96C5816DE38</span><br><br>日常写代码，我建议一定要比较频繁的拉取和提交。不要埋头写了一天，到了下班时间，才想起来去提交代码<br><br>每次只是完成了一个很小的功能迭代或者修复了一个很小的 bug 之后，就应该提交一次代码，并且一定是 push 到远程<br><br>这样带来以下几好处：<br><br>1. 不会担心电脑硬盘突然崩溃。造成很多代码的丢失。这个虽然概率小，但危害极大。遇到一次，就会让你怀疑人生<br><br>2. 因为每次都是提交的一个比较小的、明确的改动。所以，很容易写清楚commit message。而不是笼统的写一句“updade”，将来想要回溯的时候一头雾水<br><br>3. 便于同事之间的协作，可以尽快的知道别人的进度。尤其是一些公共功能，可能别人对它进行了扩展修改，而你也正好需要<br><br>4. 提交之前，应该使用 git status 查看一下当前的文件状态。确保只会提交你想要提交的内容。比如调试代码时添加的 console.log、alert、debugger 等，都应该及时的删掉<br><br>5. 对于前端工程如果更新了依赖，应该在群里周知大家。以便别人能够及时的更新依赖包<br><br>6. 前端工程里如果使用了 ts。一定要把类型校对准确之后再提交代码。比如我个人，对类型错误零容忍<br><br>7. 日常团队协作很难靠规章制度去强约束，更多还是要靠每个人的职业素质和主动性]]></description>
+            <pubDate>Fri, 28 Oct 2022 00:12:38 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/635b1e76b7bc95e9dd89f53e</guid>
+            <link>https://m.okjike.com/originalPosts/635b1e76b7bc95e9dd89f53e</link>
+            
+            
+            
+            <author><![CDATA[踏月流星]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[我觉得真的是细致到骨头的git说明了，虽然还没写完，但是想听听大家的想法。]]></title>
@@ -66,22 +82,6 @@
             
             
             <author><![CDATA[就是玩儿呗]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[有些朋友时常会标榜自己自学编程，无非想证明自己的能力。但若被懂行的人听到，可能会反呛一句，这行，谁不是自学的呢？ . 工作里要上一个没接触过的技术，做一...]]></title>
-            <description><![CDATA[<span>用户昵称：DeckardCain <br> Username：6319930F-A28D-4C2E-A62A-B6E5A005381F</span><br><br>有些朋友时常会标榜自己自学编程，无非想证明自己的能力。但若被懂行的人听到，可能会反呛一句，这行，谁不是自学的呢？<br>.<br>工作里要上一个没接触过的技术，做一个没做过的场景，在DDL的督促下，程序员就会被迫开启自学模式。<br>.<br>要么，去查官方文档，要么去看大神总结的干货。熟悉一点套路的开发者，还会去找开源项目，看一下具体实现，找一点灵感🤣。<br>.<br>这个过程看似简单，实则痛苦。<br>.<br>一方面，由于没有相关知识基础，初学者缺乏该领域信息的分辨能力。举个例子，有的教程虽然洋洋洒洒写了很多，但仔细一看，却都是细枝末节的东西，容易让新手陷于其中不能自拔，丢失全局性的理解。有的文章虽然粗看浅显易懂，但示例代码没有跟上社区更新，在实战中无法顺利跑通，学习成本也不低。<br>.<br>而更可怕的是，这些问题在你动手实践之前，都是未知的。所以，才会有开新坑，爬坑这一说。<br>.<br>而另一方面，一些工程上的哲学问题，艺术性问题会给人造成困扰。比如怎么设计更加合理，怎么组织代码更加优雅，这些问题看似细小，但却一直贯穿新技术学习应用始终。这些问题并没有标准答案，会让一部分完美主义者陷入焦虑。<br>.<br>所以你看，这一行，大家都自学的很辛苦，大部份人都是赶鸭子上架成长起来的，边敲代码边流泪😭。]]></description>
-            <pubDate>Wed, 26 Oct 2022 07:21:58 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6358e016ad11f8a5874cc0fc</guid>
-            <link>https://m.okjike.com/originalPosts/6358e016ad11f8a5874cc0fc</link>
-            
-            
-            
-            <author><![CDATA[DeckardCain]]></author>
             
                 
             
