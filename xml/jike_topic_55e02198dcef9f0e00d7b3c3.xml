@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sun, 30 Oct 2022 02:13:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Oct 2022 04:50:12 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[哈希碰撞：对两个不相等的输入值 X 和 Y 进行哈希计算 H，得到的结果 H(X) = H(Y)，则表明 X 和 Y 发生了哈希碰撞。 哈希碰撞是一种客观存在，因为输入域是无限...]]></title>
+            <description><![CDATA[<span>用户昵称：流川风 <br> Username：52188E14-4063-48F1-8319-3E202167F2F3</span><br><br>                    <img src="http://i2.hdslb.com/bfs/archive/cb62713060c5c3a4058436fd5beba55f5894b70d.jpg" referrerpolicy="no-referrer"><br>                    <a href="https://www.bilibili.com/video/BV1Vt411X7JF/?is_story_h5=false&amp;p=2&amp;share_from=ugc&amp;share_medium=iphone&amp;share_plat=ios&amp;share_session_id=93E44069-51EA-481D-8A20-F7E222047BFA&amp;share_source=COPY&amp;share_tag=s_i&amp;timestamp=1667093143&amp;unique_k=Fb5mUFT">02-BTC-密码学原理_哔哩哔哩_bilibili</a><br>                <br>哈希碰撞：对两个不相等的输入值 X 和 Y 进行哈希计算 H，得到的结果 H(X) = H(Y)，则表明 X 和 Y 发生了哈希碰撞。<br>哈希碰撞是一种客观存在，因为输入域是无限的，而输出域是有限的。根据鸽笼原理，必然会发生哈希碰撞。]]></description>
+            <pubDate>Sun, 30 Oct 2022 01:26:10 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/635dd2b1c40435f440e28dc3</guid>
+            <link>https://m.okjike.com/originalPosts/635dd2b1c40435f440e28dc3</link>
+            
+            
+            
+            <author><![CDATA[流川风]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[人才啊，人才！！！]]></title>
@@ -50,22 +66,6 @@
             
             
             <author><![CDATA[只是一只兔头而已]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[日常写代码，我建议一定要比较频繁的拉取和提交。不要埋头写了一天，到了下班时间，才想起来去提交代码 每次只是完成了一个很小的功能迭代或者修复了一个很小的 ...]]></title>
-            <description><![CDATA[<span>用户昵称：踏月流星 <br> Username：704ED62D-B1CD-4CA5-94B3-D96C5816DE38</span><br><br>日常写代码，我建议一定要比较频繁的拉取和提交。不要埋头写了一天，到了下班时间，才想起来去提交代码<br><br>每次只是完成了一个很小的功能迭代或者修复了一个很小的 bug 之后，就应该提交一次代码，并且一定是 push 到远程<br><br>这样带来以下几好处：<br><br>1. 不会担心电脑硬盘突然崩溃。造成很多代码的丢失。这个虽然概率小，但危害极大。遇到一次，就会让你怀疑人生<br><br>2. 因为每次都是提交的一个比较小的、明确的改动。所以，很容易写清楚commit message。而不是笼统的写一句“updade”，将来想要回溯的时候一头雾水<br><br>3. 便于同事之间的协作，可以尽快的知道别人的进度。尤其是一些公共功能，可能别人对它进行了扩展修改，而你也正好需要<br><br>4. 提交之前，应该使用 git status 查看一下当前的文件状态。确保只会提交你想要提交的内容。比如调试代码时添加的 console.log、alert、debugger 等，都应该及时的删掉<br><br>5. 对于前端工程如果更新了依赖，应该在群里周知大家。以便别人能够及时的更新依赖包<br><br>6. 前端工程里如果使用了 ts。一定要把类型校对准确之后再提交代码。比如我个人，对类型错误零容忍<br><br>7. 日常团队协作很难靠规章制度去强约束，更多还是要靠每个人的职业素质和主动性]]></description>
-            <pubDate>Fri, 28 Oct 2022 00:12:38 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/635b1e76b7bc95e9dd89f53e</guid>
-            <link>https://m.okjike.com/originalPosts/635b1e76b7bc95e9dd89f53e</link>
-            
-            
-            
-            <author><![CDATA[踏月流星]]></author>
             
                 
             
