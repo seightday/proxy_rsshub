@@ -21,24 +21,8 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sun, 30 Oct 2022 08:26:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Oct 2022 12:40:55 GMT</lastBuildDate>
         <ttl>1</ttl>
-        
-        <item>
-            <title><![CDATA[哈希碰撞：对两个不相等的输入值 X 和 Y 进行哈希计算 H，得到的结果 H(X) = H(Y)，则表明 X 和 Y 发生了哈希碰撞。 哈希碰撞是一种客观存在，因为输入域是无限...]]></title>
-            <description><![CDATA[<span>用户昵称：流川风 <br> Username：52188E14-4063-48F1-8319-3E202167F2F3</span><br><br>                    <img src="http://i2.hdslb.com/bfs/archive/cb62713060c5c3a4058436fd5beba55f5894b70d.jpg" referrerpolicy="no-referrer"><br>                    <a href="https://www.bilibili.com/video/BV1Vt411X7JF/?is_story_h5=false&amp;p=2&amp;share_from=ugc&amp;share_medium=iphone&amp;share_plat=ios&amp;share_session_id=93E44069-51EA-481D-8A20-F7E222047BFA&amp;share_source=COPY&amp;share_tag=s_i&amp;timestamp=1667093143&amp;unique_k=Fb5mUFT">02-BTC-密码学原理_哔哩哔哩_bilibili</a><br>                <br>哈希碰撞：对两个不相等的输入值 X 和 Y 进行哈希计算 H，得到的结果 H(X) = H(Y)，则表明 X 和 Y 发生了哈希碰撞。<br>哈希碰撞是一种客观存在，因为输入域是无限的，而输出域是有限的。根据鸽笼原理，必然会发生哈希碰撞。]]></description>
-            <pubDate>Sun, 30 Oct 2022 01:26:10 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/635dd2b1c40435f440e28dc3</guid>
-            <link>https://m.okjike.com/originalPosts/635dd2b1c40435f440e28dc3</link>
-            
-            
-            
-            <author><![CDATA[流川风]]></author>
-            
-                
-            
-            
-        </item>
         
         <item>
             <title><![CDATA[人才啊，人才！！！]]></title>
@@ -50,6 +34,22 @@
             
             
             <author><![CDATA[哇哈哈大战爽歪歪]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[最近在准备面试，用 Craft.do 梳理了一下前端知识体系。 目前有一个大的框架，但内容还不全。后续会一点点补齐。 本着 Learn in public 的原则，先分享出来。 链...]]></title>
+            <description><![CDATA[<span>用户昵称：克拉克粥 <br> Username：0741F997-650F-4A10-A824-9B8EB55EC29A</span><br><br>最近在准备面试，用 Craft.do 梳理了一下前端知识体系。<br>目前有一个大的框架，但内容还不全。后续会一点点补齐。<br>本着 Learn in public 的原则，先分享出来。<br>链接：https://www.craft.do/s/u1wN5zqid5vikY]]></description>
+            <pubDate>Sat, 29 Oct 2022 05:58:06 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/635cc0eeb7bc95e9ddad41b4</guid>
+            <link>https://m.okjike.com/originalPosts/635cc0eeb7bc95e9ddad41b4</link>
+            
+            
+            
+            <author><![CDATA[克拉克粥]]></author>
             
                 
             
