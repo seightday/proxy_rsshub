@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 31 Oct 2022 16:33:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Oct 2022 20:24:25 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[浏览器扩展开发入门指南写给有兴趣的朋友 . 浏览器扩展能做什么 . 浏览器扩展可以让你向一个网页注入CSS，修改一个网站的主题，嵌入一些 HTML 代码实现基本交互...]]></title>
+            <description><![CDATA[<span>用户昵称：DeckardCain <br> Username：6319930F-A28D-4C2E-A62A-B6E5A005381F</span><br><br>浏览器扩展开发入门指南写给有兴趣的朋友<br>.<br>浏览器扩展能做什么<br>.<br>浏览器扩展可以让你向一个网页注入CSS，修改一个网站的主题，嵌入一些 HTML 代码实现基本交互，而高阶的用法下，你可以拿特定网站的 cookie 模拟用户请求，实现自动化工作流等等。<br>.<br>这个月我就用浏览器扩展的形式实现了一个基于稍后读工具 Cubox 的高亮导出和增强工具 iCubox<br>。它可以自动将 Cubox 的高亮内容导入到其他笔记处理工具中。自用多时，提高了不少生产效率。<br>.<br>浏览器扩展和油猴脚本什么区别<br>.<br>两者区别不是很明显，只不过有些需要获取 cookie，监视浏览器地址等需要浏览器能力的场景，还是建议使用浏览器扩展进行操作。<br>.<br>其他场景两者可以互相替代。总的来说，浏览器扩展在易用性上会比油猴脚本来的更好一点。<br>.<br>举例来说，浏览器扩展安装比较方便，既可以在应用市场安装，也可以将 CRX（在浏览器开启开发者模式的前提下）直接拖入浏览器安装。<br>.<br>而想要使用 Tempormonkey 油猴脚本就不太容易。因为它本身是一个脚本管理执行容器。想要使用特定脚本，你还需要在Greasy Fork这种脚本市场搜索相关脚本进行安装才行。<br>.<br>当然这样也是有回避风险的原因。毕竟油猴现在的玩法基本都是去广告，自动答题，自动挂机那种灰色方向。将内容和容器剥离开来，单独上架容器油猴，可以减少不必要的麻烦。<br>.<br>开发浏览器扩展需要什么基础<br>.<br>假如你是零基础，那么建议就是先学 HTML、CSS和JS。假如你想要做的工具不是很复杂，直接使用JS 操作 DOM 也可以解决，那么学到这里就够了。<br>.<br>假如你有一定 Web 开发基础，但是不会 React 、Vue 这两个 JS 框架，只会基本的 DOM 操作，那么要实现比较复杂的交互就要掉不少头发。另外，这些前端框架都有相应的浏览器扩展开发脚手架，可以进一步提高你的开发效率。<br>.<br>目前的坑点<br>.<br>目前基于 Vue、React  的扩展开发脚手架都有。基于Vue的那个脚手架清单文件还是V2，并且提问板块不是很活跃，需要前端基础比较扎实才能玩得转。<br>.<br>而 React 那个版本的优势在于支持 V3，而且大部分问题都可以在 isuue 里找到答案，还是比较靠谱的，我也是基于这个脚手架开发完成 iCubox 的主要功能的。<br>.<br>到这里，一个简单的入门介绍全是完成了。后面的事情基本都是靠搜索引擎爬坑解决了。总的来说这方面资料不是太多，特别是所谓的V3清单文件部分。<br>.<br>中文资料里有一个很有名，百度也可搜索到，这里不再提及。这个资料目前最大的问题也是不再维护了，但是理念还是可以沿用。建议结合官方开发文档。<br>.<br>相比 App 开发来说，浏览器扩展开发入门还是低很多，配合做一些网页应用增强也是很好玩的一个方向。<br>(完）]]></description>
+            <pubDate>Mon, 31 Oct 2022 14:03:00 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/635fd59486bb2cb699afbdd5</guid>
+            <link>https://m.okjike.com/originalPosts/635fd59486bb2cb699afbdd5</link>
+            
+            
+            
+            <author><![CDATA[DeckardCain]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[一点点 Github 的彩蛋 😂]]></title>
@@ -82,22 +98,6 @@
             
             
             <author><![CDATA[哇哈哈大战爽歪歪]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[很惭愧作为一个计算机专业的学生其实对网络协议居然没有很深刻的了解，只能说是略知皮毛。 这个视频讲得很好，详实细致地阐述了 IPv6 的重要性和中国以及世界各...]]></title>
-            <description><![CDATA[<span>用户昵称：只是一只兔头而已 <br> Username：AB2C438B-6A6A-4625-9722-23A816DFB768</span><br><br>                    <img src="http://i2.hdslb.com/bfs/archive/c463451672bb74453c7229651dcb39be8fae13d7.jpg" referrerpolicy="no-referrer"><br>                    <a href="https://www.bilibili.com/video/BV1i14y157YV/?is_story_h5=false&amp;p=1&amp;share_from=ugc&amp;share_medium=iphone&amp;share_plat=ios&amp;share_session_id=C869C766-3D70-4BDE-B078-F689724E70B8&amp;share_source=COPY&amp;share_tag=s_i&amp;timestamp=1666985192&amp;unique_k=O5kxMhL">电子监听、全国断网，棱镜门背后，中国如何从末路狂奔到世界之巅_哔哩哔哩_bilibili</a><br>                <br>很惭愧作为一个计算机专业的学生其实对网络协议居然没有很深刻的了解，只能说是略知皮毛。<br>这个视频讲得很好，详实细致地阐述了 IPv6 的重要性和中国以及世界各国在这一技术上反抗霸权主义的曲折发展与探索。<br>这才是真正的讲好中国故事。]]></description>
-            <pubDate>Fri, 28 Oct 2022 19:29:27 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/635c2d97030b75f858869003</guid>
-            <link>https://m.okjike.com/originalPosts/635c2d97030b75f858869003</link>
-            
-            
-            
-            <author><![CDATA[只是一只兔头而已]]></author>
             
                 
             
