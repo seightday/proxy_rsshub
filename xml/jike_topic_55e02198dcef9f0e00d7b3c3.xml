@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 02 Nov 2022 08:28:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Nov 2022 12:49:01 GMT</lastBuildDate>
         <ttl>1</ttl>
         
         <item>
@@ -34,6 +34,22 @@
             
             
             <author><![CDATA[雏鸟的天空]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA["入行的第一个领导，他确实他现在也40多岁了，他就是真心喜欢，他白天敲Java，他说这是我的工作，晚上我写写c++，他说这是我的业余爱好，他就日常喜欢干这个。 ...]]></title>
+            <description><![CDATA[<span>用户昵称：雪国列车掏煤渣小男孩 <br> Username：6BE1AC20-79F4-4C00-838C-ECB21121BE6B</span><br><br>                    <img src="https://image.thepaper.cn/publish/interaction/image/4/313/983.png" referrerpolicy="no-referrer"><br>                    <a href="https://m.thepaper.cn/newsDetail_forward_15054586">程序员到了35岁就会失业吗？我找了三位程序员UP主聊了聊</a><br>                <br>"入行的第一个领导，他确实他现在也40多岁了，他就是真心喜欢，他白天敲Java，他说这是我的工作，晚上我写写c++，他说这是我的业余爱好，他就日常喜欢干这个。<br><br>然后周末的话，也愿意去公司，但是不一定写你公司的代码，但是我确实是在敲代码，然后他每天都很快乐，他每个月可能就，他老婆就给他900块钱，我不知道这些年他有没有涨生活费。反正他老婆，每个月就给他900块钱，基本上当时每个月的到月尾，可能要经常来蹭蹭我们小弟的饭了。<br><br>他对整个对物质上比较淡然，但是很喜欢去研究这些技术，当时他其实是给我整个职业生涯，改变特别大的一个人，他算是我的领路人。因为我实打实的见过他，每一天都下了班以后还要再去自学，那么你看人家对吧，起点比你高，然后速度比你，加速度如果还比你快的话，你这辈子就追不上人家。"]]></description>
+            <pubDate>Tue, 01 Nov 2022 05:07:24 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6360a98c75577ae161e3ac59</guid>
+            <link>https://m.okjike.com/originalPosts/6360a98c75577ae161e3ac59</link>
+            
+            
+            
+            <author><![CDATA[雪国列车掏煤渣小男孩]]></author>
             
                 
             
@@ -66,22 +82,6 @@
             
             
             <author><![CDATA[songjp]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[浏览器扩展开发入门指南写给有兴趣的朋友 . 浏览器扩展能做什么 . 浏览器扩展可以让你向一个网页注入CSS，修改一个网站的主题，嵌入一些 HTML 代码实现基本交互...]]></title>
-            <description><![CDATA[<span>用户昵称：DeckardCain <br> Username：6319930F-A28D-4C2E-A62A-B6E5A005381F</span><br><br>浏览器扩展开发入门指南写给有兴趣的朋友<br>.<br>浏览器扩展能做什么<br>.<br>浏览器扩展可以让你向一个网页注入CSS，修改一个网站的主题，嵌入一些 HTML 代码实现基本交互，而高阶的用法下，你可以拿特定网站的 cookie 模拟用户请求，实现自动化工作流等等。<br>.<br>这个月我就用浏览器扩展的形式实现了一个基于稍后读工具 Cubox 的高亮导出和增强工具 iCubox<br>。它可以自动将 Cubox 的高亮内容导入到其他笔记处理工具中。自用多时，提高了不少生产效率。<br>.<br>浏览器扩展和油猴脚本什么区别<br>.<br>两者区别不是很明显，只不过有些需要获取 cookie，监视浏览器地址等需要浏览器能力的场景，还是建议使用浏览器扩展进行操作。<br>.<br>其他场景两者可以互相替代。总的来说，浏览器扩展在易用性上会比油猴脚本来的更好一点。<br>.<br>举例来说，浏览器扩展安装比较方便，既可以在应用市场安装，也可以将 CRX（在浏览器开启开发者模式的前提下）直接拖入浏览器安装。<br>.<br>而想要使用 Tempormonkey 油猴脚本就不太容易。因为它本身是一个脚本管理执行容器。想要使用特定脚本，你还需要在Greasy Fork这种脚本市场搜索相关脚本进行安装才行。<br>.<br>当然这样也是有回避风险的原因。毕竟油猴现在的玩法基本都是去广告，自动答题，自动挂机那种灰色方向。将内容和容器剥离开来，单独上架容器油猴，可以减少不必要的麻烦。<br>.<br>开发浏览器扩展需要什么基础<br>.<br>假如你是零基础，那么建议就是先学 HTML、CSS和JS。假如你想要做的工具不是很复杂，直接使用JS 操作 DOM 也可以解决，那么学到这里就够了。<br>.<br>假如你有一定 Web 开发基础，但是不会 React 、Vue 这两个 JS 框架，只会基本的 DOM 操作，那么要实现比较复杂的交互就要掉不少头发。另外，这些前端框架都有相应的浏览器扩展开发脚手架，可以进一步提高你的开发效率。<br>.<br>目前的坑点<br>.<br>目前基于 Vue、React  的扩展开发脚手架都有。基于Vue的那个脚手架清单文件还是V2，并且提问板块不是很活跃，需要前端基础比较扎实才能玩得转。<br>.<br>而 React 那个版本的优势在于支持 V3，而且大部分问题都可以在 isuue 里找到答案，还是比较靠谱的，我也是基于这个脚手架开发完成 iCubox 的主要功能的。<br>.<br>到这里，一个简单的入门介绍全是完成了。后面的事情基本都是靠搜索引擎爬坑解决了。总的来说这方面资料不是太多，特别是所谓的V3清单文件部分。<br>.<br>中文资料里有一个很有名，百度也可搜索到，这里不再提及。这个资料目前最大的问题也是不再维护了，但是理念还是可以沿用。建议结合官方开发文档。<br>.<br>相比 App 开发来说，浏览器扩展开发入门还是低很多，配合做一些网页应用增强也是很好玩的一个方向。<br>(完）]]></description>
-            <pubDate>Mon, 31 Oct 2022 14:03:00 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/635fd59486bb2cb699afbdd5</guid>
-            <link>https://m.okjike.com/originalPosts/635fd59486bb2cb699afbdd5</link>
-            
-            
-            
-            <author><![CDATA[DeckardCain]]></author>
             
                 
             
