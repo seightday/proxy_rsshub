@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 03 Nov 2022 08:29:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Nov 2022 12:44:10 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[🤯Copilot 这能力太帅了，以后可能真的不用再写正则表达式了。而且除了能生成正则表达式还能问 Copilot 一个正则表达式能匹配的 examples 包括哪些]]></title>
+            <description><![CDATA[<span>用户昵称：zxch3n <br> Username：7E452F9D-89B4-400B-AE1A-9C62A988AE53</span><br><br>🤯Copilot 这能力太帅了，以后可能真的不用再写正则表达式了。而且除了能生成正则表达式还能问 Copilot 一个正则表达式能匹配的 examples 包括哪些<br><video src="https://videocdn.jellow.site/lgbhtX-xpoev-VQzuUci1VEi7HLT.mp4?sign=93a49dfd46914d9a0050af3514501584&amp;t=6363bc5d" controls=""></video>]]></description>
+            <pubDate>Thu, 03 Nov 2022 05:04:34 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63634be25ae36784609f36c8</guid>
+            <link>https://m.okjike.com/originalPosts/63634be25ae36784609f36c8</link>
+            
+            
+            
+            <author><![CDATA[zxch3n]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[无题]]></title>
@@ -98,22 +114,6 @@
             
             
             <author><![CDATA[songjp]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[碎碎念： 数据可视化的实现，交互，和低代码工具 📈🎞️ 前两天一个UMICH的学妹跑过来让我推荐实现数据可视化的工具。她想要展示一段视频，使用折线图展示时...]]></title>
-            <description><![CDATA[<span>用户昵称：创作XR的林不在 <br> Username：e3e835a9-b328-45b5-b27b-7a1b809af5ea</span><br><br>碎碎念： 数据可视化的实现，交互，和低代码工具<br><br>📈🎞️<br>前两天一个UMICH的学妹跑过来让我推荐实现数据可视化的工具。她想要展示一段视频，使用折线图展示时序数据，以及实现这两种数据之间简单的交互联动。在见过我们组超多复杂数据可视化以及交互之后，我觉得这个需求简直太简单了。<br><br>🙈🙊<br>直到她问，有没有什么现成的代码库可以直接套进去的？( ･᷄ὢ･᷅ )<br><br>我想了想，哟，还真没有 ｡◔‸◔｡<br><br>💦🌐<br>我感到有一点吃惊，同时意识到这件事情其实也没有那么简单。单视图的交互可视化都很好实现，有很多GUI工具如Excel和Tableau可以做。但是多视图交互可视化，涉及到视图之间的联动和交互，只能是通过写代码实现了。甚至会写python做数据分析也不行，现在主流方式是使用Vue.js/React.js (前端) + Flask (后端)  + Mongodb (数据库) 来搭建一个Web可视化应用。<br><br>我和她说，虽然我们组有Web应用的框架模板，但是需要学很多东西才能用它，包括前端基础三件套（HTML、CSS、JS/）、框架（Vue/React）、数据可视化库（D3.js、Vega等）、后端搭建、前后端通信等。<br><br>然后，我发现她并不知道如何跑起来我们的框架模板。想了想，好难解释哦 ::&gt;_&lt;::。于是我说，你要不直接考虑下外包吧，正好前段时间听起我朋友的朋友在接单来着。于是这个事情就解决了。~(＾◇^)～<br><br>🎃🎃<br>我之前觉得自己技能点不够过硬，时常难过来着。但是这件事情过后，我有些释然了，因为习得我现在的技能，也并非容易的事情。我回想起我学Web开发可视化的经历。我大三的时候，先是有一位师兄仔细地带着我过了一遍模板，所以很快在一个月内就从Web小白上手完成了自己的第一个TED演讲视频可视分析项目（见图）。但是如果没有人带的话，想要完成大量的视频、语音分析，然后将分析结果作为输入，在Web上画出几个联动的视图，其实很难。第二个项目我没有用前端框架，直接用原生JS写，踩了好多坑。后面的项目我就学乖了，每次都用组里的模板，省去了诸多麻烦的同时也使得我的前端开发水平停留在了大四那一年。不过，这也是没有办法的事情，毕竟没有时间往开发能力上精进，每次科研项目都能完成就可以了。<br><br>🤔🤔<br>我也感到吃惊。我大四就开始关注可视化低代码工具的研究，当时就很多研究者在研究基于规则和基于DL的方法来降低可视化实现门槛。后来博二就不关注了，如今猛回头一看，可视化低代码工具还是没到实现多视图交互那一步。想起之前问艺术生做虚拟现实作品遇到的最大问题时，回答也是交互的实现。原来，交互真是挡在低代码工具面前的一座大山。虽然还有很多研究问题没解决，但是可视化低代码工具确是越来越受重视了。何以见得？我大四的时候，导师老训我们关注可视化低代码工具学术品位不高，除了我们之外没人关心(T^T)；但是现在他不了，因为我们最近拿到了政府的研究基金和某大厂的研究合作(๑˃̵ᴗ˂̵)و。<br><img src="https://cdnv2.ruguoapp.com/FupLBEFZsKzsNBPXYPWVHe6-_Tpwv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 31 Oct 2022 05:37:50 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/635f5f2ecca9fd28a10fbaba</guid>
-            <link>https://m.okjike.com/originalPosts/635f5f2ecca9fd28a10fbaba</link>
-            
-            
-            
-            <author><![CDATA[创作XR的林不在]]></author>
             
                 
             
