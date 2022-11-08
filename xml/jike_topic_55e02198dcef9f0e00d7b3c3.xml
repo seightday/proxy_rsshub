@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 08 Nov 2022 12:47:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Nov 2022 16:33:43 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[当支线任务量远大于主线任务量的时候，一天下来会发现很忙，但是啥也没干。解决这个问题有几个思路： 1. 减少支线任务量，能不做的就不做，能用嘴做的绝不用手做...]]></title>
+            <description><![CDATA[<span>用户昵称：Barret李靖 <br> Username：83F8C091-4C46-43B7-B7AC-B90CD72255E7</span><br><br>当支线任务量远大于主线任务量的时候，一天下来会发现很忙，但是啥也没干。解决这个问题有几个思路：<br><br>1. 减少支线任务量，能不做的就不做，能用嘴做的绝不用手做<br>2. 转移支线任务，找到合适的人，将事情统一收敛到合适的人处理<br>3. 降低支线任务的优先级，排期，甚至无限排期<br>4. 润]]></description>
+            <pubDate>Tue, 08 Nov 2022 09:41:15 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/636a243b61fb14b79fc6800a</guid>
+            <link>https://m.okjike.com/originalPosts/636a243b61fb14b79fc6800a</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[无题]]></title>
@@ -162,22 +178,6 @@
             
             
             <author><![CDATA[张小飞Official]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[NotionNext —— Notion 静态博客生成器 链接：https://github.com/tangly1024/NotionNext 一个使用 NextJS + Notion API 实现的，部署在 Vercel 上的静态博客系...]]></title>
-            <description><![CDATA[<span>用户昵称：龙爪槐守望者 <br> Username：2FCBB59D-93C2-488A-AFBD-38B70B267742</span><br><br>NotionNext —— Notion 静态博客生成器<br>链接：https://github.com/tangly1024/NotionNext<br>一个使用 NextJS + Notion API 实现的，部署在 Vercel 上的静态博客系统，只要在 Notion 写好文章就会自动同发布为静态博客，从而专注于写作、而不需要操心网站的维护。<br><img src="https://cdnv2.ruguoapp.com/FqmW3u_4cv6eZr7YWYU-f9iWhcjpv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sun, 23 Oct 2022 10:03:55 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6355118b278f3f952ba87709</guid>
-            <link>https://m.okjike.com/originalPosts/6355118b278f3f952ba87709</link>
-            
-            
-            
-            <author><![CDATA[龙爪槐守望者]]></author>
             
                 
             
