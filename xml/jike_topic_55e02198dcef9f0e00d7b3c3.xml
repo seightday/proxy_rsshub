@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 09 Nov 2022 20:22:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Nov 2022 01:56:19 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[fly.io是最近发现的一个很不错的服务部署提供商，和vercel netlify最大的区别是可以使用本地文件系统。用来部署带有sqlite的应用很舒服。命令行操作很流畅，全程...]]></title>
+            <description><![CDATA[<span>用户昵称：银翼杀手2022 <br> Username：C81C01BB-099D-4E8C-9D8E-85CBE59AA49B</span><br><br>fly.io是最近发现的一个很不错的服务部署提供商，和vercel netlify最大的区别是可以使用本地文件系统。用来部署带有sqlite的应用很舒服。命令行操作很流畅，全程10分钟就把一个next.js部署上去了。配置上github actions就非常方便的做到自动化部署了。<br><br>它有免费方案，目前另外有5美元以下免单。<br><br>https://fly.io/<br><img src="https://cdnv2.ruguoapp.com/FrTuVJ6YCBOgHxIrS51QEy77_BY9v3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 09 Nov 2022 15:30:08 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/636bc780135f7f376ecc9144</guid>
+            <link>https://m.okjike.com/originalPosts/636bc780135f7f376ecc9144</link>
+            
+            
+            
+            <author><![CDATA[银翼杀手2022]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[开发了两个月的点对点同步终于快好了。 这是我理想中的笔记软件的同步方式。 太长不看版：可以理解为自动解决任何冲突的 git。 1. 任意设备之间点对点同步，同步...]]></title>
@@ -98,22 +114,6 @@
             
             
             <author><![CDATA[银翼杀手2022]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Chartscss —— 纯 CSS 实现的可视化图表库 链接：http://chartscss.org/ 像 Ant V、Echart 之类的前端图表库都得用到 Javascript，而这款可视化图表库只用到 CS...]]></title>
-            <description><![CDATA[<span>用户昵称：龙爪槐守望者 <br> Username：2FCBB59D-93C2-488A-AFBD-38B70B267742</span><br><br>Chartscss —— 纯 CSS 实现的可视化图表库<br>链接：http://chartscss.org/<br>像 Ant V、Echart 之类的前端图表库都得用到 Javascript，而这款可视化图表库只用到 CSS，目前支持 16 种图表，并且是开源的。<br><img src="https://cdnv2.ruguoapp.com/FvfqiPUiyPncwLTlS9g5Y7QhGx8vv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 05 Nov 2022 17:20:21 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63669b55523dfb2f48a8538a</guid>
-            <link>https://m.okjike.com/originalPosts/63669b55523dfb2f48a8538a</link>
-            
-            
-            
-            <author><![CDATA[龙爪槐守望者]]></author>
             
                 
             
