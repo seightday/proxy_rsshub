@@ -21,8 +21,40 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Fri, 11 Nov 2022 08:29:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Nov 2022 12:45:22 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[新鲜出炉的「八叉树」演示。 作用特别多： ①用于物理两两碰撞检测，只检测覆盖空间的对象（绿色代表需要检测得对象）。如果不优化，则时间复杂度是O(n²)，优化...]]></title>
+            <description><![CDATA[<span>用户昵称：0b00001010 <br> Username：C027E21D-DFD6-4F88-AF40-31871E1FB6F4</span><br><br>新鲜出炉的「八叉树」演示。<br><br>作用特别多：<br>①用于物理两两碰撞检测，只检测覆盖空间的对象（绿色代表需要检测得对象）。如果不优化，则时间复杂度是O(n²)，优化后是O(logn)；<br>②忽略远处不需要交互的对象、不需要渲染的对象等。<br><video src="https://videocdn.jellow.site/FqaEPv9VaQS17pWE_Lp4ohqesVdQ.mp4?sign=ee2b60103d246be5853b06b6a6ca2dfe&amp;t=636e4aea" controls=""></video>]]></description>
+            <pubDate>Fri, 11 Nov 2022 07:00:44 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/636df31c61fb14b79f183315</guid>
+            <link>https://m.okjike.com/originalPosts/636df31c61fb14b79f183315</link>
+            
+            
+            
+            <author><![CDATA[0b00001010]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[想升级macOS的朋友们注意！！！ macOS Ventura 升级后会让 Git 失效， 提示不再支持pre-release版本， 需要先在命令行 xcode-select --install， 再 brew instal...]]></title>
+            <description><![CDATA[<span>用户昵称：少北晨 <br> Username：EF89F1E4-4EE0-4C83-AFF8-A3705E7B51C1</span><br><br>想升级macOS的朋友们注意！！！<br>macOS Ventura 升级后会让 Git 失效， 提示不再支持pre-release版本，<br>需要先在命令行 xcode-select --install，<br>再 brew install git，相当于重新安装才行。<br>另外我觉得 Ventura 除了台前调度，其他也没什么自己能用上的...<br><img src="https://cdnv2.ruguoapp.com/FrUcoAFJiY0vLw10Y8QlgJBgQE1Ev3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 11 Nov 2022 02:16:31 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/636db07fe6b41e72d1277c20</guid>
+            <link>https://m.okjike.com/originalPosts/636db07fe6b41e72d1277c20</link>
+            
+            
+            
+            <author><![CDATA[少北晨]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[撸了个Banner。 https://github.com/chenwansal]]></title>
@@ -41,6 +73,22 @@
         </item>
         
         <item>
+            <title><![CDATA[国产静电容键盘的手感真的好棒啊。 同事今天没来，我拿来打了一千个字体验。 之前也体验过同事的HHKB，嘎嘣硬的手感真的没啥意思。打起字来真的就是「嘎嘣嘎嘣」...]]></title>
+            <description><![CDATA[<span>用户昵称：rainy. <br> Username：BFEEA634-D661-4951-8931-DCC7D1D98D16</span><br><br>国产静电容键盘的手感真的好棒啊。<br><br>同事今天没来，我拿来打了一千个字体验。<br>之前也体验过同事的HHKB，嘎嘣硬的手感真的没啥意思。打起字来真的就是「嘎嘣嘎嘣」的，很硬，感觉比红轴差远了。<br><br>我自己用青轴IKBC Poker2 和红轴的Filco，最近感觉苹果的键盘也挺舒服的又拿来用。<br>还有一个X200的改装键盘扔家里用。<br><br>这个国产Niz的静电容真的，很柔，像红轴一样，又不松垮，键程也刚好，有方向键，键位也合理。<br>真的输入起来神清气爽，有手指马杀鸡的赶脚了。搜了搜只要六百多，感慨共和国的制造业真是好，普惠老百姓了。<br><img src="https://cdnv2.ruguoapp.com/FikRML-oK-JGxe8tJTQlv-vBtRQ2v3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 10 Nov 2022 09:51:56 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/636cc9bc3032066895005f46</guid>
+            <link>https://m.okjike.com/originalPosts/636cc9bc3032066895005f46</link>
+            
+            
+            
+            <author><![CDATA[rainy.]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[fly.io是最近发现的一个很不错的服务部署提供商，和vercel netlify最大的区别是可以使用本地文件系统。用来部署带有sqlite的应用很舒服。命令行操作很流畅，全程...]]></title>
             <description><![CDATA[<span>用户昵称：银翼杀手2022 <br> Username：C81C01BB-099D-4E8C-9D8E-85CBE59AA49B</span><br><br>fly.io是最近发现的一个很不错的服务部署提供商，和vercel netlify最大的区别是可以使用本地文件系统。用来部署带有sqlite的应用很舒服。命令行操作很流畅，全程10分钟就把一个next.js部署上去了。配置上github actions就非常方便的做到自动化部署了。<br><br>它有免费方案，目前另外有5美元以下免单。<br><br>https://fly.io/<br><img src="https://cdnv2.ruguoapp.com/FrTuVJ6YCBOgHxIrS51QEy77_BY9v3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Wed, 09 Nov 2022 15:30:08 GMT</pubDate>
@@ -50,22 +98,6 @@
             
             
             <author><![CDATA[银翼杀手2022]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[开发了两个月的点对点同步终于快好了。 这是我理想中的笔记软件的同步方式。 太长不看版：可以理解为自动解决任何冲突的 git。 1. 任意设备之间点对点同步，同步...]]></title>
-            <description><![CDATA[<span>用户昵称：HamsterBase <br> Username：A65DE6E7-68DD-4613-9090-3BAD2161E532</span><br><br>开发了两个月的点对点同步终于快好了。 这是我理想中的笔记软件的同步方式。 <br><br>太长不看版：可以理解为自动解决任何冲突的 git。<br><br>1. 任意设备之间点对点同步，同步后所有客户端达到最终一致性。 不需要手动解决冲突，不会丢失任何数据。（除非实现有 bug）<br>2. 软件所有功能都不依赖网络，离线在线完全无感。<br>3. 同步速度飞快，本人 2000 个网页，同步不到 5 分钟。（一共 2.6g）<br>4. 理论上客户端之间可以以任何介质同步。 如 webdav ，移动硬盘，iCloud，FTP，oss（开发中）<br>5.  仅需 200 行代码即可以实现一个同步服务服务器。（未来会提供详细的设计文档，并且提供对应的开源实现。）<br><img src="https://cdnv2.ruguoapp.com/FhTgepNhMbT7y3FpZph5pHw4aWTev3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FlYlai3g29DgcErgXfPO_WN_gkSAv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 08 Nov 2022 16:05:03 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/636a7e2f20c53526e665b7b4</guid>
-            <link>https://m.okjike.com/originalPosts/636a7e2f20c53526e665b7b4</link>
-            
-            
-            
-            <author><![CDATA[HamsterBase]]></author>
             
                 
             
@@ -121,22 +153,6 @@
         </item>
         
         <item>
-            <title><![CDATA[参加校招前，一定要刷完这些必刷题，另外欢迎大家关注我呀，我会努力输出干货的。 仓库地址：https://github.com/chefyuan/algorithm-base]]></title>
-            <description><![CDATA[<span>用户昵称：程序厨 <br> Username：5d936b36-d797-476b-bcff-8690083d6f77</span><br><br>参加校招前，一定要刷完这些必刷题，另外欢迎大家关注我呀，我会努力输出干货的。<br>仓库地址：https://github.com/chefyuan/algorithm-base<br><img src="https://cdnv2.ruguoapp.com/Fv7p-tnpnfPlpKneYFS70L6-P9jkv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FkUeDSpEOnqETfitcqgx_YKJHOFyv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FtEQQgilFUEXSrgkV3b_oKHCifqKv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FuVmSIPMq8B9zaDWrII8291yqBQ3v3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FrT3wtXME0q8D-mEvwj0esjwt60dv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FkkGQNSbBiXHx95ecNDys6ZzLHk4v3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FkONGMmKZdHljLiY8bLeIDSqaOxTv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fg_3a78KwyfR5uJNRogoIrPwss3kv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 05 Nov 2022 11:42:13 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63664c15c3f54232faedde7a</guid>
-            <link>https://m.okjike.com/originalPosts/63664c15c3f54232faedde7a</link>
-            
-            
-            
-            <author><![CDATA[程序厨]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Bug 退🤺退🤺退🤺 1024，祝即刻上的程序员兄弟们 码到成功🐎]]></title>
             <description><![CDATA[<span>用户昵称：伙伴云 <br> Username：042ef40f-461d-4baf-a330-c56e223ba385</span><br><br>Bug 退🤺退🤺退🤺<br>1024，祝即刻上的程序员兄弟们<br>码到成功🐎<br><img src="https://cdnv2.ruguoapp.com/FvIlInrffsqhr-HZ9cZxa10mWXKov3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FvLhBgjq6NUgggevniBEfiVDGpO-v3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FvUe2YxlsB-z7XJJdij0bJRQZCotv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FkXOFXRHsYHuFlvmxlqXugjHUjnyv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fj3KfbQ7ySfL0NgECtPAcNsBCpi2v3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fs6VL13OEtSZfUlVVLRrzR36xHaev3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FgzIZjeWEebcUQ_0M4a6sbLI0CXIv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FoTQYXmM327XVetFUvycnzgVnwVUv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FseReTW24uGdnAMWZvojJGHek5ZHv3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Mon, 24 Oct 2022 09:10:53 GMT</pubDate>
@@ -162,22 +178,6 @@
             
             
             <author><![CDATA[Barret李靖]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[简单讲下qt的渲染引擎。]]></title>
-            <description><![CDATA[<span>用户昵称：张小飞Official <br> Username：5ffa0b27-7eee-4611-9529-bbffdc3053f4</span><br><br>                    <img src="https://mmbiz.qpic.cn/mmbiz_jpg/sUBdorp8TVHFiaNrMpwLNUI5hENs7hTbroaXRTaics3bfOl4FECumLLeDAZIP9Liato5vLNZHEnnQYBN6AssqRbtw/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>                    <a href="https://mp.weixin.qq.com/s/o7aEEn6nX-Zer8FStYeqjA">小谈QWidget的绘制引擎 &amp; 缺点</a><br>                <br>简单讲下qt的渲染引擎。]]></description>
-            <pubDate>Mon, 24 Oct 2022 00:12:56 GMT</pubDate>
-            <guid isPermaLink="false">https://mp.weixin.qq.com/s/o7aEEn6nX-Zer8FStYeqjA</guid>
-            <link>https://mp.weixin.qq.com/s/o7aEEn6nX-Zer8FStYeqjA</link>
-            
-            
-            
-            <author><![CDATA[张小飞Official]]></author>
             
                 
             
