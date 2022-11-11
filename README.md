@@ -14,7 +14,15 @@ https://github.com/wdssmq/proxy_rsshub
 
 ---start---
 
-2022-11-11 04:23:06
+2022-11-11 09:02:32
+
+title: 最新限免（GoFans）
+
+path: [appstore/gofans](xml/appstore_gofans.xml "最新限免（GoFans）") 「[raw](xml/appstore_gofans.xml?raw=true "最新限免（GoFans）")」
+
+title: 每日精品限免 / 促销应用（鲜面连线 by AppSo）
+
+path: [appstore/xianmian](xml/appstore_xianmian.xml "每日精品限免 / 促销应用（鲜面连线 by AppSo）") 「[raw](xml/appstore_xianmian.xml?raw=true "每日精品限免 / 促销应用（鲜面连线 by AppSo）")」
 
 title: 分享白菜达人的微博
 
