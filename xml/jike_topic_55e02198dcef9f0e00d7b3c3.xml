@@ -21,12 +21,12 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sat, 12 Nov 2022 08:26:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Nov 2022 12:36:30 GMT</lastBuildDate>
         <ttl>1</ttl>
         
         <item>
             <title><![CDATA[新鲜出炉的「八叉树」演示。 作用特别多： ①用于物理两两碰撞检测，只检测覆盖空间的对象（绿色代表需要检测得对象）。如果不优化，则时间复杂度是O(n²)，优化...]]></title>
-            <description><![CDATA[<span>用户昵称：0b00001010 <br> Username：C027E21D-DFD6-4F88-AF40-31871E1FB6F4</span><br><br>新鲜出炉的「八叉树」演示。<br><br>作用特别多：<br>①用于物理两两碰撞检测，只检测覆盖空间的对象（绿色代表需要检测得对象）。如果不优化，则时间复杂度是O(n²)，优化后是O(logn)；<br>②忽略远处不需要交互的对象、不需要渲染的对象等。<br><video src="https://videocdn.jellow.site/FqaEPv9VaQS17pWE_Lp4ohqesVdQ.mp4?sign=082c5b0197e218f78cac5f862feb3bce&amp;t=636f5e4f" controls=""></video>]]></description>
+            <description><![CDATA[<span>用户昵称：0b00001010 <br> Username：C027E21D-DFD6-4F88-AF40-31871E1FB6F4</span><br><br>新鲜出炉的「八叉树」演示。<br><br>作用特别多：<br>①用于物理两两碰撞检测，只检测覆盖空间的对象（绿色代表需要检测得对象）。如果不优化，则时间复杂度是O(n²)，优化后是O(logn)；<br>②忽略远处不需要交互的对象、不需要渲染的对象等。<br><video src="https://videocdn.jellow.site/FqaEPv9VaQS17pWE_Lp4ohqesVdQ.mp4?sign=9b68042d6215083c737c7033cbcb18e7&amp;t=636f9a56" controls=""></video>]]></description>
             <pubDate>Fri, 11 Nov 2022 07:00:44 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/636df31c61fb14b79f183315</guid>
             <link>https://m.okjike.com/originalPosts/636df31c61fb14b79f183315</link>
@@ -89,6 +89,22 @@
         </item>
         
         <item>
+            <title><![CDATA[建议计算机同学赶快码住这篇文章💯 哈喽，大家好，我是厨子，一位酷爱做饭的程序员 最近有很多宝子向我咨询学习路线的事，也有一些0基础转码的同学问我入门的...]]></title>
+            <description><![CDATA[<span>用户昵称：程序厨 <br> Username：5d936b36-d797-476b-bcff-8690083d6f77</span><br><br>建议计算机同学赶快码住这篇文章💯<br><br>哈喽，大家好，我是厨子，一位酷爱做饭的程序员<br><br>最近有很多宝子向我咨询学习路线的事，也有一些0基础转码的同学问我入门的路线，索性就写了这篇笔记，主要包括，算法，计算机网络，Java ，C++，MySQL，Redis ，操作系统，并发，JVM 等课程的优质书籍及视频。<br><br>强烈建议计算机同学个转码同学码住这篇笔记。<br><br>另外关于校招指南，因为这里不能私信，大家可以在我的公众号或者小红书私信我，我发你。<br><img src="https://cdnv2.ruguoapp.com/Fon5-CxDVVm_cSXmnlgxGrzWHrlBv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/ForF_jLhgKWEg12OvTzwDTuYZrxrv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fne8gdvWd1bbghH333xzLPoUjGLHv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FoLE9PRwOR3xQg31_5yheclbhNkkv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fk_rwbBx6Fl-DyL1OmGLklvSH7Klv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FtklHvvMDthjooyvOHdCYPXuVT-mv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fs_xeErMS-2vwtfDroZcTjnJK18Hv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fue1jmOK6YePTvrL1xA8EVOVpZiFv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 10 Nov 2022 04:47:54 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/636c827a8dcd2d9198b56375</guid>
+            <link>https://m.okjike.com/originalPosts/636c827a8dcd2d9198b56375</link>
+            
+            
+            
+            <author><![CDATA[程序厨]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[fly.io是最近发现的一个很不错的服务部署提供商，和vercel netlify最大的区别是可以使用本地文件系统。用来部署带有sqlite的应用很舒服。命令行操作很流畅，全程...]]></title>
             <description><![CDATA[<span>用户昵称：银翼杀手2022 <br> Username：C81C01BB-099D-4E8C-9D8E-85CBE59AA49B</span><br><br>fly.io是最近发现的一个很不错的服务部署提供商，和vercel netlify最大的区别是可以使用本地文件系统。用来部署带有sqlite的应用很舒服。命令行操作很流畅，全程10分钟就把一个next.js部署上去了。配置上github actions就非常方便的做到自动化部署了。<br><br>它有免费方案，目前另外有5美元以下免单。<br><br>https://fly.io/<br><img src="https://cdnv2.ruguoapp.com/FrTuVJ6YCBOgHxIrS51QEy77_BY9v3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Wed, 09 Nov 2022 15:30:08 GMT</pubDate>
@@ -130,22 +146,6 @@
             
             
             <author><![CDATA[阿法兔]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[发现一个很好的JS 刷题网站：https://bigfrontend.dev 可以快速的看题目按要求写实现代码，并且提供test进行约束你写的代码正确性，短时间内提高手写代码能力很...]]></title>
-            <description><![CDATA[<span>用户昵称：银翼杀手2022 <br> Username：C81C01BB-099D-4E8C-9D8E-85CBE59AA49B</span><br><br>发现一个很好的JS 刷题网站：https://bigfrontend.dev<br><br>可以快速的看题目按要求写实现代码，并且提供test进行约束你写的代码正确性，短时间内提高手写代码能力很有帮助。<br><img src="https://cdnv2.ruguoapp.com/FqqruPPzPLdmMDm1pqyIlxarKS0Ev3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 07 Nov 2022 08:27:15 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6368c163e389084e2af33527</guid>
-            <link>https://m.okjike.com/originalPosts/6368c163e389084e2af33527</link>
-            
-            
-            
-            <author><![CDATA[银翼杀手2022]]></author>
             
                 
             
