@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 15 Nov 2022 12:39:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Nov 2022 16:29:28 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[现在看个动画片都得要懂CS基础了吗，门槛都这么高了？]]></title>
+            <description><![CDATA[<span>用户昵称：麦克肥 <br> Username：2bf33b6e-cc69-4e7d-9d29-6a516fc3d71a</span><br><br>现在看个动画片都得要懂CS基础了吗，门槛都这么高了？<br><img src="https://cdnv2.ruguoapp.com/FjrFPs29L11hEm2LIc-57STcpqv6v3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fvg7UVqV-CGf3twiv2ipYmslJLlLv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FsQrg8n45fayjyDX9T3inIjfyPzGv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 15 Nov 2022 07:26:33 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63733f294cf9f4f2bd7e348e</guid>
+            <link>https://m.okjike.com/originalPosts/63733f294cf9f4f2bd7e348e</link>
+            
+            
+            
+            <author><![CDATA[麦克肥]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[最近Github上关注了一些程序员之后，主页开始有内容可刷了。 如果你活跃在Github上，可以在评论区留下你的ID，我来关注你。]]></title>
@@ -138,26 +154,10 @@
         
         <item>
             <title><![CDATA[新鲜出炉的「八叉树」演示。 作用特别多： ①用于物理两两碰撞检测，只检测覆盖空间的对象（绿色代表需要检测得对象）。如果不优化，则时间复杂度是O(n²)，优化...]]></title>
-            <description><![CDATA[<span>用户昵称：0b00001010 <br> Username：C027E21D-DFD6-4F88-AF40-31871E1FB6F4</span><br><br>新鲜出炉的「八叉树」演示。<br><br>作用特别多：<br>①用于物理两两碰撞检测，只检测覆盖空间的对象（绿色代表需要检测得对象）。如果不优化，则时间复杂度是O(n²)，优化后是O(logn)；<br>②忽略远处不需要交互的对象、不需要渲染的对象等。<br><video src="https://videocdn.jellow.site/FqaEPv9VaQS17pWE_Lp4ohqesVdQ.mp4?sign=d4c42d18f82bd2fcb732a7e911013282&amp;t=63738d60" controls=""></video>]]></description>
+            <description><![CDATA[<span>用户昵称：0b00001010 <br> Username：C027E21D-DFD6-4F88-AF40-31871E1FB6F4</span><br><br>新鲜出炉的「八叉树」演示。<br><br>作用特别多：<br>①用于物理两两碰撞检测，只检测覆盖空间的对象（绿色代表需要检测得对象）。如果不优化，则时间复杂度是O(n²)，优化后是O(logn)；<br>②忽略远处不需要交互的对象、不需要渲染的对象等。<br><video src="https://videocdn.jellow.site/FqaEPv9VaQS17pWE_Lp4ohqesVdQ.mp4?sign=1dbda3a10889b34ce33fe565019d8390&amp;t=6373c346" controls=""></video>]]></description>
             <pubDate>Fri, 11 Nov 2022 07:00:44 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/636df31c61fb14b79f183315</guid>
             <link>https://m.okjike.com/originalPosts/636df31c61fb14b79f183315</link>
-            
-            
-            
-            <author><![CDATA[0b00001010]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[撸了个Banner。 https://github.com/chenwansal]]></title>
-            <description><![CDATA[<span>用户昵称：0b00001010 <br> Username：C027E21D-DFD6-4F88-AF40-31871E1FB6F4</span><br><br>撸了个Banner。<br><br>https://github.com/chenwansal<br><img src="https://cdnv2.ruguoapp.com/Fja_UONKy_sbVi68bY0wJdoMGNT7v3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 10 Nov 2022 13:35:49 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/636cfe3593dac27a9594e987</guid>
-            <link>https://m.okjike.com/originalPosts/636cfe3593dac27a9594e987</link>
             
             
             
