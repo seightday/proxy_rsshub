@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 16 Nov 2022 08:28:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Nov 2022 12:39:42 GMT</lastBuildDate>
         <ttl>1</ttl>
         
         <item>
@@ -34,6 +34,22 @@
             
             
             <author><![CDATA[回憶_Retrospection]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[我们的嵌入式图数据库Kùzu开源啦，欢迎大家pip一键安装试玩~ Github repo：https://github.com/kuzudb/kuzu 项目详细介绍：https://kuzudb.com/docs/blog 欢迎...]]></title>
+            <description><![CDATA[<span>用户昵称：guodong <br> Username：b9af0b56-4cb4-4b8a-97ce-3a40293daf54</span><br><br>我们的嵌入式图数据库Kùzu开源啦，欢迎大家pip一键安装试玩~<br>Github repo：https://github.com/kuzudb/kuzu<br>项目详细介绍：https://kuzudb.com/docs/blog<br>欢迎试玩并反馈给我们任何bug和想要的新特性！<br><br>Kù-zu (‘bright’ + ‘to know’) 一词来源于人类最古老的语言——苏美尔语，表示智慧和知识（wisdom）。]]></description>
+            <pubDate>Tue, 15 Nov 2022 07:36:01 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63734161ad66d3c3adb13a74</guid>
+            <link>https://m.okjike.com/originalPosts/63734161ad66d3c3adb13a74</link>
+            
+            
+            
+            <author><![CDATA[guodong]]></author>
             
                 
             
@@ -154,7 +170,7 @@
         
         <item>
             <title><![CDATA[新鲜出炉的「八叉树」演示。 作用特别多： ①用于物理两两碰撞检测，只检测覆盖空间的对象（绿色代表需要检测得对象）。如果不优化，则时间复杂度是O(n²)，优化...]]></title>
-            <description><![CDATA[<span>用户昵称：0b00001010 <br> Username：C027E21D-DFD6-4F88-AF40-31871E1FB6F4</span><br><br>新鲜出炉的「八叉树」演示。<br><br>作用特别多：<br>①用于物理两两碰撞检测，只检测覆盖空间的对象（绿色代表需要检测得对象）。如果不优化，则时间复杂度是O(n²)，优化后是O(logn)；<br>②忽略远处不需要交互的对象、不需要渲染的对象等。<br><video src="https://videocdn.jellow.site/FqaEPv9VaQS17pWE_Lp4ohqesVdQ.mp4?sign=7a9a1edf0095d1e030a0d8c6d8390c01&amp;t=6374a62f" controls=""></video>]]></description>
+            <description><![CDATA[<span>用户昵称：0b00001010 <br> Username：C027E21D-DFD6-4F88-AF40-31871E1FB6F4</span><br><br>新鲜出炉的「八叉树」演示。<br><br>作用特别多：<br>①用于物理两两碰撞检测，只检测覆盖空间的对象（绿色代表需要检测得对象）。如果不优化，则时间复杂度是O(n²)，优化后是O(logn)；<br>②忽略远处不需要交互的对象、不需要渲染的对象等。<br><video src="https://videocdn.jellow.site/FqaEPv9VaQS17pWE_Lp4ohqesVdQ.mp4?sign=2d0429b22529250234bd87d722ea8d89&amp;t=6374df4f" controls=""></video>]]></description>
             <pubDate>Fri, 11 Nov 2022 07:00:44 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/636df31c61fb14b79f183315</guid>
             <link>https://m.okjike.com/originalPosts/636df31c61fb14b79f183315</link>
@@ -162,22 +178,6 @@
             
             
             <author><![CDATA[0b00001010]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[如何衡量一个会议的质量？有一个简单的判断，观察会议过程中叙述和决策的比例，决策比例越高，会议质量越高。 如果整个会议都没有决策过程，那就是一个通知会，...]]></title>
-            <description><![CDATA[<span>用户昵称：Barret李靖 <br> Username：83F8C091-4C46-43B7-B7AC-B90CD72255E7</span><br><br>如何衡量一个会议的质量？有一个简单的判断，观察会议过程中叙述和决策的比例，决策比例越高，会议质量越高。<br><br>如果整个会议都没有决策过程，那就是一个通知会，这种会几乎没有开展的必要；如果整个会议你都没有参与决策讨论，那也没有参与的必要，只需要在会议结束后关注会议纪要就行了。]]></description>
-            <pubDate>Wed, 09 Nov 2022 07:17:47 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/636b541bc60f73a1c240a23a</guid>
-            <link>https://m.okjike.com/originalPosts/636b541bc60f73a1c240a23a</link>
-            
-            
-            
-            <author><![CDATA[Barret李靖]]></author>
             
                 
             
