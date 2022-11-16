@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 16 Nov 2022 04:27:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Nov 2022 08:28:37 GMT</lastBuildDate>
         <ttl>1</ttl>
         
         <item>
@@ -154,7 +154,7 @@
         
         <item>
             <title><![CDATA[新鲜出炉的「八叉树」演示。 作用特别多： ①用于物理两两碰撞检测，只检测覆盖空间的对象（绿色代表需要检测得对象）。如果不优化，则时间复杂度是O(n²)，优化...]]></title>
-            <description><![CDATA[<span>用户昵称：0b00001010 <br> Username：C027E21D-DFD6-4F88-AF40-31871E1FB6F4</span><br><br>新鲜出炉的「八叉树」演示。<br><br>作用特别多：<br>①用于物理两两碰撞检测，只检测覆盖空间的对象（绿色代表需要检测得对象）。如果不优化，则时间复杂度是O(n²)，优化后是O(logn)；<br>②忽略远处不需要交互的对象、不需要渲染的对象等。<br><video src="https://videocdn.jellow.site/FqaEPv9VaQS17pWE_Lp4ohqesVdQ.mp4?sign=bb564d027e072bc57615965ae9b699f0&amp;t=63746c0f" controls=""></video>]]></description>
+            <description><![CDATA[<span>用户昵称：0b00001010 <br> Username：C027E21D-DFD6-4F88-AF40-31871E1FB6F4</span><br><br>新鲜出炉的「八叉树」演示。<br><br>作用特别多：<br>①用于物理两两碰撞检测，只检测覆盖空间的对象（绿色代表需要检测得对象）。如果不优化，则时间复杂度是O(n²)，优化后是O(logn)；<br>②忽略远处不需要交互的对象、不需要渲染的对象等。<br><video src="https://videocdn.jellow.site/FqaEPv9VaQS17pWE_Lp4ohqesVdQ.mp4?sign=7a9a1edf0095d1e030a0d8c6d8390c01&amp;t=6374a62f" controls=""></video>]]></description>
             <pubDate>Fri, 11 Nov 2022 07:00:44 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/636df31c61fb14b79f183315</guid>
             <link>https://m.okjike.com/originalPosts/636df31c61fb14b79f183315</link>
