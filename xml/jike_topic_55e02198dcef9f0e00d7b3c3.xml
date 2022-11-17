@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 16 Nov 2022 20:21:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 01:48:10 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[有一些大公司关停的产品，并不是产品方向本身不行，可能只是大公司各项成本比较高，投入资源多，导致ROI不高。 如果换一个小团队来做，养活团队完全不成问题的。...]]></title>
+            <description><![CDATA[<span>用户昵称：哥飞 <br> Username：a2d6acc1-626f-4d15-a22a-849e88a4c9f0</span><br><br>有一些大公司关停的产品，并不是产品方向本身不行，可能只是大公司各项成本比较高，投入资源多，导致ROI不高。<br>如果换一个小团队来做，养活团队完全不成问题的。<br>所以，我建议有技术却没有产品爱迪尔的技术人们，去扒一扒国内外各个大公司关停产品库，找到一个需求，找到一个切入点，你再做一个产品。<br>为什么很多夫妻店可以一家店养活一家子一辈子，就是因为夫妻店不需要给员工发工资，赚的钱其实就是夫妻二人的工资。<br>为什么大公司渡过难关短时间最有效的方法就是裁员，就是因为在一些部门里，人员工资占了大头。<br>所以，技术人不雇佣他人，自己开发产品，就可以把维持一个产品运转所需资金降低到最低。]]></description>
+            <pubDate>Thu, 17 Nov 2022 00:35:49 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/637581e578e1229859f0b1fa</guid>
+            <link>https://m.okjike.com/originalPosts/637581e578e1229859f0b1fa</link>
+            
+            
+            
+            <author><![CDATA[哥飞]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[用MarkDown搭博客有啥现成的库/方案吗？ 我现在的情况： 1. 不想用Notion，因为访问不稳定 2. 在用Obsidian，写完Push到Github 3. 有个5年的云服务器（已备案）+...]]></title>
@@ -50,22 +66,6 @@
             
             
             <author><![CDATA[guodong]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[现在看个动画片都得要懂CS基础了吗，门槛都这么高了？]]></title>
-            <description><![CDATA[<span>用户昵称：麦克肥 <br> Username：2bf33b6e-cc69-4e7d-9d29-6a516fc3d71a</span><br><br>现在看个动画片都得要懂CS基础了吗，门槛都这么高了？<br><img src="https://cdnv2.ruguoapp.com/FjrFPs29L11hEm2LIc-57STcpqv6v3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fvg7UVqV-CGf3twiv2ipYmslJLlLv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FsQrg8n45fayjyDX9T3inIjfyPzGv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 15 Nov 2022 07:26:33 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63733f294cf9f4f2bd7e348e</guid>
-            <link>https://m.okjike.com/originalPosts/63733f294cf9f4f2bd7e348e</link>
-            
-            
-            
-            <author><![CDATA[麦克肥]]></author>
             
                 
             
@@ -170,7 +170,7 @@
         
         <item>
             <title><![CDATA[新鲜出炉的「八叉树」演示。 作用特别多： ①用于物理两两碰撞检测，只检测覆盖空间的对象（绿色代表需要检测得对象）。如果不优化，则时间复杂度是O(n²)，优化...]]></title>
-            <description><![CDATA[<span>用户昵称：杰克有糖的老公 <br> Username：C027E21D-DFD6-4F88-AF40-31871E1FB6F4</span><br><br>新鲜出炉的「八叉树」演示。<br><br>作用特别多：<br>①用于物理两两碰撞检测，只检测覆盖空间的对象（绿色代表需要检测得对象）。如果不优化，则时间复杂度是O(n²)，优化后是O(logn)；<br>②忽略远处不需要交互的对象、不需要渲染的对象等。<br><video src="https://videocdn.jellow.site/FqaEPv9VaQS17pWE_Lp4ohqesVdQ.mp4?sign=03ea72ca26fcfd0f7f12e3a95781339e&amp;t=63754d3c" controls=""></video>]]></description>
+            <description><![CDATA[<span>用户昵称：杰克有糖的老公 <br> Username：C027E21D-DFD6-4F88-AF40-31871E1FB6F4</span><br><br>新鲜出炉的「八叉树」演示。<br><br>作用特别多：<br>①用于物理两两碰撞检测，只检测覆盖空间的对象（绿色代表需要检测得对象）。如果不优化，则时间复杂度是O(n²)，优化后是O(logn)；<br>②忽略远处不需要交互的对象、不需要渲染的对象等。<br><video src="https://videocdn.jellow.site/FqaEPv9VaQS17pWE_Lp4ohqesVdQ.mp4?sign=85058c4ba0e7ee6fb9aecf829632daab&amp;t=637599af" controls=""></video>]]></description>
             <pubDate>Fri, 11 Nov 2022 07:00:44 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/636df31c61fb14b79f183315</guid>
             <link>https://m.okjike.com/originalPosts/636df31c61fb14b79f183315</link>
