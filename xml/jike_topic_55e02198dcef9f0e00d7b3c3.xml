@@ -21,19 +21,19 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 22 Nov 2022 20:19:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Nov 2022 01:38:33 GMT</lastBuildDate>
         <ttl>1</ttl>
         
         <item>
-            <title><![CDATA[不能叫万事开头难，只能说是另一个abandon]]></title>
-            <description><![CDATA[<span>用户昵称：五百五ya <br> Username：bd15e4fa-81f9-44bc-b500-9784ace1965f</span><br><br>不能叫万事开头难，只能说是另一个abandon<br><img src="https://cdnv2.ruguoapp.com/FsNfJkvNoyjqmzDvAKKkCC4gYpq0v3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 22 Nov 2022 02:40:35 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/637c36a30ed283291583ce98</guid>
-            <link>https://m.okjike.com/originalPosts/637c36a30ed283291583ce98</link>
+            <title><![CDATA[如何用低成本的方式开发一个软件？🤔 你可以省去后端开发，省去运维，省去服务器 只需你有前端，这事就可以开干了😎 分享一个有着8年技术管理经验的大佬，用...]]></title>
+            <description><![CDATA[<span>用户昵称：伙伴云 <br> Username：042ef40f-461d-4baf-a330-c56e223ba385</span><br><br>如何用低成本的方式开发一个软件？🤔<br>你可以省去后端开发，省去运维，省去服务器<br><br>只需你有前端，这事就可以开干了😎<br><br>分享一个有着8年技术管理经验的大佬，用伙伴云做了一个答题系统，把考试和考题都录入到伙伴云里，依靠计算字段实现了多项数据统计（平均分、完成人数、错题数等）<br><br>同时用伙伴云来存储所有数据，调用API让APP与数据库进行直接交互，通过权限划分，实现开发人员与运营人员在一个平台上同时工作<br><br>可以说后端没有写一行代码即实现出一个在线学习APP的开发<br><br>对于很多通常意义上讲的数据处理应用，低代码作为后端的引擎，是完全可行并且完全可以实现的<br><br>作为参考分别调用了API以下接口：<br>1、伙伴云用户登录接口<br>2、表格内容列表读取接口<br>3、表格单条内容读取接口<br>4、表格单条内容编辑接口<br>5、表格单条内容写入接口<br>6、表格单条内容搜索接口<br>7、表格单条内容求和及groupby接口<br><img src="https://cdnv2.ruguoapp.com/Fr-yGstzV8Oll9y_j-OFvH9L_-uFv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FsmIJktYFTTosGvZPSC1STDVrRnqv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FtRCyLyBcUXjn6AGH8CXaWA4wjtGv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FpPG3vXE_BSspq4kqAYpseZ3bRIbv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 22 Nov 2022 09:55:16 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/637c9c844d1756f72b6e3a87</guid>
+            <link>https://m.okjike.com/originalPosts/637c9c844d1756f72b6e3a87</link>
             
             
             
-            <author><![CDATA[五百五ya]]></author>
+            <author><![CDATA[伙伴云]]></author>
             
                 
             
