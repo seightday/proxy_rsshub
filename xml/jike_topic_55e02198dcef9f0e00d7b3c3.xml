@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 23 Nov 2022 16:27:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Nov 2022 20:19:21 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[菜鸟提问👀 听说Mac不适合搞机器学习，但我air m1，16g内存，512g ssd，应该不弱呀，除了玩游戏，没烫过 现在只是vscode用jupyter跑些sklearn的教学案例，发热...]]></title>
+            <description><![CDATA[<span>用户昵称：东北冷面 <br> Username：9b1166e0-666a-4928-9b0a-cb6ffed68cc7</span><br><br>菜鸟提问👀<br><br>听说Mac不适合搞机器学习，但我air m1，16g内存，512g ssd，应该不弱呀，除了玩游戏，没烫过<br><br>现在只是vscode用jupyter跑些sklearn的教学案例，发热卡顿，正常吗？<br><br>数据量行不超万，列不超百<br>cpu占用率不超50%<br>内存满载（不知道为啥，一直是满载，平时干啥都满载，但平时不发烫<br><br>是什么原因导致的？该怎么排除？]]></description>
+            <pubDate>Tue, 22 Nov 2022 15:12:25 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/637ce6d9db5e52e302d169fc</guid>
+            <link>https://m.okjike.com/originalPosts/637ce6d9db5e52e302d169fc</link>
+            
+            
+            
+            <author><![CDATA[东北冷面]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[如何用低成本的方式开发一个软件？🤔 你可以省去后端开发，省去运维，省去服务器 只需你有前端，这事就可以开干了😎 分享一个有着8年技术管理经验的大佬，用...]]></title>
@@ -98,22 +114,6 @@
             
             
             <author><![CDATA[HwangSSS]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[尝试了下 通过本地docker挂载阿里云盘 再使用Infuse添加WebDav 建立自己的私人影音库 目前体验确实不错🤓]]></title>
-            <description><![CDATA[<span>用户昵称：HarryHan <br> Username：2CF1B7A3-4E11-4211-9877-01E8F7EC27F6</span><br><br>尝试了下<br>通过本地docker挂载阿里云盘<br>再使用Infuse添加WebDav<br>建立自己的私人影音库<br>目前体验确实不错🤓<br><img src="https://cdnv2.ruguoapp.com/liDnNCdylX3_th3O7NRrLeo0ubfjv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FjeP4e4jnMuRAu2DCrKYFclOoId5v3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 19 Nov 2022 09:17:15 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63789f1b31ec4453a79106f1</guid>
-            <link>https://m.okjike.com/originalPosts/63789f1b31ec4453a79106f1</link>
-            
-            
-            
-            <author><![CDATA[HarryHan]]></author>
             
                 
             
