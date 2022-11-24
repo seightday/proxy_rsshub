@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 24 Nov 2022 01:42:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 04:23:44 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[最近开始用尝试用 Snippet 工具来管理代码片，以前从来不用这些东西，觉得想写的时候，自然而然就会写出来了。 仔细回顾一下自己写（特别是不常用）代码的过程，...]]></title>
+            <description><![CDATA[<span>用户昵称：图拉鼎 <br> Username：A893532D-B9D6-4AD3-8BEE-D380692B68E2</span><br><br>最近开始用尝试用 Snippet 工具来管理代码片，以前从来不用这些东西，觉得想写的时候，自然而然就会写出来了。<br><br>仔细回顾一下自己写（特别是不常用）代码的过程，发现还是非常缓慢的：要么查文档、要么查 Google/StackOverflow，有些代码片真的复制粘贴了很多遍。<br><br>所以，我开始尝试了。]]></description>
+            <pubDate>Thu, 24 Nov 2022 01:50:06 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/637ecdcefe90ffcf2a5c0260</guid>
+            <link>https://m.okjike.com/originalPosts/637ecdcefe90ffcf2a5c0260</link>
+            
+            
+            
+            <author><![CDATA[图拉鼎]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[菜鸟提问👀 听说Mac不适合搞机器学习，但我air m1，16g内存，512g ssd，应该不弱呀，除了玩游戏，没烫过 现在只是vscode用jupyter跑些sklearn的教学案例，发热...]]></title>
@@ -162,22 +178,6 @@
             
             
             <author><![CDATA[guodong]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Flutter VS React Native 🔗 https://shift.infinite.red/flutter-is-better-than-react-native-fed10c92a768 目前移动端跨端方案，无外乎这两种。作者比较了...]]></title>
-            <description><![CDATA[<span>用户昵称：HwangSSS <br> Username：660cee5b-42b3-47a5-b084-c38987c315ed</span><br><br>Flutter VS React Native<br><br>🔗 https://shift.infinite.red/flutter-is-better-than-react-native-fed10c92a768<br><br>目前移动端跨端方案，无外乎这两种。作者比较了两个方案的各方面特点，下面我当课代表总结一下丷 👇<br><br>讨论 Flutter 和 React Native 那一个更好时，最重要的问题是什么？<br>- 答案是 人才！人才还是人才！<br>- RN 依托 JavaScript 生态有大量的人才可以寻找。 Dart 却不是。<br>- 所以这里 RN 胜出。<br><br>----<br><br>开发体验：<br>Flutter 开发体验比 React Native 出色很多。即便 React Native正在迎头赶上，但依然还有一段路要走（但Expo给了它一个强大的助力）。<br><br>性能：<br>比较性能是一件困难的事情。多数情况下 Flutter和React Native 都是 "足够快 "的，**特别是当有能力的开发者对它们进行了性能优化之后。**<br><br>- 不过 Flutter 的性能包袱更小，out-of-the-box 性能更优。<br>- 所以 Flutter 略微胜出（目前是这样的，等待RN的新框架）。<br><br>UI一致性：<br><br>- Flutter 使用 Skia 绘制 UI，所以跨端 UI 非常一致<br>- React Native在iOS上使用UIKit，在Android上使用Android的布局系统，在Web上使用DOM。虽然可以建立非常相似的应用程序，但它们将被每个平台的解释所影响。<br>- 需要指出的是 It’s worth noting that Google developers have said that a unified experience is no longer a core goal. This doesn’t seem to match very well with Flutter’s approach.<br><br>作者认为「在匹配用户期望」也就是 Android 要有 Android 的样子，iOS 要有 iOS 的样子 这件事情上， RN 的方式更好，(国内可能并不是这样）。<br><br>整合原生的能力：<br>- Flutter 非好的工具链，你可以直接写 Swift 和 Kotlin，官方的文档都有很详细的说明。而 RN 在这件事情上，需要和 React Native bridge 打交道，不仅受限于此，在文档上也和 Flutter 有差距。（不过新版框架将替换掉 bridge）<br><br>- 所以 Flutter 更胜一筹。<br><br>国际化：<br>Flutter 内置出色方案，RN 第三方方案同样优秀。<br>打平手<br><br>导航/路由 等：<br>Flutter 提供内置导航，RN 第三方同样出色<br>难分伯仲<br><br>对网页的支持：<br>- React Native可以直接在项目内共享跨端代码，无论你是使用React Native for Web还是 React.js 直接。你可以使用JavaScript/TypeScript共享服务和模块来共享大量的业务逻辑、数据模型等。<br><br>- Flutter 不太行。即便提供了 HTML/CSS/DOM 的操作能力，依然很难和一等公民抗争。<br>- RN 胜出。<br><br>第三方生态：<br>- Flutter 有一些优秀的第三方扩展，但是和庞大的 JS 生态相比，还是稍显单薄。<br>- RN 胜出。<br><br>大公司使用：<br>- RN：微软和 Meta 是主要的支持者。<br>- 其他：Coinbase、Shopify、Mercari、Discord、Pinterest、Tesla、沃尔玛、Wix、Salesforce、NFL、MLS、Uber Eats<br>- Flutter： Google 力推。<br>- 其他：Toyota, eBay, and Alibaba, but most of the development is driven forward by Google.<br>- Google 对项目的长期支持口碑不佳。<br>- RN 略胜<br><br>动态（热）更新：<br>- 一些大公司以后规避上架更新的需求，RN 更容易实现这个目标。Flutter 这边则没有相关的计划。<br>- RN 胜]]></description>
-            <pubDate>Tue, 15 Nov 2022 04:22:05 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/637313edb17b7f3e82bd1a5e</guid>
-            <link>https://m.okjike.com/originalPosts/637313edb17b7f3e82bd1a5e</link>
-            
-            
-            
-            <author><![CDATA[HwangSSS]]></author>
             
                 
             
