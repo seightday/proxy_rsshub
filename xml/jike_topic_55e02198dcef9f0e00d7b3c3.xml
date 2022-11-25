@@ -21,19 +21,35 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Fri, 25 Nov 2022 01:38:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Nov 2022 04:23:26 GMT</lastBuildDate>
         <ttl>1</ttl>
         
         <item>
-            <title><![CDATA[创建一个库的第一步： 上MIT License。]]></title>
-            <description><![CDATA[<span>用户昵称：政和县熊山土鸡养殖基地 <br> Username：C027E21D-DFD6-4F88-AF40-31871E1FB6F4</span><br><br>创建一个库的第一步：<br>上MIT License。]]></description>
-            <pubDate>Thu, 24 Nov 2022 09:43:00 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/637f3ca4a05816f1728b75d5</guid>
-            <link>https://m.okjike.com/originalPosts/637f3ca4a05816f1728b75d5</link>
+            <title><![CDATA[除非这人说的是十几年前的MySQL，否则就是不懂乱讲。 别说1000万，就是1亿条数据，做好索引，查询起来都没多大问题，到不了瑟瑟发抖的地步。]]></title>
+            <description><![CDATA[<span>用户昵称：哥飞 <br> Username：a2d6acc1-626f-4d15-a22a-849e88a4c9f0</span><br><br>除非这人说的是十几年前的MySQL，否则就是不懂乱讲。<br>别说1000万，就是1亿条数据，做好索引，查询起来都没多大问题，到不了瑟瑟发抖的地步。<br><img src="https://cdnv2.ruguoapp.com/Fj9taSmxIYNpq89jn_9ueXyOmGPuv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FhBcGT8fCYzq3bJ2skuP2fdHzTMpv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 24 Nov 2022 15:57:55 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/637f948367fb89aec304c2ca</guid>
+            <link>https://m.okjike.com/originalPosts/637f948367fb89aec304c2ca</link>
             
             
             
-            <author><![CDATA[政和县熊山土鸡养殖基地]]></author>
+            <author><![CDATA[哥飞]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[echarts-wordcloud 2.1.0 版本正式发布，新增多个配置项，帮你创建更好的字符云效果，快来试试吧！]]></title>
+            <description><![CDATA[<span>用户昵称：羡辙 <br> Username：C98B84DC-CAEA-4BE6-97A7-4A39F7A051CA</span><br><br>echarts-wordcloud 2.1.0 版本正式发布，新增多个配置项，帮你创建更好的字符云效果，快来试试吧！<br><img src="https://cdnv2.ruguoapp.com/Fjg4pDJe1mVOsnJh75tQFMCoIU7av3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 24 Nov 2022 09:04:21 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/637f33956dc0dcd7cdb4e67b</guid>
+            <link>https://m.okjike.com/originalPosts/637f33956dc0dcd7cdb4e67b</link>
+            
+            
+            
+            <author><![CDATA[羡辙]]></author>
             
                 
             
@@ -98,22 +114,6 @@
             
             
             <author><![CDATA[雪国列车掏煤渣小男孩]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[如何用低成本的方式开发一个软件？🤔 你可以省去后端开发，省去运维，省去服务器 只需你有前端，这事就可以开干了😎 分享一个有着8年技术管理经验的大佬，用...]]></title>
-            <description><![CDATA[<span>用户昵称：伙伴云 <br> Username：042ef40f-461d-4baf-a330-c56e223ba385</span><br><br>如何用低成本的方式开发一个软件？🤔<br>你可以省去后端开发，省去运维，省去服务器<br><br>只需你有前端，这事就可以开干了😎<br><br>分享一个有着8年技术管理经验的大佬，用伙伴云做了一个答题系统，把考试和考题都录入到伙伴云里，依靠计算字段实现了多项数据统计（平均分、完成人数、错题数等）<br><br>同时用伙伴云来存储所有数据，调用API让APP与数据库进行直接交互，通过权限划分，实现开发人员与运营人员在一个平台上同时工作<br><br>可以说后端没有写一行代码即实现出一个在线学习APP的开发<br><br>对于很多通常意义上讲的数据处理应用，低代码作为后端的引擎，是完全可行并且完全可以实现的<br><br>作为参考分别调用了API以下接口：<br>1、伙伴云用户登录接口<br>2、表格内容列表读取接口<br>3、表格单条内容读取接口<br>4、表格单条内容编辑接口<br>5、表格单条内容写入接口<br>6、表格单条内容搜索接口<br>7、表格单条内容求和及groupby接口<br><img src="https://cdnv2.ruguoapp.com/Fr-yGstzV8Oll9y_j-OFvH9L_-uFv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FsmIJktYFTTosGvZPSC1STDVrRnqv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FtRCyLyBcUXjn6AGH8CXaWA4wjtGv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FpPG3vXE_BSspq4kqAYpseZ3bRIbv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 22 Nov 2022 09:55:16 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/637c9c844d1756f72b6e3a87</guid>
-            <link>https://m.okjike.com/originalPosts/637c9c844d1756f72b6e3a87</link>
-            
-            
-            
-            <author><![CDATA[伙伴云]]></author>
             
                 
             
