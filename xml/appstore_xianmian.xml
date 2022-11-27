@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[每日精品限免 / 促销应用]]></title>
         <link>http://app.so/xianmian/</link>
-        <atom:link href="https://rsshub/appstore/xianmian" rel="self" type="application/rss+xml" />
+        <atom:link href="https://vercel.getrss2021.xyz/appstore/xianmian" rel="self" type="application/rss+xml" />
         <description><![CDATA[鲜面连线 by AppSo：每日精品限免 / 促销应用 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -15,8 +15,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Sat, 26 Nov 2022 20:18:50 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Sun, 27 Nov 2022 01:44:15 GMT</lastBuildDate>
+        <ttl>5</ttl>
         
         <item>
             <title><![CDATA[「降价」Things 3]]></title>
@@ -29,8 +29,8 @@
           App Store 首页编辑推荐。一款简洁易用、制作精良的待办事项、任务管理程序，可以对任务进行标签化管理、并具有延伸操作，帮助你更好管理时间。
         ]]></description>
             <pubDate>Fri, 25 Nov 2022 00:30:27 GMT</pubDate>
-            <guid isPermaLink="false">https://apps.apple.com/cn/app/things-3/id904237743?uo=4</guid>
-            <link>https://apps.apple.com/cn/app/things-3/id904237743?uo=4</link>
+            <guid isPermaLink="false">https://itunes.apple.com/cn/app/things-3/id904237743?mt=8&#38;at=1001l9Jj</guid>
+            <link>https://itunes.apple.com/cn/app/things-3/id904237743?mt=8&#38;at=1001l9Jj</link>
             
             
             
