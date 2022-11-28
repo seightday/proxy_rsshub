@@ -14,7 +14,7 @@ https://github.com/wdssmq/proxy_rsshub
 
 ---start---
 
-2022-11-28 20:35:58
+2022-11-29 00:21:55
 
 title: 最新限免（GoFans）
 
