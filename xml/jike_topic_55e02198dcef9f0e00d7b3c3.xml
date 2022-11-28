@@ -21,12 +21,44 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 28 Nov 2022 08:24:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Nov 2022 12:36:08 GMT</lastBuildDate>
         <ttl>1</ttl>
         
         <item>
+            <title><![CDATA[💡 科技快讯 📰 Wine 发布 7.22 版本，加强游戏支持 著名 Windows 兼容层项目 Wine 的开发团队近日发布了 7.22 正式版的更新，该版本将强了针对 Vulkan 和 O...]]></title>
+            <description><![CDATA[<span>用户昵称：PriceTag应用推荐 <br> Username：01E7DE69-A362-45D8-8C66-1CD50D55A959</span><br><br>💡 科技快讯<br><br>📰 Wine 发布 7.22 版本，加强游戏支持<br><br>著名 Windows 兼容层项目 Wine 的开发团队近日发布了 7.22 正式版的更新，该版本将强了针对 Vulkan 和 OpenGL 的支持，并修复了总数 32 个、涵盖 USB、VBScript 与各类游戏兼容性问题的 BUG。<br><br>Wine 是一款为 Unix 与 Linux 操作系统直接运行 Windows 应用提供支持的兼容层项目。与虚拟机不同的是，Wine 將 Windows API 调用翻译成为动态的 POSIX 调用，在带来更强性能的同时还提供了类似 Windows 注册表、IE、Windows Installer 在内的大量 Run Time 的模拟。<br><br>（配图为使用 Wine 在 Ubuntu Linux 上运行 Adobe Photoshop，感兴趣的小伙伴们可以访问👉 https://www.winehq.org/ 了解更多。<br><img src="https://cdnv2.ruguoapp.com/FhUOm-n9gv1mMomH0AD0RaJUOu9Cv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 28 Nov 2022 07:42:45 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63846675ebe281f4bbaf3f3a</guid>
+            <link>https://m.okjike.com/originalPosts/63846675ebe281f4bbaf3f3a</link>
+            
+            
+            
+            <author><![CDATA[PriceTag应用推荐]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[笔记之前用为知笔记搭建的私有服务，这两天发现产品被ONES收购了，私有服务搭建页面404。最无语的是官网的Mac客户端用自建服务不能同步数据，同步各种error。服...]]></title>
+            <description><![CDATA[<span>用户昵称：emperinter <br> Username：03214C8D-372B-49D8-A56C-38620855F8E1</span><br><br>笔记之前用为知笔记搭建的私有服务，这两天发现产品被ONES收购了，私有服务搭建页面404。最无语的是官网的Mac客户端用自建服务不能同步数据，同步各种error。服务器网页端暂时还能用，客户端目前在GitHub上找了个第三方。不过这波收购导致产品不能使用的操作确实比较无语，割韭菜也不是这样割的吧？<br><img src="https://cdnv2.ruguoapp.com/Fouh90esf6yXIo8U3ue6V-boNYA0v3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sun, 27 Nov 2022 18:15:17 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6383a935ebe281f4bb9d10df</guid>
+            <link>https://m.okjike.com/originalPosts/6383a935ebe281f4bb9d10df</link>
+            
+            
+            
+            <author><![CDATA[emperinter]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[学习树莓派的阶段目标： 1. Raspberry Pi OS 安装，环境部署。✅ 2. 组装机器车。正确✅ 3. 跑完所有 GPIO demo 程序，使用 tensor flow 进行机器车的运行。✅ 4...]]></title>
-            <description><![CDATA[<span>用户昵称：一个很丧又社恐的人 <br> Username：A0E64E2C-612B-4961-AFE1-59EF498D4506</span><br><br>学习树莓派的阶段目标：<br>1. Raspberry Pi OS 安装，环境部署。✅<br>2. 组装机器车。正确✅<br>3. 跑完所有 GPIO demo 程序，使用 tensor flow 进行机器车的运行。✅<br>4. 学习 GPIO Pins Function and Programming，并独立完成所有购置感应模块的程序驱动。<br>5. 购买 3D 打印机（预算 5～10k），打印制作开源机器人（六足蜘蛛等）<br>6. 独立设计电路图，独立设计模型图纸导出 STL 格式，独立设计机械运动图纸，独立设计软件程序。设计并实现属于自己的智能家居，如，开关等、开关窗帘、只能家庭监控、婴幼儿监护机器人。<br>7. 独立设计并实现完全属于自己的人型机器人。<br>8. 6、7 开始尝试申请专利。<br><video src="https://videocdn.jellow.site/lr2slwaolf1Huc1vjINqoS3j0O2I.mp4?sign=31c51c0cffb20392d0cc9f600452fe55&amp;t=6384764a" controls=""></video>]]></description>
+            <description><![CDATA[<span>用户昵称：一个很丧又社恐的人 <br> Username：A0E64E2C-612B-4961-AFE1-59EF498D4506</span><br><br>学习树莓派的阶段目标：<br>1. Raspberry Pi OS 安装，环境部署。✅<br>2. 组装机器车。正确✅<br>3. 跑完所有 GPIO demo 程序，使用 tensor flow 进行机器车的运行。✅<br>4. 学习 GPIO Pins Function and Programming，并独立完成所有购置感应模块的程序驱动。<br>5. 购买 3D 打印机（预算 5～10k），打印制作开源机器人（六足蜘蛛等）<br>6. 独立设计电路图，独立设计模型图纸导出 STL 格式，独立设计机械运动图纸，独立设计软件程序。设计并实现属于自己的智能家居，如，开关等、开关窗帘、只能家庭监控、婴幼儿监护机器人。<br>7. 独立设计并实现完全属于自己的人型机器人。<br>8. 6、7 开始尝试申请专利。<br><video src="https://videocdn.jellow.site/lr2slwaolf1Huc1vjINqoS3j0O2I.mp4?sign=c6d8f5fa916c837d3e0723d3afa2fded&amp;t=6384b0d5" controls=""></video>]]></description>
             <pubDate>Sun, 27 Nov 2022 08:45:39 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/638323b3cb7bb1e290cadacb</guid>
             <link>https://m.okjike.com/originalPosts/638323b3cb7bb1e290cadacb</link>
@@ -50,38 +82,6 @@
             
             
             <author><![CDATA[凯凯刘]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[做 cpu 的人都懂得这样的道理，相反今天很多做基础软件的人却对业务价值嗤之以鼻，觉得自己做基础研发就很高高在上 离开业务目标，基础软件可能啥也不是]]></title>
-            <description><![CDATA[<span>用户昵称：一啸同学 <br> Username：CF3E7275-E5A9-4566-96B5-03B7D95A4A7E</span><br><br>做 cpu 的人都懂得这样的道理，相反今天很多做基础软件的人却对业务价值嗤之以鼻，觉得自己做基础研发就很高高在上<br><br>离开业务目标，基础软件可能啥也不是<br><img src="https://cdnv2.ruguoapp.com/FhZ3PRwU-pshXj5PwVJScQylIpZRv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 25 Nov 2022 08:22:13 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63807b35b5ca323ab4f6c92b</guid>
-            <link>https://m.okjike.com/originalPosts/63807b35b5ca323ab4f6c92b</link>
-            
-            
-            
-            <author><![CDATA[一啸同学]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[翻到一位在微信视频号团队做 iOS/Mac 开发的技术博主，从他的文字中得知： 微信团队一直在做各种创新项目，大部分从未面世。也有些发布了（比如视频号），还有 2...]]></title>
-            <description><![CDATA[<span>用户昵称：千古壹号 <br> Username：smyhvae</span><br><br>翻到一位在微信视频号团队做 iOS/Mac 开发的技术博主，从他的文字中得知：<br><br>微信团队一直在做各种创新项目，大部分从未面世。也有些发布了（比如视频号），还有 2018 年 12 月发布的微信 7.0版本，其团队负责了当时的“时刻视频”项目，也就是现在微信“状态”的前身。<br><br>另外，这位博主昨天写了篇防疫相关文章，推荐给你：<br><br>- 被集中隔离需要准备什么：https://justinyan.me/post/5346<br><br>这篇文章很是贴心，连健康码的三原色都标注出来了。<br><img src="https://cdnv2.ruguoapp.com/FmLSJJf4ls7whAp33-QhkvGUQ1rGv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fso0ao5o4P50HwDJRJK-x7ylgUIKv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 25 Nov 2022 05:13:17 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63804eed1f4ef70eb4e54c69</guid>
-            <link>https://m.okjike.com/originalPosts/63804eed1f4ef70eb4e54c69</link>
-            
-            
-            
-            <author><![CDATA[千古壹号]]></author>
             
                 
             
