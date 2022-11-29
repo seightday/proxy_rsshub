@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 29 Nov 2022 04:23:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Nov 2022 08:24:48 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[又有人提到 Chrome 明文存储密码的的设计缺陷了……为什么还不改啊，逼着我用密码管理软件，然而目前还没找到一个完全好用的]]></title>
+            <description><![CDATA[<span>用户昵称：Rennen <br> Username：ed59e1d5-6359-4c15-822f-20ec20aeb78a</span><br><br>                    <img src="https://cdn.jellow.site/FvvIO8qBsvAs5dcc1_hIVicr6Jml?imageMogr2/auto-orient/heic-exif/1/format/jpeg" referrerpolicy="no-referrer"><br>                    <a href="https://www.bilibili.com/video/BV1vP411T7Wc/?p=1&amp;share_medium=android_i&amp;share_plat=android&amp;share_source=COPY&amp;share_tag=s_i&amp;timestamp=1669689621&amp;unique_k=OjVTU0G">【差评】臭代码摆烂十年没人修！黑客一秒盗走了我的密码，这个浏览器功能缺陷“劳苦功高”！_哔哩哔哩_bilibili</a><br>                <br>又有人提到 Chrome 明文存储密码的的设计缺陷了……为什么还不改啊，逼着我用密码管理软件，然而目前还没找到一个完全好用的]]></description>
+            <pubDate>Tue, 29 Nov 2022 02:38:38 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/638570ae6dc0dcd7cd55bf84</guid>
+            <link>https://m.okjike.com/originalPosts/638570ae6dc0dcd7cd55bf84</link>
+            
+            
+            
+            <author><![CDATA[Rennen]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[我是傻逼。 用.NET 7搭了博客，搭完准备部署到Linux(Ubuntu 22.04)，结果发现.NET还没有支持。]]></title>
@@ -58,7 +74,7 @@
         
         <item>
             <title><![CDATA[学习树莓派的阶段目标： 1. Raspberry Pi OS 安装，环境部署。✅ 2. 组装机器车。正确✅ 3. 跑完所有 GPIO demo 程序，使用 tensor flow 进行机器车的运行。✅ 4...]]></title>
-            <description><![CDATA[<span>用户昵称：一个很丧又社恐的人 <br> Username：A0E64E2C-612B-4961-AFE1-59EF498D4506</span><br><br>学习树莓派的阶段目标：<br>1. Raspberry Pi OS 安装，环境部署。✅<br>2. 组装机器车。正确✅<br>3. 跑完所有 GPIO demo 程序，使用 tensor flow 进行机器车的运行。✅<br>4. 学习 GPIO Pins Function and Programming，并独立完成所有购置感应模块的程序驱动。<br>5. 购买 3D 打印机（预算 5～10k），打印制作开源机器人（六足蜘蛛等）<br>6. 独立设计电路图，独立设计模型图纸导出 STL 格式，独立设计机械运动图纸，独立设计软件程序。设计并实现属于自己的智能家居，如，开关等、开关窗帘、只能家庭监控、婴幼儿监护机器人。<br>7. 独立设计并实现完全属于自己的人型机器人。<br>8. 6、7 开始尝试申请专利。<br><video src="https://videocdn.jellow.site/lr2slwaolf1Huc1vjINqoS3j0O2I.mp4?sign=e4e4c88dfa2bf981262ff666ae83d095&amp;t=63858f86" controls=""></video>]]></description>
+            <description><![CDATA[<span>用户昵称：一个很丧又社恐的人 <br> Username：A0E64E2C-612B-4961-AFE1-59EF498D4506</span><br><br>学习树莓派的阶段目标：<br>1. Raspberry Pi OS 安装，环境部署。✅<br>2. 组装机器车。正确✅<br>3. 跑完所有 GPIO demo 程序，使用 tensor flow 进行机器车的运行。✅<br>4. 学习 GPIO Pins Function and Programming，并独立完成所有购置感应模块的程序驱动。<br>5. 购买 3D 打印机（预算 5～10k），打印制作开源机器人（六足蜘蛛等）<br>6. 独立设计电路图，独立设计模型图纸导出 STL 格式，独立设计机械运动图纸，独立设计软件程序。设计并实现属于自己的智能家居，如，开关等、开关窗帘、只能家庭监控、婴幼儿监护机器人。<br>7. 独立设计并实现完全属于自己的人型机器人。<br>8. 6、7 开始尝试申请专利。<br><video src="https://videocdn.jellow.site/lr2slwaolf1Huc1vjINqoS3j0O2I.mp4?sign=41078652fe8aa9afcb32655d63f311dc&amp;t=6385c7cf" controls=""></video>]]></description>
             <pubDate>Sun, 27 Nov 2022 08:45:39 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/638323b3cb7bb1e290cadacb</guid>
             <link>https://m.okjike.com/originalPosts/638323b3cb7bb1e290cadacb</link>
@@ -66,22 +82,6 @@
             
             
             <author><![CDATA[一个很丧又社恐的人]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[浏览器扩展课程Manifest V3升级版 MV3这次变化的东西很多，网上对MV3成体系的开发课程几乎没有。所以我特意花时间升级了最新的MV3的课程。新课程内容和源代码示...]]></title>
-            <description><![CDATA[<span>用户昵称：凯凯刘 <br> Username：17df3f5b-8c45-49aa-8a20-e7f9e698210d</span><br><br>浏览器扩展课程Manifest V3升级版<br><br>MV3这次变化的东西很多，网上对MV3成体系的开发课程几乎没有。所以我特意花时间升级了最新的MV3的课程。新课程内容和源代码示例都以MV3方式讲解。<br><br>适合有一些JS、HTML、CSS基础的同学和有兴趣想了解浏览器扩展插件知识，以及想构建盈利产品的同学。<br><br>课程包括：<br>- 13个开发知识点 (核心机制、开发调试、打包发布、自动更新、数据存储、跨域访问、扩展内页面、多语言、Background、选项页面、Vue开发框架、CSP、其它浏览器扩展)<br>- 4个演示Demo (Hello world、消息通知、合并窗口、一图一诗)<br>- 2个案例 (屏幕截图、微信群合影)<br><br>课程详细介绍：https://mp.weixin.qq.com/s/Hn6IWJsiGIKVTaa1w4HtVQ<br><img src="https://cdnv2.ruguoapp.com/Fo2fEsJEL4k8lBoRJHqOoTWpnqHyv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sun, 27 Nov 2022 02:39:23 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6382cddb7ed3a416ba135213</guid>
-            <link>https://m.okjike.com/originalPosts/6382cddb7ed3a416ba135213</link>
-            
-            
-            
-            <author><![CDATA[凯凯刘]]></author>
             
                 
             
@@ -137,6 +137,22 @@
         </item>
         
         <item>
+            <title><![CDATA[Twitter 的基础架构 🤔 2012 👉 2022]]></title>
+            <description><![CDATA[<span>用户昵称：HwangSSS <br> Username：660cee5b-42b3-47a5-b084-c38987c315ed</span><br><br>Twitter 的基础架构 🤔<br>2012 👉 2022<br><img src="https://cdnv2.ruguoapp.com/FqTFV-4NIazYD3NNkXhvULa_ZOJfv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fko-hiJ1p4n6kNa_jVPIbkXTRbEmv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 21 Nov 2022 06:29:50 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/637b1ade1a166c129bc86e1b</guid>
+            <link>https://m.okjike.com/originalPosts/637b1ade1a166c129bc86e1b</link>
+            
+            
+            
+            <author><![CDATA[HwangSSS]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[马斯克推特裁员200人，刷爆”国内”互联网朋友圈抖音头条快手微视今日说法凤凰网新闻，互联网这伙打工仔存在感怎么这么强，我问彭小姐说。 学计算机的没怎么学好...]]></title>
             <description><![CDATA[<span>用户昵称：何即兴 <br> Username：2cb72f0b-8c08-4b2c-99d1-7c91c5719cdb</span><br><br>马斯克推特裁员200人，刷爆”国内”互联网朋友圈抖音头条快手微视今日说法凤凰网新闻，互联网这伙打工仔存在感怎么这么强，我问彭小姐说。<br>学计算机的没怎么学好还没没毕业呢，焦虑三十五岁失业；学物理化学高学历毕业嘛，宁愿去互联网打工做客服转Excel运营转PPT产品；半导体毕业的毕业就高工资，实在没有时间在网上各种嚷嚷。彭小姐接着说到，这些网络发声的，在现实社会中一点不重要，而且还恶意放大了焦虑，只要这个行业还是高工资，本质上都属于在创新滑铁卢阶段，存量年龄大占据先入局的人员对后来者的一种拒绝姿态，再进一步讲，实际上也可以是先入局的年龄大者希望写的代码能跟医生一样有绝对的门槛能一招吃遍天，但非常可惜有了Github所以导致人不进则退，这伙网上发声的IT人员，何不想闭源每天就改几个bug跟医生一样看看感冒发烧流鼻涕，彭小姐回复到。<br>也对，只要先入局的人群工资没有腰斩，实际上这个行业在网上大量发声焦虑的本质就是拒绝后浪拍打前浪，退一步讲，哪个行业不需要不断进步，你能说路边炒粉摊就不需要进步吗，对吧，我问彭小姐。<br>呦，老大哥上道了，学会延伸了呢，彭小姐咯咯笑着说。]]></description>
             <pubDate>Sat, 19 Nov 2022 01:20:25 GMT</pubDate>
@@ -162,22 +178,6 @@
             
             
             <author><![CDATA[哥飞]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[我们的嵌入式图数据库Kùzu开源啦，欢迎大家pip一键安装试玩~ Github repo：https://github.com/kuzudb/kuzu 项目详细介绍：https://kuzudb.com/docs/blog HN po...]]></title>
-            <description><![CDATA[<span>用户昵称：guodong <br> Username：b9af0b56-4cb4-4b8a-97ce-3a40293daf54</span><br><br>我们的嵌入式图数据库Kùzu开源啦，欢迎大家pip一键安装试玩~<br>Github repo：https://github.com/kuzudb/kuzu<br>项目详细介绍：https://kuzudb.com/docs/blog<br>HN post：https://news.ycombinator.com/item?id=33609082<br>欢迎试玩并反馈给我们任何bug和想要的新特性！<br><br>Kù-zu (‘bright’ + ‘to know’) 一词来源于人类最古老的语言——苏美尔语，表示智慧和知识（wisdom）。]]></description>
-            <pubDate>Tue, 15 Nov 2022 07:36:01 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63734161ad66d3c3adb13a74</guid>
-            <link>https://m.okjike.com/originalPosts/63734161ad66d3c3adb13a74</link>
-            
-            
-            
-            <author><![CDATA[guodong]]></author>
             
                 
             
