@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 28 Nov 2022 20:18:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Nov 2022 01:36:58 GMT</lastBuildDate>
         <ttl>1</ttl>
         
         <item>
@@ -41,15 +41,15 @@
         </item>
         
         <item>
-            <title><![CDATA[💡 科技快讯 📰 Wine 发布 7.22 版本，加强游戏支持 著名 Windows 兼容层项目 Wine 的开发团队近日发布了 7.22 正式版的更新，该版本将强了针对 Vulkan 和 O...]]></title>
-            <description><![CDATA[<span>用户昵称：PriceTag应用推荐 <br> Username：01E7DE69-A362-45D8-8C66-1CD50D55A959</span><br><br>💡 科技快讯<br><br>📰 Wine 发布 7.22 版本，加强游戏支持<br><br>著名 Windows 兼容层项目 Wine 的开发团队近日发布了 7.22 正式版的更新，该版本将强了针对 Vulkan 和 OpenGL 的支持，并修复了总数 32 个、涵盖 USB、VBScript 与各类游戏兼容性问题的 BUG。<br><br>Wine 是一款为 Unix 与 Linux 操作系统直接运行 Windows 应用提供支持的兼容层项目。与虚拟机不同的是，Wine 將 Windows API 调用翻译成为动态的 POSIX 调用，在带来更强性能的同时还提供了类似 Windows 注册表、IE、Windows Installer 在内的大量 Run Time 的模拟。<br><br>（配图为使用 Wine 在 Ubuntu Linux 上运行 Adobe Photoshop，感兴趣的小伙伴们可以访问👉 https://www.winehq.org/ 了解更多。<br><img src="https://cdnv2.ruguoapp.com/FhUOm-n9gv1mMomH0AD0RaJUOu9Cv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 28 Nov 2022 07:42:45 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63846675ebe281f4bbaf3f3a</guid>
-            <link>https://m.okjike.com/originalPosts/63846675ebe281f4bbaf3f3a</link>
+            <title><![CDATA[看到一个统计，2022年远程工作薪资最高和最低的表，为啥Deep Learning还这么低。 链接：https://remoteok.com/remote-work-statistics]]></title>
+            <description><![CDATA[<span>用户昵称：P小二 <br> Username：C3468DD5-B4B3-4A9D-BEC6-A4DB72FCB713</span><br><br>看到一个统计，2022年远程工作薪资最高和最低的表，为啥Deep Learning还这么低。<br><br>链接：https://remoteok.com/remote-work-statistics<br><img src="https://cdnv2.ruguoapp.com/FjH3x66nQEbRM7Cg1i0MLAgu3sFXv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 28 Nov 2022 08:35:05 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/638472b967fb89aec38293b6</guid>
+            <link>https://m.okjike.com/originalPosts/638472b967fb89aec38293b6</link>
             
             
             
-            <author><![CDATA[PriceTag应用推荐]]></author>
+            <author><![CDATA[P小二]]></author>
             
                 
             
@@ -58,7 +58,7 @@
         
         <item>
             <title><![CDATA[学习树莓派的阶段目标： 1. Raspberry Pi OS 安装，环境部署。✅ 2. 组装机器车。正确✅ 3. 跑完所有 GPIO demo 程序，使用 tensor flow 进行机器车的运行。✅ 4...]]></title>
-            <description><![CDATA[<span>用户昵称：一个很丧又社恐的人 <br> Username：A0E64E2C-612B-4961-AFE1-59EF498D4506</span><br><br>学习树莓派的阶段目标：<br>1. Raspberry Pi OS 安装，环境部署。✅<br>2. 组装机器车。正确✅<br>3. 跑完所有 GPIO demo 程序，使用 tensor flow 进行机器车的运行。✅<br>4. 学习 GPIO Pins Function and Programming，并独立完成所有购置感应模块的程序驱动。<br>5. 购买 3D 打印机（预算 5～10k），打印制作开源机器人（六足蜘蛛等）<br>6. 独立设计电路图，独立设计模型图纸导出 STL 格式，独立设计机械运动图纸，独立设计软件程序。设计并实现属于自己的智能家居，如，开关等、开关窗帘、只能家庭监控、婴幼儿监护机器人。<br>7. 独立设计并实现完全属于自己的人型机器人。<br>8. 6、7 开始尝试申请专利。<br><video src="https://videocdn.jellow.site/lr2slwaolf1Huc1vjINqoS3j0O2I.mp4?sign=f287ad15904a732e1a04eef5c3a279ec&amp;t=63851eb4" controls=""></video>]]></description>
+            <description><![CDATA[<span>用户昵称：一个很丧又社恐的人 <br> Username：A0E64E2C-612B-4961-AFE1-59EF498D4506</span><br><br>学习树莓派的阶段目标：<br>1. Raspberry Pi OS 安装，环境部署。✅<br>2. 组装机器车。正确✅<br>3. 跑完所有 GPIO demo 程序，使用 tensor flow 进行机器车的运行。✅<br>4. 学习 GPIO Pins Function and Programming，并独立完成所有购置感应模块的程序驱动。<br>5. 购买 3D 打印机（预算 5～10k），打印制作开源机器人（六足蜘蛛等）<br>6. 独立设计电路图，独立设计模型图纸导出 STL 格式，独立设计机械运动图纸，独立设计软件程序。设计并实现属于自己的智能家居，如，开关等、开关窗帘、只能家庭监控、婴幼儿监护机器人。<br>7. 独立设计并实现完全属于自己的人型机器人。<br>8. 6、7 开始尝试申请专利。<br><video src="https://videocdn.jellow.site/lr2slwaolf1Huc1vjINqoS3j0O2I.mp4?sign=72a36e256259af755e4ffb653d59eda0&amp;t=63856934" controls=""></video>]]></description>
             <pubDate>Sun, 27 Nov 2022 08:45:39 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/638323b3cb7bb1e290cadacb</guid>
             <link>https://m.okjike.com/originalPosts/638323b3cb7bb1e290cadacb</link>
