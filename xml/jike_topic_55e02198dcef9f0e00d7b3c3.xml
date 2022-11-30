@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[JitHub程序员 - 即刻圈子]]></title>
         <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
-        <atom:link href="https://rsshub/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
+        <atom:link href="https://vercel.getrss2021.xyz/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
         <description><![CDATA[开发者们分享，问答，也可以交友的地方。欢迎所有工程师！ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 30 Nov 2022 08:24:44 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Wed, 30 Nov 2022 12:38:21 GMT</lastBuildDate>
+        <ttl>5</ttl>
+        
+        <item>
+            <title><![CDATA[无题]]></title>
+            <description><![CDATA[<span>用户昵称：阿姨来包辣条 <br> Username：zrdrzzgy</span><br><br><br><img src="https://cdnv2.ruguoapp.com/FkLN9YSRwL9jeJCkunTs4oho2s6zv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 30 Nov 2022 09:52:25 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/638727d926ba87db8965b356</guid>
+            <link>https://m.okjike.com/originalPosts/638727d926ba87db8965b356</link>
+            
+            
+            
+            <author><![CDATA[阿姨来包辣条]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[whisper是音视频转文字的开源方案，今天本地部署后，用一个两分钟的英文视频跑通，粗看是准确的。明天可能会尝试：换其他模型、长一些的视频、中文视频、日语视...]]></title>
@@ -66,22 +82,6 @@
             
             
             <author><![CDATA[雪国列车掏煤渣小男孩]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[又有人提到 Chrome 明文存储密码的的设计缺陷了……为什么还不改啊，逼着我用密码管理软件，然而目前还没找到一个完全好用的]]></title>
-            <description><![CDATA[<span>用户昵称：Rennen <br> Username：ed59e1d5-6359-4c15-822f-20ec20aeb78a</span><br><br>                    <img src="https://cdn.jellow.site/FvvIO8qBsvAs5dcc1_hIVicr6Jml?imageMogr2/auto-orient/heic-exif/1/format/jpeg" referrerpolicy="no-referrer"><br>                    <a href="https://www.bilibili.com/video/BV1vP411T7Wc/?p=1&amp;share_medium=android_i&amp;share_plat=android&amp;share_source=COPY&amp;share_tag=s_i&amp;timestamp=1669689621&amp;unique_k=OjVTU0G">【差评】臭代码摆烂十年没人修！黑客一秒盗走了我的密码，这个浏览器功能缺陷“劳苦功高”！_哔哩哔哩_bilibili</a><br>                <br>又有人提到 Chrome 明文存储密码的的设计缺陷了……为什么还不改啊，逼着我用密码管理软件，然而目前还没找到一个完全好用的]]></description>
-            <pubDate>Tue, 29 Nov 2022 02:38:38 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/638570ae6dc0dcd7cd55bf84</guid>
-            <link>https://m.okjike.com/originalPosts/638570ae6dc0dcd7cd55bf84</link>
-            
-            
-            
-            <author><![CDATA[Rennen]]></author>
             
                 
             
