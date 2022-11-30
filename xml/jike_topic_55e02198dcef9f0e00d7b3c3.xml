@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[JitHub程序员 - 即刻圈子]]></title>
         <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
-        <atom:link href="https://vercel.getrss2021.xyz/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
         <description><![CDATA[开发者们分享，问答，也可以交友的地方。欢迎所有工程师！ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 30 Nov 2022 12:38:21 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Wed, 30 Nov 2022 16:27:00 GMT</lastBuildDate>
+        <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[- 把Git管理的工作交给同事了，反正以后他当主程肯定要负责。 现在他与其他组沟通并操作合并，有问题我来担。 - 不想让他一直写业务。所以我把拼UI的活揽下来，...]]></title>
+            <description><![CDATA[<span>用户昵称：我是大本钟我是大本钟 <br> Username：C027E21D-DFD6-4F88-AF40-31871E1FB6F4</span><br><br>- 把Git管理的工作交给同事了，反正以后他当主程肯定要负责。<br>现在他与其他组沟通并操作合并，有问题我来担。<br><br>- 不想让他一直写业务。所以我把拼UI的活揽下来，让他尝试写架构、核心业务和底层库。<br><br>- 如果问我工作的价值是什么？<br>我觉得其中之一是：能给其他人带来积极影响就够了，哪怕一点点。]]></description>
+            <pubDate>Wed, 30 Nov 2022 15:30:02 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/638776faee30d55f8c77d16f</guid>
+            <link>https://m.okjike.com/originalPosts/638776faee30d55f8c77d16f</link>
+            
+            
+            
+            <author><![CDATA[我是大本钟我是大本钟]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[无题]]></title>
@@ -58,14 +74,14 @@
         
         <item>
             <title><![CDATA[小白刚开始学写代码（Rust），请问写个什么功能练手好呢？]]></title>
-            <description><![CDATA[<span>用户昵称：政和县熊山土鸡养殖基地 <br> Username：C027E21D-DFD6-4F88-AF40-31871E1FB6F4</span><br><br>小白刚开始学写代码（Rust），请问写个什么功能练手好呢？]]></description>
+            <description><![CDATA[<span>用户昵称：我是大本钟我是大本钟 <br> Username：C027E21D-DFD6-4F88-AF40-31871E1FB6F4</span><br><br>小白刚开始学写代码（Rust），请问写个什么功能练手好呢？]]></description>
             <pubDate>Tue, 29 Nov 2022 14:25:09 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6386164590f834f7b72e3b78</guid>
             <link>https://m.okjike.com/originalPosts/6386164590f834f7b72e3b78</link>
             
             
             
-            <author><![CDATA[政和县熊山土鸡养殖基地]]></author>
+            <author><![CDATA[我是大本钟我是大本钟]]></author>
             
                 
             
@@ -82,22 +98,6 @@
             
             
             <author><![CDATA[雪国列车掏煤渣小男孩]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[我是傻逼。 用.NET 7搭了博客，搭完准备部署到Linux(Ubuntu 22.04)，结果发现.NET还没有支持。]]></title>
-            <description><![CDATA[<span>用户昵称：政和县熊山土鸡养殖基地 <br> Username：C027E21D-DFD6-4F88-AF40-31871E1FB6F4</span><br><br>我是傻逼。<br><br>用.NET 7搭了博客，搭完准备部署到Linux(Ubuntu 22.04)，结果发现.NET还没有支持。]]></description>
-            <pubDate>Mon, 28 Nov 2022 15:03:55 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6384cddba79323820828cff4</guid>
-            <link>https://m.okjike.com/originalPosts/6384cddba79323820828cff4</link>
-            
-            
-            
-            <author><![CDATA[政和县熊山土鸡养殖基地]]></author>
             
                 
             
