@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[最新限免 / 促销应用]]></title>
         <link>https://gofans.cn/</link>
-        <atom:link href="https://rsshub/appstore/gofans" rel="self" type="application/rss+xml" />
+        <atom:link href="https://vercel.getrss2021.xyz/appstore/gofans" rel="self" type="application/rss+xml" />
         <description><![CDATA[GoFans：最新限免 / 促销应用 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -15,8 +15,58 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Thu, 01 Dec 2022 04:23:34 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Thu, 01 Dec 2022 08:24:46 GMT</lastBuildDate>
+        <ttl>5</ttl>
+        
+        <item>
+            <title><![CDATA[「免费」-「iOS」ScheduleMe]]></title>
+            <description><![CDATA[<img src="https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/ea/2c/19/ea2c1988-b97f-6cc3-70f1-7f3f53dabe36/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/256x256bb.jpg" referrerpolicy="no-referrer">
+          <br>
+          原价：¥18.00 -&gt; 现价：¥0.00
+          <br>
+          平台：iOS
+          <br>
+          ScheduleMe 操作简单，配置灵活，功能强大。有了它，待办事项，习惯养成，任务安排，多人协作，都能轻松胜任，工作生活，有条不紊。
+
+1，每天在 9:15, 11:15, 14:15, 16:15,  喝杯水，休息一下。新建一个每天重复的项目，选择这四个时间点，保存即可。先坚持30天，到期后自动为我延长，勾选“自动延续”即可。对了，周末和节假日不需要提醒，勾选相应的排除项就行了。
+
+2，每天在8:00和20:00，锻炼身体两次。新建一个每天重复的项目，选择这两个时间点，保存即可。进一步细化，添加几个清单项，比如，俯卧撑30个，卷腹60个，深蹲90个，保存之后，这些清单项会自动分配给每个子任
+        ]]></description>
+            <pubDate>Thu, 01 Dec 2022 06:52:23 GMT</pubDate>
+            <guid isPermaLink="false">https://gofans.cn/app/d998d2fd-52b3-4924-9f09-2cecf776b924</guid>
+            <link>https://gofans.cn/app/d998d2fd-52b3-4924-9f09-2cecf776b924</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[「免费」-「iOS」List Ninja]]></title>
+            <description><![CDATA[<img src="https://is4-ssl.mzstatic.com/image/thumb/Purple116/v4/04/ba/47/04ba4748-07db-fea8-d319-8c6e2dc11d92/AppIcon-1x_U007emarketing-0-7-0-85-220.png/256x256bb.jpg" referrerpolicy="no-referrer">
+          <br>
+          原价：¥18.00 -&gt; 现价：¥0.00
+          <br>
+          平台：iOS
+          <br>
+          List Ninja is an easy to use list assistant.  There is no need for creating an account, you just start right away creating lists.  Whether you're planning a trip to the grocery store, a weekend road trip, or learning a new language List Ninja will help you create a list of things you want to get or 
+        ]]></description>
+            <pubDate>Thu, 01 Dec 2022 05:45:05 GMT</pubDate>
+            <guid isPermaLink="false">https://gofans.cn/app/53b02067-bbbc-4b08-9b02-b0c2a7789c39</guid>
+            <link>https://gofans.cn/app/53b02067-bbbc-4b08-9b02-b0c2a7789c39</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[「免费」-「iOS」时光进度 - 进度管理&待办计划]]></title>
@@ -542,73 +592,6 @@ PDF Creator is a fast, affordable utility to allow you to create professional qu
             <pubDate>Wed, 30 Nov 2022 09:45:19 GMT</pubDate>
             <guid isPermaLink="false">https://gofans.cn/app/3c837bba-3ba4-4f4d-9ba3-79d92c211dca</guid>
             <link>https://gofans.cn/app/3c837bba-3ba4-4f4d-9ba3-79d92c211dca</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[「免费」-「iOS」Any RecScreen]]></title>
-            <description><![CDATA[<img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/f6/32/ee/f632ee48-a400-c3ee-1524-2d0ae474040f/app_mac_store.png/256x256bb.png" referrerpolicy="no-referrer">
-          <br>
-          原价：¥108.00 -&gt; 现价：¥0.00
-          <br>
-          平台：macOS
-          <br>
-          Any RecScreen是用于Mac的易于使用的屏幕录像机，使您可以全屏或自定义区域记录计算机屏幕。 您可以通过在录制区域添加网络摄像头来录制网络摄像头以创建画中画视频。 也可以捕获来自麦克风或计算机系统音频的视频中的音频。
-
-Any RecScreen的主要功能
--在Mac OS X上录制桌面屏幕
--录制系统的音频和麦克风
--从网络摄像头录制视频
--截图并添加注释
--在录制期间提供实时编辑
--在开始之前设置记录长度
-
-免费试用屏幕录像机！ Any RecScreen均可为您提供录制Mac所需的一切。 要创建高质量的截屏视频，只需遵循以下四个简单步骤：
-1.设置记录区域和音频输入。
-2.捕获
-        ]]></description>
-            <pubDate>Wed, 30 Nov 2022 09:44:08 GMT</pubDate>
-            <guid isPermaLink="false">https://gofans.cn/app/dd8de992-1b3f-43c2-b305-5ba94efae56a</guid>
-            <link>https://gofans.cn/app/dd8de992-1b3f-43c2-b305-5ba94efae56a</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[「降价」-「iOS」iWriter]]></title>
-            <description><![CDATA[<img src="https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/2b/03/39/2b03398d-97f8-bd9c-b47d-cfbefc5de911/AppIcon-1x_U007emarketing-0-6-0-85-220.png/256x256bb.jpg" referrerpolicy="no-referrer">
-          <br>
-          原价：¥18.00 -&gt; 现价：¥6.00
-          <br>
-          平台：iOS
-          <br>
-          Simple and elegant text editor if you want to write an article or take a note.
-
-Key features:
-
- - No subscription required.
- - Minimalistic distraction-free interface. 
- - iCloud sync for iPad and iPhone.
- - Search and Replace within text.
- - Customizable fonts and themes.
- - Automatic number/bullet
-        ]]></description>
-            <pubDate>Wed, 30 Nov 2022 08:38:32 GMT</pubDate>
-            <guid isPermaLink="false">https://gofans.cn/app/e37fb9bb-2dc8-45b2-bf52-8592853a1ce4</guid>
-            <link>https://gofans.cn/app/e37fb9bb-2dc8-45b2-bf52-8592853a1ce4</link>
             
             
             
