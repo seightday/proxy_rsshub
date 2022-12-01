@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[最新限免 / 促销应用]]></title>
         <link>https://gofans.cn/</link>
-        <atom:link href="https://vercel.getrss2021.xyz/appstore/gofans" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub/appstore/gofans" rel="self" type="application/rss+xml" />
         <description><![CDATA[GoFans：最新限免 / 促销应用 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -15,8 +15,31 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Thu, 01 Dec 2022 08:24:46 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Thu, 01 Dec 2022 12:38:37 GMT</lastBuildDate>
+        <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[「降价」-「iOS」SSH Term Pro]]></title>
+            <description><![CDATA[<img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/b9/01/56/b90156f8-9b4b-f6e9-422f-2e54a9aa2e8c/AppIcon-1x_U007emarketing-0-7-0-85-220.png/256x256bb.jpg" referrerpolicy="no-referrer">
+          <br>
+          原价：¥6.00 -&gt; 现价：¥1.00
+          <br>
+          平台：iOS
+          <br>
+          Quickly manage Linux servers from Mac and iPhone and iPad, support SSH and SFTP and Redis and TCP Tunnel, monitor CPU and memory as well as disk usage and other rich features
+        ]]></description>
+            <pubDate>Thu, 01 Dec 2022 10:12:48 GMT</pubDate>
+            <guid isPermaLink="false">https://gofans.cn/app/4f6a3869-ec2a-4d2e-9158-fe1791bf1ceb</guid>
+            <link>https://gofans.cn/app/4f6a3869-ec2a-4d2e-9158-fe1791bf1ceb</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[「免费」-「iOS」ScheduleMe]]></title>
@@ -568,30 +591,6 @@ Supported
             <pubDate>Wed, 30 Nov 2022 09:45:34 GMT</pubDate>
             <guid isPermaLink="false">https://gofans.cn/app/fa40e835-d7c0-4dc4-a768-d5fd1e339c07</guid>
             <link>https://gofans.cn/app/fa40e835-d7c0-4dc4-a768-d5fd1e339c07</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[「免费」-「iOS」PDF Creator Expert]]></title>
-            <description><![CDATA[<img src="https://is5-ssl.mzstatic.com/image/thumb/Purple117/v4/a9/0f/09/a90f0952-7bf1-d635-9c2c-4fc7d2cc062a/icon.png/256x256bb.png" referrerpolicy="no-referrer">
-          <br>
-          原价：¥25.00 -&gt; 现价：¥0.00
-          <br>
-          平台：macOS
-          <br>
-          --------------------------------------------------- 
-PDF Creator is a fast, affordable utility to allow you to create professional quality PDF documents. You can create PDF from PDF, XPS, plain text, image formats, including jpg, png, bmp, gif etc. Also you can set up the PDF password, modify the PD
-        ]]></description>
-            <pubDate>Wed, 30 Nov 2022 09:45:19 GMT</pubDate>
-            <guid isPermaLink="false">https://gofans.cn/app/3c837bba-3ba4-4f4d-9ba3-79d92c211dca</guid>
-            <link>https://gofans.cn/app/3c837bba-3ba4-4f4d-9ba3-79d92c211dca</link>
             
             
             

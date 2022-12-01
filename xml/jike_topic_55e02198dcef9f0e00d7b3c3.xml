@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[JitHub程序员 - 即刻圈子]]></title>
         <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
-        <atom:link href="https://vercel.getrss2021.xyz/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
         <description><![CDATA[开发者们分享，问答，也可以交友的地方。欢迎所有工程师！ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -21,8 +21,8 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 01 Dec 2022 08:25:18 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Thu, 01 Dec 2022 12:38:42 GMT</lastBuildDate>
+        <ttl>1</ttl>
         
         <item>
             <title><![CDATA[- 把Git管理的工作交给同事了，反正以后他当主程肯定要负责。 现在他与其他组沟通并操作合并，有问题我来担。 - 不想让他一直写业务。所以我把拼UI的活揽下来，...]]></title>
