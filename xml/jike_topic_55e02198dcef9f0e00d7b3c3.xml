@@ -21,12 +21,12 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sun, 04 Dec 2022 08:21:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Dec 2022 12:32:39 GMT</lastBuildDate>
         <ttl>1</ttl>
         
         <item>
             <title><![CDATA[来一个视频版本的 ChatGPT 如何辅助写代码的过程。真的比 GitHub Copilot 还要好用。]]></title>
-            <description><![CDATA[<span>用户昵称：图拉鼎 <br> Username：A893532D-B9D6-4AD3-8BEE-D380692B68E2</span><br><br>来一个视频版本的 ChatGPT 如何辅助写代码的过程。真的比 GitHub Copilot 还要好用。<br><video src="https://videocdn.jellow.site/lqNCCMQZRA2Pcs85tXyqMqV7TweT.mp4?sign=7efcaa34e60596345a4e5474920f472e&amp;t=638c5f4d" controls=""></video>]]></description>
+            <description><![CDATA[<span>用户昵称：图拉鼎 <br> Username：A893532D-B9D6-4AD3-8BEE-D380692B68E2</span><br><br>来一个视频版本的 ChatGPT 如何辅助写代码的过程。真的比 GitHub Copilot 还要好用。<br><video src="https://videocdn.jellow.site/lqNCCMQZRA2Pcs85tXyqMqV7TweT.mp4?sign=dcc50d69fadc6020263df8b0b48b7648&amp;t=638c9a6f" controls=""></video>]]></description>
             <pubDate>Sun, 04 Dec 2022 06:53:10 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/638c43d6034d61bdc3b07fe8</guid>
             <link>https://m.okjike.com/originalPosts/638c43d6034d61bdc3b07fe8</link>
@@ -34,6 +34,22 @@
             
             
             <author><![CDATA[图拉鼎]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[个人开发者微信支付宝支付集成 对于国内个人开发者来说，开发一个完整的产品，支付是一个非常重要的部分，有了支付的集成，自动化收款才可能。 但是，个人在微信...]]></title>
+            <description><![CDATA[<span>用户昵称：凯凯刘 <br> Username：17df3f5b-8c45-49aa-8a20-e7f9e698210d</span><br><br>个人开发者微信支付宝支付集成<br><br>对于国内个人开发者来说，开发一个完整的产品，支付是一个非常重要的部分，有了支付的集成，自动化收款才可能。<br><br>但是，个人在微信开放平台或者支付宝开放平台申请支付功能，需要是企业才可以接入，对于普通开发者来说，这个成本就非常高了。<br><br>一些开发者跟我聊的时候，对产品集成支付接口也不知从何入手，为了大家少踩点坑，分享下我的集成解决方案。<br><br>详细介绍：http://liujinkai.com/2022/12/04/zhifu-jicheng/<br><img src="https://cdnv2.ruguoapp.com/FrGTM1u4oQJj9ET6zN2tpOHzhvm0v3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sun, 04 Dec 2022 06:00:53 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/638c37957db28a9a656bb20d</guid>
+            <link>https://m.okjike.com/originalPosts/638c37957db28a9a656bb20d</link>
+            
+            
+            
+            <author><![CDATA[凯凯刘]]></author>
             
                 
             
@@ -98,22 +114,6 @@
             
             
             <author><![CDATA[阿姨来包辣条]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[小白刚开始学写代码（Rust），请问写个什么功能练手好呢？]]></title>
-            <description><![CDATA[<span>用户昵称：我是大本钟我是大本钟 <br> Username：C027E21D-DFD6-4F88-AF40-31871E1FB6F4</span><br><br>小白刚开始学写代码（Rust），请问写个什么功能练手好呢？]]></description>
-            <pubDate>Tue, 29 Nov 2022 14:25:09 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6386164590f834f7b72e3b78</guid>
-            <link>https://m.okjike.com/originalPosts/6386164590f834f7b72e3b78</link>
-            
-            
-            
-            <author><![CDATA[我是大本钟我是大本钟]]></author>
             
                 
             
