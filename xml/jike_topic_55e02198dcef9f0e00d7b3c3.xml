@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 05 Dec 2022 04:22:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 08:23:48 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[换个圈子求助一下 为什么会出现电脑端无法访问学校网站（edu）的情况啊？ 手机平板可以登录 室友连接同一网络电脑也可以登录 只有我电脑登不上去（大哭） 目前采...]]></title>
+            <description><![CDATA[<span>用户昵称：Gen. <br> Username：D83ACE5B-14D1-42FC-A6E5-105608D3847E</span><br><br>换个圈子求助一下<br><br>为什么会出现电脑端无法访问学校网站（edu）的情况啊？<br>手机平板可以登录<br>室友连接同一网络电脑也可以登录<br>只有我电脑登不上去（大哭）<br><br>目前采用的解决办法有：<br>清楚cookie<br>换浏览器登录（IE，火狐，360）<br><br>依然登录不上🥲]]></description>
+            <pubDate>Mon, 05 Dec 2022 03:50:15 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/638d6a777db28a9a65866532</guid>
+            <link>https://m.okjike.com/originalPosts/638d6a777db28a9a65866532</link>
+            
+            
+            
+            <author><![CDATA[Gen.]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[现在支持打印 vitepress 网站，顺手打印了 vue 和 vitest 的中文文档，需要的自行下载。科技爱好者我重新打印了一遍，调整了图片大小以及删除了广告。 以及现在...]]></title>
@@ -41,15 +57,15 @@
         </item>
         
         <item>
-            <title><![CDATA[好奇怪啊，有没有技术大佬帮忙答疑解惑 问题：在winodws上运行python脚本时出现奇怪的问题（使用了selenium+无头），如图 1. Mac：在terminal和IDE上运行脚本，...]]></title>
-            <description><![CDATA[<span>用户昵称：0xForever <br> Username：3D8633AF-2B1C-41B7-9020-5C5E1385D48F</span><br><br>好奇怪啊，有没有技术大佬帮忙答疑解惑<br><br>问题：在winodws上运行python脚本时出现奇怪的问题（使用了selenium+无头），如图<br><br>1. Mac：在terminal和IDE上运行脚本，正常，无任何报错或奇怪现象<br><br>2. Windows：在IDE上运行脚本，正常，无任何报错或奇怪现象<br><br>3. Windows：在本地或云服务器的命令行中运行脚本，不正常，出现如图中的一大堆鬼东西，但能运行脚本，由于是循环脚本，会影响代码结果美观和心情，但不影响运行结果<br><br>想问问这是怎么回事以及如何解决，实在谷歌不到，感谢🙏<br><img src="https://cdnv2.ruguoapp.com/Fpi34uKOFvpkOSu-nNHAHbjRciV9v3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sun, 04 Dec 2022 08:41:29 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/638c5d39fcd5d9a30f0456dd</guid>
-            <link>https://m.okjike.com/originalPosts/638c5d39fcd5d9a30f0456dd</link>
+            <title><![CDATA[在编程方面，看了一晚上 chatGPT 最厉害的两个： 1/在 chatGPT 中建一个虚拟机，可以在其中检索、编程、运行docker等。 2/导入一个新语言的 specification docum...]]></title>
+            <description><![CDATA[<span>用户昵称：Myoung <br> Username：10EDFF69-1F8C-4A66-A981-2093B7D996CA</span><br><br>在编程方面，看了一晚上 chatGPT 最厉害的两个：<br>1/在 chatGPT 中建一个虚拟机，可以在其中检索、编程、运行docker等。<br>2/导入一个新语言的 specification document，相当于给chatGPT喂了个新语言，可以用这个新语言编程。<br><br>这太牛了，还有什么不能做的，还有什么好玩的吗？]]></description>
+            <pubDate>Sun, 04 Dec 2022 13:25:16 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/638c9fbc51b5f49d9b916508</guid>
+            <link>https://m.okjike.com/originalPosts/638c9fbc51b5f49d9b916508</link>
             
             
             
-            <author><![CDATA[0xForever]]></author>
+            <author><![CDATA[Myoung]]></author>
             
                 
             
@@ -58,7 +74,7 @@
         
         <item>
             <title><![CDATA[来一个视频版本的 ChatGPT 如何辅助写代码的过程。真的比 GitHub Copilot 还要好用。]]></title>
-            <description><![CDATA[<span>用户昵称：图拉鼎 <br> Username：A893532D-B9D6-4AD3-8BEE-D380692B68E2</span><br><br>来一个视频版本的 ChatGPT 如何辅助写代码的过程。真的比 GitHub Copilot 还要好用。<br><video src="https://videocdn.jellow.site/lqNCCMQZRA2Pcs85tXyqMqV7TweT.mp4?sign=dfb4ad5bef08faa845c8d0b240d453dd&amp;t=638d7889" controls=""></video>]]></description>
+            <description><![CDATA[<span>用户昵称：图拉鼎 <br> Username：A893532D-B9D6-4AD3-8BEE-D380692B68E2</span><br><br>来一个视频版本的 ChatGPT 如何辅助写代码的过程。真的比 GitHub Copilot 还要好用。<br><video src="https://videocdn.jellow.site/lqNCCMQZRA2Pcs85tXyqMqV7TweT.mp4?sign=22576511681ffa75b87a11fe693a1c35&amp;t=638db136" controls=""></video>]]></description>
             <pubDate>Sun, 04 Dec 2022 06:53:10 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/638c43d6034d61bdc3b07fe8</guid>
             <link>https://m.okjike.com/originalPosts/638c43d6034d61bdc3b07fe8</link>
@@ -162,22 +178,6 @@
             
             
             <author><![CDATA[HwangSSS]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[马斯克推特裁员200人，刷爆”国内”互联网朋友圈抖音头条快手微视今日说法凤凰网新闻，互联网这伙打工仔存在感怎么这么强，我问彭小姐说。 学计算机的没怎么学好...]]></title>
-            <description><![CDATA[<span>用户昵称：何即兴 <br> Username：2cb72f0b-8c08-4b2c-99d1-7c91c5719cdb</span><br><br>马斯克推特裁员200人，刷爆”国内”互联网朋友圈抖音头条快手微视今日说法凤凰网新闻，互联网这伙打工仔存在感怎么这么强，我问彭小姐说。<br>学计算机的没怎么学好还没没毕业呢，焦虑三十五岁失业；学物理化学高学历毕业嘛，宁愿去互联网打工做客服转Excel运营转PPT产品；半导体毕业的毕业就高工资，实在没有时间在网上各种嚷嚷。彭小姐接着说到，这些网络发声的，在现实社会中一点不重要，而且还恶意放大了焦虑，只要这个行业还是高工资，本质上都属于在创新滑铁卢阶段，存量年龄大占据先入局的人员对后来者的一种拒绝姿态，再进一步讲，实际上也可以是先入局的年龄大者希望写的代码能跟医生一样有绝对的门槛能一招吃遍天，但非常可惜有了Github所以导致人不进则退，这伙网上发声的IT人员，何不想闭源每天就改几个bug跟医生一样看看感冒发烧流鼻涕，彭小姐回复到。<br>也对，只要先入局的人群工资没有腰斩，实际上这个行业在网上大量发声焦虑的本质就是拒绝后浪拍打前浪，退一步讲，哪个行业不需要不断进步，你能说路边炒粉摊就不需要进步吗，对吧，我问彭小姐。<br>呦，老大哥上道了，学会延伸了呢，彭小姐咯咯笑着说。]]></description>
-            <pubDate>Sat, 19 Nov 2022 01:20:25 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63782f59184b65abb06e54c9</guid>
-            <link>https://m.okjike.com/originalPosts/63782f59184b65abb06e54c9</link>
-            
-            
-            
-            <author><![CDATA[何即兴]]></author>
             
                 
             
