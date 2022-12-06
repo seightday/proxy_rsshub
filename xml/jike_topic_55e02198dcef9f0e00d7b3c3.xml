@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 05 Dec 2022 20:18:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Dec 2022 01:23:15 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[常看的两个教程，《现代 JavaScript 教程》和 《Rust 语言圣经》，也打印了。这里打个广告，PDF 和 @MarginNote 更配。 print-website-as-book 这个项目先告一段...]]></title>
+            <description><![CDATA[<span>用户昵称：ourongxing <br> Username：7f422d5d-d79a-4f45-9880-b89d64d7f37a</span><br><br>常看的两个教程，《现代 JavaScript 教程》和 《Rust 语言圣经》，也打印了。这里打个广告，PDF 和 @MarginNote 更配。<br><br>print-website-as-book 这个项目先告一段落。开源但是不想写文档。<br><br>目前支持的比较通用的平台：<br>1. 小报童<br>2. 竹白<br>3. vitepress<br>4. mdbook<br> <br><br>Rust 语言圣经：https://course.rs/<br>现代 JavaScript 教程：https://zh.javascript.info/<br><br>PDF：https://github.com/ourongxing/print-website-as-book/releases/tag/pdf<br>Github：https://github.com/ourongxing/print-website-as-book<br><img src="https://cdnv2.ruguoapp.com/FvWZz8sHO6pok8RRq_Hmnh2Lr2Kuv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FkLOxarXlzZLc7sVXhutjSTg6rHmv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 05 Dec 2022 16:07:37 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/638e1749ee30d55f8c19f5c0</guid>
+            <link>https://m.okjike.com/originalPosts/638e1749ee30d55f8c19f5c0</link>
+            
+            
+            
+            <author><![CDATA[ourongxing]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[能不能让ChatGPT写个linux出来啊，不能就是废物AI]]></title>
@@ -57,22 +73,6 @@
         </item>
         
         <item>
-            <title><![CDATA[现在支持打印 vitepress 网站，顺手打印了 vue 和 vitest 的中文文档，需要的自行下载。科技爱好者我重新打印了一遍，调整了图片大小以及删除了广告。 以及现在...]]></title>
-            <description><![CDATA[<span>用户昵称：ourongxing <br> Username：7f422d5d-d79a-4f45-9880-b89d64d7f37a</span><br><br>现在支持打印 vitepress 网站，顺手打印了 vue 和 vitest 的中文文档，需要的自行下载。科技爱好者我重新打印了一遍，调整了图片大小以及删除了广告。<br><br>以及现在能多线程了，速度起飞。代码开源，自己看，也不复杂。使用文档暂时不想写。<br><br>PDF 下载：https://github.com/ourongxing/print-website-as-book/releases/tag/pdf<br><br>下一步看看能不能打印公众号的所有文章。<br><br>注：这些 PDF 我都是当电子书看的，没有继续打印成纸质的想法，所以每页上下都没有留空。<br><img src="https://cdnv2.ruguoapp.com/FskrifGwwN3wzSJWQI6lYer7rX1Hv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FqCDMeIo12alkgsruWKoRK00fzEMv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FltfLTbS7F_Cqi2uk-uYsDFq_FOrv3.png" referrerpolicy="no-referrer"><img src="https://cdnv2.ruguoapp.com/FmsZ7AN7RSnktv4o00y9LjQxtvLlv3.gif" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sun, 04 Dec 2022 18:11:34 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/638ce2d651b5f49d9b97ccc3</guid>
-            <link>https://m.okjike.com/originalPosts/638ce2d651b5f49d9b97ccc3</link>
-            
-            
-            
-            <author><![CDATA[ourongxing]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[在编程方面，看了一晚上 chatGPT 最厉害的两个： 1/在 chatGPT 中建一个虚拟机，可以在其中检索、编程、运行docker等。 2/导入一个新语言的 specification docum...]]></title>
             <description><![CDATA[<span>用户昵称：Myoung <br> Username：10EDFF69-1F8C-4A66-A981-2093B7D996CA</span><br><br>在编程方面，看了一晚上 chatGPT 最厉害的两个：<br>1/在 chatGPT 中建一个虚拟机，可以在其中检索、编程、运行docker等。<br>2/导入一个新语言的 specification document，相当于给chatGPT喂了个新语言，可以用这个新语言编程。<br><br>这太牛了，还有什么不能做的，还有什么好玩的吗？]]></description>
             <pubDate>Sun, 04 Dec 2022 13:25:16 GMT</pubDate>
@@ -90,7 +90,7 @@
         
         <item>
             <title><![CDATA[来一个视频版本的 ChatGPT 如何辅助写代码的过程。真的比 GitHub Copilot 还要好用。]]></title>
-            <description><![CDATA[<span>用户昵称：图拉鼎 <br> Username：A893532D-B9D6-4AD3-8BEE-D380692B68E2</span><br><br>来一个视频版本的 ChatGPT 如何辅助写代码的过程。真的比 GitHub Copilot 还要好用。<br><video src="https://videocdn.jellow.site/lqNCCMQZRA2Pcs85tXyqMqV7TweT.mp4?sign=ecafed7564e591a097ae80f69180778e&amp;t=638e5931" controls=""></video>]]></description>
+            <description><![CDATA[<span>用户昵称：图拉鼎 <br> Username：A893532D-B9D6-4AD3-8BEE-D380692B68E2</span><br><br>来一个视频版本的 ChatGPT 如何辅助写代码的过程。真的比 GitHub Copilot 还要好用。<br><video src="https://videocdn.jellow.site/lqNCCMQZRA2Pcs85tXyqMqV7TweT.mp4?sign=24bcfd6fee98f29dcd880734c43a7b10&amp;t=638ea063" controls=""></video>]]></description>
             <pubDate>Sun, 04 Dec 2022 06:53:10 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/638c43d6034d61bdc3b07fe8</guid>
             <link>https://m.okjike.com/originalPosts/638c43d6034d61bdc3b07fe8</link>
