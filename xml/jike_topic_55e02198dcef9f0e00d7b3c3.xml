@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 06 Dec 2022 12:34:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Dec 2022 16:24:47 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[所有桌面软件，都可以用 web 和 wasm 再做一遍。Figma 的成功就是明证。 十年前，我做秋玉米，其实就是把一个桌面版扫未注册域名软件改成了在线web工具。 同时做...]]></title>
+            <description><![CDATA[<span>用户昵称：哥飞 <br> Username：a2d6acc1-626f-4d15-a22a-849e88a4c9f0</span><br><br>所有桌面软件，都可以用 web 和 wasm 再做一遍。Figma 的成功就是明证。<br>十年前，我做秋玉米，其实就是把一个桌面版扫未注册域名软件改成了在线web工具。<br>同时做了一些改造，那个软件需要用户自己做字典，我就给用户提供已经做好的字典。<br>十年来，秋玉米帮助用户查询了10亿次域名注册状态，扫出来了上百万个未注册域名。]]></description>
+            <pubDate>Tue, 06 Dec 2022 08:58:50 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/638f044a5114e95d2a81d051</guid>
+            <link>https://m.okjike.com/originalPosts/638f044a5114e95d2a81d051</link>
+            
+            
+            
+            <author><![CDATA[哥飞]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[常看的两个教程，《现代 JavaScript 教程》和 《Rust 语言圣经》，也打印了。这里打个广告，PDF 和 @MarginNote 更配。 print-website-as-book 这个项目先告一段...]]></title>
@@ -73,22 +89,6 @@
         </item>
         
         <item>
-            <title><![CDATA[现在支持打印 vitepress 网站，顺手打印了 vue 和 vitest 的中文文档，需要的自行下载。科技爱好者我重新打印了一遍，调整了图片大小以及删除了广告。 以及现在...]]></title>
-            <description><![CDATA[<span>用户昵称：ourongxing <br> Username：7f422d5d-d79a-4f45-9880-b89d64d7f37a</span><br><br>现在支持打印 vitepress 网站，顺手打印了 vue 和 vitest 的中文文档，需要的自行下载。科技爱好者我重新打印了一遍，调整了图片大小以及删除了广告。<br><br>以及现在能多线程了，速度起飞。代码开源，自己看，也不复杂。使用文档暂时不想写。<br><br>PDF 下载：https://github.com/ourongxing/print-website-as-book/releases/tag/pdf<br><br>下一步看看能不能打印公众号的所有文章。<br><br>注：这些 PDF 我都是当电子书看的，没有继续打印成纸质的想法，所以每页上下都没有留空。<br><img src="https://cdnv2.ruguoapp.com/FskrifGwwN3wzSJWQI6lYer7rX1Hv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FqCDMeIo12alkgsruWKoRK00fzEMv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FltfLTbS7F_Cqi2uk-uYsDFq_FOrv3.png" referrerpolicy="no-referrer"><img src="https://cdnv2.ruguoapp.com/FmsZ7AN7RSnktv4o00y9LjQxtvLlv3.gif" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sun, 04 Dec 2022 18:11:34 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/638ce2d651b5f49d9b97ccc3</guid>
-            <link>https://m.okjike.com/originalPosts/638ce2d651b5f49d9b97ccc3</link>
-            
-            
-            
-            <author><![CDATA[ourongxing]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[在编程方面，看了一晚上 chatGPT 最厉害的两个： 1/在 chatGPT 中建一个虚拟机，可以在其中检索、编程、运行docker等。 2/导入一个新语言的 specification docum...]]></title>
             <description><![CDATA[<span>用户昵称：Myoung <br> Username：10EDFF69-1F8C-4A66-A981-2093B7D996CA</span><br><br>在编程方面，看了一晚上 chatGPT 最厉害的两个：<br>1/在 chatGPT 中建一个虚拟机，可以在其中检索、编程、运行docker等。<br>2/导入一个新语言的 specification document，相当于给chatGPT喂了个新语言，可以用这个新语言编程。<br><br>这太牛了，还有什么不能做的，还有什么好玩的吗？]]></description>
             <pubDate>Sun, 04 Dec 2022 13:25:16 GMT</pubDate>
@@ -106,10 +106,26 @@
         
         <item>
             <title><![CDATA[来一个视频版本的 ChatGPT 如何辅助写代码的过程。真的比 GitHub Copilot 还要好用。]]></title>
-            <description><![CDATA[<span>用户昵称：图拉鼎 <br> Username：A893532D-B9D6-4AD3-8BEE-D380692B68E2</span><br><br>来一个视频版本的 ChatGPT 如何辅助写代码的过程。真的比 GitHub Copilot 还要好用。<br><video src="https://videocdn.jellow.site/lqNCCMQZRA2Pcs85tXyqMqV7TweT.mp4?sign=d98d3384b454237cbafa3cbadf45eea3&amp;t=638f3deb" controls=""></video>]]></description>
+            <description><![CDATA[<span>用户昵称：图拉鼎 <br> Username：A893532D-B9D6-4AD3-8BEE-D380692B68E2</span><br><br>来一个视频版本的 ChatGPT 如何辅助写代码的过程。真的比 GitHub Copilot 还要好用。<br><video src="https://videocdn.jellow.site/lqNCCMQZRA2Pcs85tXyqMqV7TweT.mp4?sign=e3055ea7371fce3926841f11dbe561aa&amp;t=638f73d7" controls=""></video>]]></description>
             <pubDate>Sun, 04 Dec 2022 06:53:10 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/638c43d6034d61bdc3b07fe8</guid>
             <link>https://m.okjike.com/originalPosts/638c43d6034d61bdc3b07fe8</link>
+            
+            
+            
+            <author><![CDATA[图拉鼎]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[我问 ChatGPT：「列几本写的不错的关于推广和运营 App 类或者互联网产品的书吧。」。 它刷刷刷的列了几本，第一本是《运营之光》，还给了豆瓣链接，我满怀期待的...]]></title>
+            <description><![CDATA[<span>用户昵称：图拉鼎 <br> Username：A893532D-B9D6-4AD3-8BEE-D380692B68E2</span><br><br>我问 ChatGPT：「列几本写的不错的关于推广和运营 App 类或者互联网产品的书吧。」。<br><br>它刷刷刷的列了几本，第一本是《运营之光》，还给了豆瓣链接，我满怀期待的点进去，结果是：《一只猫的幸福生活》。<br><br>很好，居然敢耍我。<br><img src="https://cdnv2.ruguoapp.com/FkG9D-GPgzYTEF04CNKQTSUDhwuUv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FtiPhds9xJEK-zH1GqfMN_7enGtPv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sun, 04 Dec 2022 04:35:20 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/638c23885114e95d2a3f7cdc</guid>
+            <link>https://m.okjike.com/originalPosts/638c23885114e95d2a3f7cdc</link>
             
             
             
@@ -162,22 +178,6 @@
             
             
             <author><![CDATA[图拉鼎]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Twitter 的基础架构 🤔 2012 👉 2022]]></title>
-            <description><![CDATA[<span>用户昵称：HwangSSS <br> Username：660cee5b-42b3-47a5-b084-c38987c315ed</span><br><br>Twitter 的基础架构 🤔<br>2012 👉 2022<br><img src="https://cdnv2.ruguoapp.com/FqTFV-4NIazYD3NNkXhvULa_ZOJfv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fko-hiJ1p4n6kNa_jVPIbkXTRbEmv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 21 Nov 2022 06:29:50 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/637b1ade1a166c129bc86e1b</guid>
-            <link>https://m.okjike.com/originalPosts/637b1ade1a166c129bc86e1b</link>
-            
-            
-            
-            <author><![CDATA[HwangSSS]]></author>
             
                 
             
