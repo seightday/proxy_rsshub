@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 08 Dec 2022 08:23:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 12:34:03 GMT</lastBuildDate>
         <ttl>1</ttl>
         
         <item>
@@ -105,6 +105,22 @@
         </item>
         
         <item>
+            <title><![CDATA[哈哈哈我笑死了，是什么说服了c罗拍这个虾皮的广告]]></title>
+            <description><![CDATA[<span>用户昵称：小熊本熊 <br> Username：fe6b5ed1-6a37-422a-8690-b844b50e8015</span><br><br>哈哈哈我笑死了，是什么说服了c罗拍这个虾皮的广告<br><video src="https://videocdn.jellow.site/luB9FmgfLLuyghGL1pxVnOzgZO40.mp4?sign=d34f0bf27a89314e755cb401b8b33f11&amp;t=6391dfe1" controls=""></video>]]></description>
+            <pubDate>Mon, 05 Dec 2022 13:52:21 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/638df79551b5f49d9bafcd25</guid>
+            <link>https://m.okjike.com/originalPosts/638df79551b5f49d9bafcd25</link>
+            
+            
+            
+            <author><![CDATA[小熊本熊]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[在编程方面，看了一晚上 chatGPT 最厉害的两个： 1/在 chatGPT 中建一个虚拟机，可以在其中检索、编程、运行docker等。 2/导入一个新语言的 specification docum...]]></title>
             <description><![CDATA[<span>用户昵称：Myoung <br> Username：10EDFF69-1F8C-4A66-A981-2093B7D996CA</span><br><br>在编程方面，看了一晚上 chatGPT 最厉害的两个：<br>1/在 chatGPT 中建一个虚拟机，可以在其中检索、编程、运行docker等。<br>2/导入一个新语言的 specification document，相当于给chatGPT喂了个新语言，可以用这个新语言编程。<br><br>这太牛了，还有什么不能做的，还有什么好玩的吗？]]></description>
             <pubDate>Sun, 04 Dec 2022 13:25:16 GMT</pubDate>
@@ -122,7 +138,7 @@
         
         <item>
             <title><![CDATA[来一个视频版本的 ChatGPT 如何辅助写代码的过程。真的比 GitHub Copilot 还要好用。]]></title>
-            <description><![CDATA[<span>用户昵称：图拉鼎 <br> Username：A893532D-B9D6-4AD3-8BEE-D380692B68E2</span><br><br>来一个视频版本的 ChatGPT 如何辅助写代码的过程。真的比 GitHub Copilot 还要好用。<br><video src="https://videocdn.jellow.site/lqNCCMQZRA2Pcs85tXyqMqV7TweT.mp4?sign=fd372250f49757ccf86a20162224fa3b&amp;t=6391a42b" controls=""></video>]]></description>
+            <description><![CDATA[<span>用户昵称：图拉鼎 <br> Username：A893532D-B9D6-4AD3-8BEE-D380692B68E2</span><br><br>来一个视频版本的 ChatGPT 如何辅助写代码的过程。真的比 GitHub Copilot 还要好用。<br><video src="https://videocdn.jellow.site/lqNCCMQZRA2Pcs85tXyqMqV7TweT.mp4?sign=1aada226f6c78677a2dc0eb68d7c49af&amp;t=6391dfe1" controls=""></video>]]></description>
             <pubDate>Sun, 04 Dec 2022 06:53:10 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/638c43d6034d61bdc3b07fe8</guid>
             <link>https://m.okjike.com/originalPosts/638c43d6034d61bdc3b07fe8</link>
@@ -162,22 +178,6 @@
             
             
             <author><![CDATA[DeckardCain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[最近开始用尝试用 Snippet 工具来管理代码片，以前从来不用这些东西，觉得想写的时候，自然而然就会写出来了。 仔细回顾一下自己写（特别是不常用）代码的过程，...]]></title>
-            <description><![CDATA[<span>用户昵称：图拉鼎 <br> Username：A893532D-B9D6-4AD3-8BEE-D380692B68E2</span><br><br>最近开始用尝试用 Snippet 工具来管理代码片，以前从来不用这些东西，觉得想写的时候，自然而然就会写出来了。<br><br>仔细回顾一下自己写（特别是不常用）代码的过程，发现还是非常缓慢的：要么查文档、要么查 Google/StackOverflow，有些代码片真的复制粘贴了很多遍。<br><br>所以，我开始尝试了。]]></description>
-            <pubDate>Thu, 24 Nov 2022 01:50:06 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/637ecdcefe90ffcf2a5c0260</guid>
-            <link>https://m.okjike.com/originalPosts/637ecdcefe90ffcf2a5c0260</link>
-            
-            
-            
-            <author><![CDATA[图拉鼎]]></author>
             
                 
             
