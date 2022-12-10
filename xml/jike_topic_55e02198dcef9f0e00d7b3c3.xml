@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Fri, 09 Dec 2022 20:20:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Dec 2022 01:21:54 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[所有程序员，尽快开始使用ChatGPT（或者类似替代工具）。 如同我们不知不觉进入了二维码支付时代，AI时代来了，使用AI写代码（或者其他工作）将会成为常态。]]></title>
+            <description><![CDATA[<span>用户昵称：Jithub <br> Username：C027E21D-DFD6-4F88-AF40-31871E1FB6F4</span><br><br>所有程序员，尽快开始使用ChatGPT（或者类似替代工具）。<br><br>如同我们不知不觉进入了二维码支付时代，AI时代来了，使用AI写代码（或者其他工作）将会成为常态。]]></description>
+            <pubDate>Fri, 09 Dec 2022 16:31:52 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/639362f8bc51c8a44d1ba347</guid>
+            <link>https://m.okjike.com/originalPosts/639362f8bc51c8a44d1ba347</link>
+            
+            
+            
+            <author><![CDATA[Jithub]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[VSCode插件 ChatGPT中文版，免注册，免登录，免代理版本已经更新啦。vscode插件商店搜索 chatgpt中文版，然后按照，插件主页的教程使用。]]></title>
@@ -121,22 +137,6 @@
         </item>
         
         <item>
-            <title><![CDATA[常看的两个教程，《现代 JavaScript 教程》和 《Rust 语言圣经》，也打印了。这里打个广告，PDF 和 @MarginNote 更配。 print-website-as-book 这个项目先告一段...]]></title>
-            <description><![CDATA[<span>用户昵称：ourongxing <br> Username：7f422d5d-d79a-4f45-9880-b89d64d7f37a</span><br><br>常看的两个教程，《现代 JavaScript 教程》和 《Rust 语言圣经》，也打印了。这里打个广告，PDF 和 @MarginNote 更配。<br><br>print-website-as-book 这个项目先告一段落。开源但是不想写文档。<br><br>目前支持的比较通用的平台：<br>1. 小报童<br>2. 竹白<br>3. vitepress<br>4. mdbook<br> <br><br>Rust 语言圣经：https://course.rs/<br>现代 JavaScript 教程：https://zh.javascript.info/<br><br>PDF：https://github.com/ourongxing/print-website-as-book/releases/tag/pdf<br>Github：https://github.com/ourongxing/print-website-as-book<br><img src="https://cdnv2.ruguoapp.com/FvWZz8sHO6pok8RRq_Hmnh2Lr2Kuv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FkLOxarXlzZLc7sVXhutjSTg6rHmv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 05 Dec 2022 16:07:37 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/638e1749ee30d55f8c19f5c0</guid>
-            <link>https://m.okjike.com/originalPosts/638e1749ee30d55f8c19f5c0</link>
-            
-            
-            
-            <author><![CDATA[ourongxing]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[在编程方面，看了一晚上 chatGPT 最厉害的两个： 1/在 chatGPT 中建一个虚拟机，可以在其中检索、编程、运行docker等。 2/导入一个新语言的 specification docum...]]></title>
             <description><![CDATA[<span>用户昵称：Myoung <br> Username：10EDFF69-1F8C-4A66-A981-2093B7D996CA</span><br><br>在编程方面，看了一晚上 chatGPT 最厉害的两个：<br>1/在 chatGPT 中建一个虚拟机，可以在其中检索、编程、运行docker等。<br>2/导入一个新语言的 specification document，相当于给chatGPT喂了个新语言，可以用这个新语言编程。<br><br>这太牛了，还有什么不能做的，还有什么好玩的吗？]]></description>
             <pubDate>Sun, 04 Dec 2022 13:25:16 GMT</pubDate>
@@ -154,7 +154,7 @@
         
         <item>
             <title><![CDATA[来一个视频版本的 ChatGPT 如何辅助写代码的过程。真的比 GitHub Copilot 还要好用。]]></title>
-            <description><![CDATA[<span>用户昵称：图拉鼎 <br> Username：A893532D-B9D6-4AD3-8BEE-D380692B68E2</span><br><br>来一个视频版本的 ChatGPT 如何辅助写代码的过程。真的比 GitHub Copilot 还要好用。<br><video src="https://videocdn.jellow.site/lqNCCMQZRA2Pcs85tXyqMqV7TweT.mp4?sign=73c185f0f80f8353852b5582e068c971&amp;t=63939f83" controls=""></video>]]></description>
+            <description><![CDATA[<span>用户昵称：图拉鼎 <br> Username：A893532D-B9D6-4AD3-8BEE-D380692B68E2</span><br><br>来一个视频版本的 ChatGPT 如何辅助写代码的过程。真的比 GitHub Copilot 还要好用。<br><video src="https://videocdn.jellow.site/lqNCCMQZRA2Pcs85tXyqMqV7TweT.mp4?sign=145512b6663676fc8571025f49e5aa27&amp;t=6393e5d4" controls=""></video>]]></description>
             <pubDate>Sun, 04 Dec 2022 06:53:10 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/638c43d6034d61bdc3b07fe8</guid>
             <link>https://m.okjike.com/originalPosts/638c43d6034d61bdc3b07fe8</link>
