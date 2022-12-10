@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sat, 10 Dec 2022 08:21:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Dec 2022 12:31:30 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[蹭一个 chatgpt的热度，写了一个微信的chatgpt机器人，只需要拿到chatgpt的serviceToken即可。 不过项目是基于padlocal的，一个微信机器人服务商，在他们家的网...]]></title>
+            <description><![CDATA[<span>用户昵称：TankNee <br> Username：d25cf3f3-f6e6-4427-b418-51ba06cf26e9</span><br><br>                    <img src="https://opengraph.githubassets.com/def3849db319fa278f08faf4f23b0ee1470b7f753f0e7c2696242776c2b61901/TankNee/chatgpt-wechaty" referrerpolicy="no-referrer"><br>                    <a href="https://github.com/TankNee/chatgpt-wechaty">GitHub - TankNee/chatgpt-wechaty</a><br>                <br>蹭一个 chatgpt的热度，写了一个微信的chatgpt机器人，只需要拿到chatgpt的serviceToken即可。<br>不过项目是基于padlocal的，一个微信机器人服务商，在他们家的网页上注册一个账号就能拿到一个七天免费试用的token，比微信网页版稳定的多，而且不需要安装puppeteer，所以依赖下载速度也快的多。]]></description>
+            <pubDate>Sat, 10 Dec 2022 03:05:09 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6393f7653083235d38cc1b71</guid>
+            <link>https://m.okjike.com/originalPosts/6393f7653083235d38cc1b71</link>
+            
+            
+            
+            <author><![CDATA[TankNee]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[所有程序员，尽快开始使用ChatGPT（或者类似替代工具）。 如同我们不知不觉进入了二维码支付时代，AI时代来了，使用AI写代码（或者其他工作）将会成为常态。]]></title>
@@ -121,22 +137,6 @@
         </item>
         
         <item>
-            <title><![CDATA[有人用ChatGPT API 搞东西，我用ChatGPT学编程，简直高效到炸裂]]></title>
-            <description><![CDATA[<span>用户昵称：Zach爱思考 <br> Username：0dd7fdc7-f239-40f3-88d3-27062d53f124</span><br><br>有人用ChatGPT API 搞东西，我用ChatGPT学编程，简直高效到炸裂<br><img src="https://cdnv2.ruguoapp.com/FvRVoj1mY1ZDhGnsMcrDMMFD2cj7v3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 06 Dec 2022 14:16:16 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/638f4eb02b8ce4dab2a88dc7</guid>
-            <link>https://m.okjike.com/originalPosts/638f4eb02b8ce4dab2a88dc7</link>
-            
-            
-            
-            <author><![CDATA[Zach爱思考]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[在编程方面，看了一晚上 chatGPT 最厉害的两个： 1/在 chatGPT 中建一个虚拟机，可以在其中检索、编程、运行docker等。 2/导入一个新语言的 specification docum...]]></title>
             <description><![CDATA[<span>用户昵称：Myoung <br> Username：10EDFF69-1F8C-4A66-A981-2093B7D996CA</span><br><br>在编程方面，看了一晚上 chatGPT 最厉害的两个：<br>1/在 chatGPT 中建一个虚拟机，可以在其中检索、编程、运行docker等。<br>2/导入一个新语言的 specification document，相当于给chatGPT喂了个新语言，可以用这个新语言编程。<br><br>这太牛了，还有什么不能做的，还有什么好玩的吗？]]></description>
             <pubDate>Sun, 04 Dec 2022 13:25:16 GMT</pubDate>
@@ -154,7 +154,7 @@
         
         <item>
             <title><![CDATA[来一个视频版本的 ChatGPT 如何辅助写代码的过程。真的比 GitHub Copilot 还要好用。]]></title>
-            <description><![CDATA[<span>用户昵称：图拉鼎 <br> Username：A893532D-B9D6-4AD3-8BEE-D380692B68E2</span><br><br>来一个视频版本的 ChatGPT 如何辅助写代码的过程。真的比 GitHub Copilot 还要好用。<br><video src="https://videocdn.jellow.site/lqNCCMQZRA2Pcs85tXyqMqV7TweT.mp4?sign=8350c52178787176e04e720567fa9964&amp;t=6394489c" controls=""></video>]]></description>
+            <description><![CDATA[<span>用户昵称：图拉鼎 <br> Username：A893532D-B9D6-4AD3-8BEE-D380692B68E2</span><br><br>来一个视频版本的 ChatGPT 如何辅助写代码的过程。真的比 GitHub Copilot 还要好用。<br><video src="https://videocdn.jellow.site/lqNCCMQZRA2Pcs85tXyqMqV7TweT.mp4?sign=c0667235b8b18a42883248320e62ed51&amp;t=639482e1" controls=""></video>]]></description>
             <pubDate>Sun, 04 Dec 2022 06:53:10 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/638c43d6034d61bdc3b07fe8</guid>
             <link>https://m.okjike.com/originalPosts/638c43d6034d61bdc3b07fe8</link>
