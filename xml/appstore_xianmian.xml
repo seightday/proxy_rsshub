@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[每日精品限免 / 促销应用]]></title>
         <link>http://app.so/xianmian/</link>
-        <atom:link href="https://rsshub/appstore/xianmian" rel="self" type="application/rss+xml" />
+        <atom:link href="https://vercel.getrss2021.xyz/appstore/xianmian" rel="self" type="application/rss+xml" />
         <description><![CDATA[鲜面连线 by AppSo：每日精品限免 / 促销应用 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -15,8 +15,54 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Mon, 12 Dec 2022 20:17:46 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Tue, 13 Dec 2022 01:35:53 GMT</lastBuildDate>
+        <ttl>5</ttl>
+        
+        <item>
+            <title><![CDATA[「免费」小法典 - 你的私人法律服务助理]]></title>
+            <description><![CDATA[<img src="https://media.ifanrusercontent.com/user_files/appsoimg/e0/18/e01896e2c74adb58ad922a5033d3355411c2fdef-09bc9d5732188ccdd0a479d25ecfd10a804b0d63.jpg" referrerpolicy="no-referrer">
+          <br>
+          原价：¥12.00 -&gt; 现价：¥0.00
+          <br>
+          平台：iOS Universal
+          <br>
+          一款致力于解决大家日常工作和生活中法律问题的产品。
+        ]]></description>
+            <pubDate>Mon, 12 Dec 2022 23:45:04 GMT</pubDate>
+            <guid isPermaLink="false">https://apps.apple.com/us/app/%E5%B0%8F%E6%B3%95%E5%85%B8-%E4%BD%A0%E7%9A%84%E7%A7%81%E4%BA%BA%E6%B3%95%E5%BE%8B%E6%9C%8D%E5%8A%A1%E5%8A%A9%E7%90%86/id1579255889</guid>
+            <link>https://apps.apple.com/us/app/%E5%B0%8F%E6%B3%95%E5%85%B8-%E4%BD%A0%E7%9A%84%E7%A7%81%E4%BA%BA%E6%B3%95%E5%BE%8B%E6%9C%8D%E5%8A%A1%E5%8A%A9%E7%90%86/id1579255889</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[「免费」中药词典 - 中医界的百科全书]]></title>
+            <description><![CDATA[<img src="https://media.ifanrusercontent.com/user_files/appsoimg/20/ff/20ff0fe7df71cc43e20ad28244f60943e9971965-504be7c5a24fc13177621d8470829638aff008e9.jpg" referrerpolicy="no-referrer">
+          <br>
+          原价：¥12.00 -&gt; 现价：¥0.00
+          <br>
+          平台：iOS Universal
+          <br>
+          中药药典 app 汇集了 18790 种中草药，60661 种药方药剂，1201 种医学著作。​在这里，你将会知道某种药材药剂，在不同医学著作中的妙用。
+        ]]></description>
+            <pubDate>Mon, 12 Dec 2022 23:42:37 GMT</pubDate>
+            <guid isPermaLink="false">https://apps.apple.com/us/app/%E4%B8%AD%E8%8D%AF%E8%AF%8D%E5%85%B8-%E4%B8%AD%E5%8C%BB%E7%95%8C%E7%9A%84%E7%99%BE%E7%A7%91%E5%85%A8%E4%B9%A6/id1612746709</guid>
+            <link>https://apps.apple.com/us/app/%E4%B8%AD%E8%8D%AF%E8%AF%8D%E5%85%B8-%E4%B8%AD%E5%8C%BB%E7%95%8C%E7%9A%84%E7%99%BE%E7%A7%91%E5%85%A8%E4%B9%A6/id1612746709</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[「免费」Inkflow Plus Visual Notebook]]></title>
@@ -193,54 +239,6 @@
             <pubDate>Tue, 06 Dec 2022 23:31:46 GMT</pubDate>
             <guid isPermaLink="false">https://apps.apple.com/cn/app/%E7%BF%BB%E9%A1%B5%E6%97%B6%E9%92%9F/id1615687176</guid>
             <link>https://apps.apple.com/cn/app/%E7%BF%BB%E9%A1%B5%E6%97%B6%E9%92%9F/id1615687176</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[「免费」览色]]></title>
-            <description><![CDATA[<img src="https://media.ifanrusercontent.com/user_files/appsoimg/2c/9c/2c9c4b97734a6e6261bd698f33d46aa623790498-4a4b812aa40e91730c352127c0c57a70d382069a.jpg" referrerpolicy="no-referrer">
-          <br>
-          原价：¥1.00 -&gt; 现价：¥0.00
-          <br>
-          平台：iPhone
-          <br>
-          一款让你直接使用 iPhone 摄像头获取眼前色彩的 app，随时随地将你调制或捕捉的颜色记录起来，支持 RGB、HEX、HSB 色值转换。
-        ]]></description>
-            <pubDate>Mon, 05 Dec 2022 23:45:56 GMT</pubDate>
-            <guid isPermaLink="false">https://apps.apple.com/cn/app/%E8%A7%88%E8%89%B2-%E6%98%93%E7%94%A8%E7%9A%84%E5%8F%96%E8%89%B2%E8%B0%83%E8%89%B2%E5%B7%A5%E5%85%B7/id1080129732</guid>
-            <link>https://apps.apple.com/cn/app/%E8%A7%88%E8%89%B2-%E6%98%93%E7%94%A8%E7%9A%84%E5%8F%96%E8%89%B2%E8%B0%83%E8%89%B2%E5%B7%A5%E5%85%B7/id1080129732</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[「免费」可记 - 简单易用的个人记账软件]]></title>
-            <description><![CDATA[<img src="https://media.ifanrusercontent.com/user_files/appsoimg/d2/40/d240c0c4d12ae150c6732b412e3a3b105256764a-b75a6904401a2d71eaf8911f3d34d3fd9a7c4a5a.jpg" referrerpolicy="no-referrer">
-          <br>
-          原价：¥12.00 -&gt; 现价：¥0.00
-          <br>
-          平台：iOS Universal
-          <br>
-          简单直观的智能记账 app。每笔开销花了多少，什么时候花的，花哪里，一目了然。可以给每月设置支出预警线，一旦有超出的趋势就会发出警告。
-
-支持 Widget 插件、3D Touch 快捷记录、Touch ID 保护和 iCloud 同步。界面简洁，无内购无广告。
-        ]]></description>
-            <pubDate>Mon, 05 Dec 2022 23:36:53 GMT</pubDate>
-            <guid isPermaLink="false">https://apps.apple.com/cn/app/5coins-qing-song-ji-zhang/id572886919</guid>
-            <link>https://apps.apple.com/cn/app/5coins-qing-song-ji-zhang/id572886919</link>
             
             
             
