@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[最新限免 / 促销应用]]></title>
         <link>https://gofans.cn/</link>
-        <atom:link href="https://vercel.getrss2021.xyz/appstore/gofans" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub/appstore/gofans" rel="self" type="application/rss+xml" />
         <description><![CDATA[GoFans：最新限免 / 促销应用 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -15,8 +15,36 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Tue, 13 Dec 2022 20:19:09 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Wed, 14 Dec 2022 01:25:55 GMT</lastBuildDate>
+        <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[「降价」-「iOS」Folder Icons]]></title>
+            <description><![CDATA[<img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/62/c1/63/62c163e1-be7b-6a87-7816-6ae06af7709e/AppIcon-85-220-4-2x-sRGB.png/256x256bb.png" referrerpolicy="no-referrer">
+          <br>
+          原价：¥30.00 -&gt; 现价：¥18.00
+          <br>
+          平台：macOS
+          <br>
+          Features:
+
+• Add cool icon to your files/folders in 2 Steps! Select icon, drop/drop folder and Done!
+• Folder Icons brings a fresh organized  look to your folders and files.
+• Add your favorite customized icon to your folders, Add your choices, feel happy and be more productive! 
+• Say goodbye to yo
+        ]]></description>
+            <pubDate>Tue, 13 Dec 2022 20:28:32 GMT</pubDate>
+            <guid isPermaLink="false">https://gofans.cn/app/a155c3a0-2bfc-4670-98f7-5ffe5a9ed66c</guid>
+            <link>https://gofans.cn/app/a155c3a0-2bfc-4670-98f7-5ffe5a9ed66c</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[「免费」-「iOS」Vostok — 创建美丽快拍页面]]></title>
@@ -556,38 +584,6 @@ PDF Creator is a fast, affordable utility to allow you to create professional qu
             <pubDate>Mon, 12 Dec 2022 06:30:38 GMT</pubDate>
             <guid isPermaLink="false">https://gofans.cn/app/2f9fe6a8-5454-489f-9f49-49ca15ca5c8b</guid>
             <link>https://gofans.cn/app/2f9fe6a8-5454-489f-9f49-49ca15ca5c8b</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[「降价」-「iOS」算法导论.助手]]></title>
-            <description><![CDATA[<img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/50/a0/0c/50a00c8a-77a2-a74e-6af8-1524a8534a7d/AppIcon-1x_U007emarketing-0-10-0-85-220.png/256x256bb.jpg" referrerpolicy="no-referrer">
-          <br>
-          原价：¥12.00 -&gt; 现价：¥6.00
-          <br>
-          平台：iOS
-          <br>
-          参照原书第三版，内容包括：
-    第2章 算法入门：插入排序，归并排序；
-    第4章 分治法：最大子集问题，矩阵相乘算法[常规算法，分治法，Strassen算法]；
-    第6章 堆排序：堆排序[大根堆，小根堆]；
-    第7章 快速排序：快速排序；
-    第8章 线性时间排序：计数排序；
-    第12章 二叉搜索树：二叉搜索树[中序遍历，递归搜索，迭代搜索，迭代最小，迭代最大，后继，先驱，插入，删除]；
-    第13章 红黑树：红黑树[插入，删除]；
-    第15章 动态规划：切钢条问题[递归，自顶向下，自底向上，打印]，最长公共子序列；
-    第16章 贪心算法：活动选
-        ]]></description>
-            <pubDate>Mon, 12 Dec 2022 06:29:01 GMT</pubDate>
-            <guid isPermaLink="false">https://gofans.cn/app/f5935f70-a829-45a3-a3f5-9b5c1d8eca4d</guid>
-            <link>https://gofans.cn/app/f5935f70-a829-45a3-a3f5-9b5c1d8eca4d</link>
             
             
             
