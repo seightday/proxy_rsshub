@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[JitHub程序员 - 即刻圈子]]></title>
         <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
-        <atom:link href="https://rsshub/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
+        <atom:link href="https://vercel.getrss2021.xyz/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
         <description><![CDATA[开发者们分享，问答，也可以交友的地方。欢迎所有工程师！ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -21,8 +21,40 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 15 Dec 2022 08:23:37 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Thu, 15 Dec 2022 12:34:47 GMT</lastBuildDate>
+        <ttl>5</ttl>
+        
+        <item>
+            <title><![CDATA[Jithub程序员]]></title>
+            <description><![CDATA[<span>用户昵称：Jithub程序员 <br> Username：C027E21D-DFD6-4F88-AF40-31871E1FB6F4</span><br><br>Jithub程序员]]></description>
+            <pubDate>Thu, 15 Dec 2022 08:53:41 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/639ae09518ea29ce5b295c33</guid>
+            <link>https://m.okjike.com/originalPosts/639ae09518ea29ce5b295c33</link>
+            
+            
+            
+            <author><![CDATA[Jithub程序员]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[深度优先简易迷宫生成。 用一个数组存地图，一个Stack存访问路径。 （没上过大学，自己做大学作业。）]]></title>
+            <description><![CDATA[<span>用户昵称：Jithub程序员 <br> Username：C027E21D-DFD6-4F88-AF40-31871E1FB6F4</span><br><br>深度优先简易迷宫生成。<br>用一个数组存地图，一个Stack存访问路径。<br><br>（没上过大学，自己做大学作业。）<br><video src="https://videocdn.jellow.site/FqmGQFqroh6yC1ToUjr9QLNDHVGX.mp4?sign=2fc6ce197288f2519e984d6439b39107&amp;t=639b1a61" controls=""></video>]]></description>
+            <pubDate>Thu, 15 Dec 2022 08:32:20 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/639adb94dc5954cdf57e3204</guid>
+            <link>https://m.okjike.com/originalPosts/639adb94dc5954cdf57e3204</link>
+            
+            
+            
+            <author><![CDATA[Jithub程序员]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[紧急求问，国外（欧洲地区）计算机博士毕业，猎头问薪资预期，这个玩意怎么查？glassdoor和salaryexpert上翻了半天了都找不到…]]></title>
@@ -34,22 +66,6 @@
             
             
             <author><![CDATA[阿法兔]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[用 rust 写一个这样的多叉树都很费劲 😂]]></title>
-            <description><![CDATA[<span>用户昵称：一啸同学 <br> Username：CF3E7275-E5A9-4566-96B5-03B7D95A4A7E</span><br><br>用 rust 写一个这样的多叉树都很费劲 😂<br><img src="https://cdnv2.ruguoapp.com/FnO-ivRLF9lMAhszO58wBypYv3YDv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 14 Dec 2022 14:13:37 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6399da11f4d74c1eed8ab829</guid>
-            <link>https://m.okjike.com/originalPosts/6399da11f4d74c1eed8ab829</link>
-            
-            
-            
-            <author><![CDATA[一啸同学]]></author>
             
                 
             
@@ -74,7 +90,7 @@
         
         <item>
             <title><![CDATA[ChatGPT安卓版，即将完成。 免登录、注册、代理。 #AI的神奇用法]]></title>
-            <description><![CDATA[<span>用户昵称：何时夕 <br> Username：A25640C9-4288-403E-AB27-88CA883B228D</span><br><br>ChatGPT安卓版，即将完成。<br> 免登录、注册、代理。<br>#AI的神奇用法 <br><video src="https://videocdn.jellow.site/lnXz_uXI2HysQD0GGy3DGkQ-OofQ.mp4?sign=bfb53c43a1bd315d2df4a4d43cc5dff8&amp;t=639adfc9" controls=""></video>]]></description>
+            <description><![CDATA[<span>用户昵称：何时夕 <br> Username：A25640C9-4288-403E-AB27-88CA883B228D</span><br><br>ChatGPT安卓版，即将完成。<br> 免登录、注册、代理。<br>#AI的神奇用法 <br><video src="https://videocdn.jellow.site/lnXz_uXI2HysQD0GGy3DGkQ-OofQ.mp4?sign=0952e1bc8545a86fa35f2db07d9dc60c&amp;t=639b1ac7" controls=""></video>]]></description>
             <pubDate>Mon, 12 Dec 2022 05:09:24 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6396b784f4d74c1eed443042</guid>
             <link>https://m.okjike.com/originalPosts/6396b784f4d74c1eed443042</link>
@@ -98,22 +114,6 @@
             
             
             <author><![CDATA[煎茶_frytea]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[ChatGPT中文版插件 免登录，注册，代理 功能强化版正式上线。 全新的交互改版，更适合开发者使用 #AI的神奇用法 #ChatGPT对话大赏]]></title>
-            <description><![CDATA[<span>用户昵称：何时夕 <br> Username：A25640C9-4288-403E-AB27-88CA883B228D</span><br><br>ChatGPT中文版插件 免登录，注册，代理 功能强化版正式上线。<br>全新的交互改版，更适合开发者使用<br>#AI的神奇用法 #ChatGPT对话大赏 <br><video src="https://videocdn.jellow.site/ltWph5EzrXshglD4mf6pFYSxxaOm.mp4?sign=2d69098ff803e4a5dc3a6aeabce55536&amp;t=639adfc9" controls=""></video>]]></description>
-            <pubDate>Sat, 10 Dec 2022 05:00:45 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6394127d3a383f88ea6e3b20</guid>
-            <link>https://m.okjike.com/originalPosts/6394127d3a383f88ea6e3b20</link>
-            
-            
-            
-            <author><![CDATA[何时夕]]></author>
             
                 
             
@@ -154,7 +154,7 @@
         
         <item>
             <title><![CDATA[来一个视频版本的 ChatGPT 如何辅助写代码的过程。真的比 GitHub Copilot 还要好用。]]></title>
-            <description><![CDATA[<span>用户昵称：图拉鼎 <br> Username：A893532D-B9D6-4AD3-8BEE-D380692B68E2</span><br><br>来一个视频版本的 ChatGPT 如何辅助写代码的过程。真的比 GitHub Copilot 还要好用。<br><video src="https://videocdn.jellow.site/lqNCCMQZRA2Pcs85tXyqMqV7TweT.mp4?sign=71a06bd6a48ad1ddf77cfbbca835b786&amp;t=639adfca" controls=""></video>]]></description>
+            <description><![CDATA[<span>用户昵称：图拉鼎 <br> Username：A893532D-B9D6-4AD3-8BEE-D380692B68E2</span><br><br>来一个视频版本的 ChatGPT 如何辅助写代码的过程。真的比 GitHub Copilot 还要好用。<br><video src="https://videocdn.jellow.site/lqNCCMQZRA2Pcs85tXyqMqV7TweT.mp4?sign=0a715aee2f07a1447075e3537463fef8&amp;t=639b1ac7" controls=""></video>]]></description>
             <pubDate>Sun, 04 Dec 2022 06:53:10 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/638c43d6034d61bdc3b07fe8</guid>
             <link>https://m.okjike.com/originalPosts/638c43d6034d61bdc3b07fe8</link>
