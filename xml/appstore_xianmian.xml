@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[每日精品限免 / 促销应用]]></title>
         <link>http://app.so/xianmian/</link>
-        <atom:link href="https://rsshub/appstore/xianmian" rel="self" type="application/rss+xml" />
+        <atom:link href="https://vercel.getrss2021.xyz/appstore/xianmian" rel="self" type="application/rss+xml" />
         <description><![CDATA[鲜面连线 by AppSo：每日精品限免 / 促销应用 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -15,8 +15,54 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Thu, 15 Dec 2022 20:17:17 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Fri, 16 Dec 2022 01:20:39 GMT</lastBuildDate>
+        <ttl>5</ttl>
+        
+        <item>
+            <title><![CDATA[「免费」高清计算器]]></title>
+            <description><![CDATA[<img src="https://media.ifanrusercontent.com/user_files/appsoimg/00/f7/00f73d7bd76032b70c9f599c11a29c10456e2c46-1c8d13a2d6d757264b8c79aa663e36e09a8b6096.jpg" referrerpolicy="no-referrer">
+          <br>
+          原价：¥8.00 -&gt; 现价：¥0.00
+          <br>
+          平台：iOS Universal
+          <br>
+          包含男声和女声两种真人语音；按使用频率设计的键位安排；按颜色区分的不同的键位区域；支持将计算结果复制、发送邮件功能。
+        ]]></description>
+            <pubDate>Thu, 15 Dec 2022 23:34:26 GMT</pubDate>
+            <guid isPermaLink="false">https://apps.apple.com/cn/app/%E9%AB%98%E6%B8%85%E8%AE%A1%E7%AE%97%E5%99%A8/id448246366</guid>
+            <link>https://apps.apple.com/cn/app/%E9%AB%98%E6%B8%85%E8%AE%A1%E7%AE%97%E5%99%A8/id448246366</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[「免费」Unidream AI绘画 - AI梦境生成器]]></title>
+            <description><![CDATA[<img src="https://media.ifanrusercontent.com/user_files/appsoimg/f8/6d/f86d9b6c844d5857af440c714c6c5b0a62104920-32b2b8c22ea209c1db603ded73c544d31375c95a.jpg" referrerpolicy="no-referrer">
+          <br>
+          原价：¥30.00 -&gt; 现价：¥0.00
+          <br>
+          平台：iOS Universal
+          <br>
+          使用 AI 艺术生成器，只需描述你天马行空的灵感，选择一种艺术风格，AI 即可将您的想法变为现实，并在几秒钟内生成伟大的艺术作品。
+        ]]></description>
+            <pubDate>Thu, 15 Dec 2022 23:30:32 GMT</pubDate>
+            <guid isPermaLink="false">https://apps.apple.com/cn/app/unidream-ai%E7%BB%98%E7%94%BB-ai%E6%A2%A6%E5%A2%83%E7%94%9F%E6%88%90%E5%99%A8/id1633014886</guid>
+            <link>https://apps.apple.com/cn/app/unidream-ai%E7%BB%98%E7%94%BB-ai%E6%A2%A6%E5%A2%83%E7%94%9F%E6%88%90%E5%99%A8/id1633014886</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[「免费」Foreground 壁纸 · 摄影 · 图片素材库]]></title>
@@ -192,53 +238,6 @@
             <pubDate>Sun, 11 Dec 2022 17:38:06 GMT</pubDate>
             <guid isPermaLink="false">https://apps.apple.com/cn/app/%E6%97%B6%E5%85%89%E8%BF%9B%E5%BA%A6-%E8%AE%A1%E5%88%92%E8%BF%9B%E5%BA%A6%E7%AE%A1%E7%90%86-%E7%81%B5%E6%84%9F%E7%AC%94%E8%AE%B0/id1493379610</guid>
             <link>https://apps.apple.com/cn/app/%E6%97%B6%E5%85%89%E8%BF%9B%E5%BA%A6-%E8%AE%A1%E5%88%92%E8%BF%9B%E5%BA%A6%E7%AE%A1%E7%90%86-%E7%81%B5%E6%84%9F%E7%AC%94%E8%AE%B0/id1493379610</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[「免费」Smart Closet 掌上衣橱 - 我的时尚风格]]></title>
-            <description><![CDATA[<img src="https://media.ifanrusercontent.com/user_files/appsoimg/89/5b/895b80bc245ce1299061c21128027b3685bfc546-f66b454b74ac6f92e06779258d3a61712b91c3d8.jpg" referrerpolicy="no-referrer">
-          <br>
-          原价：¥25.00 -&gt; 现价：¥0.00
-          <br>
-          平台：iOS Universal
-          <br>
-          Smart Closet 是一个智能易用的衣橱管理工具。
-你可以统一搜索各大品牌、电商的潮流单品并将其添加到你的衣橱，或者从相册或即时拍照添加你的衣物，自由组合衣物生成你的搭配。
-        ]]></description>
-            <pubDate>Thu, 08 Dec 2022 23:37:45 GMT</pubDate>
-            <guid isPermaLink="false">https://apps.apple.com/cn/app/smart-closet-%E6%8E%8C%E4%B8%8A%E8%A1%A3%E6%A9%B1-%E6%88%91%E7%9A%84%E6%97%B6%E5%B0%9A%E9%A3%8E%E6%A0%BC/id1198057728</guid>
-            <link>https://apps.apple.com/cn/app/smart-closet-%E6%8E%8C%E4%B8%8A%E8%A1%A3%E6%A9%B1-%E6%88%91%E7%9A%84%E6%97%B6%E5%B0%9A%E9%A3%8E%E6%A0%BC/id1198057728</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[「免费」ACDSee Pro]]></title>
-            <description><![CDATA[<img src="https://media.ifanrusercontent.com/user_files/appsoimg/5f/ef/5fef348f1897f5da64a883a4056c7ebef4866b45-9abba7231e5571014a078a05025ab92ac5f51d14.jpg" referrerpolicy="no-referrer">
-          <br>
-          原价：¥45.00 -&gt; 现价：¥0.00
-          <br>
-          平台：iOS Universal
-          <br>
-          一款功能强大的相片编辑器以及便利的拼贴画制作工具。你可以添加漏光，调整阴影、曝光、对比度、白平衡、饱和度、鲜艳、锐化等等参数。
-        ]]></description>
-            <pubDate>Thu, 08 Dec 2022 23:32:40 GMT</pubDate>
-            <guid isPermaLink="false">https://itunes.apple.com/cn/app/acdsee-pro/id968591710?mt=8&#38;uo=4</guid>
-            <link>https://itunes.apple.com/cn/app/acdsee-pro/id968591710?mt=8&#38;uo=4</link>
             
             
             
