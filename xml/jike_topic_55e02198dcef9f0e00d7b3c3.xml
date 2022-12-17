@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sat, 17 Dec 2022 16:21:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Dec 2022 20:16:07 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[前端：代码文本→LLVM IR（.ll/.bc） 后端：LLVM IR→llc→.s/.o→lld→可执行文件 中间和后端部分就用LLVM了。 前端和前端转译LLVM IR得自己写。]]></title>
+            <description><![CDATA[<span>用户昵称：Jithub程序员 <br> Username：C027E21D-DFD6-4F88-AF40-31871E1FB6F4</span><br><br>前端：代码文本→LLVM IR（.ll/.bc）<br>后端：LLVM IR→llc→.s/.o→lld→可执行文件<br><br>中间和后端部分就用LLVM了。<br>前端和前端转译LLVM IR得自己写。]]></description>
+            <pubDate>Sat, 17 Dec 2022 13:43:36 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/639dc7880a75ce0d8f604fb3</guid>
+            <link>https://m.okjike.com/originalPosts/639dc7880a75ce0d8f604fb3</link>
+            
+            
+            
+            <author><![CDATA[Jithub程序员]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[可以用起来了，文档暂时没有中文。有问题或者想适配其他网站可以提 issue。 命令行输入 pnpm create printer 即可。当然你得安装 pnpm 以及 node，你用 npm 也行...]]></title>
@@ -66,22 +82,6 @@
             
             
             <author><![CDATA[哥飞]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[深度优先简易迷宫生成。 用一个数组存地图，一个Stack存访问路径。 （没上过大学，自己做大学作业。）]]></title>
-            <description><![CDATA[<span>用户昵称：Jithub程序员 <br> Username：C027E21D-DFD6-4F88-AF40-31871E1FB6F4</span><br><br>深度优先简易迷宫生成。<br>用一个数组存地图，一个Stack存访问路径。<br><br>（没上过大学，自己做大学作业。）<br><video src="https://videocdn.jellow.site/FqmGQFqroh6yC1ToUjr9QLNDHVGX.mp4?sign=aaef419c847929d32fb16c98efddec64&amp;t=639df392" controls=""></video>]]></description>
-            <pubDate>Thu, 15 Dec 2022 08:32:20 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/639adb94dc5954cdf57e3204</guid>
-            <link>https://m.okjike.com/originalPosts/639adb94dc5954cdf57e3204</link>
-            
-            
-            
-            <author><![CDATA[Jithub程序员]]></author>
             
                 
             
@@ -154,7 +154,7 @@
         
         <item>
             <title><![CDATA[来一个视频版本的 ChatGPT 如何辅助写代码的过程。真的比 GitHub Copilot 还要好用。]]></title>
-            <description><![CDATA[<span>用户昵称：图拉鼎 <br> Username：A893532D-B9D6-4AD3-8BEE-D380692B68E2</span><br><br>来一个视频版本的 ChatGPT 如何辅助写代码的过程。真的比 GitHub Copilot 还要好用。<br><video src="https://videocdn.jellow.site/lqNCCMQZRA2Pcs85tXyqMqV7TweT.mp4?sign=f9e7f722ffc727a0490c4f58f1ec8342&amp;t=639df392" controls=""></video>]]></description>
+            <description><![CDATA[<span>用户昵称：图拉鼎 <br> Username：A893532D-B9D6-4AD3-8BEE-D380692B68E2</span><br><br>来一个视频版本的 ChatGPT 如何辅助写代码的过程。真的比 GitHub Copilot 还要好用。<br><video src="https://videocdn.jellow.site/lqNCCMQZRA2Pcs85tXyqMqV7TweT.mp4?sign=214e8aa245f299fe22397662fd8a1c0c&amp;t=639e292b" controls=""></video>]]></description>
             <pubDate>Sun, 04 Dec 2022 06:53:10 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/638c43d6034d61bdc3b07fe8</guid>
             <link>https://m.okjike.com/originalPosts/638c43d6034d61bdc3b07fe8</link>
