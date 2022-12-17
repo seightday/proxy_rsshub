@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sat, 17 Dec 2022 08:20:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Dec 2022 12:29:07 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[可以用起来了，文档暂时没有中文。有问题或者想适配其他网站可以提 issue。 命令行输入 pnpm create printer 即可。当然你得安装 pnpm 以及 node，你用 npm 也行...]]></title>
+            <description><![CDATA[<span>用户昵称：ourongxing <br> Username：7f422d5d-d79a-4f45-9880-b89d64d7f37a</span><br><br>可以用起来了，文档暂时没有中文。有问题或者想适配其他网站可以提 issue。<br><br>命令行输入 pnpm create printer 即可。当然你得安装 pnpm 以及 node，你用 npm 也行，只是我模版全写的 pnpm。<br><br>目前支持<br><br>Content Site<br><br>@web-printer/javascript-info<br>@web-printer/juejin<br>@web-printer/xiaobot<br>@web-printer/zhihu<br>@web-printer/zhubai<br><br>Amazing Blog<br><br>@web-printer/ruanyifeng<br><br>Documentation Site Generator<br><br>@web-printer/vitepress<br>@web-printer/mdbook<br><br>觉得有用可以点个 ⭐️<br>Github: https://github.com/busiyiworld/web-printer<br><img src="https://cdnv2.ruguoapp.com/Foc9p0-gIOYuhkQTLuuOmy5eMoUgv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fokir_k64N009AFR3_rW967c6x4Dv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 16 Dec 2022 14:02:17 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/639c7a6918ea29ce5b4dce37</guid>
+            <link>https://m.okjike.com/originalPosts/639c7a6918ea29ce5b4dce37</link>
+            
+            
+            
+            <author><![CDATA[ourongxing]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[这个是真的有效。吃了都说好。]]></title>
@@ -58,7 +74,7 @@
         
         <item>
             <title><![CDATA[深度优先简易迷宫生成。 用一个数组存地图，一个Stack存访问路径。 （没上过大学，自己做大学作业。）]]></title>
-            <description><![CDATA[<span>用户昵称：Jithub程序员 <br> Username：C027E21D-DFD6-4F88-AF40-31871E1FB6F4</span><br><br>深度优先简易迷宫生成。<br>用一个数组存地图，一个Stack存访问路径。<br><br>（没上过大学，自己做大学作业。）<br><video src="https://videocdn.jellow.site/FqmGQFqroh6yC1ToUjr9QLNDHVGX.mp4?sign=fd672334511369747ab33c4c9ad3e627&amp;t=639d806e" controls=""></video>]]></description>
+            <description><![CDATA[<span>用户昵称：Jithub程序员 <br> Username：C027E21D-DFD6-4F88-AF40-31871E1FB6F4</span><br><br>深度优先简易迷宫生成。<br>用一个数组存地图，一个Stack存访问路径。<br><br>（没上过大学，自己做大学作业。）<br><video src="https://videocdn.jellow.site/FqmGQFqroh6yC1ToUjr9QLNDHVGX.mp4?sign=89ef8b08e354e7a9515bd9ca0469d91d&amp;t=639dbd1b" controls=""></video>]]></description>
             <pubDate>Thu, 15 Dec 2022 08:32:20 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/639adb94dc5954cdf57e3204</guid>
             <link>https://m.okjike.com/originalPosts/639adb94dc5954cdf57e3204</link>
@@ -105,22 +121,6 @@
         </item>
         
         <item>
-            <title><![CDATA[这个好搞笑]]></title>
-            <description><![CDATA[<span>用户昵称：煎茶_frytea <br> Username：93f05b30-c2af-4096-b90e-32961464b881</span><br><br>这个好搞笑<br><img src="https://cdnv2.ruguoapp.com/FsCequ_dWDAcv11jZg0FGxM3guFOv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sun, 11 Dec 2022 10:15:53 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6395add9f4d74c1eed2e7faa</guid>
-            <link>https://m.okjike.com/originalPosts/6395add9f4d74c1eed2e7faa</link>
-            
-            
-            
-            <author><![CDATA[煎茶_frytea]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[分享给大家🐶https://m.okjike.com/originalPosts/638f7f612b8ce4dab2ad4fa5?s=eyJ1IjoiNjBiMTI2OTQ5Y2Q0YTIwMDEwZmM1MTJmIn0%3D]]></title>
             <description><![CDATA[<span>用户昵称：芝士快乐天 <br> Username：fac9d736-4619-49aa-8e07-ef5f425707b0</span><br><br>分享给大家🐶https://m.okjike.com/originalPosts/638f7f612b8ce4dab2ad4fa5?s=eyJ1IjoiNjBiMTI2OTQ5Y2Q0YTIwMDEwZmM1MTJmIn0%3D<br><img src="https://cdnv2.ruguoapp.com/Fnv9gybdaFv5f3jcP2YXs4y-Ay8Xv3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Tue, 06 Dec 2022 17:45:01 GMT</pubDate>
@@ -154,7 +154,7 @@
         
         <item>
             <title><![CDATA[来一个视频版本的 ChatGPT 如何辅助写代码的过程。真的比 GitHub Copilot 还要好用。]]></title>
-            <description><![CDATA[<span>用户昵称：图拉鼎 <br> Username：A893532D-B9D6-4AD3-8BEE-D380692B68E2</span><br><br>来一个视频版本的 ChatGPT 如何辅助写代码的过程。真的比 GitHub Copilot 还要好用。<br><video src="https://videocdn.jellow.site/lqNCCMQZRA2Pcs85tXyqMqV7TweT.mp4?sign=39ee9c5981c5353d8b340ca74c25c413&amp;t=639d806e" controls=""></video>]]></description>
+            <description><![CDATA[<span>用户昵称：图拉鼎 <br> Username：A893532D-B9D6-4AD3-8BEE-D380692B68E2</span><br><br>来一个视频版本的 ChatGPT 如何辅助写代码的过程。真的比 GitHub Copilot 还要好用。<br><video src="https://videocdn.jellow.site/lqNCCMQZRA2Pcs85tXyqMqV7TweT.mp4?sign=74f7c11e0dbf24e3940a65bc4b3034b0&amp;t=639dbd1b" controls=""></video>]]></description>
             <pubDate>Sun, 04 Dec 2022 06:53:10 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/638c43d6034d61bdc3b07fe8</guid>
             <link>https://m.okjike.com/originalPosts/638c43d6034d61bdc3b07fe8</link>
