@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[JitHub程序员 - 即刻圈子]]></title>
         <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
-        <atom:link href="https://rsshub/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
+        <atom:link href="https://vercel.getrss2021.xyz/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
         <description><![CDATA[开发者们分享，问答，也可以交友的地方。欢迎所有工程师！ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -21,8 +21,40 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sun, 18 Dec 2022 12:29:31 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Sun, 18 Dec 2022 16:22:38 GMT</lastBuildDate>
+        <ttl>5</ttl>
+        
+        <item>
+            <title><![CDATA[真他妈无语，自己网站等等突然访问不了，最后发现 #阿里云 服务器没了，控制台界面找不到任何一台服务器，以为忘续费了，找了半天邮件也没找到任何相关信息，最...]]></title>
+            <description><![CDATA[<span>用户昵称：emperinter <br> Username：03214C8D-372B-49D8-A56C-38620855F8E1</span><br><br>真他妈无语，自己网站等等突然访问不了，最后发现 #阿里云 服务器没了，控制台界面找不到任何一台服务器，以为忘续费了，找了半天邮件也没找到任何相关信息，最后在续费管理处发现还有3个月才到期。这TM搞什么鬼？目前服务完全不可用，售后还慢的一批到现在也没有反馈结果。]]></description>
+            <pubDate>Sun, 18 Dec 2022 07:50:04 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/639ec62cb45d3a8dbf71768f</guid>
+            <link>https://m.okjike.com/originalPosts/639ec62cb45d3a8dbf71768f</link>
+            
+            
+            
+            <author><![CDATA[emperinter]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[目前见过最好的webGLshader节点编辑器]]></title>
+            <description><![CDATA[<span>用户昵称：E是天翼的翼 <br> Username：d369058d-04b3-4f1e-841e-3bee0790882a</span><br><br>目前见过最好的webGLshader节点编辑器<br><video src="https://videocdn.jellow.site/lki1OYHUAC3WP5pthUKjX602jjwj.mp4?sign=4be899c0d48ba08ead9a3ee999af1f21&amp;t=639f4556" controls=""></video>]]></description>
+            <pubDate>Sun, 18 Dec 2022 07:20:56 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/639ebf5801c3eaf4ad10925e</guid>
+            <link>https://m.okjike.com/originalPosts/639ebf5801c3eaf4ad10925e</link>
+            
+            
+            
+            <author><![CDATA[E是天翼的翼]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[mac os有无像windows上的anytxt这样的全文搜索应用？]]></title>
@@ -66,38 +98,6 @@
             
             
             <author><![CDATA[手腫治bug]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[这个是真的有效。吃了都说好。]]></title>
-            <description><![CDATA[<span>用户昵称：equationl <br> Username：67ee9033-8998-4761-8eb4-d7c0c9bebae0</span><br><br>这个是真的有效。吃了都说好。<br><img src="https://cdnv2.ruguoapp.com/FklapVBuRLE8SZ2f179o8jYE3rd6v3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 16 Dec 2022 05:03:52 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/639bfc3802ad575b50d38c9e</guid>
-            <link>https://m.okjike.com/originalPosts/639bfc3802ad575b50d38c9e</link>
-            
-            
-            
-            <author><![CDATA[equationl]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[三条连起来看]]></title>
-            <description><![CDATA[<span>用户昵称：哥飞 <br> Username：a2d6acc1-626f-4d15-a22a-849e88a4c9f0</span><br><br>三条连起来看<br><img src="https://cdnv2.ruguoapp.com/FvPeDJVTjI_BfB5WKwWlGwYiFFN6v3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 16 Dec 2022 01:08:47 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/639bc51f18ea29ce5b3b86b8</guid>
-            <link>https://m.okjike.com/originalPosts/639bc51f18ea29ce5b3b86b8</link>
-            
-            
-            
-            <author><![CDATA[哥飞]]></author>
             
                 
             
@@ -154,7 +154,7 @@
         
         <item>
             <title><![CDATA[来一个视频版本的 ChatGPT 如何辅助写代码的过程。真的比 GitHub Copilot 还要好用。]]></title>
-            <description><![CDATA[<span>用户昵称：图拉鼎 <br> Username：A893532D-B9D6-4AD3-8BEE-D380692B68E2</span><br><br>来一个视频版本的 ChatGPT 如何辅助写代码的过程。真的比 GitHub Copilot 还要好用。<br><video src="https://videocdn.jellow.site/lqNCCMQZRA2Pcs85tXyqMqV7TweT.mp4?sign=e0d3d7a87cd7e729996096016f637cf4&amp;t=639f0eb3" controls=""></video>]]></description>
+            <description><![CDATA[<span>用户昵称：图拉鼎 <br> Username：A893532D-B9D6-4AD3-8BEE-D380692B68E2</span><br><br>来一个视频版本的 ChatGPT 如何辅助写代码的过程。真的比 GitHub Copilot 还要好用。<br><video src="https://videocdn.jellow.site/lqNCCMQZRA2Pcs85tXyqMqV7TweT.mp4?sign=b2e86b69268a0f3226a7e1a4b3512844&amp;t=639f4556" controls=""></video>]]></description>
             <pubDate>Sun, 04 Dec 2022 06:53:10 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/638c43d6034d61bdc3b07fe8</guid>
             <link>https://m.okjike.com/originalPosts/638c43d6034d61bdc3b07fe8</link>
