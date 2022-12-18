@@ -21,24 +21,8 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sun, 18 Dec 2022 04:19:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Dec 2022 08:19:57 GMT</lastBuildDate>
         <ttl>1</ttl>
-        
-        <item>
-            <title><![CDATA[前端：代码文本→LLVM IR（.ll/.bc） 后端：LLVM IR→llc→.s/.o→lld→可执行文件 中间和后端部分就用LLVM了。 前端和前端转译LLVM IR得自己写。]]></title>
-            <description><![CDATA[<span>用户昵称：Jithub程序员 <br> Username：C027E21D-DFD6-4F88-AF40-31871E1FB6F4</span><br><br>前端：代码文本→LLVM IR（.ll/.bc）<br>后端：LLVM IR→llc→.s/.o→lld→可执行文件<br><br>中间和后端部分就用LLVM了。<br>前端和前端转译LLVM IR得自己写。]]></description>
-            <pubDate>Sat, 17 Dec 2022 13:43:36 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/639dc7880a75ce0d8f604fb3</guid>
-            <link>https://m.okjike.com/originalPosts/639dc7880a75ce0d8f604fb3</link>
-            
-            
-            
-            <author><![CDATA[Jithub程序员]]></author>
-            
-                
-            
-            
-        </item>
         
         <item>
             <title><![CDATA[mac os有无像windows上的anytxt这样的全文搜索应用？]]></title>
@@ -57,15 +41,31 @@
         </item>
         
         <item>
-            <title><![CDATA[可以用起来了，文档暂时没有中文。有问题或者想适配其他网站可以提 issue。 命令行输入 pnpm create printer 即可。当然你得安装 pnpm 以及 node，你用 npm 也行...]]></title>
-            <description><![CDATA[<span>用户昵称：ourongxing <br> Username：7f422d5d-d79a-4f45-9880-b89d64d7f37a</span><br><br>可以用起来了，文档暂时没有中文。有问题或者想适配其他网站可以提 issue。<br><br>命令行输入 pnpm create printer 即可。当然你得安装 pnpm 以及 node，你用 npm 也行，只是我模版全写的 pnpm。<br><br>目前支持<br><br>Content Site<br><br>@web-printer/javascript-info<br>@web-printer/juejin<br>@web-printer/xiaobot<br>@web-printer/zhihu<br>@web-printer/zhubai<br><br>Amazing Blog<br><br>@web-printer/ruanyifeng<br><br>Documentation Site Generator<br><br>@web-printer/vitepress<br>@web-printer/mdbook<br><br>觉得有用可以点个 ⭐️<br>Github: https://github.com/busiyiworld/web-printer<br><img src="https://cdnv2.ruguoapp.com/Foc9p0-gIOYuhkQTLuuOmy5eMoUgv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fokir_k64N009AFR3_rW967c6x4Dv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 16 Dec 2022 14:02:17 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/639c7a6918ea29ce5b4dce37</guid>
-            <link>https://m.okjike.com/originalPosts/639c7a6918ea29ce5b4dce37</link>
+            <title><![CDATA[大家在telegram分别都关注了哪些觉得还不错的频道？球评论区分享 ps，老色批们就不用分享自己的私藏了，私信我就行🉑]]></title>
+            <description><![CDATA[<span>用户昵称：歌弈 <br> Username：bb9f32a4-a2ee-40a7-af01-a9b4949cd365</span><br><br>大家在telegram分别都关注了哪些觉得还不错的频道？球评论区分享<br>ps，老色批们就不用分享自己的私藏了，私信我就行🉑]]></description>
+            <pubDate>Sat, 17 Dec 2022 04:00:59 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/639d3efbdaa4adee602b4524</guid>
+            <link>https://m.okjike.com/originalPosts/639d3efbdaa4adee602b4524</link>
             
             
             
-            <author><![CDATA[ourongxing]]></author>
+            <author><![CDATA[歌弈]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[如果你买不到温度计… 可以选择DS18B20或者DHT11 下载程序到你的ESP32即可使用]]></title>
+            <description><![CDATA[<span>用户昵称：手腫治bug <br> Username：98CAA232-1850-4A25-B336-EE4B59708B5C</span><br><br>如果你买不到温度计…<br>可以选择DS18B20或者DHT11<br>下载程序到你的ESP32即可使用<br><img src="https://cdnv2.ruguoapp.com/Fo-m83EX7fS34d3lg2kY6DxrZBPFv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 16 Dec 2022 13:31:51 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/639c73474cc2d91fdc1b46a1</guid>
+            <link>https://m.okjike.com/originalPosts/639c73474cc2d91fdc1b46a1</link>
+            
+            
+            
+            <author><![CDATA[手腫治bug]]></author>
             
                 
             
@@ -154,7 +154,7 @@
         
         <item>
             <title><![CDATA[来一个视频版本的 ChatGPT 如何辅助写代码的过程。真的比 GitHub Copilot 还要好用。]]></title>
-            <description><![CDATA[<span>用户昵称：图拉鼎 <br> Username：A893532D-B9D6-4AD3-8BEE-D380692B68E2</span><br><br>来一个视频版本的 ChatGPT 如何辅助写代码的过程。真的比 GitHub Copilot 还要好用。<br><video src="https://videocdn.jellow.site/lqNCCMQZRA2Pcs85tXyqMqV7TweT.mp4?sign=bbfcd6478cfeec0467f8124040ba2e85&amp;t=639e99ae" controls=""></video>]]></description>
+            <description><![CDATA[<span>用户昵称：图拉鼎 <br> Username：A893532D-B9D6-4AD3-8BEE-D380692B68E2</span><br><br>来一个视频版本的 ChatGPT 如何辅助写代码的过程。真的比 GitHub Copilot 还要好用。<br><video src="https://videocdn.jellow.site/lqNCCMQZRA2Pcs85tXyqMqV7TweT.mp4?sign=39cd44f3eb8982aa3fa20a1bd5ff06c0&amp;t=639ed1ef" controls=""></video>]]></description>
             <pubDate>Sun, 04 Dec 2022 06:53:10 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/638c43d6034d61bdc3b07fe8</guid>
             <link>https://m.okjike.com/originalPosts/638c43d6034d61bdc3b07fe8</link>
