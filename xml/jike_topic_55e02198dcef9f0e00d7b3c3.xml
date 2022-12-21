@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 21 Dec 2022 01:18:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Dec 2022 04:20:45 GMT</lastBuildDate>
         <ttl>1</ttl>
         
         <item>
@@ -34,6 +34,22 @@
             
             
             <author><![CDATA[ourongxing]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[基于零代码，分享一些技术内容，欢迎一起学习补充，本帖子会长期更新 🤗 1. RBAC权限设置理论 💡 - 在B端管理系统中，“权限管理”是必不可少的功能。 - 我...]]></title>
+            <description><![CDATA[<span>用户昵称：伙伴云 <br> Username：042ef40f-461d-4baf-a330-c56e223ba385</span><br><br>基于零代码，分享一些技术内容，欢迎一起学习补充，本帖子会长期更新 🤗<br><br>1. RBAC权限设置理论 💡<br><br>- 在B端管理系统中，“权限管理”是必不可少的功能。<br><br>- 我们现在对于权限的设置基本上都是建立在RBAC权限模型上的、扩展的。其理念就是将“角色”这个概念赋予用户，我们只需要给系统设置不同的角色，给角色赋予权限，再将用户与角色关联，这样用户所关联的角色就直接拥有了该角色下的所有权限。<br><br>- B端系统中一般产品的权限由页面、操作和数据构成。<br><br>2. 如何分析业务场景 💡<br>“场景-挑战-方案”方法<br><br>- 场景细化：将场景细化为事件流，先整理出预期的正常步骤，写出变化的情况。<br>在各个业务步骤、变化及异常情况下会遇到什么困难？<br>针对这些因滩，系统需要提供什么样的功能支持？<br><br>- 问题/挑战识别：针对每一步骤，站在用户角度思考会遇到什么问题。<br>该业务场景中，用户要实现什么业务目的，概括用户做这件事情是为了完成什么目标？<br>执行该场景有什么前置条件？比如结账之前必须先选择商品。<br>如何保证那些状态？比如用户要下单10件商品，就要先确认库存是否足够。<br><br>- 思考对应方案：针对这些问题，思考系统应该提供什么样的功能。<br><br>3. BPMN 业务流程模型和标记法 💡<br><br>BPMN的目的是为用户提供一套容易理解的标准符号。这些符号，作为BPMN的基础元素，将业务流程建模简单化、图形化，将复杂的建模过程视觉化，让业务建模者、业务实施人员、管理监督人员对BPMN描述的业务流程都有一个更加清晰明了的了解。<br><br>BPMN有以下4个基本元素：<br>- 流对象（Flow Objects）：包括事件、活动、网关，是BPMN中的核心元素；<br>- 连接对象（Connecting Objects）：包括顺序流、消息流、关联；<br>- 泳道（Swimlanes）：包括池和道两种类型；<br>- 人工信息（Artifacts）：包括数据对象、组、注释。<br><br>在伙伴云中BPMN流程图不仅仅是一套符号、图形，而是可以真实运行的流程。<br>只要能画出来流程图，就能上线启用。<br><img src="https://cdnv2.ruguoapp.com/Fu3Deb3DxqlpYBpshq_mkl87DKgmv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 20 Dec 2022 10:22:37 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63a18ced18ea29ce5bbcdb32</guid>
+            <link>https://m.okjike.com/originalPosts/63a18ced18ea29ce5bbcdb32</link>
+            
+            
+            
+            <author><![CDATA[伙伴云]]></author>
             
                 
             
@@ -105,22 +121,6 @@
         </item>
         
         <item>
-            <title><![CDATA[如果你买不到温度计… 可以选择DS18B20或者DHT11 下载程序到你的ESP32即可使用]]></title>
-            <description><![CDATA[<span>用户昵称：手腫治bug <br> Username：98CAA232-1850-4A25-B336-EE4B59708B5C</span><br><br>如果你买不到温度计…<br>可以选择DS18B20或者DHT11<br>下载程序到你的ESP32即可使用<br><img src="https://cdnv2.ruguoapp.com/Fo-m83EX7fS34d3lg2kY6DxrZBPFv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 16 Dec 2022 13:31:51 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/639c73474cc2d91fdc1b46a1</guid>
-            <link>https://m.okjike.com/originalPosts/639c73474cc2d91fdc1b46a1</link>
-            
-            
-            
-            <author><![CDATA[手腫治bug]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[分享给大家🐶https://m.okjike.com/originalPosts/638f7f612b8ce4dab2ad4fa5?s=eyJ1IjoiNjBiMTI2OTQ5Y2Q0YTIwMDEwZmM1MTJmIn0%3D]]></title>
             <description><![CDATA[<span>用户昵称：芝士快乐天 <br> Username：fac9d736-4619-49aa-8e07-ef5f425707b0</span><br><br>分享给大家🐶https://m.okjike.com/originalPosts/638f7f612b8ce4dab2ad4fa5?s=eyJ1IjoiNjBiMTI2OTQ5Y2Q0YTIwMDEwZmM1MTJmIn0%3D<br><img src="https://cdnv2.ruguoapp.com/Fnv9gybdaFv5f3jcP2YXs4y-Ay8Xv3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Tue, 06 Dec 2022 17:45:01 GMT</pubDate>
@@ -154,7 +154,7 @@
         
         <item>
             <title><![CDATA[来一个视频版本的 ChatGPT 如何辅助写代码的过程。真的比 GitHub Copilot 还要好用。]]></title>
-            <description><![CDATA[<span>用户昵称：图拉鼎 <br> Username：A893532D-B9D6-4AD3-8BEE-D380692B68E2</span><br><br>来一个视频版本的 ChatGPT 如何辅助写代码的过程。真的比 GitHub Copilot 还要好用。<br><video src="https://videocdn.jellow.site/lqNCCMQZRA2Pcs85tXyqMqV7TweT.mp4?sign=843e0f77f3db6c98e2dd0b45b4580a4e&amp;t=63a263bf" controls=""></video>]]></description>
+            <description><![CDATA[<span>用户昵称：图拉鼎 <br> Username：A893532D-B9D6-4AD3-8BEE-D380692B68E2</span><br><br>来一个视频版本的 ChatGPT 如何辅助写代码的过程。真的比 GitHub Copilot 还要好用。<br><video src="https://videocdn.jellow.site/lqNCCMQZRA2Pcs85tXyqMqV7TweT.mp4?sign=ccd582d65303abbb41493163e298b6b5&amp;t=63a290a5" controls=""></video>]]></description>
             <pubDate>Sun, 04 Dec 2022 06:53:10 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/638c43d6034d61bdc3b07fe8</guid>
             <link>https://m.okjike.com/originalPosts/638c43d6034d61bdc3b07fe8</link>
