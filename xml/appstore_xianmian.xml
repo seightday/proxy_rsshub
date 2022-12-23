@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[每日精品限免 / 促销应用]]></title>
         <link>http://app.so/xianmian/</link>
-        <atom:link href="https://vercel.getrss2021.xyz/appstore/xianmian" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub/appstore/xianmian" rel="self" type="application/rss+xml" />
         <description><![CDATA[鲜面连线 by AppSo：每日精品限免 / 促销应用 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -15,8 +15,54 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Thu, 22 Dec 2022 20:18:15 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Fri, 23 Dec 2022 01:20:19 GMT</lastBuildDate>
+        <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[「免费」Speckle - 背景虚化编辑器]]></title>
+            <description><![CDATA[<img src="https://media.ifanrusercontent.com/user_files/appsoimg/11/a0/11a07b8894345d15d2ff9c7e034be6bbf3134c3d-e3d98cbf13d9f1c03a6eca2a313a922098f65f1d.jpg" referrerpolicy="no-referrer">
+          <br>
+          原价：¥6.00 -&gt; 现价：¥0.00
+          <br>
+          平台：iOS Universal
+          <br>
+          不需要复杂的操作，也不需要学习拍摄技术，导入 Speckle 即可自动模糊虚化背景，虚化照片轻松 get。
+        ]]></description>
+            <pubDate>Thu, 22 Dec 2022 23:28:58 GMT</pubDate>
+            <guid isPermaLink="false">https://apps.apple.com/cn/app/id1063127206</guid>
+            <link>https://apps.apple.com/cn/app/id1063127206</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[「免费」水平仪 HD]]></title>
+            <description><![CDATA[<img src="https://media.ifanrusercontent.com/user_files/appsoimg/67/25/6725f2578b8c2e3a86d4fea7651f91741aaa42c0-e0b37c869d7d76767433fef1da314fb5dd55ac6a.jpg" referrerpolicy="no-referrer">
+          <br>
+          原价：¥6.00 -&gt; 现价：¥0.00
+          <br>
+          平台：iOS Universal
+          <br>
+          精准水平仪,包含水平管及水平泡两种测量方式。支持 iPhone 和 iPad。
+        ]]></description>
+            <pubDate>Thu, 22 Dec 2022 23:26:36 GMT</pubDate>
+            <guid isPermaLink="false">https://apps.apple.com/cn/app/id510249014?platform=ipad](https://apps.apple.com/cn/app/id510249014?platform=ipad%20%22smartCard-inline%22</guid>
+            <link>https://apps.apple.com/cn/app/id510249014?platform=ipad](https://apps.apple.com/cn/app/id510249014?platform=ipad%20%22smartCard-inline%22</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[「免费」FreeTime断网豆豆-专注学习计时器]]></title>
@@ -193,52 +239,6 @@
             <pubDate>Sun, 18 Dec 2022 23:26:49 GMT</pubDate>
             <guid isPermaLink="false">https://apps.apple.com/cn/app/fashion-story/id537125160</guid>
             <link>https://apps.apple.com/cn/app/fashion-story/id537125160</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[「免费」高清计算器]]></title>
-            <description><![CDATA[<img src="https://media.ifanrusercontent.com/user_files/appsoimg/00/f7/00f73d7bd76032b70c9f599c11a29c10456e2c46-1c8d13a2d6d757264b8c79aa663e36e09a8b6096.jpg" referrerpolicy="no-referrer">
-          <br>
-          原价：¥8.00 -&gt; 现价：¥0.00
-          <br>
-          平台：iOS Universal
-          <br>
-          包含男声和女声两种真人语音；按使用频率设计的键位安排；按颜色区分的不同的键位区域；支持将计算结果复制、发送邮件功能。
-        ]]></description>
-            <pubDate>Thu, 15 Dec 2022 23:34:26 GMT</pubDate>
-            <guid isPermaLink="false">https://apps.apple.com/cn/app/%E9%AB%98%E6%B8%85%E8%AE%A1%E7%AE%97%E5%99%A8/id448246366</guid>
-            <link>https://apps.apple.com/cn/app/%E9%AB%98%E6%B8%85%E8%AE%A1%E7%AE%97%E5%99%A8/id448246366</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[「免费」Unidream AI绘画 - AI梦境生成器]]></title>
-            <description><![CDATA[<img src="https://media.ifanrusercontent.com/user_files/appsoimg/f8/6d/f86d9b6c844d5857af440c714c6c5b0a62104920-32b2b8c22ea209c1db603ded73c544d31375c95a.jpg" referrerpolicy="no-referrer">
-          <br>
-          原价：¥30.00 -&gt; 现价：¥0.00
-          <br>
-          平台：iOS Universal
-          <br>
-          使用 AI 艺术生成器，只需描述你天马行空的灵感，选择一种艺术风格，AI 即可将您的想法变为现实，并在几秒钟内生成伟大的艺术作品。
-        ]]></description>
-            <pubDate>Thu, 15 Dec 2022 23:30:32 GMT</pubDate>
-            <guid isPermaLink="false">https://apps.apple.com/cn/app/unidream-ai%E7%BB%98%E7%94%BB-ai%E6%A2%A6%E5%A2%83%E7%94%9F%E6%88%90%E5%99%A8/id1633014886</guid>
-            <link>https://apps.apple.com/cn/app/unidream-ai%E7%BB%98%E7%94%BB-ai%E6%A2%A6%E5%A2%83%E7%94%9F%E6%88%90%E5%99%A8/id1633014886</link>
             
             
             
