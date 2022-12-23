@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Fri, 23 Dec 2022 02:07:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Dec 2022 08:11:38 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -41,22 +41,6 @@
         </item>
         
         <item>
-            <title><![CDATA[学习LLVM IR第一道坎：utf8字符串处理。]]></title>
-            <description><![CDATA[<span>用户昵称：Clang <br> Username：C027E21D-DFD6-4F88-AF40-31871E1FB6F4</span><br><br>学习LLVM IR第一道坎：utf8字符串处理。]]></description>
-            <pubDate>Thu, 22 Dec 2022 14:09:47 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63a4652bdaa4adee60c9c7eb</guid>
-            <link>https://m.okjike.com/originalPosts/63a4652bdaa4adee60c9c7eb</link>
-            
-            
-            
-            <author><![CDATA[Clang]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[写代码可以直接问了，就说你要干嘛，就给你写好代码，对程序员简直提效率太多啊。 基于ChatGPT的能力做的哈哈，这个网站它自己也是让ChatGPT写的前后端😂]]></title>
             <description><![CDATA[<span>用户昵称：AUDI_GUZZ <br> Username：4af3cfb4-1291-4a8b-b210-f515c86934a9</span><br><br>                    <img src="https://cdnv2.ruguoapp.com/icons/link.png" referrerpolicy="no-referrer"><br>                    <a href="https://aicodehelper.com/">AICodeHelper - AI编程助手</a><br>                <br>写代码可以直接问了，就说你要干嘛，就给你写好代码，对程序员简直提效率太多啊。<br>基于ChatGPT的能力做的哈哈，这个网站它自己也是让ChatGPT写的前后端😂]]></description>
             <pubDate>Thu, 22 Dec 2022 14:04:00 GMT</pubDate>
@@ -66,6 +50,22 @@
             
             
             <author><![CDATA[AUDI_GUZZ]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[想找份远程的工作，即佬们有没有靠谱的平台推荐，最好是通过找到的，有避雷的也好，目前已经注册过的有码市和程序员客栈，感觉不太理想，正在看电鸭社区。]]></title>
+            <description><![CDATA[<span>用户昵称：股道热肠大魔王 <br> Username：a48ddf40-bcc6-4bf6-8f4d-8a91240fae75</span><br><br>想找份远程的工作，即佬们有没有靠谱的平台推荐，最好是通过找到的，有避雷的也好，目前已经注册过的有码市和程序员客栈，感觉不太理想，正在看电鸭社区。]]></description>
+            <pubDate>Thu, 22 Dec 2022 09:21:54 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63a421b2b45d3a8dbfe73d1f</guid>
+            <link>https://m.okjike.com/originalPosts/63a421b2b45d3a8dbfe73d1f</link>
+            
+            
+            
+            <author><![CDATA[股道热肠大魔王]]></author>
             
                 
             
@@ -154,7 +154,7 @@
         
         <item>
             <title><![CDATA[来一个视频版本的 ChatGPT 如何辅助写代码的过程。真的比 GitHub Copilot 还要好用。]]></title>
-            <description><![CDATA[<span>用户昵称：图拉鼎 <br> Username：A893532D-B9D6-4AD3-8BEE-D380692B68E2</span><br><br>来一个视频版本的 ChatGPT 如何辅助写代码的过程。真的比 GitHub Copilot 还要好用。<br><video src="https://videocdn.jellow.site/lqNCCMQZRA2Pcs85tXyqMqV7TweT.mp4?sign=55fb05f5920b052bff3ba7e8cd31cc41&amp;t=63a512b3" controls=""></video>]]></description>
+            <description><![CDATA[<span>用户昵称：图拉鼎 <br> Username：A893532D-B9D6-4AD3-8BEE-D380692B68E2</span><br><br>来一个视频版本的 ChatGPT 如何辅助写代码的过程。真的比 GitHub Copilot 还要好用。<br><video src="https://videocdn.jellow.site/lqNCCMQZRA2Pcs85tXyqMqV7TweT.mp4?sign=923b9988d4521f85e515437f96c9f95d&amp;t=63a569c2" controls=""></video>]]></description>
             <pubDate>Sun, 04 Dec 2022 06:53:10 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/638c43d6034d61bdc3b07fe8</guid>
             <link>https://m.okjike.com/originalPosts/638c43d6034d61bdc3b07fe8</link>
