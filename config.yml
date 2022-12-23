@@ -6,6 +6,8 @@ instances:
 - http://getrss2021.xyz:1200/
 - https://rsshub.app/
 routes:
+- title: 大师兄影视
+  path: telegram/channel/dsxys
 - title: 最新限免（GoFans）
   path: appstore/gofans
 - title: 每日精品限免 / 促销应用（鲜面连线 by AppSo）
