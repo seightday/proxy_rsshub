@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[JitHub程序员 - 即刻圈子]]></title>
         <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
-        <atom:link href="https://rsshub/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub.app/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
         <description><![CDATA[开发者们分享，问答，也可以交友的地方。欢迎所有工程师！ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -21,8 +21,8 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Fri, 23 Dec 2022 01:45:52 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Fri, 23 Dec 2022 00:07:00 GMT</lastBuildDate>
+        <ttl>120</ttl>
         
         <item>
             <title><![CDATA[今天给自己的“Read it later”工具实现了离线阅读功能，达成了一个里程碑。再接再厉，争取 2023 年初发布 1.0 版本。]]></title>
@@ -154,7 +154,7 @@
         
         <item>
             <title><![CDATA[来一个视频版本的 ChatGPT 如何辅助写代码的过程。真的比 GitHub Copilot 还要好用。]]></title>
-            <description><![CDATA[<span>用户昵称：图拉鼎 <br> Username：A893532D-B9D6-4AD3-8BEE-D380692B68E2</span><br><br>来一个视频版本的 ChatGPT 如何辅助写代码的过程。真的比 GitHub Copilot 还要好用。<br><video src="https://videocdn.jellow.site/lqNCCMQZRA2Pcs85tXyqMqV7TweT.mp4?sign=5800344b5c60a59a75957ec1a9d0b37c&amp;t=63a50f58" controls=""></video>]]></description>
+            <description><![CDATA[<span>用户昵称：图拉鼎 <br> Username：A893532D-B9D6-4AD3-8BEE-D380692B68E2</span><br><br>来一个视频版本的 ChatGPT 如何辅助写代码的过程。真的比 GitHub Copilot 还要好用。<br><video src="https://videocdn.jellow.site/lqNCCMQZRA2Pcs85tXyqMqV7TweT.mp4?sign=8e691dc103f886d4fc106897af550f5e&amp;t=63a4f694" controls=""></video>]]></description>
             <pubDate>Sun, 04 Dec 2022 06:53:10 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/638c43d6034d61bdc3b07fe8</guid>
             <link>https://m.okjike.com/originalPosts/638c43d6034d61bdc3b07fe8</link>
