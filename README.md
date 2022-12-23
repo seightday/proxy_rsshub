@@ -14,7 +14,11 @@ https://github.com/wdssmq/proxy_rsshub
 
 ---start---
 
-2022-12-23 09:20:16
+2022-12-23 09:45:42
+
+title: 大师兄影视
+
+path: [telegram/channel/dsxys](xml/telegram_channel_dsxys.xml "大师兄影视") 「[raw](xml/telegram_channel_dsxys.xml?raw=true "大师兄影视")」
 
 title: 最新限免（GoFans）
 
