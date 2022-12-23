@@ -1,10 +1,10 @@
 ---
 instances:
+- https://rsshub.app/
 - https://rss.shab.fun/
 - https://vercel.getrss2021.xyz/
 - https://rsshub.rssforever.com/
 - http://getrss2021.xyz:1200/
-- https://rsshub.app/
 routes:
 - title: 大师兄影视
   path: telegram/channel/dsxys
