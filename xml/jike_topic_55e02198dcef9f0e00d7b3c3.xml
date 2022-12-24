@@ -21,24 +21,8 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sat, 24 Dec 2022 14:31:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Dec 2022 18:37:35 GMT</lastBuildDate>
         <ttl>120</ttl>
-        
-        <item>
-            <title><![CDATA[我把自建库的Jack名字移除了，起了个更公共的名字——游戏基底。 组织链接：https://github.com/GameArki 欢迎Unity开发者们使用/加入。]]></title>
-            <description><![CDATA[<span>用户昵称：Clang <br> Username：C027E21D-DFD6-4F88-AF40-31871E1FB6F4</span><br><br>                    <img src="https://avatars.githubusercontent.com/u/120767130?s=280&amp;v=4" referrerpolicy="no-referrer"><br>                    <a href="https://github.com/GameArki">游戏基底</a><br>                <br>我把自建库的Jack名字移除了，起了个更公共的名字——游戏基底。<br><br>组织链接：https://github.com/GameArki<br><br>欢迎Unity开发者们使用/加入。]]></description>
-            <pubDate>Sat, 24 Dec 2022 10:27:18 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63a6d406c808c200c0cb6185</guid>
-            <link>https://m.okjike.com/originalPosts/63a6d406c808c200c0cb6185</link>
-            
-            
-            
-            <author><![CDATA[Clang]]></author>
-            
-                
-            
-            
-        </item>
         
         <item>
             <title><![CDATA[【玲珑语言设计思考】 字符串结构体定义，56b： struct string { int32 index; // 在管理器的起点位置 int24 len; // 长度 } 堆字符串管理器：内部由定长数组int...]]></title>
@@ -82,6 +66,22 @@
             
             
             <author><![CDATA[AUDI_GUZZ]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[想找份远程的工作，即佬们有没有靠谱的平台推荐，最好是通过找到的，有避雷的也好，目前已经注册过的有码市和程序员客栈，感觉不太理想，正在看电鸭社区。]]></title>
+            <description><![CDATA[<span>用户昵称：股道热肠大魔王 <br> Username：a48ddf40-bcc6-4bf6-8f4d-8a91240fae75</span><br><br>想找份远程的工作，即佬们有没有靠谱的平台推荐，最好是通过找到的，有避雷的也好，目前已经注册过的有码市和程序员客栈，感觉不太理想，正在看电鸭社区。]]></description>
+            <pubDate>Thu, 22 Dec 2022 09:21:54 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63a421b2b45d3a8dbfe73d1f</guid>
+            <link>https://m.okjike.com/originalPosts/63a421b2b45d3a8dbfe73d1f</link>
+            
+            
+            
+            <author><![CDATA[股道热肠大魔王]]></author>
             
                 
             
@@ -154,7 +154,7 @@
         
         <item>
             <title><![CDATA[来一个视频版本的 ChatGPT 如何辅助写代码的过程。真的比 GitHub Copilot 还要好用。]]></title>
-            <description><![CDATA[<span>用户昵称：图拉鼎 <br> Username：A893532D-B9D6-4AD3-8BEE-D380692B68E2</span><br><br>来一个视频版本的 ChatGPT 如何辅助写代码的过程。真的比 GitHub Copilot 还要好用。<br><video src="https://videocdn.jellow.site/lqNCCMQZRA2Pcs85tXyqMqV7TweT.mp4?sign=82015f9699a8a2f2511ed32813e592e5&amp;t=63a71430" controls=""></video>]]></description>
+            <description><![CDATA[<span>用户昵称：图拉鼎 <br> Username：A893532D-B9D6-4AD3-8BEE-D380692B68E2</span><br><br>来一个视频版本的 ChatGPT 如何辅助写代码的过程。真的比 GitHub Copilot 还要好用。<br><video src="https://videocdn.jellow.site/lqNCCMQZRA2Pcs85tXyqMqV7TweT.mp4?sign=155758c3f4ce19bacb37247b6e69c612&amp;t=63a74c3b" controls=""></video>]]></description>
             <pubDate>Sun, 04 Dec 2022 06:53:10 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/638c43d6034d61bdc3b07fe8</guid>
             <link>https://m.okjike.com/originalPosts/638c43d6034d61bdc3b07fe8</link>
