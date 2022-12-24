@@ -21,15 +21,15 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sat, 24 Dec 2022 08:10:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Dec 2022 12:18:49 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
-            <title><![CDATA[有创造新编程语言的即友吗？]]></title>
-            <description><![CDATA[<span>用户昵称：Clang <br> Username：C027E21D-DFD6-4F88-AF40-31871E1FB6F4</span><br><br>有创造新编程语言的即友吗？]]></description>
-            <pubDate>Fri, 23 Dec 2022 13:28:56 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63a5ad18a1f49954c2f0696b</guid>
-            <link>https://m.okjike.com/originalPosts/63a5ad18a1f49954c2f0696b</link>
+            <title><![CDATA[【玲珑语言设计思考】 字符串结构体定义，56b： struct string { int32 index; // 在管理器的起点位置 int24 len; // 长度 } 堆字符串管理器：内部由定长数组int...]]></title>
+            <description><![CDATA[<span>用户昵称：Clang <br> Username：C027E21D-DFD6-4F88-AF40-31871E1FB6F4</span><br><br>【玲珑语言设计思考】<br>字符串结构体定义，56b：<br>struct string {<br>  int32 index; // 在管理器的起点位置<br>  int24 len; // 长度<br>}<br><br>堆字符串管理器：内部由定长数组int8[]×可变数量组成。]]></description>
+            <pubDate>Sat, 24 Dec 2022 03:56:32 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63a67870de4174fc16d606e5</guid>
+            <link>https://m.okjike.com/originalPosts/63a67870de4174fc16d606e5</link>
             
             
             
@@ -41,15 +41,15 @@
         </item>
         
         <item>
-            <title><![CDATA[今天给自己的“Read it later”工具实现了离线阅读功能，达成了一个里程碑。再接再厉，争取 2023 年初发布 1.0 版本。]]></title>
-            <description><![CDATA[<span>用户昵称：图拉鼎 <br> Username：A893532D-B9D6-4AD3-8BEE-D380692B68E2</span><br><br>今天给自己的“Read it later”工具实现了离线阅读功能，达成了一个里程碑。再接再厉，争取 2023 年初发布 1.0 版本。]]></description>
-            <pubDate>Thu, 22 Dec 2022 14:36:59 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63a46b8bdaa4adee60ca61e0</guid>
-            <link>https://m.okjike.com/originalPosts/63a46b8bdaa4adee60ca61e0</link>
+            <title><![CDATA[有创造新编程语言的即友吗？]]></title>
+            <description><![CDATA[<span>用户昵称：Clang <br> Username：C027E21D-DFD6-4F88-AF40-31871E1FB6F4</span><br><br>有创造新编程语言的即友吗？]]></description>
+            <pubDate>Fri, 23 Dec 2022 13:28:56 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63a5ad18a1f49954c2f0696b</guid>
+            <link>https://m.okjike.com/originalPosts/63a5ad18a1f49954c2f0696b</link>
             
             
             
-            <author><![CDATA[图拉鼎]]></author>
+            <author><![CDATA[Clang]]></author>
             
                 
             
@@ -154,7 +154,7 @@
         
         <item>
             <title><![CDATA[来一个视频版本的 ChatGPT 如何辅助写代码的过程。真的比 GitHub Copilot 还要好用。]]></title>
-            <description><![CDATA[<span>用户昵称：图拉鼎 <br> Username：A893532D-B9D6-4AD3-8BEE-D380692B68E2</span><br><br>来一个视频版本的 ChatGPT 如何辅助写代码的过程。真的比 GitHub Copilot 还要好用。<br><video src="https://videocdn.jellow.site/lqNCCMQZRA2Pcs85tXyqMqV7TweT.mp4?sign=f09eb05b1306496ba67e79a63845181d&amp;t=63a6baee" controls=""></video>]]></description>
+            <description><![CDATA[<span>用户昵称：图拉鼎 <br> Username：A893532D-B9D6-4AD3-8BEE-D380692B68E2</span><br><br>来一个视频版本的 ChatGPT 如何辅助写代码的过程。真的比 GitHub Copilot 还要好用。<br><video src="https://videocdn.jellow.site/lqNCCMQZRA2Pcs85tXyqMqV7TweT.mp4?sign=37325e621f38f3fc728238d9cd67c6c4&amp;t=63a6f530" controls=""></video>]]></description>
             <pubDate>Sun, 04 Dec 2022 06:53:10 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/638c43d6034d61bdc3b07fe8</guid>
             <link>https://m.okjike.com/originalPosts/638c43d6034d61bdc3b07fe8</link>
