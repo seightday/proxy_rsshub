@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sat, 24 Dec 2022 18:37:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Dec 2022 23:28:59 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[竖着的屏幕也太棒啦！看着就很想写两行代码！]]></title>
+            <description><![CDATA[<span>用户昵称：五百五ya <br> Username：bd15e4fa-81f9-44bc-b500-9784ace1965f</span><br><br>竖着的屏幕也太棒啦！看着就很想写两行代码！<br><img src="https://cdnv2.ruguoapp.com/FlDsgYWFL6ZrIdwVX79SXjJ_L4Kev3.heic" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sat, 24 Dec 2022 11:58:28 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63a6e9644f6dd661853b1786</guid>
+            <link>https://m.okjike.com/originalPosts/63a6e9644f6dd661853b1786</link>
+            
+            
+            
+            <author><![CDATA[五百五ya]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[【玲珑语言设计思考】 字符串结构体定义，56b： struct string { int32 index; // 在管理器的起点位置 int24 len; // 长度 } 堆字符串管理器：内部由定长数组int...]]></title>
@@ -66,22 +82,6 @@
             
             
             <author><![CDATA[AUDI_GUZZ]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[想找份远程的工作，即佬们有没有靠谱的平台推荐，最好是通过找到的，有避雷的也好，目前已经注册过的有码市和程序员客栈，感觉不太理想，正在看电鸭社区。]]></title>
-            <description><![CDATA[<span>用户昵称：股道热肠大魔王 <br> Username：a48ddf40-bcc6-4bf6-8f4d-8a91240fae75</span><br><br>想找份远程的工作，即佬们有没有靠谱的平台推荐，最好是通过找到的，有避雷的也好，目前已经注册过的有码市和程序员客栈，感觉不太理想，正在看电鸭社区。]]></description>
-            <pubDate>Thu, 22 Dec 2022 09:21:54 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63a421b2b45d3a8dbfe73d1f</guid>
-            <link>https://m.okjike.com/originalPosts/63a421b2b45d3a8dbfe73d1f</link>
-            
-            
-            
-            <author><![CDATA[股道热肠大魔王]]></author>
             
                 
             
@@ -154,7 +154,7 @@
         
         <item>
             <title><![CDATA[来一个视频版本的 ChatGPT 如何辅助写代码的过程。真的比 GitHub Copilot 还要好用。]]></title>
-            <description><![CDATA[<span>用户昵称：图拉鼎 <br> Username：A893532D-B9D6-4AD3-8BEE-D380692B68E2</span><br><br>来一个视频版本的 ChatGPT 如何辅助写代码的过程。真的比 GitHub Copilot 还要好用。<br><video src="https://videocdn.jellow.site/lqNCCMQZRA2Pcs85tXyqMqV7TweT.mp4?sign=155758c3f4ce19bacb37247b6e69c612&amp;t=63a74c3b" controls=""></video>]]></description>
+            <description><![CDATA[<span>用户昵称：图拉鼎 <br> Username：A893532D-B9D6-4AD3-8BEE-D380692B68E2</span><br><br>来一个视频版本的 ChatGPT 如何辅助写代码的过程。真的比 GitHub Copilot 还要好用。<br><video src="https://videocdn.jellow.site/lqNCCMQZRA2Pcs85tXyqMqV7TweT.mp4?sign=64fdc2c3cab681da478e11341396a189&amp;t=63a79039" controls=""></video>]]></description>
             <pubDate>Sun, 04 Dec 2022 06:53:10 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/638c43d6034d61bdc3b07fe8</guid>
             <link>https://m.okjike.com/originalPosts/638c43d6034d61bdc3b07fe8</link>
