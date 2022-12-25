@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sun, 25 Dec 2022 14:50:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Dec 2022 16:57:44 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -34,6 +34,22 @@
             
             
             <author><![CDATA[Panda张向北]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[macOS - 给Terminal终端命令行配置网络代理的方法 如果终端处理github的项目总是超时，可以试试配置代理的方法。 完整教程：https://github.com/shaobeichen/blo...]]></title>
+            <description><![CDATA[<span>用户昵称：少北晨 <br> Username：EF89F1E4-4EE0-4C83-AFF8-A3705E7B51C1</span><br><br>macOS - 给Terminal终端命令行配置网络代理的方法<br>如果终端处理github的项目总是超时，可以试试配置代理的方法。<br>完整教程：https://github.com/shaobeichen/blog/issues/40<br><img src="https://cdnv2.ruguoapp.com/FiQQUkHRcbf4RpPnmcgsZNitPt7Xv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sun, 25 Dec 2022 08:44:35 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63a80d734f6dd661855417c3</guid>
+            <link>https://m.okjike.com/originalPosts/63a80d734f6dd661855417c3</link>
+            
+            
+            
+            <author><![CDATA[少北晨]]></author>
             
                 
             
@@ -82,22 +98,6 @@
             
             
             <author><![CDATA[五百五ya]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[【玲珑语言设计思考】 字符串结构体定义，56b： struct string { int32 index; // 在管理器的起点位置 int24 len; // 长度 } 堆字符串管理器：内部由定长数组int...]]></title>
-            <description><![CDATA[<span>用户昵称：Clang <br> Username：C027E21D-DFD6-4F88-AF40-31871E1FB6F4</span><br><br>【玲珑语言设计思考】<br>字符串结构体定义，56b：<br>struct string {<br>  int32 index; // 在管理器的起点位置<br>  int24 len; // 长度<br>}<br><br>堆字符串管理器：内部由定长数组int8[]×可变数量组成。]]></description>
-            <pubDate>Sat, 24 Dec 2022 03:56:32 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63a67870de4174fc16d606e5</guid>
-            <link>https://m.okjike.com/originalPosts/63a67870de4174fc16d606e5</link>
-            
-            
-            
-            <author><![CDATA[Clang]]></author>
             
                 
             
