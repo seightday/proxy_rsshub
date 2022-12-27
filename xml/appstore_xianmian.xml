@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[每日精品限免 / 促销应用]]></title>
         <link>http://app.so/xianmian/</link>
-        <atom:link href="http://rsshub.app/appstore/xianmian" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub.app/appstore/xianmian" rel="self" type="application/rss+xml" />
         <description><![CDATA[鲜面连线 by AppSo：每日精品限免 / 促销应用 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -15,16 +15,16 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Tue, 27 Dec 2022 09:40:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Dec 2022 13:42:27 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
             <title><![CDATA[「降价」ProCamera. 全能专业相机-单反快门照相机摄影摄像机]]></title>
             <description><![CDATA[<img src="https://media.ifanrusercontent.com/user_files/appsoimg/be/07/be07fa3cf5bf4ccb0d91e25f333a1d94babd825d-f9f89807bd6c7c9c56863c357f69a0c7f85f2e10.jpg" referrerpolicy="no-referrer">
           <br>
-          原价：¥98.00 -&gt; 现价：¥93.00
+          原价：¥98.00 -&gt; 现价：¥98.00
           <br>
-          平台：iPhone
+          平台：iOS Universal
           <br>
           一款由专业摄影师设计的出色全能型手动相机应用，不仅具有专业级 DSLR 相机功能，还可以提供高端视频拍摄模式以及包括 (Pro) RAW 和景深编辑在内的全方位图片编辑套件。
         ]]></description>
