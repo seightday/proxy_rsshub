@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Fri, 06 Jan 2023 14:30:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Jan 2023 18:34:24 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -34,6 +34,22 @@
             
             
             <author><![CDATA[哥飞]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[我总觉得现代图形的API方向跑偏了，以前活都让驱动做，现在把驱动的活都给开发者，一个最简单不过的显示颜色，现在就要上千行代码，代码全都是各种初始化的操作...]]></title>
+            <description><![CDATA[<span>用户昵称：小谷王左 <br> Username：C925D2DB-3DAE-4853-8E94-1189F98D42F6</span><br><br>我总觉得现代图形的API方向跑偏了，以前活都让驱动做，现在把驱动的活都给开发者，一个最简单不过的显示颜色，现在就要上千行代码，代码全都是各种初始化的操作。以前使用OpenGL的难度可能相当于开车（不是特别简单，但还能接受），现在使用Vulkan或者dx12，就像开飞机了，满眼全是表盘。运行速度是变快了，但培养一个能开飞机的飞行员和培养一个司机完全不是一个量级的。<br><br>原本我想写点Vulkan的教程，但我花了一天，写了超过一千行代码后，才完成OpenGL几十行代码的工作——更换窗口背景颜色。我决定放弃写教程了。😂]]></description>
+            <pubDate>Fri, 06 Jan 2023 08:06:35 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63b7d68b02bc713efb8a2542</guid>
+            <link>https://m.okjike.com/originalPosts/63b7d68b02bc713efb8a2542</link>
+            
+            
+            
+            <author><![CDATA[小谷王左]]></author>
             
                 
             
@@ -146,22 +162,6 @@
             
             
             <author><![CDATA[Dvangelion]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[量化开发，base新加坡，薪资100-250w 量化方向的即友看过来]]></title>
-            <description><![CDATA[<span>用户昵称：Yuting_web3 <br> Username：E83B7A53-E8D6-4D5A-B395-99B450599C13</span><br><br>量化开发，base新加坡，薪资100-250w <br>量化方向的即友看过来]]></description>
-            <pubDate>Tue, 03 Jan 2023 07:51:50 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63b3de964437064617cc5fbd</guid>
-            <link>https://m.okjike.com/originalPosts/63b3de964437064617cc5fbd</link>
-            
-            
-            
-            <author><![CDATA[Yuting_web3]]></author>
             
                 
             
