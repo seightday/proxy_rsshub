@@ -21,8 +21,40 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sat, 07 Jan 2023 02:47:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Jan 2023 07:24:54 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[这个礼拜稍微玩了玩闲鱼，好巧不巧摸到一个店铺，看到一个非常好玩的业态。一进入店铺，可以看到这个店铺主打的是一个叫做 StuDocu 平台的代下载服务。 一看没什...]]></title>
+            <description><![CDATA[<span>用户昵称：DeckardCain <br> Username：6319930F-A28D-4C2E-A62A-B6E5A005381F</span><br><br>这个礼拜稍微玩了玩闲鱼，好巧不巧摸到一个店铺，看到一个非常好玩的业态。一进入店铺，可以看到这个店铺主打的是一个叫做 StuDocu 平台的代下载服务。<br><br>一看没什么，就是一个买账号，代下载的生意，很多人都在干这个事情，好像也赚不到钱，但是一看销量，好像活的真不错啊。<br><br>StuDocu 我搜索了解了一下，他是一个专注课程分享、笔记分享的网站，有点像国外的百度文库。<br><br>既然是百度文库，下载东西肯定免不了各种限制，要么让你购买会员（由于是国外服务，够买会员是很贵的，我查了一下大概是一年5000人民币），要么让你去上传文档，帮它完善生态。所以会有很大一部分人选择这种代下载的服务。<br><br>一般来说，这种代下载服务要规避两个问题，第一个是法律上的问题。毕竟账号共享对平台利益肯定是有所损害，如果你直接在淘宝挂上百度文库的代下服务，那多半要被下掉的。但 StuDocu是什么？它是一个国外服务，因此避免了这些问题，生意的生命周期也延长了许多。<br><br>第二个是成本的问题。因为代下载服务门槛太低了，大家都能做，这样看起来好像赚不到钱。<br><br>但这里有个成本问题。人工接单来做，1.5一次，感觉好像不赚钱。但程序员可以通过技术手段搭建自动发货程序，自助下载程序，直接把淘宝店铺打造成了无人值守的自助店，那么这个边际成本就接近0了。<br><br>最最关键在于，他是一个留学生经济！国内大部分人不知道这个东西，这就带了一个信息差！结合上面的这些因素一起打造的这个生意，真的很好！<br><img src="https://cdnv2.ruguoapp.com/FrW3gHxL4iC00lKEzG9MbGb0o3Rkv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FnU14MkZp6386qBh-LBGos8OGM__v3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FnTWSqQFir0I4vSRJAy2PfIJFpgGv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FhbcfTPYh4EUo5CCkj81NYVHZwfCv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sat, 07 Jan 2023 03:24:14 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63b8e5de6071a0d6b33ad3ba</guid>
+            <link>https://m.okjike.com/originalPosts/63b8e5de6071a0d6b33ad3ba</link>
+            
+            
+            
+            <author><![CDATA[DeckardCain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[最近学新东西的一个方法，先把任何疑问都拿去问 ChatGPT ，之后拿着得到的回答里的关键字去搜索引擎里找更详细丰富的资料。 看资料遇到问题了，再来问 ChatGPT ...]]></title>
+            <description><![CDATA[<span>用户昵称：哥飞 <br> Username：a2d6acc1-626f-4d15-a22a-849e88a4c9f0</span><br><br>最近学新东西的一个方法，先把任何疑问都拿去问 ChatGPT ，之后拿着得到的回答里的关键字去搜索引擎里找更详细丰富的资料。<br>看资料遇到问题了，再来问 ChatGPT ，如此循环往复。<br>就像是不花钱聘请了一个不是特别优秀但是经验丰富的老爷爷。]]></description>
+            <pubDate>Sat, 07 Jan 2023 01:47:50 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63b8cf4683734a967f7d34c6</guid>
+            <link>https://m.okjike.com/originalPosts/63b8cf4683734a967f7d34c6</link>
+            
+            
+            
+            <author><![CDATA[哥飞]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[这种东西零基础能学会吗？]]></title>
@@ -50,22 +82,6 @@
             
             
             <author><![CDATA[哥飞]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[我总觉得现代图形的API方向跑偏了，以前活都让驱动做，现在把驱动的活都给开发者，一个最简单不过的显示颜色，现在就要上千行代码，代码全都是各种初始化的操作...]]></title>
-            <description><![CDATA[<span>用户昵称：小谷王左 <br> Username：C925D2DB-3DAE-4853-8E94-1189F98D42F6</span><br><br>我总觉得现代图形的API方向跑偏了，以前活都让驱动做，现在把驱动的活都给开发者，一个最简单不过的显示颜色，现在就要上千行代码，代码全都是各种初始化的操作。以前使用OpenGL的难度可能相当于开车（不是特别简单，但还能接受），现在使用Vulkan或者dx12，就像开飞机了，满眼全是表盘。运行速度是变快了，但培养一个能开飞机的飞行员和培养一个司机完全不是一个量级的。<br><br>原本我想写点Vulkan的教程，但我花了一天，写了超过一千行代码后，才完成OpenGL几十行代码的工作——更换窗口背景颜色。我决定放弃写教程了。😂]]></description>
-            <pubDate>Fri, 06 Jan 2023 08:06:35 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63b7d68b02bc713efb8a2542</guid>
-            <link>https://m.okjike.com/originalPosts/63b7d68b02bc713efb8a2542</link>
-            
-            
-            
-            <author><![CDATA[小谷王左]]></author>
             
                 
             
@@ -146,22 +162,6 @@
             
             
             <author><![CDATA[歌弈]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[先用Copilot补全，再用ChatGPT优化，我是不是什么都不用干了🤪]]></title>
-            <description><![CDATA[<span>用户昵称：Dvangelion <br> Username：2cc22d41-c991-400d-af40-d9d25fb5554a</span><br><br>先用Copilot补全，再用ChatGPT优化，我是不是什么都不用干了🤪]]></description>
-            <pubDate>Wed, 04 Jan 2023 04:01:49 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63b4fa2d4437064617e7437d</guid>
-            <link>https://m.okjike.com/originalPosts/63b4fa2d4437064617e7437d</link>
-            
-            
-            
-            <author><![CDATA[Dvangelion]]></author>
             
                 
             
