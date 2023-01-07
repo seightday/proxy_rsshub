@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[JitHub程序员 - 即刻圈子]]></title>
         <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
-        <atom:link href="https://rsshub/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub.app/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
         <description><![CDATA[开发者们分享，问答，也可以交友的地方。欢迎所有工程师！ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -21,8 +21,8 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sat, 07 Jan 2023 16:22:47 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Sat, 07 Jan 2023 19:45:54 GMT</lastBuildDate>
+        <ttl>120</ttl>
         
         <item>
             <title><![CDATA[做的 app 被反诈中心列成诈骗 app 是什么体验？运营推广的用户，今天晚上下载安装。第二天警察上门当面要求卸载。]]></title>
