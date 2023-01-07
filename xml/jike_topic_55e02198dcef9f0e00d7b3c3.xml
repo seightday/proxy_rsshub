@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[JitHub程序员 - 即刻圈子]]></title>
         <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
-        <atom:link href="https://rsshub.app/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
         <description><![CDATA[开发者们分享，问答，也可以交友的地方。欢迎所有工程师！ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -21,8 +21,56 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sat, 07 Jan 2023 11:29:07 GMT</lastBuildDate>
-        <ttl>120</ttl>
+        <lastBuildDate>Sat, 07 Jan 2023 16:22:47 GMT</lastBuildDate>
+        <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[做的 app 被反诈中心列成诈骗 app 是什么体验？运营推广的用户，今天晚上下载安装。第二天警察上门当面要求卸载。]]></title>
+            <description><![CDATA[<span>用户昵称：禅与沙县炒粉艺术 <br> Username：0D05C901-AF7A-428C-A380-7D759C5E83B1</span><br><br>做的 app 被反诈中心列成诈骗 app 是什么体验？运营推广的用户，今天晚上下载安装。第二天警察上门当面要求卸载。]]></description>
+            <pubDate>Sat, 07 Jan 2023 09:59:01 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63b94265f38a3fb55f7c2225</guid>
+            <link>https://m.okjike.com/originalPosts/63b94265f38a3fb55f7c2225</link>
+            
+            
+            
+            <author><![CDATA[禅与沙县炒粉艺术]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[App Store Connect 中，技术支持网址怎么填？ 以前我是这样做的：自己写一个官网网站，就普通的js、css和 html，写好之后，部署到阿里云，放在 tomcat 下。域名...]]></title>
+            <description><![CDATA[<span>用户昵称：陈怀哲 <br> Username：FB8EA0A6-9134-498E-B309-E67979477377</span><br><br>App Store Connect 中，技术支持网址怎么填？<br><br>以前我是这样做的：自己写一个官网网站，就普通的js、css和 html，写好之后，部署到阿里云，放在 tomcat 下。域名在阿里云买，域名备案，绑定好域名，一个网站就做好了。然后把网址填到技术支持网站那一栏。耗时 2周。<br><br>后来我是这样做的：域名在 NameCheap 上面买，建站直接用 Vercel + GitHub，使用 Vercel 推荐的模板框架，改改内容，网站就做好了。耗时 2小时。<br><br>现在我是这样做的：在 Notion 上新开一个 page，写上 app 下载地址和联系方式，然后复制分享链接，一个技术支持网站就做好了。耗时 5 分钟。]]></description>
+            <pubDate>Sat, 07 Jan 2023 09:31:32 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63b93bf41c2ecf69b294f867</guid>
+            <link>https://m.okjike.com/originalPosts/63b93bf41c2ecf69b294f867</link>
+            
+            
+            
+            <author><![CDATA[陈怀哲]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[在线的电子书，速度快]]></title>
+            <description><![CDATA[<span>用户昵称：叉叉敌 <br> Username：c9515929-08ed-49c3-a5e5-cedf4be07be0</span><br><br>                    <img src="https://cdnv2.ruguoapp.com/icons/link.png" referrerpolicy="no-referrer"><br>                    <a href="https://zlib.cydiar.com/">Z-Library</a><br>                <br>在线的电子书，速度快]]></description>
+            <pubDate>Sat, 07 Jan 2023 07:56:20 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63b925a41c2ecf69b2926677</guid>
+            <link>https://m.okjike.com/originalPosts/63b925a41c2ecf69b2926677</link>
+            
+            
+            
+            <author><![CDATA[叉叉敌]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[这个礼拜稍微玩了玩闲鱼，好巧不巧摸到一个店铺，看到一个非常好玩的业态。一进入店铺，可以看到这个店铺主打的是一个叫做 StuDocu 平台的代下载服务。 一看没什...]]></title>
@@ -89,38 +137,6 @@
         </item>
         
         <item>
-            <title><![CDATA[独立开发变现周刊（第86期）：月收入4000美元的日程规划器 分享独立开发、产品变现相关内容，每周五发布。 目录 1、NotionReads: 在Notion中管理你的阅读书籍 2...]]></title>
-            <description><![CDATA[<span>用户昵称：凯凯刘 <br> Username：17df3f5b-8c45-49aa-8a20-e7f9e698210d</span><br><br>独立开发变现周刊（第86期）：月收入4000美元的日程规划器<br><br>分享独立开发、产品变现相关内容，每周五发布。<br>目录<br>1、NotionReads: 在Notion中管理你的阅读书籍<br>2、Zaap.ai: 面向创作者的一站式工具<br>3、microfeed: 开源的可自我托管的轻量级内容管理系统(CMS)<br>4、Reactive Resume：一个免费的开源简历生成器<br>5、一个月收入4000美元的日程规划器<br><br>详细内容：https://www.ezindie.com/weekly/issue-86<br><img src="https://cdnv2.ruguoapp.com/FnVBU5L7Inh42GcRsjrcwLrmDyofv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FgFWdoNvxbCEJd16ja-ERNWXVoxQv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fqha69uPyKrFIrAqv4muErTMgzBev3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 06 Jan 2023 00:37:35 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63b76d4fd2596539c038dae1</guid>
-            <link>https://m.okjike.com/originalPosts/63b76d4fd2596539c038dae1</link>
-            
-            
-            
-            <author><![CDATA[凯凯刘]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[程序员除了做程序员还有什么出路啊？有没有对女孩子的建议]]></title>
-            <description><![CDATA[<span>用户昵称：小熊本熊 <br> Username：fe6b5ed1-6a37-422a-8690-b844b50e8015</span><br><br>程序员除了做程序员还有什么出路啊？有没有对女孩子的建议]]></description>
-            <pubDate>Thu, 05 Jan 2023 22:18:52 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63b74ccc2078588866b73e61</guid>
-            <link>https://m.okjike.com/originalPosts/63b74ccc2078588866b73e61</link>
-            
-            
-            
-            <author><![CDATA[小熊本熊]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[不知道为什么ChatGPT不让我用了，着急要一段代码，跟着 @AUDI_GUZZ 用AICodeHelper，挺不错，感谢。 https://www.aicodehelper.com/]]></title>
             <description><![CDATA[<span>用户昵称：Zach爱思考 <br> Username：0dd7fdc7-f239-40f3-88d3-27062d53f124</span><br><br>不知道为什么ChatGPT不让我用了，着急要一段代码，跟着 @AUDI_GUZZ 用AICodeHelper，挺不错，感谢。<br>https://www.aicodehelper.com/]]></description>
             <pubDate>Thu, 05 Jan 2023 11:59:54 GMT</pubDate>
@@ -162,22 +178,6 @@
             
             
             <author><![CDATA[歌弈]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[自从使用AICodeHelper在小红书代做作业，发现需求原来这么大，就一会儿的功夫，50多条消息。 目前代做已经收了85元，我花的时间不到10分钟😂]]></title>
-            <description><![CDATA[<span>用户昵称：AUDI_GUZZ <br> Username：4af3cfb4-1291-4a8b-b210-f515c86934a9</span><br><br>自从使用AICodeHelper在小红书代做作业，发现需求原来这么大，就一会儿的功夫，50多条消息。<br>目前代做已经收了85元，我花的时间不到10分钟😂<br><img src="https://cdnv2.ruguoapp.com/FiHURXHfhe5SJG6yeh5k6UZ6y0rdv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fp7l4l6pFFm-Gq95KWN_uSeJw24cv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sun, 01 Jan 2023 16:04:23 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63b1af07443706461797cd38</guid>
-            <link>https://m.okjike.com/originalPosts/63b1af07443706461797cd38</link>
-            
-            
-            
-            <author><![CDATA[AUDI_GUZZ]]></author>
             
                 
             
