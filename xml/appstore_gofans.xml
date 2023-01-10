@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[最新限免 / 促销应用]]></title>
         <link>https://gofans.cn/</link>
-        <atom:link href="https://rsshub.app/appstore/gofans" rel="self" type="application/rss+xml" />
+        <atom:link href="http://rsshub.app/appstore/gofans" rel="self" type="application/rss+xml" />
         <description><![CDATA[GoFans：最新限免 / 促销应用 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -15,7 +15,7 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Mon, 09 Jan 2023 18:52:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Jan 2023 22:57:39 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
