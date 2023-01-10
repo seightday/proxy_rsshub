@@ -21,8 +21,40 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 10 Jan 2023 11:44:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Jan 2023 16:19:30 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[不想干程序员了，能换哪个赛道呢🤔]]></title>
+            <description><![CDATA[<span>用户昵称：克鲁克鲁 <br> Username：757dc68b-31d2-4482-a1df-3d6534cb104c</span><br><br>不想干程序员了，能换哪个赛道呢🤔]]></description>
+            <pubDate>Tue, 10 Jan 2023 11:59:15 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63bd531343f939b952a4b15d</guid>
+            <link>https://m.okjike.com/originalPosts/63bd531343f939b952a4b15d</link>
+            
+            
+            
+            <author><![CDATA[克鲁克鲁]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[那就开始学习吧]]></title>
+            <description><![CDATA[<span>用户昵称：苦思乱想的小陈 <br> Username：aeb2913e-8740-4557-8a13-48a36cf7583a</span><br><br>那就开始学习吧<br><img src="https://cdnv2.ruguoapp.com/Fmc4m-QIPC844CRqZDYlRclYA6Azv3.heic" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 10 Jan 2023 06:25:00 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63bd04bc1c2ecf69b2f41e75</guid>
+            <link>https://m.okjike.com/originalPosts/63bd04bc1c2ecf69b2f41e75</link>
+            
+            
+            
+            <author><![CDATA[苦思乱想的小陈]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[我拿什么承载你——我的“第二大脑” Evernote OneNote 为知笔记 有道云笔记 Mybase CherryTree eDiary Zim Wiki WikidPad Joplin Zettlr Trilium Scrivener Wri...]]></title>
@@ -73,22 +105,6 @@
         </item>
         
         <item>
-            <title><![CDATA[菜猿😄]]></title>
-            <description><![CDATA[<span>用户昵称：侠客o乔 <br> Username：1ed0f48b-3916-4a2b-a944-5ca1bbab6321</span><br><br>菜猿😄<br><img src="https://cdnv2.ruguoapp.com/FgfNaCHa4ARK8G3efwk0LumZQfCHv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 09 Jan 2023 13:21:19 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63bc14cf1c2ecf69b2de7780</guid>
-            <link>https://m.okjike.com/originalPosts/63bc14cf1c2ecf69b2de7780</link>
-            
-            
-            
-            <author><![CDATA[侠客o乔]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[逛 b 站发现了一些不靠流量真实分享的技术 UP 主，也发现了一些国内好的 CS课程： - 哈工大的计算机组成原理 - 南大的操作系统 - 浙大的陈越和王卓的数据结构和...]]></title>
             <description><![CDATA[<span>用户昵称：孙运先 <br> Username：DC46245B-5F49-4B61-A178-EA061B65E57D</span><br><br>逛 b 站发现了一些不靠流量真实分享的技术 UP 主，也发现了一些国内好的 CS课程：<br><br>- 哈工大的计算机组成原理<br>- 南大的操作系统<br>- 浙大的陈越和王卓的数据结构和算法<br>- 浙大翁恺的程序设计和编程语言<br><br>以前都是写 blog 靠文字，现在似乎使用视频这种媒介更加适合时代了。（当然还是觉得文字效率高啦]]></description>
             <pubDate>Sun, 08 Jan 2023 14:07:01 GMT</pubDate>
@@ -114,22 +130,6 @@
             
             
             <author><![CDATA[禅与沙县炒粉艺术]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[App Store Connect 中，技术支持网址怎么填？ 以前我是这样做的：自己写一个官网网站，就普通的js、css和 html，写好之后，部署到阿里云，放在 tomcat 下。域名...]]></title>
-            <description><![CDATA[<span>用户昵称：陈怀哲 <br> Username：FB8EA0A6-9134-498E-B309-E67979477377</span><br><br>App Store Connect 中，技术支持网址怎么填？<br><br>以前我是这样做的：自己写一个官网网站，就普通的js、css和 html，写好之后，部署到阿里云，放在 tomcat 下。域名在阿里云买，域名备案，绑定好域名，一个网站就做好了。然后把网址填到技术支持网站那一栏。耗时 2周。<br><br>后来我是这样做的：域名在 NameCheap 上面买，建站直接用 Vercel + GitHub，使用 Vercel 推荐的模板框架，改改内容，网站就做好了。耗时 2小时。<br><br>现在我是这样做的：在 Notion 上新开一个 page，写上 app 下载地址和联系方式，然后复制分享链接，一个技术支持网站就做好了。耗时 5 分钟。]]></description>
-            <pubDate>Sat, 07 Jan 2023 09:31:32 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63b93bf41c2ecf69b294f867</guid>
-            <link>https://m.okjike.com/originalPosts/63b93bf41c2ecf69b294f867</link>
-            
-            
-            
-            <author><![CDATA[陈怀哲]]></author>
             
                 
             
