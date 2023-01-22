@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sun, 22 Jan 2023 03:28:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Jan 2023 05:30:00 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[🏮🎉冒泡排序，选择排序，插入排序，快速排序，堆排序，归并排序，希尔排序，桶排序，基数排序新年帮您排忧解难！ 🏮🎉有向图，无向图，有环图，无环图...]]></title>
+            <description><![CDATA[🏮🎉冒泡排序，选择排序，插入排序，快速排序，堆排序，归并排序，希尔排序，桶排序，基数排序新年帮您排忧解难！<br>🏮🎉有向图，无向图，有环图，无环图，完全图，稠密图，稀疏图，拓扑图祝您新年宏图大展！<br>🏮🎉最长路，最短路，单源路径，所有节点对路径祝您新年路路通畅！<br>🏮🎉二叉树，红黑树，van Emde Boas树，最小生成树祝您新年好运枝繁叶茂！<br>🏮🎉最大流，网络流，标准输入流，标准输出流，文件输入流，文件输出流祝您新年顺顺流流！<br>🏮🎉线性动规，区间动规，坐标动规，背包动规，树型动归为您的新年规划精彩！<br>🏮🎉散列表，哈希表，邻接表，双向链表，循环链表帮您在新年表达喜悦！<br>🏮🎉O(n!),O(2^n), O(n^3),O(n^2), O(nlog n) , O(n), O(log n) , O(1)祝大家新年渐进步步高！]]></description>
+            <pubDate>Sat, 21 Jan 2023 22:32:50 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63cc68126925aefd1eb1ed07</guid>
+            <link>https://m.okjike.com/originalPosts/63cc68126925aefd1eb1ed07</link>
+            
+            
+            
+            <author><![CDATA[Panda张向北]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[冒泡排序，选择排序，插入排序，快速排序，堆排序，归并排序，希尔排序，桶排序，基数排序新年帮您排忧解难。 有向图，无向图，有环图，无环图，完全图，稠密图...]]></title>
@@ -57,6 +73,22 @@
         </item>
         
         <item>
+            <title><![CDATA[第一版的mock-data发布了。 基础属性、复杂对象、数组、枚举、List、Map、循环引用等等都是没问题的，数据构建控制、属性过滤、独立配置也都有，更多功能可以去g...]]></title>
+            <description><![CDATA[<img src="https://opengraph.githubassets.com/fe5dd6f479f5a4fa1b72026557ff090f4a0c35d6935d9ea5bbb237ae95428744/Verlif/mock-data" referrerpolicy="no-referrer"><br>                    <a href="https://github.com/Verlif/mock-data">GitHub - Verlif/mock-data: 非常简单但又高度自定义的数据生成工具</a><br>                <br>第一版的mock-data发布了。<br>基础属性、复杂对象、数组、枚举、List、Map、循环引用等等都是没问题的，数据构建控制、属性过滤、独立配置也都有，更多功能可以去github看。<br>我也对比了诸如easy-random-core、jmockdata这些同类型的工具，基础功能都大差不差，但是mock-data的自定义性更高。而且我也提供了lambda方式的对特定属性绑定特定构建器的功能，避免了string方式的同名混淆。<br>有任何问题都可以在这里评论或是在github提issue，我都会回复的。]]></description>
+            <pubDate>Fri, 20 Jan 2023 14:01:12 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63ca9ea883734a967f41cb9f</guid>
+            <link>https://m.okjike.com/originalPosts/63ca9ea883734a967f41cb9f</link>
+            
+            
+            
+            <author><![CDATA[Verlif]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[最近看了不少新的东西，好巧不巧他们都是基于微信公众号的生态的。 核心都是利用微信公众号的客服消息来提供信息的处理。用户把文字、链接传送给自动客服，后端...]]></title>
             <description><![CDATA[最近看了不少新的东西，好巧不巧他们都是基于微信公众号的生态的。<br><br>核心都是利用微信公众号的客服消息来提供信息的处理。用户把文字、链接传送给自动客服，后端解析这些请求后进行处理，把结果传递给用户。目前观察到的产品形态有电子书下载类，电子产品设备查询类，聚合返利类，笔记类稍后读类（flomo flowus wolai cubox 印象笔记）等等。<br><br>公众号客服开发的优势很明显，第一是技术门槛低。普通程序员只要掌握一项后端或前端技术，结合一些开发资料，就可以轻松实现。<br><br>第二是可以顺带做自己的私域。程序员既可以用公众号做服务，又可以持续深耕做内容，一举两得。就算暂时没有盈利模式，也可以积累一部分垂直领域的粉丝，变现难度应该也不会太大。<br><br>拿下图中 Zlibrary Search 这个公众号服务来说，据博主自己所说是用官方开放 API 实现。就是这么一个简单的工具，保守估计粉丝应该5W+。虽然类似电子书服务的崛起有 Zlibrary 被封的爆点因素在，但是仍然是一个很好的学习范例。<br><br>下面的截图分别是我看到产品形态的一些截图，有的商业模式已经跑通，打通支付直接收费，有的虽然目前仍然免费服务，但是已经把一大波粉丝聚集起来，未来仍然有很大盈利空间。<br><img src="https://cdnv2.ruguoapp.com/FmTfVmJ0ZSq3L8qNFKnlDmcVjF30v3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fq2wV2jBcNDAMlzv2e9tmjiFpOSTv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FlyiF-2qRijXYZ7E2y1aL5YksiA1v3.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Thu, 19 Jan 2023 14:01:46 GMT</pubDate>
@@ -66,22 +98,6 @@
             
             
             <author><![CDATA[DeckardCain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[年少的我太中二了…… 图为十多年前写的外挂🌚]]></title>
-            <description><![CDATA[年少的我太中二了……<br>图为十多年前写的外挂🌚<br><img src="https://cdnv2.ruguoapp.com/FgDAlNs5LLTIAW26FESU9-UCqgP6v3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FqcH4uRRXw6uWEkFxknmcb7dIgvJv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 19 Jan 2023 05:28:41 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63c8d5096925aefd1e56b592</guid>
-            <link>https://m.okjike.com/originalPosts/63c8d5096925aefd1e56b592</link>
-            
-            
-            
-            <author><![CDATA[炸鸡Pluto]]></author>
             
                 
             
@@ -162,22 +178,6 @@
             
             
             <author><![CDATA[孙运先]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[2022 做过的小玩意儿]]></title>
-            <description><![CDATA[2022 做过的小玩意儿<br><img src="https://cdnv2.ruguoapp.com/Fuf78BRYbpqAvzVHi7lWt2qd-u3ov3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FvCj7loY5AjmycPaTdIi9v4WcNVzv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fr09FYCyQpCgATKwkoY7EkJF_M_-v3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FvJ7PHiuYOGPL3YIPvwD8U-vo1ukv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fm-Hzdmam1sDtaEfp8lLkJrkS7Zev3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FrCAzWzy-MZfz_Q2Z2tKu9g8eJWFv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FpfaWFZuKTE_brScOWEsd4D1JAppv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fkca3jBSoloWJdrC8n6WXzAOM2tQv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FlUT8N_TrkPadnLmiRoSbwislRRhv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 31 Dec 2022 11:55:10 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63b0231ed2596539c0842a25</guid>
-            <link>https://m.okjike.com/originalPosts/63b0231ed2596539c0842a25</link>
-            
-            
-            
-            <author><![CDATA[Diu]]></author>
             
                 
             
