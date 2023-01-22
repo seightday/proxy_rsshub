@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[JitHub程序员 - 即刻圈子]]></title>
         <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
-        <atom:link href="https://rsshub.app/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
         <description><![CDATA[开发者们分享，问答，也可以交友的地方。欢迎所有工程师！ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -21,12 +21,12 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sun, 22 Jan 2023 05:30:00 GMT</lastBuildDate>
-        <ttl>120</ttl>
+        <lastBuildDate>Sun, 22 Jan 2023 12:30:24 GMT</lastBuildDate>
+        <ttl>1</ttl>
         
         <item>
             <title><![CDATA[🏮🎉冒泡排序，选择排序，插入排序，快速排序，堆排序，归并排序，希尔排序，桶排序，基数排序新年帮您排忧解难！ 🏮🎉有向图，无向图，有环图，无环图...]]></title>
-            <description><![CDATA[🏮🎉冒泡排序，选择排序，插入排序，快速排序，堆排序，归并排序，希尔排序，桶排序，基数排序新年帮您排忧解难！<br>🏮🎉有向图，无向图，有环图，无环图，完全图，稠密图，稀疏图，拓扑图祝您新年宏图大展！<br>🏮🎉最长路，最短路，单源路径，所有节点对路径祝您新年路路通畅！<br>🏮🎉二叉树，红黑树，van Emde Boas树，最小生成树祝您新年好运枝繁叶茂！<br>🏮🎉最大流，网络流，标准输入流，标准输出流，文件输入流，文件输出流祝您新年顺顺流流！<br>🏮🎉线性动规，区间动规，坐标动规，背包动规，树型动归为您的新年规划精彩！<br>🏮🎉散列表，哈希表，邻接表，双向链表，循环链表帮您在新年表达喜悦！<br>🏮🎉O(n!),O(2^n), O(n^3),O(n^2), O(nlog n) , O(n), O(log n) , O(1)祝大家新年渐进步步高！]]></description>
+            <description><![CDATA[<span>用户昵称：Panda张向北 <br> Username：0B599B1F-688E-412C-9D02-A22DB34169A6</span><br><br>🏮🎉冒泡排序，选择排序，插入排序，快速排序，堆排序，归并排序，希尔排序，桶排序，基数排序新年帮您排忧解难！<br>🏮🎉有向图，无向图，有环图，无环图，完全图，稠密图，稀疏图，拓扑图祝您新年宏图大展！<br>🏮🎉最长路，最短路，单源路径，所有节点对路径祝您新年路路通畅！<br>🏮🎉二叉树，红黑树，van Emde Boas树，最小生成树祝您新年好运枝繁叶茂！<br>🏮🎉最大流，网络流，标准输入流，标准输出流，文件输入流，文件输出流祝您新年顺顺流流！<br>🏮🎉线性动规，区间动规，坐标动规，背包动规，树型动归为您的新年规划精彩！<br>🏮🎉散列表，哈希表，邻接表，双向链表，循环链表帮您在新年表达喜悦！<br>🏮🎉O(n!),O(2^n), O(n^3),O(n^2), O(nlog n) , O(n), O(log n) , O(1)祝大家新年渐进步步高！]]></description>
             <pubDate>Sat, 21 Jan 2023 22:32:50 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/63cc68126925aefd1eb1ed07</guid>
             <link>https://m.okjike.com/originalPosts/63cc68126925aefd1eb1ed07</link>
@@ -42,7 +42,7 @@
         
         <item>
             <title><![CDATA[冒泡排序，选择排序，插入排序，快速排序，堆排序，归并排序，希尔排序，桶排序，基数排序新年帮您排忧解难。 有向图，无向图，有环图，无环图，完全图，稠密图...]]></title>
-            <description><![CDATA[冒泡排序，选择排序，插入排序，快速排序，堆排序，归并排序，希尔排序，桶排序，基数排序新年帮您排忧解难。<br>有向图，无向图，有环图，无环图，完全图，稠密图，稀疏图，拓扑图祝您新年宏图大展。<br>最长路，最短路，单源路径，所有节点对路径祝您新年路路通畅。<br>二叉树，红黑树，van Emde Boas树，最小生成树祝您新年好运枝繁叶茂。<br>最大流，网络流，标准输入流，标准输出流，文件输入流，文件输出流祝您新年顺顺流流。<br>线性动规，区间动规，坐标动规，背包动规，树型动归为您的新年规划精彩。<br>散列表，哈希表，邻接表，双向链表，循环链表帮您在新年表达喜悦。<br>O(n!),O(2^n), O(n^3),O(n^2), O(nlog n) , O(n), O(log n) , O(1)祝大家新年渐进步步高。]]></description>
+            <description><![CDATA[<span>用户昵称：0限 <br> Username：1b998627-b1e8-4ffe-98b1-091e8ccb0bf5</span><br><br>冒泡排序，选择排序，插入排序，快速排序，堆排序，归并排序，希尔排序，桶排序，基数排序新年帮您排忧解难。<br>有向图，无向图，有环图，无环图，完全图，稠密图，稀疏图，拓扑图祝您新年宏图大展。<br>最长路，最短路，单源路径，所有节点对路径祝您新年路路通畅。<br>二叉树，红黑树，van Emde Boas树，最小生成树祝您新年好运枝繁叶茂。<br>最大流，网络流，标准输入流，标准输出流，文件输入流，文件输出流祝您新年顺顺流流。<br>线性动规，区间动规，坐标动规，背包动规，树型动归为您的新年规划精彩。<br>散列表，哈希表，邻接表，双向链表，循环链表帮您在新年表达喜悦。<br>O(n!),O(2^n), O(n^3),O(n^2), O(nlog n) , O(n), O(log n) , O(1)祝大家新年渐进步步高。]]></description>
             <pubDate>Sat, 21 Jan 2023 05:17:40 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/63cb757402bc713efb782435</guid>
             <link>https://m.okjike.com/originalPosts/63cb757402bc713efb782435</link>
@@ -58,7 +58,7 @@
         
         <item>
             <title><![CDATA[🤡]]></title>
-            <description><![CDATA[🤡<br><img src="https://cdnv2.ruguoapp.com/FogBgNDcEtbkEpUSdHucw_FCOWddv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[<span>用户昵称：木子维Levi <br> Username：3BFA725C-0BF8-4FAC-8C28-8F3CDCE593D0</span><br><br>🤡<br><img src="https://cdnv2.ruguoapp.com/FogBgNDcEtbkEpUSdHucw_FCOWddv3.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Fri, 20 Jan 2023 14:21:47 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/63caa37b83734a967f425e89</guid>
             <link>https://m.okjike.com/originalPosts/63caa37b83734a967f425e89</link>
@@ -74,7 +74,7 @@
         
         <item>
             <title><![CDATA[第一版的mock-data发布了。 基础属性、复杂对象、数组、枚举、List、Map、循环引用等等都是没问题的，数据构建控制、属性过滤、独立配置也都有，更多功能可以去g...]]></title>
-            <description><![CDATA[<img src="https://opengraph.githubassets.com/fe5dd6f479f5a4fa1b72026557ff090f4a0c35d6935d9ea5bbb237ae95428744/Verlif/mock-data" referrerpolicy="no-referrer"><br>                    <a href="https://github.com/Verlif/mock-data">GitHub - Verlif/mock-data: 非常简单但又高度自定义的数据生成工具</a><br>                <br>第一版的mock-data发布了。<br>基础属性、复杂对象、数组、枚举、List、Map、循环引用等等都是没问题的，数据构建控制、属性过滤、独立配置也都有，更多功能可以去github看。<br>我也对比了诸如easy-random-core、jmockdata这些同类型的工具，基础功能都大差不差，但是mock-data的自定义性更高。而且我也提供了lambda方式的对特定属性绑定特定构建器的功能，避免了string方式的同名混淆。<br>有任何问题都可以在这里评论或是在github提issue，我都会回复的。]]></description>
+            <description><![CDATA[<span>用户昵称：Verlif <br> Username：38d48aa5-482a-4f7e-8ef7-78dac411ea8e</span><br><br>                    <img src="https://opengraph.githubassets.com/fe5dd6f479f5a4fa1b72026557ff090f4a0c35d6935d9ea5bbb237ae95428744/Verlif/mock-data" referrerpolicy="no-referrer"><br>                    <a href="https://github.com/Verlif/mock-data">GitHub - Verlif/mock-data: 非常简单但又高度自定义的数据生成工具</a><br>                <br>第一版的mock-data发布了。<br>基础属性、复杂对象、数组、枚举、List、Map、循环引用等等都是没问题的，数据构建控制、属性过滤、独立配置也都有，更多功能可以去github看。<br>我也对比了诸如easy-random-core、jmockdata这些同类型的工具，基础功能都大差不差，但是mock-data的自定义性更高。而且我也提供了lambda方式的对特定属性绑定特定构建器的功能，避免了string方式的同名混淆。<br>有任何问题都可以在这里评论或是在github提issue，我都会回复的。]]></description>
             <pubDate>Fri, 20 Jan 2023 14:01:12 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/63ca9ea883734a967f41cb9f</guid>
             <link>https://m.okjike.com/originalPosts/63ca9ea883734a967f41cb9f</link>
@@ -90,7 +90,7 @@
         
         <item>
             <title><![CDATA[最近看了不少新的东西，好巧不巧他们都是基于微信公众号的生态的。 核心都是利用微信公众号的客服消息来提供信息的处理。用户把文字、链接传送给自动客服，后端...]]></title>
-            <description><![CDATA[最近看了不少新的东西，好巧不巧他们都是基于微信公众号的生态的。<br><br>核心都是利用微信公众号的客服消息来提供信息的处理。用户把文字、链接传送给自动客服，后端解析这些请求后进行处理，把结果传递给用户。目前观察到的产品形态有电子书下载类，电子产品设备查询类，聚合返利类，笔记类稍后读类（flomo flowus wolai cubox 印象笔记）等等。<br><br>公众号客服开发的优势很明显，第一是技术门槛低。普通程序员只要掌握一项后端或前端技术，结合一些开发资料，就可以轻松实现。<br><br>第二是可以顺带做自己的私域。程序员既可以用公众号做服务，又可以持续深耕做内容，一举两得。就算暂时没有盈利模式，也可以积累一部分垂直领域的粉丝，变现难度应该也不会太大。<br><br>拿下图中 Zlibrary Search 这个公众号服务来说，据博主自己所说是用官方开放 API 实现。就是这么一个简单的工具，保守估计粉丝应该5W+。虽然类似电子书服务的崛起有 Zlibrary 被封的爆点因素在，但是仍然是一个很好的学习范例。<br><br>下面的截图分别是我看到产品形态的一些截图，有的商业模式已经跑通，打通支付直接收费，有的虽然目前仍然免费服务，但是已经把一大波粉丝聚集起来，未来仍然有很大盈利空间。<br><img src="https://cdnv2.ruguoapp.com/FmTfVmJ0ZSq3L8qNFKnlDmcVjF30v3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fq2wV2jBcNDAMlzv2e9tmjiFpOSTv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FlyiF-2qRijXYZ7E2y1aL5YksiA1v3.jpg" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[<span>用户昵称：DeckardCain <br> Username：6319930F-A28D-4C2E-A62A-B6E5A005381F</span><br><br>最近看了不少新的东西，好巧不巧他们都是基于微信公众号的生态的。<br><br>核心都是利用微信公众号的客服消息来提供信息的处理。用户把文字、链接传送给自动客服，后端解析这些请求后进行处理，把结果传递给用户。目前观察到的产品形态有电子书下载类，电子产品设备查询类，聚合返利类，笔记类稍后读类（flomo flowus wolai cubox 印象笔记）等等。<br><br>公众号客服开发的优势很明显，第一是技术门槛低。普通程序员只要掌握一项后端或前端技术，结合一些开发资料，就可以轻松实现。<br><br>第二是可以顺带做自己的私域。程序员既可以用公众号做服务，又可以持续深耕做内容，一举两得。就算暂时没有盈利模式，也可以积累一部分垂直领域的粉丝，变现难度应该也不会太大。<br><br>拿下图中 Zlibrary Search 这个公众号服务来说，据博主自己所说是用官方开放 API 实现。就是这么一个简单的工具，保守估计粉丝应该5W+。虽然类似电子书服务的崛起有 Zlibrary 被封的爆点因素在，但是仍然是一个很好的学习范例。<br><br>下面的截图分别是我看到产品形态的一些截图，有的商业模式已经跑通，打通支付直接收费，有的虽然目前仍然免费服务，但是已经把一大波粉丝聚集起来，未来仍然有很大盈利空间。<br><img src="https://cdnv2.ruguoapp.com/FmTfVmJ0ZSq3L8qNFKnlDmcVjF30v3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fq2wV2jBcNDAMlzv2e9tmjiFpOSTv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FlyiF-2qRijXYZ7E2y1aL5YksiA1v3.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Thu, 19 Jan 2023 14:01:46 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/63c94d4a43f939b952d302de</guid>
             <link>https://m.okjike.com/originalPosts/63c94d4a43f939b952d302de</link>
@@ -106,7 +106,7 @@
         
         <item>
             <title><![CDATA[GitHub 免费开源项目推荐！ 超五星推荐相当厉害。 一键去除视频马赛克， 让模糊不清的视频瞬间高清化。 修复老旧照片，照片去除马赛克。 今天给大家分享这个被打...]]></title>
-            <description><![CDATA[GitHub 免费开源项目推荐！<br>超五星推荐相当厉害。<br>一键去除视频马赛克，<br>让模糊不清的视频瞬间高清化。<br>修复老旧照片，照片去除马赛克。<br>今天给大家分享这个被打包好的桌面GUI版的 CodeFormer软件，一键打开即可使用，非常方便。<br>启动程序.Bat运行后黑色终端不能关闭。<br>桌面GUI版：https://share.weiyun.com/dVZZ0dWD<br><img src="https://cdnv2.ruguoapp.com/FjRT90gq5xumcvCWcvXEFilfahg_v3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FnoXFuCPNxJ7pJy11u03aegSTlrHv3.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[<span>用户昵称：iEasyseek <br> Username：58E3B486-053E-4263-A8F2-43A42E0D2247</span><br><br>GitHub 免费开源项目推荐！<br>超五星推荐相当厉害。<br>一键去除视频马赛克，<br>让模糊不清的视频瞬间高清化。<br>修复老旧照片，照片去除马赛克。<br>今天给大家分享这个被打包好的桌面GUI版的 CodeFormer软件，一键打开即可使用，非常方便。<br>启动程序.Bat运行后黑色终端不能关闭。<br>桌面GUI版：https://share.weiyun.com/dVZZ0dWD<br><img src="https://cdnv2.ruguoapp.com/FjRT90gq5xumcvCWcvXEFilfahg_v3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FnoXFuCPNxJ7pJy11u03aegSTlrHv3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Tue, 17 Jan 2023 15:12:15 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/63c6bacf1a593f4099cd4c7c</guid>
             <link>https://m.okjike.com/originalPosts/63c6bacf1a593f4099cd4c7c</link>
@@ -122,7 +122,7 @@
         
         <item>
             <title><![CDATA[https://rxresu.me 推荐个开源的简历制作工具网站，年后准备找工作的伙伴可以去试试。完全免费，不限制创建数量和功能，也可以把简历导出为 JSON 备份。产品做的...]]></title>
-            <description><![CDATA[https://rxresu.me<br><br>推荐个开源的简历制作工具网站，年后准备找工作的伙伴可以去试试。完全免费，不限制创建数量和功能，也可以把简历导出为 JSON 备份。产品做的非常干净好看，比很多付费的还好用，编辑界面也很方便。<br><img src="https://cdnv2.ruguoapp.com/Ft0D9uHO43igU71408BaAtssovjrv3.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[<span>用户昵称：这就是编程 <br> Username：E942EEDD-95F7-4FCC-9546-F4B2A8F6860F</span><br><br>https://rxresu.me<br><br>推荐个开源的简历制作工具网站，年后准备找工作的伙伴可以去试试。完全免费，不限制创建数量和功能，也可以把简历导出为 JSON 备份。产品做的非常干净好看，比很多付费的还好用，编辑界面也很方便。<br><img src="https://cdnv2.ruguoapp.com/Ft0D9uHO43igU71408BaAtssovjrv3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Tue, 17 Jan 2023 04:47:43 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/63c6286f01c31a717cb54d61</guid>
             <link>https://m.okjike.com/originalPosts/63c6286f01c31a717cb54d61</link>
@@ -138,7 +138,7 @@
         
         <item>
             <title><![CDATA[年后再说]]></title>
-            <description><![CDATA[年后再说<br><img src="https://cdnv2.ruguoapp.com/FqtdnUZI3gxqNMM82tDZJIEN1xBdv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[<span>用户昵称：CN_XiaoHei <br> Username：4f4004fa-03f1-4acd-84b8-fdf399b36e47</span><br><br>年后再说<br><img src="https://cdnv2.ruguoapp.com/FqtdnUZI3gxqNMM82tDZJIEN1xBdv3.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Tue, 10 Jan 2023 12:01:23 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/63bd539383734a967ff23bec</guid>
             <link>https://m.okjike.com/originalPosts/63bd539383734a967ff23bec</link>
@@ -154,7 +154,7 @@
         
         <item>
             <title><![CDATA[我拿什么承载你——我的“第二大脑” Evernote OneNote 为知笔记 有道云笔记 Mybase CherryTree eDiary Zim Wiki WikidPad Joplin Zettlr Trilium Scrivener Wri...]]></title>
-            <description><![CDATA[我拿什么承载你——我的“第二大脑”<br><br>Evernote<br>OneNote<br>为知笔记<br>有道云笔记<br>Mybase<br>CherryTree<br>eDiary<br>Zim Wiki<br>WikidPad<br>Joplin<br>Zettlr<br>Trilium<br>Scrivener<br>Writeathon<br>Craft<br>Drafts<br>Bear<br>Tinderbox<br>TheBrain<br>Notion<br>Supernotes<br>Wolai<br>Flowus<br>思源笔记<br>飞书<br>语雀<br>Obsidian<br>Roam Research<br>Logseq<br>RemNote<br>Heptabase<br>Tana<br>TiddlyWiki<br>DokuWiki<br>Emacs+Org-mode/Org-roam<br>VSCode+denron/foam<br><br>只要做到四点：<br>1. 把握知识管理的本质<br>2. 学习几种知识管理的方法<br>3. 梳理自己的工作流<br>4. 建立分类结构<br><br>那么，以上这些软件<br>都可以当你的“第二大脑”。<br>这些大脑的构造不同，<br>每一款都有优点，每一款也都有缺点。<br>想做到完美很难，<br>全看你的具体需求是什么，<br>以及基于需求对软件的功能做取舍，<br>或者筛出2款或3款来组合。<br><br>软件的功能五花八门，<br>背后对应的是需求五花八门。<br>每个人的工作流不一样，<br>同一种工作流的具体动作也不一样，<br>就导致了需求的五花八门。<br><br>要想满足五花八门的需求，<br>最好是插件足够多，<br>可以让各人根据自己的需求，<br>像堆积木一样组合。<br>但是，组合也就意味着<br>要想组合出满足自己需求的配置，<br>就得折腾，这个过程比较烦人。<br>很多人一烦了就放弃了，<br>摘不到最后的果子。<br><br>在上面这些软件中，<br>插件众多、给你足够的自定义空间的，<br>最典型的有：<br>Obsidian、TiddlyWiki、DokuWiki、Emacs、VSCode<br>其次还有：<br>Roam、Notion、Logseq、Joplin、Zim Wiki<br><br>对于以上10款：<br><br>如果不想在线存储，那么去掉Roam和Notion；<br><br>如果不做程序开发，那么去掉Emacs和VSCode；<br><br>如果要在手机上编辑的，那么去掉Zim Wiki和DokuWiki。<br><br>最后剩下四款，这四款里，Obsidian完全可以替代掉Joplin，那么就剩下三款：Obsidian、Logseq、TiddlyWiki。<br><br>这三款都有一定的学习成本，用基本功能，都比较简单，而要想做出完全符合自己需求的配置，都需要折腾。<br><br>这三款里面，如果一定要大纲式笔记，就选Logseq，如果要大而全的，就选Obsidian，如果能耐住心去折腾的且笔记阅读体验更佳的，就选TiddlyWiki。]]></description>
+            <description><![CDATA[<span>用户昵称：朴禅郑仁 <br> Username：08105272-cb94-40bf-8df6-feaa50fa1be9</span><br><br>我拿什么承载你——我的“第二大脑”<br><br>Evernote<br>OneNote<br>为知笔记<br>有道云笔记<br>Mybase<br>CherryTree<br>eDiary<br>Zim Wiki<br>WikidPad<br>Joplin<br>Zettlr<br>Trilium<br>Scrivener<br>Writeathon<br>Craft<br>Drafts<br>Bear<br>Tinderbox<br>TheBrain<br>Notion<br>Supernotes<br>Wolai<br>Flowus<br>思源笔记<br>飞书<br>语雀<br>Obsidian<br>Roam Research<br>Logseq<br>RemNote<br>Heptabase<br>Tana<br>TiddlyWiki<br>DokuWiki<br>Emacs+Org-mode/Org-roam<br>VSCode+denron/foam<br><br>只要做到四点：<br>1. 把握知识管理的本质<br>2. 学习几种知识管理的方法<br>3. 梳理自己的工作流<br>4. 建立分类结构<br><br>那么，以上这些软件<br>都可以当你的“第二大脑”。<br>这些大脑的构造不同，<br>每一款都有优点，每一款也都有缺点。<br>想做到完美很难，<br>全看你的具体需求是什么，<br>以及基于需求对软件的功能做取舍，<br>或者筛出2款或3款来组合。<br><br>软件的功能五花八门，<br>背后对应的是需求五花八门。<br>每个人的工作流不一样，<br>同一种工作流的具体动作也不一样，<br>就导致了需求的五花八门。<br><br>要想满足五花八门的需求，<br>最好是插件足够多，<br>可以让各人根据自己的需求，<br>像堆积木一样组合。<br>但是，组合也就意味着<br>要想组合出满足自己需求的配置，<br>就得折腾，这个过程比较烦人。<br>很多人一烦了就放弃了，<br>摘不到最后的果子。<br><br>在上面这些软件中，<br>插件众多、给你足够的自定义空间的，<br>最典型的有：<br>Obsidian、TiddlyWiki、DokuWiki、Emacs、VSCode<br>其次还有：<br>Roam、Notion、Logseq、Joplin、Zim Wiki<br><br>对于以上10款：<br><br>如果不想在线存储，那么去掉Roam和Notion；<br><br>如果不做程序开发，那么去掉Emacs和VSCode；<br><br>如果要在手机上编辑的，那么去掉Zim Wiki和DokuWiki。<br><br>最后剩下四款，这四款里，Obsidian完全可以替代掉Joplin，那么就剩下三款：Obsidian、Logseq、TiddlyWiki。<br><br>这三款都有一定的学习成本，用基本功能，都比较简单，而要想做出完全符合自己需求的配置，都需要折腾。<br><br>这三款里面，如果一定要大纲式笔记，就选Logseq，如果要大而全的，就选Obsidian，如果能耐住心去折腾的且笔记阅读体验更佳的，就选TiddlyWiki。]]></description>
             <pubDate>Mon, 09 Jan 2023 17:10:30 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/63bc4a866925aefd1e1df536</guid>
             <link>https://m.okjike.com/originalPosts/63bc4a866925aefd1e1df536</link>
@@ -170,7 +170,7 @@
         
         <item>
             <title><![CDATA[逛 b 站发现了一些不靠流量真实分享的技术 UP 主，也发现了一些国内好的 CS课程： - 哈工大的计算机组成原理 - 南大的操作系统 - 浙大的陈越和王卓的数据结构和...]]></title>
-            <description><![CDATA[逛 b 站发现了一些不靠流量真实分享的技术 UP 主，也发现了一些国内好的 CS课程：<br><br>- 哈工大的计算机组成原理<br>- 南大的操作系统<br>- 浙大的陈越和王卓的数据结构和算法<br>- 浙大翁恺的程序设计和编程语言<br><br>以前都是写 blog 靠文字，现在似乎使用视频这种媒介更加适合时代了。（当然还是觉得文字效率高啦]]></description>
+            <description><![CDATA[<span>用户昵称：孙运先 <br> Username：DC46245B-5F49-4B61-A178-EA061B65E57D</span><br><br>逛 b 站发现了一些不靠流量真实分享的技术 UP 主，也发现了一些国内好的 CS课程：<br><br>- 哈工大的计算机组成原理<br>- 南大的操作系统<br>- 浙大的陈越和王卓的数据结构和算法<br>- 浙大翁恺的程序设计和编程语言<br><br>以前都是写 blog 靠文字，现在似乎使用视频这种媒介更加适合时代了。（当然还是觉得文字效率高啦]]></description>
             <pubDate>Sun, 08 Jan 2023 14:07:01 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/63bace05f38a3fb55fa492b0</guid>
             <link>https://m.okjike.com/originalPosts/63bace05f38a3fb55fa492b0</link>
