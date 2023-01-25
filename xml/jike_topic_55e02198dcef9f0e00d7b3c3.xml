@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 24 Jan 2023 20:10:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Jan 2023 00:36:11 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[即便是我这样不懂编程和工程技术的人，也觉得这个有点过分了…什么叫“1.0版本很简单，只有“三大功能””，什么叫“必须（代码）原创，将来要申请软著”，什么...]]></title>
+            <description><![CDATA[即便是我这样不懂编程和工程技术的人，也觉得这个有点过分了…什么叫“1.0版本很简单，只有“三大功能””，什么叫“必须（代码）原创，将来要申请软著”，什么叫“只有股份没有工资”…<br>总结一下我和软件工程师打交道的按提醒自己的注意事项吧<br>1）讨论需求时不说简单或不简单（产品层面的简单和技术层面的简单有时候恰好是相反的）<br>2）讨论需求时给出用例和场景（不需要复杂的文档，几张用户反馈截图和一个故事一样能说清）<br>3）理解“不重复造轮子”的原则，无论是流程逻辑还是界面，能复用是又高效又省事儿的，在需求验证了之后，如有必要才有必要去做进一步做体验和 UI层面的优化。<br>4）检查上线时候至少分两轮，第一轮只看跑的通跑不通（别一拿上手就开始对字号和对齐这些视觉问题，那不重要），第=轮才开始调整非功能性问题<br><br>要哄孩子了，先记着，回头再写哈哈哈<br><img src="https://cdnv2.ruguoapp.com/FnAX9WsNQ6u1PzMCDpryulnRkig2v3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 24 Jan 2023 12:03:24 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63cfc90c83734a967fc8972a</guid>
+            <link>https://m.okjike.com/originalPosts/63cfc90c83734a967fc8972a</link>
+            
+            
+            
+            <author><![CDATA[FeiTTT]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[和我爸2年多没见，过年回家了，开始几天没感觉。今天吃饭的时候，他说了一些话，看不起我现在的工作，然后我突然就清醒了：我已经大到明白，我是一个独立的人这...]]></title>
@@ -114,22 +130,6 @@
             
             
             <author><![CDATA[Verlif]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[GitHub 免费开源项目推荐！ 超五星推荐相当厉害。 一键去除视频马赛克， 让模糊不清的视频瞬间高清化。 修复老旧照片，照片去除马赛克。 今天给大家分享这个被打...]]></title>
-            <description><![CDATA[GitHub 免费开源项目推荐！<br>超五星推荐相当厉害。<br>一键去除视频马赛克，<br>让模糊不清的视频瞬间高清化。<br>修复老旧照片，照片去除马赛克。<br>今天给大家分享这个被打包好的桌面GUI版的 CodeFormer软件，一键打开即可使用，非常方便。<br>启动程序.Bat运行后黑色终端不能关闭。<br>桌面GUI版：https://share.weiyun.com/dVZZ0dWD<br><img src="https://cdnv2.ruguoapp.com/FjRT90gq5xumcvCWcvXEFilfahg_v3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FnoXFuCPNxJ7pJy11u03aegSTlrHv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 17 Jan 2023 15:12:15 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63c6bacf1a593f4099cd4c7c</guid>
-            <link>https://m.okjike.com/originalPosts/63c6bacf1a593f4099cd4c7c</link>
-            
-            
-            
-            <author><![CDATA[iEasyseek]]></author>
             
                 
             
