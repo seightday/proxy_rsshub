@@ -12,8 +12,8 @@ routes:
   path: appstore/gofans
 - title: 每日精品限免 / 促销应用（鲜面连线 by AppSo）
   path: appstore/xianmian
-- title: 深圳卫健委
-  path: weibo/user/2831150640/readable=1&authorNameBold=1&showAuthorInTitle=1&showAuthorInDesc=1&showAuthorAvatarInDesc=1&showEmojiForRetweet=1&showRetweetTextInTitle=0&addLinkForPics=1&showTimestampInDescription=1&showTimestampInDescription=1&heightOfPics=150
+- title: 深圳卫健委的微博
+  path: weibo/user/2831150640
 - title: 分享白菜达人的微博
   path: weibo/user/5609361977
 - title: 大白找白菜的微博
