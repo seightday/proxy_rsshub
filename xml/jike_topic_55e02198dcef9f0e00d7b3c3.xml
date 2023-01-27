@@ -21,8 +21,40 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Fri, 27 Jan 2023 15:30:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jan 2023 17:40:05 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[写了一个 Chrome / Edge 浏览器插件，一键开启编辑功能，当然也可以绕开某些网站对复制Ctrl + C的限制。https://github.com/gantrol/edit_or_copy_page 【整活】...]]></title>
+            <description><![CDATA[写了一个 Chrome / Edge 浏览器插件，一键开启编辑功能，当然也可以绕开某些网站对复制Ctrl + C的限制。https://github.com/gantrol/edit_or_copy_page  【整活】<br><br>防丢链接： github.com/gantrol/edit_or_copy_page<br><video src="https://videocdn.jellow.site/FvrxMLd7tR5x3TgwzWFGvLI3-tUD.mp4?sign=7213690c303f29bb975420aa5ebdef4c&amp;t=63d4112e" controls=""></video>]]></description>
+            <pubDate>Fri, 27 Jan 2023 12:05:47 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63d3be1b5f81380de35cbbe5</guid>
+            <link>https://m.okjike.com/originalPosts/63d3be1b5f81380de35cbbe5</link>
+            
+            
+            
+            <author><![CDATA[黄健楸]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[推荐浏览器插件，可跳过Paywalls，免费看Medium等网站限制内容 财有余力的朋友还是建议购买会员]]></title>
+            <description><![CDATA[<img src="https://opengraph.githubassets.com/a9b0c1cbee51d68bc272d3d81afbb5edf6c772a8e57b688b71600e8b7242254e/iamadamdev/bypass-paywalls-chrome" referrerpolicy="no-referrer"><br>                    <a href="https://github.com/iamadamdev/bypass-paywalls-chrome">GitHub - iamadamdev/bypass-paywalls-chrome: Bypass Paywalls web browser extension for Chrome and Firefox.</a><br>                <br>推荐浏览器插件，可跳过Paywalls，免费看Medium等网站限制内容<br>财有余力的朋友还是建议购买会员]]></description>
+            <pubDate>Fri, 27 Jan 2023 09:42:11 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63d39c73bbfde0ac41b427cb</guid>
+            <link>https://m.okjike.com/originalPosts/63d39c73bbfde0ac41b427cb</link>
+            
+            
+            
+            <author><![CDATA[Nothing_8]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[真的在代码里下毒…]]></title>
@@ -82,38 +114,6 @@
             
             
             <author><![CDATA[WingsoftheShire]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[今天同事传给我rar的一个压缩文件。 大家知道的，iPhone 自带的没法打开的，然后在网上搜了一圈，发现这个最好用。 如果大家有同样的情况，可以这样尝试一下，没...]]></title>
-            <description><![CDATA[<img src="https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/93/c5/b1/93c5b16f-f691-e0c8-1f9f-e8a913b75b80/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png" referrerpolicy="no-referrer"><br>                    <a href="https://apps.apple.com/cn/app/unzip-dzip-zip-rar-7z-extract/id1400133654?l=en">‎Unzip dzip zip rar 7z extract</a><br>                <br>今天同事传给我rar的一个压缩文件。<br><br>大家知道的，iPhone 自带的没法打开的，然后在网上搜了一圈，发现这个最好用。<br><br>如果大家有同样的情况，可以这样尝试一下，没有越狱的话，我觉得这个是完全够用的。<br><br>iPhone 解压文件，免费的，有广告]]></description>
-            <pubDate>Thu, 26 Jan 2023 01:43:48 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63d1dad46925aefd1e41775e</guid>
-            <link>https://m.okjike.com/originalPosts/63d1dad46925aefd1e41775e</link>
-            
-            
-            
-            <author><![CDATA[叉叉敌]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[即便是我这样不懂编程和工程技术的人，也觉得这个有点过分了…什么叫“1.0版本很简单，只有“三大功能””，什么叫“必须（代码）原创，将来要申请软著”，什么...]]></title>
-            <description><![CDATA[即便是我这样不懂编程和工程技术的人，也觉得这个有点过分了…什么叫“1.0版本很简单，只有“三大功能””，什么叫“必须（代码）原创，将来要申请软著”，什么叫“只有股份没有工资”…<br>总结一下我和软件工程师打交道的按提醒自己的注意事项吧<br>1）讨论需求时不说简单或不简单（产品层面的简单和技术层面的简单有时候恰好是相反的）<br>2）讨论需求时给出用例和场景（不需要复杂的文档，几张用户反馈截图和一个故事一样能说清）<br>3）理解“不重复造轮子”的原则，无论是流程逻辑还是界面，能复用是又高效又省事儿的，在需求验证了之后，如有必要才有必要去做进一步做体验和 UI层面的优化。<br>4）检查上线时候至少分两轮，第一轮只看跑的通跑不通（别一拿上手就开始对字号和对齐这些视觉问题，那不重要），第=轮才开始调整非功能性问题<br><br>要哄孩子了，先记着，回头再写哈哈哈<br><img src="https://cdnv2.ruguoapp.com/FnAX9WsNQ6u1PzMCDpryulnRkig2v3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 24 Jan 2023 12:03:24 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63cfc90c83734a967fc8972a</guid>
-            <link>https://m.okjike.com/originalPosts/63cfc90c83734a967fc8972a</link>
-            
-            
-            
-            <author><![CDATA[FeiTTT]]></author>
             
                 
             
