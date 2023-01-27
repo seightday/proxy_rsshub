@@ -14,7 +14,7 @@ https://github.com/wdssmq/proxy_rsshub
 
 ---start---
 
-2023-01-27 12:20:35
+2023-01-27 13:11:09
 
 title: 大师兄影视
 
@@ -27,6 +27,10 @@ path: [appstore/gofans](xml/appstore_gofans.xml "最新限免（GoFans）") 「[
 title: 每日精品限免 / 促销应用（鲜面连线 by AppSo）
 
 path: [appstore/xianmian](xml/appstore_xianmian.xml "每日精品限免 / 促销应用（鲜面连线 by AppSo）") 「[raw](xml/appstore_xianmian.xml?raw=true "每日精品限免 / 促销应用（鲜面连线 by AppSo）")」
+
+title: 深圳卫健委
+
+path: [weibo/user/2831150640/readable=1&authorNameBold=1&showAuthorInTitle=1&showAuthorInDesc=1&showAuthorAvatarInDesc=1&showEmojiForRetweet=1&showRetweetTextInTitle=0&addLinkForPics=1&showTimestampInDescription=1&showTimestampInDescription=1&heightOfPics=150](xml/weibo_user_2831150640_readable=1&authorNameBold=1&showAuthorInTitle=1&showAuthorInDesc=1&showAuthorAvatarInDesc=1&showEmojiForRetweet=1&showRetweetTextInTitle=0&addLinkForPics=1&showTimestampInDescription=1&showTimestampInDescription=1&heightOfPics=150.xml "深圳卫健委") 「[raw](xml/weibo_user_2831150640_readable=1&authorNameBold=1&showAuthorInTitle=1&showAuthorInDesc=1&showAuthorAvatarInDesc=1&showEmojiForRetweet=1&showRetweetTextInTitle=0&addLinkForPics=1&showTimestampInDescription=1&showTimestampInDescription=1&heightOfPics=150.xml?raw=true "深圳卫健委")」
 
 title: 分享白菜达人的微博
 
