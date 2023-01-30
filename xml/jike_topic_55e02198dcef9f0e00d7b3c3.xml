@@ -21,19 +21,19 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 30 Jan 2023 03:40:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jan 2023 05:45:02 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
-            <title><![CDATA[求你们不要再搭建zlib的网站啦！！ 我们只需要一个好的、基于海盗湾精神的网站，只要一个！ 因为我们得要上传新的书籍，否则我们永远只有这32TB的遗存]]></title>
-            <description><![CDATA[求你们不要再搭建zlib的网站啦！！<br>我们只需要一个好的、基于海盗湾精神的网站，只要一个！<br>因为我们得要上传新的书籍，否则我们永远只有这32TB的遗存]]></description>
-            <pubDate>Sun, 29 Jan 2023 03:05:02 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63d5e25e83734a967f64bbb6</guid>
-            <link>https://m.okjike.com/originalPosts/63d5e25e83734a967f64bbb6</link>
+            <title><![CDATA[Yandex 泄露的源代码让研究者获悉排名规则，总结出最重要的排名因素 Alex Buraks 根据泄露的源代码库深扒了 Yandex 搜索引擎的排名规则，戏称这对理解 GoogleSEO...]]></title>
+            <description><![CDATA[Yandex 泄露的源代码让研究者获悉排名规则，总结出最重要的排名因素<br><br>Alex Buraks 根据泄露的源代码库深扒了 Yandex 搜索引擎的排名规则，戏称这对理解 GoogleSEO (搜索引擎优化) 有很多有用的信息，毕竟 Yandex 和 Google 的搜索结果有70%的匹配度，不少人认为其搜索技术用的就是 Google 同款，如 PageRank、BERT 等。掌握了 Yandex 的规则就相当于参透了 Google 排名算法的家底。<br><br>Alex Buraks 列出了 Yandex 其中10个排名因素:<br>1.链接的创建时间<br>2.流量和有机流量的百分比<br>3.URL中的数字不利于排名<br>4.URL中的斜杠不利于排名<br>5.负面情绪过重的PageRank=0<br>6.主机可靠性<br>7."维基百科"单独列了一个因素<br>8.用户行为: 点击率，跳出率等<br>9.文件年龄与上次更新日期<br>10.所有查询域名的平均位置]]></description>
+            <pubDate>Sun, 29 Jan 2023 19:05:56 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63d6c394bbfde0ac410486f5</guid>
+            <link>https://m.okjike.com/originalPosts/63d6c394bbfde0ac410486f5</link>
             
             
             
-            <author><![CDATA[手腫治bug]]></author>
+            <author><![CDATA[哈士奇思维模拟器]]></author>
             
                 
             
@@ -90,7 +90,7 @@
         
         <item>
             <title><![CDATA[写了一个 Chrome / Edge 浏览器插件，一键开启编辑功能，当然也可以绕开某些网站对复制Ctrl + C的限制。https://github.com/gantrol/edit_or_copy_page 【整活】...]]></title>
-            <description><![CDATA[写了一个 Chrome / Edge 浏览器插件，一键开启编辑功能，当然也可以绕开某些网站对复制Ctrl + C的限制。https://github.com/gantrol/edit_or_copy_page  【整活】<br><br>编辑：现可在 chrome插件商城添加到浏览器：https://chrome.google.com/webstore/detail/<br><video src="https://videocdn.jellow.site/FvrxMLd7tR5x3TgwzWFGvLI3-tUD.mp4?sign=4e73f012c8a65bbbee0fa48a39fec911&amp;t=63d740cd" controls=""></video>]]></description>
+            <description><![CDATA[写了一个 Chrome / Edge 浏览器插件，一键开启编辑功能，当然也可以绕开某些网站对复制Ctrl + C的限制。https://github.com/gantrol/edit_or_copy_page  【整活】<br><br>编辑：现可在 chrome插件商城添加到浏览器：https://chrome.google.com/webstore/detail/<br><video src="https://videocdn.jellow.site/FvrxMLd7tR5x3TgwzWFGvLI3-tUD.mp4?sign=d89698d2f1cbe96b413550a0579471e1&amp;t=63d75f46" controls=""></video>]]></description>
             <pubDate>Fri, 27 Jan 2023 12:05:47 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/63d3be1b5f81380de35cbbe5</guid>
             <link>https://m.okjike.com/originalPosts/63d3be1b5f81380de35cbbe5</link>
