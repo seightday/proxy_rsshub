@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 30 Jan 2023 14:38:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jan 2023 18:51:03 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[notepad--，一款想要替换notepad++的文本编辑器，跨平台，支持linux、macOS和国产UOS，开源在gitee。]]></title>
+            <description><![CDATA[notepad--，一款想要替换notepad++的文本编辑器，跨平台，支持linux、macOS和国产UOS，开源在gitee。]]></description>
+            <pubDate>Mon, 30 Jan 2023 06:25:40 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63d762e402bc713efbaf27ba</guid>
+            <link>https://m.okjike.com/originalPosts/63d762e402bc713efbaf27ba</link>
+            
+            
+            
+            <author><![CDATA[certified_serum]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[无题]]></title>
@@ -74,7 +90,7 @@
         
         <item>
             <title><![CDATA[这几天刷到一个好玩的项目，就是通过 GPT-3 语言模型直接生产文章，完成百度文库的创作任务，过审后赚取收益。 目前来看一篇文章的平均收益在1.3元左右。每月5号...]]></title>
-            <description><![CDATA[这几天刷到一个好玩的项目，就是通过 GPT-3 语言模型直接生产文章，完成百度文库的创作任务，过审后赚取收益。<br><br>目前来看一篇文章的平均收益在1.3元左右。每月5号左右，你将在服务号收到上个月的分成收益（分成收益 = 售卖分成 + 会员分成 + 文库激励 +推广激励）。春节期间收益不高，我算了一下，五个号预估可能在2000左右。问了一下12月入场的人，有的人一个月弄了4000，可能那时候任务多吧。<br><br>假如手动来做，那肯定不算一个好项目，顶多算搬砖，这个项目的神奇之处在于目前有人已经弄了第一批商业化的脚本，通过贩卖淘金铲获利，月入5000-6000。一般门槛不高，且我看得懂的东西我都会去试试，所以我也购入尝试了一下。<br><br>原理很简单，通过 Web 自动化工具 selenium 操作浏览器，模拟用户领取创作任务，然后通过购入的 OpenAi Key 生成指定方向的内容。<br><br>很简单的逻辑，很朴实的技术，很直接的变现，很低的参与门槛，尚可的羊毛。但是我在使用下来，发现参与者仍然需要注意到很多细节。<br><br>1.百度文库在任务悬赏规则里说明，任务是每周一周四0点刷新。但是不同的号任务刷新时间不同，有的早又的晚，有的多有的少，不用过分担心。<br><br>2.GPT-3 擅长创作逻辑严谨的文章，数理化也可以，但是那些求音乐乐谱类的任务无法完成。<br><br>3.每个你购入的Open Ai 账号只有18美金的使用额度，你要时刻管理好自己的 Open Ai key，防止额度超出无法继续创作。同时要设置一些关键词过滤掉一些题目，比如求乐谱类，求答案类，对额度精打细算。<br><br>4.要确保 Open Ai Key 的数量大于你本身的数量，同一个 Open Ai Key 接口调用并发太高可能会有问题。<br><br>5.GPT3 比 ChatGPT 更加稳定，目前生产文章都是靠前者而不是网红 ChatGPT。<br><br>6.一个身份证最多创建五个百度文库账号，意味着假如你要提高收益，你需要亲朋好友的帮忙注册账号。<br><br>项目的风险点在于 openAi  和百度的风控，以及参与人数多了之后，接任务数量下降导致的收益滑坡。但是总的说来，还是一个看得懂玩的会，不用太多精力去弄的项目。<br><br>当然预期收益也不要太高，当作科技毛即可，这样你会很幸福。<br><br>（完）<br><img src="https://cdnv2.ruguoapp.com/FiL9HFTK7ktCZRZ9F8FV8pYt6eNov3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FgS_mk-yeMue8HiczYT8YYc3b7NLv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fv5SigDOnvRePGaBg_0T9qUTsewCv3.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[这几天刷到一个好玩的项目，就是通过 GPT-3 语言模型直接生产文章，完成百度文库的创作任务，过审后赚取收益。<br><br>目前来看一篇文章的平均收益在1.3元左右。每月5号左右，你将在服务号收到上个月的分成收益（分成收益 = 售卖分成 + 会员分成 + 文库激励 +推广激励）。春节期间收益不高，我算了一下，五个号预估可能在2000左右。问了一下12月入场的人，有的人一个月弄了4000，可能那时候任务多吧。<br><br>假如手动来做，那肯定不算一个好项目，顶多算搬砖，这个项目的神奇之处在于目前有人已经弄了第一批商业化的脚本，通过贩卖淘金铲获利，月入5000-6000。一般门槛不高，且我看得懂的东西我都会去试试，所以我也购入尝试了一下。<br><br>原理很简单，通过 Web 自动化工具 selenium 操作浏览器，模拟用户领取创作任务，然后通过购入的 OpenAi Key 生成指定方向的内容。<br><br>很简单的逻辑，很朴实的技术，很直接的变现，很低的参与门槛，尚可的羊毛。但是我在使用下来，发现参与者仍然需要注意到很多细节。<br><br>1.百度文库在任务悬赏规则里说明，任务是每周一周四0点刷新。但是不同的号任务刷新时间不同，有的早又的晚，有的多有的少，不用过分担心。<br><br>2.GPT-3 擅长创作逻辑严谨的文章，数理化也可以，但是那些求音乐乐谱类的任务无法完成。<br><br>3.每个你购入的Open Ai 账号只有18美金的使用额度，你要时刻管理好自己的 Open Ai key，防止额度超出无法继续创作。同时要设置一些关键词过滤掉一些题目，比如求乐谱类，求答案类，对额度精打细算。<br><br>4.要确保 Open Ai Key 的数量大于你本身的数量，同一个 Open Ai Key 接口调用并发太高可能会有问题。<br><br>5.GPT3 比 ChatGPT 更加稳定，目前生产文章都是靠前者而不是网红 ChatGPT。<br><br>6.一个身份证最多创建五个百度文库账号，意味着假如你要提高收益，你需要亲朋好友的帮忙注册账号。<br><br>项目的风险点在于 openAi  和百度的风控，以及参与人数多了之后，接任务数量下降导致的收益滑坡。但是总的说来，还是一个看得懂玩的会，不用太多精力去弄的项目。<br><br>当然预期收益也不要太高，当作科技毛即可，这样你会很幸福。<br><br>和农场收菜差不多。<br><br>（完）<br><img src="https://cdnv2.ruguoapp.com/FiL9HFTK7ktCZRZ9F8FV8pYt6eNov3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FgS_mk-yeMue8HiczYT8YYc3b7NLv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fv5SigDOnvRePGaBg_0T9qUTsewCv3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Sat, 28 Jan 2023 02:47:10 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/63d48cae6925aefd1e87db08</guid>
             <link>https://m.okjike.com/originalPosts/63d48cae6925aefd1e87db08</link>
@@ -82,22 +98,6 @@
             
             
             <author><![CDATA[DeckardCain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[写了一个 Chrome / Edge 浏览器插件，一键开启编辑功能，当然也可以绕开某些网站对复制Ctrl + C的限制。https://github.com/gantrol/edit_or_copy_page 【整活】...]]></title>
-            <description><![CDATA[写了一个 Chrome / Edge 浏览器插件，一键开启编辑功能，当然也可以绕开某些网站对复制Ctrl + C的限制。https://github.com/gantrol/edit_or_copy_page  【整活】<br><br>编辑：现可在 chrome插件商城添加到浏览器：https://chrome.google.com/webstore/detail/<br><video src="https://videocdn.jellow.site/FvrxMLd7tR5x3TgwzWFGvLI3-tUD.mp4?sign=fa17a249a569b579b94f3821d7e3e504&amp;t=63d7db7f" controls=""></video>]]></description>
-            <pubDate>Fri, 27 Jan 2023 12:05:47 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63d3be1b5f81380de35cbbe5</guid>
-            <link>https://m.okjike.com/originalPosts/63d3be1b5f81380de35cbbe5</link>
-            
-            
-            
-            <author><![CDATA[黄健楸]]></author>
             
                 
             
