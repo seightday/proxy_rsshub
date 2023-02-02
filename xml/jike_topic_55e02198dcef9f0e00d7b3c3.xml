@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 02 Feb 2023 04:21:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Feb 2023 08:22:16 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -66,6 +66,22 @@
             
             
             <author><![CDATA[Mustang_Liu]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[可算看到一个支持按段落翻译的浏览器插件了，不用买彩云小译了。就是这个许可证比较麻烦，AGPL。Paperback 没法直接用，不过细想原理没多复杂，可以考虑支持这个...]]></title>
+            <description><![CDATA[可算看到一个支持按段落翻译的浏览器插件了，不用买彩云小译了。就是这个许可证比较麻烦，AGPL。Paperback 没法直接用，不过细想原理没多复杂，可以考虑支持这个功能。<br><br>ps. 搞半天没开源，就留了个 dist。<br><br>https://github.com/immersive-translate/immersive-translate<br><img src="https://cdnv2.ruguoapp.com/FqulX_BBridkfPMpgPgPpOIXaTY-v3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 01 Feb 2023 02:50:44 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63d9d384d71a3609282b15db</guid>
+            <link>https://m.okjike.com/originalPosts/63d9d384d71a3609282b15db</link>
+            
+            
+            
+            <author><![CDATA[ourongxing]]></author>
             
                 
             
@@ -121,6 +137,22 @@
         </item>
         
         <item>
+            <title><![CDATA[写了一个 Chrome / Edge 浏览器插件，一键开启编辑功能，当然也可以绕开某些网站对复制Ctrl + C的限制。https://github.com/gantrol/edit_or_copy_page 【整活】...]]></title>
+            <description><![CDATA[写了一个 Chrome / Edge 浏览器插件，一键开启编辑功能，当然也可以绕开某些网站对复制Ctrl + C的限制。https://github.com/gantrol/edit_or_copy_page  【整活】<br><br>现可在 edge 插件商城添加：https://microsoftedge.microsoft.com/addons/detail/ehmfikmlcglfegkibkabbddipogboeib<br><br>也可在 chrome插件商城添加到浏览器：https://chrome.google.com/webstore/detail/<br><br>注：无法复制 canvas 渲染或干脆放图片的；推荐使用微信或 QQ 内置的截图，有 OCR 图片转文字功能<br><video src="https://videocdn.jellow.site/FvrxMLd7tR5x3TgwzWFGvLI3-tUD.mp4?sign=fe97e606164f8dec6416e4fdcf79a91f&amp;t=63db7948" controls=""></video>]]></description>
+            <pubDate>Fri, 27 Jan 2023 12:05:47 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63d3be1b5f81380de35cbbe5</guid>
+            <link>https://m.okjike.com/originalPosts/63d3be1b5f81380de35cbbe5</link>
+            
+            
+            
+            <author><![CDATA[黄健楸]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[虽然说是开玩笑的，但还是被恶心到了，谁TM在乎你的政治立场]]></title>
             <description><![CDATA[虽然说是开玩笑的，但还是被恶心到了，谁TM在乎你的政治立场<br><img src="https://cdnv2.ruguoapp.com/FusqOA0P6wHrh1uxsJYnV8JLxwsvv3.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Fri, 27 Jan 2023 04:54:11 GMT</pubDate>
@@ -146,38 +178,6 @@
             
             
             <author><![CDATA[夏尔之翼]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[哈哈哈哈哈]]></title>
-            <description><![CDATA[哈哈哈哈哈<br><img src="https://cdnv2.ruguoapp.com/FkRG7xDw9XgYq6aYWqsDn7LyS6zQv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 23 Jan 2023 11:36:43 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63ce714b1e37d9e8d3ee2ca0</guid>
-            <link>https://m.okjike.com/originalPosts/63ce714b1e37d9e8d3ee2ca0</link>
-            
-            
-            
-            <author><![CDATA[阿法兔]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[第一版的mock-data发布了。 基础属性、复杂对象、数组、枚举、List、Map、循环引用等等都是没问题的，数据构建控制、属性过滤、独立配置也都有，更多功能可以去g...]]></title>
-            <description><![CDATA[<img src="https://opengraph.githubassets.com/fe5dd6f479f5a4fa1b72026557ff090f4a0c35d6935d9ea5bbb237ae95428744/Verlif/mock-data" referrerpolicy="no-referrer"><br>                    <a href="https://github.com/Verlif/mock-data">GitHub - Verlif/mock-data: 非常简单但又高度自定义的数据生成工具</a><br>                <br>第一版的mock-data发布了。<br>基础属性、复杂对象、数组、枚举、List、Map、循环引用等等都是没问题的，数据构建控制、属性过滤、独立配置也都有，更多功能可以去github看。<br>我也对比了诸如easy-random-core、jmockdata这些同类型的工具，基础功能都大差不差，但是mock-data的自定义性更高。而且我也提供了lambda方式的对特定属性绑定特定构建器的功能，避免了string方式的同名混淆。<br>有任何问题都可以在这里评论或是在github提issue，我都会回复的。]]></description>
-            <pubDate>Fri, 20 Jan 2023 14:01:12 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63ca9ea883734a967f41cb9f</guid>
-            <link>https://m.okjike.com/originalPosts/63ca9ea883734a967f41cb9f</link>
-            
-            
-            
-            <author><![CDATA[Verlif]]></author>
             
                 
             
