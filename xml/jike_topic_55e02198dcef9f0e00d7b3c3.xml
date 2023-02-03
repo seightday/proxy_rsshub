@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[JitHub程序员 - 即刻圈子]]></title>
         <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
-        <atom:link href="https://rsshub/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub.app/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
         <description><![CDATA[开发者们分享，问答，也可以交友的地方。欢迎所有工程师！ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -21,12 +21,28 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Fri, 03 Feb 2023 04:21:15 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Fri, 03 Feb 2023 06:57:30 GMT</lastBuildDate>
+        <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[Warnings]]></title>
+            <description><![CDATA[Warnings<br><img src="https://cdnv2.ruguoapp.com/FhYl0a3xzZY-6BRdLCFmqRuXfIrBv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 03 Feb 2023 01:09:59 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63dc5ee7ae11601676044dfb</guid>
+            <link>https://m.okjike.com/originalPosts/63dc5ee7ae11601676044dfb</link>
+            
+            
+            
+            <author><![CDATA[阿法兔]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[想写一本书，关于Unity客户端通用架构设计的（之前看陆泽西的《Unity主程手记》，他对这一块描述不多）。 有几个问题想请教一下： 1. 作者名可以用“杰克有茶”...]]></title>
-            <description><![CDATA[<span>用户昵称：为啥盾盾可以改名我不可以 <br> Username：C027E21D-DFD6-4F88-AF40-31871E1FB6F4</span><br><br>想写一本书，关于Unity客户端通用架构设计的（之前看陆泽西的《Unity主程手记》，他对这一块描述不多）。<br><br>有几个问题想请教一下：<br>1. 作者名可以用“杰克有茶”吗？<br>2. 写得不好被骂如何处理？<br>3. 出版了没人买的话，一般怎么送人？送哪些人？]]></description>
+            <description><![CDATA[想写一本书，关于Unity客户端通用架构设计的（之前看陆泽西的《Unity主程手记》，他对这一块描述不多）。<br><br>有几个问题想请教一下：<br>1. 作者名可以用“杰克有茶”吗？<br>2. 写得不好被骂如何处理？<br>3. 出版了没人买的话，一般怎么送人？送哪些人？]]></description>
             <pubDate>Thu, 02 Feb 2023 08:11:48 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/63db70449a088f8a8ec4f792</guid>
             <link>https://m.okjike.com/originalPosts/63db70449a088f8a8ec4f792</link>
@@ -42,7 +58,7 @@
         
         <item>
             <title><![CDATA[请教：有人用类似Flutter 的方式做过 跨平台App吗？ 一套代码同时生成安卓和iOS效果如何？]]></title>
-            <description><![CDATA[<span>用户昵称：FeiTTT <br> Username：DB98BE7A-9DBB-4730-B6B9-2DC883B986B1</span><br><br>请教：有人用类似Flutter 的方式做过 跨平台App吗？ 一套代码同时生成安卓和iOS效果如何？]]></description>
+            <description><![CDATA[请教：有人用类似Flutter 的方式做过 跨平台App吗？ 一套代码同时生成安卓和iOS效果如何？]]></description>
             <pubDate>Wed, 01 Feb 2023 08:49:04 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/63da27801b66594da36a6a30</guid>
             <link>https://m.okjike.com/originalPosts/63da27801b66594da36a6a30</link>
@@ -58,7 +74,7 @@
         
         <item>
             <title><![CDATA[0元白嫖3600元个税免税额度，累计可以节约720元人民币！速度上车！ https://www.kdocs.cn/l/ccegpzRtKBEZ (教程) https://edu.aliyun.com/certification/cldc15 ...]]></title>
-            <description><![CDATA[<span>用户昵称：DeckardCain <br> Username：6319930F-A28D-4C2E-A62A-B6E5A005381F</span><br><br>0元白嫖3600元个税免税额度，累计可以节约720元人民币！速度上车！<br><br>https://www.kdocs.cn/l/ccegpzRtKBEZ (教程)<br>https://edu.aliyun.com/certification/cldc15 （直接考试上车）<br><br>可能凉了！看图二官方<br><br>也可能过！看审核心情！<br><img src="https://cdnv2.ruguoapp.com/FlZk08_wOtg0ACuwnXDYuyGMiBk6v3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FhPYcr7uim49wGelfFK5vmIPTMlbv3.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[0元白嫖3600元个税免税额度，累计可以节约720元人民币！速度上车！<br><br>https://www.kdocs.cn/l/ccegpzRtKBEZ (教程)<br>https://edu.aliyun.com/certification/cldc15 （直接考试上车）<br><br>可能凉了！看图二官方<br><br>也可能过！看审核心情！<br><img src="https://cdnv2.ruguoapp.com/FlZk08_wOtg0ACuwnXDYuyGMiBk6v3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FhPYcr7uim49wGelfFK5vmIPTMlbv3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Wed, 01 Feb 2023 06:54:56 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/63da0cc01b66594da367429f</guid>
             <link>https://m.okjike.com/originalPosts/63da0cc01b66594da367429f</link>
@@ -74,7 +90,7 @@
         
         <item>
             <title><![CDATA[可算看到一个支持按段落翻译的浏览器插件了，不用买彩云小译了。就是这个许可证比较麻烦，AGPL。Paperback 没法直接用，不过细想原理没多复杂，可以考虑支持这个...]]></title>
-            <description><![CDATA[<span>用户昵称：ourongxing <br> Username：7f422d5d-d79a-4f45-9880-b89d64d7f37a</span><br><br>可算看到一个支持按段落翻译的浏览器插件了，不用买彩云小译了。就是这个许可证比较麻烦，AGPL。Paperback 没法直接用，不过细想原理没多复杂，可以考虑支持这个功能。<br><br>ps. 搞半天没开源，就留了个 dist。<br><br>https://github.com/immersive-translate/immersive-translate<br><img src="https://cdnv2.ruguoapp.com/FqulX_BBridkfPMpgPgPpOIXaTY-v3.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[可算看到一个支持按段落翻译的浏览器插件了，不用买彩云小译了。就是这个许可证比较麻烦，AGPL。Paperback 没法直接用，不过细想原理没多复杂，可以考虑支持这个功能。<br><br>ps. 搞半天没开源，就留了个 dist。<br><br>https://github.com/immersive-translate/immersive-translate<br><img src="https://cdnv2.ruguoapp.com/FqulX_BBridkfPMpgPgPpOIXaTY-v3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Wed, 01 Feb 2023 02:50:44 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/63d9d384d71a3609282b15db</guid>
             <link>https://m.okjike.com/originalPosts/63d9d384d71a3609282b15db</link>
@@ -89,24 +105,8 @@
         </item>
         
         <item>
-            <title><![CDATA[体验完一堆 gpt 插件，还是这款“内容引擎”好用些。 1. 必应搜索引擎加上 GPT 模型，将搜索结果的头几条整合成段，并加上引用。 2. 免费、不用跟各种限制斗智斗...]]></title>
-            <description><![CDATA[<span>用户昵称：黄健楸 <br> Username：EA8FE109-3ACB-4641-98C8-B7D61EDD8637</span><br><br>                    <img src="https://cdnv2.ruguoapp.com/icons/link.png" referrerpolicy="no-referrer"><br>                    <a href="https://www.perplexity.ai/">Perplexity AI</a><br>                <br>体验完一堆 gpt 插件，还是这款“内容引擎”好用些。<br><br>1. 必应搜索引擎加上 GPT 模型，将搜索结果的头几条整合成段，并加上引用。<br>2. 免费、不用跟各种限制斗智斗勇<br>3. 追问。以前搜索高手的一项技能就是“二次搜索”，这款产品为“二次搜索”设计了对应的追问功能，让人在一个标签页干 n 个标签页干的事情<br><br>另外，它还有蓝鸟的搜索，个人挺期待国内出个小红书的搜索]]></description>
-            <pubDate>Tue, 31 Jan 2023 12:53:45 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63d90f59e7032c47463d085b</guid>
-            <link>https://m.okjike.com/originalPosts/63d90f59e7032c47463d085b</link>
-            
-            
-            
-            <author><![CDATA[黄健楸]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA["前几天，和某宝的一位技术总监聊天，又提到了35岁这个问题。他的团队现在招人，原则上不招大龄程序员，我问他原因，他回答说："事多，精力差，不能加班。一句话...]]></title>
-            <description><![CDATA[<span>用户昵称：InfoBoy <br> Username：6BE1AC20-79F4-4C00-838C-ECB21121BE6B</span><br><br>                    <img src="https://tvax2.sinaimg.cn/crop.0.0.1080.1080.180/40345c10ly8h8kaa3ufgxj20u00u03zw.jpg?KID=imgbed,tva&amp;Expires=1675147776&amp;ssig=%2BS69uAirmQ" referrerpolicy="no-referrer"><br>                    <a href="https://m.weibo.cn/detail/4863933868147209">互联网分析师于斌: 前几天，和某宝的一位技术总监聊天，又提到了35岁这个问题。他的团队现在招人，原则上不招大龄程序员，我问他原因，他回答说："事多，精力差，不能加班。一句话，性价比太低。""要说性价比，那很好解决呀，人年龄大了，虽然不愿意加班，但也能接受少挣点，也不和年轻人竞争职位，那性价比不就上来了？"我反问道。"那也不行，他们这么做会把团队的士气带坏，把年轻人的干劲拉下来。""无所谓了，如果年轻人也不愿加班，说明人家在乎生活和工作的平衡，在季度考核的时候，你给打人 C ，奖金少发点不就行了。""那也不行，如果我的团队不加班，但别的团队加班。那么，无论是工作时长，还是工作态度，还是最终产出，我的团队就会被比下去。这样搞几次，说不定我就该滚蛋了！"听你的意思，加班是必须的，但因为老程序员不能加班，所以你也就不愿招他们了？""没错，就这个理！“不过话说回来，本质上他们团队做的工作没啥技术含量，小年轻都能做。</a><br>                <br>"前几天，和某宝的一位技术总监聊天，又提到了35岁这个问题。他的团队现在招人，原则上不招大龄程序员，我问他原因，他回答说："事多，精力差，不能加班。一句话，性价比太低。"<br><br>"要说性价比，那很好解决呀，人年龄大了，虽然不愿意加班，但也能接受少挣点，也不和年轻人竞争职位，那性价比不就上来了？"我反问道。<br><br>"那也不行，他们这么做会把团队的士气带坏，把年轻人的干劲拉下来。"<br><br>"无所谓了，如果年轻人也不愿加班，说明人家在乎生活和工作的平衡，在季度考核的时候，你给打人 C ，奖金少发点不就行了。"<br><br>"那也不行，如果我的团队不加班，但别的团队加班。那么，无论是工作时长，还是工作态度，还是最终产出，我的团队就会被比下去。这样搞几次，说不定我就该滚蛋了！"<br><br>"听你的意思，加班是必须的，但因为老程序员不能加班，所以你也就不愿招他们了？"<br><br>"没错，就这个理！“不过话说回来，本质上他们团队做的工作没啥技术含量，小年轻都能做。"]]></description>
+            <description><![CDATA[<img src="https://tvax2.sinaimg.cn/crop.0.0.1080.1080.180/40345c10ly8h8kaa3ufgxj20u00u03zw.jpg?KID=imgbed,tva&amp;Expires=1675147776&amp;ssig=%2BS69uAirmQ" referrerpolicy="no-referrer"><br>                    <a href="https://m.weibo.cn/detail/4863933868147209">互联网分析师于斌: 前几天，和某宝的一位技术总监聊天，又提到了35岁这个问题。他的团队现在招人，原则上不招大龄程序员，我问他原因，他回答说："事多，精力差，不能加班。一句话，性价比太低。""要说性价比，那很好解决呀，人年龄大了，虽然不愿意加班，但也能接受少挣点，也不和年轻人竞争职位，那性价比不就上来了？"我反问道。"那也不行，他们这么做会把团队的士气带坏，把年轻人的干劲拉下来。""无所谓了，如果年轻人也不愿加班，说明人家在乎生活和工作的平衡，在季度考核的时候，你给打人 C ，奖金少发点不就行了。""那也不行，如果我的团队不加班，但别的团队加班。那么，无论是工作时长，还是工作态度，还是最终产出，我的团队就会被比下去。这样搞几次，说不定我就该滚蛋了！"听你的意思，加班是必须的，但因为老程序员不能加班，所以你也就不愿招他们了？""没错，就这个理！“不过话说回来，本质上他们团队做的工作没啥技术含量，小年轻都能做。</a><br>                <br>"前几天，和某宝的一位技术总监聊天，又提到了35岁这个问题。他的团队现在招人，原则上不招大龄程序员，我问他原因，他回答说："事多，精力差，不能加班。一句话，性价比太低。"<br><br>"要说性价比，那很好解决呀，人年龄大了，虽然不愿意加班，但也能接受少挣点，也不和年轻人竞争职位，那性价比不就上来了？"我反问道。<br><br>"那也不行，他们这么做会把团队的士气带坏，把年轻人的干劲拉下来。"<br><br>"无所谓了，如果年轻人也不愿加班，说明人家在乎生活和工作的平衡，在季度考核的时候，你给打人 C ，奖金少发点不就行了。"<br><br>"那也不行，如果我的团队不加班，但别的团队加班。那么，无论是工作时长，还是工作态度，还是最终产出，我的团队就会被比下去。这样搞几次，说不定我就该滚蛋了！"<br><br>"听你的意思，加班是必须的，但因为老程序员不能加班，所以你也就不愿招他们了？"<br><br>"没错，就这个理！“不过话说回来，本质上他们团队做的工作没啥技术含量，小年轻都能做。"]]></description>
             <pubDate>Tue, 31 Jan 2023 03:49:40 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/63d88fd400c06e8d29ea9c88</guid>
             <link>https://m.okjike.com/originalPosts/63d88fd400c06e8d29ea9c88</link>
@@ -122,7 +122,7 @@
         
         <item>
             <title><![CDATA[无题]]></title>
-            <description><![CDATA[<span>用户昵称：阿法兔 <br> Username：9CCE6435-0766-487E-BF96-8B3953A343DE</span><br><br><br><img src="https://cdnv2.ruguoapp.com/FsD1sP5ZTF_T1-TMDj39dS_Fo5IYv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[<br><img src="https://cdnv2.ruguoapp.com/FsD1sP5ZTF_T1-TMDj39dS_Fo5IYv3.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Mon, 30 Jan 2023 16:14:58 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/63d7ed028dc9a5979b065459</guid>
             <link>https://m.okjike.com/originalPosts/63d7ed028dc9a5979b065459</link>
@@ -138,7 +138,7 @@
         
         <item>
             <title><![CDATA[写了一个 Chrome / Edge 浏览器插件，一键开启编辑功能，当然也可以绕开某些网站对复制Ctrl + C的限制。https://github.com/gantrol/edit_or_copy_page 【整活】...]]></title>
-            <description><![CDATA[<span>用户昵称：黄健楸 <br> Username：EA8FE109-3ACB-4641-98C8-B7D61EDD8637</span><br><br>写了一个 Chrome / Edge 浏览器插件，一键开启编辑功能，当然也可以绕开某些网站对复制Ctrl + C的限制。https://github.com/gantrol/edit_or_copy_page  【整活】<br><br>现可在 edge 插件商城添加：https://microsoftedge.microsoft.com/addons/detail/ehmfikmlcglfegkibkabbddipogboeib<br><br>也可在 chrome插件商城添加到浏览器：https://chrome.google.com/webstore/detail/<br><br>注：无法复制 canvas 渲染或干脆放图片的；推荐使用微信或 QQ 内置的截图，有 OCR 图片转文字功能<br><video src="https://videocdn.jellow.site/FvrxMLd7tR5x3TgwzWFGvLI3-tUD.mp4?sign=b18f601fa4a0ee3d567b38b52e9aa072&amp;t=63dc91a0" controls=""></video>]]></description>
+            <description><![CDATA[写了一个 Chrome / Edge 浏览器插件，一键开启编辑功能，当然也可以绕开某些网站对复制Ctrl + C的限制。https://github.com/gantrol/edit_or_copy_page  【整活】<br><br>现可在 edge 插件商城添加：https://microsoftedge.microsoft.com/addons/detail/ehmfikmlcglfegkibkabbddipogboeib<br><br>也可在 chrome插件商城添加到浏览器：https://chrome.google.com/webstore/detail/<br><br>注：无法复制 canvas 渲染或干脆放图片的；推荐使用微信或 QQ 内置的截图，有 OCR 图片转文字功能<br><video src="https://videocdn.jellow.site/FvrxMLd7tR5x3TgwzWFGvLI3-tUD.mp4?sign=269649d9a4817b1360b4f7a75d331a09&amp;t=63dcb762" controls=""></video>]]></description>
             <pubDate>Fri, 27 Jan 2023 12:05:47 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/63d3be1b5f81380de35cbbe5</guid>
             <link>https://m.okjike.com/originalPosts/63d3be1b5f81380de35cbbe5</link>
@@ -154,7 +154,7 @@
         
         <item>
             <title><![CDATA[虽然说是开玩笑的，但还是被恶心到了，谁TM在乎你的政治立场]]></title>
-            <description><![CDATA[<span>用户昵称：Rennen <br> Username：ed59e1d5-6359-4c15-822f-20ec20aeb78a</span><br><br>虽然说是开玩笑的，但还是被恶心到了，谁TM在乎你的政治立场<br><img src="https://cdnv2.ruguoapp.com/FusqOA0P6wHrh1uxsJYnV8JLxwsvv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[虽然说是开玩笑的，但还是被恶心到了，谁TM在乎你的政治立场<br><img src="https://cdnv2.ruguoapp.com/FusqOA0P6wHrh1uxsJYnV8JLxwsvv3.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Fri, 27 Jan 2023 04:54:11 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/63d358f3b05829a8ee82cd02</guid>
             <link>https://m.okjike.com/originalPosts/63d358f3b05829a8ee82cd02</link>
@@ -170,7 +170,7 @@
         
         <item>
             <title><![CDATA[想给我的程序员朋友们也办一个bug展～ 毕竟，bug才是编程者的宿命，谁没有關於精妙绝伦的、狡猾的、聪明反被聪明误、学艺不精的bug代码故事呢！ 「殊途同归.虫逢...]]></title>
-            <description><![CDATA[<span>用户昵称：夏尔之翼 <br> Username：C240D608-0BB0-49D9-A240-580A27ED30F6</span><br><br>想给我的程序员朋友们也办一个bug展～<br>毕竟，bug才是编程者的宿命，谁没有關於精妙绝伦的、狡猾的、聪明反被聪明误、学艺不精的bug代码故事呢！<br><br>「殊途同归.虫逢的艺术」<br><br>嗯，等我回归软件行业，立马办。<br><img src="https://cdnv2.ruguoapp.com/Flbjyqx1tsLo4dHLaBx2XMvfptZAv3.heic" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[想给我的程序员朋友们也办一个bug展～<br>毕竟，bug才是编程者的宿命，谁没有關於精妙绝伦的、狡猾的、聪明反被聪明误、学艺不精的bug代码故事呢！<br><br>「殊途同归.虫逢的艺术」<br><br>嗯，等我回归软件行业，立马办。<br><img src="https://cdnv2.ruguoapp.com/Flbjyqx1tsLo4dHLaBx2XMvfptZAv3.heic" referrerpolicy="no-referrer">]]></description>
             <pubDate>Thu, 26 Jan 2023 11:33:05 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/63d264f11e37d9e8d356a6a2</guid>
             <link>https://m.okjike.com/originalPosts/63d264f11e37d9e8d356a6a2</link>
