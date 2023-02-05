@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sun, 05 Feb 2023 06:24:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Feb 2023 12:31:04 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[开源的程序就可以抄袭吗？ #你问我答]]></title>
+            <description><![CDATA[开源的程序就可以抄袭吗？<br><br>#你问我答]]></description>
+            <pubDate>Sat, 04 Feb 2023 14:35:48 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63de6d449cc3de31f932a274</guid>
+            <link>https://m.okjike.com/originalPosts/63de6d449cc3de31f932a274</link>
+            
+            
+            
+            <author><![CDATA[镜岛]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[花钱找人！找好的安卓合作… 1）可远程，可躺家里工作，不用来办公室(在长沙)，但若愿周末来长沙喝茶颜打麻将（顺便对齐交流一下项目），我出高铁票/酒店/请喝咖...]]></title>
@@ -66,22 +82,6 @@
             
             
             <author><![CDATA[DeckardCain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[最近在思考一件事情，如果要快速在一个领域 从一无所知到入门。如何在互联网中大量的资料中 找到对自己有利的信息。 比如买房应该注意什么 ，新房装修有哪些坑，...]]></title>
-            <description><![CDATA[最近在思考一件事情，如果要快速在一个领域 从一无所知到入门。如何在互联网中大量的资料中 找到对自己有利的信息。<br><br>比如买房应该注意什么 ，新房装修有哪些坑，考研怎么准备，读博怎么规划 ，xx面试如何准备，如何成为一个产品经理 等等一系列问题。 上述问题 都是需要 去看很多帖子别人的分享 自己再加以总结吸收才能大概知道怎么规划 以及经验教训。<br><br>但是这里存在一个问题。看很多帖子 你需要单独点开，看完退出 ，如果有几句话你觉得很重要你可能还要记下笔记 复制粘贴到别的笔记软件里，然后 再点另一个新帖子 继续重复上述动作。这样效率太低而且频繁中断，最后脑袋里可能早已一团浆糊。<br><br>我觉得可以这么来做 以小红书为例（我现在基本把小红书当做搜索引擎） 可以用技术采集 某个关键字 下面的一千条帖子，按照点赞量或者收藏量排序 将笔记正文文字全部聚合，所有图片也可以ocr成文字 ，最后形成一个大的文本资料库。 我一般习惯 导出为pdf，然后用marginnote标注/高亮，最后所有高亮的笔记也可以统一聚合在一起。这些就是你通过快速阅读大量帖子 最后对你有利的信息/笔记。日后还可以多回顾/补充。<br><br>而且扩展开来，能做的事情还有很多。 比如 想要小红书吸粉的人 可以研究 关于某个话题 下的爆款文案都有什么共同点，以及 点赞量/收藏高的帖子 都包含什么，有什么优点可以吸取 ，给自己提供借鉴参考。<br><br>甚至于 如果采集了大量的帖子以及评论 可以运用技术来分析 大家最常问/最关心的 是什么。然后自己如果有对应的产品或者卖点，还能精准营销。]]></description>
-            <pubDate>Fri, 03 Feb 2023 05:27:54 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63dc9b5a00c06e8d2952ff20</guid>
-            <link>https://m.okjike.com/originalPosts/63dc9b5a00c06e8d2952ff20</link>
-            
-            
-            
-            <author><![CDATA[李离你]]></author>
             
                 
             
@@ -138,7 +138,7 @@
         
         <item>
             <title><![CDATA[写了一个 Chrome / Edge 浏览器插件，一键开启编辑功能，当然也可以绕开某些网站对复制Ctrl + C的限制。https://github.com/gantrol/edit_or_copy_page 【整活】...]]></title>
-            <description><![CDATA[写了一个 Chrome / Edge 浏览器插件，一键开启编辑功能，当然也可以绕开某些网站对复制Ctrl + C的限制。https://github.com/gantrol/edit_or_copy_page  【整活】<br><br>现可在 edge 插件商城添加：https://microsoftedge.microsoft.com/addons/detail/ehmfikmlcglfegkibkabbddipogboeib<br><br>也可在 chrome插件商城添加到浏览器：https://chrome.google.com/webstore/detail/<br><br>注：无法复制 canvas 渲染或干脆放图片的；推荐使用微信或 QQ 内置的截图，有 OCR 图片转文字功能<br><video src="https://videocdn.jellow.site/FvrxMLd7tR5x3TgwzWFGvLI3-tUD.mp4?sign=5200e7b94bffb8ebab7c63f0007bf738&amp;t=63df5280" controls=""></video>]]></description>
+            <description><![CDATA[写了一个 Chrome / Edge 浏览器插件，一键开启编辑功能，当然也可以绕开某些网站对复制Ctrl + C的限制。https://github.com/gantrol/edit_or_copy_page  【整活】<br><br>现可在 edge 插件商城添加：https://microsoftedge.microsoft.com/addons/detail/ehmfikmlcglfegkibkabbddipogboeib<br><br>也可在 chrome插件商城添加到浏览器：https://chrome.google.com/webstore/detail/<br><br>注：无法复制 canvas 渲染或干脆放图片的；推荐使用微信或 QQ 内置的截图，有 OCR 图片转文字功能<br><video src="https://videocdn.jellow.site/FvrxMLd7tR5x3TgwzWFGvLI3-tUD.mp4?sign=b18814e8d648879ba8abe78b3783e7fc&amp;t=63dfa88f" controls=""></video>]]></description>
             <pubDate>Fri, 27 Jan 2023 12:05:47 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/63d3be1b5f81380de35cbbe5</guid>
             <link>https://m.okjike.com/originalPosts/63d3be1b5f81380de35cbbe5</link>
