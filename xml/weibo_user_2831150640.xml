@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[深圳卫健委的微博]]></title>
         <link>https://weibo.com/2831150640/</link>
-        <atom:link href="https://rsshub.rssforever.com/weibo/user/2831150640" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub.app/weibo/user/2831150640" rel="self" type="application/rss+xml" />
         <description><![CDATA[深圳卫健委的微博 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -16,13 +16,13 @@
         <language>zh-cn</language>
         
         <image>
-            <url>https://tvax4.sinaimg.cn/crop.14.15.448.448.180/a8bfee30ly8h8w71x1lgbj20d50d5mxt.jpg?KID=imgbed,tva&#38;Expires=1675754464&#38;ssig=ihIBokfpW0</url>
+            <url>https://tvax4.sinaimg.cn/crop.14.15.448.448.180/a8bfee30ly8h8w71x1lgbj20d50d5mxt.jpg?KID=imgbed,tva&#38;Expires=1675762219&#38;ssig=TN2bT3SIc1</url>
             <title><![CDATA[深圳卫健委的微博]]></title>
             <link>https://weibo.com/2831150640/</link>
         </image>
         
-        <lastBuildDate>Tue, 07 Feb 2023 04:21:05 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Tue, 07 Feb 2023 06:30:21 GMT</lastBuildDate>
+        <ttl>120</ttl>
         
         <item>
             <title><![CDATA[【#地震来了到底要不要跑#？这些防震避险知识你一定要知道】当地时间6日凌晨，土耳其南部发生7.8级强震，此后又发生多次余震，强震已致土耳其叙利亚两国数千人遇...]]></title>
