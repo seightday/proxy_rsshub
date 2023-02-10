@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Fri, 10 Feb 2023 05:57:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Feb 2023 12:03:46 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[给所有程序员的建议： 把看百度/谷歌的时间抽一部分出来看书。]]></title>
+            <description><![CDATA[给所有程序员的建议：<br>把看百度/谷歌的时间抽一部分出来看书。]]></description>
+            <pubDate>Fri, 10 Feb 2023 10:21:08 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63e61a94898c23cdb2ba9ffc</guid>
+            <link>https://m.okjike.com/originalPosts/63e61a94898c23cdb2ba9ffc</link>
+            
+            
+            
+            <author><![CDATA[肥皂剧内聚啊噗牛调用里盒]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[专为程序员编写的英语学习指南]]></title>
@@ -105,22 +121,6 @@
         </item>
         
         <item>
-            <title><![CDATA[学习编程语言要多久？ 记得大学时候其他专业的同学和我有这样的对话。 同学：学会一个编程语言要多久？ 我：几周应该可以。 同学：那多久可以工作？ 我：得几个...]]></title>
-            <description><![CDATA[学习编程语言要多久？<br><br>记得大学时候其他专业的同学和我有这样的对话。<br><br>同学：学会一个编程语言要多久？<br><br>我：几周应该可以。<br><br>同学：那多久可以工作？<br><br>我：得几个月吧。<br><br>同学：那你学一门新的编程语言要多久？<br><br>我：几天到一周？<br><br>同学：你少装逼了。<br><br>当时不知道怎么解释，结果越描越黑。但是现在我忽然在回答别人帖子的时候，想到了一个不错的解释。<br><br>把学习编程语言当作学开车好了，Java、C#、Golang、 Python 是自动挡，C/C++ 是手动挡。你学会开一种车，比如说会开比亚迪的，叫你去开特斯拉，上手肯定很快，只是会不习惯。而自动挡和手动挡可能差别就比较大了，需要更久的适应时间了。与其说我在学习新语言，不如说我在适应新语言，从 java 到 C 可能接触到内存释放才叫学习。<br><br>更进一步，交规的部分才是怎么做项目的，所以需要几个月，不只是踩油门这么简单。而实际做项目就好像，叫你开车从A点到B点，且没有导航和指南针，只能偶尔问问路（问师父）。所以刚开始做的时候，不得不走很多弯路。<br><br>有趣的是一些知识也可以这么理解。<br><br>图灵完备：如果车 x 能从 A 开到 B 点，那么只要是车都能从 A 开到 B 点。<br>图灵不完备：你能叫高铁开到你家楼下吗？<br><br>最后我觉得 Rust 是叉车。]]></description>
-            <pubDate>Tue, 07 Feb 2023 15:57:32 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63e274ec0fe3576c50571beb</guid>
-            <link>https://m.okjike.com/originalPosts/63e274ec0fe3576c50571beb</link>
-            
-            
-            
-            <author><![CDATA[若思来尔]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[可算看到一个支持按段落翻译的浏览器插件了，不用买彩云小译了。就是这个许可证比较麻烦，AGPL。 ps. 搞半天没开源，就留了个 dist。 https://github.com/immers...]]></title>
             <description><![CDATA[可算看到一个支持按段落翻译的浏览器插件了，不用买彩云小译了。就是这个许可证比较麻烦，AGPL。<br><br>ps. 搞半天没开源，就留了个 dist。<br><br>https://github.com/immersive-translate/immersive-translate<br><img src="https://cdnv2.ruguoapp.com/FqulX_BBridkfPMpgPgPpOIXaTY-v3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Wed, 01 Feb 2023 02:50:44 GMT</pubDate>
@@ -138,7 +138,7 @@
         
         <item>
             <title><![CDATA[写了一个 Chrome / Edge 浏览器插件，一键开启编辑功能，当然也可以绕开某些网站对复制Ctrl + C的限制。https://github.com/gantrol/edit_or_copy_page 【整活】...]]></title>
-            <description><![CDATA[写了一个 Chrome / Edge 浏览器插件，一键开启编辑功能，当然也可以绕开某些网站对复制Ctrl + C的限制。https://github.com/gantrol/edit_or_copy_page  【整活】<br><br>现可在 edge 插件商城添加：https://microsoftedge.microsoft.com/addons/detail/ehmfikmlcglfegkibkabbddipogboeib<br><br>也可在 chrome插件商城添加到浏览器：https://chrome.google.com/webstore/detail/<br><br>注：无法复制 canvas 渲染或干脆放图片的；推荐使用微信或 QQ 内置的截图，有 OCR 图片转文字功能<br><video src="https://videocdn.jellow.site/FvrxMLd7tR5x3TgwzWFGvLI3-tUD.mp4?sign=5b4b29294ea800da264e034bc723c149&amp;t=63e5e2c0" controls=""></video>]]></description>
+            <description><![CDATA[写了一个 Chrome / Edge 浏览器插件，一键开启编辑功能，当然也可以绕开某些网站对复制Ctrl + C的限制。https://github.com/gantrol/edit_or_copy_page  【整活】<br><br>现可在 edge 插件商城添加：https://microsoftedge.microsoft.com/addons/detail/ehmfikmlcglfegkibkabbddipogboeib<br><br>也可在 chrome插件商城添加到浏览器：https://chrome.google.com/webstore/detail/<br><br>注：无法复制 canvas 渲染或干脆放图片的；推荐使用微信或 QQ 内置的截图，有 OCR 图片转文字功能<br><video src="https://videocdn.jellow.site/FvrxMLd7tR5x3TgwzWFGvLI3-tUD.mp4?sign=5be219c6d21158307d5b9148c7dd1a3a&amp;t=63e639aa" controls=""></video>]]></description>
             <pubDate>Fri, 27 Jan 2023 12:05:47 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/63d3be1b5f81380de35cbbe5</guid>
             <link>https://m.okjike.com/originalPosts/63d3be1b5f81380de35cbbe5</link>
