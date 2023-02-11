@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[JitHub程序员 - 即刻圈子]]></title>
         <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
-        <atom:link href="https://rsshub.app/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
         <description><![CDATA[开发者们分享，问答，也可以交友的地方。欢迎所有工程师！ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -21,12 +21,28 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sat, 11 Feb 2023 08:21:15 GMT</lastBuildDate>
-        <ttl>120</ttl>
+        <lastBuildDate>Sat, 11 Feb 2023 12:31:07 GMT</lastBuildDate>
+        <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[我的确有1TB的内存噢～]]></title>
+            <description><![CDATA[<span>用户昵称：独立团张大彪 <br> Username：b40be68b-d866-4254-bdfa-5890bdb98a74</span><br><br>我的确有1TB的内存噢～<br><img src="https://cdnv2.ruguoapp.com/Flf65Z8ci4HsFxO9E2CBFgLZzngYv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 10 Feb 2023 11:27:39 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63e62a2b898c23cdb2bcaa55</guid>
+            <link>https://m.okjike.com/originalPosts/63e62a2b898c23cdb2bcaa55</link>
+            
+            
+            
+            <author><![CDATA[独立团张大彪]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[给所有程序员的建议： 把看百度/谷歌的时间抽一部分出来看书。]]></title>
-            <description><![CDATA[给所有程序员的建议：<br>把看百度/谷歌的时间抽一部分出来看书。]]></description>
+            <description><![CDATA[<span>用户昵称：空是充盈 <br> Username：C027E21D-DFD6-4F88-AF40-31871E1FB6F4</span><br><br>给所有程序员的建议：<br>把看百度/谷歌的时间抽一部分出来看书。]]></description>
             <pubDate>Fri, 10 Feb 2023 10:21:08 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/63e61a94898c23cdb2ba9ffc</guid>
             <link>https://m.okjike.com/originalPosts/63e61a94898c23cdb2ba9ffc</link>
@@ -42,7 +58,7 @@
         
         <item>
             <title><![CDATA[https://t.me/rebener/104 可谓是...]]></title>
-            <description><![CDATA[https://t.me/rebener/104<br>可谓是...<br><img src="https://cdnv2.ruguoapp.com/Frbc3lRbAjniB7xL2WAnbdqw4ao4v3.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[<span>用户昵称：relab <br> Username：72D21A8C-C62B-40F1-9AFA-82D58470AAE3</span><br><br>https://t.me/rebener/104<br>可谓是...<br><img src="https://cdnv2.ruguoapp.com/Frbc3lRbAjniB7xL2WAnbdqw4ao4v3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Fri, 10 Feb 2023 10:00:40 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/63e615c885ec58d5ea476591</guid>
             <link>https://m.okjike.com/originalPosts/63e615c885ec58d5ea476591</link>
@@ -58,7 +74,7 @@
         
         <item>
             <title><![CDATA[专为程序员编写的英语学习指南]]></title>
-            <description><![CDATA[<img src="https://opengraph.githubassets.com/ac125d6f39ae7f0f6865ddb9432810659db1a92394a80ee0049cdced1dad1967/yujiangshui/A-Programmers-Guide-to-English" referrerpolicy="no-referrer"><br>                    <a href="https://github.com/yujiangshui/A-Programmers-Guide-to-English">GitHub - yujiangshui/A-Programmers-Guide-to-English: 专为程序员编写的英语学习指南 v1.2。在线版本请点 -&gt;</a><br>                <br>专为程序员编写的英语学习指南]]></description>
+            <description><![CDATA[<span>用户昵称：程序员舍长 <br> Username：570962a0-f4aa-4246-b149-1e467a1ffba9</span><br><br>                    <img src="https://opengraph.githubassets.com/ac125d6f39ae7f0f6865ddb9432810659db1a92394a80ee0049cdced1dad1967/yujiangshui/A-Programmers-Guide-to-English" referrerpolicy="no-referrer"><br>                    <a href="https://github.com/yujiangshui/A-Programmers-Guide-to-English">GitHub - yujiangshui/A-Programmers-Guide-to-English: 专为程序员编写的英语学习指南 v1.2。在线版本请点 -&gt;</a><br>                <br>专为程序员编写的英语学习指南]]></description>
             <pubDate>Thu, 09 Feb 2023 15:34:58 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/63e512a226ce2ec5c6a38ff1</guid>
             <link>https://m.okjike.com/originalPosts/63e512a226ce2ec5c6a38ff1</link>
@@ -73,24 +89,8 @@
         </item>
         
         <item>
-            <title><![CDATA[码无止境： 哪怕你做出来地球上最大的公司之一 财务自由了 统领千军万马 也要继续写代码 请各位做好准备。]]></title>
-            <description><![CDATA[码无止境：<br>哪怕你做出来地球上最大的公司之一<br>财务自由了<br>统领千军万马<br>也要继续写代码<br>请各位做好准备。<br><img src="https://cdnv2.ruguoapp.com/FlP4PyvUV6wwoOvOQ8rcya5OddN1v3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 09 Feb 2023 02:37:20 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63e45c60ec78a2f3680a260b</guid>
-            <link>https://m.okjike.com/originalPosts/63e45c60ec78a2f3680a260b</link>
-            
-            
-            
-            <author><![CDATA[阿法兔]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[招聘 硅谷公司招聘，远程办公不加班，总包80W-120W 职位： 资深后端工程师 任职要求： 扎实的数据结构和算法基础 良好的代码设计 5 年以上软件工程师工作经验 2 ...]]></title>
-            <description><![CDATA[招聘<br>硅谷公司招聘，远程办公不加班，总包80W-120W<br>职位：<br>资深后端工程师<br>任职要求：<br>扎实的数据结构和算法基础<br>良好的代码设计<br>5 年以上软件工程师工作经验 <br>2 年以上 Go 开发经验 <br>熟悉 PostgreSQL 或者 MySQL <br>熟悉 Kubernetes <br>熟悉 AWS 服务与基础架构 <br>流利的英文读写能力 <br>优秀的团队合作能力<br>加分项：<br>大厂或外企工作经验<br>大型后端系统开发经验<br>公司官网：<br>https://www.usenimbus.com/<br>YC：<br>https://www.ycombinator.com/companies/nimbus-2<br>简历投递邮箱：<br>MeloAndroid@163.com]]></description>
+            <description><![CDATA[<span>用户昵称：Melo偶尔会说谎 <br> Username：a7fa9157-3a3b-46d6-9c9e-cc392df314ec</span><br><br>招聘<br>硅谷公司招聘，远程办公不加班，总包80W-120W<br>职位：<br>资深后端工程师<br>任职要求：<br>扎实的数据结构和算法基础<br>良好的代码设计<br>5 年以上软件工程师工作经验 <br>2 年以上 Go 开发经验 <br>熟悉 PostgreSQL 或者 MySQL <br>熟悉 Kubernetes <br>熟悉 AWS 服务与基础架构 <br>流利的英文读写能力 <br>优秀的团队合作能力<br>加分项：<br>大厂或外企工作经验<br>大型后端系统开发经验<br>公司官网：<br>https://www.usenimbus.com/<br>YC：<br>https://www.ycombinator.com/companies/nimbus-2<br>简历投递邮箱：<br>MeloAndroid@163.com]]></description>
             <pubDate>Wed, 08 Feb 2023 06:45:48 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/63e3451c0fe3576c506b6a2e</guid>
             <link>https://m.okjike.com/originalPosts/63e3451c0fe3576c506b6a2e</link>
@@ -106,7 +106,7 @@
         
         <item>
             <title><![CDATA[讨论ChatGPT之前，你用上Copilot了吗？]]></title>
-            <description><![CDATA[讨论ChatGPT之前，你用上Copilot了吗？]]></description>
+            <description><![CDATA[<span>用户昵称：空是充盈 <br> Username：C027E21D-DFD6-4F88-AF40-31871E1FB6F4</span><br><br>讨论ChatGPT之前，你用上Copilot了吗？]]></description>
             <pubDate>Wed, 08 Feb 2023 02:43:54 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/63e30c6a138e8d12e570cb41</guid>
             <link>https://m.okjike.com/originalPosts/63e30c6a138e8d12e570cb41</link>
@@ -122,7 +122,7 @@
         
         <item>
             <title><![CDATA[可算看到一个支持按段落翻译的浏览器插件了，不用买彩云小译了。就是这个许可证比较麻烦，AGPL。 ps. 搞半天没开源，就留了个 dist。 https://github.com/immers...]]></title>
-            <description><![CDATA[可算看到一个支持按段落翻译的浏览器插件了，不用买彩云小译了。就是这个许可证比较麻烦，AGPL。<br><br>ps. 搞半天没开源，就留了个 dist。<br><br>https://github.com/immersive-translate/immersive-translate<br><img src="https://cdnv2.ruguoapp.com/FqulX_BBridkfPMpgPgPpOIXaTY-v3.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[<span>用户昵称：ourongxing <br> Username：7f422d5d-d79a-4f45-9880-b89d64d7f37a</span><br><br>可算看到一个支持按段落翻译的浏览器插件了，不用买彩云小译了。就是这个许可证比较麻烦，AGPL。<br><br>ps. 搞半天没开源，就留了个 dist。<br><br>https://github.com/immersive-translate/immersive-translate<br><img src="https://cdnv2.ruguoapp.com/FqulX_BBridkfPMpgPgPpOIXaTY-v3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Wed, 01 Feb 2023 02:50:44 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/63d9d384d71a3609282b15db</guid>
             <link>https://m.okjike.com/originalPosts/63d9d384d71a3609282b15db</link>
@@ -138,7 +138,7 @@
         
         <item>
             <title><![CDATA[写了一个 Chrome / Edge 浏览器插件，一键开启编辑功能，当然也可以绕开某些网站对复制Ctrl + C的限制。https://github.com/gantrol/edit_or_copy_page 【整活】...]]></title>
-            <description><![CDATA[写了一个 Chrome / Edge 浏览器插件，一键开启编辑功能，当然也可以绕开某些网站对复制Ctrl + C的限制。https://github.com/gantrol/edit_or_copy_page  【整活】<br><br>现可在 edge 插件商城添加：https://microsoftedge.microsoft.com/addons/detail/ehmfikmlcglfegkibkabbddipogboeib<br><br>也可在 chrome插件商城添加到浏览器：https://chrome.google.com/webstore/detail/<br><br>注：无法复制 canvas 渲染或干脆放图片的；推荐使用微信或 QQ 内置的截图，有 OCR 图片转文字功能<br><video src="https://videocdn.jellow.site/FvrxMLd7tR5x3TgwzWFGvLI3-tUD.mp4?sign=a6adfb7cd4338eb7705321b1b9de06e5&amp;t=63e756e7" controls=""></video>]]></description>
+            <description><![CDATA[<span>用户昵称：黄健楸 <br> Username：EA8FE109-3ACB-4641-98C8-B7D61EDD8637</span><br><br>写了一个 Chrome / Edge 浏览器插件，一键开启编辑功能，当然也可以绕开某些网站对复制Ctrl + C的限制。https://github.com/gantrol/edit_or_copy_page  【整活】<br><br>现可在 edge 插件商城添加：https://microsoftedge.microsoft.com/addons/detail/ehmfikmlcglfegkibkabbddipogboeib<br><br>也可在 chrome插件商城添加到浏览器：https://chrome.google.com/webstore/detail/<br><br>注：无法复制 canvas 渲染或干脆放图片的；推荐使用微信或 QQ 内置的截图，有 OCR 图片转文字功能<br><video src="https://videocdn.jellow.site/FvrxMLd7tR5x3TgwzWFGvLI3-tUD.mp4?sign=87d5d1f32bd3cdf6cf899c13bffe6d57&amp;t=63e79193" controls=""></video>]]></description>
             <pubDate>Fri, 27 Jan 2023 12:05:47 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/63d3be1b5f81380de35cbbe5</guid>
             <link>https://m.okjike.com/originalPosts/63d3be1b5f81380de35cbbe5</link>
@@ -154,7 +154,7 @@
         
         <item>
             <title><![CDATA[虽然说是开玩笑的，但还是被恶心到了，谁TM在乎你的政治立场]]></title>
-            <description><![CDATA[虽然说是开玩笑的，但还是被恶心到了，谁TM在乎你的政治立场<br><img src="https://cdnv2.ruguoapp.com/FusqOA0P6wHrh1uxsJYnV8JLxwsvv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[<span>用户昵称：Rennen <br> Username：ed59e1d5-6359-4c15-822f-20ec20aeb78a</span><br><br>虽然说是开玩笑的，但还是被恶心到了，谁TM在乎你的政治立场<br><img src="https://cdnv2.ruguoapp.com/FusqOA0P6wHrh1uxsJYnV8JLxwsvv3.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Fri, 27 Jan 2023 04:54:11 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/63d358f3b05829a8ee82cd02</guid>
             <link>https://m.okjike.com/originalPosts/63d358f3b05829a8ee82cd02</link>
@@ -170,7 +170,7 @@
         
         <item>
             <title><![CDATA[想给我的程序员朋友们也办一个bug展～ 毕竟，bug才是编程者的宿命，谁没有關於精妙绝伦的、狡猾的、聪明反被聪明误、学艺不精的bug代码故事呢！ 「殊途同归.虫逢...]]></title>
-            <description><![CDATA[想给我的程序员朋友们也办一个bug展～<br>毕竟，bug才是编程者的宿命，谁没有關於精妙绝伦的、狡猾的、聪明反被聪明误、学艺不精的bug代码故事呢！<br><br>「殊途同归.虫逢的艺术」<br><br>嗯，等我回归软件行业，立马办。<br><img src="https://cdnv2.ruguoapp.com/Flbjyqx1tsLo4dHLaBx2XMvfptZAv3.heic" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[<span>用户昵称：夏尔之翼 <br> Username：C240D608-0BB0-49D9-A240-580A27ED30F6</span><br><br>想给我的程序员朋友们也办一个bug展～<br>毕竟，bug才是编程者的宿命，谁没有關於精妙绝伦的、狡猾的、聪明反被聪明误、学艺不精的bug代码故事呢！<br><br>「殊途同归.虫逢的艺术」<br><br>嗯，等我回归软件行业，立马办。<br><img src="https://cdnv2.ruguoapp.com/Flbjyqx1tsLo4dHLaBx2XMvfptZAv3.heic" referrerpolicy="no-referrer">]]></description>
             <pubDate>Thu, 26 Jan 2023 11:33:05 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/63d264f11e37d9e8d356a6a2</guid>
             <link>https://m.okjike.com/originalPosts/63d264f11e37d9e8d356a6a2</link>
