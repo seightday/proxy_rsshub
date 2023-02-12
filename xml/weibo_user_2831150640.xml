@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[深圳卫健委的微博]]></title>
         <link>https://weibo.com/2831150640/</link>
-        <atom:link href="https://rsshub.app/weibo/user/2831150640" rel="self" type="application/rss+xml" />
+        <atom:link href="http://rsshub.app/weibo/user/2831150640" rel="self" type="application/rss+xml" />
         <description><![CDATA[深圳卫健委的微博 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -21,7 +21,7 @@
             <link>https://weibo.com/2831150640/</link>
         </image>
         
-        <lastBuildDate>Sun, 12 Feb 2023 04:20:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Feb 2023 05:15:40 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
