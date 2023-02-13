@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 13 Feb 2023 12:40:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Feb 2023 19:02:47 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[在 SaaS 行业捣腾了一年多，挺失望的，说好的下一个 salesforce 呢，最后还是沦为了外包商。 Web3 一直没看懂这技术能支撑什么应用，只看到一群人拿锤子到处找钉...]]></title>
+            <description><![CDATA[在 SaaS 行业捣腾了一年多，挺失望的，说好的下一个 salesforce 呢，最后还是沦为了外包商。<br><br>Web3 一直没看懂这技术能支撑什么应用，只看到一群人拿锤子到处找钉子（当然他们赚了很多钱我是眼红的。<br><br>AR 么，总觉得这东西在交互上有着不可逾越的硬伤，等看苹果能玩出什么花样吧，不抱太大希望。<br><br>最后说 AI，这两天热度爆表了……这东西是足够科幻了，但目测都是一群 phd 科学家们在玩，我这个互联网时代搞web 搞UI的码农没什么参与感，还是先去看看吴恩达的公开课试试能不能入个门先🙇‍♂️]]></description>
+            <pubDate>Mon, 13 Feb 2023 16:12:54 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63ea6186d930a0c3a6411697</guid>
+            <link>https://m.okjike.com/originalPosts/63ea6186d930a0c3a6411697</link>
+            
+            
+            
+            <author><![CDATA[Wz__]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[工作中也可以这样，举例你需要在指定时间内做一个应用，要分别实现前端界面、后端接口和算法。 最好的计划安排是先做出一个各方面都可以打75分的成品，能够走完...]]></title>
@@ -34,22 +50,6 @@
             
             
             <author><![CDATA[哥飞]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[CSDN上线了一个爬虫站 devpress.csdn.net 内容都是爬虫从其他地方爬来的 现在已经霸占百度了]]></title>
-            <description><![CDATA[CSDN上线了一个爬虫站  devpress.csdn.net 内容都是爬虫从其他地方爬来的 现在已经霸占百度了]]></description>
-            <pubDate>Sun, 12 Feb 2023 08:33:55 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63e8a473264b3bba01403345</guid>
-            <link>https://m.okjike.com/originalPosts/63e8a473264b3bba01403345</link>
-            
-            
-            
-            <author><![CDATA[技术吃货耿胖胖]]></author>
             
                 
             
@@ -138,7 +138,7 @@
         
         <item>
             <title><![CDATA[写了一个 Chrome / Edge 浏览器插件，一键开启编辑功能，当然也可以绕开某些网站对复制Ctrl + C的限制。https://github.com/gantrol/edit_or_copy_page 【整活】...]]></title>
-            <description><![CDATA[写了一个 Chrome / Edge 浏览器插件，一键开启编辑功能，当然也可以绕开某些网站对复制Ctrl + C的限制。https://github.com/gantrol/edit_or_copy_page  【整活】<br><br>现可在 edge 插件商城添加：https://microsoftedge.microsoft.com/addons/detail/ehmfikmlcglfegkibkabbddipogboeib<br><br>也可在 chrome插件商城添加到浏览器：https://chrome.google.com/webstore/detail/<br><br>注：无法复制 canvas 渲染或干脆放图片的；推荐使用微信或 QQ 内置的截图，有 OCR 图片转文字功能<br><video src="https://videocdn.jellow.site/FvrxMLd7tR5x3TgwzWFGvLI3-tUD.mp4?sign=bc66f5e36b66532b0b9a8f50acb1b544&amp;t=63ea36b1" controls=""></video>]]></description>
+            <description><![CDATA[写了一个 Chrome / Edge 浏览器插件，一键开启编辑功能，当然也可以绕开某些网站对复制Ctrl + C的限制。https://github.com/gantrol/edit_or_copy_page  【整活】<br><br>现可在 edge 插件商城添加：https://microsoftedge.microsoft.com/addons/detail/ehmfikmlcglfegkibkabbddipogboeib<br><br>也可在 chrome插件商城添加到浏览器：https://chrome.google.com/webstore/detail/<br><br>注：无法复制 canvas 渲染或干脆放图片的；推荐使用微信或 QQ 内置的截图，有 OCR 图片转文字功能<br><video src="https://videocdn.jellow.site/FvrxMLd7tR5x3TgwzWFGvLI3-tUD.mp4?sign=ef858f02b8a587f26b05d6898c908bd6&amp;t=63ea8e3c" controls=""></video>]]></description>
             <pubDate>Fri, 27 Jan 2023 12:05:47 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/63d3be1b5f81380de35cbbe5</guid>
             <link>https://m.okjike.com/originalPosts/63d3be1b5f81380de35cbbe5</link>
