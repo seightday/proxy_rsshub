@@ -21,31 +21,15 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 13 Feb 2023 00:04:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Feb 2023 04:16:36 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
-            <title><![CDATA[非特殊情况时，每天都要写代码，至少半小时。]]></title>
-            <description><![CDATA[非特殊情况时，每天都要写代码，至少半小时。]]></description>
-            <pubDate>Sun, 12 Feb 2023 05:19:30 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63e876e2f4fcf7973e4b4532</guid>
-            <link>https://m.okjike.com/originalPosts/63e876e2f4fcf7973e4b4532</link>
-            
-            
-            
-            <author><![CDATA[空是充盈]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[目前基于 openai 的 api 做小应用最大的问题是太贵了。 达芬奇系列模型，每 1000 个token的价格是0.02美元也就是0.14元人民币左右。 我们可以算一算，让模型写一...]]></title>
-            <description><![CDATA[目前基于 openai 的 api 做小应用最大的问题是太贵了。<br>达芬奇系列模型，每 1000 个token的价格是0.02美元也就是0.14元人民币左右。<br>我们可以算一算，让模型写一篇1000字的文章，需要多少钱。<br>1000个汉字大约等于1700个token，那么就需要2.3元人民币。<br>如果不收费，那就只能让用户填入自己的key来使用了，否则要破产。<br>补充：感谢@Draw 指出，这里算错了，1k是0.14，1.7k是0.238，而不是2.3，我上面多乘以了10。<br>但也还是挺贵的，一次就是两毛多钱。<br><img src="https://cdnv2.ruguoapp.com/FjVKWFklBcausl5oXU4PWujA9gd6v3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 11 Feb 2023 05:29:58 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63e727d6f4fcf7973e28b2bc</guid>
-            <link>https://m.okjike.com/originalPosts/63e727d6f4fcf7973e28b2bc</link>
+            <title><![CDATA[工作中也可以这样，举例你需要在指定时间内做一个应用，要分别实现前端界面、后端接口和算法。 最好的计划安排是先做出一个各方面都可以打75分的成品，能够走完...]]></title>
+            <description><![CDATA[工作中也可以这样，举例你需要在指定时间内做一个应用，要分别实现前端界面、后端接口和算法。<br>最好的计划安排是先做出一个各方面都可以打75分的成品，能够走完全流程。<br>然后再花时间把每一个地方打磨到80分，下一轮再打磨到85分、90分。<br>而不是一开始就花全部时间把其中一个地方打磨到90分，因为这会花去大量时间，那么剩下的时间可能你只能完成40分的其它地方，最后就成了一个不好用的怪物。<br><img src="https://cdnv2.ruguoapp.com/Frod4s3MupXaC7MR73yaf6EEE8hBv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 13 Feb 2023 01:06:58 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63e98d32898c23cdb214afa7</guid>
+            <link>https://m.okjike.com/originalPosts/63e98d32898c23cdb214afa7</link>
             
             
             
@@ -57,15 +41,47 @@
         </item>
         
         <item>
-            <title><![CDATA[#独立开发的日常 找个咖啡店，开肝。小县城里面，只有星巴克才这么早开门😓。]]></title>
-            <description><![CDATA[#独立开发的日常 <br>找个咖啡店，开肝。小县城里面，只有星巴克才这么早开门😓。<br><img src="https://cdnv2.ruguoapp.com/FlblO0CgQc5M4I4gEXwVofQk8tkav3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 11 Feb 2023 00:44:47 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63e6e4ffa7bb588d270158d6</guid>
-            <link>https://m.okjike.com/originalPosts/63e6e4ffa7bb588d270158d6</link>
+            <title><![CDATA[CSDN上线了一个爬虫站 devpress.csdn.net 内容都是爬虫从其他地方爬来的 现在已经霸占百度了]]></title>
+            <description><![CDATA[CSDN上线了一个爬虫站  devpress.csdn.net 内容都是爬虫从其他地方爬来的 现在已经霸占百度了]]></description>
+            <pubDate>Sun, 12 Feb 2023 08:33:55 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63e8a473264b3bba01403345</guid>
+            <link>https://m.okjike.com/originalPosts/63e8a473264b3bba01403345</link>
             
             
             
-            <author><![CDATA[李雨st]]></author>
+            <author><![CDATA[技术吃货耿胖胖]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[登梯计划产物——苔藓APP 1.苔藓APP的愿景是降低AI使用门槛，例如ChatGPT，提供更多的AI解决问题方案。帮助更多的人解决工作，生活，学习上的问题。 2.项目正在...]]></title>
+            <description><![CDATA[登梯计划产物——苔藓APP<br>1.苔藓APP的愿景是降低AI使用门槛，例如ChatGPT，提供更多的AI解决问题方案。帮助更多的人解决工作，生活，学习上的问题。<br>2.项目正在开发中，内测时会发视频通知大家<br>3.目前登梯计划核心成员已经集结完毕。首席产品经理在此: @老伯德 <br><video src="https://videocdn.jellow.site/FpGRFTHB-Tpxy06Ke33VbGTbdyJK.mp4?sign=efd600fd6d424b7506aed1125b9bf90c&amp;t=63e9be96" controls=""></video>]]></description>
+            <pubDate>Sun, 12 Feb 2023 08:27:21 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63e8a2e9fc45fa34561b2938</guid>
+            <link>https://m.okjike.com/originalPosts/63e8a2e9fc45fa34561b2938</link>
+            
+            
+            
+            <author><![CDATA[何时夕]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[非特殊情况时，每天都要写代码，至少半小时。]]></title>
+            <description><![CDATA[非特殊情况时，每天都要写代码，至少半小时。]]></description>
+            <pubDate>Sun, 12 Feb 2023 05:19:30 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63e876e2f4fcf7973e4b4532</guid>
+            <link>https://m.okjike.com/originalPosts/63e876e2f4fcf7973e4b4532</link>
+            
+            
+            
+            <author><![CDATA[空是充盈]]></author>
             
                 
             
@@ -105,22 +121,6 @@
         </item>
         
         <item>
-            <title><![CDATA[招聘 硅谷公司招聘，远程办公不加班，总包80W-120W 职位： 资深后端工程师 任职要求： 扎实的数据结构和算法基础 良好的代码设计 5 年以上软件工程师工作经验 2 ...]]></title>
-            <description><![CDATA[招聘<br>硅谷公司招聘，远程办公不加班，总包80W-120W<br>职位：<br>资深后端工程师<br>任职要求：<br>扎实的数据结构和算法基础<br>良好的代码设计<br>5 年以上软件工程师工作经验 <br>2 年以上 Go 开发经验 <br>熟悉 PostgreSQL 或者 MySQL <br>熟悉 Kubernetes <br>熟悉 AWS 服务与基础架构 <br>流利的英文读写能力 <br>优秀的团队合作能力<br>加分项：<br>大厂或外企工作经验<br>大型后端系统开发经验<br>公司官网：<br>https://www.usenimbus.com/<br>YC：<br>https://www.ycombinator.com/companies/nimbus-2<br>简历投递邮箱：<br>MeloAndroid@163.com]]></description>
-            <pubDate>Wed, 08 Feb 2023 06:45:48 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63e3451c0fe3576c506b6a2e</guid>
-            <link>https://m.okjike.com/originalPosts/63e3451c0fe3576c506b6a2e</link>
-            
-            
-            
-            <author><![CDATA[Melo偶尔会说谎]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[可算看到一个支持按段落翻译的浏览器插件了，不用买彩云小译了。就是这个许可证比较麻烦，AGPL。 ps. 搞半天没开源，就留了个 dist。 https://github.com/immers...]]></title>
             <description><![CDATA[可算看到一个支持按段落翻译的浏览器插件了，不用买彩云小译了。就是这个许可证比较麻烦，AGPL。<br><br>ps. 搞半天没开源，就留了个 dist。<br><br>https://github.com/immersive-translate/immersive-translate<br><img src="https://cdnv2.ruguoapp.com/FqulX_BBridkfPMpgPgPpOIXaTY-v3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Wed, 01 Feb 2023 02:50:44 GMT</pubDate>
@@ -138,7 +138,7 @@
         
         <item>
             <title><![CDATA[写了一个 Chrome / Edge 浏览器插件，一键开启编辑功能，当然也可以绕开某些网站对复制Ctrl + C的限制。https://github.com/gantrol/edit_or_copy_page 【整活】...]]></title>
-            <description><![CDATA[写了一个 Chrome / Edge 浏览器插件，一键开启编辑功能，当然也可以绕开某些网站对复制Ctrl + C的限制。https://github.com/gantrol/edit_or_copy_page  【整活】<br><br>现可在 edge 插件商城添加：https://microsoftedge.microsoft.com/addons/detail/ehmfikmlcglfegkibkabbddipogboeib<br><br>也可在 chrome插件商城添加到浏览器：https://chrome.google.com/webstore/detail/<br><br>注：无法复制 canvas 渲染或干脆放图片的；推荐使用微信或 QQ 内置的截图，有 OCR 图片转文字功能<br><video src="https://videocdn.jellow.site/FvrxMLd7tR5x3TgwzWFGvLI3-tUD.mp4?sign=aad5002122ec823ba2212c58a0bf1f87&amp;t=63e985b2" controls=""></video>]]></description>
+            <description><![CDATA[写了一个 Chrome / Edge 浏览器插件，一键开启编辑功能，当然也可以绕开某些网站对复制Ctrl + C的限制。https://github.com/gantrol/edit_or_copy_page  【整活】<br><br>现可在 edge 插件商城添加：https://microsoftedge.microsoft.com/addons/detail/ehmfikmlcglfegkibkabbddipogboeib<br><br>也可在 chrome插件商城添加到浏览器：https://chrome.google.com/webstore/detail/<br><br>注：无法复制 canvas 渲染或干脆放图片的；推荐使用微信或 QQ 内置的截图，有 OCR 图片转文字功能<br><video src="https://videocdn.jellow.site/FvrxMLd7tR5x3TgwzWFGvLI3-tUD.mp4?sign=633145c1f0339d6c5a0cfd7099f5909e&amp;t=63e9be96" controls=""></video>]]></description>
             <pubDate>Fri, 27 Jan 2023 12:05:47 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/63d3be1b5f81380de35cbbe5</guid>
             <link>https://m.okjike.com/originalPosts/63d3be1b5f81380de35cbbe5</link>
