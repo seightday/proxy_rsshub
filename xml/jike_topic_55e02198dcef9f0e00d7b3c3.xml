@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 14 Feb 2023 01:31:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Feb 2023 03:40:07 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[失眠ing，翻来覆去睡不着。今天是情人节，突然想到以前在GitHub上看到过开源的结婚请柬，于是爬起来整一个玩玩。 http://snowmanbar.com/valentineDay/?self=自...]]></title>
+            <description><![CDATA[<img src="https://cdnv2.ruguoapp.com/icons/link.png" referrerpolicy="no-referrer"><br>                    <a href="http://snowmanbar.com/valentineDay/?self=%E8%87%AA%E5%B7%B1&amp;honey=%E5%BF%83%E4%B8%8A%E4%BA%BA&amp;day=100">情人节快乐~</a><br>                <br>失眠ing，翻来覆去睡不着。今天是情人节，突然想到以前在GitHub上看到过开源的结婚请柬，于是爬起来整一个玩玩。<br><br>http://snowmanbar.com/valentineDay/?self=自己&amp;honey=心上人&amp;day=100<br><br>复制👆的链接，修改三个参数即可：<br>- self 自己的姓名<br>- honey 心上人的姓名<br>- day 在一起的天数<br><br>使用说明：<br>1、因为微信识别链接的时候，遇到中文会识别失败，所以建议使用草料二维码将编辑好的链接生成图片，之后使用微信扫一扫打开。<br>2、服务器只是买来玩玩的，配置不太高，打开有可能会比较慢。<br>3、本项目仅用于学习研究使用，请勿将本项目的任何内容用于商业或非法目的，否则后果自负。<br><br>相关链接：<br>1、草料二维码：https://cli.im/<br>2、原作者代码仓：https://github.com/leadream/wedding-invitation-for-programmers]]></description>
+            <pubDate>Mon, 13 Feb 2023 17:48:59 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63ea780bfc45fa3456516363</guid>
+            <link>https://m.okjike.com/originalPosts/63ea780bfc45fa3456516363</link>
+            
+            
+            
+            <author><![CDATA[_海色灏茫]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[因为 api 调用费用太贵了，周报生成器开发者将于2月15日下线生成器网站。]]></title>
@@ -89,22 +105,6 @@
         </item>
         
         <item>
-            <title><![CDATA[目前基于 openai 的 api 做小应用最大的问题是太贵了。 达芬奇系列模型，每 1000 个token的价格是0.02美元也就是0.14元人民币左右。 我们可以算一算，让模型写一...]]></title>
-            <description><![CDATA[目前基于 openai 的 api 做小应用最大的问题是太贵了。<br>达芬奇系列模型，每 1000 个token的价格是0.02美元也就是0.14元人民币左右。<br>我们可以算一算，让模型写一篇1000字的文章，需要多少钱。<br>1000个汉字大约等于1700个token，那么就需要2.3元人民币。<br>如果不收费，那就只能让用户填入自己的key来使用了，否则要破产。<br>补充：感谢@Draw 指出，这里算错了，1k是0.14，1.7k是0.238，而不是2.3，我上面多乘以了10。<br>但也还是挺贵的，一次就是两毛多钱。<br><img src="https://cdnv2.ruguoapp.com/FjVKWFklBcausl5oXU4PWujA9gd6v3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 11 Feb 2023 05:29:58 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63e727d6f4fcf7973e28b2bc</guid>
-            <link>https://m.okjike.com/originalPosts/63e727d6f4fcf7973e28b2bc</link>
-            
-            
-            
-            <author><![CDATA[哥飞]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[给所有程序员的建议： 把看百度/谷歌的时间抽一部分出来看书。]]></title>
             <description><![CDATA[给所有程序员的建议：<br>把看百度/谷歌的时间抽一部分出来看书。]]></description>
             <pubDate>Fri, 10 Feb 2023 10:21:08 GMT</pubDate>
@@ -138,7 +138,7 @@
         
         <item>
             <title><![CDATA[写了一个 Chrome / Edge 浏览器插件，一键开启编辑功能，当然也可以绕开某些网站对复制Ctrl + C的限制。https://github.com/gantrol/edit_or_copy_page 【整活】...]]></title>
-            <description><![CDATA[写了一个 Chrome / Edge 浏览器插件，一键开启编辑功能，当然也可以绕开某些网站对复制Ctrl + C的限制。https://github.com/gantrol/edit_or_copy_page  【整活】<br><br>现可在 edge 插件商城添加：https://microsoftedge.microsoft.com/addons/detail/ehmfikmlcglfegkibkabbddipogboeib<br><br>也可在 chrome插件商城添加到浏览器：https://chrome.google.com/webstore/detail/<br><br>注：无法复制 canvas 渲染或干脆放图片的；推荐使用微信或 QQ 内置的截图，有 OCR 图片转文字功能<br><video src="https://videocdn.jellow.site/FvrxMLd7tR5x3TgwzWFGvLI3-tUD.mp4?sign=61d717dd4e6867f8368699197d5e08ce&amp;t=63eaeb33" controls=""></video>]]></description>
+            <description><![CDATA[写了一个 Chrome / Edge 浏览器插件，一键开启编辑功能，当然也可以绕开某些网站对复制Ctrl + C的限制。https://github.com/gantrol/edit_or_copy_page  【整活】<br><br>现可在 edge 插件商城添加：https://microsoftedge.microsoft.com/addons/detail/ehmfikmlcglfegkibkabbddipogboeib<br><br>也可在 chrome插件商城添加到浏览器：https://chrome.google.com/webstore/detail/<br><br>注：无法复制 canvas 渲染或干脆放图片的；推荐使用微信或 QQ 内置的截图，有 OCR 图片转文字功能<br><video src="https://videocdn.jellow.site/FvrxMLd7tR5x3TgwzWFGvLI3-tUD.mp4?sign=a5a5256014f2d42c919aa13011e36ec6&amp;t=63eb099e" controls=""></video>]]></description>
             <pubDate>Fri, 27 Jan 2023 12:05:47 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/63d3be1b5f81380de35cbbe5</guid>
             <link>https://m.okjike.com/originalPosts/63d3be1b5f81380de35cbbe5</link>
