@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 15 Feb 2023 15:49:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Feb 2023 20:10:36 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -34,6 +34,22 @@
             
             
             <author><![CDATA[哥飞]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[编辑：v0.03：增加json导出格式 新必应聊天记录导出工具 https://github.com/gantrol/Bing-Chat-Saver，v0.0.2，导出的图终于没有明显问题咯（效果见图） 为了这...]]></title>
+            <description><![CDATA[编辑：v0.03：增加json导出格式<br><br>新必应聊天记录导出工具 https://github.com/gantrol/Bing-Chat-Saver，v0.0.2，导出的图终于没有明显问题咯（效果见图）<br><br>为了这个引用的部分分成两行这个小问题，早上还专门跑去问依赖库的作者 https://github.com/qq15725/modern-screenshot/issues/8  ，结果搞半天修了另一个缺陷，而我自己想出了一个办法绕过。然后吸引的这个作者入必应的坑。<br><br>同时也推荐一下这个可以将网站转为图片的js库，比什么html2canvas好用多了……<br><img src="https://cdnv2.ruguoapp.com/FiwWQV6c4XZxCn8J-1L-bYjtoHnNv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 15 Feb 2023 12:15:55 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63ecccfbb10f05cd8587b20d</guid>
+            <link>https://m.okjike.com/originalPosts/63ecccfbb10f05cd8587b20d</link>
+            
+            
+            
+            <author><![CDATA[黄健楸]]></author>
             
                 
             
@@ -89,22 +105,6 @@
         </item>
         
         <item>
-            <title><![CDATA[大家认为认为计算机领域最重要应该优先深入的是什么方向？ 语言，算法，网络，内核，分布式]]></title>
-            <description><![CDATA[大家认为认为计算机领域最重要应该优先深入的是什么方向？ 语言，算法，网络，内核，分布式<br><img src="https://cdnv2.ruguoapp.com/FvT8Qds5nQUefscgJya1FV_mZ5Rov3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 14 Feb 2023 01:30:51 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63eae44b6e744627dd71383d</guid>
-            <link>https://m.okjike.com/originalPosts/63eae44b6e744627dd71383d</link>
-            
-            
-            
-            <author><![CDATA[流星拳]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[因为 api 调用费用太贵了，周报生成器开发者将于2月15日下线生成器网站。]]></title>
             <description><![CDATA[因为 api 调用费用太贵了，周报生成器开发者将于2月15日下线生成器网站。<br><img src="https://cdnv2.ruguoapp.com/Fix0hZbHx5AlrAw5OK84zxtc6YIKv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FvzxAphRDUreyqP5PAbTeIu45_tAv3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Mon, 13 Feb 2023 16:26:06 GMT</pubDate>
@@ -138,7 +138,7 @@
         
         <item>
             <title><![CDATA[写了一个 Chrome / Edge 浏览器插件，一键开启编辑功能，当然也可以绕开某些网站对复制Ctrl + C的限制。https://github.com/gantrol/edit_or_copy_page 【整活】...]]></title>
-            <description><![CDATA[写了一个 Chrome / Edge 浏览器插件，一键开启编辑功能，当然也可以绕开某些网站对复制Ctrl + C的限制。https://github.com/gantrol/edit_or_copy_page  【整活】<br><br>现可在 edge 插件商城添加：https://microsoftedge.microsoft.com/addons/detail/ehmfikmlcglfegkibkabbddipogboeib<br><br>也可在 chrome插件商城添加到浏览器：https://chrome.google.com/webstore/detail/<br><br>注：无法复制 canvas 渲染或干脆放图片的；推荐使用微信或 QQ 内置的截图，有 OCR 图片转文字功能<br><video src="https://videocdn.jellow.site/FvrxMLd7tR5x3TgwzWFGvLI3-tUD.mp4?sign=299c7a3d49a15522e81d65bd945ed4be&amp;t=63ed03e8" controls=""></video>]]></description>
+            <description><![CDATA[写了一个 Chrome / Edge 浏览器插件，一键开启编辑功能，当然也可以绕开某些网站对复制Ctrl + C的限制。https://github.com/gantrol/edit_or_copy_page  【整活】<br><br>现可在 edge 插件商城添加：https://microsoftedge.microsoft.com/addons/detail/ehmfikmlcglfegkibkabbddipogboeib<br><br>也可在 chrome插件商城添加到浏览器：https://chrome.google.com/webstore/detail/<br><br>注：无法复制 canvas 渲染或干脆放图片的；推荐使用微信或 QQ 内置的截图，有 OCR 图片转文字功能<br><video src="https://videocdn.jellow.site/FvrxMLd7tR5x3TgwzWFGvLI3-tUD.mp4?sign=53cdeae1e65ca9a448fb624a7db2714d&amp;t=63ed4344" controls=""></video>]]></description>
             <pubDate>Fri, 27 Jan 2023 12:05:47 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/63d3be1b5f81380de35cbbe5</guid>
             <link>https://m.okjike.com/originalPosts/63d3be1b5f81380de35cbbe5</link>
