@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 15 Feb 2023 01:10:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Feb 2023 03:25:33 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[应该没人见过更离谱的吧😅]]></title>
+            <description><![CDATA[应该没人见过更离谱的吧😅<br><img src="https://cdnv2.ruguoapp.com/Fuyc7VRc8DYdmRCjmzzOabNfpx2Iv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 14 Feb 2023 17:58:31 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63ebcbc78a270cd221850a78</guid>
+            <link>https://m.okjike.com/originalPosts/63ebcbc78a270cd221850a78</link>
+            
+            
+            
+            <author><![CDATA[Solace_]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[“学习一些 prompt，准确描述你的想法，会帮助你大幅提效。比如 awesome-chatgpt-prompts[1]这个 Github 仓库可以帮你学习各种 prompt，如果你是开发者，可以在 ...]]></title>
@@ -34,6 +50,22 @@
             
             
             <author><![CDATA[_幸运用户]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[大家认为认为计算机领域最重要应该优先深入的是什么方向？ 语言，算法，网络，内核，分布式]]></title>
+            <description><![CDATA[大家认为认为计算机领域最重要应该优先深入的是什么方向？ 语言，算法，网络，内核，分布式<br><img src="https://cdnv2.ruguoapp.com/FvT8Qds5nQUefscgJya1FV_mZ5Rov3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 14 Feb 2023 01:30:51 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63eae44b6e744627dd71383d</guid>
+            <link>https://m.okjike.com/originalPosts/63eae44b6e744627dd71383d</link>
+            
+            
+            
+            <author><![CDATA[流星拳]]></author>
             
                 
             
@@ -66,38 +98,6 @@
             
             
             <author><![CDATA[哥飞]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[在 SaaS 行业捣腾了一年多，挺失望的，说好的下一个 salesforce 呢，最后还是沦为了外包商。 Web3 一直没看懂这技术能支撑什么应用，只看到一群人拿锤子到处找钉...]]></title>
-            <description><![CDATA[在 SaaS 行业捣腾了一年多，挺失望的，说好的下一个 salesforce 呢，最后还是沦为了外包商。<br><br>Web3 一直没看懂这技术能支撑什么应用，只看到一群人拿锤子到处找钉子（当然他们赚了很多钱我是眼红的。<br><br>AR 么，总觉得这东西在交互上有着不可逾越的硬伤，等看苹果能玩出什么花样吧，不抱太大希望。<br><br>最后说 AI，这两天热度爆表了……这东西是足够科幻了，但目测都是一群 phd 科学家们在玩，我这个互联网时代搞web 搞UI的码农没什么参与感，还是先去看看吴恩达的公开课试试能不能入个门先🙇‍♂️]]></description>
-            <pubDate>Mon, 13 Feb 2023 16:12:54 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63ea6186d930a0c3a6411697</guid>
-            <link>https://m.okjike.com/originalPosts/63ea6186d930a0c3a6411697</link>
-            
-            
-            
-            <author><![CDATA[Wz__]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Dash（https://kapeli.com/dash） 用来看 API 文档有点厉害啊，强得有点离谱了。怎么感觉用的人不多。]]></title>
-            <description><![CDATA[Dash（https://kapeli.com/dash） 用来看 API 文档有点厉害啊，强得有点离谱了。怎么感觉用的人不多。<br><img src="https://cdnv2.ruguoapp.com/lneW3R6lggNUGvDjrKFXRt8Fqbadv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 13 Feb 2023 15:39:53 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63ea59c9b10f05cd8542479e</guid>
-            <link>https://m.okjike.com/originalPosts/63ea59c9b10f05cd8542479e</link>
-            
-            
-            
-            <author><![CDATA[ourongxing]]></author>
             
                 
             
@@ -138,7 +138,7 @@
         
         <item>
             <title><![CDATA[写了一个 Chrome / Edge 浏览器插件，一键开启编辑功能，当然也可以绕开某些网站对复制Ctrl + C的限制。https://github.com/gantrol/edit_or_copy_page 【整活】...]]></title>
-            <description><![CDATA[写了一个 Chrome / Edge 浏览器插件，一键开启编辑功能，当然也可以绕开某些网站对复制Ctrl + C的限制。https://github.com/gantrol/edit_or_copy_page  【整活】<br><br>现可在 edge 插件商城添加：https://microsoftedge.microsoft.com/addons/detail/ehmfikmlcglfegkibkabbddipogboeib<br><br>也可在 chrome插件商城添加到浏览器：https://chrome.google.com/webstore/detail/<br><br>注：无法复制 canvas 渲染或干脆放图片的；推荐使用微信或 QQ 内置的截图，有 OCR 图片转文字功能<br><video src="https://videocdn.jellow.site/FvrxMLd7tR5x3TgwzWFGvLI3-tUD.mp4?sign=1d1568c5675383a4bc8482ca004c5eb8&amp;t=63ec35ab" controls=""></video>]]></description>
+            <description><![CDATA[写了一个 Chrome / Edge 浏览器插件，一键开启编辑功能，当然也可以绕开某些网站对复制Ctrl + C的限制。https://github.com/gantrol/edit_or_copy_page  【整活】<br><br>现可在 edge 插件商城添加：https://microsoftedge.microsoft.com/addons/detail/ehmfikmlcglfegkibkabbddipogboeib<br><br>也可在 chrome插件商城添加到浏览器：https://chrome.google.com/webstore/detail/<br><br>注：无法复制 canvas 渲染或干脆放图片的；推荐使用微信或 QQ 内置的截图，有 OCR 图片转文字功能<br><video src="https://videocdn.jellow.site/FvrxMLd7tR5x3TgwzWFGvLI3-tUD.mp4?sign=52e4afbd8bb1627721dc663930d43d24&amp;t=63ec5626" controls=""></video>]]></description>
             <pubDate>Fri, 27 Jan 2023 12:05:47 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/63d3be1b5f81380de35cbbe5</guid>
             <link>https://m.okjike.com/originalPosts/63d3be1b5f81380de35cbbe5</link>
