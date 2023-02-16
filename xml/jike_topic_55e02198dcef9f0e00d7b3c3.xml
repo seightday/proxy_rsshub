@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 16 Feb 2023 15:47:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Feb 2023 19:39:02 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[Pynecone 是一个全栈 Python 框架，可以在几分钟内轻松构建和部署 Web 应用程序。目前有 5.1K star，依赖 Python 3.7+和Node.js 12.22.0+，但不需要写 JS。https...]]></title>
+            <description><![CDATA[Pynecone 是一个全栈 Python 框架，可以在几分钟内轻松构建和部署 Web 应用程序。目前有 5.1K star，依赖 Python 3.7+和Node.js 12.22.0+，但不需要写 JS。https://github.com/pynecone-io/pynecone<img src="https://cdnv2.ruguoapp.com/Fo38FUVMYmC4n3ht4lWd525PfPynv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 15 Feb 2023 15:31:26 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63ecfacefc45fa3456997624</guid>
+            <link>https://m.okjike.com/originalPosts/63ecfacefc45fa3456997624</link>
+            
+            
+            
+            <author><![CDATA[豌豆花下猫]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[行业第一个被收购案例产生了 来自@星空猎人阿拉丁 的消息]]></title>
@@ -34,22 +50,6 @@
             
             
             <author><![CDATA[哥飞]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[编辑：v0.03：增加json导出格式 新必应聊天记录导出工具 https://github.com/gantrol/Bing-Chat-Saver，v0.0.2，导出的图终于没有明显问题咯（效果见图） 为了这...]]></title>
-            <description><![CDATA[编辑：v0.03：增加json导出格式<br><br>新必应聊天记录导出工具 https://github.com/gantrol/Bing-Chat-Saver，v0.0.2，导出的图终于没有明显问题咯（效果见图）<br><br>为了这个引用的部分分成两行这个小问题，早上还专门跑去问依赖库的作者 https://github.com/qq15725/modern-screenshot/issues/8  ，结果搞半天修了另一个缺陷，而我自己想出了一个办法绕过。然后吸引的这个作者入必应的坑。<br><br>同时也推荐一下这个可以将网站转为图片的js库，比什么html2canvas好用多了……<br><img src="https://cdnv2.ruguoapp.com/FiwWQV6c4XZxCn8J-1L-bYjtoHnNv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 15 Feb 2023 12:15:55 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63ecccfbb10f05cd8587b20d</guid>
-            <link>https://m.okjike.com/originalPosts/63ecccfbb10f05cd8587b20d</link>
-            
-            
-            
-            <author><![CDATA[黄健楸]]></author>
             
                 
             
@@ -138,7 +138,7 @@
         
         <item>
             <title><![CDATA[写了一个 Chrome / Edge 浏览器插件，一键开启编辑功能，当然也可以绕开某些网站对复制Ctrl + C的限制。https://github.com/gantrol/edit_or_copy_page 【整活】...]]></title>
-            <description><![CDATA[写了一个 Chrome / Edge 浏览器插件，一键开启编辑功能，当然也可以绕开某些网站对复制Ctrl + C的限制。https://github.com/gantrol/edit_or_copy_page  【整活】<br><br>现可在 edge 插件商城添加：https://microsoftedge.microsoft.com/addons/detail/ehmfikmlcglfegkibkabbddipogboeib<br><br>也可在 chrome插件商城添加到浏览器：https://chrome.google.com/webstore/detail/<br><br>注：无法复制 canvas 渲染或干脆放图片的；推荐使用微信或 QQ 内置的截图，有 OCR 图片转文字功能<br><video src="https://videocdn.jellow.site/FvrxMLd7tR5x3TgwzWFGvLI3-tUD.mp4?sign=6d64fe007d022f595293abeb70116acd&amp;t=63ee54bf" controls=""></video>]]></description>
+            <description><![CDATA[写了一个 Chrome / Edge 浏览器插件，一键开启编辑功能，当然也可以绕开某些网站对复制Ctrl + C的限制。https://github.com/gantrol/edit_or_copy_page  【整活】<br><br>现可在 edge 插件商城添加：https://microsoftedge.microsoft.com/addons/detail/ehmfikmlcglfegkibkabbddipogboeib<br><br>也可在 chrome插件商城添加到浏览器：https://chrome.google.com/webstore/detail/<br><br>注：无法复制 canvas 渲染或干脆放图片的；推荐使用微信或 QQ 内置的截图，有 OCR 图片转文字功能<br><video src="https://videocdn.jellow.site/FvrxMLd7tR5x3TgwzWFGvLI3-tUD.mp4?sign=fd4105f1e31c544f3c5dec433738f733&amp;t=63ee8c2e" controls=""></video>]]></description>
             <pubDate>Fri, 27 Jan 2023 12:05:47 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/63d3be1b5f81380de35cbbe5</guid>
             <link>https://m.okjike.com/originalPosts/63d3be1b5f81380de35cbbe5</link>
