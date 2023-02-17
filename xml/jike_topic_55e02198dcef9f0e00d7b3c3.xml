@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Fri, 17 Feb 2023 00:03:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Feb 2023 04:14:57 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[不要在细节上花太多时间，尤其是要在限定的时间内完成某件事情时。 我第一次创业时，就犯过这个错误，在没有设计师指导的情况下，在前端样式上花了太多时间调整...]]></title>
+            <description><![CDATA[<img src="https://mmbiz.qpic.cn/mmbiz_jpg/yWXmuSFeCk2bvybR5XWibic561siccTibLexsz34ELgKNsKwgEntm8ibZiapxx8uYHn1DxK0w9icJWgpSibWfJhyoMSIOw/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>                    <a href="https://mp.weixin.qq.com/s/2Q3BNpichZ1weCKMuRYaug">不要在细节上雕花</a><br>                <br>不要在细节上花太多时间，尤其是要在限定的时间内完成某件事情时。<br>我第一次创业时，就犯过这个错误，在没有设计师指导的情况下，在前端样式上花了太多时间调整细节，这里颜色深一点，那里字体加大一号，这里加个边框，那里行距加大一点，类似这种细节反复修改。结果前端花了大量时间修改，后端没时间做了，在限定的时间内只能出一个半成品来演示。<br>所以我前几天才有感而发，https://m.okjike.com/originalPosts/63e98d32898c23cdb214afa7?s=eyJ1IjoiNTY3YTUwZDQ2ZWY4OWMxMjAwOGE3NTc1In0%3D 先完成一个75分的全流程产品，再来打磨到整体80分、85分。<br>再举个后端例子，假如要给前端返回一个配置信息，最简单的实现是先在代码里写死配置，直接返回给前端。下一步可以改成读取指定目录下的配置文件返回给前端，而配置文件暂时手动生成。下一步可以做一个后台界面来修改这个配置文件。]]></description>
+            <pubDate>Fri, 17 Feb 2023 01:11:17 GMT</pubDate>
+            <guid isPermaLink="false">https://mp.weixin.qq.com/s/2Q3BNpichZ1weCKMuRYaug</guid>
+            <link>https://mp.weixin.qq.com/s/2Q3BNpichZ1weCKMuRYaug</link>
+            
+            
+            
+            <author><![CDATA[哥飞]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[Pynecone 是一个全栈 Python 框架，可以在几分钟内轻松构建和部署 Web 应用程序。目前有 5.1K star，依赖 Python 3.7+和Node.js 12.22.0+，但不需要写 JS。https...]]></title>
@@ -105,22 +121,6 @@
         </item>
         
         <item>
-            <title><![CDATA[因为 api 调用费用太贵了，周报生成器开发者将于2月15日下线生成器网站。]]></title>
-            <description><![CDATA[因为 api 调用费用太贵了，周报生成器开发者将于2月15日下线生成器网站。<br><img src="https://cdnv2.ruguoapp.com/Fix0hZbHx5AlrAw5OK84zxtc6YIKv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FvzxAphRDUreyqP5PAbTeIu45_tAv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 13 Feb 2023 16:26:06 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63ea649ea7bb588d27665c58</guid>
-            <link>https://m.okjike.com/originalPosts/63ea649ea7bb588d27665c58</link>
-            
-            
-            
-            <author><![CDATA[哥飞]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[可算看到一个支持按段落翻译的浏览器插件了，不用买彩云小译了。就是这个许可证比较麻烦，AGPL。 ps. 搞半天没开源，就留了个 dist。 https://github.com/immers...]]></title>
             <description><![CDATA[可算看到一个支持按段落翻译的浏览器插件了，不用买彩云小译了。就是这个许可证比较麻烦，AGPL。<br><br>ps. 搞半天没开源，就留了个 dist。<br><br>https://github.com/immersive-translate/immersive-translate<br><img src="https://cdnv2.ruguoapp.com/FqulX_BBridkfPMpgPgPpOIXaTY-v3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Wed, 01 Feb 2023 02:50:44 GMT</pubDate>
@@ -138,7 +138,7 @@
         
         <item>
             <title><![CDATA[写了一个 Chrome / Edge 浏览器插件，一键开启编辑功能，当然也可以绕开某些网站对复制Ctrl + C的限制。https://github.com/gantrol/edit_or_copy_page 【整活】...]]></title>
-            <description><![CDATA[写了一个 Chrome / Edge 浏览器插件，一键开启编辑功能，当然也可以绕开某些网站对复制Ctrl + C的限制。https://github.com/gantrol/edit_or_copy_page  【整活】<br><br>现可在 edge 插件商城添加：https://microsoftedge.microsoft.com/addons/detail/ehmfikmlcglfegkibkabbddipogboeib<br><br>也可在 chrome插件商城添加到浏览器：https://chrome.google.com/webstore/detail/<br><br>注：无法复制 canvas 渲染或干脆放图片的；推荐使用微信或 QQ 内置的截图，有 OCR 图片转文字功能<br><video src="https://videocdn.jellow.site/FvrxMLd7tR5x3TgwzWFGvLI3-tUD.mp4?sign=745787089b843c2f74a93243393cec23&amp;t=63eecaf3" controls=""></video>]]></description>
+            <description><![CDATA[写了一个 Chrome / Edge 浏览器插件，一键开启编辑功能，当然也可以绕开某些网站对复制Ctrl + C的限制。https://github.com/gantrol/edit_or_copy_page  【整活】<br><br>现可在 edge 插件商城添加：https://microsoftedge.microsoft.com/addons/detail/ehmfikmlcglfegkibkabbddipogboeib<br><br>也可在 chrome插件商城添加到浏览器：https://chrome.google.com/webstore/detail/<br><br>注：无法复制 canvas 渲染或干脆放图片的；推荐使用微信或 QQ 内置的截图，有 OCR 图片转文字功能<br><video src="https://videocdn.jellow.site/FvrxMLd7tR5x3TgwzWFGvLI3-tUD.mp4?sign=609189821359f6c0ecc70b775d95513a&amp;t=63ef03f9" controls=""></video>]]></description>
             <pubDate>Fri, 27 Jan 2023 12:05:47 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/63d3be1b5f81380de35cbbe5</guid>
             <link>https://m.okjike.com/originalPosts/63d3be1b5f81380de35cbbe5</link>
