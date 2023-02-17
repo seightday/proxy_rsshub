@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Fri, 17 Feb 2023 06:29:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Feb 2023 11:03:02 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[学编程技术最有效的办法，就是： ①找到该领域口碑最好的那本书，尽量不要找视频 ②找到学这门技术最好的编辑器/IDE及其插件/扩展 ③关闭社交应用 ④给自己定一...]]></title>
+            <description><![CDATA[学编程技术最有效的办法，就是：<br>①找到该领域口碑最好的那本书，尽量不要找视频<br>②找到学这门技术最好的编辑器/IDE及其插件/扩展<br>③关闭社交应用<br>④给自己定一个1个月的计划及目标，开始做<br>⑤构思一个一万行代码量左右的实践项目，开始做<br>⑥总结，补缺，重构，增强。 ​​​]]></description>
+            <pubDate>Fri, 17 Feb 2023 04:48:13 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63ef070dd930a0c3a6c29c8b</guid>
+            <link>https://m.okjike.com/originalPosts/63ef070dd930a0c3a6c29c8b</link>
+            
+            
+            
+            <author><![CDATA[2gua]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[不要在细节上花太多时间，尤其是要在限定的时间内完成某件事情时。 我第一次创业时，就犯过这个错误，在没有设计师指导的情况下，在前端样式上花了太多时间调整...]]></title>
@@ -105,22 +121,6 @@
         </item>
         
         <item>
-            <title><![CDATA[“学习一些 prompt，准确描述你的想法，会帮助你大幅提效。比如 awesome-chatgpt-prompts[1]这个 Github 仓库可以帮你学习各种 prompt，如果你是开发者，可以在 ...]]></title>
-            <description><![CDATA[<img src="https://mmbiz.qpic.cn/mmbiz_jpg/QRibyjewM1IB8mWwic4ZN1HEhk1iaqlmwdDQHmJJt3ebsiarfD29w1zvmCnJt2ribsTRyokecWNSegwooWxicBomm4fg/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>                    <a href="https://mp.weixin.qq.com/s/AcynBm90gM2YI269JuQrVQ">我们应该如何用好 AI？从 ChatGPT 到编程语言、大数据、前端</a><br>                <br>“学习一些 prompt，准确描述你的想法，会帮助你大幅提效。比如 awesome-chatgpt-prompts[1]这个 Github 仓库可以帮你学习各种 prompt，如果你是开发者，可以在 chatgpt-engineer-prompts[2] 找到一些编程相关的使用技巧。”<br><br>[1]awesome-chatgpt-prompts: https://github.com/f/awesome-chatgpt-prompts<br>[2]chatgpt-engineer-prompts: https://github.com/camsong/chatgpt-engineer-prompts]]></description>
-            <pubDate>Tue, 14 Feb 2023 15:03:37 GMT</pubDate>
-            <guid isPermaLink="false">https://mp.weixin.qq.com/s/AcynBm90gM2YI269JuQrVQ</guid>
-            <link>https://mp.weixin.qq.com/s/AcynBm90gM2YI269JuQrVQ</link>
-            
-            
-            
-            <author><![CDATA[_幸运用户]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[可算看到一个支持按段落翻译的浏览器插件了，不用买彩云小译了。就是这个许可证比较麻烦，AGPL。 ps. 搞半天没开源，就留了个 dist。 https://github.com/immers...]]></title>
             <description><![CDATA[可算看到一个支持按段落翻译的浏览器插件了，不用买彩云小译了。就是这个许可证比较麻烦，AGPL。<br><br>ps. 搞半天没开源，就留了个 dist。<br><br>https://github.com/immersive-translate/immersive-translate<br><img src="https://cdnv2.ruguoapp.com/FqulX_BBridkfPMpgPgPpOIXaTY-v3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Wed, 01 Feb 2023 02:50:44 GMT</pubDate>
@@ -138,7 +138,7 @@
         
         <item>
             <title><![CDATA[写了一个 Chrome / Edge 浏览器插件，一键开启编辑功能，当然也可以绕开某些网站对复制Ctrl + C的限制。https://github.com/gantrol/edit_or_copy_page 【整活】...]]></title>
-            <description><![CDATA[写了一个 Chrome / Edge 浏览器插件，一键开启编辑功能，当然也可以绕开某些网站对复制Ctrl + C的限制。https://github.com/gantrol/edit_or_copy_page  【整活】<br><br>现可在 edge 插件商城添加：https://microsoftedge.microsoft.com/addons/detail/ehmfikmlcglfegkibkabbddipogboeib<br><br>也可在 chrome插件商城添加到浏览器：https://chrome.google.com/webstore/detail/<br><br>注：无法复制 canvas 渲染或干脆放图片的；推荐使用微信或 QQ 内置的截图，有 OCR 图片转文字功能<br><video src="https://videocdn.jellow.site/FvrxMLd7tR5x3TgwzWFGvLI3-tUD.mp4?sign=797fadbded695117ab80af825712082f&amp;t=63ef251f" controls=""></video>]]></description>
+            <description><![CDATA[写了一个 Chrome / Edge 浏览器插件，一键开启编辑功能，当然也可以绕开某些网站对复制Ctrl + C的限制。https://github.com/gantrol/edit_or_copy_page  【整活】<br><br>现可在 edge 插件商城添加：https://microsoftedge.microsoft.com/addons/detail/ehmfikmlcglfegkibkabbddipogboeib<br><br>也可在 chrome插件商城添加到浏览器：https://chrome.google.com/webstore/detail/<br><br>注：无法复制 canvas 渲染或干脆放图片的；推荐使用微信或 QQ 内置的截图，有 OCR 图片转文字功能<br><video src="https://videocdn.jellow.site/FvrxMLd7tR5x3TgwzWFGvLI3-tUD.mp4?sign=ba05ea57406cb08b02d3c40a6b3bd21a&amp;t=63ef654a" controls=""></video>]]></description>
             <pubDate>Fri, 27 Jan 2023 12:05:47 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/63d3be1b5f81380de35cbbe5</guid>
             <link>https://m.okjike.com/originalPosts/63d3be1b5f81380de35cbbe5</link>
