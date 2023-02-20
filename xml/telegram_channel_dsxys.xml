@@ -8,7 +8,7 @@
     <channel>
         <title><![CDATA[大师兄影视官方频道 - Telegram Channel]]></title>
         <link>https://t.me/s/dsxys</link>
-        <atom:link href="https://rsshub.app/telegram/channel/dsxys" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub/telegram/channel/dsxys" rel="self" type="application/rss+xml" />
         <description><![CDATA[官网https://dsxys.com 或 https://dsxys.pro - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -23,8 +23,8 @@
             <link>https://t.me/s/dsxys</link>
         </image>
         
-        <lastBuildDate>Mon, 20 Feb 2023 16:24:17 GMT</lastBuildDate>
-        <ttl>120</ttl>
+        <lastBuildDate>Mon, 20 Feb 2023 20:18:33 GMT</lastBuildDate>
+        <ttl>1</ttl>
         
         <item>
             <title><![CDATA[因为xx原因，捐助提前关闭，等有缘再来]]></title>
