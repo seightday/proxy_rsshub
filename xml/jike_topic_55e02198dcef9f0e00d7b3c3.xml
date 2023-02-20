@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 20 Feb 2023 11:42:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Feb 2023 16:10:28 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -105,6 +105,22 @@
         </item>
         
         <item>
+            <title><![CDATA[不要在细节上花太多时间，尤其是要在限定的时间内完成某件事情时。 我第一次创业时，就犯过这个错误，在没有设计师指导的情况下，在前端样式上花了太多时间调整...]]></title>
+            <description><![CDATA[<img src="https://mmbiz.qpic.cn/mmbiz_jpg/yWXmuSFeCk2bvybR5XWibic561siccTibLexsz34ELgKNsKwgEntm8ibZiapxx8uYHn1DxK0w9icJWgpSibWfJhyoMSIOw/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>                    <a href="https://mp.weixin.qq.com/s/2Q3BNpichZ1weCKMuRYaug">不要在细节上雕花</a><br>                <br>不要在细节上花太多时间，尤其是要在限定的时间内完成某件事情时。<br>我第一次创业时，就犯过这个错误，在没有设计师指导的情况下，在前端样式上花了太多时间调整细节，这里颜色深一点，那里字体加大一号，这里加个边框，那里行距加大一点，类似这种细节反复修改。结果前端花了大量时间修改，后端没时间做了，在限定的时间内只能出一个半成品来演示。<br>所以我前几天才有感而发，https://m.okjike.com/originalPosts/63e98d32898c23cdb214afa7?s=eyJ1IjoiNTY3YTUwZDQ2ZWY4OWMxMjAwOGE3NTc1In0%3D 先完成一个75分的全流程产品，再来打磨到整体80分、85分。<br>再举个后端例子，假如要给前端返回一个配置信息，最简单的实现是先在代码里写死配置，直接返回给前端。下一步可以改成读取指定目录下的配置文件返回给前端，而配置文件暂时手动生成。下一步可以做一个后台界面来修改这个配置文件。]]></description>
+            <pubDate>Fri, 17 Feb 2023 01:11:17 GMT</pubDate>
+            <guid isPermaLink="false">https://mp.weixin.qq.com/s/2Q3BNpichZ1weCKMuRYaug</guid>
+            <link>https://mp.weixin.qq.com/s/2Q3BNpichZ1weCKMuRYaug</link>
+            
+            
+            
+            <author><![CDATA[哥飞]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[正常人谁tm会用拼音缩写当变量名啊！！！ 今天看到个'dm'字段，百思不得其解，跑去问了两个人，辗转问到了，说是“代码”。。 dm你mlgb啊。。。]]></title>
             <description><![CDATA[正常人谁tm会用拼音缩写当变量名啊！！！<br><br>今天看到个'dm'字段，百思不得其解，跑去问了两个人，辗转问到了，说是“代码”。。<br><br>dm你mlgb啊。。。<br><img src="https://cdnv2.ruguoapp.com/FnL5MzKeXQAotK3-pM3Vda4Qpzouv3.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Wed, 15 Feb 2023 08:02:02 GMT</pubDate>
@@ -138,7 +154,7 @@
         
         <item>
             <title><![CDATA[写了一个 Chrome / Edge 浏览器插件，一键开启编辑功能，当然也可以绕开某些网站对复制Ctrl + C的限制。https://github.com/gantrol/edit_or_copy_page 【整活】...]]></title>
-            <description><![CDATA[写了一个 Chrome / Edge 浏览器插件，一键开启编辑功能，当然也可以绕开某些网站对复制Ctrl + C的限制。https://github.com/gantrol/edit_or_copy_page  【整活】<br><br>现可在 edge 插件商城添加：https://microsoftedge.microsoft.com/addons/detail/ehmfikmlcglfegkibkabbddipogboeib<br><br>也可在 chrome插件商城添加到浏览器：https://chrome.google.com/webstore/detail/<br><br>注：无法复制 canvas 渲染或干脆放图片的；推荐使用微信或 QQ 内置的截图，有 OCR 图片转文字功能<br><video src="https://videocdn.jellow.site/FvrxMLd7tR5x3TgwzWFGvLI3-tUD.mp4?sign=f4ea745efbe1c793cf6d93e7dfbd4fff&amp;t=63f36329" controls=""></video>]]></description>
+            <description><![CDATA[写了一个 Chrome / Edge 浏览器插件，一键开启编辑功能，当然也可以绕开某些网站对复制Ctrl + C的限制。https://github.com/gantrol/edit_or_copy_page  【整活】<br><br>现可在 edge 插件商城添加：https://microsoftedge.microsoft.com/addons/detail/ehmfikmlcglfegkibkabbddipogboeib<br><br>也可在 chrome插件商城添加到浏览器：https://chrome.google.com/webstore/detail/<br><br>注：无法复制 canvas 渲染或干脆放图片的；推荐使用微信或 QQ 内置的截图，有 OCR 图片转文字功能<br><video src="https://videocdn.jellow.site/FvrxMLd7tR5x3TgwzWFGvLI3-tUD.mp4?sign=9bd0a8959f7b26473254e8bec39b6226&amp;t=63f3a260" controls=""></video>]]></description>
             <pubDate>Fri, 27 Jan 2023 12:05:47 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/63d3be1b5f81380de35cbbe5</guid>
             <link>https://m.okjike.com/originalPosts/63d3be1b5f81380de35cbbe5</link>
@@ -162,22 +178,6 @@
             
             
             <author><![CDATA[Rennen]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[想给我的程序员朋友们也办一个bug展～ 毕竟，bug才是编程者的宿命，谁没有關於精妙绝伦的、狡猾的、聪明反被聪明误、学艺不精的bug代码故事呢！ 「殊途同归.虫逢...]]></title>
-            <description><![CDATA[想给我的程序员朋友们也办一个bug展～<br>毕竟，bug才是编程者的宿命，谁没有關於精妙绝伦的、狡猾的、聪明反被聪明误、学艺不精的bug代码故事呢！<br><br>「殊途同归.虫逢的艺术」<br><br>嗯，等我回归软件行业，立马办。<br><img src="https://cdnv2.ruguoapp.com/Flbjyqx1tsLo4dHLaBx2XMvfptZAv3.heic" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 26 Jan 2023 11:33:05 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63d264f11e37d9e8d356a6a2</guid>
-            <link>https://m.okjike.com/originalPosts/63d264f11e37d9e8d356a6a2</link>
-            
-            
-            
-            <author><![CDATA[夏尔之翼]]></author>
             
                 
             
