@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 21 Feb 2023 03:14:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Feb 2023 07:22:02 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[原来windows上 alt+` 可以直接叫出命令行 ​​​ PS：没找到哪个版本引入的，只发现可能是Windows terminal带的]]></title>
+            <description><![CDATA[原来windows上 alt+` 可以直接叫出命令行 ​​​<br><br>PS：没找到哪个版本引入的，只发现可能是Windows terminal带的]]></description>
+            <pubDate>Mon, 20 Feb 2023 11:07:29 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63f354715681ddaa68c6671b</guid>
+            <link>https://m.okjike.com/originalPosts/63f354715681ddaa68c6671b</link>
+            
+            
+            
+            <author><![CDATA[黄健楸]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[本来搞了个小项目给了两千块钱挺开心的，但刚无意间了解到我上面那个老师拿到的是一万左右（她可是啥都没干），原来我就是那个层层外包链最底层的大学生😊😊...]]></title>
@@ -121,22 +137,6 @@
         </item>
         
         <item>
-            <title><![CDATA[正常人谁tm会用拼音缩写当变量名啊！！！ 今天看到个'dm'字段，百思不得其解，跑去问了两个人，辗转问到了，说是“代码”。。 dm你mlgb啊。。。]]></title>
-            <description><![CDATA[正常人谁tm会用拼音缩写当变量名啊！！！<br><br>今天看到个'dm'字段，百思不得其解，跑去问了两个人，辗转问到了，说是“代码”。。<br><br>dm你mlgb啊。。。<br><img src="https://cdnv2.ruguoapp.com/FnL5MzKeXQAotK3-pM3Vda4Qpzouv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 15 Feb 2023 08:02:02 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63ec917ae79d79337ca6c4c6</guid>
-            <link>https://m.okjike.com/originalPosts/63ec917ae79d79337ca6c4c6</link>
-            
-            
-            
-            <author><![CDATA[星光村哈士奇]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[可算看到一个支持按段落翻译的浏览器插件了，不用买彩云小译了。就是这个许可证比较麻烦，AGPL。 ps. 搞半天没开源，就留了个 dist。 https://github.com/immers...]]></title>
             <description><![CDATA[可算看到一个支持按段落翻译的浏览器插件了，不用买彩云小译了。就是这个许可证比较麻烦，AGPL。<br><br>ps. 搞半天没开源，就留了个 dist。<br><br>https://github.com/immersive-translate/immersive-translate<br><img src="https://cdnv2.ruguoapp.com/FqulX_BBridkfPMpgPgPpOIXaTY-v3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Wed, 01 Feb 2023 02:50:44 GMT</pubDate>
@@ -154,7 +154,7 @@
         
         <item>
             <title><![CDATA[写了一个 Chrome / Edge 浏览器插件，一键开启编辑功能，当然也可以绕开某些网站对复制Ctrl + C的限制。https://github.com/gantrol/edit_or_copy_page 【整活】...]]></title>
-            <description><![CDATA[写了一个 Chrome / Edge 浏览器插件，一键开启编辑功能，当然也可以绕开某些网站对复制Ctrl + C的限制。https://github.com/gantrol/edit_or_copy_page  【整活】<br><br>现可在 edge 插件商城添加：https://microsoftedge.microsoft.com/addons/detail/ehmfikmlcglfegkibkabbddipogboeib<br><br>也可在 chrome插件商城添加到浏览器：https://chrome.google.com/webstore/detail/<br><br>注：无法复制 canvas 渲染或干脆放图片的；推荐使用微信或 QQ 内置的截图，有 OCR 图片转文字功能<br><video src="https://videocdn.jellow.site/FvrxMLd7tR5x3TgwzWFGvLI3-tUD.mp4?sign=af830ee5cbd5f35f61263fb89d32c50f&amp;t=63f43d1e" controls=""></video>]]></description>
+            <description><![CDATA[写了一个 Chrome / Edge 浏览器插件，一键开启编辑功能，当然也可以绕开某些网站对复制Ctrl + C的限制。https://github.com/gantrol/edit_or_copy_page  【整活】<br><br>现可在 edge 插件商城添加：https://microsoftedge.microsoft.com/addons/detail/ehmfikmlcglfegkibkabbddipogboeib<br><br>也可在 chrome插件商城添加到浏览器：https://chrome.google.com/webstore/detail/<br><br>注：无法复制 canvas 渲染或干脆放图片的；推荐使用微信或 QQ 内置的截图，有 OCR 图片转文字功能<br><video src="https://videocdn.jellow.site/FvrxMLd7tR5x3TgwzWFGvLI3-tUD.mp4?sign=345c55018d89ee3c909beb991be2c27b&amp;t=63f477b9" controls=""></video>]]></description>
             <pubDate>Fri, 27 Jan 2023 12:05:47 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/63d3be1b5f81380de35cbbe5</guid>
             <link>https://m.okjike.com/originalPosts/63d3be1b5f81380de35cbbe5</link>
