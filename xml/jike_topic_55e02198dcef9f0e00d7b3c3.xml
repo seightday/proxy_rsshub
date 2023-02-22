@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 22 Feb 2023 06:57:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Feb 2023 11:10:08 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[Web App 崛起是不可能的了，只能说相关技术可以用在更广泛的地方。 网页应用的很多特性已经被滥用成灾了，想想现在大众对网页应用的几类印象吧： - 啥是网页应用...]]></title>
+            <description><![CDATA[Web App 崛起是不可能的了，只能说相关技术可以用在更广泛的地方。<br><br>网页应用的很多特性已经被滥用成灾了，想想现在大众对网页应用的几类印象吧：<br><br>- 啥是网页应用（指从来不会主动打开浏览器应用，移动端用户居多）<br>- 半屏幕广告，底部顺便再冒一个 Cookie 提示；<br>- 诱导启用 Web Push 来推送垃圾信息；<br>- 案例：钓鱼页面，点击“Allow”来证明你不是机器人；<br>- 烧流量的内嵌视频广告（非视频平台的视频广告），自动视频播放；<br>- 案例：GBATemp 、Fandom Wiki 的页面内不可关闭的视频广告；<br>- 加载慢（静态文件很分散，Service Worker 的缓存特性也没几个网站用）；<br>- 性能垃圾（一堆广告脚本，本来不卡的页面也给你弄得卡了）；<br>- 此外，对于 GPU 要求高的网页应用，如果 Windows 是双显卡（集显输出视频 + 独显作为图形加速器），Edge 默认只用集显，那么性能当然辣鸡。网页应用没权限去指定用哪个 GPU 。<br>- “你的的网站怎么打开白屏啊？” —— IE 、Chrome 49 、旧版本 iOS 的用户如是说。<br><br>顺便再来点有特色的：<br><br>- 请在手机 App 内查看全文；<br>- 关注微信公众号查看全文；<br>- 点击展开 → 请登录 → 请用手机号注册 → 查看需要关注博主 → 发现文章是隔壁复制粘贴来的，图都是裂的；<br>- xx 知识网，xx 百科网；<br>- 连接已重置（ Cloudflare CDN ）。<br><br>而且你永远不知道你的用户是怎么打开你的网页的：<br><br>- 用户禁用了 Cookie ，所有 Storage API 会被同步禁止掉，都叫“网页应用”了，结果本地存储设置项都没法做到；<br>- 浏览器启用非常暴力的 Ad Block 策略，ID 或 Class 为 ad- 开头的元素凭空消失；<br>- 用户在 iOS 设置里面对 Safari 的设置一通乱按，然后网页炸了； <br>- 浏览器或者系统内启用非常奇怪的“自动黑暗模式”，页面样式混乱不堪；<br>- 微信等应用内打开链接，网页在缺少部分新的浏览器特性的内置浏览器中打开；<br>- 安卓内置浏览器内打开链接，结果浏览器内核版本低得吓人。<br><br>现在的话，即使费尽心思去做网页应用，最后还是不如套个皮当成客户端推给用户来的快（参考抖音电脑版）。<br>做网页应用的，想变现最后还得靠做小程序。]]></description>
+            <pubDate>Wed, 22 Feb 2023 03:03:21 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63f585f91a9dca9edd9b3a32</guid>
+            <link>https://m.okjike.com/originalPosts/63f585f91a9dca9edd9b3a32</link>
+            
+            
+            
+            <author><![CDATA[高司翎]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[github开源项目推荐：★★★★★ 目前功能最全 最良心的SSH远程终端连接器 https://github.com/kingToolbox/WindTerm]]></title>
@@ -34,22 +50,6 @@
             
             
             <author><![CDATA[iEasyseek]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[本来搞了个小项目给了两千块钱挺开心的，但刚无意间了解到我上面那个老师拿到的是一万左右（她可是啥都没干），原来我就是那个层层外包链最底层的大学生😊😊...]]></title>
-            <description><![CDATA[本来搞了个小项目给了两千块钱挺开心的，但刚无意间了解到我上面那个老师拿到的是一万左右（她可是啥都没干），原来我就是那个层层外包链最底层的大学生😊😊😊]]></description>
-            <pubDate>Mon, 20 Feb 2023 07:19:28 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63f31f001fecfe3745cd19ee</guid>
-            <link>https://m.okjike.com/originalPosts/63f31f001fecfe3745cd19ee</link>
-            
-            
-            
-            <author><![CDATA[袋装小白兔]]></author>
             
                 
             
@@ -154,7 +154,7 @@
         
         <item>
             <title><![CDATA[写了一个 Chrome / Edge 浏览器插件，一键开启编辑功能，当然也可以绕开某些网站对复制Ctrl + C的限制。https://github.com/gantrol/edit_or_copy_page 【整活】...]]></title>
-            <description><![CDATA[写了一个 Chrome / Edge 浏览器插件，一键开启编辑功能，当然也可以绕开某些网站对复制Ctrl + C的限制。https://github.com/gantrol/edit_or_copy_page  【整活】<br><br>现可在 edge 插件商城添加：https://microsoftedge.microsoft.com/addons/detail/ehmfikmlcglfegkibkabbddipogboeib<br><br>也可在 chrome插件商城添加到浏览器：https://chrome.google.com/webstore/detail/<br><br>注：无法复制 canvas 渲染或干脆放图片的；推荐使用微信或 QQ 内置的截图，有 OCR 图片转文字功能<br><video src="https://videocdn.jellow.site/FvrxMLd7tR5x3TgwzWFGvLI3-tUD.mp4?sign=9a746f977afdd803e0895737f39b1814&amp;t=63f5c2ae" controls=""></video>]]></description>
+            <description><![CDATA[写了一个 Chrome / Edge 浏览器插件，一键开启编辑功能，当然也可以绕开某些网站对复制Ctrl + C的限制。https://github.com/gantrol/edit_or_copy_page  【整活】<br><br>现可在 edge 插件商城添加：https://microsoftedge.microsoft.com/addons/detail/ehmfikmlcglfegkibkabbddipogboeib<br><br>也可在 chrome插件商城添加到浏览器：https://chrome.google.com/webstore/detail/<br><br>注：无法复制 canvas 渲染或干脆放图片的；推荐使用微信或 QQ 内置的截图，有 OCR 图片转文字功能<br><video src="https://videocdn.jellow.site/FvrxMLd7tR5x3TgwzWFGvLI3-tUD.mp4?sign=94903a8db80e265623889fc538ba5073&amp;t=63f5ff18" controls=""></video>]]></description>
             <pubDate>Fri, 27 Jan 2023 12:05:47 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/63d3be1b5f81380de35cbbe5</guid>
             <link>https://m.okjike.com/originalPosts/63d3be1b5f81380de35cbbe5</link>
