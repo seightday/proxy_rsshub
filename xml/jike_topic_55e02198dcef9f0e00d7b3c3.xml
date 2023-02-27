@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 27 Feb 2023 02:23:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 06:35:56 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[#卡片笔记法 01 从不同层级看笔记 ☞信息管理时，有不同单元 ❶手机收藏的文章链接 >> cubox转存 ❷各种闪念、灵感笔记 >> flomo记录 ❸各种主题系列文章 >> not...]]></title>
+            <description><![CDATA[#卡片笔记法 01 从不同层级看笔记<br><br>☞信息管理时，有不同单元<br><br>❶手机收藏的文章链接 &gt;&gt; cubox转存<br>❷各种闪念、灵感笔记 &gt;&gt; flomo记录<br>❸各种主题系列文章 &gt;&gt; notion整理<br>❹成体系有结构的课程 &gt;&gt; notion整理<br><br>☞寻找的知识源头，有不同来源<br><br>❶文章(Paper)：自由度最高，来自各种内容媒体源的长文<br>❷课程(Course)：自由度较高，来自各种课程平台的精品课程<br>❸高手(Person)：有序度较高，有着优秀作品的高手，会有成体系的方法论<br>❹书籍(Book)：有序度最高，长盛不衰的实体书籍，依旧是最有价值的信息源<br><br>☞内容创作时，有不同处理阶段<br><br>❶收集数据(Data)：来自知识源头的各种信息源，输入（input）第一手的数据和信息<br>❷卡片重构(Card)：基于组块撰写一张又一张知识卡片，完成信息到知识重构（reput)<br>❸知识生成(Paper)：组装四五张卡片，基于主题完成体系长文撰写（output)<br>❹产品创造(Product)：汇编长文，从知识传授和问题解决出发，设计微课和训练营<br><br>&gt;&gt;&gt;<br>注：配图创作于2017年，彼时notion、flomo都还没面世！而我也刚从开智学堂接触”卡片写作“的概念，结合所学所用，绘制了这张图。如今五载已过，是时候要对这张图进行优化改写了！<br><img src="https://cdnv2.ruguoapp.com/FrVVTBL2lv2BeZYp2fmhsibDz7VFv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 27 Feb 2023 00:44:01 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63fbfcd1c2794c4e167d4508</guid>
+            <link>https://m.okjike.com/originalPosts/63fbfcd1c2794c4e167d4508</link>
+            
+            
+            
+            <author><![CDATA[王游之]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[markdown教程：新手入门，老手自查]]></title>
@@ -34,6 +50,22 @@
             
             
             <author><![CDATA[Zach正在初始化]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[程序员的门出bug了 #有点讽刺在里面]]></title>
+            <description><![CDATA[程序员的门出bug了<br><br>#有点讽刺在里面 <br><img src="https://cdnv2.ruguoapp.com/Fn664RRWgZtYOtATWqScpHHJbeONv3.heic" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sun, 26 Feb 2023 10:45:03 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63fb382f1f1113c2b756ecb9</guid>
+            <link>https://m.okjike.com/originalPosts/63fb382f1f1113c2b756ecb9</link>
+            
+            
+            
+            <author><![CDATA[一只小贼贼]]></author>
             
                 
             
@@ -57,22 +89,6 @@
         </item>
         
         <item>
-            <title><![CDATA[哇偶，Github 自带了侧边栏文件树，以及更好用的代码搜索。不得不说，Github 越来越好用了。 具体内容：https://docs.github.com/repositories/working-with-fil...]]></title>
-            <description><![CDATA[哇偶，Github 自带了侧边栏文件树，以及更好用的代码搜索。不得不说，Github 越来越好用了。<br><br>具体内容：https://docs.github.com/repositories/working-with-files/managing-files/navigating-files-with-the-new-code-view<br><img src="https://cdnv2.ruguoapp.com/FkftUhR8uB0cSHJbTLZhWOkpNyb-v3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 25 Feb 2023 04:07:24 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63f9897c63afa9a88a063dbc</guid>
-            <link>https://m.okjike.com/originalPosts/63f9897c63afa9a88a063dbc</link>
-            
-            
-            
-            <author><![CDATA[ourongxing]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[准备开发一个免费开源的网页插件 1. 集成 singlefile ，支持保存网页快照。 2. 支持在网页上直接批注。 打开网页后加载之前的批注。 3. 不依赖服务器，支持把 no...]]></title>
             <description><![CDATA[准备开发一个免费开源的网页插件<br>1. 集成 singlefile ，支持保存网页快照。<br>2. 支持在网页上直接批注。 打开网页后加载之前的批注。<br>3. 不依赖服务器，支持把  notion，webdav，GitHub 作为后端。<br>4. 把批注导出到 obsidian，logseq，notion，wolai，flowus。<br><br>下面是我的一些思考🤔<br>1. 为什么开源？<br>singlefile 是 agpl 协议的，与其自己造轮子，不如直接用现有的开源库。<br><br>2. 为什么要支持 GitHub notion<br><br>额外支持 GitHub notion 的成本很小。<br>希望以开源插件作为获客手段，让用户先用上插件。 再利用 hamsterbase 专属的功能（如全文搜索）把用户吸引到 hamsterbase 上。]]></description>
             <pubDate>Fri, 24 Feb 2023 03:52:46 GMT</pubDate>
@@ -82,22 +98,6 @@
             
             
             <author><![CDATA[HamsterBase]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[我觉得一个程序员对前沿技术或开源社区不感兴趣，只会在公司写代码，回家打游戏，这是一件极其糟糕的事情。]]></title>
-            <description><![CDATA[我觉得一个程序员对前沿技术或开源社区不感兴趣，只会在公司写代码，回家打游戏，这是一件极其糟糕的事情。]]></description>
-            <pubDate>Thu, 23 Feb 2023 16:20:15 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63f7923fa2948ddbf622580f</guid>
-            <link>https://m.okjike.com/originalPosts/63f7923fa2948ddbf622580f</link>
-            
-            
-            
-            <author><![CDATA[没烦恼]]></author>
             
                 
             
