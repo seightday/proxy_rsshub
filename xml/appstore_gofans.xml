@@ -15,8 +15,55 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Mon, 27 Feb 2023 20:16:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 00:17:26 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[「降价」-「iOS」小牛计算器(高级版)]]></title>
+            <description><![CDATA[<img src="https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/61/e2/57/61e257ef-aaa9-d3ca-2e23-a0332adb49b4/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/256x256bb.jpg" referrerpolicy="no-referrer">
+          <br>
+          原价：¥45.00 -&gt; 现价：¥6.00
+          <br>
+          平台：iOS
+          <br>
+          小牛计算器是一款基于表达式的编程式计算器。用户可以定义常用的函数来简化日常计算。
+
+先来看看一些简单的数学题：
+
+问题一：
+小明（为什么又是小明？）一天可以挣500 块，请问他年收入是多少？（假设他每周工作 5 天，一年工作 48 周）
+
+答：
+这个很简单啦，在小牛计算器里输入这样的算式就可以：
+500 x 5 x 48
+
+问题二：
+计算这样的算式，一般的计算器需要按多少次按钮？
+
+答：
+一般 8 次，小牛计算器是 7 次，因为不需要按 ‘=’ 号
+
+
+问题三：
+如果小明的日薪是 600， 700， 800...年收入又怎么算？
+
+答：
+600 x 5 x 48;
+700 x 5 x 48;
+
+        ]]></description>
+            <pubDate>Tue, 28 Feb 2023 00:01:25 GMT</pubDate>
+            <guid isPermaLink="false">https://gofans.cn/app/477e832d-9967-4f2c-bad0-2884fd620f05</guid>
+            <link>https://gofans.cn/app/477e832d-9967-4f2c-bad0-2884fd620f05</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[「降价」-「iOS」Thermo - 温度]]></title>
@@ -656,49 +703,6 @@ Features included but not shown in the screenshots: filtering caches by type, si
             <pubDate>Fri, 24 Feb 2023 15:12:07 GMT</pubDate>
             <guid isPermaLink="false">https://gofans.cn/app/905b99c6-3bd4-448d-a2fc-29e55dcb773e</guid>
             <link>https://gofans.cn/app/905b99c6-3bd4-448d-a2fc-29e55dcb773e</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[「免费」-「iOS」hPlayer - 万能本地媒体播放器&文件浏览器]]></title>
-            <description><![CDATA[<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d4/b8/87/d4b88732-6baf-2b3e-a8f9-f88099dd96af/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/256x256bb.jpg" referrerpolicy="no-referrer">
-          <br>
-          原价：¥6.00 -&gt; 现价：¥0.00
-          <br>
-          平台：iOS
-          <br>
-          这是一个界面简洁，功能强大，支持丰富视频、音频文件格式的本地播放器，并可以将电脑下载的视频、动漫、电影等任何格式的媒体文件通过WiFi传到hPlayer中进行播放。
-
-* 支持众多视频格式，无须转码
-* 支持滑动快进
-* 播放模式锁屏功能
-* 文件夹功能
-* WiFi批量导入功能
-* iTunes导入功能
-* 部分格式支持硬件解码
-* 通过DLNA投屏手机里的视频到电视上播放
-* 支持音频文件的播放
-* 支持图片浏览
-
-【文件管理】
-- 删除、移动、重命名、创建文件夹
-- 支持WiFi传输，无需连接数据线即可传输文件
-- 支持ITunes导入功能
-
-【手势功能】
-- 水平滑动：调整播放位置
--
-        ]]></description>
-            <pubDate>Fri, 24 Feb 2023 15:11:52 GMT</pubDate>
-            <guid isPermaLink="false">https://gofans.cn/app/39d93e7b-4dd0-4fd5-94a0-45add515d5ce</guid>
-            <link>https://gofans.cn/app/39d93e7b-4dd0-4fd5-94a0-45add515d5ce</link>
             
             
             
