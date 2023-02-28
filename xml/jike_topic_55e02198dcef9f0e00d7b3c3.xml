@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 28 Feb 2023 10:40:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 14:53:27 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -105,6 +105,22 @@
         </item>
         
         <item>
+            <title><![CDATA[markdown教程：新手入门，老手自查]]></title>
+            <description><![CDATA[<img src="https://forum-zh.obsidian.md/uploads/default/original/1X/fa876e7537c1c16434019eb6e806e97dbc9a3004.png" referrerpolicy="no-referrer"><br>                    <a href="https://forum-zh.obsidian.md/t/topic/435">MarkDown语法 超详细教程</a><br>                <br>markdown教程：新手入门，老手自查]]></description>
+            <pubDate>Sun, 26 Feb 2023 16:00:00 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63fb8200c2794c4e167511a3</guid>
+            <link>https://m.okjike.com/originalPosts/63fb8200c2794c4e167511a3</link>
+            
+            
+            
+            <author><![CDATA[Zach正在初始化]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[你能想到写作比打游戏还过瘾吗？ #知识管理 #数字花园 #写作 现在我每天最期待的事情，就是晚上回到书房，打开一款笔记软件来写作，写随笔、写日记、写文章、写...]]></title>
             <description><![CDATA[你能想到写作比打游戏还过瘾吗？<br><br>#知识管理 #数字花园 #写作 <br><br>现在我每天最期待的事情，就是晚上回到书房，打开一款笔记软件来写作，写随笔、写日记、写文章、写策划。一打开就可以进入心流，越写越兴奋，甚至都舍不得睡觉。<br><br>是什么样的软件居然有这样神奇的体验？它，就是 TiddlyWiki。<br><br>自从三年前，印象笔记开始高频弹出广告，我就在寻找一款替代软件，主力笔记软件从 2020 年到2021年的 Zim Wiki，到 2021 年的 Obsidian 与 Logseq，期间还尝试了几十款各种类型的笔记软件。这三款软件都是本地存储，功能和体验上也都很优秀，不过还是有不满意的地方。<br><br>于是在 2022年，一款叫作 TiddlyWiki 的笔记软件引起了我的注意。这款软件最初是 2003 年开发的 TiddlyWiki Classic，开源、免费，开发者一直在迭代，到 2014 年又重构了软件，做了 TiddlyWiki5，重构版出来后，到现在的 8 年多时间里，也一直在迭代。<br><br>其实，我早就知道这款软件，只是觉得需要折腾配置，一直没有用它。后来是看到 Obsidian 开发者的访谈以及 Logseq 开发者的访谈，都提到曾受 TiddlyWiki 的启发，才开始认真学习这款软件。2022 年作为一个学习专题来研究它，阅读了大量的教程和用例，然后在下半年配置了一份自定义的 TiddlyWiki。<br><br>所谓“自定义的 TiddlyWiki”，就是说它是可扩展的，还是可编程的。可扩展的软件，说的是一款软件有大量的插件，可以像堆积木一样，组合出不同的功能。可编程的软件，说的是不仅可以组合插件，你还可以开发插件，可以修改别人的插件，甚至修改软件系统的代码。<br><br>可扩展和可编程，给你带来足够自由的空间去自定义一款软件，让它的每一种功能、每一个样式、每一处细节都符合你的需要，满足你的习惯。甚至两个人都是用 TiddlyWiki，做了不同的扩展与编程，最后看起来完全像是两款不同的软件。而像印象笔记这样的开箱即用的软件，虽然好处是不用折腾配置，但是你也不能自定义这款软件，人家怎么设计你就只能怎么用。<br><br>当然，自由有自由的代价，自由意味着你需要自己去折腾配置，而折腾既消耗脑力，也考验耐心，很多人就在折腾的途中停下了。Obsidian 也需要折腾一下，不过 TiddlyWiki 比 Obsidian 还折腾，两者的区别可以这么说：Obsidian 相当于笔记中的 VSCode，TiddlyWiki 相当于笔记中的 Emacs。Emacs 很强大，但是学习成本比 VSCode 高。<br><br>试过了这么多笔记软件，我认为 TiddlyWiki 是最适合记卡片笔记的，或者说是它就是为卡片笔记而生的。当然，这么说并不是在迎合最近几年流行的卡片笔记的理念，因为 TiddlyWiki 诞生时，卡片笔记这个理念还不知在哪个角落呢。<br><br>在配置 TiddlyWiki 时，我给自己定了几条配置原则：<br><br>- 配置要先关注功能，再关注样式。功能＞样式，高效＞好看。<br><br>- 对于笔记软件，最主要的功能就是：写作、剪藏、链接、阅读、查找、同步、分享。<br><br>- 奥卡姆剃刀：如果不必要，就不要添加。<br><br>- 功能能少则少，只留最必要的功能。<br><br>- 最必要的功能包括：高频操作的功能、低频操作但很重要的功能。<br><br>- 两个插件实现相同或相似的功能，则只留一个插件。比如：[[GTD：在页面工具栏显示当前日期]] 与 [[GTD：在页面工具栏显示当前时间]]，可以由 [[GTD：在网站副标题显示当前日期与时间]] 替代，后者更简洁。如果日期信息可以由一段文字来显示，就不要由一个按钮来显示。<br><br>- 样式能少则少，减少干扰的按钮或信息。<br><br>- 不要花哨而无用的设计，所有设计的出发点是有用而非好看。<br><br>- 配色该简约则简约，该突出则突出，不要为了一味简约而忽略了突出，让整个页面在写作或阅读时影响效率。<br><br>- 所有的功能与样式都要通过页面空间来展现，而页面空间是有限的，所以要利用好有限的页面空间，合理布局。每一块页面空间，哪怕一个按钮，都要留给更高频的操作。比如：左侧边栏留给 [[插件：LeftOpenTab]]，因为查看当前已开启的条目比查看最近、目录、收藏都更高频。<br><br>- 页面空间包括：左侧边栏、右侧边栏、侧边栏选项卡、左上角、右上角、网站标题与网站副标题、页面工具栏、查看工具栏、编辑工具栏、编辑器工具栏、故事河、标题栏、副标题栏、标签栏。<br><br>- 配置的目的是为了生成一份自定义的 TiddlyWiki 模板，里面所有的设置都满足自己的需求，符合自己的习惯，不知不觉但又自然而然，一切都是刚刚好。这样便于在写一个细分主题或专门用途的 TiddlyWiki 时，可以复制一份模板立马开始写，不用再折腾配置了。<br><br>- 通过三份文件记录配置过程：[[TiddlyWikiChangelog]]、[[TiddlyWiki 模板配置步骤]]、[[TiddlyWiki 配置原则]]。<br><br>- 全部的配置还要生成一份指南，把各种具体配置都记下来，用卡片笔记的形式记，建立链接，打上标签，基于标签生成目录，标签要建立标签体系（参考 [[TiddlyWiki 自写标签（说明）]]）。<br><br>- 对配置的记录文件（以上三份）和配置所用的文件（软件/插件/文件/代码/预配置的文本片段）都要做好备份。<br><br>对于每一个设置，都以卡片笔记的形式记录下来。当积累了几百条配置相关的笔记时，如何把它们做结构化？对于这个问题，曾困扰了我一段时间。后来想通了，解决办法就是：自下而上与自上而下相结合。<br><br>这个领悟不仅适用于解决这个问题，更可以作为知识管理的一条原则，普遍适用：<br><br>- 积累卡片笔记是自下而上的过程，是生产增量，对笔记进行结构化是自上而下的过程，是挖掘存量。<br><br>- 没有笔记，也就谈不上管理笔记；所以，自下而上在前，自上而下在后。<br><br>- 虽然是“在后”，但是也不能太“后”，也就是说，自上而下去梳理已经积累的笔记，不需要等待非常长的时间再去搞，一边积累就可以一边带着思考，比如 TiddlyWiki 里面标签体系怎么搞。<br><br>- 自下而上，是为了解决分类的问题，先不要管分类，先记下来再说，不要让分类耽误你捕捉想法；但是，当你积累了一定数量的笔记，就需要结构化，而分类是结构化的基本功。没有分类的话，大量散乱的笔记无法呈现结构。没有结构，信息只是信息，有结构，信息成为知识。<br><br>- 所以，自下而上与自上而下，譬如左手与右手，砍掉哪个手都不行。而现在知识管理圈子，过分强调自下而上，可能会忽视自上而下的作用。也许我们不一定要等到大量的卡片笔记去涌现出什么结构，我们一开始就有自上而下的能力。并不是说一旦自上而下了，就是一成不变了，自下而上的卡片会迭代，自上而下的结构也可以迭代。<br><br>当然，最好的做法就是自下而上和自上而下相结合。那么，怎么结合呢？<br><br>在我配置 TiddlyWiki 过程中，以卡片笔记的形式记下具体配置，就是自下而上，为这些笔记做分类，就是自上而下。两者怎么结合？就是通过标签来结合。<br><br>如果你为一条笔记做分类，因为分类是唯一的，所以难度更大，你要考虑它到底放到哪一类里面，尤其是这条笔记可以归到好几个分类里，就会让你纠结。现在，我们先不要分类，而是为笔记打几个标签，因为标签不是唯一的，你可以为一条笔记打上几个标签，所以打标签比做分类的难度就低多了。<br><br>当你有了一些标签后，对标签进行分类。如果你对笔记分类，因为笔记有几百条、几千条，一条条去考虑分类，太烧脑了，而标签只有几十个，你对这几十个标签分类，难度就大大降低了。而且，TiddlyWiki 中可以基于标签生成目录，一条笔记可以有多个标签，一个标签就是目录上的一个分类，所以，一条笔记可以同时存在于多个分类中。<br><br>而在 Obsidian 中，你要让一条笔记同时存在于多个分类中，就要在每个分类中都要复制一篇笔记，除了这个操作麻烦之外，后续还有隐患，即你在某个分类下修改了这篇笔记，复制在其他分类里的笔记并不会同步修改，在 TiddlyWiki 中则可以同步修改，因为是基于标签生成目录，而不是基于分类生成目录，不同标签指向的笔记是同一篇。<br><br>上面这条领悟，说起来其实挺简单的：<br><br>- 自下而上就是先不管分类，先记下来再说；<br><br>- 自下而上与自上而下的结合就是为笔记打标签；<br><br>- 自上而下就是对标签分类，基于标签生成目录。<br><br>比如我想通之后，把几百条 TiddlyWiki 配置相关的笔记，打上若干标签；每个标签都用英文命名，用驼峰命名法；并对标签进行分类，建立了一个标签体系，包括：<br><br>---<br>TiddlyWikiA（基础功能）<br><br>- 系统：TiddlyWikiSystem<br>- 简介：TiddlyWikiIntro<br>- 语言：TiddlyWikiLanguage<br>- 主题：TiddlyWikiTheme<br>- 配色：TiddlyWikiPalette<br>- 字体：TiddlyWikiFont<br>- 视图：TiddlyWikiView<br>- 基础设置：TiddlyWikiBasic<br>- 外观：TiddlyWikiLook<br>- 侧边栏：TiddlyWikiSidebar<br>- 工具栏：TiddlyWikiToolbar<br>- 编辑：TiddlyWikiEdit<br>- 链接：TiddlyWikiLink<br>- 标签：TiddlyWikiTag<br>- 查找：TiddlyWikiSearch<br>- 删除：TiddlyWikiDelete<br>- 任务：TiddlyWikiGTD<br>- 快捷键：TiddlyWikiHotkey<br><br>TiddlyWikiB（高级功能）<br><br>- 标记语言：TiddlyWikiMarkup<br>- 写作：TiddlyWikiWrite<br>- 画图：TiddlyWikiDraw<br>- 数学：TiddlyWikiMath<br>- 导入：TiddlyWikiImport<br>- 导出：TiddlyWikiExport<br>- 保存方式：TiddlyWikiSave<br>- 手机同步：TiddlyWikiPhone<br>- 网站发布：TiddlyWikiPublish<br>- 教程：TiddlyWikiGuide<br>- 用例：TiddlyWikiModel<br><br>TiddlyWikiC（所用文件）<br><br>- 软件：TiddlyWikiSoftware<br>- 插件：TiddlyWikiPlugin<br>    - 官方插件：TiddlyWikiPluginOfficial<br>    - 外部插件：TiddlyWikiPluginOutside<br>- 文件：TiddlyWikiFile<br>- 代码：TiddlyWikiCode<br>- 预配置的文本片段：TiddlyWikiSnippet<br>- 外部工具：TiddlyWikiPartner<br><br>其他<br><br>- 配置更新日志：TiddlyWikiChangelog<br>- 待解决的问题：TiddlyWikiTodo<br>---<br><br>当这个标签体系建立起来后，所有的碎片都用一根线串起来，清清楚楚，又简简单单。<br><br>耐着心性，把这件事做完后，我才算真正搞明白了 TiddlyWiki。正如和 @pimgeek 讨论时他说的一句话：“与其说 TiddlyWiki 是一款笔记软件，不如说它是一个开发架构”。<br><br>- 正因为它是一个架构，所以，你可以基于这个架构低代码开发完全满足你需求、适合你习惯的自定义软件。<br><br>- 正因为它是一个架构，所以，Obsidian 与 Logseq 的开发者都从中获得了启发。<br><br>- 正因为它是一个架构，所以，它强大而又需要折腾，自由而又需要你付出代价，这个代价就是脑力、时间与耐心。<br><br>备注：<br><br>这篇帖子的重点是展示自下而上与自上而下相结合的做法，不是让大家都去用 TiddlyWiki，毕竟太折腾了。如果你的笔记量没有几千或上万，那就不用折腾它了。对于大多数人，我的推荐方案还是：<br><br>- 手机端记碎片笔记，在 Flomo @flomo浮墨笔记 与 滴答清单 @滴答清单 之间选一款；<br><br>- 电脑端整合碎片笔记，在 Obsidian 与 Logseq 之间选一款。<br><br>- 团队协作，在 Notion 与 Feishu 之间选一款。<br><img src="https://cdnv2.ruguoapp.com/Fgeum6t5vurvFyMzd4uQxkMmNsgJv3.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Thu, 23 Feb 2023 13:56:20 GMT</pubDate>
@@ -130,22 +146,6 @@
             
             
             <author><![CDATA[范冰XDash]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[在 ChatGPT 的辅助下，几乎不懂 Python 的我，花了 2 小时，把一个四年前的 Django 项目运行起来了。 遇到错误就扔给 ChatGPT ，根据它的建议来修改。 修改了十...]]></title>
-            <description><![CDATA[在 ChatGPT 的辅助下，几乎不懂 Python 的我，花了 2 小时，把一个四年前的 Django 项目运行起来了。<br>遇到错误就扔给 ChatGPT ，根据它的建议来修改。<br>修改了十几个文件，主要是一些 Python2 和 3 的兼容问题， Django 的升级兼容问题。<br>这要是在以往，得找一个 Python 高手坐我旁边才能完成这些工作，而且高手还可能一直吐槽，不情不愿。]]></description>
-            <pubDate>Thu, 23 Feb 2023 08:10:36 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63f71f7c0b8ff06a83890f18</guid>
-            <link>https://m.okjike.com/originalPosts/63f71f7c0b8ff06a83890f18</link>
-            
-            
-            
-            <author><![CDATA[哥飞]]></author>
             
                 
             
