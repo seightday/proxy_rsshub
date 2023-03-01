@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 01 Mar 2023 07:48:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Mar 2023 12:05:01 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[一个免费的在线IDE 无需注册直接食用 https://www.mycompiler.io]]></title>
+            <description><![CDATA[一个免费的在线IDE<br>无需注册直接食用<br>https://www.mycompiler.io<br><img src="https://cdnv2.ruguoapp.com/FpWSMsKsm9elPtWxAeZWl4bW1gZnv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 28 Feb 2023 10:54:34 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63fddd6a1f1113c2b79e0d8f</guid>
+            <link>https://m.okjike.com/originalPosts/63fddd6a1f1113c2b79e0d8f</link>
+            
+            
+            
+            <author><![CDATA[iEasyseek]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[这个项目是真的灵性。 对开源社区唯有感恩。]]></title>
@@ -130,22 +146,6 @@
             
             
             <author><![CDATA[范冰XDash]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[在 ChatGPT 的辅助下，几乎不懂 Python 的我，花了 2 小时，把一个四年前的 Django 项目运行起来了。 遇到错误就扔给 ChatGPT ，根据它的建议来修改。 修改了十...]]></title>
-            <description><![CDATA[在 ChatGPT 的辅助下，几乎不懂 Python 的我，花了 2 小时，把一个四年前的 Django 项目运行起来了。<br>遇到错误就扔给 ChatGPT ，根据它的建议来修改。<br>修改了十几个文件，主要是一些 Python2 和 3 的兼容问题， Django 的升级兼容问题。<br>这要是在以往，得找一个 Python 高手坐我旁边才能完成这些工作，而且高手还可能一直吐槽，不情不愿。]]></description>
-            <pubDate>Thu, 23 Feb 2023 08:10:36 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63f71f7c0b8ff06a83890f18</guid>
-            <link>https://m.okjike.com/originalPosts/63f71f7c0b8ff06a83890f18</link>
-            
-            
-            
-            <author><![CDATA[哥飞]]></author>
             
                 
             
