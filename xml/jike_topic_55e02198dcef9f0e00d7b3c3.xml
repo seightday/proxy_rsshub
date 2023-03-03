@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Fri, 03 Mar 2023 11:18:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2023 15:27:33 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[现在大家对于 openai 的 api 使用都还太初级了，几乎都是把用户的发言传给模型，然后把模型返回的文字返回给用户就完了。 稍微高级一点的类似于帮个忙，做了很多...]]></title>
+            <description><![CDATA[现在大家对于 openai 的 api 使用都还太初级了，几乎都是把用户的发言传给模型，然后把模型返回的文字返回给用户就完了。<br><br>稍微高级一点的类似于帮个忙，做了很多模板，根据不同的需求使用不同的模板拼接后传给模型，然后依然是把模型返回文字原封不动的返回给用户。<br><br>更好的做法是把模型的输入和输出集成到产品功能里去。<br><br>把用户的非结构化的自然语言文本用模型转成结构化的数据，然后程序使用结构化的数据去做进一步的操作，由程序得到进一步操作的反馈结果之后，再根据情况需要，直接返回数据给用户，或者先给模型由模型根据模板做特定处理后再返回给用户。]]></description>
+            <pubDate>Fri, 03 Mar 2023 12:05:05 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6401e2711f1113c2b70b8041</guid>
+            <link>https://m.okjike.com/originalPosts/6401e2711f1113c2b70b8041</link>
+            
+            
+            
+            <author><![CDATA[哥飞]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[虽然我一直劝大家要做就做付费应用，没必要做免费应用，但我依然做了一个公众号，用上了 chat-3.5-turbo模型，还加上了多轮对话能力，完全免费给大家使用，不为...]]></title>
@@ -82,22 +98,6 @@
             
             
             <author><![CDATA[范冰XDash]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[29元战术小白板，近期最值的一笔消费。 使用场景： 组内与同事临时讲解； 组外与策划商讨（掰头）需求； 平时自己头脑风暴。]]></title>
-            <description><![CDATA[29元战术小白板，近期最值的一笔消费。<br><br>使用场景：<br>组内与同事临时讲解；<br>组外与策划商讨（掰头）需求；<br>平时自己头脑风暴。<br><img src="https://cdnv2.ruguoapp.com/FkA-RT6wWEs0_16Bd-BVH9PcaBU4v3.heic" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 01 Mar 2023 13:57:51 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63ff59dfddab35b6fa8b8d63</guid>
-            <link>https://m.okjike.com/originalPosts/63ff59dfddab35b6fa8b8d63</link>
-            
-            
-            
-            <author><![CDATA[我三个大跟头就]]></author>
             
                 
             
