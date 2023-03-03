@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Fri, 03 Mar 2023 15:27:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2023 19:55:15 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -41,6 +41,22 @@
         </item>
         
         <item>
+            <title><![CDATA[Stable diffusion 的 mac 客户端，适配 M1/M2]]></title>
+            <description><![CDATA[<img src="https://huggingface.co/blog/assets/fast-mac-diffusers/thumbnail.png" referrerpolicy="no-referrer"><br>                    <a href="https://huggingface.co/blog/fast-mac-diffusers">Swift 🧨Diffusers - Fast Stable Diffusion for Mac</a><br>                <br>Stable diffusion 的 mac 客户端，适配 M1/M2]]></description>
+            <pubDate>Fri, 03 Mar 2023 09:34:27 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6401bf23902d2242f2663cf1</guid>
+            <link>https://m.okjike.com/originalPosts/6401bf23902d2242f2663cf1</link>
+            
+            
+            
+            <author><![CDATA[Cybrain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[虽然我一直劝大家要做就做付费应用，没必要做免费应用，但我依然做了一个公众号，用上了 chat-3.5-turbo模型，还加上了多轮对话能力，完全免费给大家使用，不为...]]></title>
             <description><![CDATA[虽然我一直劝大家要做就做付费应用，没必要做免费应用，但我依然做了一个公众号，用上了 chat-3.5-turbo模型，还加上了多轮对话能力，完全免费给大家使用，不为了赚钱，就为了跟大家交个朋友。<br>但是吧，这朋友也太吝啬了，今天来了几百个新“朋友”，那真是一毛不拔。不说公众号文章没一个打赏吧，就连免费的赞都不给一个。<br>所以结论就是，真的不要做免费应用，再不济，你加个广告也行，能收回一点是一点。<br>千万不要用爱发电。<br><img src="https://cdnv2.ruguoapp.com/FhWSivSa1aYhcD2a1mDt6F7cjPBVv3.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Thu, 02 Mar 2023 10:31:45 GMT</pubDate>
@@ -50,22 +66,6 @@
             
             
             <author><![CDATA[哥飞]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[跟进了今天发布的 GPT 3.5，先搞了个 API 套壳。 https://chatgpt.ddiu.io]]></title>
-            <description><![CDATA[跟进了今天发布的 GPT 3.5，先搞了个 API 套壳。<br>https://chatgpt.ddiu.io<br><img src="https://cdnv2.ruguoapp.com/Fox0HGLoZ-HiQkIAC2ly5P-_8Kvav3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 02 Mar 2023 06:23:50 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/640040f6a2948ddbf607fb2c</guid>
-            <link>https://m.okjike.com/originalPosts/640040f6a2948ddbf607fb2c</link>
-            
-            
-            
-            <author><![CDATA[Diu]]></author>
             
                 
             
