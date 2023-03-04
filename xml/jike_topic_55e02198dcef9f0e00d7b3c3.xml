@@ -21,8 +21,40 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Fri, 03 Mar 2023 19:55:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Mar 2023 00:23:33 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[目前ChatGPT key嵌入工作流情况： 1、Google等搜索引擎 @wong2 大佬的插件被收购后，今天有升级，但是配置项里没有chatgpt，只有上一个版本的davinci（图1） 不...]]></title>
+            <description><![CDATA[目前ChatGPT key嵌入工作流情况：<br>1、Google等搜索引擎<br>@wong2 大佬的插件被收购后，今天有升级，但是配置项里没有chatgpt，只有上一个版本的davinci（图1）<br>不过这种事情，总是有手快的工程师解决了（图2），找到一个fork版本的插件代码，自己编译安装即可：<br>https://github.com/ajiang-open/chatgpt-3.5-turbo<br>感谢@wong2 和这位lujijiang<br><br>2、ChatGPT私有化部署<br>有一些私密对话、多轮对话需求，或者觉得使用频率不高买Plus 20刀比较贵，想要一个OpenAI ChatGPT私人化版本，可以部署这个开源代码：<br>https://github.com/ddiu8081/chatgpt-demo<br>体验地址：https://chatgpt.ddiu.me/<br>感谢@EasyPlux 指路<br><br>3、Notion AI<br>Notion AI想换成ChatGPT的请求，因为前者贵，而且效果差一些。<br>暂时还没有看到解决方案，不知道hack掉网络请求转发到openai行不行。<br><img src="https://cdnv2.ruguoapp.com/FizAaZOXv8tNwS4NQxY7UpyJ0Qf5v3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FkqxDxjEAdfzDaHeGHYeL3RyO5MRv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 03 Mar 2023 16:24:30 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64021f3e4fa545a27bf53597</guid>
+            <link>https://m.okjike.com/originalPosts/64021f3e4fa545a27bf53597</link>
+            
+            
+            
+            <author><![CDATA[青十五]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[国内免翻使用ChatGPT 基于gpt-3.5-turbo API 开发 体验了下，不错，速度快快的，且用且珍惜 https://freegpt.one/]]></title>
+            <description><![CDATA[国内免翻使用ChatGPT <br><br>基于gpt-3.5-turbo API 开发<br><br>体验了下，不错，速度快快的，且用且珍惜<br><br>https://freegpt.one/]]></description>
+            <pubDate>Fri, 03 Mar 2023 12:09:34 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6401e37ec2794c4e16207620</guid>
+            <link>https://m.okjike.com/originalPosts/6401e37ec2794c4e16207620</link>
+            
+            
+            
+            <author><![CDATA[小fly象]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[现在大家对于 openai 的 api 使用都还太初级了，几乎都是把用户的发言传给模型，然后把模型返回的文字返回给用户就完了。 稍微高级一点的类似于帮个忙，做了很多...]]></title>
@@ -73,22 +105,6 @@
         </item>
         
         <item>
-            <title><![CDATA[哪个好看？]]></title>
-            <description><![CDATA[哪个好看？<br><img src="https://cdnv2.ruguoapp.com/Fo4wORPNmlvEmp-XRcD3R0s791xAv3.heic" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 02 Mar 2023 05:18:45 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/640031b5c2794c4e16f0657c</guid>
-            <link>https://m.okjike.com/originalPosts/640031b5c2794c4e16f0657c</link>
-            
-            
-            
-            <author><![CDATA[阿法兔]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[好的，我已经成功把我的咨询案例库丢给 AI 训练了。 除了贵，要靠钞能力解决，基本没有缺点。]]></title>
             <description><![CDATA[好的，我已经成功把我的咨询案例库丢给 AI 训练了。<br><br>除了贵，要靠钞能力解决，基本没有缺点。<br><img src="https://cdnv2.ruguoapp.com/FjkqjlokiiJFMhUslU-w7fG20tLKv3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Wed, 01 Mar 2023 14:25:17 GMT</pubDate>
@@ -130,22 +146,6 @@
             
             
             <author><![CDATA[一啸同学]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[#卡片笔记法 01 从不同层级看笔记 ☞信息管理时，有不同单元 ❶手机收藏的文章链接 >> cubox转存 ❷各种闪念、灵感笔记 >> flomo记录 ❸各种主题系列文章 >> not...]]></title>
-            <description><![CDATA[#卡片笔记法 01 从不同层级看笔记<br><br>☞信息管理时，有不同单元<br><br>❶手机收藏的文章链接 &gt;&gt; cubox转存<br>❷各种闪念、灵感笔记 &gt;&gt; flomo记录<br>❸各种主题系列文章 &gt;&gt; notion整理<br>❹成体系有结构的课程 &gt;&gt; notion整理<br><br>☞寻找的知识源头，有不同来源<br><br>❶文章(Paper)：自由度最高，来自各种内容媒体源的长文<br>❷课程(Course)：自由度较高，来自各种课程平台的精品课程<br>❸高手(Person)：有序度较高，有着优秀作品的高手，会有成体系的方法论<br>❹书籍(Book)：有序度最高，长盛不衰的实体书籍，依旧是最有价值的信息源<br><br>☞内容创作时，有不同处理阶段<br><br>❶收集数据(Data)：来自知识源头的各种信息源，输入（input）第一手的数据和信息<br>❷卡片重构(Card)：基于组块撰写一张又一张知识卡片，完成信息到知识重构（reput)<br>❸知识生成(Paper)：组装四五张卡片，基于主题完成体系长文撰写（output)<br>❹产品创造(Product)：汇编长文，从知识传授和问题解决出发，设计微课和训练营<br><br>&gt;&gt;&gt;<br>注：配图创作于2017年，彼时notion、flomo都还没面世！而我也刚从开智学堂接触”卡片写作“的概念，结合所学所用，绘制了这张图。如今五载已过，是时候要对这张图进行优化改写了！<br><img src="https://cdnv2.ruguoapp.com/FrVVTBL2lv2BeZYp2fmhsibDz7VFv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 27 Feb 2023 00:44:01 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63fbfcd1c2794c4e167d4508</guid>
-            <link>https://m.okjike.com/originalPosts/63fbfcd1c2794c4e167d4508</link>
-            
-            
-            
-            <author><![CDATA[王游之]]></author>
             
                 
             
