@@ -21,8 +21,40 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sat, 04 Mar 2023 11:44:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Mar 2023 15:38:04 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[20年找实习的时候，总结了了很多Java八股文的面试题和答案。 后来找到工作后，我深知校招生在面试前期的迷茫和懵逼，不知道如何准备。就想着把把这些面试题再重...]]></title>
+            <description><![CDATA[20年找实习的时候，总结了了很多Java八股文的面试题和答案。<br>后来找到工作后，我深知校招生在面试前期的迷茫和懵逼，不知道如何准备。就想着把把这些面试题再重新排版填充内容，分享给有需要的人，结果太懒了一直拖延着没有干。<br>去年偶尔跟我师兄聊起来这件事，他也觉得很有价值，所以我们俩就一拍即合，一起着手开始做。终于在今年2月末，我们第一版一共整理了500多道题，共四十多万字的Java面试八股文，开始试着分享给有需要的校招生和想跳槽的同学们。<br>我很激动，因为已经有500多人购买且认可我们的内容。虽然从有想法到落地经历了两年多，但是终于把这件事情做起来了，我还是挺开心的。<br><img src="https://cdnv2.ruguoapp.com/Fn5KFWbUICnrCk2-5-HGD_ceqrcnv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sat, 04 Mar 2023 04:51:12 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6402ce400dd85dfec32fd942</guid>
+            <link>https://m.okjike.com/originalPosts/6402ce400dd85dfec32fd942</link>
+            
+            
+            
+            <author><![CDATA[纯情大火鸡]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[这个好玩，将小爱同学接入新的 ChatGPT api， 效果跟实际对话一样。 有小爱想折腾的同学可以动手了！]]></title>
+            <description><![CDATA[<img src="https://opengraph.githubassets.com/42bed3b724973efa3c23fbc3096c22d909d71f576192f6eb6d9fcd0cd8d42c09/yihong0618/gitblog/issues/258" referrerpolicy="no-referrer"><br>                    <a href="https://github.com/yihong0618/gitblog/issues/258">不用 root 使用小爱同学和 ChatGPT 交互折腾记 · Issue #258 · yihong0618/gitblog</a><br>                <br>这个好玩，将小爱同学接入新的 ChatGPT api， 效果跟实际对话一样。<br>有小爱想折腾的同学可以动手了！]]></description>
+            <pubDate>Sat, 04 Mar 2023 00:34:51 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6402922b1f1113c2b719d250</guid>
+            <link>https://m.okjike.com/originalPosts/6402922b1f1113c2b719d250</link>
+            
+            
+            
+            <author><![CDATA[小fly象]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[无偿分享秘籍，如果你看懂了，记得在评论区跟我说声谢谢]]></title>
@@ -73,22 +105,6 @@
         </item>
         
         <item>
-            <title><![CDATA[Stable diffusion 的 mac 客户端，适配 M1/M2]]></title>
-            <description><![CDATA[<img src="https://huggingface.co/blog/assets/fast-mac-diffusers/thumbnail.png" referrerpolicy="no-referrer"><br>                    <a href="https://huggingface.co/blog/fast-mac-diffusers">Swift 🧨Diffusers - Fast Stable Diffusion for Mac</a><br>                <br>Stable diffusion 的 mac 客户端，适配 M1/M2]]></description>
-            <pubDate>Fri, 03 Mar 2023 09:34:27 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6401bf23902d2242f2663cf1</guid>
-            <link>https://m.okjike.com/originalPosts/6401bf23902d2242f2663cf1</link>
-            
-            
-            
-            <author><![CDATA[Cybrain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[虽然我一直劝大家要做就做付费应用，没必要做免费应用，但我依然做了一个公众号，用上了 chat-3.5-turbo模型，还加上了多轮对话能力，完全免费给大家使用，不为...]]></title>
             <description><![CDATA[虽然我一直劝大家要做就做付费应用，没必要做免费应用，但我依然做了一个公众号，用上了 chat-3.5-turbo模型，还加上了多轮对话能力，完全免费给大家使用，不为了赚钱，就为了跟大家交个朋友。<br>但是吧，这朋友也太吝啬了，今天来了几百个新“朋友”，那真是一毛不拔。不说公众号文章没一个打赏吧，就连免费的赞都不给一个。<br>所以结论就是，真的不要做免费应用，再不济，你加个广告也行，能收回一点是一点。<br>千万不要用爱发电。<br><img src="https://cdnv2.ruguoapp.com/FhWSivSa1aYhcD2a1mDt6F7cjPBVv3.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Thu, 02 Mar 2023 10:31:45 GMT</pubDate>
@@ -98,22 +114,6 @@
             
             
             <author><![CDATA[哥飞]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[好的，我已经成功把我的咨询案例库丢给 AI 训练了。 除了贵，要靠钞能力解决，基本没有缺点。]]></title>
-            <description><![CDATA[好的，我已经成功把我的咨询案例库丢给 AI 训练了。<br><br>除了贵，要靠钞能力解决，基本没有缺点。<br><img src="https://cdnv2.ruguoapp.com/FjkqjlokiiJFMhUslU-w7fG20tLKv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 01 Mar 2023 14:25:17 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63ff604d1f1113c2b7c83550</guid>
-            <link>https://m.okjike.com/originalPosts/63ff604d1f1113c2b7c83550</link>
-            
-            
-            
-            <author><![CDATA[范冰XDash]]></author>
             
                 
             
