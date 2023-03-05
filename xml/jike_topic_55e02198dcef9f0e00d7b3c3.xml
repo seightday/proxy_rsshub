@@ -21,8 +21,40 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sun, 05 Mar 2023 01:27:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Mar 2023 03:28:56 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[Notion类产品受欢迎，原因有很多，其中一个可能是： 在别的笔记里的目录里，哪怕你这篇文章有一万字，它的标题通常也不会超过20个字，看起来平平无奇；而在Notio...]]></title>
+            <description><![CDATA[Notion类产品受欢迎，原因有很多，其中一个可能是：<br><br>在别的笔记里的目录里，哪怕你这篇文章有一万字，它的标题通常也不会超过20个字，看起来平平无奇；而在Notion里，哪怕这篇文章只有几百字，它在多种视图里展现出来的元素也有很多，比如封面图、Emoji图标、标题、多个彩色标签...用知识管理圈的一个概念说，这叫作“策展”。<br><br>策展给人的获得感更强，而策展的第一观众也是策展者自己，所以自己的获得感也更强。<br><br>拿宴席来说，你先别管里面装多少菜，我给你摆满一桌又大又美的盘子，让你感觉这一桌菜肯定不简单。<br><br>策展是创作者对外宣传的必备技能，不过也要当心：可能带给自己一种幻觉，摆满了又大又美的盘子，里面没装多少菜。]]></description>
+            <pubDate>Sat, 04 Mar 2023 17:08:25 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64037b091f1113c2b734ebfc</guid>
+            <link>https://m.okjike.com/originalPosts/64037b091f1113c2b734ebfc</link>
+            
+            
+            
+            <author><![CDATA[ChatV]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Chat with any PDF]]></title>
+            <description><![CDATA[Chat with any PDF<br><img src="https://cdnv2.ruguoapp.com/FmPhH-1H6fdwPnh0rn22KnbOs3K9v3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FooqjreYMbt01kCi7NyDOv1zxUGFv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sat, 04 Mar 2023 16:52:58 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6403776a0dd85dfec3438098</guid>
+            <link>https://m.okjike.com/originalPosts/6403776a0dd85dfec3438098</link>
+            
+            
+            
+            <author><![CDATA[Liko]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[bilingual_book_maker，一个只有 200 行代码的 Python 项目，它可以用 GPT-3.5 翻译整本英文书（.epub 格式），并输出为 .epub 格式的双语电子书。支持近 100 种...]]></title>
@@ -34,22 +66,6 @@
             
             
             <author><![CDATA[豌豆花下猫]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[这个好玩，将小爱同学接入新的 ChatGPT api， 效果跟实际对话一样。 有小爱想折腾的同学可以动手了！]]></title>
-            <description><![CDATA[<img src="https://opengraph.githubassets.com/42bed3b724973efa3c23fbc3096c22d909d71f576192f6eb6d9fcd0cd8d42c09/yihong0618/gitblog/issues/258" referrerpolicy="no-referrer"><br>                    <a href="https://github.com/yihong0618/gitblog/issues/258">不用 root 使用小爱同学和 ChatGPT 交互折腾记 · Issue #258 · yihong0618/gitblog</a><br>                <br>这个好玩，将小爱同学接入新的 ChatGPT api， 效果跟实际对话一样。<br>有小爱想折腾的同学可以动手了！]]></description>
-            <pubDate>Sat, 04 Mar 2023 00:34:51 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6402922b1f1113c2b719d250</guid>
-            <link>https://m.okjike.com/originalPosts/6402922b1f1113c2b719d250</link>
-            
-            
-            
-            <author><![CDATA[小fly象]]></author>
             
                 
             
@@ -94,22 +110,6 @@
             <pubDate>Fri, 03 Mar 2023 12:05:05 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6401e2711f1113c2b70b8041</guid>
             <link>https://m.okjike.com/originalPosts/6401e2711f1113c2b70b8041</link>
-            
-            
-            
-            <author><![CDATA[哥飞]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[虽然我一直劝大家要做就做付费应用，没必要做免费应用，但我依然做了一个公众号，用上了 chat-3.5-turbo模型，还加上了多轮对话能力，完全免费给大家使用，不为...]]></title>
-            <description><![CDATA[虽然我一直劝大家要做就做付费应用，没必要做免费应用，但我依然做了一个公众号，用上了 chat-3.5-turbo模型，还加上了多轮对话能力，完全免费给大家使用，不为了赚钱，就为了跟大家交个朋友。<br>但是吧，这朋友也太吝啬了，今天来了几百个新“朋友”，那真是一毛不拔。不说公众号文章没一个打赏吧，就连免费的赞都不给一个。<br>所以结论就是，真的不要做免费应用，再不济，你加个广告也行，能收回一点是一点。<br>千万不要用爱发电。<br><img src="https://cdnv2.ruguoapp.com/FhWSivSa1aYhcD2a1mDt6F7cjPBVv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 02 Mar 2023 10:31:45 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64007b11c2794c4e16f9fd25</guid>
-            <link>https://m.okjike.com/originalPosts/64007b11c2794c4e16f9fd25</link>
             
             
             
