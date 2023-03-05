@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sun, 05 Mar 2023 03:28:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Mar 2023 05:45:22 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[可与任何 PDF 聊天！ 使用 OpenAI 发布的新 ChatGPT API，速度超快且免费使用。 能快速回答书籍、论文、手册、合同中的任何内容！提升效率杠杠滴！]]></title>
+            <description><![CDATA[<img src="https://cdnv2.ruguoapp.com/icons/link.png" referrerpolicy="no-referrer"><br>                    <a href="https://www.chatpdf.com/">ChatPDF - Chat with any PDF!</a><br>                <br>可与任何 PDF 聊天！<br>使用 OpenAI 发布的新 ChatGPT API，速度超快且免费使用。<br>能快速回答书籍、论文、手册、合同中的任何内容！提升效率杠杠滴！]]></description>
+            <pubDate>Sun, 05 Mar 2023 02:08:50 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6403f9b2e3584304cdca59ab</guid>
+            <link>https://m.okjike.com/originalPosts/6403f9b2e3584304cdca59ab</link>
+            
+            
+            
+            <author><![CDATA[小fly象]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[Notion类产品受欢迎，原因有很多，其中一个可能是： 在别的笔记里的目录里，哪怕你这篇文章有一万字，它的标题通常也不会超过20个字，看起来平平无奇；而在Notio...]]></title>
@@ -98,22 +114,6 @@
             
             
             <author><![CDATA[青十五]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[现在大家对于 openai 的 api 使用都还太初级了，几乎都是把用户的发言传给模型，然后把模型返回的文字返回给用户就完了。 稍微高级一点的类似于帮个忙，做了很多...]]></title>
-            <description><![CDATA[现在大家对于 openai 的 api 使用都还太初级了，几乎都是把用户的发言传给模型，然后把模型返回的文字返回给用户就完了。<br><br>稍微高级一点的类似于帮个忙，做了很多模板，根据不同的需求使用不同的模板拼接后传给模型，然后依然是把模型返回文字原封不动的返回给用户。<br><br>更好的做法是把模型的输入和输出集成到产品功能里去。<br><br>把用户的非结构化的自然语言文本用模型转成结构化的数据，然后程序使用结构化的数据去做进一步的操作，由程序得到进一步操作的反馈结果之后，再根据情况需要，直接返回数据给用户，或者先给模型由模型根据模板做特定处理后再返回给用户。]]></description>
-            <pubDate>Fri, 03 Mar 2023 12:05:05 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6401e2711f1113c2b70b8041</guid>
-            <link>https://m.okjike.com/originalPosts/6401e2711f1113c2b70b8041</link>
-            
-            
-            
-            <author><![CDATA[哥飞]]></author>
             
                 
             
