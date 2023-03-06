@@ -21,19 +21,51 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 06 Mar 2023 03:46:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Mar 2023 07:46:09 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
-            <title><![CDATA[怎么会有人把cpu架构穿在身上啊？ 啊？啊？啊？？]]></title>
-            <description><![CDATA[怎么会有人把cpu架构穿在身上啊？<br>啊？啊？啊？？<br><img src="https://cdnv2.ruguoapp.com/Fst5ULKlRa6jJ0TKkqJzqDKllcJIv3.heic" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sun, 05 Mar 2023 14:22:17 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6404a5994fa545a27b3560a2</guid>
-            <link>https://m.okjike.com/originalPosts/6404a5994fa545a27b3560a2</link>
+            <title><![CDATA[由于 ChatGPT API 请求是月账单，每天没有消费明细，但是有请求明细。于是写了个粗糙的 js 脚本来计算选定日期的费用，避免大家由于看不到日账单产生误解而破产...]]></title>
+            <description><![CDATA[由于 ChatGPT API 请求是月账单，每天没有消费明细，但是有请求明细。于是写了个粗糙的 js 脚本来计算选定日期的费用，避免大家由于看不到日账单产生误解而破产。<br><br>https://gist.github.com/airyland/1110aee75c17023e62c1c0cca126dfc5<br><img src="https://cdnv2.ruguoapp.com/FudHGJFBubBOcHXkgV88FhukAt4pv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 06 Mar 2023 06:19:45 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/640586010dd85dfec37769ba</guid>
+            <link>https://m.okjike.com/originalPosts/640586010dd85dfec37769ba</link>
             
             
             
-            <author><![CDATA[独脚大盗董大爷]]></author>
+            <author><![CDATA[Airyland]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[超简单的自己部署的文档我已经写好了。 https://github.com/ourongxing/chatgpt-vercel]]></title>
+            <description><![CDATA[超简单的自己部署的文档我已经写好了。<br><br>https://github.com/ourongxing/chatgpt-vercel<br><img src="https://cdnv2.ruguoapp.com/FithsAfkhgjeCSOQi8upWvXdwru9v3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 06 Mar 2023 04:28:47 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64056bff20c1180e0bca71dd</guid>
+            <link>https://m.okjike.com/originalPosts/64056bff20c1180e0bca71dd</link>
+            
+            
+            
+            <author><![CDATA[ourongxing]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[昨晚上大更新了一波，基本是和 @Diu 原版走了两条路，不再是 Demo 了，设计上依旧还是沿着原版在走，主要是功能上的增强。 这次带来了 prompt 预设，不过不提供...]]></title>
+            <description><![CDATA[昨晚上大更新了一波，基本是和 @Diu 原版走了两条路，不再是 Demo 了，设计上依旧还是沿着原版在走，主要是功能上的增强。<br><br>这次带来了 prompt 预设，不过不提供自定义，需要去 Github PR。<br><br>欢迎自己搭建哈，很简单，演示站必须填自己的 key。在我的动态里找一下，有可以直接用的站😎。<br>https://github.com/ourongxing/chatgpt-vercel<br><img src="https://cdnv2.ruguoapp.com/FiMuceYYUFuCVX0Z-9QieTOt1Vttv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 06 Mar 2023 02:03:47 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64054a03bdb5a0735a845dcf</guid>
+            <link>https://m.okjike.com/originalPosts/64054a03bdb5a0735a845dcf</link>
+            
+            
+            
+            <author><![CDATA[ourongxing]]></author>
             
                 
             
@@ -82,38 +114,6 @@
             
             
             <author><![CDATA[小fly象]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Chat with any PDF]]></title>
-            <description><![CDATA[Chat with any PDF<br><img src="https://cdnv2.ruguoapp.com/FmPhH-1H6fdwPnh0rn22KnbOs3K9v3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FooqjreYMbt01kCi7NyDOv1zxUGFv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 04 Mar 2023 16:52:58 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6403776a0dd85dfec3438098</guid>
-            <link>https://m.okjike.com/originalPosts/6403776a0dd85dfec3438098</link>
-            
-            
-            
-            <author><![CDATA[Liko]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[bilingual_book_maker，一个只有 200 行代码的 Python 项目，它可以用 GPT-3.5 翻译整本英文书（.epub 格式），并输出为 .epub 格式的双语电子书。支持近 100 种...]]></title>
-            <description><![CDATA[bilingual_book_maker，一个只有 200 行代码的 Python 项目，它可以用 GPT-3.5 翻译整本英文书（.epub 格式），并输出为 .epub 格式的双语电子书。支持近 100 种语言，默认翻译输出为简体中文。图一为效果图。<br><img src="https://cdnv2.ruguoapp.com/Fo3_2gSu4AaRqEwtM41YeWnjE6eiv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fj2Q1oL9aLI7L0LXxZ9sdOMp-nsIv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FhT-DemOQBqOSuP1zz8reYmFMY6Wv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FkZS3WCWX6JPbtcjMdYqgUAt5uiDv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 04 Mar 2023 04:01:33 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6402c29d0b8ff06a83bf1e5c</guid>
-            <link>https://m.okjike.com/originalPosts/6402c29d0b8ff06a83bf1e5c</link>
-            
-            
-            
-            <author><![CDATA[豌豆花下猫]]></author>
             
                 
             
