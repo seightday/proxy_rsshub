@@ -21,8 +21,40 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 07 Mar 2023 13:46:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2023 18:47:58 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[新的 UI，更加简洁，使用体验上也更好一点。输入框固定到底部了。 https://github.com/ourongxing/chatgpt-vercel]]></title>
+            <description><![CDATA[新的 UI，更加简洁，使用体验上也更好一点。输入框固定到底部了。<br><br>https://github.com/ourongxing/chatgpt-vercel<br><img src="https://cdnv2.ruguoapp.com/FgPuuEKyU_LDr10fyLR_rD5l_Crkv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Frn1P_hQSj8yD6qBEc3Kz777BV30v3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 07 Mar 2023 09:15:04 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6407009859020550aff8d68f</guid>
+            <link>https://m.okjike.com/originalPosts/6407009859020550aff8d68f</link>
+            
+            
+            
+            <author><![CDATA[ourongxing]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[已入职华为od，day4，南京研究所 软件开发 知无不言]]></title>
+            <description><![CDATA[已入职华为od，day4，南京研究所 软件开发 知无不言]]></description>
+            <pubDate>Tue, 07 Mar 2023 05:55:27 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6406d1ce9b6b80ed427c772d</guid>
+            <link>https://m.okjike.com/originalPosts/6406d1ce9b6b80ed427c772d</link>
+            
+            
+            
+            <author><![CDATA[梁非凡.swift]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[由于 ChatGPT API 请求是月账单，每天没有消费明细，但是有请求明细。于是写了个粗糙的 js 脚本来计算选定日期的费用，避免大家由于看不到日账单产生误解而破产...]]></title>
@@ -34,22 +66,6 @@
             
             
             <author><![CDATA[Airyland]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[推荐给想要用好 AI 工具的人。 PromptPerfect，是一个 AI prompt 优化工具，提供自动优化功能，帮你将提示提升至完美，获得更好质量的结果 promptperfect.jina.a...]]></title>
-            <description><![CDATA[推荐给想要用好 AI 工具的人。<br>PromptPerfect，是一个 AI prompt 优化工具，提供自动优化功能，帮你将提示提升至完美，获得更好质量的结果<br>promptperfect.jina.ai]]></description>
-            <pubDate>Mon, 06 Mar 2023 04:56:48 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64057290a2948ddbf69085f0</guid>
-            <link>https://m.okjike.com/originalPosts/64057290a2948ddbf69085f0</link>
-            
-            
-            
-            <author><![CDATA[小fly象]]></author>
             
                 
             
@@ -114,22 +130,6 @@
             
             
             <author><![CDATA[超超超超呀]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[目前ChatGPT key嵌入工作流情况： 1、Google等搜索引擎 @wong2 大佬的插件被收购后，今天有升级，但是配置项里没有chatgpt，只有上一个版本的davinci（图1） 不...]]></title>
-            <description><![CDATA[目前ChatGPT key嵌入工作流情况：<br>1、Google等搜索引擎<br>@wong2 大佬的插件被收购后，今天有升级，但是配置项里没有chatgpt，只有上一个版本的davinci（图1）<br>不过这种事情，总是有手快的工程师解决了（图2），找到一个fork版本的插件代码，自己编译安装即可：<br>https://github.com/ajiang-open/chatgpt-3.5-turbo<br>感谢@wong2 和这位lujijiang<br><br>2、ChatGPT私有化部署<br>有一些私密对话、多轮对话需求，或者觉得使用频率不高买Plus 20刀比较贵，想要一个OpenAI ChatGPT私人化版本，可以部署这个开源代码：<br>https://github.com/ddiu8081/chatgpt-demo<br>体验地址：https://chatgpt.ddiu.me/<br>感谢@EasyPlux 指路<br><br>3、Notion AI<br>Notion AI想换成ChatGPT的请求，因为前者贵，而且效果差一些。<br>暂时还没有看到解决方案，不知道hack掉网络请求转发到openai行不行。<br><img src="https://cdnv2.ruguoapp.com/FizAaZOXv8tNwS4NQxY7UpyJ0Qf5v3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FkqxDxjEAdfzDaHeGHYeL3RyO5MRv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 03 Mar 2023 16:24:30 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64021f3e4fa545a27bf53597</guid>
-            <link>https://m.okjike.com/originalPosts/64021f3e4fa545a27bf53597</link>
-            
-            
-            
-            <author><![CDATA[青十五]]></author>
             
                 
             
