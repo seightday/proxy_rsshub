@@ -21,8 +21,40 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 07 Mar 2023 23:10:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Mar 2023 03:40:07 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[这条动态，目的是为了让你学会自己做一个类似于 ChatPDF的 ChatDocs 类产品所需要的核心技术，让你参加@瓦恁 发起的#AIHackathon 更有竞争力。 大概2月中旬吧，...]]></title>
+            <description><![CDATA[这条动态，目的是为了让你学会自己做一个类似于 ChatPDF的 ChatDocs 类产品所需要的核心技术，让你参加@瓦恁 发起的#AIHackathon 更有竞争力。<br>大概2月中旬吧，我就搞清楚这里的流程了，也就是理论上那时候就可以做个 ChatDocs 了，当时觉得没多少人知道这个，属于秘籍，就只给几个小伙伴分享了。<br>现在这个几乎成为公开的秘密了，就索性让更多人知道这里的技术要点。<br>gpt 的知识库只更新到了2021年，如果你要让它回答一些知识库没有的问题，很多时候他就瞎编了。<br>new bing 的方案是每次先用搜索引擎找到最相关的一些资料，提供给 gpt ，再让 gpt 总结归纳来回答你的问题。<br>我们也可以这么做。<br>但因为每次请求的 token 有数量限制，所以不可能一次性把资料全发过去，那么你就需要自建一个搜索引擎。加我微信 qiayue 了解更多。<br>但又不能用传统的全文搜索引擎，因为仅靠字符串匹配的话，会丢失信息。<br>这时候就要用到向量搜索引擎了，简单说，通过向量搜索引擎，可以找出向量距离近的文本，这就间接实现了语义搜索。拿搜索出来的文本片段组合后跟着问题一起发给 gpt ，就能得到回答了。<br>有任何问题，都可以在评论区问我。<br><img src="https://cdnv2.ruguoapp.com/FnOl9TgD5sn5v_mCWd1N-tBW-LScv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 07 Mar 2023 23:30:49 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6407c9291f1113c2b7c7d076</guid>
+            <link>https://m.okjike.com/originalPosts/6407c9291f1113c2b7c7d076</link>
+            
+            
+            
+            <author><![CDATA[哥飞]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[花一天写了个纯原生的Chat GPT菜单栏应用自个使用]]></title>
+            <description><![CDATA[花一天写了个纯原生的Chat GPT菜单栏应用自个使用<br><video src="https://videocdn.jellow.site/lg8mRE90N8sRTzbJUcjPprOJL_1Q.mp4?sign=fc12e5497b39f67d07dca68a301b773f&amp;t=64080852" controls=""></video>]]></description>
+            <pubDate>Tue, 07 Mar 2023 11:20:51 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64071e139b6b80ed42865c00</guid>
+            <link>https://m.okjike.com/originalPosts/64071e139b6b80ed42865c00</link>
+            
+            
+            
+            <author><![CDATA[Lessimore]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[新的 UI，更加简洁，使用体验上也更好一点。输入框固定到底部了。 https://github.com/ourongxing/chatgpt-vercel]]></title>
@@ -105,22 +137,6 @@
         </item>
         
         <item>
-            <title><![CDATA[搭建了两个国际版MOSS： 一个是自己的修改过的chatgpt-web，在官方版本实现了Prompt扩展(参考上次提到的PR)，功能比较全一点 http://chat.teqmeta.com/ 一个是ou...]]></title>
-            <description><![CDATA[搭建了两个国际版MOSS：<br>一个是自己的修改过的chatgpt-web，在官方版本实现了Prompt扩展(参考上次提到的PR)，功能比较全一点<br>http://chat.teqmeta.com/<br>一个是ourongxing大佬修改的ChatGPT-Bot，界面简洁画面也很好<br>http://c.teqmeta.com/<br><br>用了一个120刀的key，所以应该能运行的稍久一点，感兴趣的朋友可以体验体验]]></description>
-            <pubDate>Sun, 05 Mar 2023 13:37:34 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64049b1e0dd85dfec3607ec0</guid>
-            <link>https://m.okjike.com/originalPosts/64049b1e0dd85dfec3607ec0</link>
-            
-            
-            
-            <author><![CDATA[N0th1ng]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[我感觉前端比后端酷多了😢😢]]></title>
             <description><![CDATA[我感觉前端比后端酷多了😢😢<br><img src="https://cdnv2.ruguoapp.com/FmcDJ4yNtN7AYhTa_p8tJpFt1pORv3.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Sun, 05 Mar 2023 10:20:44 GMT</pubDate>
@@ -162,22 +178,6 @@
             
             
             <author><![CDATA[范冰XDash]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[分享一个数据处理与分析工具 Polars，对标 Pandas，速度更快！当前 14K star 拥有以下特性： 1.多线程 2.强大的表达式API 3.查询优化 Pandas最初发布于2008年，...]]></title>
-            <description><![CDATA[分享一个数据处理与分析工具 Polars，对标 Pandas，速度更快！当前 14K star <br>拥有以下特性：<br>1.多线程<br>2.强大的表达式API<br>3.查询优化<br>Pandas最初发布于2008年，使用Python、Cython和C编写的，非常流行，然而处理大数据集时性能堪忧。<br>Polars是用 Rust编写的，内存模型基于Apache Arrow，有两套 API，其中Eager API 与 Pandas类似，可轻松上手替换。<br><img src="https://cdnv2.ruguoapp.com/FkvldSt18ypRN5uc_b5n1eDJZcGwv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fmz8ifXxPDuk1X1hWuQtB94pY8Fav3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FtYZcMwKQtBaKQZoD2zx1uE8dXG3v3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 18 Feb 2023 07:46:32 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/63f0825863f16f9647d42b95</guid>
-            <link>https://m.okjike.com/originalPosts/63f0825863f16f9647d42b95</link>
-            
-            
-            
-            <author><![CDATA[豌豆花下猫]]></author>
             
                 
             
