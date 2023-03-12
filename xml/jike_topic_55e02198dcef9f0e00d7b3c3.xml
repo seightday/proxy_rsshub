@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sun, 12 Mar 2023 14:34:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Mar 2023 18:47:01 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[不知道还有多少人是通过最初的chat.openai.com使用chatgpt？ 自从openai封了一众云服务器厂商的ip，如果梯子是搭在亚马逊云、谷歌云这样的知名厂商的话，即使能...]]></title>
+            <description><![CDATA[不知道还有多少人是通过最初的chat.openai.com使用chatgpt？<br><br>自从openai封了一众云服务器厂商的ip，如果梯子是搭在亚马逊云、谷歌云这样的知名厂商的话，即使能上互联网，也无法使用chatgpt。虽然有new bing，有热心网友封装好的壳，但new bing还没有支持移动端和Linux、网友封装的壳又太不稳定。想用上热乎的chatgpt害得靠自己。<br><br>目前我了解到有两种突破openai封禁的办法。<br><br>第一种是通过cloudflare workers中转请求，但我自己试了下，openai似乎把workers的ip也给封了。所以这种方法至少在我这里行不通。<br><br>第二种，也是目前成功了的方法，就是给服务器套上cloudflare warp，让访问openai的流量走warp。因为warp用的是原生ip，所以可以突破openai的封锁限制。<br>但目前查到的资料，都是通过v2.ray来实现分流。好巧不巧，我用的troj.an，虽然有路由功能，但太简单，不能满足套warp的需求。也可能是我太菜，确实查了一晚上的资料也没头绪。<br>最后山穷水尽，只能再搭一个v.2ray的服务套warp，终于用上了热乎的chatgpt🤯<img src="https://cdnv2.ruguoapp.com/Fn4HD0qHM6r9CLcFnzZAeKJ_AbRhv3.gif" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sun, 12 Mar 2023 14:40:08 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/640de448e8e8d3ee96b03020</guid>
+            <link>https://m.okjike.com/originalPosts/640de448e8e8d3ee96b03020</link>
+            
+            
+            
+            <author><![CDATA[机智的程序员生活]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[最近玩 ChatGPT 和 OpenAI 以及对于其他基于 OpenAI API 的观察]]></title>
@@ -34,22 +50,6 @@
             
             
             <author><![CDATA[白宦成]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[想组一个《learn python the hardway》学习小组， 以微信群的方式。人不需要太多，但真的认真在学 的。超过三人就建群？ok的话就留言吧～]]></title>
-            <description><![CDATA[想组一个《learn python the hardway》学习小组，<br><br>以微信群的方式。人不需要太多，但真的认真在学<br><br>的。超过三人就建群？ok的话就留言吧～]]></description>
-            <pubDate>Sat, 11 Mar 2023 16:03:33 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/640ca65573b2f12319c5896f</guid>
-            <link>https://m.okjike.com/originalPosts/640ca65573b2f12319c5896f</link>
-            
-            
-            
-            <author><![CDATA[毛银杰]]></author>
             
                 
             
