@@ -21,15 +21,15 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 14 Mar 2023 23:52:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Mar 2023 03:52:13 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
-            <title><![CDATA[目前建立自己的知识库问答机器人，流行的做法有两种，一种是 https://m.okjike.com/originalPosts/6407c9291f1113c2b7c7d076?s=eyJ1IjoiNTY3YTUwZDQ2ZWY4OWMxMjA...]]></title>
-            <description><![CDATA[<img src="http://yoursite.com/images/home-bg.jpg" referrerpolicy="no-referrer"><br>                    <a href="https://blog.frankzhao.cn/build_gpt_bot_for_doc">如何用 ChatGPT 构建你的专属知识问答机器人</a><br>                <br>目前建立自己的知识库问答机器人，流行的做法有两种，一种是 https://m.okjike.com/originalPosts/6407c9291f1113c2b7c7d076?s=eyJ1IjoiNTY3YTUwZDQ2ZWY4OWMxMjAwOGE3NTc1In0%3D 先用向量搜索引擎检索后用 gpt 回答，一种是用 OpenAI 的微调接口训练一个自己的微调模型出来。<br>这篇博客作者将两者结合，先用 gpt-3.5-turbo 为自己的知识库生成问答数据对，即一个一个的QA对，之后再把QA对喂给达芬奇003模型，微调训练出一个专用模型，最后用这个专用微调模型来回答任意提问。]]></description>
-            <pubDate>Tue, 14 Mar 2023 00:16:36 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/640fbce454a9b66aa742b209</guid>
-            <link>https://m.okjike.com/originalPosts/640fbce454a9b66aa742b209</link>
+            <title><![CDATA[Q：什么是GPT4？ A：GPT4是由OpenAI开发的一种自然语言处理模型，它具有极高的语言理解和生成能力。于北京时间3月15日凌晨1点发布。 Q：在哪里可以体验 GPT4？ A...]]></title>
+            <description><![CDATA[Q：什么是GPT4？<br>A：GPT4是由OpenAI开发的一种自然语言处理模型，它具有极高的语言理解和生成能力。于北京时间3月15日凌晨1点发布。<br><br>Q：在哪里可以体验 GPT4？<br>A：ChatGPT Plus账号可以直接使用GPT4。<br><br>Q：目前 API 可以调用GPT4吗？<br>A：暂未开放 API 调用，如果您想使用API调用GPT4，您需要填写 Waitlist 等待OpenAI开放名额。<br><br>Q：GPT4相比于GPT3.5，有哪些提升？<br>A：GPT4的推理能力和中文理解能力都得到了提升。这意味着AI可以更好地理解和推理人类语言，从而生成更准确、更自然的文本输出。<br>同时，GPT4的可控性也得到了提升，让AI玩角色扮演会更真实。这意味着用户可以更好地控制AI的输出，从而实现更自定义的文本生成。<br><br>Q：听说GPT4支持多模态了？<br>A：暂时GPT4只支持多模态输入，纯文本输出。目前暂时只支持文字和图片输入。它能够读懂图片内容，而不仅仅是图片上的文字。未来，GPT4可能会支持更多格式的输入和输出。<br><br>Q：GPT4相比于GPT3.5，token限制有哪些变化？<br>A：GPT4的token限制放宽了，有8k和32k两个可选，而GPT3.5是4k。这意味着GPT4可以处理更长的输入，从而产生更准确、更自然的输出。<br><br>Q：GPT4相比于GPT3.5，价格有变化吗？<br>A：GPT4的价格更贵了，并且输入输出价格不同。8k版本是0.03美元1k token输入，0.06美元1k token输出，32k版本是8k token版本价格2倍，而GPT3.5输入输出合并计费只需要0.002美元1k token。这意味着使用GPT4会更加昂贵，但可能会产生更好的结果。<br>特别说明，本文由哥飞和ChatGPT合作完成。<br><img src="https://cdnv2.ruguoapp.com/FjPGLF0Fe_kIK0M-f9vjmmTxH1BHv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 15 Mar 2023 00:19:41 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64110f1d1fdac100dfaf94e7</guid>
+            <link>https://m.okjike.com/originalPosts/64110f1d1fdac100dfaf94e7</link>
             
             
             
@@ -41,15 +41,31 @@
         </item>
         
         <item>
-            <title><![CDATA[草 破防了，一个Bug困扰了我好几天，每天加班，解到抓狂都没解决掉，刚刚尝试求助了一下chatGPT，10分钟解决了，直接给我分析的明明白白。我是废物🤡]]></title>
-            <description><![CDATA[草 破防了，一个Bug困扰了我好几天，每天加班，解到抓狂都没解决掉，刚刚尝试求助了一下chatGPT，10分钟解决了，直接给我分析的明明白白。我是废物🤡<br><img src="https://cdnv2.ruguoapp.com/FgdUH0MXc__hUVfeKxN1fa5KOtKpv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 13 Mar 2023 14:14:50 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/640f2fda54a9b66aa738489f</guid>
-            <link>https://m.okjike.com/originalPosts/640f2fda54a9b66aa738489f</link>
+            <title><![CDATA[这图谁做的🌚笑死我了]]></title>
+            <description><![CDATA[这图谁做的🌚笑死我了<br><img src="https://cdnv2.ruguoapp.com/Fihduph2pOpCLi488Hd1F9R9SY2Mv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 14 Mar 2023 18:12:32 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6410b91054a9b66aa761b704</guid>
+            <link>https://m.okjike.com/originalPosts/6410b91054a9b66aa761b704</link>
             
             
             
-            <author><![CDATA[黑虎阿胡]]></author>
+            <author><![CDATA[鼠标为什么不是猫标]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[目前建立自己的知识库问答机器人，流行的做法有两种，一种是 https://m.okjike.com/originalPosts/6407c9291f1113c2b7c7d076?s=eyJ1IjoiNTY3YTUwZDQ2ZWY4OWMxMjA...]]></title>
+            <description><![CDATA[<img src="http://yoursite.com/images/home-bg.jpg" referrerpolicy="no-referrer"><br>                    <a href="https://blog.frankzhao.cn/build_gpt_bot_for_doc">如何用 ChatGPT 构建你的专属知识问答机器人</a><br>                <br>目前建立自己的知识库问答机器人，流行的做法有两种，一种是 https://m.okjike.com/originalPosts/6407c9291f1113c2b7c7d076?s=eyJ1IjoiNTY3YTUwZDQ2ZWY4OWMxMjAwOGE3NTc1In0%3D 先用向量搜索引擎检索后用 gpt 回答，一种是用 OpenAI 的微调接口训练一个自己的微调模型出来。<br>这篇博客作者将两者结合，先用 gpt-3.5-turbo 为自己的知识库生成问答数据对，即一个一个的QA对，之后再把QA对喂给达芬奇003模型，微调训练出一个专用模型，最后用这个专用微调模型来回答任意提问。]]></description>
+            <pubDate>Tue, 14 Mar 2023 00:16:36 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/640fbce454a9b66aa742b209</guid>
+            <link>https://m.okjike.com/originalPosts/640fbce454a9b66aa742b209</link>
+            
+            
+            
+            <author><![CDATA[哥飞]]></author>
             
                 
             
@@ -89,15 +105,15 @@
         </item>
         
         <item>
-            <title><![CDATA[强烈推荐5款 ChatGPT 效率神器！Hotoke AI、ChatPDF、OpenAI Translator 、ChatExcel 1.Hotoke AI 它是一个基于ChatGPT的佛祖平台。非常火！上线仅仅几天，已经...]]></title>
-            <description><![CDATA[强烈推荐5款 ChatGPT 效率神器！Hotoke AI、ChatPDF、OpenAI Translator 、ChatExcel <br><br>1.Hotoke AI<br>它是一个基于ChatGPT的佛祖平台。非常火！上线仅仅几天，已经为数万人“解决烦恼”，ChatGPT现在已经开始为人类 “佛系”排忧解难了。<br>https://hotoke.ai/<br><br>2.ChatPDF <br><br>基于chatGPT技术的在线应用 –通过它，可以让ChatGPT 帮我们读 PDF 文档，提取关键内容<br>https://www.chatpdf.com/<br><br>3.OpenAI Translator <br><br>基於 ChatGPT API 的翻译程序，翻译出来的结果更符合真人翻译，而不是硬邦邦的机翻。<br>https://github.com/yetone/openai-translator<br><br>4.通过AI技术帮我们免费设计LOGO<br>https://wordasimage.github.io/Word-As-Image-Page/<br><br>5.ChatExcel<br><br>这是一款最近开始火的AI产品，也是基于ChatGPT技术，仅通过聊天来操控您的Excel表格<br>https://chatexcel.com/]]></description>
-            <pubDate>Sat, 11 Mar 2023 01:49:40 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/640bde341fdac100df261981</guid>
-            <link>https://m.okjike.com/originalPosts/640bde341fdac100df261981</link>
+            <title><![CDATA[无痛配置了 neovim，很丝滑！]]></title>
+            <description><![CDATA[无痛配置了 neovim，很丝滑！<br><video src="https://videocdn.jellow.site/luWBOgpG1KAncv9NpyO6WBSqL0UJ.mp4?sign=ee219027641d4e8521e1b007627a07fb&amp;t=641147f5" controls=""></video>]]></description>
+            <pubDate>Sun, 12 Mar 2023 09:21:30 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/640d999a73b2f12319dbb183</guid>
+            <link>https://m.okjike.com/originalPosts/640d999a73b2f12319dbb183</link>
             
             
             
-            <author><![CDATA[iEasyseek]]></author>
+            <author><![CDATA[zxch3n]]></author>
             
                 
             
@@ -105,11 +121,11 @@
         </item>
         
         <item>
-            <title><![CDATA[windows下 强大. 轻量. 易用.只有420KB的截图工具 大小仅420kb，仅需要按下Alt+X 窗口区域自动检测 像素级的鼠标移动控制、截图范围控制 取色器 (放大镜模式下 R...]]></title>
-            <description><![CDATA[windows下 强大. 轻量. 易用.只有420KB的截图工具<br>大小仅420kb，仅需要按下Alt+X<br><br>窗口区域自动检测<br>像素级的鼠标移动控制、截图范围控制<br>取色器 (放大镜模式下 R, H)<br>多屏支持<br>高分屏支持<br>全面Windows系统支持<br>多种图片格式支持PNG, JPG, BMP<br>http://xsnip.cn/<br><img src="https://cdnv2.ruguoapp.com/FimONsdfT_gpVsfEJiJoisHzTSk-v3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 11 Mar 2023 01:27:00 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/640bd8e4ddbf2772f9e80dc5</guid>
-            <link>https://m.okjike.com/originalPosts/640bd8e4ddbf2772f9e80dc5</link>
+            <title><![CDATA[强烈推荐5款 ChatGPT 效率神器！Hotoke AI、ChatPDF、OpenAI Translator 、ChatExcel 1.Hotoke AI 它是一个基于ChatGPT的佛祖平台。非常火！上线仅仅几天，已经...]]></title>
+            <description><![CDATA[强烈推荐5款 ChatGPT 效率神器！Hotoke AI、ChatPDF、OpenAI Translator 、ChatExcel <br><br>1.Hotoke AI<br>它是一个基于ChatGPT的佛祖平台。非常火！上线仅仅几天，已经为数万人“解决烦恼”，ChatGPT现在已经开始为人类 “佛系”排忧解难了。<br>https://hotoke.ai/<br><br>2.ChatPDF <br><br>基于chatGPT技术的在线应用 –通过它，可以让ChatGPT 帮我们读 PDF 文档，提取关键内容<br>https://www.chatpdf.com/<br><br>3.OpenAI Translator <br><br>基於 ChatGPT API 的翻译程序，翻译出来的结果更符合真人翻译，而不是硬邦邦的机翻。<br>https://github.com/yetone/openai-translator<br><br>4.通过AI技术帮我们免费设计LOGO<br>https://wordasimage.github.io/Word-As-Image-Page/<br><br>5.ChatExcel<br><br>这是一款最近开始火的AI产品，也是基于ChatGPT技术，仅通过聊天来操控您的Excel表格<br>https://chatexcel.com/]]></description>
+            <pubDate>Sat, 11 Mar 2023 01:49:40 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/640bde341fdac100df261981</guid>
+            <link>https://m.okjike.com/originalPosts/640bde341fdac100df261981</link>
             
             
             
@@ -162,22 +178,6 @@
             
             
             <author><![CDATA[benn]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[由于 ChatGPT API 请求是月账单，每天没有消费明细，但是有请求明细。于是写了个粗糙的 js 脚本来计算选定日期的费用，避免大家由于看不到日账单产生误解而破产...]]></title>
-            <description><![CDATA[由于 ChatGPT API 请求是月账单，每天没有消费明细，但是有请求明细。于是写了个粗糙的 js 脚本来计算选定日期的费用，避免大家由于看不到日账单产生误解而破产。<br><br>https://gist.github.com/airyland/1110aee75c17023e62c1c0cca126dfc5<br><img src="https://cdnv2.ruguoapp.com/FudHGJFBubBOcHXkgV88FhukAt4pv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 06 Mar 2023 06:19:45 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/640586010dd85dfec37769ba</guid>
-            <link>https://m.okjike.com/originalPosts/640586010dd85dfec37769ba</link>
-            
-            
-            
-            <author><![CDATA[Airyland]]></author>
             
                 
             
