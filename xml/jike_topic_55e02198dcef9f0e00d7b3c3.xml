@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Fri, 17 Mar 2023 11:40:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2023 15:54:51 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -34,6 +34,22 @@
             
             
             <author><![CDATA[imfycc]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[友友们，这是啥口啊。找不到转接头了。人傻了。]]></title>
+            <description><![CDATA[友友们，这是啥口啊。找不到转接头了。人傻了。<br><img src="https://cdnv2.ruguoapp.com/FtG-SDcS-u2nRSO_qHtpMMwifYkwv3.heic" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 17 Mar 2023 02:52:14 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6413d5decf6cca2e7dc64c7b</guid>
+            <link>https://m.okjike.com/originalPosts/6413d5decf6cca2e7dc64c7b</link>
+            
+            
+            
+            <author><![CDATA[马李奥]]></author>
             
                 
             
@@ -105,24 +121,8 @@
         </item>
         
         <item>
-            <title><![CDATA[目前建立自己的知识库问答机器人，流行的做法有两种，一种是 https://m.okjike.com/originalPosts/6407c9291f1113c2b7c7d076?s=eyJ1IjoiNTY3YTUwZDQ2ZWY4OWMxMjA...]]></title>
-            <description><![CDATA[<img src="http://yoursite.com/images/home-bg.jpg" referrerpolicy="no-referrer"><br>                    <a href="https://blog.frankzhao.cn/build_gpt_bot_for_doc">如何用 ChatGPT 构建你的专属知识问答机器人</a><br>                <br>目前建立自己的知识库问答机器人，流行的做法有两种，一种是 https://m.okjike.com/originalPosts/6407c9291f1113c2b7c7d076?s=eyJ1IjoiNTY3YTUwZDQ2ZWY4OWMxMjAwOGE3NTc1In0%3D 先用向量搜索引擎检索后用 gpt 回答，一种是用 OpenAI 的微调接口训练一个自己的微调模型出来。<br>这篇博客作者将两者结合，先用 gpt-3.5-turbo 为自己的知识库生成问答数据对，即一个一个的QA对，之后再把QA对喂给达芬奇003模型，微调训练出一个专用模型，最后用这个专用微调模型来回答任意提问。]]></description>
-            <pubDate>Tue, 14 Mar 2023 00:16:36 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/640fbce454a9b66aa742b209</guid>
-            <link>https://m.okjike.com/originalPosts/640fbce454a9b66aa742b209</link>
-            
-            
-            
-            <author><![CDATA[哥飞]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[无痛配置了 neovim，很丝滑！]]></title>
-            <description><![CDATA[无痛配置了 neovim，很丝滑！<br><video src="https://videocdn.jellow.site/luWBOgpG1KAncv9NpyO6WBSqL0UJ.mp4?sign=f49e7cf3dd5175c038376f5b92089b97&amp;t=6414564f" controls=""></video>]]></description>
+            <description><![CDATA[无痛配置了 neovim，很丝滑！<br><video src="https://videocdn.jellow.site/luWBOgpG1KAncv9NpyO6WBSqL0UJ.mp4?sign=29aafc4217b9f71e9d8426500f69cf96&amp;t=64149453" controls=""></video>]]></description>
             <pubDate>Sun, 12 Mar 2023 09:21:30 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/640d999a73b2f12319dbb183</guid>
             <link>https://m.okjike.com/originalPosts/640d999a73b2f12319dbb183</link>
