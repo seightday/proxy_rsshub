@@ -21,19 +21,19 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Fri, 17 Mar 2023 19:55:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2023 23:55:13 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
-            <title><![CDATA[用不了 Github copilot 的，可以试一下 codeium 😄 AI 代码补全，常见编辑器都支持。 个人开发者永久免费。 比 Tabnine 一类的好太多了，和 Github copilot 功...]]></title>
-            <description><![CDATA[用不了 Github copilot 的，可以试一下 codeium 😄<br><br>AI 代码补全，常见编辑器都支持。<br><br>个人开发者永久免费。<br><br>比 Tabnine 一类的好太多了，和 Github copilot 功能基本差不多。]]></description>
-            <pubDate>Fri, 17 Mar 2023 03:23:53 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6413dd4954a9b66aa7b4dbbf</guid>
-            <link>https://m.okjike.com/originalPosts/6413dd4954a9b66aa7b4dbbf</link>
+            <title><![CDATA[想在墙内稳定地使用 ChatGPT 的 API，看到一个方案还挺不错——直接利用 Vercel 提供的 Edge Function 能力。Vercel 号称基于全球 CDN 实现了多点部署，而 Edge ...]]></title>
+            <description><![CDATA[想在墙内稳定地使用 ChatGPT 的 API，看到一个方案还挺不错——直接利用 Vercel  提供的 Edge Function 能力。Vercel 号称基于全球 CDN 实现了多点部署，而 Edge Function 允许开发者在 Vercel CDN 的边缘节点上执行自定义代码，完美利用了它的全球 CDN 加速。效果还不错，秒级响应。其他云应该也同理。<br><img src="https://cdnv2.ruguoapp.com/Ftl-yA89fep8RAndJfHkj4RsYhY-v3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 17 Mar 2023 16:18:09 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/641492c1e8e8d3ee966768c8</guid>
+            <link>https://m.okjike.com/originalPosts/641492c1e8e8d3ee966768c8</link>
             
             
             
-            <author><![CDATA[imfycc]]></author>
+            <author><![CDATA[Barret李靖]]></author>
             
                 
             
@@ -122,7 +122,7 @@
         
         <item>
             <title><![CDATA[无痛配置了 neovim，很丝滑！]]></title>
-            <description><![CDATA[无痛配置了 neovim，很丝滑！<br><video src="https://videocdn.jellow.site/luWBOgpG1KAncv9NpyO6WBSqL0UJ.mp4?sign=2ef6697ebbe08c061534e689ba093140&amp;t=6414cc0c" controls=""></video>]]></description>
+            <description><![CDATA[无痛配置了 neovim，很丝滑！<br><video src="https://videocdn.jellow.site/luWBOgpG1KAncv9NpyO6WBSqL0UJ.mp4?sign=1c335b656af3d980e74cb85b2f1b9af7&amp;t=641504e9" controls=""></video>]]></description>
             <pubDate>Sun, 12 Mar 2023 09:21:30 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/640d999a73b2f12319dbb183</guid>
             <link>https://m.okjike.com/originalPosts/640d999a73b2f12319dbb183</link>
