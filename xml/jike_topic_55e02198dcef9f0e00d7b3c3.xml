@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sun, 19 Mar 2023 07:21:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Mar 2023 11:41:02 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[很多人都知道Copilot，但是最近GitHub新出的Copilot Labs可能还不是很了解。 这个扩展可以为用户带来丰富的特性，比如注释代码、列出代码的执行步骤等。最有趣的...]]></title>
+            <description><![CDATA[很多人都知道Copilot，但是最近GitHub新出的Copilot Labs可能还不是很了解。<br><br>这个扩展可以为用户带来丰富的特性，比如注释代码、列出代码的执行步骤等。最有趣的部分在于自定义按钮，用户可以通过它高亮代码并向 GitHub Copilot 提出修改要求。例如，我让 Copilot 将三个不同的状态合并成一个，并使用 ramdajs 库重构代码。<br>总之，GitHub Copilot Labs 为编程带来更多便利，建议大家安装并尝试这个扩展，特别是自定义功能。<br><br>地址：https://githubnext.com/projects/copilot-labs<br><img src="https://cdnv2.ruguoapp.com/Frh1-7ziL1faXY8olBX4tap_VHmrv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sun, 19 Mar 2023 05:09:42 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64169916e8e8d3ee96978609</guid>
+            <link>https://m.okjike.com/originalPosts/64169916e8e8d3ee96978609</link>
+            
+            
+            
+            <author><![CDATA[温德尔]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[火狐浏览器爆杀！]]></title>
@@ -42,7 +58,7 @@
         
         <item>
             <title><![CDATA[用ARKit做了一个太阳系👀]]></title>
-            <description><![CDATA[用ARKit做了一个太阳系👀<br><video src="https://videocdn.jellow.site/limcAjWCBdsb3ZkQ0VNTSTdfEM9j.mp4?sign=8b74f1233e84dd431c4d57e359c5b028&amp;t=6416bf0d" controls=""></video>]]></description>
+            <description><![CDATA[用ARKit做了一个太阳系👀<br><video src="https://videocdn.jellow.site/limcAjWCBdsb3ZkQ0VNTSTdfEM9j.mp4?sign=45de334331c7a51f753231eeeb2c0421&amp;t=6416faf3" controls=""></video>]]></description>
             <pubDate>Sat, 18 Mar 2023 09:39:02 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/641586b6a34a361bbccf5bcb</guid>
             <link>https://m.okjike.com/originalPosts/641586b6a34a361bbccf5bcb</link>
@@ -122,7 +138,7 @@
         
         <item>
             <title><![CDATA[无痛配置了 neovim，很丝滑！]]></title>
-            <description><![CDATA[无痛配置了 neovim，很丝滑！<br><video src="https://videocdn.jellow.site/luWBOgpG1KAncv9NpyO6WBSqL0UJ.mp4?sign=954c7f2c985b2ae180ab73a24a4c518d&amp;t=6416bf0d" controls=""></video>]]></description>
+            <description><![CDATA[无痛配置了 neovim，很丝滑！<br><video src="https://videocdn.jellow.site/luWBOgpG1KAncv9NpyO6WBSqL0UJ.mp4?sign=953ad772976780e6ded5cefe4f6894c9&amp;t=6416faf3" controls=""></video>]]></description>
             <pubDate>Sun, 12 Mar 2023 09:21:30 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/640d999a73b2f12319dbb183</guid>
             <link>https://m.okjike.com/originalPosts/640d999a73b2f12319dbb183</link>
@@ -130,22 +146,6 @@
             
             
             <author><![CDATA[zxch3n]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[强烈推荐5款 ChatGPT 效率神器！Hotoke AI、ChatPDF、OpenAI Translator 、ChatExcel 1.Hotoke AI 它是一个基于ChatGPT的佛祖平台。非常火！上线仅仅几天，已经...]]></title>
-            <description><![CDATA[强烈推荐5款 ChatGPT 效率神器！Hotoke AI、ChatPDF、OpenAI Translator 、ChatExcel <br><br>1.Hotoke AI<br>它是一个基于ChatGPT的佛祖平台。非常火！上线仅仅几天，已经为数万人“解决烦恼”，ChatGPT现在已经开始为人类 “佛系”排忧解难了。<br>https://hotoke.ai/<br><br>2.ChatPDF <br><br>基于chatGPT技术的在线应用 –通过它，可以让ChatGPT 帮我们读 PDF 文档，提取关键内容<br>https://www.chatpdf.com/<br><br>3.OpenAI Translator <br><br>基於 ChatGPT API 的翻译程序，翻译出来的结果更符合真人翻译，而不是硬邦邦的机翻。<br>https://github.com/yetone/openai-translator<br><br>4.通过AI技术帮我们免费设计LOGO<br>https://wordasimage.github.io/Word-As-Image-Page/<br><br>5.ChatExcel<br><br>这是一款最近开始火的AI产品，也是基于ChatGPT技术，仅通过聊天来操控您的Excel表格<br>https://chatexcel.com/]]></description>
-            <pubDate>Sat, 11 Mar 2023 01:49:40 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/640bde341fdac100df261981</guid>
-            <link>https://m.okjike.com/originalPosts/640bde341fdac100df261981</link>
-            
-            
-            
-            <author><![CDATA[iEasyseek]]></author>
             
                 
             
