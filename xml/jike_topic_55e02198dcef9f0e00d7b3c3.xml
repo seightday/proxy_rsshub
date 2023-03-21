@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 21 Mar 2023 07:56:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 11:57:58 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[看到推上有人把 grafana 配置成了炒股工具]]></title>
+            <description><![CDATA[看到推上有人把 grafana 配置成了炒股工具<br><img src="https://cdnv2.ruguoapp.com/Fv7pDdlwXCfuflkf6ghPVSxZlu2_v3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 21 Mar 2023 04:39:40 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6419350c6271db4b462385fb</guid>
+            <link>https://m.okjike.com/originalPosts/6419350c6271db4b462385fb</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[copilot平替：https://codeium.com/ ChatGPT跨平台交互客户端：https://github.com/Bin-Huang/chatbox 用得多不多不知道，装备必须有🤷🏻‍♂️]]></title>
@@ -89,22 +105,6 @@
         </item>
         
         <item>
-            <title><![CDATA[火狐浏览器爆杀！]]></title>
-            <description><![CDATA[火狐浏览器爆杀！<br><img src="https://cdnv2.ruguoapp.com/Fnn0_YyP_u9aDq_Ztwt9aqt3m-p3v3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 18 Mar 2023 15:30:08 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6415d900cf6cca2e7dfefca8</guid>
-            <link>https://m.okjike.com/originalPosts/6415d900cf6cca2e7dfefca8</link>
-            
-            
-            
-            <author><![CDATA[100gle]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[想在墙内稳定地使用 ChatGPT 的 API，看到一个方案还挺不错——直接利用 Vercel 提供的 Edge Function 能力。Vercel 号称基于全球 CDN 实现了多点部署，而 Edge ...]]></title>
             <description><![CDATA[想在墙内稳定地使用 ChatGPT 的 API，看到一个方案还挺不错——直接利用 Vercel  提供的 Edge Function 能力。Vercel 号称基于全球 CDN 实现了多点部署，而 Edge Function 允许开发者在 Vercel CDN 的边缘节点上执行自定义代码，完美利用了它的全球 CDN 加速。效果还不错，秒级响应。其他云应该也同理。<br><img src="https://cdnv2.ruguoapp.com/Ftl-yA89fep8RAndJfHkj4RsYhY-v3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Fri, 17 Mar 2023 16:18:09 GMT</pubDate>
@@ -138,7 +138,7 @@
         
         <item>
             <title><![CDATA[无痛配置了 neovim，很丝滑！]]></title>
-            <description><![CDATA[无痛配置了 neovim，很丝滑！<br><video src="https://videocdn.jellow.site/luWBOgpG1KAncv9NpyO6WBSqL0UJ.mp4?sign=b1e201a9a19210e802049ddd62f7c23f&amp;t=64196815" controls=""></video>]]></description>
+            <description><![CDATA[无痛配置了 neovim，很丝滑！<br><video src="https://videocdn.jellow.site/luWBOgpG1KAncv9NpyO6WBSqL0UJ.mp4?sign=fb985eccad2c79c28034abf3ac4b44c9&amp;t=6419a090" controls=""></video>]]></description>
             <pubDate>Sun, 12 Mar 2023 09:21:30 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/640d999a73b2f12319dbb183</guid>
             <link>https://m.okjike.com/originalPosts/640d999a73b2f12319dbb183</link>
