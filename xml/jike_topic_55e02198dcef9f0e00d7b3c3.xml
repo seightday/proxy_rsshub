@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 22 Mar 2023 15:12:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 19:13:56 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[快买个好的麦克风，这会是接下来主要的编程设备。 另，学好英语。]]></title>
+            <description><![CDATA[快买个好的麦克风，这会是接下来主要的编程设备。<br><br>另，学好英语。]]></description>
+            <pubDate>Wed, 22 Mar 2023 15:54:40 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/641b24c0cbfd745653c34918</guid>
+            <link>https://m.okjike.com/originalPosts/641b24c0cbfd745653c34918</link>
+            
+            
+            
+            <author><![CDATA[杰克有茶]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[跟朋友聊到 ChatGPT 在开发者领域的应用，有哪些可以立竿见影看到效果、直接发布到生产环境使用的： 1）生成 Commit log，这是 ChatGPT 的强项，它能够快速理解...]]></title>
@@ -89,22 +105,6 @@
         </item>
         
         <item>
-            <title><![CDATA[get到一个好项目，可以打造自己的个人知识库，目前使用感良好 下一步打算利用gpt-index造一个新的，看哪个更适合自己]]></title>
-            <description><![CDATA[<img src="https://opengraph.githubassets.com/df2a63f154d1cc0f58110afbba874609f450112cd3e3e5dfad77c62d2b740288/gannonh/gpt3.5-turbo-pgvector" referrerpolicy="no-referrer"><br>                    <a href="https://github.com/gannonh/gpt3.5-turbo-pgvector">GitHub - gannonh/gpt3.5-turbo-pgvector: ChatGTP (gpt3.5-turbo) starter app</a><br>                <br>get到一个好项目，可以打造自己的个人知识库，目前使用感良好<br><br>下一步打算利用gpt-index造一个新的，看哪个更适合自己]]></description>
-            <pubDate>Tue, 21 Mar 2023 15:18:12 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6419cab44aed1830864f7d14</guid>
-            <link>https://m.okjike.com/originalPosts/6419cab44aed1830864f7d14</link>
-            
-            
-            
-            <author><![CDATA[白泽奇妙物语]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[很多人都知道Copilot，但是最近GitHub新出的Copilot Labs可能还不是很了解。 这个扩展可以为用户带来丰富的特性，比如注释代码、列出代码的执行步骤等。最有趣的...]]></title>
             <description><![CDATA[很多人都知道Copilot，但是最近GitHub新出的Copilot Labs可能还不是很了解。<br><br>这个扩展可以为用户带来丰富的特性，比如注释代码、列出代码的执行步骤等。最有趣的部分在于自定义按钮，用户可以通过它高亮代码并向 GitHub Copilot 提出修改要求。例如，我让 Copilot 将三个不同的状态合并成一个，并使用 ramdajs 库重构代码。<br>总之，GitHub Copilot Labs 为编程带来更多便利，建议大家安装并尝试这个扩展，特别是自定义功能。<br><br>地址：https://githubnext.com/projects/copilot-labs<br><img src="https://cdnv2.ruguoapp.com/Frh1-7ziL1faXY8olBX4tap_VHmrv3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Sun, 19 Mar 2023 05:09:42 GMT</pubDate>
@@ -138,7 +138,7 @@
         
         <item>
             <title><![CDATA[无痛配置了 neovim，很丝滑！]]></title>
-            <description><![CDATA[无痛配置了 neovim，很丝滑！<br><video src="https://videocdn.jellow.site/luWBOgpG1KAncv9NpyO6WBSqL0UJ.mp4?sign=f962b84571dabcd89c991f4c3ebe01b7&amp;t=641b20bd" controls=""></video>]]></description>
+            <description><![CDATA[无痛配置了 neovim，很丝滑！<br><video src="https://videocdn.jellow.site/luWBOgpG1KAncv9NpyO6WBSqL0UJ.mp4?sign=a6892988e75b19036663d47282098ba6&amp;t=641b58cc" controls=""></video>]]></description>
             <pubDate>Sun, 12 Mar 2023 09:21:30 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/640d999a73b2f12319dbb183</guid>
             <link>https://m.okjike.com/originalPosts/640d999a73b2f12319dbb183</link>
