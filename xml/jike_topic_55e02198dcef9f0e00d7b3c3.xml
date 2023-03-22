@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 22 Mar 2023 11:10:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 15:12:38 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[跟朋友聊到 ChatGPT 在开发者领域的应用，有哪些可以立竿见影看到效果、直接发布到生产环境使用的： 1）生成 Commit log，这是 ChatGPT 的强项，它能够快速理解...]]></title>
+            <description><![CDATA[跟朋友聊到 ChatGPT 在开发者领域的应用，有哪些可以立竿见影看到效果、直接发布到生产环境使用的：<br><br>1）生成 Commit log，这是 ChatGPT 的强项，它能够快速理解逻辑和代码，通过 diff 归纳出概要，开源的工具有：https://github.com/zurawiki/gptcommit<br><br>2）生成测试用例，团队内实践下来效果相当好。虽然 Copilot 和 Tabnine 等产品在代码自动补全方面已经表现不错，但相较于 https://codeium.com 和 https://cursor.so 这些能够使用自然语言生成代码的体验，还是稍逊一筹。之所以不生成业务代码，是因为生成业务代码需要理解产品逻辑，而编写单元测试只需理解一个函数。<br><br>3）生成 API 文档和代码注释，ChatGPT 可以通过阅读代码，理解函数的输入、输出、功能以及用途，然后生成相应的 API 文档和注释，开源的工具：https://github.com/awekrx/AutoDoc-ChatGPT<br><br>4）生成 SQL，已经看到 PingCAP 发布了相关产品 chat2query，https://www.pingcap.com/chat2query-an-innovative-ai-powered-sql-generator-for-faster-insights/，对公司产品、运营等有数据需求但不懂数技术的岗位非常友好。<br><br>5）自动代码审查和漏洞检测，ChatGPT 可以分析代码中的潜在问题，包括代码风格不一致、程序逻辑错误或安全漏洞等。这个能力其实在 cursor.so 这个产品中就已经具备了，无需等到提交代码，在本地可以直接让程序先完成一轮 CR。<br><br>很多体验做出来都会让人产生 Wow~ 的感觉，利用 ChatGPT 做 toD 方向的建设，确实可以提高开发效率，减少错误，提高代码质量，对公司和开发者还是具有很大价值的。<br><br>你还有什么其他有趣的想法么？]]></description>
+            <pubDate>Wed, 22 Mar 2023 11:50:15 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/641aeb778143ed6d1d9bb346</guid>
+            <link>https://m.okjike.com/originalPosts/641aeb778143ed6d1d9bb346</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[GPTcommit，以后 git 提交 commit 信息不用抓耳挠腮了：https://github.com/zurawiki/gptcommit]]></title>
@@ -89,22 +105,6 @@
         </item>
         
         <item>
-            <title><![CDATA[看到推上有人把 grafana 配置成了炒股工具]]></title>
-            <description><![CDATA[看到推上有人把 grafana 配置成了炒股工具<br><img src="https://cdnv2.ruguoapp.com/Fv7pDdlwXCfuflkf6ghPVSxZlu2_v3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 21 Mar 2023 04:39:40 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6419350c6271db4b462385fb</guid>
-            <link>https://m.okjike.com/originalPosts/6419350c6271db4b462385fb</link>
-            
-            
-            
-            <author><![CDATA[Barret李靖]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[很多人都知道Copilot，但是最近GitHub新出的Copilot Labs可能还不是很了解。 这个扩展可以为用户带来丰富的特性，比如注释代码、列出代码的执行步骤等。最有趣的...]]></title>
             <description><![CDATA[很多人都知道Copilot，但是最近GitHub新出的Copilot Labs可能还不是很了解。<br><br>这个扩展可以为用户带来丰富的特性，比如注释代码、列出代码的执行步骤等。最有趣的部分在于自定义按钮，用户可以通过它高亮代码并向 GitHub Copilot 提出修改要求。例如，我让 Copilot 将三个不同的状态合并成一个，并使用 ramdajs 库重构代码。<br>总之，GitHub Copilot Labs 为编程带来更多便利，建议大家安装并尝试这个扩展，特别是自定义功能。<br><br>地址：https://githubnext.com/projects/copilot-labs<br><img src="https://cdnv2.ruguoapp.com/Frh1-7ziL1faXY8olBX4tap_VHmrv3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Sun, 19 Mar 2023 05:09:42 GMT</pubDate>
@@ -138,7 +138,7 @@
         
         <item>
             <title><![CDATA[无痛配置了 neovim，很丝滑！]]></title>
-            <description><![CDATA[无痛配置了 neovim，很丝滑！<br><video src="https://videocdn.jellow.site/luWBOgpG1KAncv9NpyO6WBSqL0UJ.mp4?sign=578a582945d914d6faa263698390bad5&amp;t=641ae6ce" controls=""></video>]]></description>
+            <description><![CDATA[无痛配置了 neovim，很丝滑！<br><video src="https://videocdn.jellow.site/luWBOgpG1KAncv9NpyO6WBSqL0UJ.mp4?sign=f962b84571dabcd89c991f4c3ebe01b7&amp;t=641b20bd" controls=""></video>]]></description>
             <pubDate>Sun, 12 Mar 2023 09:21:30 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/640d999a73b2f12319dbb183</guid>
             <link>https://m.okjike.com/originalPosts/640d999a73b2f12319dbb183</link>
