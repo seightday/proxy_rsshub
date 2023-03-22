@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 22 Mar 2023 07:04:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 11:10:04 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[GPTcommit，以后 git 提交 commit 信息不用抓耳挠腮了：https://github.com/zurawiki/gptcommit]]></title>
+            <description><![CDATA[GPTcommit，以后 git 提交 commit 信息不用抓耳挠腮了：https://github.com/zurawiki/gptcommit<br><img src="https://cdnv2.ruguoapp.com/FrDhUyMWpsW7Uafjd5k33Op5c9NQv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 22 Mar 2023 02:58:36 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/641a6edc4aed1830865ccbe9</guid>
+            <link>https://m.okjike.com/originalPosts/641a6edc4aed1830865ccbe9</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[给问是什么App的人群开发产品，就只能开发手机App了，他们已经被教育好了，有任何需求，先上应用商店搜索。]]></title>
@@ -89,22 +105,6 @@
         </item>
         
         <item>
-            <title><![CDATA[cursor.so 这个编辑器大家一定要试一下，就是聊天的当时帮你优化、分析、根据你的需求写代码。 接入了 GPT-4，而且是免费的，也是和 OpenAI 合作出的。 而且也不...]]></title>
-            <description><![CDATA[<img src="https://cdnv2.ruguoapp.com/icons/link.png" referrerpolicy="no-referrer"><br>                    <a href="https://www.cursor.so/">Cursor | Build Fast</a><br>                <br>cursor.so 这个编辑器大家一定要试一下，就是聊天的当时帮你优化、分析、根据你的需求写代码。<br><br>接入了 GPT-4，而且是免费的，也是和 OpenAI 合作出的。<br><br>而且也不止是个代码编辑器，和 ChatGPT 一样，你让他写作文也行，不用局限于写代码。]]></description>
-            <pubDate>Mon, 20 Mar 2023 07:23:14 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/641809e245b1c44fea25ad48</guid>
-            <link>https://m.okjike.com/originalPosts/641809e245b1c44fea25ad48</link>
-            
-            
-            
-            <author><![CDATA[imfycc]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[很多人都知道Copilot，但是最近GitHub新出的Copilot Labs可能还不是很了解。 这个扩展可以为用户带来丰富的特性，比如注释代码、列出代码的执行步骤等。最有趣的...]]></title>
             <description><![CDATA[很多人都知道Copilot，但是最近GitHub新出的Copilot Labs可能还不是很了解。<br><br>这个扩展可以为用户带来丰富的特性，比如注释代码、列出代码的执行步骤等。最有趣的部分在于自定义按钮，用户可以通过它高亮代码并向 GitHub Copilot 提出修改要求。例如，我让 Copilot 将三个不同的状态合并成一个，并使用 ramdajs 库重构代码。<br>总之，GitHub Copilot Labs 为编程带来更多便利，建议大家安装并尝试这个扩展，特别是自定义功能。<br><br>地址：https://githubnext.com/projects/copilot-labs<br><img src="https://cdnv2.ruguoapp.com/Frh1-7ziL1faXY8olBX4tap_VHmrv3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Sun, 19 Mar 2023 05:09:42 GMT</pubDate>
@@ -138,7 +138,7 @@
         
         <item>
             <title><![CDATA[无痛配置了 neovim，很丝滑！]]></title>
-            <description><![CDATA[无痛配置了 neovim，很丝滑！<br><video src="https://videocdn.jellow.site/luWBOgpG1KAncv9NpyO6WBSqL0UJ.mp4?sign=833c85e6859c421674d6a9bdb7cf99d7&amp;t=641aaf6a" controls=""></video>]]></description>
+            <description><![CDATA[无痛配置了 neovim，很丝滑！<br><video src="https://videocdn.jellow.site/luWBOgpG1KAncv9NpyO6WBSqL0UJ.mp4?sign=578a582945d914d6faa263698390bad5&amp;t=641ae6ce" controls=""></video>]]></description>
             <pubDate>Sun, 12 Mar 2023 09:21:30 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/640d999a73b2f12319dbb183</guid>
             <link>https://m.okjike.com/originalPosts/640d999a73b2f12319dbb183</link>
