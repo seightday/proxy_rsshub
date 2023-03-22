@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 22 Mar 2023 02:39:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 07:04:02 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[给问是什么App的人群开发产品，就只能开发手机App了，他们已经被教育好了，有任何需求，先上应用商店搜索。]]></title>
+            <description><![CDATA[给问是什么App的人群开发产品，就只能开发手机App了，他们已经被教育好了，有任何需求，先上应用商店搜索。<br><img src="https://cdnv2.ruguoapp.com/FlQkOKdIEuJdN7-cMLWqDias_3hBv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 22 Mar 2023 00:18:22 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/641a494eacac202f266cb147</guid>
+            <link>https://m.okjike.com/originalPosts/641a494eacac202f266cb147</link>
+            
+            
+            
+            <author><![CDATA[哥飞]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[AI Anything是你不容错过的开源项目。 无需专业技能，只需几秒钟即可创建GPT小工具。 可以自由配置角色，设置文本输入框的数量，并具有模板插值来增加提示的灵活...]]></title>
@@ -41,6 +57,22 @@
         </item>
         
         <item>
+            <title><![CDATA[get到一个好项目，可以打造自己的个人知识库，目前使用感良好 下一步打算利用gpt-index造一个新的，看哪个更适合自己]]></title>
+            <description><![CDATA[<img src="https://opengraph.githubassets.com/df2a63f154d1cc0f58110afbba874609f450112cd3e3e5dfad77c62d2b740288/gannonh/gpt3.5-turbo-pgvector" referrerpolicy="no-referrer"><br>                    <a href="https://github.com/gannonh/gpt3.5-turbo-pgvector">GitHub - gannonh/gpt3.5-turbo-pgvector: ChatGTP (gpt3.5-turbo) starter app</a><br>                <br>get到一个好项目，可以打造自己的个人知识库，目前使用感良好<br><br>下一步打算利用gpt-index造一个新的，看哪个更适合自己]]></description>
+            <pubDate>Tue, 21 Mar 2023 15:18:12 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6419cab44aed1830864f7d14</guid>
+            <link>https://m.okjike.com/originalPosts/6419cab44aed1830864f7d14</link>
+            
+            
+            
+            <author><![CDATA[白泽奇妙物语]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[看到推上有人把 grafana 配置成了炒股工具]]></title>
             <description><![CDATA[看到推上有人把 grafana 配置成了炒股工具<br><img src="https://cdnv2.ruguoapp.com/Fv7pDdlwXCfuflkf6ghPVSxZlu2_v3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Tue, 21 Mar 2023 04:39:40 GMT</pubDate>
@@ -50,22 +82,6 @@
             
             
             <author><![CDATA[Barret李靖]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[copilot平替：https://codeium.com/ ChatGPT跨平台交互客户端：https://github.com/Bin-Huang/chatbox 用得多不多不知道，装备必须有🤷🏻‍♂️]]></title>
-            <description><![CDATA[copilot平替：https://codeium.com/<br>ChatGPT跨平台交互客户端：https://github.com/Bin-Huang/chatbox<br>用得多不多不知道，装备必须有🤷🏻‍♂️]]></description>
-            <pubDate>Mon, 20 Mar 2023 15:02:51 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6418759b2fa0bc0080008aa4</guid>
-            <link>https://m.okjike.com/originalPosts/6418759b2fa0bc0080008aa4</link>
-            
-            
-            
-            <author><![CDATA[牛肉粿加牛肉丸]]></author>
             
                 
             
@@ -105,22 +121,6 @@
         </item>
         
         <item>
-            <title><![CDATA[想在墙内稳定地使用 ChatGPT 的 API，看到一个方案还挺不错——直接利用 Vercel 提供的 Edge Function 能力。Vercel 号称基于全球 CDN 实现了多点部署，而 Edge ...]]></title>
-            <description><![CDATA[想在墙内稳定地使用 ChatGPT 的 API，看到一个方案还挺不错——直接利用 Vercel  提供的 Edge Function 能力。Vercel 号称基于全球 CDN 实现了多点部署，而 Edge Function 允许开发者在 Vercel CDN 的边缘节点上执行自定义代码，完美利用了它的全球 CDN 加速。效果还不错，秒级响应。其他云应该也同理。<br><img src="https://cdnv2.ruguoapp.com/Ftl-yA89fep8RAndJfHkj4RsYhY-v3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 17 Mar 2023 16:18:09 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/641492c1e8e8d3ee966768c8</guid>
-            <link>https://m.okjike.com/originalPosts/641492c1e8e8d3ee966768c8</link>
-            
-            
-            
-            <author><![CDATA[Barret李靖]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[https://codeium.com/ github copilot 免费平替。 个人开发者永久免费。 支持代码AI补全、问题搜索。支持市面上大多数IDE。 你写注释，它写代码🐶。 #AI的神奇...]]></title>
             <description><![CDATA[https://codeium.com/ github copilot 免费平替。<br><br>个人开发者永久免费。<br><br>支持代码AI补全、问题搜索。支持市面上大多数IDE。<br><br>你写注释，它写代码🐶。<br><br>#AI的神奇用法 <br><img src="https://cdnv2.ruguoapp.com/FncoD_0G-OPO78xKQxxrlZ6PeQmQv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fkj7xtc1WKOAx0hBILwsegFpzQfFv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fh2wp0lHNGlFm8XVkkY-tLhsrAEwv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fs0n2xDIKQfHhJFL1ukutkUQc6XUv3.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Fri, 17 Mar 2023 02:45:07 GMT</pubDate>
@@ -138,7 +138,7 @@
         
         <item>
             <title><![CDATA[无痛配置了 neovim，很丝滑！]]></title>
-            <description><![CDATA[无痛配置了 neovim，很丝滑！<br><video src="https://videocdn.jellow.site/luWBOgpG1KAncv9NpyO6WBSqL0UJ.mp4?sign=b9ce5d3acfd6882cf3aef302609de4d9&amp;t=641a7029" controls=""></video>]]></description>
+            <description><![CDATA[无痛配置了 neovim，很丝滑！<br><video src="https://videocdn.jellow.site/luWBOgpG1KAncv9NpyO6WBSqL0UJ.mp4?sign=833c85e6859c421674d6a9bdb7cf99d7&amp;t=641aaf6a" controls=""></video>]]></description>
             <pubDate>Sun, 12 Mar 2023 09:21:30 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/640d999a73b2f12319dbb183</guid>
             <link>https://m.okjike.com/originalPosts/640d999a73b2f12319dbb183</link>
