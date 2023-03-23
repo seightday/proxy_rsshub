@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 23 Mar 2023 01:18:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 03:19:04 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -121,6 +121,22 @@
         </item>
         
         <item>
+            <title><![CDATA[很多人都知道Copilot，但是最近GitHub新出的Copilot Labs可能还不是很了解。 这个扩展可以为用户带来丰富的特性，比如注释代码、列出代码的执行步骤等。最有趣的...]]></title>
+            <description><![CDATA[很多人都知道Copilot，但是最近GitHub新出的Copilot Labs可能还不是很了解。<br><br>这个扩展可以为用户带来丰富的特性，比如注释代码、列出代码的执行步骤等。最有趣的部分在于自定义按钮，用户可以通过它高亮代码并向 GitHub Copilot 提出修改要求。例如，我让 Copilot 将三个不同的状态合并成一个，并使用 ramdajs 库重构代码。<br>总之，GitHub Copilot Labs 为编程带来更多便利，建议大家安装并尝试这个扩展，特别是自定义功能。<br><br>地址：https://githubnext.com/projects/copilot-labs<br><img src="https://cdnv2.ruguoapp.com/Frh1-7ziL1faXY8olBX4tap_VHmrv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sun, 19 Mar 2023 05:09:42 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64169916e8e8d3ee96978609</guid>
+            <link>https://m.okjike.com/originalPosts/64169916e8e8d3ee96978609</link>
+            
+            
+            
+            <author><![CDATA[温德尔]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[https://codeium.com/ github copilot 免费平替。 个人开发者永久免费。 支持代码AI补全、问题搜索。支持市面上大多数IDE。 你写注释，它写代码🐶。 #AI的神奇...]]></title>
             <description><![CDATA[https://codeium.com/ github copilot 免费平替。<br><br>个人开发者永久免费。<br><br>支持代码AI补全、问题搜索。支持市面上大多数IDE。<br><br>你写注释，它写代码🐶。<br><br>#AI的神奇用法 <br><img src="https://cdnv2.ruguoapp.com/FncoD_0G-OPO78xKQxxrlZ6PeQmQv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fkj7xtc1WKOAx0hBILwsegFpzQfFv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fh2wp0lHNGlFm8XVkkY-tLhsrAEwv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fs0n2xDIKQfHhJFL1ukutkUQc6XUv3.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Fri, 17 Mar 2023 02:45:07 GMT</pubDate>
@@ -138,7 +154,7 @@
         
         <item>
             <title><![CDATA[无痛配置了 neovim，很丝滑！]]></title>
-            <description><![CDATA[无痛配置了 neovim，很丝滑！<br><video src="https://videocdn.jellow.site/luWBOgpG1KAncv9NpyO6WBSqL0UJ.mp4?sign=f1caa3879c7b7a233f44543852cc1dd4&amp;t=641baffa" controls=""></video>]]></description>
+            <description><![CDATA[无痛配置了 neovim，很丝滑！<br><video src="https://videocdn.jellow.site/luWBOgpG1KAncv9NpyO6WBSqL0UJ.mp4?sign=ef189452687cdfa2acbb4d8d5fcef79a&amp;t=641bca1d" controls=""></video>]]></description>
             <pubDate>Sun, 12 Mar 2023 09:21:30 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/640d999a73b2f12319dbb183</guid>
             <link>https://m.okjike.com/originalPosts/640d999a73b2f12319dbb183</link>
@@ -162,22 +178,6 @@
             
             
             <author><![CDATA[benn]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[这条动态，目的是为了让你学会自己做一个类似于 ChatPDF的 ChatDocs 类产品所需要的核心技术，让你参加@瓦恁 发起的#AIHackathon 更有竞争力。 大概2月中旬吧，...]]></title>
-            <description><![CDATA[这条动态，目的是为了让你学会自己做一个类似于 ChatPDF的 ChatDocs 类产品所需要的核心技术，让你参加@瓦恁 发起的#AIHackathon 更有竞争力。<br>大概2月中旬吧，我就搞清楚这里的流程了，也就是理论上那时候就可以做个 ChatDocs 了，当时觉得没多少人知道这个，属于秘籍，就只给几个小伙伴分享了。<br>现在这个几乎成为公开的秘密了，就索性让更多人知道这里的技术要点。<br>gpt 的知识库只更新到了2021年，如果你要让它回答一些知识库没有的问题，很多时候他就瞎编了。<br>new bing 的方案是每次先用搜索引擎找到最相关的一些资料，提供给 gpt ，再让 gpt 总结归纳来回答你的问题。<br>我们也可以这么做。<br>但因为每次请求的 token 有数量限制，所以不可能一次性把资料全发过去，那么你就需要自建一个搜索引擎。加我微信 qiayue 了解更多。<br>但又不能用传统的全文搜索引擎，因为仅靠字符串匹配的话，会丢失信息。<br>这时候就要用到向量搜索引擎了，简单说，通过向量搜索引擎，可以找出向量距离近的文本，这就间接实现了语义搜索。拿搜索出来的文本片段组合后跟着问题一起发给 gpt ，就能得到回答了。<br>有任何问题，都可以在评论区问我。<br><img src="https://cdnv2.ruguoapp.com/FnOl9TgD5sn5v_mCWd1N-tBW-LScv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 07 Mar 2023 23:30:49 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6407c9291f1113c2b7c7d076</guid>
-            <link>https://m.okjike.com/originalPosts/6407c9291f1113c2b7c7d076</link>
-            
-            
-            
-            <author><![CDATA[哥飞]]></author>
             
                 
             
