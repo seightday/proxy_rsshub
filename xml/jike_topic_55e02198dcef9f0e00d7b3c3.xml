@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 23 Mar 2023 05:21:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 11:25:01 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[NewBingClient - 不需要安装 Edge 也能能使用 new bing chat - 同时支持多个会话 - 基于 Qt + CEF 开发 - 更多功能开发中 https://github.com/le0zh/NewBingClie...]]></title>
+            <description><![CDATA[NewBingClient<br><br>- 不需要安装 Edge 也能能使用 new bing chat<br>- 同时支持多个会话<br>- 基于 Qt + CEF 开发<br>- 更多功能开发中<br><br>https://github.com/le0zh/NewBingClient<br><img src="https://cdnv2.ruguoapp.com/FnyiuE5q0JYKvQSCkbq5l-v2zVKav3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 23 Mar 2023 04:12:08 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/641bd19893fcaf9b7aa14893</guid>
+            <link>https://m.okjike.com/originalPosts/641bd19893fcaf9b7aa14893</link>
+            
+            
+            
+            <author><![CDATA[le0zh]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[对于大多数人来说，先赚到工资之外的第1块钱很重要。 只有你赚过1块钱了，才知道如何去赚更多钱。 所以在目前明显用户需求很大的情况下，就不要考虑自己做出来的...]]></title>
@@ -34,6 +50,22 @@
             
             
             <author><![CDATA[哥飞]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[为什么做项目要写设计文档和总结文档？为什么我们最喜欢的事情是别人写文档，最不喜欢的事情是自己写文档？写文档的重要性和价值到底在哪里？ 虽然我在日常工作...]]></title>
+            <description><![CDATA[为什么做项目要写设计文档和总结文档？为什么我们最喜欢的事情是别人写文档，最不喜欢的事情是自己写文档？写文档的重要性和价值到底在哪里？<br><br>虽然我在日常工作中一直都有些文档的习惯，但直到最近我才明白这些问题的答案。以下是我对写文档的理解和思考，希望对你有所帮助。<br><img src="https://cdnv2.ruguoapp.com/FrTWxOZ6DtSrMnuPD4Gui_YLoxlIv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fn2gw8T2d4yh8mhNH102aGNbI8xPv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FobDbf0VvqWEYTDvpAfWrogfFYcOv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 23 Mar 2023 02:10:09 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/641bb501717defbe22ac853a</guid>
+            <link>https://m.okjike.com/originalPosts/641bb501717defbe22ac853a</link>
+            
+            
+            
+            <author><![CDATA[千古壹号]]></author>
             
                 
             
@@ -73,22 +105,6 @@
         </item>
         
         <item>
-            <title><![CDATA[#ChatGPT-Vercel 已经废了一个域名了，感谢 @AUDI_GUZZ 提供域名。这兄弟竟然还是在阿里云买的域名，直接不给解析了。 提醒大家不要过度分享自己的站点。国内注...]]></title>
-            <description><![CDATA[#ChatGPT-Vercel <br>已经废了一个域名了，感谢 @AUDI_GUZZ 提供域名。这兄弟竟然还是在阿里云买的域名，直接不给解析了。<br><br>提醒大家不要过度分享自己的站点。国内注册的域名，最好把 DNS 服务商改到国外，比如 Cloudflare。<br><img src="https://cdnv2.ruguoapp.com/FhVq1D0Vvz3a35L8QNPtTzZkeSc5v3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 22 Mar 2023 13:47:05 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/641b06d9acac202f2684dc00</guid>
-            <link>https://m.okjike.com/originalPosts/641b06d9acac202f2684dc00</link>
-            
-            
-            
-            <author><![CDATA[ourongxing]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[跟朋友聊到 ChatGPT 在开发者领域的应用，有哪些可以立竿见影看到效果、直接发布到生产环境使用的： 1）生成 Commit log，这是 ChatGPT 的强项，它能够快速理解...]]></title>
             <description><![CDATA[跟朋友聊到 ChatGPT 在开发者领域的应用，有哪些可以立竿见影看到效果、直接发布到生产环境使用的：<br><br>1）生成 Commit log，这是 ChatGPT 的强项，它能够快速理解逻辑和代码，通过 diff 归纳出概要，开源的工具有：https://github.com/zurawiki/gptcommit<br><br>2）生成测试用例，团队内实践下来效果相当好。虽然 Copilot 和 Tabnine 等产品在代码自动补全方面已经表现不错，但相较于 https://codeium.com 和 https://cursor.so 这些能够使用自然语言生成代码的体验，还是稍逊一筹。之所以不生成业务代码，是因为生成业务代码需要理解产品逻辑，而编写单元测试只需理解一个函数。<br><br>3）生成 API 文档和代码注释，ChatGPT 可以通过阅读代码，理解函数的输入、输出、功能以及用途，然后生成相应的 API 文档和注释，开源的工具：https://github.com/awekrx/AutoDoc-ChatGPT<br><br>4）生成 SQL，已经看到 PingCAP 发布了相关产品 chat2query，https://www.pingcap.com/chat2query-an-innovative-ai-powered-sql-generator-for-faster-insights/，对公司产品、运营等有数据需求但不懂数技术的岗位非常友好。<br><br>5）自动代码审查和漏洞检测，ChatGPT 可以分析代码中的潜在问题，包括代码风格不一致、程序逻辑错误或安全漏洞等。这个能力其实在 cursor.so 这个产品中就已经具备了，无需等到提交代码，在本地可以直接让程序先完成一轮 CR。<br><br>很多体验做出来都会让人产生 Wow~ 的感觉，利用 ChatGPT 做 toD 方向的建设，确实可以提高开发效率，减少错误，提高代码质量，对公司和开发者还是具有很大价值的。<br><br>你还有什么其他有趣的想法么？]]></description>
             <pubDate>Wed, 22 Mar 2023 11:50:15 GMT</pubDate>
@@ -121,22 +137,6 @@
         </item>
         
         <item>
-            <title><![CDATA[给问是什么App的人群开发产品，就只能开发手机App了，他们已经被教育好了，有任何需求，先上应用商店搜索。]]></title>
-            <description><![CDATA[给问是什么App的人群开发产品，就只能开发手机App了，他们已经被教育好了，有任何需求，先上应用商店搜索。<br><img src="https://cdnv2.ruguoapp.com/FlQkOKdIEuJdN7-cMLWqDias_3hBv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 22 Mar 2023 00:18:22 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/641a494eacac202f266cb147</guid>
-            <link>https://m.okjike.com/originalPosts/641a494eacac202f266cb147</link>
-            
-            
-            
-            <author><![CDATA[哥飞]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[https://codeium.com/ github copilot 免费平替。 个人开发者永久免费。 支持代码AI补全、问题搜索。支持市面上大多数IDE。 你写注释，它写代码🐶。 #AI的神奇...]]></title>
             <description><![CDATA[https://codeium.com/ github copilot 免费平替。<br><br>个人开发者永久免费。<br><br>支持代码AI补全、问题搜索。支持市面上大多数IDE。<br><br>你写注释，它写代码🐶。<br><br>#AI的神奇用法 <br><img src="https://cdnv2.ruguoapp.com/FncoD_0G-OPO78xKQxxrlZ6PeQmQv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fkj7xtc1WKOAx0hBILwsegFpzQfFv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fh2wp0lHNGlFm8XVkkY-tLhsrAEwv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fs0n2xDIKQfHhJFL1ukutkUQc6XUv3.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Fri, 17 Mar 2023 02:45:07 GMT</pubDate>
@@ -154,7 +154,7 @@
         
         <item>
             <title><![CDATA[无痛配置了 neovim，很丝滑！]]></title>
-            <description><![CDATA[无痛配置了 neovim，很丝滑！<br><video src="https://videocdn.jellow.site/luWBOgpG1KAncv9NpyO6WBSqL0UJ.mp4?sign=68402847f95f18b72ae38adc3cd4f147&amp;t=641be729" controls=""></video>]]></description>
+            <description><![CDATA[无痛配置了 neovim，很丝滑！<br><video src="https://videocdn.jellow.site/luWBOgpG1KAncv9NpyO6WBSqL0UJ.mp4?sign=0d82e6857d9679ad73a8099398206c67&amp;t=641c3cfb" controls=""></video>]]></description>
             <pubDate>Sun, 12 Mar 2023 09:21:30 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/640d999a73b2f12319dbb183</guid>
             <link>https://m.okjike.com/originalPosts/640d999a73b2f12319dbb183</link>
