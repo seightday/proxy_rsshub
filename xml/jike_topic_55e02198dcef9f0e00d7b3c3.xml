@@ -21,15 +21,15 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Fri, 24 Mar 2023 03:58:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Mar 2023 07:59:47 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
-            <title><![CDATA[OpenAI 的 ChatGPT 官方检索插件 Retrieval 给我们提供了一个思路，关于如何更好的实现聊天记忆上下文功能的思路。 以往我们一般用滑动窗口的形式实现聊天上下文...]]></title>
-            <description><![CDATA[OpenAI 的 ChatGPT 官方检索插件 Retrieval 给我们提供了一个思路，关于如何更好的实现聊天记忆上下文功能的思路。<br>以往我们一般用滑动窗口的形式实现聊天上下文记忆功能，如把窗口大小设置为3，则表示每次提问伴随着此前三轮QA问题和回答一起提交给模型。<br>而 Retrieval 的做法是把聊天记录也向量化存储，每次根据用户提问，取出与提问向量距离近的聊天记录一起提交给模型。<br>传说中金鱼的记忆只有7秒，滑动窗口的做法就像金鱼的记忆，只能记住最近3轮对话。<br>而用向量搜索引擎，则把记忆无限放大了，可以像人脑一样记忆了。<br>这个思路太牛了，我天天念叨向量，也没想到向量可以用在聊天记忆里，佩服之至。]]></description>
-            <pubDate>Thu, 23 Mar 2023 22:57:02 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/641cd93e565522f99e60fa3d</guid>
-            <link>https://m.okjike.com/originalPosts/641cd93e565522f99e60fa3d</link>
+            <title><![CDATA[之前说的开源代码来了，php-openai-gpt-stream-chat-api-webui 从仓库名称就能知道这个代码库是用来做什么的了，当然也是为了 SEO 。 仓库地址： https://github...]]></title>
+            <description><![CDATA[之前说的开源代码来了，php-openai-gpt-stream-chat-api-webui 从仓库名称就能知道这个代码库是用来做什么的了，当然也是为了 SEO 。<br><br>仓库地址： https://github.com/qiayue/php-openai-gpt-stream-chat-api-webui<br><br>演示站： https://aiwanjia.cn AI玩家<br><br>更详细的介绍看这篇公众号文章： https://mp.weixin.qq.com/s/TWBHt-s54GWavyKT6YmBrw<br><br>这个项目代码没有使用任何框架，也没有引入任何第三方后端库，前端引入了代码高亮库 highlight 和 markdown 解析库 marked 都已经下载项目内了，所以拿到代码不用任何安装即可直接使用。<br><img src="https://cdnv2.ruguoapp.com/FhHf7LFnlzz9GpS6dBIK2WWRXBDcv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fj14tCm_UMW33gljcY7GWn4Qmi9dv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 24 Mar 2023 02:27:26 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/641d0a8e470b7fdf0546a1ef</guid>
+            <link>https://m.okjike.com/originalPosts/641d0a8e470b7fdf0546a1ef</link>
             
             
             
@@ -41,15 +41,15 @@
         </item>
         
         <item>
-            <title><![CDATA[💻 Cursor 的编辑器不好使？试试这个插件！ Github Copilot X 还在 Waitlist 中？ 试试 #CodeCursor 提前感受 GPT-4 与 Visual Studio Code 结合所带来的体验...]]></title>
-            <description><![CDATA[💻 Cursor 的编辑器不好使？试试这个插件！<br><br>Github Copilot X 还在 Waitlist 中？<br>试试 #CodeCursor <br>提前感受 GPT-4 与 Visual Studio Code 结合所带来的体验升级<br>无需账号验证，无需登录，在插件商店搜索 CodeCursor 直接安装<br><br>还原 Cursor 的智能体验（目前仅支持代码生成，Chat 仍在开发中😈敬请期待）<br><br>https://github.com/Helixform/CodeCursor<br><br>（换个区发）<br><video src="https://videocdn.jellow.site/lqqQ64cs5kPrkfwzZOfOZ5oos0B0.mp4?sign=1fc15cf90b7ed92b9628744c5d28d5c1&amp;t=641d24ff" controls=""></video>]]></description>
-            <pubDate>Thu, 23 Mar 2023 14:22:24 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/641c60a0654cdd9bf04c17c1</guid>
-            <link>https://m.okjike.com/originalPosts/641c60a0654cdd9bf04c17c1</link>
+            <title><![CDATA[OpenAI 的 ChatGPT 官方检索插件 Retrieval 给我们提供了一个思路，关于如何更好的实现聊天记忆上下文功能的思路。 以往我们一般用滑动窗口的形式实现聊天上下文...]]></title>
+            <description><![CDATA[OpenAI 的 ChatGPT 官方检索插件 Retrieval 给我们提供了一个思路，关于如何更好的实现聊天记忆上下文功能的思路。<br>以往我们一般用滑动窗口的形式实现聊天上下文记忆功能，如把窗口大小设置为3，则表示每次提问伴随着此前三轮QA问题和回答一起提交给模型。<br>而 Retrieval 的做法是把聊天记录也向量化存储，每次根据用户提问，取出与提问向量距离近的聊天记录一起提交给模型。<br>传说中金鱼的记忆只有7秒，滑动窗口的做法就像金鱼的记忆，只能记住最近3轮对话。<br>而用向量搜索引擎，则把记忆无限放大了，可以像人脑一样记忆了。<br>这个思路太牛了，我天天念叨向量，也没想到向量可以用在聊天记忆里，佩服之至。]]></description>
+            <pubDate>Thu, 23 Mar 2023 22:57:02 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/641cd93e565522f99e60fa3d</guid>
+            <link>https://m.okjike.com/originalPosts/641cd93e565522f99e60fa3d</link>
             
             
             
-            <author><![CDATA[JoeyLu_]]></author>
+            <author><![CDATA[哥飞]]></author>
             
                 
             
@@ -154,7 +154,7 @@
         
         <item>
             <title><![CDATA[无痛配置了 neovim，很丝滑！]]></title>
-            <description><![CDATA[无痛配置了 neovim，很丝滑！<br><video src="https://videocdn.jellow.site/luWBOgpG1KAncv9NpyO6WBSqL0UJ.mp4?sign=c6000ed34b89ad84bcb259d615341286&amp;t=641d24ff" controls=""></video>]]></description>
+            <description><![CDATA[无痛配置了 neovim，很丝滑！<br><video src="https://videocdn.jellow.site/luWBOgpG1KAncv9NpyO6WBSqL0UJ.mp4?sign=e3fb594399389787a7c521088cf5a84c&amp;t=641d5d99" controls=""></video>]]></description>
             <pubDate>Sun, 12 Mar 2023 09:21:30 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/640d999a73b2f12319dbb183</guid>
             <link>https://m.okjike.com/originalPosts/640d999a73b2f12319dbb183</link>
