@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Fri, 24 Mar 2023 11:59:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Mar 2023 14:00:03 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -41,15 +41,15 @@
         </item>
         
         <item>
-            <title><![CDATA[之前说的开源代码来了，php-openai-gpt-stream-chat-api-webui 从仓库名称就能知道这个代码库是用来做什么的了，当然也是为了 SEO 。 仓库地址： https://github...]]></title>
-            <description><![CDATA[之前说的开源代码来了，php-openai-gpt-stream-chat-api-webui 从仓库名称就能知道这个代码库是用来做什么的了，当然也是为了 SEO 。<br><br>仓库地址： https://github.com/qiayue/php-openai-gpt-stream-chat-api-webui<br><br>演示站： https://aiwanjia.cn AI玩家<br><br>更详细的介绍看这篇公众号文章： https://mp.weixin.qq.com/s/TWBHt-s54GWavyKT6YmBrw<br><br>这个项目代码没有使用任何框架，也没有引入任何第三方后端库，前端引入了代码高亮库 highlight 和 markdown 解析库 marked 都已经下载项目内了，所以拿到代码不用任何安装即可直接使用。<br><img src="https://cdnv2.ruguoapp.com/FhHf7LFnlzz9GpS6dBIK2WWRXBDcv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fj14tCm_UMW33gljcY7GWn4Qmi9dv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 24 Mar 2023 02:27:26 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/641d0a8e470b7fdf0546a1ef</guid>
-            <link>https://m.okjike.com/originalPosts/641d0a8e470b7fdf0546a1ef</link>
+            <title><![CDATA[cursor真的太好用了！集成gpt4，帮我写了后端代码🤗🤗 不知道对wxml支持怎么样，回去试试 插件：https://marketplace.visualstudio.com/items?itemName=ktia...]]></title>
+            <description><![CDATA[cursor真的太好用了！集成gpt4，帮我写了后端代码🤗🤗<br>不知道对wxml支持怎么样，回去试试<br><br>插件：https://marketplace.visualstudio.com/items?itemName=ktiays.aicursor<br><br>开源地址：https://github.com/Helixform/CodeCursor<br><img src="https://cdnv2.ruguoapp.com/FgXOmh17WH5JTu89TjxnU4VoEyNAv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 24 Mar 2023 00:24:53 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/641cedd5c2880db21339c437</guid>
+            <link>https://m.okjike.com/originalPosts/641cedd5c2880db21339c437</link>
             
             
             
-            <author><![CDATA[哥飞]]></author>
+            <author><![CDATA[不务正业小胡同学]]></author>
             
                 
             
@@ -154,7 +154,7 @@
         
         <item>
             <title><![CDATA[无痛配置了 neovim，很丝滑！]]></title>
-            <description><![CDATA[无痛配置了 neovim，很丝滑！<br><video src="https://videocdn.jellow.site/luWBOgpG1KAncv9NpyO6WBSqL0UJ.mp4?sign=600b262f28673e21a0b27b3790bdb1f9&amp;t=641d9724" controls=""></video>]]></description>
+            <description><![CDATA[无痛配置了 neovim，很丝滑！<br><video src="https://videocdn.jellow.site/luWBOgpG1KAncv9NpyO6WBSqL0UJ.mp4?sign=1f5f8bc1164dcfe48aa80b13e8197f53&amp;t=641db3d9" controls=""></video>]]></description>
             <pubDate>Sun, 12 Mar 2023 09:21:30 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/640d999a73b2f12319dbb183</guid>
             <link>https://m.okjike.com/originalPosts/640d999a73b2f12319dbb183</link>
