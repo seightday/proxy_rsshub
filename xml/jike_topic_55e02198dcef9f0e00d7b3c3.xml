@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sun, 26 Mar 2023 04:01:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Mar 2023 08:01:31 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[NewBingClient v0.0.2 - 不需要安装 Edge 也能能使用 new bing chat - 增加 Windows 和 Apple Silicon 版本 - 增加浅色模式 https://github.com/le0zh/NewBingCl...]]></title>
+            <description><![CDATA[NewBingClient v0.0.2<br><br>- 不需要安装 Edge 也能能使用 new bing chat<br>- 增加 Windows 和 Apple Silicon 版本<br>- 增加浅色模式<br><br>https://github.com/le0zh/NewBingClient/<br><img src="https://cdnv2.ruguoapp.com/FmH_MKHo0fqxoVhuuIELLQseaPonv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sat, 25 Mar 2023 07:22:29 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/641ea135c2880db21369eedc</guid>
+            <link>https://m.okjike.com/originalPosts/641ea135c2880db21369eedc</link>
+            
+            
+            
+            <author><![CDATA[le0zh]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[前两年自学python瞎捣鼓的那会儿 先是给小叔公司编了一个算绩效工资的exe 怒挣了三千大元 后来研二给学院编了一套office基础课阅卷程序 忘了挣了多少改卷费 好像...]]></title>
@@ -34,22 +50,6 @@
             
             
             <author><![CDATA[王昭没有君]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[最近用chatGPT写代码的一些感受 使用姿势 1. ChatGPT官网，通过对话的形式 2. 使用了gpt4的cursor 厉害的地方 1. 简单任务上可以处理的很好。我记不住那些API要...]]></title>
-            <description><![CDATA[最近用chatGPT写代码的一些感受<br><br>使用姿势<br><br>1. ChatGPT官网，通过对话的形式<br>2. 使用了gpt4的cursor<br><br>厉害的地方<br><br>1. 简单任务上可以处理的很好。我记不住那些API要怎么调用，但是ChatGPT可以记得很完美。<br>2. 提供解决问题的思路。没想法的时候可以给点灵感。<br>3. 不熟悉领域的学习。比如写一段代码，然后解释这段代码，就代码里疑惑的地方提问。<br><br>不太行的地方<br><br>1. 处理细节不行。我要实现一个页面，本来是3句话描述需求的，但是不太行，然后一直改，最后写了500字小作文也不符合期望。想起来还不如我手撸代码更快。<br>2. 代码风格不统一。第一次生成的代码是一个风格，本来想让它微调的，结果第二次代码结构和风格都变了。<br><br>什么时候用chatGPT<br><br>1. 面对一个问题毫无头绪，需要chatGPT给点灵感。既包括你不熟悉的技术领域，也包括疑难杂症，虽然后者他大概率也解决不了。<br>2. 记不住API时。包括语法、shell命令、库函数、sql命令、第三方api、css样式… 这块基本不用google再去搜了。<br>3. 独立的、没有上下文的任务。写shell脚本，Python脚本，SQL语句，前端新页面。<br><br>什么时候不用chatGPT<br><br>1. 有大量细节要处理。还是自己手撸更快。<br>2. 你熟悉的领域。一样的道理，手撸更快。<br>3. 内部API。自己造的轮子，封装的库。chatGPT表示我也没学过呀。]]></description>
-            <pubDate>Fri, 24 Mar 2023 10:58:04 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/641d823c1ccc7f6510aecbc7</guid>
-            <link>https://m.okjike.com/originalPosts/641d823c1ccc7f6510aecbc7</link>
-            
-            
-            
-            <author><![CDATA[chace42]]></author>
             
                 
             
@@ -154,7 +154,7 @@
         
         <item>
             <title><![CDATA[无痛配置了 neovim，很丝滑！]]></title>
-            <description><![CDATA[无痛配置了 neovim，很丝滑！<br><video src="https://videocdn.jellow.site/luWBOgpG1KAncv9NpyO6WBSqL0UJ.mp4?sign=0a0023e3fdfae3fb39b05d5b997893bf&amp;t=641fc861" controls=""></video>]]></description>
+            <description><![CDATA[无痛配置了 neovim，很丝滑！<br><video src="https://videocdn.jellow.site/luWBOgpG1KAncv9NpyO6WBSqL0UJ.mp4?sign=2e6e4fd752371c52fe68530d9b6a80c1&amp;t=64200296" controls=""></video>]]></description>
             <pubDate>Sun, 12 Mar 2023 09:21:30 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/640d999a73b2f12319dbb183</guid>
             <link>https://m.okjike.com/originalPosts/640d999a73b2f12319dbb183</link>
