@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 27 Mar 2023 12:02:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 14:02:53 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[这里几个概念需要分清楚 1、ChatGPT是基于GPT3.5训练出来的专用于Chat的模型； 2、目前开放出来的API可供调用的最新模型 gpt-3.5-turbo 等同于 ChatGPT； 3、目...]]></title>
+            <description><![CDATA[这里几个概念需要分清楚<br>1、ChatGPT是基于GPT3.5训练出来的专用于Chat的模型；<br>2、目前开放出来的API可供调用的最新模型 gpt-3.5-turbo 等同于 ChatGPT；<br>3、目前 ChatGPT 官网如果你开通了 Plus 会员，可以使用 GPT4 模型；<br>4、GPT4 模型与 gpt-3.5-turbo 调用时都需要使用 chat 接口，而之前的 davinci 003 要用 completion 接口；<br>5、所以 ChatGPT 和 GPT4 和 gpt-3.5-turbo 都是 Chat 模型；<br>6、 new bing 说自己用的是 GPT4 ，那么可以认为比大多数人用的 ChatGPT 更智能。<br><img src="https://cdnv2.ruguoapp.com/FvoS4aW8L6xBvqd6XDyYpdRyzfDRv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 27 Mar 2023 05:33:58 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64212ac6654cdd9bf0c8cade</guid>
+            <link>https://m.okjike.com/originalPosts/64212ac6654cdd9bf0c8cade</link>
+            
+            
+            
+            <author><![CDATA[哥飞]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[我自建的房价监控中心，最近报警了。 一看才发现，房市又火热起来了，上海房价一骑绝尘。]]></title>
@@ -105,22 +121,6 @@
         </item>
         
         <item>
-            <title><![CDATA[微软GitHub Copilot X发布，链接：https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/ 包括了： - Copilot Chat https://g...]]></title>
-            <description><![CDATA[微软GitHub Copilot X发布，链接：https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/ <br><br>包括了：<br><br>- Copilot Chat   https://github.com/github-copilot/chat_waitlist_signup/join <br>- Copilot for Pull Request    https://copilot4prs.githubnext.com/login <br>- Copilot CLI https://githubnext.com/projects/copilot-cli/ <br>- Copilot Doc https://githubnext.com/projects/copilot-for-docs<br><img src="https://cdnv2.ruguoapp.com/llXL3T8qi19aeNFMO2NtS_PeOWwtv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 22 Mar 2023 15:36:46 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/641b208eb2d0030428d29799</guid>
-            <link>https://m.okjike.com/originalPosts/641b208eb2d0030428d29799</link>
-            
-            
-            
-            <author><![CDATA[P小二]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[跟朋友聊到 ChatGPT 在开发者领域的应用，有哪些可以立竿见影看到效果、直接发布到生产环境使用的： 1）生成 Commit log，这是 ChatGPT 的强项，它能够快速理解...]]></title>
             <description><![CDATA[跟朋友聊到 ChatGPT 在开发者领域的应用，有哪些可以立竿见影看到效果、直接发布到生产环境使用的：<br><br>1）生成 Commit log，这是 ChatGPT 的强项，它能够快速理解逻辑和代码，通过 diff 归纳出概要，开源的工具有：https://github.com/zurawiki/gptcommit<br><br>2）生成测试用例，团队内实践下来效果相当好。虽然 Copilot 和 Tabnine 等产品在代码自动补全方面已经表现不错，但相较于 https://codeium.com 和 https://cursor.so 这些能够使用自然语言生成代码的体验，还是稍逊一筹。之所以不生成业务代码，是因为生成业务代码需要理解产品逻辑，而编写单元测试只需理解一个函数。<br><br>3）生成 API 文档和代码注释，ChatGPT 可以通过阅读代码，理解函数的输入、输出、功能以及用途，然后生成相应的 API 文档和注释，开源的工具：https://github.com/awekrx/AutoDoc-ChatGPT<br><br>4）生成 SQL，已经看到 PingCAP 发布了相关产品 chat2query，https://www.pingcap.com/chat2query-an-innovative-ai-powered-sql-generator-for-faster-insights/，对公司产品、运营等有数据需求但不懂数技术的岗位非常友好。<br><br>5）自动代码审查和漏洞检测，ChatGPT 可以分析代码中的潜在问题，包括代码风格不一致、程序逻辑错误或安全漏洞等。这个能力其实在 cursor.so 这个产品中就已经具备了，无需等到提交代码，在本地可以直接让程序先完成一轮 CR。<br><br>很多体验做出来都会让人产生 Wow~ 的感觉，利用 ChatGPT 做 toD 方向的建设，确实可以提高开发效率，减少错误，提高代码质量，对公司和开发者还是具有很大价值的。<br><br>你还有什么其他有趣的想法么？]]></description>
             <pubDate>Wed, 22 Mar 2023 11:50:15 GMT</pubDate>
@@ -154,7 +154,7 @@
         
         <item>
             <title><![CDATA[无痛配置了 neovim，很丝滑！]]></title>
-            <description><![CDATA[无痛配置了 neovim，很丝滑！<br><video src="https://videocdn.jellow.site/luWBOgpG1KAncv9NpyO6WBSqL0UJ.mp4?sign=b976a4aff35e6cd04f58b1840d5e56aa&amp;t=64218b3c" controls=""></video>]]></description>
+            <description><![CDATA[无痛配置了 neovim，很丝滑！<br><video src="https://videocdn.jellow.site/luWBOgpG1KAncv9NpyO6WBSqL0UJ.mp4?sign=afd9294ad2ea0ec0ada5f1286d27adee&amp;t=6421a876" controls=""></video>]]></description>
             <pubDate>Sun, 12 Mar 2023 09:21:30 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/640d999a73b2f12319dbb183</guid>
             <link>https://m.okjike.com/originalPosts/640d999a73b2f12319dbb183</link>
