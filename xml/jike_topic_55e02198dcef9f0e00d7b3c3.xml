@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 30 Mar 2023 00:05:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 02:05:25 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[https://warp.dev，一款全新的，基于 Rust 的终端，集成了 AI 的能力，重新设计了输入框和输出框的交互体验，提供了很多实用的快捷功能，还解决了一些协同上的问...]]></title>
+            <description><![CDATA[https://warp.dev，一款全新的，基于 Rust 的终端，集成了 AI 的能力，重新设计了输入框和输出框的交互体验，提供了很多实用的快捷功能，还解决了一些协同上的问题，体验了半个小时，把之前的 iTerm 给卸载了。<br><br>真希望一些云的 Web Terminal 也能把这个工具集成上去。很好用。<br><img src="https://cdnv2.ruguoapp.com/FpBx3z1aC-FjLBrJtj2qBD8xQnDzv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 29 Mar 2023 16:13:14 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6424639a97c3df8e4f3ad151</guid>
+            <link>https://m.okjike.com/originalPosts/6424639a97c3df8e4f3ad151</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[真神奇，今天才知道这个网站，UI界的chatgpt，根据文本自动生成设计稿。]]></title>
@@ -41,15 +57,15 @@
         </item>
         
         <item>
-            <title><![CDATA[想做个简单的APP。 功能就两个，一个是“工作日志”，记录每天工作的内容；一个是“今天你开心了吗”，记录每天开心的事。要有时间轴功能。 但我根本不会写程序...]]></title>
-            <description><![CDATA[想做个简单的APP。<br>功能就两个，一个是“工作日志”，记录每天工作的内容；一个是“今天你开心了吗”，记录每天开心的事。要有时间轴功能。<br>但我根本不会写程序😂这个小白上手能做出来吗？]]></description>
-            <pubDate>Wed, 29 Mar 2023 03:28:57 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6423b079565522f99e188683</guid>
-            <link>https://m.okjike.com/originalPosts/6423b079565522f99e188683</link>
+            <title><![CDATA[#失业学习日记_001 三次握手与四次挥手，虽然我工作中目前还没有涉及网络编程这一方面的东西，但是难免面试老是要被问到，算是个高频的必备知识点了。 三次握手...]]></title>
+            <description><![CDATA[#失业学习日记_001 <br><br>三次握手与四次挥手，虽然我工作中目前还没有涉及网络编程这一方面的东西，但是难免面试老是要被问到，算是个高频的必备知识点了。<br><br>三次握手，目的有3个。<br><br>第一个目的是为了防止在网络阻塞时，历史连接乱入，导致造成混乱。如果是两次握手，则在第二次握手时不加以校验，服务端与一个旧的连接建立通信。有了三次握手，能够在第二次握手时校验，校验成功则正常进行第三次握手，否则发送RST信号。<br><br>第二个目的是为了同步双方的初始化序列号。从这个层面上来说，可以把3次握手看作是4次握手的精简版，即两轮SYN-ACK，各自发送SYN并接收应答信号。只不过中间第二次握手的应答和第三次握手的SYN可以合二为一。（相较于4次挥手，由于被动方可能还有数据要发送，所以FIN和ACK必须分离，所以是4次）<br><br>第三个目的是为了避免资源的浪费。在网络阻塞情况下，客户端可能多次发送SYN请求，如果只有两次握手，由于服务端无法得知客户端是否接受到ACK信号并建立起连接，只能在每次接受到SYN信号时都主动建立一个连接。故在SYN冗余情况下，重复分配资源，造成浪费。而三次握手的机制得以在第二次握手时进行校验，校验成功通过第三次握手应答后才建立起连接，避免了资源浪费。<br><br>四次挥手，原因是上面目的二提到的，通信双方其中一方主动请求断开连接时，另一方可能还有数据要发送，故需要把被动方的ACK和FIN分开成两次挥手。<br><br>主动发起断连的一方会有TIME_WAIT的状态，需要等待2MSL，原因是：一方面，等待足够长的时间，能够让滞留在网络中的历史数据消失，以至于下一次在相同端口建立TCP连接时，旧数据不至于在握手时造成数据混乱。另一方面，2MSL确保被动关闭连接的一方能够被正确关闭。因为第四次挥手的ACK信号可能由于网络阻塞或数据丢失而没到达被动方，被动方将一直处于LAST_ACK的状态。本来会有个超时重发机智，重新进行第三次挥手发送FIN信号，重新等待接收四次挥手的ACK，但如果主动关闭方老早就断连了，则永远没人处理重发的信号，被动方永远等在LAST_ACK。<br><br>而2MSL正好是第三次挥手和第四次挥手的往返时间之和。<br><img src="https://cdnv2.ruguoapp.com/Fn3wVHo9-NbBSKMQCmeJiwpb2JXcv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FsJCAMOPoMtCZdw3uXG83izdIW5Nv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fll2fmHodkrPCta-bQ2VQWfWHom8v3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fmo4YRShS4b19EoPXus8iIaIxZY0v3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 28 Mar 2023 16:24:53 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/642314d51ccc7f651043f1b4</guid>
+            <link>https://m.okjike.com/originalPosts/642314d51ccc7f651043f1b4</link>
             
             
             
-            <author><![CDATA[猪兔子卡拉卡拉]]></author>
+            <author><![CDATA[余向林dd]]></author>
             
                 
             
@@ -105,22 +121,6 @@
         </item>
         
         <item>
-            <title><![CDATA[cursor真的太好用了！集成gpt4，帮我写了后端代码🤗🤗 不知道对wxml支持怎么样，回去试试 插件：https://marketplace.visualstudio.com/items?itemName=ktia...]]></title>
-            <description><![CDATA[cursor真的太好用了！集成gpt4，帮我写了后端代码🤗🤗<br>不知道对wxml支持怎么样，回去试试<br><br>插件：https://marketplace.visualstudio.com/items?itemName=ktiays.aicursor<br><br>开源地址：https://github.com/Helixform/CodeCursor<br><img src="https://cdnv2.ruguoapp.com/FgXOmh17WH5JTu89TjxnU4VoEyNAv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 24 Mar 2023 00:24:53 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/641cedd5c2880db21339c437</guid>
-            <link>https://m.okjike.com/originalPosts/641cedd5c2880db21339c437</link>
-            
-            
-            
-            <author><![CDATA[不务正业小胡同学]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[跟朋友聊到 ChatGPT 在开发者领域的应用，有哪些可以立竿见影看到效果、直接发布到生产环境使用的： 1）生成 Commit log，这是 ChatGPT 的强项，它能够快速理解...]]></title>
             <description><![CDATA[跟朋友聊到 ChatGPT 在开发者领域的应用，有哪些可以立竿见影看到效果、直接发布到生产环境使用的：<br><br>1）生成 Commit log，这是 ChatGPT 的强项，它能够快速理解逻辑和代码，通过 diff 归纳出概要，开源的工具有：https://github.com/zurawiki/gptcommit<br><br>2）生成测试用例，团队内实践下来效果相当好。虽然 Copilot 和 Tabnine 等产品在代码自动补全方面已经表现不错，但相较于 https://codeium.com 和 https://cursor.so 这些能够使用自然语言生成代码的体验，还是稍逊一筹。之所以不生成业务代码，是因为生成业务代码需要理解产品逻辑，而编写单元测试只需理解一个函数。<br><br>3）生成 API 文档和代码注释，ChatGPT 可以通过阅读代码，理解函数的输入、输出、功能以及用途，然后生成相应的 API 文档和注释，开源的工具：https://github.com/awekrx/AutoDoc-ChatGPT<br><br>4）生成 SQL，已经看到 PingCAP 发布了相关产品 chat2query，https://www.pingcap.com/chat2query-an-innovative-ai-powered-sql-generator-for-faster-insights/，对公司产品、运营等有数据需求但不懂数技术的岗位非常友好。<br><br>5）自动代码审查和漏洞检测，ChatGPT 可以分析代码中的潜在问题，包括代码风格不一致、程序逻辑错误或安全漏洞等。这个能力其实在 cursor.so 这个产品中就已经具备了，无需等到提交代码，在本地可以直接让程序先完成一轮 CR。<br><br>很多体验做出来都会让人产生 Wow~ 的感觉，利用 ChatGPT 做 toD 方向的建设，确实可以提高开发效率，减少错误，提高代码质量，对公司和开发者还是具有很大价值的。<br><br>你还有什么其他有趣的想法么？]]></description>
             <pubDate>Wed, 22 Mar 2023 11:50:15 GMT</pubDate>
@@ -154,7 +154,7 @@
         
         <item>
             <title><![CDATA[无痛配置了 neovim，很丝滑！]]></title>
-            <description><![CDATA[无痛配置了 neovim，很丝滑！<br><video src="https://videocdn.jellow.site/luWBOgpG1KAncv9NpyO6WBSqL0UJ.mp4?sign=2e6d6d35aa46ea0334355a7033c01c56&amp;t=6424d947" controls=""></video>]]></description>
+            <description><![CDATA[无痛配置了 neovim，很丝滑！<br><video src="https://videocdn.jellow.site/luWBOgpG1KAncv9NpyO6WBSqL0UJ.mp4?sign=da1e6d9ed22fda6a73ee91925d569f64&amp;t=6424f490" controls=""></video>]]></description>
             <pubDate>Sun, 12 Mar 2023 09:21:30 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/640d999a73b2f12319dbb183</guid>
             <link>https://m.okjike.com/originalPosts/640d999a73b2f12319dbb183</link>
