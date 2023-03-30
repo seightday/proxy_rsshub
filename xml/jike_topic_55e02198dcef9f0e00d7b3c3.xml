@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 30 Mar 2023 02:05:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 06:05:38 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[🔥ChatGPT 中文指南🔥震撼发布 一周内 GitHub 狂揽 500+ ⭐，帮助中文用户了解和使用 ChatGPT，收集了丰富的 ChatGPT 工具、应用与示例。项目持续更新，欢迎...]]></title>
+            <description><![CDATA[<img src="https://opengraph.githubassets.com/f65552b9aa067d52354731d85fefc6599149e6eb1c29197d4408fb7a382ce299/yzfly/awesome-chatgpt-zh" referrerpolicy="no-referrer"><br>                    <a href="https://github.com/yzfly/awesome-chatgpt-zh">GitHub - yzfly/awesome-chatgpt-zh: ChatGPT 中文指南，指令指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up!</a><br>                <br>🔥ChatGPT 中文指南🔥震撼发布<br><br>一周内 GitHub 狂揽 500+ ⭐，帮助中文用户了解和使用 ChatGPT，收集了丰富的 ChatGPT 工具、应用与示例。项目持续更新，欢迎关注，欢迎 Star⭐~]]></description>
+            <pubDate>Thu, 30 Mar 2023 00:58:14 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6424dea6565522f99e376f82</guid>
+            <link>https://m.okjike.com/originalPosts/6424dea6565522f99e376f82</link>
+            
+            
+            
+            <author><![CDATA[云中江树]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[https://warp.dev，一款全新的，基于 Rust 的终端，集成了 AI 的能力，重新设计了输入框和输出框的交互体验，提供了很多实用的快捷功能，还解决了一些协同上的问...]]></title>
@@ -34,6 +50,22 @@
             
             
             <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[华为杯ICPC比赛，来自北京大学的“重生之我是菜狗”队摘取桂冠，荣获冠军；来自清华大学的“有手有脚”队获得亚军；来自浙江大学的“虚空之梦”队获得季军]]></title>
+            <description><![CDATA[华为杯ICPC比赛，来自北京大学的“重生之我是菜狗”队摘取桂冠，荣获冠军；来自清华大学的“有手有脚”队获得亚军；来自浙江大学的“虚空之梦”队获得季军<br><img src="https://cdnv2.ruguoapp.com/Fh6mQZOM02WLrWwulbshbi634wqvv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 29 Mar 2023 05:40:49 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6423cf61bb8e9d0a2db320c9</guid>
+            <link>https://m.okjike.com/originalPosts/6423cf61bb8e9d0a2db320c9</link>
+            
+            
+            
+            <author><![CDATA[九之濑遥]]></author>
             
                 
             
@@ -73,22 +105,6 @@
         </item>
         
         <item>
-            <title><![CDATA[#ChatGPT-Vercel 25 个 5 美元的 key 都给我干完了，下个月再上新的 key。另外还干废了两个 120 美元的 key。]]></title>
-            <description><![CDATA[#ChatGPT-Vercel <br><br>25 个 5 美元的 key 都给我干完了，下个月再上新的 key。另外还干废了两个 120 美元的 key。<br><img src="https://cdnv2.ruguoapp.com/Fsk2RlKLQX4StERpg6VOZptgYgfPv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 28 Mar 2023 12:43:58 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6422e10ec2880db213dc2bb7</guid>
-            <link>https://m.okjike.com/originalPosts/6422e10ec2880db213dc2bb7</link>
-            
-            
-            
-            <author><![CDATA[ourongxing]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[这里几个概念需要分清楚 1、ChatGPT是基于GPT3.5训练出来的专用于Chat的模型； 2、目前开放出来的API可供调用的最新模型 gpt-3.5-turbo 等同于 ChatGPT； 3、目...]]></title>
             <description><![CDATA[这里几个概念需要分清楚<br>1、ChatGPT是基于GPT3.5训练出来的专用于Chat的模型；<br>2、目前开放出来的API可供调用的最新模型 gpt-3.5-turbo 等同于 ChatGPT；<br>3、目前 ChatGPT 官网如果你开通了 Plus 会员，可以使用 GPT4 模型；<br>4、GPT4 模型与 gpt-3.5-turbo 调用时都需要使用 chat 接口，而之前的 davinci 003 要用 completion 接口；<br>5、所以 ChatGPT 和 GPT4 和 gpt-3.5-turbo 都是 Chat 模型；<br>6、 new bing 说自己用的是 GPT4 ，那么可以认为比大多数人用的 ChatGPT 更智能。<br><img src="https://cdnv2.ruguoapp.com/FvoS4aW8L6xBvqd6XDyYpdRyzfDRv3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Mon, 27 Mar 2023 05:33:58 GMT</pubDate>
@@ -98,22 +114,6 @@
             
             
             <author><![CDATA[哥飞]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[我自建的房价监控中心，最近报警了。 一看才发现，房市又火热起来了，上海房价一骑绝尘。]]></title>
-            <description><![CDATA[我自建的房价监控中心，最近报警了。<br><br>一看才发现，房市又火热起来了，上海房价一骑绝尘。<br><img src="https://cdnv2.ruguoapp.com/FnycMHC1PxMgMXqJb6fj_iSHUCJNv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sun, 26 Mar 2023 07:27:52 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/641ff3f8470b7fdf0594417d</guid>
-            <link>https://m.okjike.com/originalPosts/641ff3f8470b7fdf0594417d</link>
-            
-            
-            
-            <author><![CDATA[何时夕]]></author>
             
                 
             
@@ -154,7 +154,7 @@
         
         <item>
             <title><![CDATA[无痛配置了 neovim，很丝滑！]]></title>
-            <description><![CDATA[无痛配置了 neovim，很丝滑！<br><video src="https://videocdn.jellow.site/luWBOgpG1KAncv9NpyO6WBSqL0UJ.mp4?sign=da1e6d9ed22fda6a73ee91925d569f64&amp;t=6424f490" controls=""></video>]]></description>
+            <description><![CDATA[无痛配置了 neovim，很丝滑！<br><video src="https://videocdn.jellow.site/luWBOgpG1KAncv9NpyO6WBSqL0UJ.mp4?sign=a767032470e1a5352ff9c019a0b48191&amp;t=64252b9f" controls=""></video>]]></description>
             <pubDate>Sun, 12 Mar 2023 09:21:30 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/640d999a73b2f12319dbb183</guid>
             <link>https://m.okjike.com/originalPosts/640d999a73b2f12319dbb183</link>
