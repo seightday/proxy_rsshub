@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 30 Mar 2023 10:05:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 16:06:04 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[好项目分享。 https://github.com/hepengwei/visualization-collection 一个专注于前端视觉效果的集合应用，包含CSS动效、Canvas动画、人工智能应用等上百个案例...]]></title>
+            <description><![CDATA[好项目分享。<br><br>https://github.com/hepengwei/visualization-collection<br><br>一个专注于前端视觉效果的集合应用，包含CSS动效、Canvas动画、人工智能应用等上百个案例。<img src="https://cdnv2.ruguoapp.com/lv9pCmT3OkHryMeyyY7xYdpJrPOpv3.gif" referrerpolicy="no-referrer"><img src="https://cdnv2.ruguoapp.com/FuyuPWG5sm-DY1reVho93TLGfZHlv3.gif" referrerpolicy="no-referrer"><img src="https://cdnv2.ruguoapp.com/ljHuMm5JBTEcuzPeX9kFiv2csR2Nv3.gif" referrerpolicy="no-referrer"><img src="https://cdnv2.ruguoapp.com/llATwHNHuyqDoLFH-qyfZDK_g3F4v3.gif" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 30 Mar 2023 13:21:42 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64258ce654086d46a31b91f2</guid>
+            <link>https://m.okjike.com/originalPosts/64258ce654086d46a31b91f2</link>
+            
+            
+            
+            <author><![CDATA[二丫讲梵]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[这几年电脑换了五六次，每次拿到新电脑都要重新折腾一番配置和软件，于是一口气把所有用到的软件和配置都写成了脚本，下次就是一行命令直接搞定所有内容的安装了...]]></title>
@@ -30,6 +46,22 @@
             <pubDate>Thu, 30 Mar 2023 05:23:20 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/64251cc8bb8e9d0a2dd6102c</guid>
             <link>https://m.okjike.com/originalPosts/64251cc8bb8e9d0a2dd6102c</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[体验了一下 OrbStack，https://orbstack.dev/ ，确实快，完全可以整体取代 Docker Desktop + 类 VirtualBox 虚拟机，在它上面 Linux 虚拟机的创建只需要不到一分...]]></title>
+            <description><![CDATA[体验了一下 OrbStack，https://orbstack.dev/ ，确实快，完全可以整体取代 Docker Desktop + 类 VirtualBox 虚拟机，在它上面 Linux 虚拟机的创建只需要不到一分钟，而且跟 Mac 系统深度集成，Docker 的启动和销毁也快了很多。<br><br>看了它的设计架构，Linux 的集成跟 Windows 的 WSL 类似，采用了共享内核技术，相当于在宿主操作系统的内核之上运行一个独立的用户空间环境，利用宿主操作系统的内核来隔离和管理应用程序的运行环境，甚至可以在 Linux 中直接调用 Mac 的指令。所以它可以做到很小的内存开销，而且可以及时释放不使用的内存。<br><br>缺点就是定制化成本非常高，需要根据不同的 MacOS 系统版本，将 Linux 内核、Docker 和其他组件，手动胶水融合到一起，为了让 Linux 跑得更加顺畅，还在底层做了一些适配工作，项目工程用到的语言就有一堆，包括 C、Go、Rust、Swift 等。<br><br>他们团队还在纠结到底以什么样的形式收费，当前是 beta 公测版本，免费的，后续肯定会转为收费版。但就这个体验而言，花钱是完全值得的，也期望有更多的功能可以被集成进来，包括 k8s、Linux 图形界面、GPU 计算、USB 连接和更强的动态内存分配等等。<br><img src="https://cdnv2.ruguoapp.com/FnXy844dgLAdlmNjZHTnMplEXZr5v3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 30 Mar 2023 02:21:37 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6424f23154086d46a307cf13</guid>
+            <link>https://m.okjike.com/originalPosts/6424f23154086d46a307cf13</link>
             
             
             
@@ -50,22 +82,6 @@
             
             
             <author><![CDATA[云中江树]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[https://warp.dev，一款全新的，基于 Rust 的终端，集成了 AI 的能力，重新设计了输入框和输出框的交互体验，提供了很多实用的快捷功能，还解决了一些协同上的问...]]></title>
-            <description><![CDATA[https://warp.dev，一款全新的，基于 Rust 的终端，集成了 AI 的能力，重新设计了输入框和输出框的交互体验，提供了很多实用的快捷功能，还解决了一些协同上的问题，体验了半个小时，把之前的 iTerm 给卸载了。<br><br>真希望一些云的 Web Terminal 也能把这个工具集成上去。很好用。<br><img src="https://cdnv2.ruguoapp.com/FpBx3z1aC-FjLBrJtj2qBD8xQnDzv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 29 Mar 2023 16:13:14 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6424639a97c3df8e4f3ad151</guid>
-            <link>https://m.okjike.com/originalPosts/6424639a97c3df8e4f3ad151</link>
-            
-            
-            
-            <author><![CDATA[Barret李靖]]></author>
             
                 
             
@@ -98,22 +114,6 @@
             
             
             <author><![CDATA[李守聪]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[#失业学习日记_001 三次握手与四次挥手，虽然我工作中目前还没有涉及网络编程这一方面的东西，但是难免面试老是要被问到，算是个高频的必备知识点了。 三次握手...]]></title>
-            <description><![CDATA[#失业学习日记_001 <br><br>三次握手与四次挥手，虽然我工作中目前还没有涉及网络编程这一方面的东西，但是难免面试老是要被问到，算是个高频的必备知识点了。<br><br>三次握手，目的有3个。<br><br>第一个目的是为了防止在网络阻塞时，历史连接乱入，导致造成混乱。如果是两次握手，则在第二次握手时不加以校验，服务端与一个旧的连接建立通信。有了三次握手，能够在第二次握手时校验，校验成功则正常进行第三次握手，否则发送RST信号。<br><br>第二个目的是为了同步双方的初始化序列号。从这个层面上来说，可以把3次握手看作是4次握手的精简版，即两轮SYN-ACK，各自发送SYN并接收应答信号。只不过中间第二次握手的应答和第三次握手的SYN可以合二为一。（相较于4次挥手，由于被动方可能还有数据要发送，所以FIN和ACK必须分离，所以是4次）<br><br>第三个目的是为了避免资源的浪费。在网络阻塞情况下，客户端可能多次发送SYN请求，如果只有两次握手，由于服务端无法得知客户端是否接受到ACK信号并建立起连接，只能在每次接受到SYN信号时都主动建立一个连接。故在SYN冗余情况下，重复分配资源，造成浪费。而三次握手的机制得以在第二次握手时进行校验，校验成功通过第三次握手应答后才建立起连接，避免了资源浪费。<br><br>四次挥手，原因是上面目的二提到的，通信双方其中一方主动请求断开连接时，另一方可能还有数据要发送，故需要把被动方的ACK和FIN分开成两次挥手。<br><br>主动发起断连的一方会有TIME_WAIT的状态，需要等待2MSL，原因是：一方面，等待足够长的时间，能够让滞留在网络中的历史数据消失，以至于下一次在相同端口建立TCP连接时，旧数据不至于在握手时造成数据混乱。另一方面，2MSL确保被动关闭连接的一方能够被正确关闭。因为第四次挥手的ACK信号可能由于网络阻塞或数据丢失而没到达被动方，被动方将一直处于LAST_ACK的状态。本来会有个超时重发机智，重新进行第三次挥手发送FIN信号，重新等待接收四次挥手的ACK，但如果主动关闭方老早就断连了，则永远没人处理重发的信号，被动方永远等在LAST_ACK。<br><br>而2MSL正好是第三次挥手和第四次挥手的往返时间之和。<br><img src="https://cdnv2.ruguoapp.com/Fn3wVHo9-NbBSKMQCmeJiwpb2JXcv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FsJCAMOPoMtCZdw3uXG83izdIW5Nv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fll2fmHodkrPCta-bQ2VQWfWHom8v3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fmo4YRShS4b19EoPXus8iIaIxZY0v3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 28 Mar 2023 16:24:53 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/642314d51ccc7f651043f1b4</guid>
-            <link>https://m.okjike.com/originalPosts/642314d51ccc7f651043f1b4</link>
-            
-            
-            
-            <author><![CDATA[余向林dd]]></author>
             
                 
             
@@ -154,7 +154,7 @@
         
         <item>
             <title><![CDATA[无痛配置了 neovim，很丝滑！]]></title>
-            <description><![CDATA[无痛配置了 neovim，很丝滑！<br><video src="https://videocdn.jellow.site/luWBOgpG1KAncv9NpyO6WBSqL0UJ.mp4?sign=48776b248236cc0603ecb021d5d22954&amp;t=642564ba" controls=""></video>]]></description>
+            <description><![CDATA[无痛配置了 neovim，很丝滑！<br><video src="https://videocdn.jellow.site/luWBOgpG1KAncv9NpyO6WBSqL0UJ.mp4?sign=878ff64b4f05c83b8d353133688fb692&amp;t=6425b91f" controls=""></video>]]></description>
             <pubDate>Sun, 12 Mar 2023 09:21:30 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/640d999a73b2f12319dbb183</guid>
             <link>https://m.okjike.com/originalPosts/640d999a73b2f12319dbb183</link>
