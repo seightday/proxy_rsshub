@@ -21,8 +21,40 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Fri, 31 Mar 2023 10:06:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Mar 2023 16:07:36 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[关于如何实现【以图搜图】和【以文搜图】，这两篇文章讲得很详细，不仅讲了要怎么做，还讲了为什么要这么做，基本上看完这两篇，你就有了理论基础，也知道大概要...]]></title>
+            <description><![CDATA[关于如何实现【以图搜图】和【以文搜图】，这两篇文章讲得很详细，不仅讲了要怎么做，还讲了为什么要这么做，基本上看完这两篇，你就有了理论基础，也知道大概要怎么做了。<br>https://mp.weixin.qq.com/s/LJQZSE_Wksx9Huy0GELNmw​​ 、 https://mp.weixin.qq.com/s/W30Rgo6E8q0NswDfkxZ1Ig<br><img src="https://cdnv2.ruguoapp.com/Fvjn3zRcu20vENktlxg1xfhNdRysv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 31 Mar 2023 09:14:32 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6426a478a930598b3ad49378</guid>
+            <link>https://m.okjike.com/originalPosts/6426a478a930598b3ad49378</link>
+            
+            
+            
+            <author><![CDATA[哥飞]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[我悟了]]></title>
+            <description><![CDATA[我悟了<br><img src="https://cdnv2.ruguoapp.com/FsRY5m2yaANWomovEriACb6pwXTKv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 31 Mar 2023 04:36:46 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6426635e54086d46a32f4eba</guid>
+            <link>https://m.okjike.com/originalPosts/6426635e54086d46a32f4eba</link>
+            
+            
+            
+            <author><![CDATA[任天堂天下第一]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[好项目分享。 https://github.com/hepengwei/visualization-collection 一个专注于前端视觉效果的集合应用，包含CSS动效、Canvas动画、人工智能应用等上百个案例...]]></title>
@@ -57,22 +89,6 @@
         </item>
         
         <item>
-            <title><![CDATA[体验了一下 OrbStack，https://orbstack.dev/ ，确实快，完全可以整体取代 Docker Desktop + 类 VirtualBox 虚拟机，在它上面 Linux 虚拟机的创建只需要不到一分...]]></title>
-            <description><![CDATA[体验了一下 OrbStack，https://orbstack.dev/ ，确实快，完全可以整体取代 Docker Desktop + 类 VirtualBox 虚拟机，在它上面 Linux 虚拟机的创建只需要不到一分钟，而且跟 Mac 系统深度集成，Docker 的启动和销毁也快了很多。<br><br>看了它的设计架构，Linux 的集成跟 Windows 的 WSL 类似，采用了共享内核技术，相当于在宿主操作系统的内核之上运行一个独立的用户空间环境，利用宿主操作系统的内核来隔离和管理应用程序的运行环境，甚至可以在 Linux 中直接调用 Mac 的指令。所以它可以做到很小的内存开销，而且可以及时释放不使用的内存。<br><br>缺点就是定制化成本非常高，需要根据不同的 MacOS 系统版本，将 Linux 内核、Docker 和其他组件，手动胶水融合到一起，为了让 Linux 跑得更加顺畅，还在底层做了一些适配工作，项目工程用到的语言就有一堆，包括 C、Go、Rust、Swift 等。<br><br>他们团队还在纠结到底以什么样的形式收费，当前是 beta 公测版本，免费的，后续肯定会转为收费版。但就这个体验而言，花钱是完全值得的，也期望有更多的功能可以被集成进来，包括 k8s、Linux 图形界面、GPU 计算、USB 连接和更强的动态内存分配等等。<br><img src="https://cdnv2.ruguoapp.com/FnXy844dgLAdlmNjZHTnMplEXZr5v3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 30 Mar 2023 02:21:37 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6424f23154086d46a307cf13</guid>
-            <link>https://m.okjike.com/originalPosts/6424f23154086d46a307cf13</link>
-            
-            
-            
-            <author><![CDATA[Barret李靖]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[🔥ChatGPT 中文指南🔥震撼发布 一周内 GitHub 狂揽 500+ ⭐，帮助中文用户了解和使用 ChatGPT，收集了丰富的 ChatGPT 工具、应用与示例。项目持续更新，欢迎...]]></title>
             <description><![CDATA[<img src="https://opengraph.githubassets.com/f65552b9aa067d52354731d85fefc6599149e6eb1c29197d4408fb7a382ce299/yzfly/awesome-chatgpt-zh" referrerpolicy="no-referrer"><br>                    <a href="https://github.com/yzfly/awesome-chatgpt-zh">GitHub - yzfly/awesome-chatgpt-zh: ChatGPT 中文指南，指令指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up!</a><br>                <br>🔥ChatGPT 中文指南🔥震撼发布<br><br>一周内 GitHub 狂揽 500+ ⭐，帮助中文用户了解和使用 ChatGPT，收集了丰富的 ChatGPT 工具、应用与示例。项目持续更新，欢迎关注，欢迎 Star⭐~]]></description>
             <pubDate>Thu, 30 Mar 2023 00:58:14 GMT</pubDate>
@@ -82,22 +98,6 @@
             
             
             <author><![CDATA[云中江树]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[华为杯ICPC比赛，来自北京大学的“重生之我是菜狗”队摘取桂冠，荣获冠军；来自清华大学的“有手有脚”队获得亚军；来自浙江大学的“虚空之梦”队获得季军]]></title>
-            <description><![CDATA[华为杯ICPC比赛，来自北京大学的“重生之我是菜狗”队摘取桂冠，荣获冠军；来自清华大学的“有手有脚”队获得亚军；来自浙江大学的“虚空之梦”队获得季军<br><img src="https://cdnv2.ruguoapp.com/Fh6mQZOM02WLrWwulbshbi634wqvv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 29 Mar 2023 05:40:49 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6423cf61bb8e9d0a2db320c9</guid>
-            <link>https://m.okjike.com/originalPosts/6423cf61bb8e9d0a2db320c9</link>
-            
-            
-            
-            <author><![CDATA[九之濑遥]]></author>
             
                 
             
@@ -154,7 +154,7 @@
         
         <item>
             <title><![CDATA[无痛配置了 neovim，很丝滑！]]></title>
-            <description><![CDATA[无痛配置了 neovim，很丝滑！<br><video src="https://videocdn.jellow.site/luWBOgpG1KAncv9NpyO6WBSqL0UJ.mp4?sign=836a46b15abcf53edec5d059b2de6151&amp;t=6426b637" controls=""></video>]]></description>
+            <description><![CDATA[无痛配置了 neovim，很丝滑！<br><video src="https://videocdn.jellow.site/luWBOgpG1KAncv9NpyO6WBSqL0UJ.mp4?sign=55e25618e4e1f47ca7bc611ec30562bf&amp;t=64270c50" controls=""></video>]]></description>
             <pubDate>Sun, 12 Mar 2023 09:21:30 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/640d999a73b2f12319dbb183</guid>
             <link>https://m.okjike.com/originalPosts/640d999a73b2f12319dbb183</link>
