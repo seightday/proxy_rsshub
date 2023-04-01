@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sat, 01 Apr 2023 04:08:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Apr 2023 08:08:17 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[作为程序员，我忽然意识一个悖论，尽管程序员是最擅长编程的人。但是程序员其实不能通过编程来提升自己的赚钱效率。 注意是编程不是编程水平，不要着急喷我。 什...]]></title>
+            <description><![CDATA[作为程序员，我忽然意识一个悖论，尽管程序员是最擅长编程的人。但是程序员其实不能通过编程来提升自己的赚钱效率。<br><br>注意是编程不是编程水平，不要着急喷我。<br><br>什么是通过编程提高工作效率挣钱呢？假如 A 是一个会计，有一些报表要做，这些报表要花去他一周一天的时间。有一天发现，这些报表实际上可以通过编程来实现，于是这个会计闲暇的时候写了 python 程序来帮自己。比如根据正则匹配名称，自动将一些数据填充到另一张需要的表上。以前需要在某一天做的报表，现在只需要动动手指了就可以搞定。同时由于编程是跨行业技能，并不是每个同事都会去学习，另一方面由于报表的差异性，可能需要 A 对程序微调，改改参数等，难以形成普适性的产品。这无法提升整个会计行业的生产力。因此编程带来的效率提升，提升了 A 的竞争力。<br><br>但如果 A 是程序员，所有的程序员都会编程，而简单编程又能提高效率的早就已经被别人做过的，实际上自身很难再去写一些工具，而要使用别人开发的工具来提升自己的工作效率。举个例子，idea 比 eclipse 好用应该没有什么争议，但是大部分人都用 idea 了，这样大部分人并不会应为 idea 生产效率的提高而减少工作时间。而与之带来的是，生产力的提升带来了更多学习成本，更多学习生产力工具时间。10年前会 Java 会写就行了，有更多分工，部署之类的可能会有丰富经验的老哥负责合并部署。现在docker，devops相关，k8s。这些多多少少都要懂，并且在实际工作中都可能碰到问题，需要自己解决。<br><br>天才的你读到这一段，应该意识到说是编程，但是实际上是指产出产品或工具。相比其他行业，程序员效率工具其实传播的要快，很快效率工具就变为行业标配。不同于会计 A，程序员 A 无法构建自己独到的优势，并且由于工具普及被动降低了竞争力。<br><br>事实上这让程序员处在一种困境中，无疑社会的平均生产力得到了提升，但是开发很难从中分配到更多。如同大丰收的时候反而粮食价格变低，因为社会消费没有跟上，而中间商收购时又会压价。对农民来说反而赚的少了。<br><br>程序员更多的是通过提升编程水平来提升薪资，要不然转管理。虽然说为自己做个工具或者脚本提升效率情况也不少，但是质的提升非常少见。比如之前美国老哥，用自动化测试替代自己，完成了一样的质量的工作，每天上班就刷刷美版知乎 quora 和 reddit。这个才是质的提升。更多时候会发现自己花费一两天时间写了一些小工具（小工具的部分初始学习成本高，要阅读chrome、vscode 开发文档，搞懂它的一些概念），但是节省的时间可能要3-6个月才能把这个时间赚回来。而那个时候工作内容可能有所变化，已经没有办法用这种方式节省时间了。<br><br>前面提到会计 A 可以用编程自己的竞争力，因为跨行业学习编程并非易事，如同程序员学会计知识也难。但是，chatGPT 来了，我已经看了无数的人跨行业分享他们应用编程的经验了。而他们会不会和程序员一样，陷入会越多反而越累的窘况呢？]]></description>
+            <pubDate>Sat, 01 Apr 2023 02:27:15 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64279683a930598b3aea889d</guid>
+            <link>https://m.okjike.com/originalPosts/64279683a930598b3aea889d</link>
+            
+            
+            
+            <author><![CDATA[若思来尔]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[这是一个开通chatGPT plus 的大致记录。 上次开通chatGPT plus的博客一直审核不通过，昨天难得的摸鱼时间弄到了github上]]></title>
@@ -105,22 +121,6 @@
         </item>
         
         <item>
-            <title><![CDATA[🔥ChatGPT 中文指南🔥震撼发布 一周内 GitHub 狂揽 500+ ⭐，帮助中文用户了解和使用 ChatGPT，收集了丰富的 ChatGPT 工具、应用与示例。项目持续更新，欢迎...]]></title>
-            <description><![CDATA[<img src="https://opengraph.githubassets.com/f65552b9aa067d52354731d85fefc6599149e6eb1c29197d4408fb7a382ce299/yzfly/awesome-chatgpt-zh" referrerpolicy="no-referrer"><br>                    <a href="https://github.com/yzfly/awesome-chatgpt-zh">GitHub - yzfly/awesome-chatgpt-zh: ChatGPT 中文指南，指令指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up!</a><br>                <br>🔥ChatGPT 中文指南🔥震撼发布<br><br>一周内 GitHub 狂揽 500+ ⭐，帮助中文用户了解和使用 ChatGPT，收集了丰富的 ChatGPT 工具、应用与示例。项目持续更新，欢迎关注，欢迎 Star⭐~]]></description>
-            <pubDate>Thu, 30 Mar 2023 00:58:14 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6424dea6565522f99e376f82</guid>
-            <link>https://m.okjike.com/originalPosts/6424dea6565522f99e376f82</link>
-            
-            
-            
-            <author><![CDATA[云中江树]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[跟朋友聊到 ChatGPT 在开发者领域的应用，有哪些可以立竿见影看到效果、直接发布到生产环境使用的： 1）生成 Commit log，这是 ChatGPT 的强项，它能够快速理解...]]></title>
             <description><![CDATA[跟朋友聊到 ChatGPT 在开发者领域的应用，有哪些可以立竿见影看到效果、直接发布到生产环境使用的：<br><br>1）生成 Commit log，这是 ChatGPT 的强项，它能够快速理解逻辑和代码，通过 diff 归纳出概要，开源的工具有：https://github.com/zurawiki/gptcommit<br><br>2）生成测试用例，团队内实践下来效果相当好。虽然 Copilot 和 Tabnine 等产品在代码自动补全方面已经表现不错，但相较于 https://codeium.com 和 https://cursor.so 这些能够使用自然语言生成代码的体验，还是稍逊一筹。之所以不生成业务代码，是因为生成业务代码需要理解产品逻辑，而编写单元测试只需理解一个函数。<br><br>3）生成 API 文档和代码注释，ChatGPT 可以通过阅读代码，理解函数的输入、输出、功能以及用途，然后生成相应的 API 文档和注释，开源的工具：https://github.com/awekrx/AutoDoc-ChatGPT<br><br>4）生成 SQL，已经看到 PingCAP 发布了相关产品 chat2query，https://www.pingcap.com/chat2query-an-innovative-ai-powered-sql-generator-for-faster-insights/，对公司产品、运营等有数据需求但不懂数技术的岗位非常友好。<br><br>5）自动代码审查和漏洞检测，ChatGPT 可以分析代码中的潜在问题，包括代码风格不一致、程序逻辑错误或安全漏洞等。这个能力其实在 cursor.so 这个产品中就已经具备了，无需等到提交代码，在本地可以直接让程序先完成一轮 CR。<br><br>很多体验做出来都会让人产生 Wow~ 的感觉，利用 ChatGPT 做 toD 方向的建设，确实可以提高开发效率，减少错误，提高代码质量，对公司和开发者还是具有很大价值的。<br><br>你还有什么其他有趣的想法么？]]></description>
             <pubDate>Wed, 22 Mar 2023 11:50:15 GMT</pubDate>
@@ -154,7 +154,7 @@
         
         <item>
             <title><![CDATA[无痛配置了 neovim，很丝滑！]]></title>
-            <description><![CDATA[无痛配置了 neovim，很丝滑！<br><video src="https://videocdn.jellow.site/luWBOgpG1KAncv9NpyO6WBSqL0UJ.mp4?sign=7e841179b7019f55935095e7ad95a8ca&amp;t=6427b397" controls=""></video>]]></description>
+            <description><![CDATA[无痛配置了 neovim，很丝滑！<br><video src="https://videocdn.jellow.site/luWBOgpG1KAncv9NpyO6WBSqL0UJ.mp4?sign=9470a6cfc34e05cdcbaadca05f9c9df3&amp;t=6427ed72" controls=""></video>]]></description>
             <pubDate>Sun, 12 Mar 2023 09:21:30 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/640d999a73b2f12319dbb183</guid>
             <link>https://m.okjike.com/originalPosts/640d999a73b2f12319dbb183</link>
