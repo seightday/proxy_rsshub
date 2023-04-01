@@ -21,19 +21,19 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sat, 01 Apr 2023 08:08:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Apr 2023 12:08:36 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
-            <title><![CDATA[作为程序员，我忽然意识一个悖论，尽管程序员是最擅长编程的人。但是程序员其实不能通过编程来提升自己的赚钱效率。 注意是编程不是编程水平，不要着急喷我。 什...]]></title>
-            <description><![CDATA[作为程序员，我忽然意识一个悖论，尽管程序员是最擅长编程的人。但是程序员其实不能通过编程来提升自己的赚钱效率。<br><br>注意是编程不是编程水平，不要着急喷我。<br><br>什么是通过编程提高工作效率挣钱呢？假如 A 是一个会计，有一些报表要做，这些报表要花去他一周一天的时间。有一天发现，这些报表实际上可以通过编程来实现，于是这个会计闲暇的时候写了 python 程序来帮自己。比如根据正则匹配名称，自动将一些数据填充到另一张需要的表上。以前需要在某一天做的报表，现在只需要动动手指了就可以搞定。同时由于编程是跨行业技能，并不是每个同事都会去学习，另一方面由于报表的差异性，可能需要 A 对程序微调，改改参数等，难以形成普适性的产品。这无法提升整个会计行业的生产力。因此编程带来的效率提升，提升了 A 的竞争力。<br><br>但如果 A 是程序员，所有的程序员都会编程，而简单编程又能提高效率的早就已经被别人做过的，实际上自身很难再去写一些工具，而要使用别人开发的工具来提升自己的工作效率。举个例子，idea 比 eclipse 好用应该没有什么争议，但是大部分人都用 idea 了，这样大部分人并不会应为 idea 生产效率的提高而减少工作时间。而与之带来的是，生产力的提升带来了更多学习成本，更多学习生产力工具时间。10年前会 Java 会写就行了，有更多分工，部署之类的可能会有丰富经验的老哥负责合并部署。现在docker，devops相关，k8s。这些多多少少都要懂，并且在实际工作中都可能碰到问题，需要自己解决。<br><br>天才的你读到这一段，应该意识到说是编程，但是实际上是指产出产品或工具。相比其他行业，程序员效率工具其实传播的要快，很快效率工具就变为行业标配。不同于会计 A，程序员 A 无法构建自己独到的优势，并且由于工具普及被动降低了竞争力。<br><br>事实上这让程序员处在一种困境中，无疑社会的平均生产力得到了提升，但是开发很难从中分配到更多。如同大丰收的时候反而粮食价格变低，因为社会消费没有跟上，而中间商收购时又会压价。对农民来说反而赚的少了。<br><br>程序员更多的是通过提升编程水平来提升薪资，要不然转管理。虽然说为自己做个工具或者脚本提升效率情况也不少，但是质的提升非常少见。比如之前美国老哥，用自动化测试替代自己，完成了一样的质量的工作，每天上班就刷刷美版知乎 quora 和 reddit。这个才是质的提升。更多时候会发现自己花费一两天时间写了一些小工具（小工具的部分初始学习成本高，要阅读chrome、vscode 开发文档，搞懂它的一些概念），但是节省的时间可能要3-6个月才能把这个时间赚回来。而那个时候工作内容可能有所变化，已经没有办法用这种方式节省时间了。<br><br>前面提到会计 A 可以用编程自己的竞争力，因为跨行业学习编程并非易事，如同程序员学会计知识也难。但是，chatGPT 来了，我已经看了无数的人跨行业分享他们应用编程的经验了。而他们会不会和程序员一样，陷入会越多反而越累的窘况呢？]]></description>
-            <pubDate>Sat, 01 Apr 2023 02:27:15 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64279683a930598b3aea889d</guid>
-            <link>https://m.okjike.com/originalPosts/64279683a930598b3aea889d</link>
+            <title><![CDATA[马斯克开源了Twitter的推荐算法 (https://github.com/twitter/the-algorithm) 比较搞笑的是，发现了这个叫Elon的向量，果然全世界的代码里都会特殊处理老板的需...]]></title>
+            <description><![CDATA[马斯克开源了Twitter的推荐算法 (https://github.com/twitter/the-algorithm)<br>比较搞笑的是，发现了这个叫Elon的向量，果然全世界的代码里都会特殊处理老板的需求🤨<br><img src="https://cdnv2.ruguoapp.com/FizIO23j131B4NYvyogy5IiU3OA2v3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sat, 01 Apr 2023 03:12:12 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6427a10ca0c5d12c1736879e</guid>
+            <link>https://m.okjike.com/originalPosts/6427a10ca0c5d12c1736879e</link>
             
             
             
-            <author><![CDATA[若思来尔]]></author>
+            <author><![CDATA[Geoion]]></author>
             
                 
             
@@ -154,7 +154,7 @@
         
         <item>
             <title><![CDATA[无痛配置了 neovim，很丝滑！]]></title>
-            <description><![CDATA[无痛配置了 neovim，很丝滑！<br><video src="https://videocdn.jellow.site/luWBOgpG1KAncv9NpyO6WBSqL0UJ.mp4?sign=9470a6cfc34e05cdcbaadca05f9c9df3&amp;t=6427ed72" controls=""></video>]]></description>
+            <description><![CDATA[无痛配置了 neovim，很丝滑！<br><video src="https://videocdn.jellow.site/luWBOgpG1KAncv9NpyO6WBSqL0UJ.mp4?sign=273ddbcf8e7dccd1b10c48e38f0cb754&amp;t=64282433" controls=""></video>]]></description>
             <pubDate>Sun, 12 Mar 2023 09:21:30 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/640d999a73b2f12319dbb183</guid>
             <link>https://m.okjike.com/originalPosts/640d999a73b2f12319dbb183</link>
