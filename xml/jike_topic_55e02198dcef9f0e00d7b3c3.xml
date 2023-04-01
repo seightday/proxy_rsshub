@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Fri, 31 Mar 2023 20:07:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Apr 2023 00:07:56 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[发现一个开源版的 ChatGPT —— FastChat。 官网：https://vicuna.lmsys.org/ GitHub: https://github.com/lm-sys/FastChat 体验地址：https://chat.lmsys.org/ ...]]></title>
+            <description><![CDATA[发现一个开源版的 ChatGPT —— FastChat。<br>官网：https://vicuna.lmsys.org/<br>GitHub: https://github.com/lm-sys/FastChat<br>体验地址：https://chat.lmsys.org/<br><br>简单试了一下，还是有不少问题的。<br><img src="https://cdnv2.ruguoapp.com/Fg6YGGypE-JDKnB-MW4qQGb6U6Yov3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fvwr_worWbeC7igWM8X_kFjxOpPFv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 31 Mar 2023 11:19:28 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6426c1c0a2e1cca6b2ff6c2c</guid>
+            <link>https://m.okjike.com/originalPosts/6426c1c0a2e1cca6b2ff6c2c</link>
+            
+            
+            
+            <author><![CDATA[Paulden]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[关于如何实现【以图搜图】和【以文搜图】，这两篇文章讲得很详细，不仅讲了要怎么做，还讲了为什么要这么做，基本上看完这两篇，你就有了理论基础，也知道大概要...]]></title>
@@ -105,22 +121,6 @@
         </item>
         
         <item>
-            <title><![CDATA[真神奇，今天才知道这个网站，UI界的chatgpt，根据文本自动生成设计稿。]]></title>
-            <description><![CDATA[<img src="https://uizard.io/opengraph-autodesigner-2023-02-17.png" referrerpolicy="no-referrer"><br>                    <a href="https://uizard.io/autodesigner/8981d28a">Uizard Autodesigner | Coming Soon | Uizard</a><br>                <br>真神奇，今天才知道这个网站，UI界的chatgpt，根据文本自动生成设计稿。]]></description>
-            <pubDate>Wed, 29 Mar 2023 04:51:43 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6423c3df97c3df8e4f26aeb6</guid>
-            <link>https://m.okjike.com/originalPosts/6423c3df97c3df8e4f26aeb6</link>
-            
-            
-            
-            <author><![CDATA[李守聪]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[跟朋友聊到 ChatGPT 在开发者领域的应用，有哪些可以立竿见影看到效果、直接发布到生产环境使用的： 1）生成 Commit log，这是 ChatGPT 的强项，它能够快速理解...]]></title>
             <description><![CDATA[跟朋友聊到 ChatGPT 在开发者领域的应用，有哪些可以立竿见影看到效果、直接发布到生产环境使用的：<br><br>1）生成 Commit log，这是 ChatGPT 的强项，它能够快速理解逻辑和代码，通过 diff 归纳出概要，开源的工具有：https://github.com/zurawiki/gptcommit<br><br>2）生成测试用例，团队内实践下来效果相当好。虽然 Copilot 和 Tabnine 等产品在代码自动补全方面已经表现不错，但相较于 https://codeium.com 和 https://cursor.so 这些能够使用自然语言生成代码的体验，还是稍逊一筹。之所以不生成业务代码，是因为生成业务代码需要理解产品逻辑，而编写单元测试只需理解一个函数。<br><br>3）生成 API 文档和代码注释，ChatGPT 可以通过阅读代码，理解函数的输入、输出、功能以及用途，然后生成相应的 API 文档和注释，开源的工具：https://github.com/awekrx/AutoDoc-ChatGPT<br><br>4）生成 SQL，已经看到 PingCAP 发布了相关产品 chat2query，https://www.pingcap.com/chat2query-an-innovative-ai-powered-sql-generator-for-faster-insights/，对公司产品、运营等有数据需求但不懂数技术的岗位非常友好。<br><br>5）自动代码审查和漏洞检测，ChatGPT 可以分析代码中的潜在问题，包括代码风格不一致、程序逻辑错误或安全漏洞等。这个能力其实在 cursor.so 这个产品中就已经具备了，无需等到提交代码，在本地可以直接让程序先完成一轮 CR。<br><br>很多体验做出来都会让人产生 Wow~ 的感觉，利用 ChatGPT 做 toD 方向的建设，确实可以提高开发效率，减少错误，提高代码质量，对公司和开发者还是具有很大价值的。<br><br>你还有什么其他有趣的想法么？]]></description>
             <pubDate>Wed, 22 Mar 2023 11:50:15 GMT</pubDate>
@@ -154,7 +154,7 @@
         
         <item>
             <title><![CDATA[无痛配置了 neovim，很丝滑！]]></title>
-            <description><![CDATA[无痛配置了 neovim，很丝滑！<br><video src="https://videocdn.jellow.site/luWBOgpG1KAncv9NpyO6WBSqL0UJ.mp4?sign=d9b6bbea4eae0420388d8c3779a6ef93&amp;t=64274412" controls=""></video>]]></description>
+            <description><![CDATA[无痛配置了 neovim，很丝滑！<br><video src="https://videocdn.jellow.site/luWBOgpG1KAncv9NpyO6WBSqL0UJ.mp4?sign=4a65b002d24553a0b965ea39b6bbd193&amp;t=64277b27" controls=""></video>]]></description>
             <pubDate>Sun, 12 Mar 2023 09:21:30 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/640d999a73b2f12319dbb183</guid>
             <link>https://m.okjike.com/originalPosts/640d999a73b2f12319dbb183</link>
