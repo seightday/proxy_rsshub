@@ -21,8 +21,40 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sun, 02 Apr 2023 01:28:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Apr 2023 07:46:34 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[看到个有趣的思路，既然官方暂时还不开放多模态输入，那就把图片变成字符画，交给GPT4理解。 第一步，打开 https://asciiflow.com/?fjkqy 创建字符画网页设计。 ...]]></title>
+            <description><![CDATA[看到个有趣的思路，既然官方暂时还不开放多模态输入，那就把图片变成字符画，交给GPT4理解。<br>第一步，打开 https://asciiflow.com/?fjkqy 创建字符画网页设计。<br>第二步，获取纯文字字符画，提交给 GPT4 得到代码。<br><img src="https://cdnv2.ruguoapp.com/FsW_G6yY5r8c4IuRdiFO4UcdG-IXv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FmrhxiyVVtJQnTXs4BnXb9jNd683v3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FlO1N28cpdS3ZgJ_H1JxKnY1Asrmv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sat, 01 Apr 2023 23:48:34 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6428c2d2a2e1cca6b22e022a</guid>
+            <link>https://m.okjike.com/originalPosts/6428c2d2a2e1cca6b22e022a</link>
+            
+            
+            
+            <author><![CDATA[哥飞]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[最近一段时间编程状态大概是这样的：我写 prompt → AI 写代码 → 我修改 → 完事儿，AI 承担了 50%+ 的编码工作，大多数情况下，都是开着编辑器，看着程序随着...]]></title>
+            <description><![CDATA[最近一段时间编程状态大概是这样的：我写 prompt → AI 写代码 → 我修改 → 完事儿，AI 承担了 50%+ 的编码工作，大多数情况下，都是开着编辑器，看着程序随着光标在闪动，我坐旁边看着……<br><br>遇到异常和报错，也都是直接把问题扔给 ChatGPT，GPT-4 基本上都能理解并给出最佳答案，GPT-3 差点。]]></description>
+            <pubDate>Sat, 01 Apr 2023 15:24:21 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64284ca56dcc77905116d03b</guid>
+            <link>https://m.okjike.com/originalPosts/64284ca56dcc77905116d03b</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[系统恐怖分子]]></title>
@@ -57,22 +89,6 @@
         </item>
         
         <item>
-            <title><![CDATA[关于如何实现【以图搜图】和【以文搜图】，这两篇文章讲得很详细，不仅讲了要怎么做，还讲了为什么要这么做，基本上看完这两篇，你就有了理论基础，也知道大概要...]]></title>
-            <description><![CDATA[关于如何实现【以图搜图】和【以文搜图】，这两篇文章讲得很详细，不仅讲了要怎么做，还讲了为什么要这么做，基本上看完这两篇，你就有了理论基础，也知道大概要怎么做了。<br>https://mp.weixin.qq.com/s/LJQZSE_Wksx9Huy0GELNmw​​ 、 https://mp.weixin.qq.com/s/W30Rgo6E8q0NswDfkxZ1Ig<br><img src="https://cdnv2.ruguoapp.com/Fvjn3zRcu20vENktlxg1xfhNdRysv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 31 Mar 2023 09:14:32 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6426a478a930598b3ad49378</guid>
-            <link>https://m.okjike.com/originalPosts/6426a478a930598b3ad49378</link>
-            
-            
-            
-            <author><![CDATA[哥飞]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[我悟了]]></title>
             <description><![CDATA[我悟了<br><img src="https://cdnv2.ruguoapp.com/FsRY5m2yaANWomovEriACb6pwXTKv3.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Fri, 31 Mar 2023 04:36:46 GMT</pubDate>
@@ -98,22 +114,6 @@
             
             
             <author><![CDATA[二丫讲梵]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[这几年电脑换了五六次，每次拿到新电脑都要重新折腾一番配置和软件，于是一口气把所有用到的软件和配置都写成了脚本，下次就是一行命令直接搞定所有内容的安装了...]]></title>
-            <description><![CDATA[这几年电脑换了五六次，每次拿到新电脑都要重新折腾一番配置和软件，于是一口气把所有用到的软件和配置都写成了脚本，下次就是一行命令直接搞定所有内容的安装了。<br><br>数了数还真不少，上百个常用的工具和软件……<br><img src="https://cdnv2.ruguoapp.com/FvYPcGtfbU3AmaBYnVzEseVkXS5Vv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fh0nUsipXsnw7a5wY6tqyNWV2YAbv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 30 Mar 2023 05:23:20 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64251cc8bb8e9d0a2dd6102c</guid>
-            <link>https://m.okjike.com/originalPosts/64251cc8bb8e9d0a2dd6102c</link>
-            
-            
-            
-            <author><![CDATA[Barret李靖]]></author>
             
                 
             
@@ -154,7 +154,7 @@
         
         <item>
             <title><![CDATA[无痛配置了 neovim，很丝滑！]]></title>
-            <description><![CDATA[无痛配置了 neovim，很丝滑！<br><video src="https://videocdn.jellow.site/luWBOgpG1KAncv9NpyO6WBSqL0UJ.mp4?sign=318f8aad68a6d1641751fc6fab56c719&amp;t=6428df54" controls=""></video>]]></description>
+            <description><![CDATA[无痛配置了 neovim，很丝滑！<br><video src="https://videocdn.jellow.site/luWBOgpG1KAncv9NpyO6WBSqL0UJ.mp4?sign=67e0fec1fa325bd948299ebc2294ae74&amp;t=642938a1" controls=""></video>]]></description>
             <pubDate>Sun, 12 Mar 2023 09:21:30 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/640d999a73b2f12319dbb183</guid>
             <link>https://m.okjike.com/originalPosts/640d999a73b2f12319dbb183</link>
