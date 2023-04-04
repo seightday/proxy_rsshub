@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 04 Apr 2023 16:11:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Apr 2023 20:11:28 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[给图二开源项目增加了一个 cloudflare.worker.js 文件，提供一些懂的都懂的功能，具体效果和用法见代码。 感谢@赖嘉伟Gary 提供代码。 感谢@Barret李靖 提供灵感...]]></title>
+            <description><![CDATA[给图二开源项目增加了一个 cloudflare.worker.js 文件，提供一些懂的都懂的功能，具体效果和用法见代码。<br>感谢@赖嘉伟Gary 提供代码。<br>感谢@Barret李靖 提供灵感。<br><img src="https://cdnv2.ruguoapp.com/Fpj6FIrsCikFCUeV1F7qt19M34OCv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FtQQZlJ7XWMs1wvoLW7LmbyZd9Qcv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 04 Apr 2023 09:12:57 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/642bea19bcc5bb030bc1dbaf</guid>
+            <link>https://m.okjike.com/originalPosts/642bea19bcc5bb030bc1dbaf</link>
+            
+            
+            
+            <author><![CDATA[哥飞]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[我最近遇到过的ChatGPT相关的开源项目，在star中创建了一个分组。 你可以通过这个分组，了解到大部分的项目。]]></title>
@@ -50,22 +66,6 @@
             
             
             <author><![CDATA[张三的张]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[真实经历：上周六早晨打了一辆快车，我看他一共才拉了200多单，就问他是不是刚开始跑滴滴。 他说是的，之前在昆仑万维做iOS开发，被裁了；本以为自己虽然超过了3...]]></title>
-            <description><![CDATA[真实经历：上周六早晨打了一辆快车，我看他一共才拉了200多单，就问他是不是刚开始跑滴滴。<br>他说是的，之前在昆仑万维做iOS开发，被裁了；本以为自己虽然超过了35岁，但有全栈的能力，再找个工作不难，结果连个面试的机会都没有，只能先出来跑滴滴。]]></description>
-            <pubDate>Mon, 03 Apr 2023 02:25:11 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/642a39076dcc77905143fd08</guid>
-            <link>https://m.okjike.com/originalPosts/642a39076dcc77905143fd08</link>
-            
-            
-            
-            <author><![CDATA[乾坤之广]]></author>
             
                 
             
@@ -154,7 +154,7 @@
         
         <item>
             <title><![CDATA[无痛配置了 neovim，很丝滑！]]></title>
-            <description><![CDATA[无痛配置了 neovim，很丝滑！<br><video src="https://videocdn.jellow.site/luWBOgpG1KAncv9NpyO6WBSqL0UJ.mp4?sign=00c69a070abc59c1868e3c918aea318d&amp;t=642c5283" controls=""></video>]]></description>
+            <description><![CDATA[无痛配置了 neovim，很丝滑！<br><video src="https://videocdn.jellow.site/luWBOgpG1KAncv9NpyO6WBSqL0UJ.mp4?sign=574ea18b78ab4047248d651b53a2a237&amp;t=642c8b2c" controls=""></video>]]></description>
             <pubDate>Sun, 12 Mar 2023 09:21:30 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/640d999a73b2f12319dbb183</guid>
             <link>https://m.okjike.com/originalPosts/640d999a73b2f12319dbb183</link>
