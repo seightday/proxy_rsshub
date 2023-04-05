@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 05 Apr 2023 08:11:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Apr 2023 12:12:06 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[现在国内很多公司在搞大语言模型。第一关就是如何获取训练数据。这篇文章介绍了由亚马逊赞助的互联网公益项目Common Crawl。获取从2008年开始到现在整个互联网上...]]></title>
+            <description><![CDATA[<img src="https://mmbiz.qpic.cn/mmbiz_jpg/ohoo1dCmvqfQvxaib8q9icXTkVibPfl3uPCmcVSKwrPZ1gfzREXubbJwAqnR9JpkOdcsefyrEpOQayKZF3tPx0wvw/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>                    <a href="https://mp.weixin.qq.com/s/wmpETKHyV4JfZWa23OC-LQ">一日一技：助力大语言模型训练，无压力爬取六百亿网页</a><br>                <br>现在国内很多公司在搞大语言模型。第一关就是如何获取训练数据。这篇文章介绍了由亚马逊赞助的互联网公益项目Common Crawl。获取从2008年开始到现在整个互联网上面的网站原始数据。完全免费，不注册不登录，不需要下载额外软件。]]></description>
+            <pubDate>Wed, 05 Apr 2023 07:15:28 GMT</pubDate>
+            <guid isPermaLink="false">https://mp.weixin.qq.com/s/wmpETKHyV4JfZWa23OC-LQ</guid>
+            <link>https://mp.weixin.qq.com/s/wmpETKHyV4JfZWa23OC-LQ</link>
+            
+            
+            
+            <author><![CDATA[青南Kingname]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[GitHub这个chatgpt项目用起来很舒适！ ✅ 数据本地存储本地 ✅ 预置Prompt ✅ 支持自定义域名代理 ✅ Markdown、消息引用、字数与token估算、夜间模式 ✅ UI 好...]]></title>
@@ -50,22 +66,6 @@
             
             
             <author><![CDATA[AAnson]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[给图二开源项目增加了一个 cloudflare.worker.js 文件，提供一些懂的都懂的功能，具体效果和用法见代码。 感谢@赖嘉伟Gary 提供代码。 感谢@Barret李靖 提供灵感...]]></title>
-            <description><![CDATA[给图二开源项目增加了一个 cloudflare.worker.js 文件，提供一些懂的都懂的功能，具体效果和用法见代码。<br>感谢@赖嘉伟Gary 提供代码。<br>感谢@Barret李靖 提供灵感。<br><img src="https://cdnv2.ruguoapp.com/Fpj6FIrsCikFCUeV1F7qt19M34OCv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FtQQZlJ7XWMs1wvoLW7LmbyZd9Qcv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 04 Apr 2023 09:12:57 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/642bea19bcc5bb030bc1dbaf</guid>
-            <link>https://m.okjike.com/originalPosts/642bea19bcc5bb030bc1dbaf</link>
-            
-            
-            
-            <author><![CDATA[哥飞]]></author>
             
                 
             
@@ -154,7 +154,7 @@
         
         <item>
             <title><![CDATA[无痛配置了 neovim，很丝滑！]]></title>
-            <description><![CDATA[无痛配置了 neovim，很丝滑！<br><video src="https://videocdn.jellow.site/luWBOgpG1KAncv9NpyO6WBSqL0UJ.mp4?sign=29616252bb35137ccafddb03236e6ef4&amp;t=642d33f1" controls=""></video>]]></description>
+            <description><![CDATA[无痛配置了 neovim，很丝滑！<br><video src="https://videocdn.jellow.site/luWBOgpG1KAncv9NpyO6WBSqL0UJ.mp4?sign=40cee47734f9fa3b2d5618772726e17e&amp;t=642d6c2f" controls=""></video>]]></description>
             <pubDate>Sun, 12 Mar 2023 09:21:30 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/640d999a73b2f12319dbb183</guid>
             <link>https://m.okjike.com/originalPosts/640d999a73b2f12319dbb183</link>
