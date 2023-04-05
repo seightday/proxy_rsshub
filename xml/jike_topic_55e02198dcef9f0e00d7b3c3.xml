@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 05 Apr 2023 00:11:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Apr 2023 04:11:44 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[#开源案例 集成微软TTS的ChatGPT，支持语音录入和语音播放。 项目已开源，后续将同步制作配套视频课程，敬请期待。 开源地址：https://github.com/fireboomio/ca...]]></title>
+            <description><![CDATA[<img src="https://i1.hdslb.com/bfs/archive/d4a27477b9412c9e4999b9f9da40d80eb0681e61.jpg@100w_100h_1c.png" referrerpolicy="no-referrer"><br>                    <a href="https://www.bilibili.com/video/BV1N84y1u7GR/?buvid=Z1489D16F575D1EB4CD4A899F58772A7AD0A&amp;is_story_h5=false&amp;mid=Omb7MBsrJKD7E9XJ9Fg%2BEH8FTQ%2FSZMtL1rElX6M3iMo%3D&amp;p=1&amp;plat_id=116&amp;share_from=ugc&amp;share_medium=iphone&amp;share_plat=ios&amp;share_session_id=FFB55E29-9B36-422B-8F6A-D055EB4AA8AF&amp;share_source=COPY&amp;share_tag=s_i&amp;timestamp=1680620373&amp;unique_k=qLBGbp1&amp;up_id=3493080529373820">02案例展示-语音版ChatGPT_哔哩哔哩_bilibili</a><br>                <br>#开源案例 <br>集成微软TTS的ChatGPT，支持语音录入和语音播放。<br>项目已开源，后续将同步制作配套视频课程，敬请期待。<br>开源地址：https://github.com/fireboomio/case-chatgpt-web]]></description>
+            <pubDate>Tue, 04 Apr 2023 15:00:43 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/642c3b9bf35dc35ea135c238</guid>
+            <link>https://m.okjike.com/originalPosts/642c3b9bf35dc35ea135c238</link>
+            
+            
+            
+            <author><![CDATA[AAnson]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[给图二开源项目增加了一个 cloudflare.worker.js 文件，提供一些懂的都懂的功能，具体效果和用法见代码。 感谢@赖嘉伟Gary 提供代码。 感谢@Barret李靖 提供灵感...]]></title>
@@ -34,22 +50,6 @@
             
             
             <author><![CDATA[哥飞]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[我最近遇到过的ChatGPT相关的开源项目，在star中创建了一个分组。 你可以通过这个分组，了解到大部分的项目。]]></title>
-            <description><![CDATA[<img src="https://opengraph.githubassets.com/37d19d27c12f0a3b328e60ac6bc7e0dfa259336bced45e784c7c66371de6a29f/stars/eryajf/lists/chatgpt" referrerpolicy="no-referrer"><br>                    <a href="https://github.com/stars/eryajf/lists/chatgpt">eryajf's list / 🧠 ChatGPT</a><br>                <br>我最近遇到过的ChatGPT相关的开源项目，在star中创建了一个分组。<br><br>你可以通过这个分组，了解到大部分的项目。]]></description>
-            <pubDate>Mon, 03 Apr 2023 12:28:06 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/642ac656b9ffc2b3a2098f45</guid>
-            <link>https://m.okjike.com/originalPosts/642ac656b9ffc2b3a2098f45</link>
-            
-            
-            
-            <author><![CDATA[二丫讲梵]]></author>
             
                 
             
@@ -154,7 +154,7 @@
         
         <item>
             <title><![CDATA[无痛配置了 neovim，很丝滑！]]></title>
-            <description><![CDATA[无痛配置了 neovim，很丝滑！<br><video src="https://videocdn.jellow.site/luWBOgpG1KAncv9NpyO6WBSqL0UJ.mp4?sign=e871973701aa08da08da6e2efe143601&amp;t=642cc3bf" controls=""></video>]]></description>
+            <description><![CDATA[无痛配置了 neovim，很丝滑！<br><video src="https://videocdn.jellow.site/luWBOgpG1KAncv9NpyO6WBSqL0UJ.mp4?sign=c14324bfc66f3b6c57afaa5f3695fd3c&amp;t=642cfbb0" controls=""></video>]]></description>
             <pubDate>Sun, 12 Mar 2023 09:21:30 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/640d999a73b2f12319dbb183</guid>
             <link>https://m.okjike.com/originalPosts/640d999a73b2f12319dbb183</link>
