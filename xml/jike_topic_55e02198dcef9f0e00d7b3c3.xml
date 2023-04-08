@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sat, 08 Apr 2023 16:14:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Apr 2023 20:15:05 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -66,6 +66,22 @@
             
             
             <author><![CDATA[螺螺]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[这段时间哪哪都在传chatgpt多厉害多牛逼，真是看烦了，刚入门的码农接入gpt成功让ai给写了段代码就到处吹，好像自己真的掌握了编程技能一样。有个gpt账号就莫名...]]></title>
+            <description><![CDATA[这段时间哪哪都在传chatgpt多厉害多牛逼，真是看烦了，刚入门的码农接入gpt成功让ai给写了段代码就到处吹，好像自己真的掌握了编程技能一样。有个gpt账号就莫名其妙的优越感，恨不得写脸上🤦]]></description>
+            <pubDate>Fri, 07 Apr 2023 04:33:30 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/642f9d1ab99c001fe8f1553c</guid>
+            <link>https://m.okjike.com/originalPosts/642f9d1ab99c001fe8f1553c</link>
+            
+            
+            
+            <author><![CDATA[blueshit壞大叔]]></author>
             
                 
             
@@ -121,22 +137,6 @@
         </item>
         
         <item>
-            <title><![CDATA[看到个有趣的思路，既然官方暂时还不开放多模态输入，那就把图片变成字符画，交给GPT4理解。 第一步，打开 https://asciiflow.com/?fjkqy 创建字符画网页设计。 ...]]></title>
-            <description><![CDATA[看到个有趣的思路，既然官方暂时还不开放多模态输入，那就把图片变成字符画，交给GPT4理解。<br>第一步，打开 https://asciiflow.com/?fjkqy 创建字符画网页设计。<br>第二步，获取纯文字字符画，提交给 GPT4 得到代码。<br><img src="https://cdnv2.ruguoapp.com/FsW_G6yY5r8c4IuRdiFO4UcdG-IXv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FmrhxiyVVtJQnTXs4BnXb9jNd683v3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FlO1N28cpdS3ZgJ_H1JxKnY1Asrmv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 01 Apr 2023 23:48:34 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6428c2d2a2e1cca6b22e022a</guid>
-            <link>https://m.okjike.com/originalPosts/6428c2d2a2e1cca6b22e022a</link>
-            
-            
-            
-            <author><![CDATA[哥飞]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[跟朋友聊到 ChatGPT 在开发者领域的应用，有哪些可以立竿见影看到效果、直接发布到生产环境使用的： 1）生成 Commit log，这是 ChatGPT 的强项，它能够快速理解...]]></title>
             <description><![CDATA[跟朋友聊到 ChatGPT 在开发者领域的应用，有哪些可以立竿见影看到效果、直接发布到生产环境使用的：<br><br>1）生成 Commit log，这是 ChatGPT 的强项，它能够快速理解逻辑和代码，通过 diff 归纳出概要，开源的工具有：https://github.com/zurawiki/gptcommit<br><br>2）生成测试用例，团队内实践下来效果相当好。虽然 Copilot 和 Tabnine 等产品在代码自动补全方面已经表现不错，但相较于 https://codeium.com 和 https://cursor.so 这些能够使用自然语言生成代码的体验，还是稍逊一筹。之所以不生成业务代码，是因为生成业务代码需要理解产品逻辑，而编写单元测试只需理解一个函数。<br><br>3）生成 API 文档和代码注释，ChatGPT 可以通过阅读代码，理解函数的输入、输出、功能以及用途，然后生成相应的 API 文档和注释，开源的工具：https://github.com/awekrx/AutoDoc-ChatGPT<br><br>4）生成 SQL，已经看到 PingCAP 发布了相关产品 chat2query，https://www.pingcap.com/chat2query-an-innovative-ai-powered-sql-generator-for-faster-insights/，对公司产品、运营等有数据需求但不懂数技术的岗位非常友好。<br><br>5）自动代码审查和漏洞检测，ChatGPT 可以分析代码中的潜在问题，包括代码风格不一致、程序逻辑错误或安全漏洞等。这个能力其实在 cursor.so 这个产品中就已经具备了，无需等到提交代码，在本地可以直接让程序先完成一轮 CR。<br><br>很多体验做出来都会让人产生 Wow~ 的感觉，利用 ChatGPT 做 toD 方向的建设，确实可以提高开发效率，减少错误，提高代码质量，对公司和开发者还是具有很大价值的。<br><br>你还有什么其他有趣的想法么？]]></description>
             <pubDate>Wed, 22 Mar 2023 11:50:15 GMT</pubDate>
@@ -170,7 +170,7 @@
         
         <item>
             <title><![CDATA[无痛配置了 neovim，很丝滑！]]></title>
-            <description><![CDATA[无痛配置了 neovim，很丝滑！<br><video src="https://videocdn.jellow.site/luWBOgpG1KAncv9NpyO6WBSqL0UJ.mp4?sign=2f37f438518b07039ce136e23e63b99e&amp;t=64319979" controls=""></video>]]></description>
+            <description><![CDATA[无痛配置了 neovim，很丝滑！<br><video src="https://videocdn.jellow.site/luWBOgpG1KAncv9NpyO6WBSqL0UJ.mp4?sign=10aa9f34844121e85cf5a326c1f1ab77&amp;t=6431d08d" controls=""></video>]]></description>
             <pubDate>Sun, 12 Mar 2023 09:21:30 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/640d999a73b2f12319dbb183</guid>
             <link>https://m.okjike.com/originalPosts/640d999a73b2f12319dbb183</link>
