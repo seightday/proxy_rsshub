@@ -21,8 +21,40 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sun, 09 Apr 2023 22:16:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Apr 2023 04:16:32 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[为什么 chatGPT 没有诞生在中国？也许是因为中文互联网过于封闭了。 起因是这几天写了一篇教程，想要上传到掘金和 segment fault，上传 markdown 文档过程中，碰...]]></title>
+            <description><![CDATA[为什么 chatGPT 没有诞生在中国？也许是因为中文互联网过于封闭了。<br><br>起因是这几天写了一篇教程，想要上传到掘金和 segment fault，上传 markdown 文档过程中，碰到了一个问题，夹在文档中的图片要手动再上传一遍。<br><br>教程图片比较多，手动上传不方便，何况发多个平台，每个平台都要手动操作，这效率就太低了。自然地，我找找有没有插件帮助我做这个事情，竟然完全没有找到。没有人做插件，说明制作插件难度很高，查了一下，国内几乎所有平台都没有开放api。<br><br>所谓开放api，是由这个平台官方的开发人员提供的调用该平台资源的api。没有官方api，也就意味着，官方完全不希望你去调用它平台上的数据。这封闭性可见一斑。<br><br>列举几个海外知名平台，其实也并不是所有都有，比如知乎原型 quora 没有。而国内豆瓣也是有的，不过数量级应该是对的上的。<br>stackoverflow https://stackoverflow.blog/api/<br>tweet https://developer.twitter.com/en/docs/twitter-api<br>facebook 以获取页面内容为例 https://developers.facebook.com/docs/pages/<br><br>这种封闭性甚至是来自较为开放的web2.0 时代，而之后手机 APP 时代，小程序时代就更为封闭了，连爬虫都用不了，这也可能是导致中文语料数据等缺乏的原因吧。<br><br>这样 chatGPT 没有诞生在中国也就可想而知了。]]></description>
+            <pubDate>Sun, 09 Apr 2023 14:57:45 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6432d269205bd8b62e7b1081</guid>
+            <link>https://m.okjike.com/originalPosts/6432d269205bd8b62e7b1081</link>
+            
+            
+            
+            <author><![CDATA[若思来尔]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[现在到处是劝学计算机，我感觉计算机是真的凉了。]]></title>
+            <description><![CDATA[现在到处是劝学计算机，我感觉计算机是真的凉了。]]></description>
+            <pubDate>Sun, 09 Apr 2023 13:54:36 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6432c39ccb71c55b12aef780</guid>
+            <link>https://m.okjike.com/originalPosts/6432c39ccb71c55b12aef780</link>
+            
+            
+            
+            <author><![CDATA[若思来尔]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[Ruff 是个诞生仅仅 8 个月的新兴项目，但已呈现出一种席卷 Python 社区的趋势！很多知名的开源项目已采纳 Ruff，比如 Transformers、Pandas、FastAPI、Airflow、...]]></title>
@@ -50,38 +82,6 @@
             
             
             <author><![CDATA[艾逗笔]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[这是哪家好公司留的招聘链接是localhost啊🙃]]></title>
-            <description><![CDATA[这是哪家好公司留的招聘链接是localhost啊🙃<br><img src="https://cdnv2.ruguoapp.com/FvTngSx8UPnJFU8tTMtxIHlvtXUOv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 08 Apr 2023 05:22:30 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6430fa16e5308e344f48c412</guid>
-            <link>https://m.okjike.com/originalPosts/6430fa16e5308e344f48c412</link>
-            
-            
-            
-            <author><![CDATA[一盘大萝北]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[#AIHackathon 灵魂回响队参赛记录贴 [8号.Day1] - 11:30 整理完任务和分工，开发时间剩下3/4 - 13:30发现技术方案不可行，被迫砍掉某个精彩功能(˃ ⌑ ˂ഃ ) - ...]]></title>
-            <description><![CDATA[#AIHackathon 灵魂回响队参赛记录贴<br><br>[8号.Day1]<br>- 11:30 整理完任务和分工，开发时间剩下3/4<br>- 13:30发现技术方案不可行，被迫砍掉某个精彩功能(˃ ⌑ ˂ഃ )<br>- 14:49酒店房间里午睡醒来，油然一股孤独感，打开微信发现程序员们在努力干活，孤独感没了<br>- 15:43自部署的模型准备完毕（但发现用不上…亏了）<br>- 16:38 数据集准备完毕<br>- 19:47 对着PPT，头脑一片空白，灵感好像和晚饭一起被消化了( ‾᷄ ‾ )<br>- 20:42 PPT画完了，去看看做饼的程序员进度如何ヽ(•̀ω•́ )ゝ<br><br>[9号.Day 2]<br>- 00:10 第一个核心流程跑通，开始验收<br>- 00:45 糟了，Bug涌现了！<br>- 01:58 妈的洗洗睡不管了<br>- 09:06 起床了，开干，昨晚梦到我在台上说李姐万岁<br>- 10:32改参数改得研发不耐烦，于是人生第一次创建了postman接口<br>- 16:36 中间面了两个试，少了一大截时间，现在开始补进度<br>- 17:21 昨天放弃的那个功能找到变通方式了！上他<br>- 23:01 赴了两场聚会，回来疯狂赶进度我的妈<br><br>[10号.Day3 ]<br>- 00:27 第二优先级的功能调通！就是前面差点放弃那个 离胜利只差一点点！<br>- 01:32 验收完成！程序员🧑🏻‍💻👩🏻‍💻可以睡了<br>- 01:51 PPT完成，视频完成，材料发送，产品也洗洗睡了<br><img src="https://cdnv2.ruguoapp.com/FhCHVTpGz5s_7Jg2yFmfjSf2xA53v3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 08 Apr 2023 03:31:49 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6430e025cb71c55b127df0dd</guid>
-            <link>https://m.okjike.com/originalPosts/6430e025cb71c55b127df0dd</link>
-            
-            
-            
-            <author><![CDATA[马丁的面包屑]]></author>
             
                 
             
@@ -170,7 +170,7 @@
         
         <item>
             <title><![CDATA[无痛配置了 neovim，很丝滑！]]></title>
-            <description><![CDATA[无痛配置了 neovim，很丝滑！<br><video src="https://videocdn.jellow.site/luWBOgpG1KAncv9NpyO6WBSqL0UJ.mp4?sign=c380a13549034f66bb1e4d6a990cc0dd&amp;t=64333ea5" controls=""></video>]]></description>
+            <description><![CDATA[无痛配置了 neovim，很丝滑！<br><video src="https://videocdn.jellow.site/luWBOgpG1KAncv9NpyO6WBSqL0UJ.mp4?sign=e5a9fc500c86d3b2a758c7686de046a7&amp;t=643394a8" controls=""></video>]]></description>
             <pubDate>Sun, 12 Mar 2023 09:21:30 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/640d999a73b2f12319dbb183</guid>
             <link>https://m.okjike.com/originalPosts/640d999a73b2f12319dbb183</link>
