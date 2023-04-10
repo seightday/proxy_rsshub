@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sun, 09 Apr 2023 18:16:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Apr 2023 22:16:19 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[Ruff 是个诞生仅仅 8 个月的新兴项目，但已呈现出一种席卷 Python 社区的趋势！很多知名的开源项目已采纳 Ruff，比如 Transformers、Pandas、FastAPI、Airflow、...]]></title>
+            <description><![CDATA[<img src="https://mmbiz.qpic.cn/mmbiz_jpg/LLRiaS9YfFTMaRu30ej8Lez7W6H5GCTIlhRduc58NMT70m99xicwaPVkasS4rqWYb79FetFTylEuwu2iaqEghGVVA/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>                    <a href="https://mp.weixin.qq.com/s/5jtrz0LIoz-cCPmI2XpT9g">性能最快的代码分析工具，Ruff 正在席卷 Python 圈！</a><br>                <br>Ruff 是个诞生仅仅 8 个月的新兴项目，但已呈现出一种席卷 Python 社区的趋势！很多知名的开源项目已采纳 Ruff，比如 Transformers、Pandas、FastAPI、Airflow、SciPy、Bokeh、Jupyter、LangChain、PaddlePaddle、Sphinx、Pydantic、LlamaIndex……]]></description>
+            <pubDate>Sun, 09 Apr 2023 11:07:01 GMT</pubDate>
+            <guid isPermaLink="false">https://mp.weixin.qq.com/s/5jtrz0LIoz-cCPmI2XpT9g</guid>
+            <link>https://mp.weixin.qq.com/s/5jtrz0LIoz-cCPmI2XpT9g</link>
+            
+            
+            
+            <author><![CDATA[豌豆花下猫]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[GPTalk v1.2.0 发布： 1. 新增了停止回复按钮； 2. 新增了代码单独复制按钮； 3. 新增了橙色主题样式； 4. 修复了markdown生成代码多了一个换行的问题； 5. 其他...]]></title>
@@ -82,22 +98,6 @@
             
             
             <author><![CDATA[螺螺]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[首批ai失业的职业]]></title>
-            <description><![CDATA[首批ai失业的职业<br><img src="https://cdnv2.ruguoapp.com/FgyEbDjb1ifQ9YpOuqMScdHIVmHkv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 06 Apr 2023 11:58:35 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/642eb3eb9b5ee3f2d440f743</guid>
-            <link>https://m.okjike.com/originalPosts/642eb3eb9b5ee3f2d440f743</link>
-            
-            
-            
-            <author><![CDATA[奔跑的三层肉]]></author>
             
                 
             
@@ -170,7 +170,7 @@
         
         <item>
             <title><![CDATA[无痛配置了 neovim，很丝滑！]]></title>
-            <description><![CDATA[无痛配置了 neovim，很丝滑！<br><video src="https://videocdn.jellow.site/luWBOgpG1KAncv9NpyO6WBSqL0UJ.mp4?sign=1a922297c3cabfa3e0c41ac395ac5490&amp;t=643307f0" controls=""></video>]]></description>
+            <description><![CDATA[无痛配置了 neovim，很丝滑！<br><video src="https://videocdn.jellow.site/luWBOgpG1KAncv9NpyO6WBSqL0UJ.mp4?sign=c380a13549034f66bb1e4d6a990cc0dd&amp;t=64333ea5" controls=""></video>]]></description>
             <pubDate>Sun, 12 Mar 2023 09:21:30 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/640d999a73b2f12319dbb183</guid>
             <link>https://m.okjike.com/originalPosts/640d999a73b2f12319dbb183</link>
