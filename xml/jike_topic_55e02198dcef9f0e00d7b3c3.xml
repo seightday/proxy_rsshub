@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 10 Apr 2023 10:17:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Apr 2023 16:17:17 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -34,6 +34,22 @@
             
             
             <author><![CDATA[哥飞]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Poe 支持创建bot 其实就是Prompts 无需注册openai 无需key “真”白嫖 chatgpt3.5 体验很丝滑 输出很顺溜。 还可以体验到 Claude-instant 只需科学即可。]]></title>
+            <description><![CDATA[Poe 支持创建bot 其实就是Prompts<br>无需注册openai 无需key “真”白嫖 chatgpt3.5<br>体验很丝滑 输出很顺溜。<br>还可以体验到 Claude-instant<br>只需科学即可。<br><img src="https://cdnv2.ruguoapp.com/Fg7jn302SINk_wTUS0_kAJfFsy6Av3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 10 Apr 2023 02:47:49 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/643378d5cb71c55b12be2d11</guid>
+            <link>https://m.okjike.com/originalPosts/643378d5cb71c55b12be2d11</link>
+            
+            
+            
+            <author><![CDATA[iEasyseek]]></author>
             
                 
             
@@ -121,22 +137,6 @@
         </item>
         
         <item>
-            <title><![CDATA[Meta新发布的图像分割算法，效果很绝。 在线demo： https://segment-anything.com/demo]]></title>
-            <description><![CDATA[Meta新发布的图像分割算法，效果很绝。<br>在线demo：<br>https://segment-anything.com/demo<br><img src="https://cdnv2.ruguoapp.com/FmCPZ-8ljVEokb0RBRL-YCOCp2p4v3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FojxKqlKJnoN5RdlxCjvtRrayEA5v3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 06 Apr 2023 06:47:12 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/642e6af06dcc779051b2f9cc</guid>
-            <link>https://m.okjike.com/originalPosts/642e6af06dcc779051b2f9cc</link>
-            
-            
-            
-            <author><![CDATA[赛博案内人]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[跟朋友聊到 ChatGPT 在开发者领域的应用，有哪些可以立竿见影看到效果、直接发布到生产环境使用的： 1）生成 Commit log，这是 ChatGPT 的强项，它能够快速理解...]]></title>
             <description><![CDATA[跟朋友聊到 ChatGPT 在开发者领域的应用，有哪些可以立竿见影看到效果、直接发布到生产环境使用的：<br><br>1）生成 Commit log，这是 ChatGPT 的强项，它能够快速理解逻辑和代码，通过 diff 归纳出概要，开源的工具有：https://github.com/zurawiki/gptcommit<br><br>2）生成测试用例，团队内实践下来效果相当好。虽然 Copilot 和 Tabnine 等产品在代码自动补全方面已经表现不错，但相较于 https://codeium.com 和 https://cursor.so 这些能够使用自然语言生成代码的体验，还是稍逊一筹。之所以不生成业务代码，是因为生成业务代码需要理解产品逻辑，而编写单元测试只需理解一个函数。<br><br>3）生成 API 文档和代码注释，ChatGPT 可以通过阅读代码，理解函数的输入、输出、功能以及用途，然后生成相应的 API 文档和注释，开源的工具：https://github.com/awekrx/AutoDoc-ChatGPT<br><br>4）生成 SQL，已经看到 PingCAP 发布了相关产品 chat2query，https://www.pingcap.com/chat2query-an-innovative-ai-powered-sql-generator-for-faster-insights/，对公司产品、运营等有数据需求但不懂数技术的岗位非常友好。<br><br>5）自动代码审查和漏洞检测，ChatGPT 可以分析代码中的潜在问题，包括代码风格不一致、程序逻辑错误或安全漏洞等。这个能力其实在 cursor.so 这个产品中就已经具备了，无需等到提交代码，在本地可以直接让程序先完成一轮 CR。<br><br>很多体验做出来都会让人产生 Wow~ 的感觉，利用 ChatGPT 做 toD 方向的建设，确实可以提高开发效率，减少错误，提高代码质量，对公司和开发者还是具有很大价值的。<br><br>你还有什么其他有趣的想法么？]]></description>
             <pubDate>Wed, 22 Mar 2023 11:50:15 GMT</pubDate>
@@ -170,7 +170,7 @@
         
         <item>
             <title><![CDATA[无痛配置了 neovim，很丝滑！]]></title>
-            <description><![CDATA[无痛配置了 neovim，很丝滑！<br><video src="https://videocdn.jellow.site/luWBOgpG1KAncv9NpyO6WBSqL0UJ.mp4?sign=631b6cce4e362e9988d04c45c7de6901&amp;t=6433e72f" controls=""></video>]]></description>
+            <description><![CDATA[无痛配置了 neovim，很丝滑！<br><video src="https://videocdn.jellow.site/luWBOgpG1KAncv9NpyO6WBSqL0UJ.mp4?sign=3463dd230540612b3fec0e799ab959ec&amp;t=64343d95" controls=""></video>]]></description>
             <pubDate>Sun, 12 Mar 2023 09:21:30 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/640d999a73b2f12319dbb183</guid>
             <link>https://m.okjike.com/originalPosts/640d999a73b2f12319dbb183</link>
