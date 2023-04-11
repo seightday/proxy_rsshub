@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 11 Apr 2023 00:17:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 04:17:46 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[昨天跟@星空猎人阿拉丁 @赖嘉伟Gary @厂弟强子 等在群里聊到最早什么时候开始做英文站赚美金的。 我说我2011年就开始做了，而且自己写了一个站群系统，解析一个...]]></title>
+            <description><![CDATA[昨天跟@星空猎人阿拉丁 @赖嘉伟Gary @厂弟强子 等在群里聊到最早什么时候开始做英文站赚美金的。<br>我说我2011年就开始做了，而且自己写了一个站群系统，解析一个域名过去再配置下内容源就相当于上了一个新站。那时候每上一个新站，基本都是第一个月收入30美元，第二个月收入60美元，第三个月收入就过100美元了。之后就看选的关键词准不准，准的话就会有更大的收录，更多的流量，更多的收入。<br>我当时甚至帮我一个高中同学部署了一套，他是做外贸的，能抓准关键字，结果在收到谷歌 Adsense 的验证实体信之前就账户余额满100美元了。<br>但是，可惜，没坚持。<br>当时总觉得这东西不是正道，没有花更多精力下去，上了几个站点后就放在那里，没去管它。最终几年下来，这些站点总 PV 140 万左右，广告收入是一万三千多美元。<br>那时候我在干什么呢？与合伙人一起创业，但是做的产品根本就不赚钱，叫好不叫座，完全用爱发电。<br>由此我就想到，我们还是应该放大我们的优势，哪里有流量，哪里能赚钱，就应该在哪里深挖下去。<br>而不应该觉得好像这是自己花一点时间就能做出来的，没啥大不了的，就不屑一顾，不重视。]]></description>
+            <pubDate>Tue, 11 Apr 2023 00:28:59 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6434a9cb4eea5bc23b6e8a7c</guid>
+            <link>https://m.okjike.com/originalPosts/6434a9cb4eea5bc23b6e8a7c</link>
+            
+            
+            
+            <author><![CDATA[哥飞]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[经过一个周末的确认，目前基本可以肯定，OpenAI 已经对免费账号限速了。 以往只要开启流式传输，首个内容返回一般在一两秒内，现在免费账号要20秒左右了。 而付...]]></title>
@@ -34,6 +50,22 @@
             
             
             <author><![CDATA[哥飞]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[😔]]></title>
+            <description><![CDATA[😔<br><img src="https://cdnv2.ruguoapp.com/FoTDACgfkpvgBbSAAMTfcqgIHOEPv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 10 Apr 2023 04:18:01 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64338df9205bd8b62e8b1dda</guid>
+            <link>https://m.okjike.com/originalPosts/64338df9205bd8b62e8b1dda</link>
+            
+            
+            
+            <author><![CDATA[秦直道]]></author>
             
                 
             
@@ -57,22 +89,6 @@
         </item>
         
         <item>
-            <title><![CDATA[为什么 chatGPT 没有诞生在中国？也许是因为中文互联网过于封闭了。 起因是这几天写了一篇教程，想要上传到掘金和 segment fault，上传 markdown 文档过程中，碰...]]></title>
-            <description><![CDATA[为什么 chatGPT 没有诞生在中国？也许是因为中文互联网过于封闭了。<br><br>起因是这几天写了一篇教程，想要上传到掘金和 segment fault，上传 markdown 文档过程中，碰到了一个问题，夹在文档中的图片要手动再上传一遍。<br><br>教程图片比较多，手动上传不方便，何况发多个平台，每个平台都要手动操作，这效率就太低了。自然地，我找找有没有插件帮助我做这个事情，竟然完全没有找到。没有人做插件，说明制作插件难度很高，查了一下，国内几乎所有平台都没有开放api。<br><br>所谓开放api，是由这个平台官方的开发人员提供的调用该平台资源的api。没有官方api，也就意味着，官方完全不希望你去调用它平台上的数据。这封闭性可见一斑。<br><br>列举几个海外知名平台，其实也并不是所有都有，比如知乎原型 quora 没有。而国内豆瓣也是有的，不过数量级应该是对的上的。<br>stackoverflow https://stackoverflow.blog/api/<br>tweet https://developer.twitter.com/en/docs/twitter-api<br>facebook 以获取页面内容为例 https://developers.facebook.com/docs/pages/<br><br>这种封闭性甚至是来自较为开放的web2.0 时代，而之后手机 APP 时代，小程序时代就更为封闭了，连爬虫都用不了，这也可能是导致中文语料数据等缺乏的原因吧。<br><br>这样 chatGPT 没有诞生在中国也就可想而知了。]]></description>
-            <pubDate>Sun, 09 Apr 2023 14:57:45 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6432d269205bd8b62e7b1081</guid>
-            <link>https://m.okjike.com/originalPosts/6432d269205bd8b62e7b1081</link>
-            
-            
-            
-            <author><![CDATA[若思来尔]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[现在到处是劝学计算机，我感觉计算机是真的凉了。]]></title>
             <description><![CDATA[现在到处是劝学计算机，我感觉计算机是真的凉了。]]></description>
             <pubDate>Sun, 09 Apr 2023 13:54:36 GMT</pubDate>
@@ -82,22 +98,6 @@
             
             
             <author><![CDATA[若思来尔]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Ruff 是个诞生仅仅 8 个月的新兴项目，但已呈现出一种席卷 Python 社区的趋势！很多知名的开源项目已采纳 Ruff，比如 Transformers、Pandas、FastAPI、Airflow、...]]></title>
-            <description><![CDATA[<img src="https://mmbiz.qpic.cn/mmbiz_jpg/LLRiaS9YfFTMaRu30ej8Lez7W6H5GCTIlhRduc58NMT70m99xicwaPVkasS4rqWYb79FetFTylEuwu2iaqEghGVVA/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>                    <a href="https://mp.weixin.qq.com/s/5jtrz0LIoz-cCPmI2XpT9g">性能最快的代码分析工具，Ruff 正在席卷 Python 圈！</a><br>                <br>Ruff 是个诞生仅仅 8 个月的新兴项目，但已呈现出一种席卷 Python 社区的趋势！很多知名的开源项目已采纳 Ruff，比如 Transformers、Pandas、FastAPI、Airflow、SciPy、Bokeh、Jupyter、LangChain、PaddlePaddle、Sphinx、Pydantic、LlamaIndex……]]></description>
-            <pubDate>Sun, 09 Apr 2023 11:07:01 GMT</pubDate>
-            <guid isPermaLink="false">https://mp.weixin.qq.com/s/5jtrz0LIoz-cCPmI2XpT9g</guid>
-            <link>https://mp.weixin.qq.com/s/5jtrz0LIoz-cCPmI2XpT9g</link>
-            
-            
-            
-            <author><![CDATA[豌豆花下猫]]></author>
             
                 
             
@@ -170,7 +170,7 @@
         
         <item>
             <title><![CDATA[无痛配置了 neovim，很丝滑！]]></title>
-            <description><![CDATA[无痛配置了 neovim，很丝滑！<br><video src="https://videocdn.jellow.site/luWBOgpG1KAncv9NpyO6WBSqL0UJ.mp4?sign=3bc394c4c48829a43bdbac61e8378c7c&amp;t=6434ac71" controls=""></video>]]></description>
+            <description><![CDATA[无痛配置了 neovim，很丝滑！<br><video src="https://videocdn.jellow.site/luWBOgpG1KAncv9NpyO6WBSqL0UJ.mp4?sign=9545784be9bf5f5bfd559ff33047f801&amp;t=6434e4f6" controls=""></video>]]></description>
             <pubDate>Sun, 12 Mar 2023 09:21:30 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/640d999a73b2f12319dbb183</guid>
             <link>https://m.okjike.com/originalPosts/640d999a73b2f12319dbb183</link>
