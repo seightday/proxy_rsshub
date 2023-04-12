@@ -21,8 +21,40 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 12 Apr 2023 10:18:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Apr 2023 16:19:11 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[有人知道 Typora 导出 PDF 是怎么实现的吗？导出效果很好。 Typora 在 Win 和 Linux 上用的 Electron，在 Mac 上是原生开发（webkit）。 —— 我知道了，用的 pd...]]></title>
+            <description><![CDATA[有人知道 Typora 导出 PDF 是怎么实现的吗？导出效果很好。<br><br>Typora 在 Win 和 Linux 上用的 Electron，在 Mac 上是原生开发（webkit）。<br><br>——<br>我知道了，用的 pdf-lib，但这么搞实在有点麻烦。]]></description>
+            <pubDate>Wed, 12 Apr 2023 03:09:57 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64362105205bd8b62ece2d50</guid>
+            <link>https://m.okjike.com/originalPosts/64362105205bd8b62ece2d50</link>
+            
+            
+            
+            <author><![CDATA[ourongxing]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[今天又遇到了一个很有意思的 CDN 访问连接直接被重置的问题，抓包分析了很久，找到了一些线索，而且可以稳定复现： 贵阳移动的用户访问 CDN 的资源，然后发现用...]]></title>
+            <description><![CDATA[今天又遇到了一个很有意思的 CDN 访问连接直接被重置的问题，抓包分析了很久，找到了一些线索，而且可以稳定复现：<br><br>贵阳移动的用户访问 CDN 的资源，然后发现用户在本地 dig 到的 CDN 节点 IP 却归属贵阳联通网络，也就是说，联通服务商在流量传输过程中如果发现用户的出口 IP 是移动的，就会直接返回了一个 RST 的包，浏览器的表现是 ERR_CONNECTION_RESET，也就是与服务器的连接被重置。<br><br>我在基调听云这个平台上复现了这个问题（如图所示），但是换成联通的出口 IP 访问移动目标 IP 的主机却是正常的，换到长沙、杭州也是正常的，更换成一些巨头站点的 CDN 地址也正常。<br><br>这只能说明部分运营商邪恶的很，为了避免自己的网络通道被其他人使用，直接拒绝所有流量。咨询了 CDN 的同学，给的回复是，可以考虑联系服务商，要求对指定域名进行重保，避免发生拒绝服务问题；我在考虑，直接工信部投诉是不是也有效，目前看只有少部分地区的少数运营商才会这么干，这不知道这是他们的 feature 还是 bug。道理上讲，如果你也用到了 CDN，大概率也会有类似的情况，只不过业务流量不大，即便是有反馈，也当做是网络抖动给处理了。<br><br>用户为啥会出现这种情况呢？摸索了半天，才发现原来是用户本地 DNS Server 被改成了移动运营商的，所以在就近解析 CDN 主机的时候选到了移动网络的节点。猜测是用户之前进行路由器拨号或者电脑直接拨号时，DNS 被修改为自动设置，然后因为网络发生了切换，一直没有改过来，这种问题在隧道连接公司内网时也曾遇到过，隧道异常断开时，程序修改的本机 DNS 仍是公司的，没有被重置到默认。<br><img src="https://cdnv2.ruguoapp.com/FgSPLcc1MMGnYiacAC55itYEkaEJv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 12 Apr 2023 01:16:59 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6436068b263968405bda4b5f</guid>
+            <link>https://m.okjike.com/originalPosts/6436068b263968405bda4b5f</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[Qexo —— 在线静态博客管理器 链接：https://www.oplog.cn/qexo/ 开源的在线静态博客编辑器，为 Hexo、Hugo、Valaxy 等多种静态博客增加一个在线管理后台，不再...]]></title>
@@ -42,7 +74,7 @@
         
         <item>
             <title><![CDATA[做了一个“不锈钢质感”的Button🔘 调用前置摄像头模拟反光效果 点击还会留下手指印 https://github.com/wgy6055/ShinyButton]]></title>
-            <description><![CDATA[做了一个“不锈钢质感”的Button🔘<br>调用前置摄像头模拟反光效果<br>点击还会留下手指印<br>https://github.com/wgy6055/ShinyButton<br><video src="https://videocdn.jellow.site/lkhpXZUE9LQ58FyymwQwSJdqLHuD.mp4?sign=480a9d9977e43141f0a1326b833bef6b&amp;t=64368c9a" controls=""></video>]]></description>
+            <description><![CDATA[做了一个“不锈钢质感”的Button🔘<br>调用前置摄像头模拟反光效果<br>点击还会留下手指印<br>https://github.com/wgy6055/ShinyButton<br><video src="https://videocdn.jellow.site/lkhpXZUE9LQ58FyymwQwSJdqLHuD.mp4?sign=2b9c98b1f69b24efa9589772d3427524&amp;t=6436decd" controls=""></video>]]></description>
             <pubDate>Tue, 11 Apr 2023 07:45:30 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6435101a84e12d3382ee770f</guid>
             <link>https://m.okjike.com/originalPosts/6435101a84e12d3382ee770f</link>
@@ -66,38 +98,6 @@
             
             
             <author><![CDATA[一盘大萝北]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[昨天跟@星空猎人阿拉丁 @赖嘉伟Gary @厂弟强子 等在群里聊到最早什么时候开始做英文站赚美金的。 我说我2011年就开始做了，而且自己写了一个站群系统，解析一个...]]></title>
-            <description><![CDATA[昨天跟@星空猎人阿拉丁 @赖嘉伟Gary @厂弟强子 等在群里聊到最早什么时候开始做英文站赚美金的。<br>我说我2011年就开始做了，而且自己写了一个站群系统，解析一个域名过去再配置下内容源就相当于上了一个新站。那时候每上一个新站，基本都是第一个月收入30美元，第二个月收入60美元，第三个月收入就过100美元了。之后就看选的关键词准不准，准的话就会有更大的收录，更多的流量，更多的收入。<br>我当时甚至帮我一个高中同学部署了一套，他是做外贸的，能抓准关键字，结果在收到谷歌 Adsense 的验证实体信之前就账户余额满100美元了。<br>但是，可惜，没坚持。<br>当时总觉得这东西不是正道，没有花更多精力下去，上了几个站点后就放在那里，没去管它。最终几年下来，这些站点总 PV 140 万左右，广告收入是一万三千多美元。<br>那时候我在干什么呢？与合伙人一起创业，但是做的产品根本就不赚钱，叫好不叫座，完全用爱发电。<br>由此我就想到，我们还是应该放大我们的优势，哪里有流量，哪里能赚钱，就应该在哪里深挖下去。<br>而不应该觉得好像这是自己花一点时间就能做出来的，没啥大不了的，就不屑一顾，不重视。]]></description>
-            <pubDate>Tue, 11 Apr 2023 00:28:59 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6434a9cb4eea5bc23b6e8a7c</guid>
-            <link>https://m.okjike.com/originalPosts/6434a9cb4eea5bc23b6e8a7c</link>
-            
-            
-            
-            <author><![CDATA[哥飞]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[如何系列的第七篇，利用多个工具整合一套个人使用的知识库工具流。如果你有更好的解决方案，欢迎友善交流～]]></title>
-            <description><![CDATA[<img src="http://www.liuocean.com/wp-content/uploads/2022/07/0016.png" referrerpolicy="no-referrer"><br>                    <a href="http://www.liuocean.com/2023/04/10/ru-he-jian-li-ge-ren-zhi-shi-ku/">如何建立个人知识库 - L's Blog</a><br>                <br>如何系列的第七篇，利用多个工具整合一套个人使用的知识库工具流。如果你有更好的解决方案，欢迎友善交流～]]></description>
-            <pubDate>Mon, 10 Apr 2023 05:48:15 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6433a31fb99c001fe856ef71</guid>
-            <link>https://m.okjike.com/originalPosts/6433a31fb99c001fe856ef71</link>
-            
-            
-            
-            <author><![CDATA[LL大L]]></author>
             
                 
             
