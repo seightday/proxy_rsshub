@@ -21,19 +21,19 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 12 Apr 2023 18:19:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2023 00:19:31 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
-            <title><![CDATA[有人知道 Typora 导出 PDF 是怎么实现的吗？导出效果很好。 Typora 在 Win 和 Linux 上用的 Electron，在 Mac 上是原生开发（webkit）。 —— 我知道了，用的 pd...]]></title>
-            <description><![CDATA[有人知道 Typora 导出 PDF 是怎么实现的吗？导出效果很好。<br><br>Typora 在 Win 和 Linux 上用的 Electron，在 Mac 上是原生开发（webkit）。<br><br>——<br>我知道了，用的 pdf-lib，但这么搞实在有点麻烦。]]></description>
-            <pubDate>Wed, 12 Apr 2023 03:09:57 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64362105205bd8b62ece2d50</guid>
-            <link>https://m.okjike.com/originalPosts/64362105205bd8b62ece2d50</link>
+            <title><![CDATA[代码随想录是一份由用户@程序员Carl（哈工大师兄，获得过ACM亚洲区域赛奖牌，先后在腾讯和百度从事后端技术研发，CSDN博客专家）整理的在线项目，该项目是一套完...]]></title>
+            <description><![CDATA[代码随想录是一份由用户@程序员Carl（哈工大师兄，获得过ACM亚洲区域赛奖牌，先后在腾讯和百度从事后端技术研发，CSDN博客专家）整理的在线项目，该项目是一套完整的刷题计划，旨在帮助大家少走弯路，循序渐进学算法，还出了一本专门的书，有PDF版本的，可以前往作者项目的官网寻求下载哈。除此之外，还有一些求职技巧和业界相关的pdf和资源提供，有兴趣的可以前往看看。<br>《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀<br>https://programmercarl.com/<br><img src="https://cdnv2.ruguoapp.com/FidE76_CoBHAEn-kHbnbMyH6RVFCv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 12 Apr 2023 14:41:43 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6436c327263968405bf16058</guid>
+            <link>https://m.okjike.com/originalPosts/6436c327263968405bf16058</link>
             
             
             
-            <author><![CDATA[ourongxing]]></author>
+            <author><![CDATA[周三丨运营兵法]]></author>
             
                 
             
@@ -41,15 +41,15 @@
         </item>
         
         <item>
-            <title><![CDATA[今天又遇到了一个很有意思的 CDN 访问连接直接被重置的问题，抓包分析了很久，找到了一些线索，而且可以稳定复现： 贵阳移动的用户访问 CDN 的资源，然后发现用...]]></title>
-            <description><![CDATA[今天又遇到了一个很有意思的 CDN 访问连接直接被重置的问题，抓包分析了很久，找到了一些线索，而且可以稳定复现：<br><br>贵阳移动的用户访问 CDN 的资源，然后发现用户在本地 dig 到的 CDN 节点 IP 却归属贵阳联通网络，也就是说，联通服务商在流量传输过程中如果发现用户的出口 IP 是移动的，就会直接返回了一个 RST 的包，浏览器的表现是 ERR_CONNECTION_RESET，也就是与服务器的连接被重置。<br><br>我在基调听云这个平台上复现了这个问题（如图所示），但是换成联通的出口 IP 访问移动目标 IP 的主机却是正常的，换到长沙、杭州也是正常的，更换成一些巨头站点的 CDN 地址也正常。<br><br>这只能说明部分运营商邪恶的很，为了避免自己的网络通道被其他人使用，直接拒绝所有流量。咨询了 CDN 的同学，给的回复是，可以考虑联系服务商，要求对指定域名进行重保，避免发生拒绝服务问题；我在考虑，直接工信部投诉是不是也有效，目前看只有少部分地区的少数运营商才会这么干，这不知道这是他们的 feature 还是 bug。道理上讲，如果你也用到了 CDN，大概率也会有类似的情况，只不过业务流量不大，即便是有反馈，也当做是网络抖动给处理了。<br><br>用户为啥会出现这种情况呢？摸索了半天，才发现原来是用户本地 DNS Server 被改成了移动运营商的，所以在就近解析 CDN 主机的时候选到了移动网络的节点。猜测是用户之前进行路由器拨号或者电脑直接拨号时，DNS 被修改为自动设置，然后因为网络发生了切换，一直没有改过来，这种问题在隧道连接公司内网时也曾遇到过，隧道异常断开时，程序修改的本机 DNS 仍是公司的，没有被重置到默认。<br><img src="https://cdnv2.ruguoapp.com/FgSPLcc1MMGnYiacAC55itYEkaEJv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 12 Apr 2023 01:16:59 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6436068b263968405bda4b5f</guid>
-            <link>https://m.okjike.com/originalPosts/6436068b263968405bda4b5f</link>
+            <title><![CDATA[做大型游戏开发处处遇到性能瓶颈，倒逼程序员成长。 （AI开发同理）]]></title>
+            <description><![CDATA[做大型游戏开发处处遇到性能瓶颈，倒逼程序员成长。<br><br>（AI开发同理）]]></description>
+            <pubDate>Wed, 12 Apr 2023 14:39:51 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6436c2b7e5308e344fdf257e</guid>
+            <link>https://m.okjike.com/originalPosts/6436c2b7e5308e344fdf257e</link>
             
             
             
-            <author><![CDATA[Barret李靖]]></author>
+            <author><![CDATA[杰克有茶]]></author>
             
                 
             
@@ -74,7 +74,7 @@
         
         <item>
             <title><![CDATA[做了一个“不锈钢质感”的Button🔘 调用前置摄像头模拟反光效果 点击还会留下手指印 https://github.com/wgy6055/ShinyButton]]></title>
-            <description><![CDATA[做了一个“不锈钢质感”的Button🔘<br>调用前置摄像头模拟反光效果<br>点击还会留下手指印<br>https://github.com/wgy6055/ShinyButton<br><video src="https://videocdn.jellow.site/lkhpXZUE9LQ58FyymwQwSJdqLHuD.mp4?sign=513f4996fadbb10b1a34ca4bdf202734&amp;t=6436fbeb" controls=""></video>]]></description>
+            <description><![CDATA[做了一个“不锈钢质感”的Button🔘<br>调用前置摄像头模拟反光效果<br>点击还会留下手指印<br>https://github.com/wgy6055/ShinyButton<br><video src="https://videocdn.jellow.site/lkhpXZUE9LQ58FyymwQwSJdqLHuD.mp4?sign=da7b0b3c3c6b670d0224709d08f34e12&amp;t=64374f5c" controls=""></video>]]></description>
             <pubDate>Tue, 11 Apr 2023 07:45:30 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6435101a84e12d3382ee770f</guid>
             <link>https://m.okjike.com/originalPosts/6435101a84e12d3382ee770f</link>
