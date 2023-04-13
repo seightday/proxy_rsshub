@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 13 Apr 2023 00:19:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2023 02:19:38 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -57,6 +57,22 @@
         </item>
         
         <item>
+            <title><![CDATA[有人知道 Typora 导出 PDF 是怎么实现的吗？导出效果很好。 Typora 在 Win 和 Linux 上用的 Electron，在 Mac 上是原生开发（webkit）。 —— 我知道了，用的 pd...]]></title>
+            <description><![CDATA[有人知道 Typora 导出 PDF 是怎么实现的吗？导出效果很好。<br><br>Typora 在 Win 和 Linux 上用的 Electron，在 Mac 上是原生开发（webkit）。<br><br>——<br>我知道了，用的 pdf-lib，但这么搞实在有点麻烦。]]></description>
+            <pubDate>Wed, 12 Apr 2023 03:09:57 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64362105205bd8b62ece2d50</guid>
+            <link>https://m.okjike.com/originalPosts/64362105205bd8b62ece2d50</link>
+            
+            
+            
+            <author><![CDATA[ourongxing]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Qexo —— 在线静态博客管理器 链接：https://www.oplog.cn/qexo/ 开源的在线静态博客编辑器，为 Hexo、Hugo、Valaxy 等多种静态博客增加一个在线管理后台，不再...]]></title>
             <description><![CDATA[Qexo  —— 在线静态博客管理器<br>链接：https://www.oplog.cn/qexo/<br>开源的在线静态博客编辑器，为 Hexo、Hugo、Valaxy 等多种静态博客增加一个在线管理后台，不再局限于本机，可随时随地写博客发布。<br><img src="https://cdnv2.ruguoapp.com/FtIAkHvYvu9Ylvq9vHTyO2gPvuxzv3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Tue, 11 Apr 2023 14:45:11 GMT</pubDate>
@@ -66,22 +82,6 @@
             
             
             <author><![CDATA[龙爪槐守望者]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[做了一个“不锈钢质感”的Button🔘 调用前置摄像头模拟反光效果 点击还会留下手指印 https://github.com/wgy6055/ShinyButton]]></title>
-            <description><![CDATA[做了一个“不锈钢质感”的Button🔘<br>调用前置摄像头模拟反光效果<br>点击还会留下手指印<br>https://github.com/wgy6055/ShinyButton<br><video src="https://videocdn.jellow.site/lkhpXZUE9LQ58FyymwQwSJdqLHuD.mp4?sign=da7b0b3c3c6b670d0224709d08f34e12&amp;t=64374f5c" controls=""></video>]]></description>
-            <pubDate>Tue, 11 Apr 2023 07:45:30 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6435101a84e12d3382ee770f</guid>
-            <link>https://m.okjike.com/originalPosts/6435101a84e12d3382ee770f</link>
-            
-            
-            
-            <author><![CDATA[wgy6055]]></author>
             
                 
             
