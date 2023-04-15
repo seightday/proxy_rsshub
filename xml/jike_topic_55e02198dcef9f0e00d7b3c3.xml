@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sat, 15 Apr 2023 04:19:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Apr 2023 06:20:58 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[本地部署了一个离线版ai--Vicuna小羊驼，这个vicuna7b模型的效果感觉还可以，基础问答能满足，据说更大参数的vicuna13b能做到90%GPT4的能力，可惜电脑配置不够跑...]]></title>
+            <description><![CDATA[本地部署了一个离线版ai--Vicuna小羊驼，这个vicuna7b模型的效果感觉还可以，基础问答能满足，据说更大参数的vicuna13b能做到90%GPT4的能力，可惜电脑配置不够跑不了😂<br><br>Vicuna开源代码地址：https://github.com/lm-sys/FastChat<br>Vicuna在线demo地址：https://chat.lmsys.org/<br><img src="https://cdnv2.ruguoapp.com/Fuz98oeHcxnXLv7wttK6fuEGl_zjv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sat, 15 Apr 2023 03:20:29 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/643a17fd516d23912d0f0b6a</guid>
+            <link>https://m.okjike.com/originalPosts/643a17fd516d23912d0f0b6a</link>
+            
+            
+            
+            <author><![CDATA[芥末xx]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[上线了"自然语言转SQL"的平台，使用了chatgpt3.5，大家试下，有问题点反馈 ​https://maobing.art]]></title>
@@ -66,22 +82,6 @@
             
             
             <author><![CDATA[葬花达人鲁智深]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Amazon 也给我们送温暖来了，AI coding companion 个人用户免费无限制使用，同时还送每月 50 次安全审查。]]></title>
-            <description><![CDATA[<img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" referrerpolicy="no-referrer"><br>                    <a href="https://aws.amazon.com/codewhisperer/">AI Code Generator - Amazon CodeWhisperer - AWS</a><br>                <br>Amazon 也给我们送温暖来了，AI coding companion 个人用户免费无限制使用，同时还送每月 50 次安全审查。]]></description>
-            <pubDate>Thu, 13 Apr 2023 15:49:59 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/643824a7516d23912de051d2</guid>
-            <link>https://m.okjike.com/originalPosts/643824a7516d23912de051d2</link>
-            
-            
-            
-            <author><![CDATA[Saito]]></author>
             
                 
             
