@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sat, 15 Apr 2023 06:20:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Apr 2023 12:21:06 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -34,6 +34,22 @@
             
             
             <author><![CDATA[芥末xx]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[斯坦福这个页面是回放，也就是说运算还是需要比较高的成本的。 后面假如成本下降了，就能够实现一些有意思的项目了。 如编剧设定好世界规则和人物关系之后，就可...]]></title>
+            <description><![CDATA[斯坦福这个页面是回放，也就是说运算还是需要比较高的成本的。<br>后面假如成本下降了，就能够实现一些有意思的项目了。<br>如编剧设定好世界规则和人物关系之后，就可以放电影给所有观众看了。<br>https://reverie.herokuapp.com/arXiv_Demo/<br><img src="https://cdnv2.ruguoapp.com/FmHZMevB4hN3r_Fk4cnkRnMSXUzOv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sat, 15 Apr 2023 02:03:10 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/643a05deba3963cbd21273e9</guid>
+            <link>https://m.okjike.com/originalPosts/643a05deba3963cbd21273e9</link>
+            
+            
+            
+            <author><![CDATA[哥飞]]></author>
             
                 
             
@@ -57,15 +73,15 @@
         </item>
         
         <item>
-            <title><![CDATA[JetBrains 家的跨平台框架 Compose Multiplatform 支持 iOS 了。 现在，在 flutter 、react-native、uni-app、cordova、Xarmain、Qt 之外，你还可以选择使用 com...]]></title>
-            <description><![CDATA[JetBrains 家的跨平台框架 Compose Multiplatform 支持 iOS 了。<br>现在，在 flutter 、react-native、uni-app、cordova、Xarmain、Qt 之外，你还可以选择使用  compose-multiplatform 来开发跨平台应用了。<br><img src="https://cdnv2.ruguoapp.com/FtCSATKRAlS2CqR--Y-CuO-pAanEv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 14 Apr 2023 06:16:09 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6438efa9c567913bb5edbd8b</guid>
-            <link>https://m.okjike.com/originalPosts/6438efa9c567913bb5edbd8b</link>
+            <title><![CDATA[GPTalk v1.3.0 版本发布： 1. 切换到了 gpt-4 api 模式，提升了 gpt-4 对话体验； 2. 新增了 Mac, Windows, Linux 桌面客户端下载菜单； 3. 新增了网络请求加载...]]></title>
+            <description><![CDATA[GPTalk v1.3.0 版本发布：<br><br>1. 切换到了 gpt-4 api 模式，提升了 gpt-4 对话体验；<br>2. 新增了 Mac, Windows, Linux 桌面客户端下载菜单；<br>3. 新增了网络请求加载中样式；<br>4. 新增了删除单条消息按钮；<br>5. 优化了 markdown 显示样式；<br>6. 优化了复制代码多一个空行的问题；<br>7. 优化了会话上下文消息过长导致超时的问题；<br>8. 其他一些调整；<br><br>GPTalk网页版：https://chat.gptalk.net/<br><br>加速访问网页版：https://c2.gptalk.net/<br><br>Mac桌面版下载：https://blogcdn.idoustudio.com/gptalk/GPTalk_1.3.0_universal.dmg<br><br>Windows桌面版下载：https://blogcdn.idoustudio.com/gptalk/GPTalk_1.3.0_x64_zh-CN.msi<br><br>Linux桌面版下载：https://blogcdn.idoustudio.com/gptalk/gp-talk_1.3.0_amd64.deb<br><img src="https://cdnv2.ruguoapp.com/FrCq8BybMxLBA8btuGz3Q5stShyGv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FrR9QvnfhcY1ahd_4Jzw9x0KtTAcv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fqj-nBXxzEkUmyadUoJVC12Mq9ePv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fk17cIUnYqrz_VIuqBiaRJhEcR9Xv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 14 Apr 2023 03:12:02 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6438c4820b97da20a8bc8162</guid>
+            <link>https://m.okjike.com/originalPosts/6438c4820b97da20a8bc8162</link>
             
             
             
-            <author><![CDATA[哥飞]]></author>
+            <author><![CDATA[艾逗笔]]></author>
             
                 
             
@@ -82,22 +98,6 @@
             
             
             <author><![CDATA[葬花达人鲁智深]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[cloudflare 真乃神仙公司，ChatGPT 网络代理懂得都懂每天免费 10 万请求，最近做Notion 同步又用了它的免费中转链接，对中小开发者太友好了]]></title>
-            <description><![CDATA[cloudflare 真乃神仙公司，ChatGPT 网络代理懂得都懂每天免费 10 万请求，最近做Notion 同步又用了它的免费中转链接，对中小开发者太友好了]]></description>
-            <pubDate>Thu, 13 Apr 2023 03:55:46 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64377d42516d23912dcc1cad</guid>
-            <link>https://m.okjike.com/originalPosts/64377d42516d23912dcc1cad</link>
-            
-            
-            
-            <author><![CDATA[G东篱]]></author>
             
                 
             
