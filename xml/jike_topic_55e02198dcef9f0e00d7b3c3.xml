@@ -21,8 +21,56 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 17 Apr 2023 02:22:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Apr 2023 06:22:09 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[工作找好了，毕设压力不大，离毕业还有三个月 突然想到这可能会是我未来几年里最快乐的三个月了 该干点什么呢，我也不知道]]></title>
+            <description><![CDATA[工作找好了，毕设压力不大，离毕业还有三个月<br>突然想到这可能会是我未来几年里最快乐的三个月了<br>该干点什么呢，我也不知道<br><img src="https://cdnv2.ruguoapp.com/FrGoXbxi-v2hSzpQbVyp5TW8AzYCv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 17 Apr 2023 04:10:19 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/643cc6abb99c001fe840ee2c</guid>
+            <link>https://m.okjike.com/originalPosts/643cc6abb99c001fe840ee2c</link>
+            
+            
+            
+            <author><![CDATA[一盘大萝北]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[如何 10 分钟上线一个 AI 导航网站？ 不要买服务器，不要去找网站框架，直接徒手撸 html 页面，然后部署到 Vercel ，就有了一个可以手动更新的网站了，你的电脑...]]></title>
+            <description><![CDATA[如何 10 分钟上线一个 AI 导航网站？<br>不要买服务器，不要去找网站框架，直接徒手撸 html 页面，然后部署到 Vercel ，就有了一个可以手动更新的网站了，你的电脑就是网站后台。<br>步骤如下：<br>0、不要注册域名了，从你以前注册了但一直没用上的域名里挑一个；<br>1、在你的 github 创建一个仓库；<br>2、你本地电脑编辑 html 页面代码，提交到仓库；<br>3、去 vervel 初始化一个项目，绑定仓库，绑定域名，自动生成https证书；<br>4、浏览器打开域名，就可以看到你的网站了；<br>5、本地更改 html 代码，提交到仓库，网站就会自动更新。<br>2和5还可以借助GPT，你给他网站名称链接让他帮你生成 html 代码块，你填充到网页 html 的网站列表里。<br>大道至简，要的就是简单直接。<br>事实上以上步骤适合任何网站，这里只是拿导航站举例。]]></description>
+            <pubDate>Mon, 17 Apr 2023 02:30:41 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/643caf51205bd8b62e74ac66</guid>
+            <link>https://m.okjike.com/originalPosts/643caf51205bd8b62e74ac66</link>
+            
+            
+            
+            <author><![CDATA[哥飞]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[2023-04-16 财务自由了没？]]></title>
+            <description><![CDATA[2023-04-16 财务自由了没？<br><img src="https://cdnv2.ruguoapp.com/FifdOawqOqbqyG9XWEcqKrXL9Bb8v3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sun, 16 Apr 2023 10:45:30 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/643bd1cac567913bb5362860</guid>
+            <link>https://m.okjike.com/originalPosts/643bd1cac567913bb5362860</link>
+            
+            
+            
+            <author><![CDATA[蒋川HiJiangChuan]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[硬地骇客 theme 来了，可以在 vscode 扩展里直接安装 欢迎可以到 github https://github.com/hardhackerlabs/themes 提 issue 目标是做一个最好用的赛博朋克风主...]]></title>
@@ -73,38 +121,6 @@
         </item>
         
         <item>
-            <title><![CDATA[本地部署了一个离线版ai--Vicuna小羊驼，这个vicuna7b模型的效果感觉还可以，基础问答能满足，据说更大参数的vicuna13b能做到90%GPT4的能力，可惜电脑配置不够跑...]]></title>
-            <description><![CDATA[本地部署了一个离线版ai--Vicuna小羊驼，这个vicuna7b模型的效果感觉还可以，基础问答能满足，据说更大参数的vicuna13b能做到90%GPT4的能力，可惜电脑配置不够跑不了😂<br><br>Vicuna开源代码地址：https://github.com/lm-sys/FastChat<br>Vicuna在线demo地址：https://chat.lmsys.org/<br><img src="https://cdnv2.ruguoapp.com/Fuz98oeHcxnXLv7wttK6fuEGl_zjv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 15 Apr 2023 03:20:29 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/643a17fd516d23912d0f0b6a</guid>
-            <link>https://m.okjike.com/originalPosts/643a17fd516d23912d0f0b6a</link>
-            
-            
-            
-            <author><![CDATA[芥末xx]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[在自己服务器上部署了]]></title>
-            <description><![CDATA[在自己服务器上部署了<br><img src="https://cdnv2.ruguoapp.com/FlhMOoTrPWnTr12uNit-LqyATK6Yv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 14 Apr 2023 16:12:54 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64397b86263968405b386ba0</guid>
-            <link>https://m.okjike.com/originalPosts/64397b86263968405b386ba0</link>
-            
-            
-            
-            <author><![CDATA[RHzzz]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[GPTalk v1.3.0 版本发布： 1. 切换到了 gpt-4 api 模式，提升了 gpt-4 对话体验； 2. 新增了 Mac, Windows, Linux 桌面客户端下载菜单； 3. 新增了网络请求加载...]]></title>
             <description><![CDATA[GPTalk v1.3.0 版本发布：<br><br>1. 切换到了 gpt-4 api 模式，提升了 gpt-4 对话体验；<br>2. 新增了 Mac, Windows, Linux 桌面客户端下载菜单；<br>3. 新增了网络请求加载中样式；<br>4. 新增了删除单条消息按钮；<br>5. 优化了 markdown 显示样式；<br>6. 优化了复制代码多一个空行的问题；<br>7. 优化了会话上下文消息过长导致超时的问题；<br>8. 其他一些调整；<br><br>GPTalk网页版：https://chat.gptalk.net/<br><br>加速访问网页版：https://c2.gptalk.net/<br><br>Mac桌面版下载：https://blogcdn.idoustudio.com/gptalk/GPTalk_1.3.0_universal.dmg<br><br>Windows桌面版下载：https://blogcdn.idoustudio.com/gptalk/GPTalk_1.3.0_x64_zh-CN.msi<br><br>Linux桌面版下载：https://blogcdn.idoustudio.com/gptalk/gp-talk_1.3.0_amd64.deb<br><img src="https://cdnv2.ruguoapp.com/FrCq8BybMxLBA8btuGz3Q5stShyGv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FrR9QvnfhcY1ahd_4Jzw9x0KtTAcv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fqj-nBXxzEkUmyadUoJVC12Mq9ePv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fk17cIUnYqrz_VIuqBiaRJhEcR9Xv3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Fri, 14 Apr 2023 03:12:02 GMT</pubDate>
@@ -130,22 +146,6 @@
             
             
             <author><![CDATA[葬花达人鲁智深]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[原来万能小组件早已经月流水过千万了]]></title>
-            <description><![CDATA[原来万能小组件早已经月流水过千万了<br><img src="https://cdnv2.ruguoapp.com/FtozIVZkWsHnE6VD7Y111YR3EbT1v3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 13 Apr 2023 01:12:04 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/643756e4e5308e344fea6c1f</guid>
-            <link>https://m.okjike.com/originalPosts/643756e4e5308e344fea6c1f</link>
-            
-            
-            
-            <author><![CDATA[哥飞]]></author>
             
                 
             
