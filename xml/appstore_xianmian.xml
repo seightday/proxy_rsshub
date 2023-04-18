@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[每日精品限免 / 促销应用]]></title>
         <link>http://app.so/xianmian/</link>
-        <atom:link href="https://rsshub.app/appstore/xianmian" rel="self" type="application/rss+xml" />
+        <atom:link href="http://rsshub.app/appstore/xianmian" rel="self" type="application/rss+xml" />
         <description><![CDATA[鲜面连线 by AppSo：每日精品限免 / 促销应用 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -15,7 +15,7 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Tue, 18 Apr 2023 07:27:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Apr 2023 11:34:51 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -42,10 +42,10 @@
         </item>
         
         <item>
-            <title><![CDATA[「免费」Pixelizator]]></title>
+            <title><![CDATA[「降价」Pixelizator]]></title>
             <description><![CDATA[<img src="https://media.ifanrusercontent.com/user_files/appsoimg/1c/28/1c289208553dd3d3246d513acc0dc75f1646d971-c38399d2c46e3438cb3765d0a5198ba084d6b31f.jpg" referrerpolicy="no-referrer">
           <br>
-          原价：¥1.00 -&gt; 现价：¥0.00
+          原价：¥1.00 -&gt; 现价：¥0.99
           <br>
           平台：iOS Universal
           <br>
