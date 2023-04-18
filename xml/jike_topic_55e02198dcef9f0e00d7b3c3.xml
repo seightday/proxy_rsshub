@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 18 Apr 2023 14:23:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Apr 2023 18:23:12 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -57,15 +57,15 @@
         </item>
         
         <item>
-            <title><![CDATA[最近遇到一个需要批量建很多业务表的场景。本来是一个很简单的需求，平台方提供特定业务的 api ，你根据需要调 api 取数即可。但国内平台的尿性大家也都知道，要...]]></title>
-            <description><![CDATA[最近遇到一个需要批量建很多业务表的场景。本来是一个很简单的需求，平台方提供特定业务的 api ，你根据需要调 api 取数即可。但国内平台的尿性大家也都知道，要么干脆不给 api，比如某乎，要么直接把 api 的申请权限拉高到服务商的级别。所以小玩家只能通过 hack 的方式获取数据，这种方式取到的数据，有大量的脏活累活要做，比如编写建表语句，包括字段名标准化和字段备注等等。这样的活没啥技术含量但又不得不做，想着丢给 ChatGPT 试试看 👇🏻<br><br>我的需求是生成 sql 建表语句，要求如下：<br><br>1. 将 hack 来的 json 数据的 key 转换成 snake case 的形式并作为字段名<br>2. 根据字段值的类型，帮我推断字段的类型<br>3. 把字段名翻译成英文并填入字段备注中<br><br>本来我也只是想试一下，没有抱太高的期待，至少我认为可能需要多几次调试才能达到我想要的效果，但当按下回车，chatGPT 在屏幕上时断时续的键入我想要的结果时，我不禁陷入了思考 🤔，并在那一瞬间闪过一个可怕却无法反驳想法：要我何用？😭 本着打不过就加入的原则，当天我写下了这样的日报<br><br>报告领导：以下所用数据都来自真实环境但关键字段全部做了脱敏处理，没有泄漏公司机密 😊<br><img src="https://cdnv2.ruguoapp.com/FomdvAwQ_M9F00gDY0aChMvnnwjmv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FrkhtLrhaUtjLyYAINk1O64L5gIpv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fqwk0UvoY6ah1FmfpabRbpvwwhWpv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 18 Apr 2023 01:26:51 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/643df1dbcb71c55b12ca5b08</guid>
-            <link>https://m.okjike.com/originalPosts/643df1dbcb71c55b12ca5b08</link>
+            <title><![CDATA[推荐一下bearly.ai 一个chatGPT替代品。]]></title>
+            <description><![CDATA[推荐一下bearly.ai<br><br>一个chatGPT替代品。]]></description>
+            <pubDate>Mon, 17 Apr 2023 08:47:37 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/643d07a9c567913bb554f82c</guid>
+            <link>https://m.okjike.com/originalPosts/643d07a9c567913bb554f82c</link>
             
             
             
-            <author><![CDATA[张小吉]]></author>
+            <author><![CDATA[HOPHOP]]></author>
             
                 
             
