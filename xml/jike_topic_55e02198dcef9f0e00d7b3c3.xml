@@ -21,12 +21,12 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 20 Apr 2023 06:24:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Apr 2023 12:24:31 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
             <title><![CDATA[发现一个非常不错的项目：在命令行里使用ChatGPT，这样就无需去浏览器搜命令了 https://github.com/builderio/ai-shell #AI工作流]]></title>
-            <description><![CDATA[发现一个非常不错的项目：在命令行里使用ChatGPT，这样就无需去浏览器搜命令了<br><br>https://github.com/builderio/ai-shell<br><br>#AI工作流 <br><video src="https://videocdn.jellow.site/lsKORONTGGC6TdNKA0nj3xbxCqwD.mp4?sign=61df3b6d6aa00f1586b4ce3c680f9aa9&amp;t=6440e188" controls=""></video>]]></description>
+            <description><![CDATA[发现一个非常不错的项目：在命令行里使用ChatGPT，这样就无需去浏览器搜命令了<br><br>https://github.com/builderio/ai-shell<br><br>#AI工作流 <br><video src="https://videocdn.jellow.site/lsKORONTGGC6TdNKA0nj3xbxCqwD.mp4?sign=57590879fbfc00bae9ef10497b1496cc&amp;t=644135d9" controls=""></video>]]></description>
             <pubDate>Wed, 19 Apr 2023 15:08:26 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/644003eade61ca0bfc06c480</guid>
             <link>https://m.okjike.com/originalPosts/644003eade61ca0bfc06c480</link>
@@ -34,6 +34,22 @@
             
             
             <author><![CDATA[Lessimore]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[除了 Typora ，都不好用，尤其是对于程序员，代码字体、高亮 真的很要命]]></title>
+            <description><![CDATA[除了 Typora ，都不好用，尤其是对于程序员，代码字体、高亮 真的很要命<br><img src="https://cdnv2.ruguoapp.com/FjtXPIkkEolWhhJ9rcfRx9vaOZaHv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 19 Apr 2023 06:38:46 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/643f8c76b99c001fe8896809</guid>
+            <link>https://m.okjike.com/originalPosts/643f8c76b99c001fe8896809</link>
+            
+            
+            
+            <author><![CDATA[做懒狗真幸福]]></author>
             
                 
             
@@ -98,22 +114,6 @@
             
             
             <author><![CDATA[南唐]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[如何 10 分钟上线一个 AI 导航网站？ 不要买服务器，不要去找网站框架，直接徒手撸 html 页面，然后部署到 Vercel ，就有了一个可以手动更新的网站了，你的电脑...]]></title>
-            <description><![CDATA[如何 10 分钟上线一个 AI 导航网站？<br>不要买服务器，不要去找网站框架，直接徒手撸 html 页面，然后部署到 Vercel ，就有了一个可以手动更新的网站了，你的电脑就是网站后台。<br>步骤如下：<br>0、不要注册域名了，从你以前注册了但一直没用上的域名里挑一个；<br>1、在你的 github 创建一个仓库；<br>2、你本地电脑编辑 html 页面代码，提交到仓库；<br>3、去 vervel 初始化一个项目，绑定仓库，绑定域名，自动生成https证书；<br>4、浏览器打开域名，就可以看到你的网站了；<br>5、本地更改 html 代码，提交到仓库，网站就会自动更新。<br>2和5还可以借助GPT，你给他网站名称链接让他帮你生成 html 代码块，你填充到网页 html 的网站列表里。<br>大道至简，要的就是简单直接。<br>事实上以上步骤适合任何网站，这里只是拿导航站举例。]]></description>
-            <pubDate>Mon, 17 Apr 2023 02:30:41 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/643caf51205bd8b62e74ac66</guid>
-            <link>https://m.okjike.com/originalPosts/643caf51205bd8b62e74ac66</link>
-            
-            
-            
-            <author><![CDATA[哥飞]]></author>
             
                 
             
