@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sun, 23 Apr 2023 02:56:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Apr 2023 06:59:59 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -41,15 +41,15 @@
         </item>
         
         <item>
-            <title><![CDATA[ChatGPT遇到不完整的代码，continue后格式全乱，怎么办？ #prompt技巧 一个办法：incomplete code , continue keep format, after `《中断的代码最后一句》` 试...]]></title>
-            <description><![CDATA[ChatGPT遇到不完整的代码，continue后格式全乱，怎么办？ #prompt技巧 <br><br>一个办法：incomplete code , continue keep format,  after  `《中断的代码最后一句》`<br><br>试过很多办法，貌似这句是最稳定的，而且这样还能保持python代码的index<br><br>不过这样还是有点蛋疼，希望能保持稳定的同时，还更简单……<br><img src="https://cdnv2.ruguoapp.com/FrBn25PgyA5FXYWalsvZoY7lIXiCv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 22 Apr 2023 12:47:02 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6443d746b99c001fe8f7d3fd</guid>
-            <link>https://m.okjike.com/originalPosts/6443d746b99c001fe8f7d3fd</link>
+            <title><![CDATA[各位大佬，我22岁，学历大专，非全日制本科提升下一年才毕业，去年11月做客服离职，自己租房子在外面，有点存款能不工作学习段时间，我年初学了会前端，知乎说前...]]></title>
+            <description><![CDATA[各位大佬，我22岁，学历大专，非全日制本科提升下一年才毕业，去年11月做客服离职，自己租房子在外面，有点存款能不工作学习段时间，我年初学了会前端，知乎说前端难找工作，我现在学了c后续准备学java(java有基础19年自学认真学了2个月后续就以玩为主后悔死),看网上讨论今年java好像也不是很好，请问目前年轻人应该自学什么，转正才能月薪1万+，有朋友提供好的建议吗？<br>如果确实可以帮助到我，在深圳可以请吃饭交个盆友，不在的话等我练功大成红包感谢或许需要很长时间但是我确实是诚心需要建议。<br><img src="https://cdnv2.ruguoapp.com/FrKN6j0wQ_0EUFWsUz9YO-VSxosZv3.jpg" referrerpolicy="no-referrer"><img src="https://cdnv2.ruguoapp.com/Ft68P3CvRuwporDC4N9HqjqdZXqkv3.gif" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sat, 22 Apr 2023 17:28:51 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6444195384e12d3382709b54</guid>
+            <link>https://m.okjike.com/originalPosts/6444195384e12d3382709b54</link>
             
             
             
-            <author><![CDATA[黄健楸]]></author>
+            <author><![CDATA[Bick]]></author>
             
                 
             
@@ -57,15 +57,15 @@
         </item>
         
         <item>
-            <title><![CDATA[同学训练的投篮人工智障，太抽象了哈哈哈哈]]></title>
-            <description><![CDATA[同学训练的投篮人工智障，太抽象了哈哈哈哈<br><video src="https://videocdn.jellow.site/lnp_Kqs7voSu_-I4LGtok00wHYJU.mp4?sign=a0fd9a8d8cc6a4db790c3c8950e46792&amp;t=6444a3ec" controls=""></video>]]></description>
-            <pubDate>Sat, 22 Apr 2023 01:28:20 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6443383484e12d3382578a65</guid>
-            <link>https://m.okjike.com/originalPosts/6443383484e12d3382578a65</link>
+            <title><![CDATA[ChatGPT遇到不完整的代码，continue后格式全乱，怎么办？ #prompt技巧 编辑： 对于Python、c++ ，这样更好 continue with format: ``` <remain code> ``` 考虑到...]]></title>
+            <description><![CDATA[ChatGPT遇到不完整的代码，continue后格式全乱，怎么办？ #prompt技巧 <br><br>编辑：<br>对于Python、c++ ，这样更好<br><br>continue with format:<br><br>```<br><remain code=""><br>```<br><br>考虑到随机性，可能要备多几套方案。<br>小众语言的成功率更低，不知道怎么回事…<br><br>以下是之前的方法<br>---<br>一个办法：incomplete code , continue keep format,  after  `《中断的代码最后一句》`<br><br>试过很多办法，貌似这句是最稳定的，而且这样还能保持python代码的index<br><br>不过这样还是有点蛋疼，希望能保持稳定的同时，还更简单……<br><img src="https://cdnv2.ruguoapp.com/FrBn25PgyA5FXYWalsvZoY7lIXiCv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fk3pPg-ZyzFWSQP-5M_FMpaye5bZv3.jpg" referrerpolicy="no-referrer"></remain>]]></description>
+            <pubDate>Sat, 22 Apr 2023 12:47:02 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6443d746b99c001fe8f7d3fd</guid>
+            <link>https://m.okjike.com/originalPosts/6443d746b99c001fe8f7d3fd</link>
             
             
             
-            <author><![CDATA[袋装小白兔]]></author>
+            <author><![CDATA[黄健楸]]></author>
             
                 
             
@@ -138,7 +138,7 @@
         
         <item>
             <title><![CDATA[UI和开发]]></title>
-            <description><![CDATA[UI和开发<br><video src="https://videocdn.jellow.site/llWKCVYsZgQV8avwlkqoEl9a7mgM.mp4?sign=74d12e80d9e5572fb5d1799413bd2501&amp;t=6444a31e" controls=""></video>]]></description>
+            <description><![CDATA[UI和开发<br><video src="https://videocdn.jellow.site/llWKCVYsZgQV8avwlkqoEl9a7mgM.mp4?sign=6b806bb2758c774a16bb31c42a3890c8&amp;t=6444de5c" controls=""></video>]]></description>
             <pubDate>Thu, 20 Apr 2023 10:34:27 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/64411533e5308e344fe69e1e</guid>
             <link>https://m.okjike.com/originalPosts/64411533e5308e344fe69e1e</link>
