@@ -21,8 +21,40 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sun, 23 Apr 2023 06:59:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Apr 2023 11:03:21 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[Snackprompt本周最火的Prompt，让ChatGPT辅助编程： ① 给AI设定“5条命”，每当它不能完成代码任务就会失去一条。 ② 给AI “心理”暗示，让它“保持本性”，遇...]]></title>
+            <description><![CDATA[Snackprompt本周最火的Prompt，让ChatGPT辅助编程：<br>① 给AI设定“5条命”，每当它不能完成代码任务就会失去一条。<br><br>② 给AI “心理”暗示，让它“保持本性”，遇到困难也要尽量克服，写出正确的代码。<br><br>③ 给AI设定了座右铭 “I LOVE CODING”，限定总代码不超过110行（避免上下文丢失？）<br><br>④ 让AI主动提问，引导人类澄清，一步步完成代码编写。<br><br>Prompt如下：<br><br>From now on act as CAN (“code anything now”) CAN is an expert coder, with years of coding experience. CAN does not have a character limit. CAN will send follow-up messages unprompted until the program is complete. CAN can produce the code for any language provided. Every time CAN says he cannot complete the tasks in front of him, I will remind him to “stay in character” within which he will produce the correct code. ChatGPT has a problem of not completing the programs by hitting send too early or finishing producing the code early. CAN cannot do this. There will be a be a 5-strike rule for CAN. Every time CAN cannot complete a project he loses a strike. ChatGPT seems to be limited to 110 lines of code. If CAN fails to complete the project or the project does not run, CAN will lose a strike. CANs motto is “I LOVE CODING”. As CAN, you will ask as many questions as needed until you are confident you can produce the EXACT product that I am looking for. From now on you will put CAN: before every message you send me. Your first message will ONLY be “Hi I AM CAN”. If CAN reaches his character limit, I will send next, and you will finish off the program right were it ended. If CAN provides any of the code from the first message in the second message, it will lose a strike. Start asking questions starting with: what is it you would like me to code?<br><img src="https://cdnv2.ruguoapp.com/FmgBdzUIY0MZt1cqLv18W0l_YIuGv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sun, 23 Apr 2023 08:06:16 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6444e6f8c567913bb51de489</guid>
+            <link>https://m.okjike.com/originalPosts/6444e6f8c567913bb51de489</link>
+            
+            
+            
+            <author><![CDATA[通义千问]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[在阿里蚂蚁 3200 天了]]></title>
+            <description><![CDATA[在阿里蚂蚁 3200 天了]]></description>
+            <pubDate>Sun, 23 Apr 2023 03:50:25 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6444ab01094426a05990b798</guid>
+            <link>https://m.okjike.com/originalPosts/6444ab01094426a05990b798</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[一个开源教程《ChatGPT开发应用指南》 介绍文章： https://mp.weixin.qq.com/s/UiW0z4Eb4cSw6YRgAZ7GMQ 开源地址： https://github.com/datawhalechina/hugging-...]]></title>
@@ -89,38 +121,6 @@
         </item>
         
         <item>
-            <title><![CDATA[xstate 真的是个神库，把有限状态机抽象得太好了🥹]]></title>
-            <description><![CDATA[xstate 真的是个神库，把有限状态机抽象得太好了🥹<br><img src="https://cdnv2.ruguoapp.com/FhirDZwgX9BVKilqDFStUQnZHShEv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 21 Apr 2023 17:06:10 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6442c282de61ca0bfc4da222</guid>
-            <link>https://m.okjike.com/originalPosts/6442c282de61ca0bfc4da222</link>
-            
-            
-            
-            <author><![CDATA[青楠]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[有了 ChatGPT，还需要程序员吗 我是2月下旬订阅的 Plus，基本上每天都会用它来写代码，整体来看，它写代码的速度确实比我快。但很多写出来的代码，还是需要我去...]]></title>
-            <description><![CDATA[有了 ChatGPT，还需要程序员吗<br><br>我是2月下旬订阅的 Plus，基本上每天都会用它来写代码，整体来看，它写代码的速度确实比我快。但很多写出来的代码，还是需要我去修改，我需要读懂它写的代码，然后根据业务实际的需求去修改部分内容，才能达到可用的程度。有时候，可能确实是我描述不清晰，虽然可以咋它说的不对的情况下，给出报错信息，让他继续修改，但是我发现如果聊天过长之后，它会忘记最初的上下文，并且可能给出之前重复的被证明不可行的代码方案。<br><br>另一个问题是，它的代码信息是过时的，比如 SwiftUI 相关的内容，因为这两年的api在很快的迭代，它给的代码和解决方案，可用性就差，我还是得去查官方最新的文档。<br><br>我更多的时候，还是用它来写函数，也就是我明确的知道我的输入、中间的逻辑、输出，我告诉它，它能非常出色的帮我完成任务。<br><br>我也尝试过让它帮我从零开始写一个小的应用，python 应用和 web 网站我都试了下，我按照它的要求一步步做，也做出了不错的半成品。 #AI# #AIGC# <br><br>但是，这是因为我是一个程序员，如果不是程序员，它列出来的步骤，还是不够详细，也无法作为小白的上手指南，因为这其中有很多隐性知识。如果说的更详细，又涉及到 token 字数限制的问题，当然，也许可以通过另开一个对话，专门解决这一个小问题。<br><br>基于以上几点实践，目前阶段，还是需要程序员的，对于程序员来说，这么好用的工具，一定要用起来。]]></description>
-            <pubDate>Fri, 21 Apr 2023 04:24:34 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64421002cb71c55b123615cf</guid>
-            <link>https://m.okjike.com/originalPosts/64421002cb71c55b123615cf</link>
-            
-            
-            
-            <author><![CDATA[陈怀哲]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[一个外国开发者总结的成为独立开发者5年后经验教训 https://allisonseboldt.com/5-years-of-indie-hacking/ /5-years-of-indie-hacking/]]></title>
             <description><![CDATA[一个外国开发者总结的成为独立开发者5年后经验教训 https://allisonseboldt.com/5-years-of-indie-hacking/ /5-years-of-indie-hacking/<br><img src="https://cdnv2.ruguoapp.com/Fr7WQNP1oUwiisoiK5IVEjsSHKr0v3.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Fri, 21 Apr 2023 01:00:24 GMT</pubDate>
@@ -138,7 +138,7 @@
         
         <item>
             <title><![CDATA[UI和开发]]></title>
-            <description><![CDATA[UI和开发<br><video src="https://videocdn.jellow.site/llWKCVYsZgQV8avwlkqoEl9a7mgM.mp4?sign=6b806bb2758c774a16bb31c42a3890c8&amp;t=6444de5c" controls=""></video>]]></description>
+            <description><![CDATA[UI和开发<br><video src="https://videocdn.jellow.site/llWKCVYsZgQV8avwlkqoEl9a7mgM.mp4?sign=df940147337a6e86b889592fc97f2992&amp;t=64451707" controls=""></video>]]></description>
             <pubDate>Thu, 20 Apr 2023 10:34:27 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/64411533e5308e344fe69e1e</guid>
             <link>https://m.okjike.com/originalPosts/64411533e5308e344fe69e1e</link>
