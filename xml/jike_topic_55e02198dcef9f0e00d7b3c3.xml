@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sun, 23 Apr 2023 15:06:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Apr 2023 19:09:03 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -89,6 +89,22 @@
         </item>
         
         <item>
+            <title><![CDATA[分享一个 idea，能力强的同学可以两天上线。 使用 GPT 快速生成多语言站点，场景是给网站做多语言 SEO。 1. 域名解析到反向代理服务 2. 生成 N 个网站目录 3. 用...]]></title>
+            <description><![CDATA[分享一个 idea，能力强的同学可以两天上线。<br><br>使用 GPT 快速生成多语言站点，场景是给网站做多语言 SEO。<br><br>1. 域名解析到反向代理服务<br>2. 生成 N 个网站目录<br>3. 用户或搜索引擎访问网址，根据网站目录判断语言<br>4. 读取源站的过程中，动态翻译、替换传输的文本<br>5. 按规则缓存静态资源，避免重复翻译<br>6. 源站不需要任何代码修改，新增页面和内容自动翻译<br>7. 翻译结果可以手动修改、按 URL 刷新翻译结果……<br>8. 3 种语言，$9/Month<br>9. 80+ 语言，$99/Month<br><img src="https://cdnv2.ruguoapp.com/Fn_FrRCPI-rZzlRB6RV1jA9PUKvxv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sat, 22 Apr 2023 16:26:17 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64440aa9174fdd04a72002a7</guid>
+            <link>https://m.okjike.com/originalPosts/64440aa9174fdd04a72002a7</link>
+            
+            
+            
+            <author><![CDATA[赖嘉伟Gary]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[ChatGPT遇到不完整的代码，continue后格式全乱，怎么办？ #prompt技巧 编辑： 对于Python、c++ ，这样更好 continue with format: ``` <remain code> ``` 考虑到...]]></title>
             <description><![CDATA[ChatGPT遇到不完整的代码，continue后格式全乱，怎么办？ #prompt技巧 <br><br>编辑：<br>对于Python、c++ ，这样更好<br><br>continue with format:<br><br>```<br><remain code=""><br>```<br><br>考虑到随机性，可能要备多几套方案。<br>小众语言的成功率更低，不知道怎么回事…<br><br>以下是之前的方法<br>---<br>一个办法：incomplete code , continue keep format,  after  `《中断的代码最后一句》`<br><br>试过很多办法，貌似这句是最稳定的，而且这样还能保持python代码的index<br><br>不过这样还是有点蛋疼，希望能保持稳定的同时，还更简单……<br><img src="https://cdnv2.ruguoapp.com/FrBn25PgyA5FXYWalsvZoY7lIXiCv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fk3pPg-ZyzFWSQP-5M_FMpaye5bZv3.jpg" referrerpolicy="no-referrer"></remain>]]></description>
             <pubDate>Sat, 22 Apr 2023 12:47:02 GMT</pubDate>
@@ -138,7 +154,7 @@
         
         <item>
             <title><![CDATA[UI和开发]]></title>
-            <description><![CDATA[UI和开发<br><video src="https://videocdn.jellow.site/llWKCVYsZgQV8avwlkqoEl9a7mgM.mp4?sign=a25da92202b380f95c902b97fac80062&amp;t=64454f03" controls=""></video>]]></description>
+            <description><![CDATA[UI和开发<br><video src="https://videocdn.jellow.site/llWKCVYsZgQV8avwlkqoEl9a7mgM.mp4?sign=f56312d330db1ec61170ca5e93fcf293&amp;t=64458741" controls=""></video>]]></description>
             <pubDate>Thu, 20 Apr 2023 10:34:27 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/64411533e5308e344fe69e1e</guid>
             <link>https://m.okjike.com/originalPosts/64411533e5308e344fe69e1e</link>
@@ -162,22 +178,6 @@
             
             
             <author><![CDATA[黄健楸]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[#工程师工具 发现一个很有意思的短链工具，将你的网址转换为oooooooo，可以用在一些惊喜感或者逗朋友的场景，可以试试。 https://ooooooooooooooooooooooo.ooo/]]></title>
-            <description><![CDATA[#工程师工具 发现一个很有意思的短链工具，将你的网址转换为oooooooo，可以用在一些惊喜感或者逗朋友的场景，可以试试。  https://ooooooooooooooooooooooo.ooo/<br><img src="https://cdnv2.ruguoapp.com/Fk24sDck3M8VxV1AjjjaVYNbjeYzv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 17 Apr 2023 01:54:42 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/643ca6e2c567913bb5491114</guid>
-            <link>https://m.okjike.com/originalPosts/643ca6e2c567913bb5491114</link>
-            
-            
-            
-            <author><![CDATA[huogo]]></author>
             
                 
             
