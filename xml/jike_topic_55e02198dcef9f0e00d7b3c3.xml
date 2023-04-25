@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 25 Apr 2023 02:48:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Apr 2023 07:01:18 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[cloudflare的邮件路由功能不错。如果你有一个比较短的域名，如果你的真实邮箱地址比较长，如果你的重要邮箱名称含有想隐藏内容，如果你想一次性隐藏你的邮箱真实...]]></title>
+            <description><![CDATA[cloudflare的邮件路由功能不错。如果你有一个比较短的域名，如果你的真实邮箱地址比较长，如果你的重要邮箱名称含有想隐藏内容，如果你想一次性隐藏你的邮箱真实地址，可以用它来实现。<br>我用的最多的gmail邮箱是大学时候注册的，那时候不懂邮箱命名的方法，地址是kent + qq号，我的qq号现在不想让别人看到，可以用这种方式隐藏；我的工作邮箱地址比较长，我也可以用一个特殊邮箱来转发下。一个案例如下。<br>destination可以多个，甚至能用作邮件组。<br><br>还能捕获域名下的所有的邮件内容，这样理论上就获得了无限个无需创建的邮箱地址。这用于创建账号密码组合特别有优势。🤓<br><img src="https://cdnv2.ruguoapp.com/Fr6x2LQ2Vsu8wFkXTDUJP_o0uEJEv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 24 Apr 2023 16:35:36 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6446afd8205bd8b62e78d226</guid>
+            <link>https://m.okjike.com/originalPosts/6446afd8205bd8b62e78d226</link>
+            
+            
+            
+            <author><![CDATA[马拉松爱好者李二牛]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[【任职主程一周年总结】 2022年4月24日首次以主程身份入职了新公司，至今日恰好一周年，也有了五年从业经验（其中三年在开发独立游戏）——合计6500多小时。在此...]]></title>
@@ -137,22 +153,6 @@
         </item>
         
         <item>
-            <title><![CDATA[ChatGPT遇到不完整的代码，continue后格式全乱，怎么办？ #prompt技巧 编辑： 对于Python、c++ ，这样更好 continue with format: ``` <remain code> ``` 考虑到...]]></title>
-            <description><![CDATA[ChatGPT遇到不完整的代码，continue后格式全乱，怎么办？ #prompt技巧 <br><br>编辑：<br>对于Python、c++ ，这样更好<br><br>continue with format:<br><br>```<br><remain code=""><br>```<br><br>考虑到随机性，可能要备多几套方案。<br>小众语言的成功率更低，不知道怎么回事…<br><br>以下是之前的方法<br>---<br>一个办法：incomplete code , continue keep format,  after  `《中断的代码最后一句》`<br><br>试过很多办法，貌似这句是最稳定的，而且这样还能保持python代码的index<br><br>不过这样还是有点蛋疼，希望能保持稳定的同时，还更简单……<br><img src="https://cdnv2.ruguoapp.com/FrBn25PgyA5FXYWalsvZoY7lIXiCv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fk3pPg-ZyzFWSQP-5M_FMpaye5bZv3.jpg" referrerpolicy="no-referrer"></remain>]]></description>
-            <pubDate>Sat, 22 Apr 2023 12:47:02 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6443d746b99c001fe8f7d3fd</guid>
-            <link>https://m.okjike.com/originalPosts/6443d746b99c001fe8f7d3fd</link>
-            
-            
-            
-            <author><![CDATA[黄健楸]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[ChatGPT 最强免费开源替代品！ 这3款到底谁更厉害？Open Assistant、OpenChatKit、Claude 1.Open Assistant ，它是由德国的一家非营利组织 LAION 运营的，号称全...]]></title>
             <description><![CDATA[ChatGPT 最强免费开源替代品！ <br>这3款到底谁更厉害？Open Assistant、OpenChatKit、Claude<br><br>1.Open Assistant ，它是由德国的一家非营利组织 LAION 运营的，号称全球最大的 ChatGPT 开源复制品，目前支持 35 种语言。https://github.com/LAION-AI/Open-Assistant<br><br>2.OpenChatKit，它是由前 OpenAI 的团队打造的，原始码、模型权重和训练资料集全部免费公开。https://github.com/togethercomputer/OpenChatKit<br>在线测试：https://huggingface.co/spaces/togethercomputer/OpenChatKit<br><br>3.Claude，比较适合中文用户，目前无需....（未来不清楚），对于中文问题有所优化，如果你无法使用ChatGPT，推荐你使用Claude，消费非常不错，回复能力强和速度快！<br><br>A）首先你需要在slack上注册一个账号：<br>https://slack.com/get-started#/create <br><br>B）在工作区添加应用，加入 Claude 即可 ：<br>【点击关联】<br>https://www.anthropic.com/claude-in-slack]]></description>
             <pubDate>Sat, 22 Apr 2023 01:25:53 GMT</pubDate>
@@ -170,7 +170,7 @@
         
         <item>
             <title><![CDATA[UI和开发]]></title>
-            <description><![CDATA[UI和开发<br><video src="https://videocdn.jellow.site/llWKCVYsZgQV8avwlkqoEl9a7mgM.mp4?sign=51fb70f56779991923d56ddfdb0f6798&amp;t=64474697" controls=""></video>]]></description>
+            <description><![CDATA[UI和开发<br><video src="https://videocdn.jellow.site/llWKCVYsZgQV8avwlkqoEl9a7mgM.mp4?sign=ff666a1774860ea960de4f95ba8a317f&amp;t=64478195" controls=""></video>]]></description>
             <pubDate>Thu, 20 Apr 2023 10:34:27 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/64411533e5308e344fe69e1e</guid>
             <link>https://m.okjike.com/originalPosts/64411533e5308e344fe69e1e</link>
