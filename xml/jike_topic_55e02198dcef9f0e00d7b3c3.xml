@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 26 Apr 2023 03:42:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Apr 2023 05:42:42 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[在前端开发中，浏览器是Editor（开发端）结合了Runtime（客户端），Editor生产出的是字符串文本（然后由服务端发给客户端）。 因此Editor可以从浏览器剥离出来，...]]></title>
+            <description><![CDATA[在前端开发中，浏览器是Editor（开发端）结合了Runtime（客户端），Editor生产出的是字符串文本（然后由服务端发给客户端）。<br><br>因此Editor可以从浏览器剥离出来，做成一个GUI客户端（底层Rust或C++，上层C#、Go或Java），核心功能是低代码编辑+中间语言生成+将中间语言编译成目标语言（html/css/js/wasm）。 <br><br>这样一来：<br>1. 后端就能写前端，如同node的出现让前端可以写后端<br>2. 客户端也可以写前端<br>3. UI 也可以写前端（像UE蓝图那样）<br><br># 一个想法做出来一定对，做不出来一定不对]]></description>
+            <pubDate>Wed, 26 Apr 2023 01:35:58 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64487ffebd3b4d60604e6ea1</guid>
+            <link>https://m.okjike.com/originalPosts/64487ffebd3b4d60604e6ea1</link>
+            
+            
+            
+            <author><![CDATA[杰克有茶]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[分享一个我个人开发的前后端小项目。 小红书收藏导出项目 https://b23.tv/IipzSWT]]></title>
@@ -162,22 +178,6 @@
             
             
             <author><![CDATA[iEasyseek]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[UI和开发]]></title>
-            <description><![CDATA[UI和开发<br><video src="https://videocdn.jellow.site/llWKCVYsZgQV8avwlkqoEl9a7mgM.mp4?sign=e89fe9666e1f8ea6c00aa876d35d6596&amp;t=6448a381" controls=""></video>]]></description>
-            <pubDate>Thu, 20 Apr 2023 10:34:27 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64411533e5308e344fe69e1e</guid>
-            <link>https://m.okjike.com/originalPosts/64411533e5308e344fe69e1e</link>
-            
-            
-            
-            <author><![CDATA[壳壳]]></author>
             
                 
             
