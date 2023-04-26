@@ -21,19 +21,19 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 26 Apr 2023 05:42:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Apr 2023 09:42:49 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
-            <title><![CDATA[在前端开发中，浏览器是Editor（开发端）结合了Runtime（客户端），Editor生产出的是字符串文本（然后由服务端发给客户端）。 因此Editor可以从浏览器剥离出来，...]]></title>
-            <description><![CDATA[在前端开发中，浏览器是Editor（开发端）结合了Runtime（客户端），Editor生产出的是字符串文本（然后由服务端发给客户端）。<br><br>因此Editor可以从浏览器剥离出来，做成一个GUI客户端（底层Rust或C++，上层C#、Go或Java），核心功能是低代码编辑+中间语言生成+将中间语言编译成目标语言（html/css/js/wasm）。 <br><br>这样一来：<br>1. 后端就能写前端，如同node的出现让前端可以写后端<br>2. 客户端也可以写前端<br>3. UI 也可以写前端（像UE蓝图那样）<br><br># 一个想法做出来一定对，做不出来一定不对]]></description>
-            <pubDate>Wed, 26 Apr 2023 01:35:58 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64487ffebd3b4d60604e6ea1</guid>
-            <link>https://m.okjike.com/originalPosts/64487ffebd3b4d60604e6ea1</link>
+            <title><![CDATA[有一种比较简单的做产品的思路，不是自己去创造需求，而是去看大平台里的用户还有哪些需求官方没做，然后你去做插件。 用户会自发搜索的，一定是有明确的需求的...]]></title>
+            <description><![CDATA[有一种比较简单的做产品的思路，不是自己去创造需求，而是去看大平台里的用户还有哪些需求官方没做，然后你去做插件。<br>用户会自发搜索的，一定是有明确的需求的，付费意愿也会更强一些。<br>这种成功案例不少，只要有搜索框的平台，你都可以用这个思路去做产品。<br>如果担心后来平台做了相同功能怎么办？看图，先把眼前的钱赚到。<br><img src="https://cdnv2.ruguoapp.com/Fq8ZinblPsO_7FiN9TbyfcwfBg0Bv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 26 Apr 2023 01:46:22 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6448826e174fdd04a78f46c0</guid>
+            <link>https://m.okjike.com/originalPosts/6448826e174fdd04a78f46c0</link>
             
             
             
-            <author><![CDATA[杰克有茶]]></author>
+            <author><![CDATA[哥飞]]></author>
             
                 
             
