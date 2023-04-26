@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 25 Apr 2023 23:42:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Apr 2023 03:42:39 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[分享一个我个人开发的前后端小项目。 小红书收藏导出项目 https://b23.tv/IipzSWT]]></title>
+            <description><![CDATA[分享一个我个人开发的前后端小项目。<br>小红书收藏导出项目 https://b23.tv/IipzSWT]]></description>
+            <pubDate>Tue, 25 Apr 2023 11:19:10 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6447b72e0eae9aa544ef0176</guid>
+            <link>https://m.okjike.com/originalPosts/6447b72e0eae9aa544ef0176</link>
+            
+            
+            
+            <author><![CDATA[理想是自由]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[EP7 大厂程序员构建 “小生意”，更加从容应对裁员潮 - 硬地骇客]]></title>
@@ -34,22 +50,6 @@
             
             
             <author><![CDATA[一啸-Skoo]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[cloudflare的邮件路由功能不错。如果你有一个比较短的域名，如果你的真实邮箱地址比较长，如果你的重要邮箱名称含有想隐藏内容，如果你想一次性隐藏你的邮箱真实...]]></title>
-            <description><![CDATA[cloudflare的邮件路由功能不错。如果你有一个比较短的域名，如果你的真实邮箱地址比较长，如果你的重要邮箱名称含有想隐藏内容，如果你想一次性隐藏你的邮箱真实地址，可以用它来实现。<br>我用的最多的gmail邮箱是大学时候注册的，那时候不懂邮箱命名的方法，地址是kent + qq号，我的qq号现在不想让别人看到，可以用这种方式隐藏；我的工作邮箱地址比较长，我也可以用一个特殊邮箱来转发下。一个案例如下。<br>destination可以多个，甚至能用作邮件组。<br><br>还能捕获域名下的所有的邮件内容，这样理论上就获得了无限个无需创建的邮箱地址。这用于创建账号密码组合特别有优势。🤓<br><img src="https://cdnv2.ruguoapp.com/Fr6x2LQ2Vsu8wFkXTDUJP_o0uEJEv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 24 Apr 2023 16:35:36 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6446afd8205bd8b62e78d226</guid>
-            <link>https://m.okjike.com/originalPosts/6446afd8205bd8b62e78d226</link>
-            
-            
-            
-            <author><![CDATA[马拉松爱好者李二牛]]></author>
             
                 
             
@@ -170,7 +170,7 @@
         
         <item>
             <title><![CDATA[UI和开发]]></title>
-            <description><![CDATA[UI和开发<br><video src="https://videocdn.jellow.site/llWKCVYsZgQV8avwlkqoEl9a7mgM.mp4?sign=9d439df09b3a73a5982e72bca3423b6f&amp;t=64486c1b" controls=""></video>]]></description>
+            <description><![CDATA[UI和开发<br><video src="https://videocdn.jellow.site/llWKCVYsZgQV8avwlkqoEl9a7mgM.mp4?sign=e89fe9666e1f8ea6c00aa876d35d6596&amp;t=6448a381" controls=""></video>]]></description>
             <pubDate>Thu, 20 Apr 2023 10:34:27 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/64411533e5308e344fe69e1e</guid>
             <link>https://m.okjike.com/originalPosts/64411533e5308e344fe69e1e</link>
