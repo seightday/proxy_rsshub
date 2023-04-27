@@ -21,15 +21,15 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 26 Apr 2023 23:43:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Apr 2023 03:43:18 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
-            <title><![CDATA[有一种比较简单的做产品的思路，不是自己去创造需求，而是去看大平台里的用户还有哪些需求官方没做，然后你去做插件。 用户会自发搜索的，一定是有明确的需求的...]]></title>
-            <description><![CDATA[有一种比较简单的做产品的思路，不是自己去创造需求，而是去看大平台里的用户还有哪些需求官方没做，然后你去做插件。<br>用户会自发搜索的，一定是有明确的需求的，付费意愿也会更强一些。<br>这种成功案例不少，只要有搜索框的平台，你都可以用这个思路去做产品。<br>如果担心后来平台做了相同功能怎么办？看图，先把眼前的钱赚到。<br><img src="https://cdnv2.ruguoapp.com/Fq8ZinblPsO_7FiN9TbyfcwfBg0Bv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 26 Apr 2023 01:46:22 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6448826e174fdd04a78f46c0</guid>
-            <link>https://m.okjike.com/originalPosts/6448826e174fdd04a78f46c0</link>
+            <title><![CDATA[经常有人问，没有业余时间做自己的项目怎么办？ 其实很简单，做项目写代码，不需要大段大段的时间，充分利用各种碎片化时间，10分钟都可以写一个函数，半小时可...]]></title>
+            <description><![CDATA[经常有人问，没有业余时间做自己的项目怎么办？<br>其实很简单，做项目写代码，不需要大段大段的时间，充分利用各种碎片化时间，10分钟都可以写一个函数，半小时可以手撸一个页面模块，一小时可以做完增删改查中的增删改。<br>很多年前，我在V2EX卖零食，自己做了一个简单的商城。那时我在光明上班，在龙华住。每天晚上8点下班，坐公交车回龙华，之后绕着住处跑步，之后洗漱完刚好10点钟，就开始写商城代码，写到12点，刚好两小时。写了两个星期，就完成了第一版，只上了最核心功能，就去V2EX推广了。<br>我负责写代码和推广和做客服，我弟负责打包发货。<br>几个月之后，我和之前的合伙人又创业了，时间就更少了，基本每天只有半个小时时间来完善天蓝村的代码，但每次时间都不浪费，因为我明确的知道这半小时要做什么功能，要写什么代码，要改哪里。虽然后来我娃出生后，这个业余项目就停掉了，但是这段经历还是很有收获的。<br><img src="https://cdnv2.ruguoapp.com/FgGV1Nq5oRvDKcAHzH-a4plMZ9Ggv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FpTdrqM5L2CjkQ26ydz5RnxFL6Gbv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FiYROx2VysI2Dxo24KThuStQvSXWv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 27 Apr 2023 00:54:09 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6449c7b1cb71c55b12f9f0ef</guid>
+            <link>https://m.okjike.com/originalPosts/6449c7b1cb71c55b12f9f0ef</link>
             
             
             
@@ -41,15 +41,15 @@
         </item>
         
         <item>
-            <title><![CDATA[在前端开发中，浏览器是Editor（开发端）结合了Runtime（客户端），Editor生产出的是字符串文本（然后由服务端发给客户端）。 因此Editor可以从浏览器剥离出来，...]]></title>
-            <description><![CDATA[在前端开发中，浏览器是Editor（开发端）结合了Runtime（客户端），Editor生产出的是字符串文本（然后由服务端发给客户端）。<br><br>因此Editor可以从浏览器剥离出来，做成一个GUI客户端（底层Rust或C++，上层C#、Go或Java），核心功能是低代码编辑+中间语言生成+将中间语言编译成目标语言（html/css/js/wasm）。 <br><br>这样一来：<br>1. 后端就能写前端，如同node的出现让前端可以写后端<br>2. 客户端也可以写前端<br>3. UI 也可以写前端（像UE蓝图那样）<br><br># 一个想法做出来一定对，做不出来一定不对]]></description>
-            <pubDate>Wed, 26 Apr 2023 01:35:58 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64487ffebd3b4d60604e6ea1</guid>
-            <link>https://m.okjike.com/originalPosts/64487ffebd3b4d60604e6ea1</link>
+            <title><![CDATA[被 OpenAI 邀请开发ChatGPT plugin 有一个月了，拖到 DDL 才动手.... 怎么说呢，【颠覆三观】，官方说明不用管，一切全靠想象，天马行空地、用代码风格写文档，...]]></title>
+            <description><![CDATA[被 OpenAI 邀请开发ChatGPT plugin 有一个月了，拖到 DDL 才动手....<br><br>怎么说呢，【颠覆三观】，官方说明不用管，一切全靠想象，天马行空地、用代码风格写文档，然后插件就以诡异的形态跑起来了😵‍💫<br><br>你没看错，你要做的不是写代码，而是给 AI 写文档]]></description>
+            <pubDate>Wed, 26 Apr 2023 16:23:19 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64494ff7b99c001fe8865734</guid>
+            <link>https://m.okjike.com/originalPosts/64494ff7b99c001fe8865734</link>
             
             
             
-            <author><![CDATA[杰克有茶]]></author>
+            <author><![CDATA[葬花达人鲁智深]]></author>
             
                 
             
@@ -57,15 +57,15 @@
         </item>
         
         <item>
-            <title><![CDATA[分享一个我个人开发的前后端小项目。 小红书收藏导出项目 https://b23.tv/IipzSWT]]></title>
-            <description><![CDATA[分享一个我个人开发的前后端小项目。<br>小红书收藏导出项目 https://b23.tv/IipzSWT]]></description>
-            <pubDate>Tue, 25 Apr 2023 11:19:10 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6447b72e0eae9aa544ef0176</guid>
-            <link>https://m.okjike.com/originalPosts/6447b72e0eae9aa544ef0176</link>
+            <title><![CDATA[有一种比较简单的做产品的思路，不是自己去创造需求，而是去看大平台里的用户还有哪些需求官方没做，然后你去做插件。 用户会自发搜索的，一定是有明确的需求的...]]></title>
+            <description><![CDATA[有一种比较简单的做产品的思路，不是自己去创造需求，而是去看大平台里的用户还有哪些需求官方没做，然后你去做插件。<br>用户会自发搜索的，一定是有明确的需求的，付费意愿也会更强一些。<br>这种成功案例不少，只要有搜索框的平台，你都可以用这个思路去做产品。<br>如果担心后来平台做了相同功能怎么办？看图，先把眼前的钱赚到。<br><img src="https://cdnv2.ruguoapp.com/Fq8ZinblPsO_7FiN9TbyfcwfBg0Bv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 26 Apr 2023 01:46:22 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6448826e174fdd04a78f46c0</guid>
+            <link>https://m.okjike.com/originalPosts/6448826e174fdd04a78f46c0</link>
             
             
             
-            <author><![CDATA[理想是自由]]></author>
+            <author><![CDATA[哥飞]]></author>
             
                 
             
