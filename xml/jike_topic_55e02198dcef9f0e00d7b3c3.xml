@@ -21,19 +21,35 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Fri, 28 Apr 2023 01:43:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 07:44:07 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
-            <title><![CDATA[当我和家人提到要创业的第一反应是觉得要投入很多钱，但其实并不一定需要这样去创业，至少目前还没投入多少钱，也没有准备投入太多钱 😄。 程序员是最容易低成...]]></title>
-            <description><![CDATA[当我和家人提到要创业的第一反应是觉得要投入很多钱，但其实并不一定需要这样去创业，至少目前还没投入多少钱，也没有准备投入太多钱 😄。<br><br>程序员是最容易低成本创业，建立自己小生意的群体。<br><br>大厂的你也不用马上去做自己的 side project, 小生意之类，但你应该保持这种意识，刻意的为自己积累一些东西 （可以是技术层面，也可以是商业层面，又或者是自己的影响力），其实在大厂的程序员朋友有非常多的机会和资源去完成自我积累，要抓住。<br><br>【这里，讲一个不推荐的八卦故事，一个人（不能提具体人和领域）加入阿里的目标非常明确，就是进来学习的，借助阿里的影响力去做了点开源贡献，然后在内部收集了很多 ATA （阿里的内部技术分享平台）上的案例、经验知识等，干了没两年就出去利用自己的影响力做一些收费培训之类，应该赚了不少钱，在阿里工作的时候绩效差得很，心思就不在工作上】---- 当然，我个人并不鼓励这样的行为，目的性太强。<br><br>事实上，我们很容易在大厂稳定工作，而忽略去构建一些真正属于自己的东西，很多时候你现在拥有的只是平台给你的光环，当你真正离开这个平台后，你会发现自己真的欠缺了很多。换个角度看，一直待在大厂上班，本身就是一种茧房。<br><br>为什么 我们可以有一个小生意？<br>1、真正稳定的工作不是大厂，不是国企，不是公务员，而是你自己给于自己，哪怕生意再小。<br>2、打造真正持续的现金流，一辈子的时间很长，不可能一直上班。<br>3、从小生意做起，还可以培养自己的商业能力和敏感度；程序员都不缺技术，不缺创造力，但就缺如何转化他们为现金流。<br><br>刚好我们的两期播客都聊到小生意，其实先听 EP7 再回去听 EP2 应该会更有感觉，接下来我们还会出一期做小生意思路的节目，敬请期待。<br><img src="https://cdnv2.ruguoapp.com/FuSsUakKd-yFaKuxKdD5soZwgejtv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FiY7tQncfJSUB20hLJfH43uR9gtFv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 27 Apr 2023 02:03:22 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6449d7ea174fdd04a7b1d57a</guid>
-            <link>https://m.okjike.com/originalPosts/6449d7ea174fdd04a7b1d57a</link>
+            <title><![CDATA[学到一个好玩的用法，之前用ChatGPT修改文稿，得一个一个对着看改了哪里。 用redlines这个库就可以直接输出这种一目了然的修改标注，太好用了！ https://pypi.or...]]></title>
+            <description><![CDATA[学到一个好玩的用法，之前用ChatGPT修改文稿，得一个一个对着看改了哪里。<br><br>用redlines这个库就可以直接输出这种一目了然的修改标注，太好用了！<br><br>https://pypi.org/project/redlines/<br><img src="https://cdnv2.ruguoapp.com/Fpk3tCtgOP30ZimPPgNcEjJQpSzBv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 28 Apr 2023 03:40:32 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/644b4030c567913bb5c10e70</guid>
+            <link>https://m.okjike.com/originalPosts/644b4030c567913bb5c10e70</link>
             
             
             
-            <author><![CDATA[一啸-Skoo]]></author>
+            <author><![CDATA[haoyun]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[阮一峰科技爱好者周刊已经200+期了，每期会推荐一些工具教程、资源等，推荐使用（https://sourcegraph.com/）搜索你想要的东西（因为周刊内容在 GitHub）。 我试...]]></title>
+            <description><![CDATA[阮一峰科技爱好者周刊已经200+期了，每期会推荐一些工具教程、资源等，推荐使用（https://sourcegraph.com/）搜索你想要的东西（因为周刊内容在 GitHub）。<br><br>我试了一下搜索 mysql 关键字，仅花费了0.09s , 很快啊 😆<br><img src="https://cdnv2.ruguoapp.com/FuoKbtocvKxaU_IydGLqPORsJU52v3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 28 Apr 2023 02:20:28 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/644b2d6c263968405bf88aa8</guid>
+            <link>https://m.okjike.com/originalPosts/644b2d6c263968405bf88aa8</link>
+            
+            
+            
+            <author><![CDATA[明明就咯]]></author>
             
                 
             
@@ -98,22 +114,6 @@
             
             
             <author><![CDATA[杰克有茶]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[软件买断制，估计是已经实现财务自由的人才玩得起 买断制，感觉没有未来 我的软件都开发维护三年了，之前买断也就一顿饭钱，由付费制改成订阅制，还是有用户会说...]]></title>
-            <description><![CDATA[软件买断制，估计是已经实现财务自由的人才玩得起<br><br>买断制，感觉没有未来<br><br>我的软件都开发维护三年了，之前买断也就一顿饭钱，由付费制改成订阅制，还是有用户会说我忘本了，以后不会买我的软件了<br><br>如果你是之前帮我宣传过软件用户，我直接给你几年会员作为赔礼道歉 确实是我失信了，但我不知道你是不是，也没法去反驳这句话<br><br>一个非正常想法：<br>买断制，真的是以后版本都可以用吗，更新开发的时间成本，只对新用户有价值，老用户算是只购买了当前时间发布的新版本 而之后版本更新成本，由新用户承担，没有新用户来源的话，是不是说明你这时间成本白白丢失？那作为开发者，自己还会有开发的欲望和积极性吗？<br><br>#独立开发的日常]]></description>
-            <pubDate>Sun, 23 Apr 2023 17:22:26 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64456952263968405b673a52</guid>
-            <link>https://m.okjike.com/originalPosts/64456952263968405b673a52</link>
-            
-            
-            
-            <author><![CDATA[stars-one]]></author>
             
                 
             
