@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 27 Apr 2023 19:43:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Apr 2023 23:43:49 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[当我和家人提到要创业的第一反应是觉得要投入很多钱，但其实并不一定需要这样去创业，至少目前还没投入多少钱，也没有准备投入太多钱 😄。 程序员是最容易低成...]]></title>
+            <description><![CDATA[当我和家人提到要创业的第一反应是觉得要投入很多钱，但其实并不一定需要这样去创业，至少目前还没投入多少钱，也没有准备投入太多钱 😄。<br><br>程序员是最容易低成本创业，建立自己小生意的群体。<br><br>大厂的你也不用马上去做自己的 side project, 小生意之类，但你应该保持这种意识，刻意的为自己积累一些东西 （可以是技术层面，也可以是商业层面，又或者是自己的影响力），其实在大厂的程序员朋友有非常多的机会和资源去完成自我积累，要抓住。<br><br>【这里，讲一个不推荐的八卦故事，一个人（不能提具体人和领域）加入阿里的目标非常明确，就是进来学习的，借助阿里的影响力去做了点开源贡献，然后在内部收集了很多 ATA （阿里的内部技术分享平台）上的案例、经验知识等，干了没两年就出去利用自己的影响力做一些收费培训之类，应该赚了不少钱，在阿里工作的时候绩效差得很，心思就不在工作上】---- 当然，我个人并不鼓励这样的行为，目的性太强。<br><br>事实上，我们很容易在大厂稳定工作，而忽略去构建一些真正属于自己的东西，很多时候你现在拥有的只是平台给你的光环，当你真正离开这个平台后，你会发现自己真的欠缺了很多。换个角度看，一直待在大厂上班，本身就是一种茧房。<br><br>为什么 我们可以有一个小生意？<br>1、真正稳定的工作不是大厂，不是国企，不是公务员，而是你自己给于自己，哪怕生意再小。<br>2、打造真正持续的现金流，一辈子的时间很长，不可能一直上班。<br>3、从小生意做起，还可以培养自己的商业能力和敏感度；程序员都不缺技术，不缺创造力，但就缺如何转化他们为现金流。<br><br>刚好我们的两期播客都聊到小生意，其实先听 EP7 再回去听 EP2 应该会更有感觉，接下来我们还会出一期做小生意思路的节目，敬请期待。<br><img src="https://cdnv2.ruguoapp.com/FuSsUakKd-yFaKuxKdD5soZwgejtv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FiY7tQncfJSUB20hLJfH43uR9gtFv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 27 Apr 2023 02:03:22 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6449d7ea174fdd04a7b1d57a</guid>
+            <link>https://m.okjike.com/originalPosts/6449d7ea174fdd04a7b1d57a</link>
+            
+            
+            
+            <author><![CDATA[一啸-Skoo]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[经常有人问，没有业余时间做自己的项目怎么办？ 其实很简单，做项目写代码，不需要大段大段的时间，充分利用各种碎片化时间，10分钟都可以写一个函数，半小时可...]]></title>
@@ -82,22 +98,6 @@
             
             
             <author><![CDATA[杰克有茶]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[张鑫旭大神写的《AI代码辅助工具codeium和copilot在前端表现对比》 https://www.zhangxinxu.com/wordpress/2023/04/ai-code-tool-codeium-github-copilot/ 他做...]]></title>
-            <description><![CDATA[张鑫旭大神写的《AI代码辅助工具codeium和copilot在前端表现对比》<br>https://www.zhangxinxu.com/wordpress/2023/04/ai-code-tool-codeium-github-copilot/<br>他做了几个对比，结果如下。<br>一、CSS方面<br>他拿ChatGPT4当做基准，去与另两个对比。<br>1、CSS按钮，ChatGPT4 &gt; Copilot &gt; Codeium；<br>2、常见布局，ChatGPT4 ≈ Copilot &gt; Codeium；<br>3、黑色半透明遮罩，ChatGPT4 ≈ Codeium &gt; Copilot；<br>4、分隔线，Codeium &gt; Copilot &gt; ChatGPT4；<br>5、图片尺寸和填充，ChatGPT4 = Copilot &gt; Codeium；<br>6、CSS新特性，Copilot &gt; ChatGPT4 &gt; Codeium；<br>结论是，ChatGPT4 最强， Copilot 比 Codeium强。<br>二、JS方面<br>7、hex2rgb，Copilot &gt; Codeium；<br>8、驼峰命名，Copilot &gt; Codeium；<br>9、字符串选型扩展，Codeium &gt; Copilot；<br>10、字符串中域名获取，Copilot &gt; Codeium；<br>11、function补全，Copilot = Codeium。<br>结论也是 Copilot 比 Codeium 强。<br>综合CSS和JS结果，推荐大家用 Github Copilot。<br><img src="https://cdnv2.ruguoapp.com/FtH7jNL_l7rIYgDDWRlyyVSkdir8v3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sun, 23 Apr 2023 23:33:00 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6445c02c84e12d338296d6cd</guid>
-            <link>https://m.okjike.com/originalPosts/6445c02c84e12d338296d6cd</link>
-            
-            
-            
-            <author><![CDATA[哥飞]]></author>
             
                 
             
