@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sat, 29 Apr 2023 11:44:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Apr 2023 15:44:57 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[一个可以做收费产品的爱迪尔免费分享给大家，看看谁动手能力强，可以快速实现出来。 做一个浏览器插件，用户打开 Midjourney 的 Discord 页面，可以在插件提供的...]]></title>
+            <description><![CDATA[一个可以做收费产品的爱迪尔免费分享给大家，看看谁动手能力强，可以快速实现出来。<br>做一个浏览器插件，用户打开 Midjourney 的 Discord 页面，可以在插件提供的聊天框中提画图需求给GPT，由GPT与用户聊天，询问更清晰的需求，最后生成合适的画图提示词，提交到 Discord 输入框，让 Midjourney画图。<br>如果画出来的图片不满意，还可以继续与 GPT 聊，把要改动的跟 GPT 说，让 GPT 调整画图提示词，Midjourney 再画图。<br>如此反复几次，直到得到满意的图片。<br>是不是有点画图版像 Autogpt ，但不能完全 auto ，还是要人参与进去，告诉 GPT ，目前的图片到底还有哪里需要做改动。<br>当然也不一定做插件，你也可以做一个App来实现这个需求，但是做了App，你要去推广App，用户还需要去你的App里买画图服务，还是很麻烦的。<br>所以我上面给的思路是直接做浏览器插件，直接给 Midjourey 全球的用户提供服务。<br>GPT接口费用太低了，所以产品策略可以先完全免费，吸引用户使用。<br>快，就是优势，你先让更多人用上你的插件，建立用户认知心智，你就是最好的画图智能助手服务。<br>用户量多了之后，基础功能继续免费，可以再出一些VIP功能作为收费项。<br><img src="https://cdnv2.ruguoapp.com/FixVh9EV83J9oomoNM2lAUmZmgiIv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sat, 29 Apr 2023 12:34:34 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/644d0edacb71c55b124ed2b5</guid>
+            <link>https://m.okjike.com/originalPosts/644d0edacb71c55b124ed2b5</link>
+            
+            
+            
+            <author><![CDATA[哥飞]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[我刚才写了大概五六百字的一个教程，教大家怎么不需要开发也可以卖 ChatGPT 服务赚钱，结果就在写完那一刻，我要复制时，本来想按 cmd c 结果不知道按到了什么键...]]></title>
@@ -162,22 +178,6 @@
             
             
             <author><![CDATA[哥飞]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[ChatGPT 最强免费开源替代品！ 这3款到底谁更厉害？Open Assistant、OpenChatKit、Claude 1.Open Assistant ，它是由德国的一家非营利组织 LAION 运营的，号称全...]]></title>
-            <description><![CDATA[ChatGPT 最强免费开源替代品！ <br>这3款到底谁更厉害？Open Assistant、OpenChatKit、Claude<br><br>1.Open Assistant ，它是由德国的一家非营利组织 LAION 运营的，号称全球最大的 ChatGPT 开源复制品，目前支持 35 种语言。https://github.com/LAION-AI/Open-Assistant<br><br>2.OpenChatKit，它是由前 OpenAI 的团队打造的，原始码、模型权重和训练资料集全部免费公开。https://github.com/togethercomputer/OpenChatKit<br>在线测试：https://huggingface.co/spaces/togethercomputer/OpenChatKit<br><br>3.Claude，比较适合中文用户，目前无需....（未来不清楚），对于中文问题有所优化，如果你无法使用ChatGPT，推荐你使用Claude，消费非常不错，回复能力强和速度快！<br><br>A）首先你需要在slack上注册一个账号：<br>https://slack.com/get-started#/create <br><br>B）在工作区添加应用，加入 Claude 即可 ：<br>【点击关联】<br>https://www.anthropic.com/claude-in-slack]]></description>
-            <pubDate>Sat, 22 Apr 2023 01:25:53 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/644337a1094426a0596c946f</guid>
-            <link>https://m.okjike.com/originalPosts/644337a1094426a0596c946f</link>
-            
-            
-            
-            <author><![CDATA[iEasyseek]]></author>
             
                 
             
