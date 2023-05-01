@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 01 May 2023 03:14:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 May 2023 07:33:16 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -34,6 +34,22 @@
             
             
             <author><![CDATA[落霞孤鹜lxgw]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[一人推荐一个主题！ WordPress/Typecho/Hugo/Hexo/Ghost等各种平台，最好是开源免费，记得附上地址以及演示站点！ 我先来，WordPress 官方默认主题 Twenty Twelv...]]></title>
+            <description><![CDATA[一人推荐一个主题！<br><br>WordPress/Typecho/Hugo/Hexo/Ghost等各种平台，最好是开源免费，记得附上地址以及演示站点！<br><br>我先来，WordPress 官方默认主题 Twenty Twelve，官方网站 (https://cn.wordpress.org/themes/twentytwelve/)，演示站点 (https://eirms.com/)。]]></description>
+            <pubDate>Sun, 30 Apr 2023 15:28:54 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/644e893684e12d3382793252</guid>
+            <link>https://m.okjike.com/originalPosts/644e893684e12d3382793252</link>
+            
+            
+            
+            <author><![CDATA[Hu胡鹤仙]]></author>
             
                 
             
@@ -82,22 +98,6 @@
             
             
             <author><![CDATA[哥飞]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[学到一个好玩的用法，之前用ChatGPT修改文稿，得一个一个对着看改了哪里。 用redlines这个库就可以直接输出这种一目了然的修改标注，太好用了！ https://pypi.or...]]></title>
-            <description><![CDATA[学到一个好玩的用法，之前用ChatGPT修改文稿，得一个一个对着看改了哪里。<br><br>用redlines这个库就可以直接输出这种一目了然的修改标注，太好用了！<br><br>https://pypi.org/project/redlines/<br><img src="https://cdnv2.ruguoapp.com/Fpk3tCtgOP30ZimPPgNcEjJQpSzBv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 28 Apr 2023 03:40:32 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/644b4030c567913bb5c10e70</guid>
-            <link>https://m.okjike.com/originalPosts/644b4030c567913bb5c10e70</link>
-            
-            
-            
-            <author><![CDATA[haoyun]]></author>
             
                 
             
