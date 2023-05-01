@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 01 May 2023 11:46:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 May 2023 15:46:15 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -66,6 +66,22 @@
             
             
             <author><![CDATA[Hu胡鹤仙]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[这个 GitHub 项目收集了诸多实用的 AI 工具，覆盖编程、金融、创作、教育、市场营销等领域。 GitHub：github.com/ai-collection/ai-collection]]></title>
+            <description><![CDATA[这个 GitHub 项目收集了诸多实用的 AI 工具，覆盖编程、金融、创作、教育、市场营销等领域。 GitHub：github.com/ai-collection/ai-collection]]></description>
+            <pubDate>Sun, 30 Apr 2023 14:27:46 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/644e7ae20eae9aa54499949a</guid>
+            <link>https://m.okjike.com/originalPosts/644e7ae20eae9aa54499949a</link>
+            
+            
+            
+            <author><![CDATA[江海集]]></author>
             
                 
             
@@ -146,22 +162,6 @@
             
             
             <author><![CDATA[莫尔索]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[【任职主程一周年总结】 2022年4月24日首次以主程身份入职了新公司，至今日恰好一周年，也有了五年从业经验（其中三年在开发独立游戏）——合计6500多小时。在此...]]></title>
-            <description><![CDATA[【任职主程一周年总结】<br>2022年4月24日首次以主程身份入职了新公司，至今日恰好一周年，也有了五年从业经验（其中三年在开发独立游戏）——合计6500多小时。在此写下个人的总结。<br><br>&gt;&gt; 项目情况<br>接盘的项目是一个3D MMO动作手游（公司主营业务是2D页游），程序就我一人，需要我来建立团队。<br>客户端使用：Unity引擎+C#(Mono)，服务端使用：C#(.NET 6)写大厅服与战斗服、Node.js写网关服。<br><br>&gt;&gt; 我做了哪些编码工作<br>1. 没有使用任何框架，手动搭了一套架构：<br>    - 控制层与业务层分离<br>    - 逻辑层与表现层分离<br>    - 采用乐观不等待的帧同步<br>    （顺手把服务端也写完了：网关服、大厅服、战斗服，Demo期间够用了）<br>    <br>2. 造了一些轮子：<br>    - 定点数数学库 FPMath：因为帧同步不能使用浮点数，否则会出现不同设备不同步的情况。因此基于FixedMath.NET库上，写了一套含有线性代数的数学库<br>    - 定点数物理引擎 FPPhysics3D（未开源）<br>    - 定点数缓动函数库 FPEasing<br>    - 数据二进制序列化库 BufferIO：1byte就是1byte（如果使用protobuf会让1byte变成3byte）<br>    - 透视相机库 TripodCamera：前期使用了Cinemachine，但发现Unity在官方库上大量使用单例模式+MVVM的设计思想，使得相机变得难以控制。因此我手写了一个指令式相机库。<br>3. 完成了核心需求：<br>    - 战斗系统：数据驱动式的战斗系统，策划配置技能时不需要改动代码<br>    - 技能编辑器：给策划用的，方便配置技能参数，能逐帧模拟特效、动画、击中逻辑<br>    - 帧同步<br><br>&gt;&gt; 我做了哪些管理工作<br>1. 定规范：<br>    - Git 仓库分支管理与提交规范<br>    - C# 代码风格规范<br>    - 架构规范<br>    - 工程目录划分规范<br>    - 资源命名规范<br>    - 定点数业务编写规范<br>2. 服务其他伙伴：<br>    - 写新人入职指南<br>    - 买书<br>3. 分享知识：<br>    - 给组内成员分享计算机底层知识、架构设计知识、业务经验、游戏设计要点<br>    - 给组外成员分享程序在工业化工作流中起到的作用<br><br>&gt;&gt; 我的一些情绪<br>1. 前半段挺焦虑的，因为知识与经验不够手写物理引擎，努力读了《实时碰撞检测算法技术》解决了问题，而后该焦虑就消失了；<br>2. 后半段也挺焦虑的，因为Rust语言猛地进入视野，以及AI的出现。新东西总是让人不能待在舒适圈里舒适那么一小会；<br>3. 我还是很有成就感的，因为我引导了一位同事快速地成长，再过一年他应该就能搞定大多数项目了；同时我也努力把整个团队的工作流引向了正轨；<br>4. 总结下来：这一年我做得不错。<br><br>&gt;&gt; 新的一年我的想法<br>1. 把项目推进内容生产期，带队把工具和CI/CD跑通，也让AI融入工作流；<br>2. 我想离开当前位置，让同事来担任主程；<br>3. 学会Rust；<br>4. 再带一个新的项目；<br>5. 再把更多的同事水平带到比我强。<br><br># 记一件小事]]></description>
-            <pubDate>Mon, 24 Apr 2023 12:25:51 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6446754fc567913bb547c809</guid>
-            <link>https://m.okjike.com/originalPosts/6446754fc567913bb547c809</link>
-            
-            
-            
-            <author><![CDATA[杰克有茶]]></author>
             
                 
             
