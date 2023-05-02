@@ -21,8 +21,40 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 02 May 2023 03:46:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 07:46:39 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[帅哭]]></title>
+            <description><![CDATA[帅哭<br><img src="https://cdnv2.ruguoapp.com/FqfWUu9lvB1GTylvs81-iSBYxhMXv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 02 May 2023 03:56:07 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/645089d7de61ca0bfca4b048</guid>
+            <link>https://m.okjike.com/originalPosts/645089d7de61ca0bfca4b048</link>
+            
+            
+            
+            <author><![CDATA[阿法兔]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[最近几天稳定下来了，平均每个用户每天带来2毛钱广告费。 也就是说，如果一天有1000人访问，就有200元广告费。 有没有想要上这类小程序的？我提供前后端代码，你...]]></title>
+            <description><![CDATA[最近几天稳定下来了，平均每个用户每天带来2毛钱广告费。<br>也就是说，如果一天有1000人访问，就有200元广告费。<br>有没有想要上这类小程序的？我提供前后端代码，你去注册个小程序，把我加为开发者，发appid给我，我就可以给你提交代码，然后你去提审。<br>当然，提前说明，我要跟你分广告费，也可以一次性买断代码使用权。有任何问题，请在评论区提问。<br><br>更新：感谢 @LAP啥都学 提醒，我数错了小数点，不是两毛钱，是2分钱，所以1000用户是20元，不是200元。那这小程序没任何价值了。<br><img src="https://cdnv2.ruguoapp.com/FppgxbzuVJsm8J8bkx8QUvE14eYyv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 02 May 2023 03:42:32 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/645086a8174fdd04a757d546</guid>
+            <link>https://m.okjike.com/originalPosts/645086a8174fdd04a757d546</link>
+            
+            
+            
+            <author><![CDATA[哥飞]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[Vercel 的 DB、KV、对象存储，虽迟但到。 Vercel 的数据库是 Postgres, KV 基于 Redis。Cloudflare 的数据库是 SQLite，KV 仅支持简单的读写，为了应对 serverle...]]></title>
@@ -89,22 +121,6 @@
         </item>
         
         <item>
-            <title><![CDATA[一人推荐一个主题！ WordPress/Typecho/Hugo/Hexo/Ghost等各种平台，最好是开源免费，记得附上地址以及演示站点！ 我先来，WordPress 官方默认主题 Twenty Twelv...]]></title>
-            <description><![CDATA[一人推荐一个主题！<br><br>WordPress/Typecho/Hugo/Hexo/Ghost等各种平台，最好是开源免费，记得附上地址以及演示站点！<br><br>我先来，WordPress 官方默认主题 Twenty Twelve，官方网站 (https://cn.wordpress.org/themes/twentytwelve/)，演示站点 (https://eirms.com/)。]]></description>
-            <pubDate>Sun, 30 Apr 2023 15:28:54 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/644e893684e12d3382793252</guid>
-            <link>https://m.okjike.com/originalPosts/644e893684e12d3382793252</link>
-            
-            
-            
-            <author><![CDATA[Hu胡鹤仙]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[这个 GitHub 项目收集了诸多实用的 AI 工具，覆盖编程、金融、创作、教育、市场营销等领域。 GitHub：github.com/ai-collection/ai-collection]]></title>
             <description><![CDATA[这个 GitHub 项目收集了诸多实用的 AI 工具，覆盖编程、金融、创作、教育、市场营销等领域。 GitHub：github.com/ai-collection/ai-collection]]></description>
             <pubDate>Sun, 30 Apr 2023 14:27:46 GMT</pubDate>
@@ -114,22 +130,6 @@
             
             
             <author><![CDATA[江海集]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[一个可以做收费产品的爱迪尔免费分享给大家，看看谁动手能力强，可以快速实现出来。 做一个浏览器插件，用户打开 Midjourney 的 Discord 页面，可以在插件提供的...]]></title>
-            <description><![CDATA[一个可以做收费产品的爱迪尔免费分享给大家，看看谁动手能力强，可以快速实现出来。<br>做一个浏览器插件，用户打开 Midjourney 的 Discord 页面，可以在插件提供的聊天框中提画图需求给GPT，由GPT与用户聊天，询问更清晰的需求，最后生成合适的画图提示词，提交到 Discord 输入框，让 Midjourney画图。<br>如果画出来的图片不满意，还可以继续与 GPT 聊，把要改动的跟 GPT 说，让 GPT 调整画图提示词，Midjourney 再画图。<br>如此反复几次，直到得到满意的图片。<br>是不是有点画图版像 Autogpt ，但不能完全 auto ，还是要人参与进去，告诉 GPT ，目前的图片到底还有哪里需要做改动。<br>当然也不一定做插件，你也可以做一个App来实现这个需求，但是做了App，你要去推广App，用户还需要去你的App里买画图服务，还是很麻烦的。<br>所以我上面给的思路是直接做浏览器插件，直接给 Midjourey 全球的用户提供服务。<br>GPT接口费用太低了，所以产品策略可以先完全免费，吸引用户使用。<br>快，就是优势，你先让更多人用上你的插件，建立用户认知心智，你就是最好的画图智能助手服务。<br>用户量多了之后，基础功能继续免费，可以再出一些VIP功能作为收费项。<br><img src="https://cdnv2.ruguoapp.com/FixVh9EV83J9oomoNM2lAUmZmgiIv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 29 Apr 2023 12:34:34 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/644d0edacb71c55b124ed2b5</guid>
-            <link>https://m.okjike.com/originalPosts/644d0edacb71c55b124ed2b5</link>
-            
-            
-            
-            <author><![CDATA[哥飞]]></author>
             
                 
             
