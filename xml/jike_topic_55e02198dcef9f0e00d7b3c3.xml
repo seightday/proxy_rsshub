@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 01 May 2023 23:46:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 03:46:33 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[Vercel 的 DB、KV、对象存储，虽迟但到。 Vercel 的数据库是 Postgres, KV 基于 Redis。Cloudflare 的数据库是 SQLite，KV 仅支持简单的读写，为了应对 serverle...]]></title>
+            <description><![CDATA[Vercel 的 DB、KV、对象存储，虽迟但到。<br><br>Vercel 的数据库是 Postgres, KV 基于 Redis。Cloudflare 的数据库是 SQLite，KV 仅支持简单的读写，为了应对 serverless 并发的操作原子性，有另一个产品 Durable Object(付费)。<br><br>Vercel 看起来有更大的灵活性。而 Cloudflare 的设计是为了面向大规模数据中心的数据同步，另外对应产品比较起来 UI 体验上远不及 Vercel。<br><br>不过，Vercel 目前还少了 Cloudflare 丰富免费的防火墙/ratelimit 规则功能。极容易被攻击，且无法简单处理。<br><br>同时，压力也给到 Supabase 等数据库服务，毕竟之前大家只能在 Vercel 调用第三方。<br><img src="https://cdnv2.ruguoapp.com/FkiLeXId8b3YDdVx9MT-gu3aRJSev3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 01 May 2023 19:07:59 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64500e0fb99c001fe82c1263</guid>
+            <link>https://m.okjike.com/originalPosts/64500e0fb99c001fe82c1263</link>
+            
+            
+            
+            <author><![CDATA[Airyland]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[无题]]></title>
@@ -146,22 +162,6 @@
             
             
             <author><![CDATA[明明就咯]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[经常有人问，没有业余时间做自己的项目怎么办？ 其实很简单，做项目写代码，不需要大段大段的时间，充分利用各种碎片化时间，10分钟都可以写一个函数，半小时可...]]></title>
-            <description><![CDATA[经常有人问，没有业余时间做自己的项目怎么办？<br>其实很简单，做项目写代码，不需要大段大段的时间，充分利用各种碎片化时间，10分钟都可以写一个函数，半小时可以手撸一个页面模块，一小时可以做完增删改查中的增删改。<br>很多年前，我在V2EX卖零食，自己做了一个简单的商城。那时我在光明上班，在龙华住。每天晚上8点下班，坐公交车回龙华，之后绕着住处跑步，之后洗漱完刚好10点钟，就开始写商城代码，写到12点，刚好两小时。写了两个星期，就完成了第一版，只上了最核心功能，就去V2EX推广了。<br>我负责写代码和推广和做客服，我弟负责打包发货。<br>几个月之后，我和之前的合伙人又创业了，时间就更少了，基本每天只有半个小时时间来完善天蓝村的代码，但每次时间都不浪费，因为我明确的知道这半小时要做什么功能，要写什么代码，要改哪里。虽然后来我娃出生后，这个业余项目就停掉了，但是这段经历还是很有收获的。<br><img src="https://cdnv2.ruguoapp.com/FgGV1Nq5oRvDKcAHzH-a4plMZ9Ggv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FpTdrqM5L2CjkQ26ydz5RnxFL6Gbv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FiYROx2VysI2Dxo24KThuStQvSXWv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 27 Apr 2023 00:54:09 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6449c7b1cb71c55b12f9f0ef</guid>
-            <link>https://m.okjike.com/originalPosts/6449c7b1cb71c55b12f9f0ef</link>
-            
-            
-            
-            <author><![CDATA[哥飞]]></author>
             
                 
             
