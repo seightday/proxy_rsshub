@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 02 May 2023 15:46:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 19:47:02 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[老婆日常工作中需要做很多文书工作，小弟在详细了解后发现很多事情其实可以用 chatgpt 来辅助完成，于是帮其搭建或者使用个套壳应用，但在使用这些软件过程中发...]]></title>
+            <description><![CDATA[老婆日常工作中需要做很多文书工作，小弟在详细了解后发现很多事情其实可以用 chatgpt 来辅助完成，于是帮其搭建或者使用个套壳应用，但在使用这些软件过程中发现有些场景不能满足我的习惯和其他一些定制化的场景，于是萌生了做一个个人专属的 GPT 应用，肝了近一个月多开发了一个 Mac 上使用的软件 onepoint ，与其他套壳聊天软件不同的是，onepoint 致力于打造集开发、阅读与写作等常用场景于一体的全局智能应用，同时正在开发插件市场应对其他特殊或好玩的需求。<br><br>有兴趣的同学可以在 [github](https://github.com/onepointAI/onepoint)上（需要自带 key ）下载体验，方便的话可以顺手点个 star(敲重点❤️)或者提个 issue ，这是我真正意义上的第一个开源项目，人近中年我渴望得到反馈，需要跟其他人建立联系❤️～<br><video src="https://videocdn.jellow.site/lrCzFwLQ_IXm3D_0Pze-CNTKI5Xl.mp4?sign=9b3f88cf8ff935fb0f04fe6bddb05b85&amp;t=64516e6e" controls=""></video>]]></description>
+            <pubDate>Tue, 02 May 2023 12:41:09 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/645104e5de61ca0bfcb31587</guid>
+            <link>https://m.okjike.com/originalPosts/645104e5de61ca0bfcb31587</link>
+            
+            
+            
+            <author><![CDATA[饭特思的斯]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[帅哭]]></title>
@@ -82,22 +98,6 @@
             
             
             <author><![CDATA[Airyland]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[原来 Railway 官网这种设计风格有专门的名称叫 Linear ，听听来自 Linear CEO 的定义：“Linear 的设计风格是为了符合软件工程师对于「专业」的要求。黑色背景、...]]></title>
-            <description><![CDATA[<img src="https://imgur.com/qJ0NaPC.png" referrerpolicy="no-referrer"><br>                    <a href="https://www.linears.art/">Linears</a><br>                <br>原来 Railway 官网这种设计风格有专门的名称叫 Linear ，听听来自 Linear CEO 的定义：“Linear 的设计风格是为了符合软件工程师对于「专业」的要求。黑色背景、灰色 Inter 无衬线字体、一个紫色渐变圆形 logo，基于大多数工程师都很喜欢的暗色编程环境，最大限度的减少设备能耗和视觉疲劳。”<br>如果这个描述还有点抽象，但这些酷酷的产品你肯定用过其中一个，他们的官网都采用的Linear 设计风格：录屏工具Screen Studio、终端自动补全工具 Fig、前端开发工具Turbo、Mac启动器Raycast、日历应用Cron。。。<br>Linear 设计风格页面合集👇]]></description>
-            <pubDate>Mon, 01 May 2023 07:13:01 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/644f667d0eae9aa544adeb2a</guid>
-            <link>https://m.okjike.com/originalPosts/644f667d0eae9aa544adeb2a</link>
-            
-            
-            
-            <author><![CDATA[莫尔索]]></author>
             
                 
             
