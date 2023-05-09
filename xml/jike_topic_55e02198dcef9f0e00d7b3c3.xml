@@ -21,8 +21,40 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 08 May 2023 23:51:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 May 2023 03:51:52 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[“Python之父”廖雪峰的这个教程挺好，从零开始，介绍自己训练一个识别手写数字0到9的模型所需要的全过程。 如果你曾经好奇过，模型到底是什么？模型怎么训练？...]]></title>
+            <description><![CDATA[<img src="https://www.liaoxuefeng.com/files/attachments/1543329456062562/l" referrerpolicy="no-referrer"><br>                    <a href="https://www.liaoxuefeng.com/article/1543329456062498">零基础AI入门指南</a><br>                <br>“Python之父”廖雪峰的这个教程挺好，从零开始，介绍自己训练一个识别手写数字0到9的模型所需要的全过程。<br>如果你曾经好奇过，模型到底是什么？模型怎么训练？下载来的模型文件到底是什么？模型文件怎么使用？<br>那么这个教程你可以看一看。]]></description>
+            <pubDate>Tue, 09 May 2023 00:51:15 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64599903174fdd04a73d4a77</guid>
+            <link>https://m.okjike.com/originalPosts/64599903174fdd04a73d4a77</link>
+            
+            
+            
+            <author><![CDATA[哥飞]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[会写编译器的人，不用AI，花长时间可以写出编译器。 会写编译器的人+AI，可以快速写出编译器。 不会写编译器的人+AI，写不出编译器。]]></title>
+            <description><![CDATA[会写编译器的人，不用AI，花长时间可以写出编译器。<br>会写编译器的人+AI，可以快速写出编译器。<br>不会写编译器的人+AI，写不出编译器。]]></description>
+            <pubDate>Mon, 08 May 2023 16:51:31 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6459289384e12d33828555c7</guid>
+            <link>https://m.okjike.com/originalPosts/6459289384e12d33828555c7</link>
+            
+            
+            
+            <author><![CDATA[杰克有茶]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[这货出来后，我不知道为github copilot继续付费的理由了]]></title>
@@ -41,31 +73,15 @@
         </item>
         
         <item>
-            <title><![CDATA[请教万即，如果一家公司没有域名和网站，只做 app，需要提供域名证书和做网站备案吗？ 用户在 app 中不访问网站，但与服务器通讯，即保存/上传信息到服务器，访...]]></title>
-            <description><![CDATA[请教万即，如果一家公司没有域名和网站，只做 app，需要提供域名证书和做网站备案吗？<br><br>用户在 app 中不访问网站，但与服务器通讯，即保存/上传信息到服务器，访问/下载服务器上的信息。<br><br>这种情况没有域名和网站，也就不存在提供域名证书和网站备案。难道为了备案，还要专门去注册域名做个网站？]]></description>
-            <pubDate>Mon, 08 May 2023 07:54:07 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6458aa9f0eae9aa54498dfdf</guid>
-            <link>https://m.okjike.com/originalPosts/6458aa9f0eae9aa54498dfdf</link>
+            <title><![CDATA[现在学计算机是49年进国军吗？]]></title>
+            <description><![CDATA[现在学计算机是49年进国军吗？]]></description>
+            <pubDate>Mon, 08 May 2023 07:52:18 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6458aa32205bd8b62e3baab1</guid>
+            <link>https://m.okjike.com/originalPosts/6458aa32205bd8b62e3baab1</link>
             
             
             
-            <author><![CDATA[猫完]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[叒开始折腾博客了，这次应该能坚持下去吧😅]]></title>
-            <description><![CDATA[叒开始折腾博客了，这次应该能坚持下去吧😅<br><img src="https://cdnv2.ruguoapp.com/Fqcnv49jMToS0zMT7QhH-hgqcJqsv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 08 May 2023 01:35:54 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/645851fab99c001fe8fad837</guid>
-            <link>https://m.okjike.com/originalPosts/645851fab99c001fe8fad837</link>
-            
-            
-            
-            <author><![CDATA[张小吉]]></author>
+            <author><![CDATA[loveshiye]]></author>
             
                 
             
@@ -82,22 +98,6 @@
             
             
             <author><![CDATA[杰克有茶]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[温馨提示：在公司使用 Postman 的童鞋，建议卸载 Postman，改用 ApiFox。否则你可能会收到 Postman 代理商的律师函，如被扫描发现，相关侵权后果由个人承担。]]></title>
-            <description><![CDATA[温馨提示：在公司使用 Postman 的童鞋，建议卸载 Postman，改用 ApiFox。否则你可能会收到 Postman 代理商的律师函，如被扫描发现，相关侵权后果由个人承担。]]></description>
-            <pubDate>Fri, 05 May 2023 16:05:18 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6455293e205bd8b62ee5ffa0</guid>
-            <link>https://m.okjike.com/originalPosts/6455293e205bd8b62ee5ffa0</link>
-            
-            
-            
-            <author><![CDATA[千古壹号]]></author>
             
                 
             
