@@ -21,8 +21,40 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 09 May 2023 23:52:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 May 2023 03:52:30 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[Vercel 支持 Storage 也就是后端存储后，可以完全基于 Vercel 搭建有完整前后端功能的 Web 应用了。 官方推荐的后端框架是 Next.js ，刚好在阮一峰那里看到一套 ...]]></title>
+            <description><![CDATA[<img src="https://i0.hdslb.com/bfs/article/499bff70595358cd026b8f4df006cf15bfa6fb75.jpg" referrerpolicy="no-referrer"><br>                    <a href="https://www.bilibili.com/read/cv20992052">Next.js小记</a><br>                <br>Vercel 支持 Storage 也就是后端存储后，可以完全基于 Vercel 搭建有完整前后端功能的 Web 应用了。<br>官方推荐的后端框架是 Next.js ，刚好在阮一峰那里看到一套 B 站的 Next.js 课程，推荐给大家。<br>不需要全部学完，可以边学就边在 Vercel 写 Demo 练习。<br>课程一共15个章节，视频总时长25小时左右，大纲如下：<br>第一章——序言（对 Next.js 速览）<br>第二章——复习React <br>第三章——介绍 Next.js 基于文件路由机制<br>第四章——项目练习1（复习第三章）<br>第五章——页面预渲染（重要‼️）<br>第六章——项目练习2（复习第五章）<br>第七章——优化（HTML meta信息与图片）<br>第八章——API路由（服务端）<br>第九章——项目练习3（复习第八章）<br>第十章——复习 React Context<br>第十一章——搭建博客（大项目，复习前面所有内容）<br>第十二章——部署 Next.js 应用<br>第十三章——鉴权（NextAuth.js库的使用）<br>第十四章——总复习（可选）<br>第十五章——结语]]></description>
+            <pubDate>Wed, 10 May 2023 01:05:42 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/645aede6c567913bb549c665</guid>
+            <link>https://m.okjike.com/originalPosts/645aede6c567913bb549c665</link>
+            
+            
+            
+            <author><![CDATA[哥飞]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[哇，真的好累！用了两个星期的空闲时间，终于搞好了我的校招网站，太开心了！! 小网站，越看越喜欢，都是我的心血嘞。 正在准备秋招的可以看下，你绝对会回来点...]]></title>
+            <description><![CDATA[哇，真的好累！用了两个星期的空闲时间，终于搞好了我的校招网站，太开心了！!<br><br>小网站，越看越喜欢，都是我的心血嘞。<br><br>正在准备秋招的可以看下，你绝对会回来点赞的<br><br>www.chengxuchu.com（程序厨的缩写）<br><img src="https://cdnv2.ruguoapp.com/Fpn6TX2nJSkEKDYu_glv5ACLyxRLv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FloDz1oOxXau-WBQFEo-lINSQJ4av3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FtDn-4bIIyVBeyDkXvj4YrUa0FJAv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fo8vSWw9mV32cC68BdBb3DptbFWjv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 09 May 2023 14:35:16 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/645a5a24cb71c55b129e901f</guid>
+            <link>https://m.okjike.com/originalPosts/645a5a24cb71c55b129e901f</link>
+            
+            
+            
+            <author><![CDATA[程序厨]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[一句话搞清楚微调 fine-tuning 和嵌入 embedding 的使用场景： 如果你想实现记忆功能，用 embedding ，如果想给模型增强或者增加能力用 fine-tuning 。 如上下文...]]></title>
@@ -41,22 +73,6 @@
         </item>
         
         <item>
-            <title><![CDATA[搞了一个硬地骇客 Discord 社区，这里可以交流播客🎙️，也可以讨论技术和产品🛠️，还可以一起整点搞钱小生意💰 等等 https://discord.gg/MGmp9QjfkK 有...]]></title>
-            <description><![CDATA[搞了一个硬地骇客 Discord 社区，这里可以交流播客🎙️，也可以讨论技术和产品🛠️，还可以一起整点搞钱小生意💰 等等<br>https://discord.gg/MGmp9QjfkK  有兴趣的访问链接加入社区。<br><img src="https://cdnv2.ruguoapp.com/FvCEKcM2bWQGnmFgPtogCehZBKx3v3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 09 May 2023 03:46:58 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6459c232b99c001fe8205e9a</guid>
-            <link>https://m.okjike.com/originalPosts/6459c232b99c001fe8205e9a</link>
-            
-            
-            
-            <author><![CDATA[一啸-Skoo]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[“Python之父”廖雪峰的这个教程挺好，从零开始，介绍自己训练一个识别手写数字0到9的模型所需要的全过程。 如果你曾经好奇过，模型到底是什么？模型怎么训练？...]]></title>
             <description><![CDATA[<img src="https://www.liaoxuefeng.com/files/attachments/1543329456062562/l" referrerpolicy="no-referrer"><br>                    <a href="https://www.liaoxuefeng.com/article/1543329456062498">零基础AI入门指南</a><br>                <br>“Python之父”廖雪峰的这个教程挺好，从零开始，介绍自己训练一个识别手写数字0到9的模型所需要的全过程。<br>如果你曾经好奇过，模型到底是什么？模型怎么训练？下载来的模型文件到底是什么？模型文件怎么使用？<br>那么这个教程你可以看一看。]]></description>
             <pubDate>Tue, 09 May 2023 00:51:15 GMT</pubDate>
@@ -66,22 +82,6 @@
             
             
             <author><![CDATA[哥飞]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[会写编译器的人，不用AI，花长时间可以写出编译器。 会写编译器的人+AI，可以快速写出编译器。 不会写编译器的人+AI，写不出编译器。]]></title>
-            <description><![CDATA[会写编译器的人，不用AI，花长时间可以写出编译器。<br>会写编译器的人+AI，可以快速写出编译器。<br>不会写编译器的人+AI，写不出编译器。]]></description>
-            <pubDate>Mon, 08 May 2023 16:51:31 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6459289384e12d33828555c7</guid>
-            <link>https://m.okjike.com/originalPosts/6459289384e12d33828555c7</link>
-            
-            
-            
-            <author><![CDATA[杰克有茶]]></author>
             
                 
             
