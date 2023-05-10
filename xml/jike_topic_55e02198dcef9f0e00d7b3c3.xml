@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 10 May 2023 11:53:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 May 2023 15:53:11 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -57,6 +57,22 @@
         </item>
         
         <item>
+            <title><![CDATA[哇，真的好累！用了两个星期的空闲时间，终于搞好了我的校招网站，太开心了！! 小网站，越看越喜欢，都是我的心血嘞。 正在准备秋招的可以看下，你绝对会回来点...]]></title>
+            <description><![CDATA[哇，真的好累！用了两个星期的空闲时间，终于搞好了我的校招网站，太开心了！!<br><br>小网站，越看越喜欢，都是我的心血嘞。<br><br>正在准备秋招的可以看下，你绝对会回来点赞的<br><br>www.chengxuchu.com（程序厨的缩写）<br><img src="https://cdnv2.ruguoapp.com/Fpn6TX2nJSkEKDYu_glv5ACLyxRLv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FloDz1oOxXau-WBQFEo-lINSQJ4av3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FtDn-4bIIyVBeyDkXvj4YrUa0FJAv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fo8vSWw9mV32cC68BdBb3DptbFWjv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 09 May 2023 14:35:16 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/645a5a24cb71c55b129e901f</guid>
+            <link>https://m.okjike.com/originalPosts/645a5a24cb71c55b129e901f</link>
+            
+            
+            
+            <author><![CDATA[程序厨]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[一句话搞清楚微调 fine-tuning 和嵌入 embedding 的使用场景： 如果你想实现记忆功能，用 embedding ，如果想给模型增强或者增加能力用 fine-tuning 。 如上下文...]]></title>
             <description><![CDATA[一句话搞清楚微调 fine-tuning 和嵌入 embedding 的使用场景：<br>如果你想实现记忆功能，用 embedding ，如果想给模型增强或者增加能力用 fine-tuning 。<br>如上下文记忆、ChatPDF、ChatDoc、智能客服、虚拟女友、虚拟人等等，都需要用到记忆功能，那么就用 embedding 。<br>如写梗、写笑话、写诗、写对联、模仿写作风格，都属于增加新能力或者增强已有能力，就要用 fine-tuning 。<br><br>继续把回答群友提问搬过来，其实是老生常谈话题，但是可能会有人不知道，所以继续科普。<br><br>@DemoChen 问：好奇一个问题，用向量化的话，用户提问和向量数据库匹配后，找到最相关的 Top N ，提交给 chatGPT 这个是利用 messages 字段吗<br>我答：topN 这里的 N 不是指长文档，而是短文本。所以第一步，把长文档拆分成短文本。<br>举例可以按照自然段拆分，如果自然段太长，还可以继续拆分成更短的。一般每个短文本300字左右。<br>所有的一切都是围绕着官方文档的限制去做的，官方文档只提供这个接口，那就只能用这个接口。接口限制了 token 大小，才会用上向量方案。<br>所以最后找出来的就已经是短文本了，可以整个提交给gpt。<br><br>@效威Fernando 问：把embedding用来增强LLM的记忆其实是两步嘛<br>第一步 Embedding其实是把原始文本（称为文本A）转成了向量<br>第二步是： 在文本向量中匹配出与问句向量最相似的top k个 -&gt; 匹配出的文本（称为文本A`）作为上下文和问题一起添加到prompt中 -&gt; 提交给LLM生成回答 <br>那么A 跟 A` 是一模一样的吗？<br><br>我答：长文档，假设ID是 doc123 ，假设切分成10个文本，你给每个短文本设置一个ID，假设是 doc123_text01 ~ doc123_text10<br>调用 embedding 接口，为每一段短文本生成向量 。<br>假设你把向量存储到文本文件里，可以这样存，用 jsonline 格式，一行一条数据<br>{"textID":"doc123_text01","vector":[这里是向量数组1]}<br>……<br>{"textID":"doc123_text10","vector":[这里是向量数组10]}<br><br>使用时，把 jsonline 文件整个载入到内存里。<br>把用户的提问也调用 embedding 接口转成向量，拿着提问的向量，去内存里遍历之前的所有短文本向量，计算每个短文本向量与提问向量的距离，排序，找出向量距离最近的3个向量的短文本ID。<br>再拿着短文本ID去数据库找出对应的文本。<br>再把文本和提问放到 mesages 里去。<br><br>这是简单实现，如果你的短文本数量在一两万条级别，那么全部载入内存就是最快的方式。<br><br>你也可以用 langchain ，搭配向量数据库，向量搜索引擎使用。]]></description>
             <pubDate>Tue, 09 May 2023 09:12:58 GMT</pubDate>
@@ -82,22 +98,6 @@
             
             
             <author><![CDATA[哥飞]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[这货出来后，我不知道为github copilot继续付费的理由了]]></title>
-            <description><![CDATA[<img src="https://mmbiz.qpic.cn/mmbiz_jpg/5LJDib8HPR2rMJDKxj6I6XY6EEtteQ8LUza9WODLRmstCxAI2ibnN7FthtfxB57LmT7eUFwqgRfuBSRYV32dpmcA/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>                    <a href="https://mp.weixin.qq.com/s/f-WwzLcEO-ZJczI-_bZh3Q">StarCoder: 最先进的代码大模型</a><br>                <br>这货出来后，我不知道为github copilot继续付费的理由了]]></description>
-            <pubDate>Mon, 08 May 2023 10:10:34 GMT</pubDate>
-            <guid isPermaLink="false">https://mp.weixin.qq.com/s/f-WwzLcEO-ZJczI-_bZh3Q</guid>
-            <link>https://mp.weixin.qq.com/s/f-WwzLcEO-ZJczI-_bZh3Q</link>
-            
-            
-            
-            <author><![CDATA[Exquisite]]></author>
             
                 
             
