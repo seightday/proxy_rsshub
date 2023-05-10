@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 09 May 2023 19:52:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 May 2023 23:52:21 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -41,15 +41,15 @@
         </item>
         
         <item>
-            <title><![CDATA[“Python之父”廖雪峰的这个教程挺好，从零开始，介绍自己训练一个识别手写数字0到9的模型所需要的全过程。 如果你曾经好奇过，模型到底是什么？模型怎么训练？...]]></title>
-            <description><![CDATA[<img src="https://www.liaoxuefeng.com/files/attachments/1543329456062562/l" referrerpolicy="no-referrer"><br>                    <a href="https://www.liaoxuefeng.com/article/1543329456062498">零基础AI入门指南</a><br>                <br>“Python之父”廖雪峰的这个教程挺好，从零开始，介绍自己训练一个识别手写数字0到9的模型所需要的全过程。<br>如果你曾经好奇过，模型到底是什么？模型怎么训练？下载来的模型文件到底是什么？模型文件怎么使用？<br>那么这个教程你可以看一看。]]></description>
-            <pubDate>Tue, 09 May 2023 00:51:15 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64599903174fdd04a73d4a77</guid>
-            <link>https://m.okjike.com/originalPosts/64599903174fdd04a73d4a77</link>
+            <title><![CDATA[搞了一个硬地骇客 Discord 社区，这里可以交流播客🎙️，也可以讨论技术和产品🛠️，还可以一起整点搞钱小生意💰 等等 https://discord.gg/MGmp9QjfkK 有...]]></title>
+            <description><![CDATA[搞了一个硬地骇客 Discord 社区，这里可以交流播客🎙️，也可以讨论技术和产品🛠️，还可以一起整点搞钱小生意💰 等等<br>https://discord.gg/MGmp9QjfkK  有兴趣的访问链接加入社区。<br><img src="https://cdnv2.ruguoapp.com/FvCEKcM2bWQGnmFgPtogCehZBKx3v3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 09 May 2023 03:46:58 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6459c232b99c001fe8205e9a</guid>
+            <link>https://m.okjike.com/originalPosts/6459c232b99c001fe8205e9a</link>
             
             
             
-            <author><![CDATA[哥飞]]></author>
+            <author><![CDATA[一啸-Skoo]]></author>
             
                 
             
@@ -57,11 +57,11 @@
         </item>
         
         <item>
-            <title><![CDATA[我娃，现在上小学二年级，正是处于刚学了千以内加减算法的时候。在他们的想象力中，亿就是很大的数字了，同学之间经常互相问问题，想让对方出丑，如问两亿三千二...]]></title>
-            <description><![CDATA[我娃，现在上小学二年级，正是处于刚学了千以内加减算法的时候。在他们的想象力中，亿就是很大的数字了，同学之间经常互相问问题，想让对方出丑，如问两亿三千二百万零八十八加上一百二十九万等于多少。<br>截图中V友问的这个问题，就要分清楚是真实需求，还是别人想象不到别的更难的题目，所以只会把数字说大来难为你。<br>先说真实场景，10亿级别的手机号码，即使真的有几条脏数据，也不会有把这些重复手机号找出来这种需求。<br>如果谁跟你提这个需求，就可以理解为是在为难你。<br>相对于把这几条重复手机号码找出来并且清除掉带来的收益，需要花费的代价，以及可能带来的新问题，综合起来看，绝对是得不偿失。<br>如果是考察你的思维，那么倒是可以聊一聊，但聊完可以给出题人一个鄙视的眼神，鄙视对方没招了，只会把数字加大来难为人。<br>首先，10亿条数据，肯定不在一张表里，正常到了这个量级，都会分库分表，那么直接 sql group by 方案就排除了。<br>那就只能把数据导出来，注意，导出来也需要花大功夫，所以我说真实场景没必要，但现在只是考察思维，我们就当已经导出来了。<br>之后最简单粗暴的办法可以是用一台大内存的服务器把10亿个手机号码载入内存，然后排序，然后遍历，用窗口从头到尾扫描过去就可以了。<br>当然我知道，你们一定有更好的办法，请在评论区说明。<br><img src="https://cdnv2.ruguoapp.com/FscAveQAIThLV0MyHTu1ttm-MMEsv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 09 May 2023 00:13:39 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64599033b99c001fe81a1bb9</guid>
-            <link>https://m.okjike.com/originalPosts/64599033b99c001fe81a1bb9</link>
+            <title><![CDATA[“Python之父”廖雪峰的这个教程挺好，从零开始，介绍自己训练一个识别手写数字0到9的模型所需要的全过程。 如果你曾经好奇过，模型到底是什么？模型怎么训练？...]]></title>
+            <description><![CDATA[<img src="https://www.liaoxuefeng.com/files/attachments/1543329456062562/l" referrerpolicy="no-referrer"><br>                    <a href="https://www.liaoxuefeng.com/article/1543329456062498">零基础AI入门指南</a><br>                <br>“Python之父”廖雪峰的这个教程挺好，从零开始，介绍自己训练一个识别手写数字0到9的模型所需要的全过程。<br>如果你曾经好奇过，模型到底是什么？模型怎么训练？下载来的模型文件到底是什么？模型文件怎么使用？<br>那么这个教程你可以看一看。]]></description>
+            <pubDate>Tue, 09 May 2023 00:51:15 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64599903174fdd04a73d4a77</guid>
+            <link>https://m.okjike.com/originalPosts/64599903174fdd04a73d4a77</link>
             
             
             
