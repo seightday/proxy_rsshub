@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sun, 14 May 2023 01:55:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 May 2023 07:55:37 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[昨天本来要尝试下做这么一个@-李宁静- 风格母亲节动图出来的，后来改成做ChatGPT插件展示页面，所以把这个步骤公开。 前五步已经验证过了可行，后面两步也是没有...]]></title>
+            <description><![CDATA[昨天本来要尝试下做这么一个@-李宁静- 风格母亲节动图出来的，后来改成做ChatGPT插件展示页面，所以把这个步骤公开。<br>前五步已经验证过了可行，后面两步也是没有技术问题的，所以只需要把所有步骤整合为一个在线工具就可以了。<br>五六年前，我接过一个外包，别人转包出来的，给某银行制作24节气视频。我完全不会视频剪辑软件，最后实现方式是PS切图后，用HTML5做了一个网页，用CSS3实现动画，自动播放24节气画面动画，之后用 bandicam 录制浏览器，得到视频，再配上背景音乐，搞定。对方为了感谢我救急，给了我1.5万。<br>现在做这个动图制作工具，其实也是类似思路，充分利用HTML5和CSS3特性，再配和 FFMPEG ，以及各种 AI 工具，就可以实现完整流程了。<br><img src="https://cdnv2.ruguoapp.com/Fvw9CVerY8z1vsTWTTNdBr1FjGxJv3.jpg" referrerpolicy="no-referrer"><img src="https://cdnv2.ruguoapp.com/FmngRlD57ERrlvox-KFGVTkOHBsOv3.gif" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sun, 14 May 2023 02:58:02 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64604e3a9b85b0f294413522</guid>
+            <link>https://m.okjike.com/originalPosts/64604e3a9b85b0f294413522</link>
+            
+            
+            
+            <author><![CDATA[哥飞]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[这个辅助机器人🤖代码开源了， https://github.com/jimmyyhwu/tidybot /jimmyyhwu/tidybot ，包含服务端代码、机器人代码、3D打印部件清单、训练数据集。 也就...]]></title>
@@ -50,22 +66,6 @@
             
             
             <author><![CDATA[MooEn]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[自从学会了一点矩阵计算的皮毛，这东西竟然帮我解决了一连串之前困扰我很久的问题，感觉相当的不真实，简直就是魔法………数学真的是上帝的语言啊🤯]]></title>
-            <description><![CDATA[自从学会了一点矩阵计算的皮毛，这东西竟然帮我解决了一连串之前困扰我很久的问题，感觉相当的不真实，简直就是魔法………数学真的是上帝的语言啊🤯]]></description>
-            <pubDate>Fri, 12 May 2023 16:18:33 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/645e66d99b85b0f294161eca</guid>
-            <link>https://m.okjike.com/originalPosts/645e66d99b85b0f294161eca</link>
-            
-            
-            
-            <author><![CDATA[Wz__]]></author>
             
                 
             
