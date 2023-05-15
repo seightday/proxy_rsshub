@@ -8,7 +8,7 @@
     <channel>
         <title><![CDATA[大师兄影视官方频道 - Telegram Channel]]></title>
         <link>https://t.me/s/dsxys</link>
-        <atom:link href="https://rsshub.rssforever.com/telegram/channel/dsxys" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub.app/telegram/channel/dsxys" rel="self" type="application/rss+xml" />
         <description><![CDATA[官网https://dsxys.pro - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -23,8 +23,8 @@
             <link>https://t.me/s/dsxys</link>
         </image>
         
-        <lastBuildDate>Mon, 15 May 2023 12:32:27 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Mon, 15 May 2023 16:19:55 GMT</lastBuildDate>
+        <ttl>120</ttl>
         
         <item>
             <title><![CDATA[ios乱弹广告应该处理完了，打开app 我的 设置 清理缓存 然后完全退出(不是后台) 应该就正常了广告(广告商发誓了),步骤必须的要做]]></title>

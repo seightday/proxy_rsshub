@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 15 May 2023 11:56:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 May 2023 15:56:52 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -57,15 +57,15 @@
         </item>
         
         <item>
-            <title><![CDATA[昨天本来要尝试下做这么一个@-李宁静- 风格母亲节动图出来的，后来改成做ChatGPT插件展示页面，所以把这个步骤公开。 前五步已经验证过了可行，后面两步也是没有...]]></title>
-            <description><![CDATA[昨天本来要尝试下做这么一个@-李宁静- 风格母亲节动图出来的，后来改成做ChatGPT插件展示页面，所以把这个步骤公开。<br>前五步已经验证过了可行，后面两步也是没有技术问题的，所以只需要把所有步骤整合为一个在线工具就可以了。<br>五六年前，我接过一个外包，别人转包出来的，给某银行制作24节气视频。我完全不会视频剪辑软件，最后实现方式是PS切图后，用HTML5做了一个网页，用CSS3实现动画，自动播放24节气画面动画，之后用 bandicam 录制浏览器，得到视频，再配上背景音乐，搞定。对方为了感谢我救急，给了我1.5万。<br>现在做这个动图制作工具，其实也是类似思路，充分利用HTML5和CSS3特性，再配和 FFMPEG ，以及各种 AI 工具，就可以实现完整流程了。<br><img src="https://cdnv2.ruguoapp.com/Fvw9CVerY8z1vsTWTTNdBr1FjGxJv3.jpg" referrerpolicy="no-referrer"><img src="https://cdnv2.ruguoapp.com/FmngRlD57ERrlvox-KFGVTkOHBsOv3.gif" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sun, 14 May 2023 02:58:02 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64604e3a9b85b0f294413522</guid>
-            <link>https://m.okjike.com/originalPosts/64604e3a9b85b0f294413522</link>
+            <title><![CDATA[找个时间把自己在大厂工作中沉淀下来的架构设计之道梳理分享下，欢迎技术交流]]></title>
+            <description><![CDATA[找个时间把自己在大厂工作中沉淀下来的架构设计之道梳理分享下，欢迎技术交流<br><img src="https://cdnv2.ruguoapp.com/FrlFC-RPqo8EOTMPZsu9e0Pr4sUZv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sun, 14 May 2023 17:38:20 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64611c8c4061e4f7dbe8769f</guid>
+            <link>https://m.okjike.com/originalPosts/64611c8c4061e4f7dbe8769f</link>
             
             
             
-            <author><![CDATA[哥飞]]></author>
+            <author><![CDATA[axtrur]]></author>
             
                 
             
