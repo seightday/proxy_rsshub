@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[每日精品限免 / 促销应用]]></title>
         <link>http://app.so/xianmian/</link>
-        <atom:link href="https://rsshub/appstore/xianmian" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub.app/appstore/xianmian" rel="self" type="application/rss+xml" />
         <description><![CDATA[鲜面连线 by AppSo：每日精品限免 / 促销应用 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -15,8 +15,54 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Tue, 16 May 2023 20:15:56 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Wed, 17 May 2023 01:20:09 GMT</lastBuildDate>
+        <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[「免费」CrystalCam - 复古风格相机]]></title>
+            <description><![CDATA[<img src="https://media.ifanrusercontent.com/user_files/appsoimg/dc/e4/dce4c46e290f21687760cf31158ca3e105a4fcc6-6c61191b50550fdc01d464a71a511549aee26071.jpg" referrerpolicy="no-referrer">
+          <br>
+          原价：¥15.00 -&gt; 现价：¥0.00
+          <br>
+          平台：iPhone
+          <br>
+          它能把 iPhone 变成水晶相机，拥有6个镜头、5个水晶场景、7种彩色环形灯和70多种胶片效果。你可以轻松更换镜头、水晶场景、环形灯和胶片等。
+        ]]></description>
+            <pubDate>Tue, 16 May 2023 21:56:25 GMT</pubDate>
+            <guid isPermaLink="false">https://apps.apple.com/cn/app/crystalcam-retro-style-camera-with-crystal-ball-len/id949277371</guid>
+            <link>https://apps.apple.com/cn/app/crystalcam-retro-style-camera-with-crystal-ball-len/id949277371</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[「免费」懒猫记账Pro-无广告、1秒启动]]></title>
+            <description><![CDATA[<img src="https://media.ifanrusercontent.com/user_files/appsoimg/03/84/0384f59249de22f8a814a77e043eadd492ec7ed1-b2b2247202a81c264449e2df7bb911dd1c3071e9.jpg" referrerpolicy="no-referrer">
+          <br>
+          原价：¥98.00 -&gt; 现价：¥0.00
+          <br>
+          平台：iPhone
+          <br>
+          一款实用便捷的记账 app，可以记日常收支、生意流水、旅行开支、家庭收支等多种账目，你可以添加多个账本，来记不同的账。
+        ]]></description>
+            <pubDate>Tue, 16 May 2023 21:53:48 GMT</pubDate>
+            <guid isPermaLink="false">https://apps.apple.com/cn/app/id1553660004</guid>
+            <link>https://apps.apple.com/cn/app/id1553660004</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[「免费」日日新]]></title>
@@ -192,52 +238,6 @@
             <pubDate>Thu, 20 Apr 2023 23:53:26 GMT</pubDate>
             <guid isPermaLink="false">https://apps.apple.com/cn/app/id1495547377?from=mergeek.com</guid>
             <link>https://apps.apple.com/cn/app/id1495547377?from=mergeek.com</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[「免费」HIX：拼块岛屿]]></title>
-            <description><![CDATA[<img src="https://media.ifanrusercontent.com/user_files/appsoimg/84/4c/844c2b01710eb9b0a0f35bd273b8da1462091ff6-8090cf939df79c7cb12e5f401d8f4e1ba4fb45d8.jpg" referrerpolicy="no-referrer">
-          <br>
-          原价：¥12.00 -&gt; 现价：¥0.00
-          <br>
-          平台：iOS Universal
-          <br>
-          在这款独特的益智游戏中，帮助友好的神一样的 Hix 修复世界各地所有美丽的岛屿！
-        ]]></description>
-            <pubDate>Thu, 20 Apr 2023 00:06:49 GMT</pubDate>
-            <guid isPermaLink="false">https://apps.apple.com/cn/app/hix-puzzle-islands/id1561322745?platform=iphone</guid>
-            <link>https://apps.apple.com/cn/app/hix-puzzle-islands/id1561322745?platform=iphone</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[「降价」List Ninja]]></title>
-            <description><![CDATA[<img src="https://media.ifanrusercontent.com/user_files/appsoimg/73/68/73684f72e4aebf63557fe6b6d1a3904dd3480020-ec992fab042a7bdd0251e65bbaf3d7647d5dbfaf.jpg" referrerpolicy="no-referrer">
-          <br>
-          原价：¥40.00 -&gt; 现价：¥8.00
-          <br>
-          平台：iOS Universal
-          <br>
-          一个易于使用的列表助手。无论你是计划去购物、旅行还是学习一门新语言，List Ninja 都将帮助你创建一个您想要获得或完成的事情的列表。通过跟踪你的进度来保持动力！支持跟踪多个列表的状态以及列表中项目的状态。
-        ]]></description>
-            <pubDate>Thu, 20 Apr 2023 00:05:56 GMT</pubDate>
-            <guid isPermaLink="false">https://apps.apple.com/cn/app/id1050297004</guid>
-            <link>https://apps.apple.com/cn/app/id1050297004</link>
             
             
             
