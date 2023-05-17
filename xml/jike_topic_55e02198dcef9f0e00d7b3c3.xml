@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 17 May 2023 10:52:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 May 2023 14:56:24 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[申请了下 MS 的 2500 刀赞助....1秒过...太给面子了]]></title>
+            <description><![CDATA[申请了下 MS 的 2500 刀赞助....1秒过...太给面子了]]></description>
+            <pubDate>Wed, 17 May 2023 03:51:17 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64644f35f9f5188894b9ebc6</guid>
+            <link>https://m.okjike.com/originalPosts/64644f35f9f5188894b9ebc6</link>
+            
+            
+            
+            <author><![CDATA[葬花达人鲁智深]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[里边讲到耗子叔离职创业的经过，很有启发]]></title>
@@ -50,22 +66,6 @@
             
             
             <author><![CDATA[_曦曦_]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[昨天不是验证了可以通过 OpenAI plugin 搭建个人知识库嘛，所以在想是不是可以做一个这样的插件，让用户可以与自己的知识数据库进行对话呢？🤔 以 Notion 为例...]]></title>
-            <description><![CDATA[昨天不是验证了可以通过 OpenAI plugin 搭建个人知识库嘛，所以在想是不是可以做一个这样的插件，让用户可以与自己的知识数据库进行对话呢？🤔<br><br>以 Notion 为例，开发一个读取 Notion database 的机器人集成 🤖。用户可以将集成拉到想要授权的 Notion database 上。然后将用户文档里面的内容经过 text-embedding 同步至向量数据库。这样，用户便可以通过我们开发的插件对自己的知识库文档进行提问了。<br><br>我设想了两种盈利模式：一是向 toC 用户按使用量收费💰，二是向 toB 用户提供一整套私有化部署方案和年度技术维护服务。当然，每个企业可能都有自己的知识库软件，可能就需要针对不同的文档系统做一些 dirty work 了。<br><br>在技术层面，我评估了下没啥难度，主要的挑战在于网络调优，以及如果用户量比较大的时候所带来的高并发问题。创收的大头可能在 toB 的用户上，，但要提供成熟的方案，必然涉及到配套的搭建稳定科学上网环境的事情，这里面合规性的问题要怎么解决？<br><br>当然 Talk is cheap。如果对这个方向感兴趣的小伙伴，欢迎私信我一起讨论，我是 Notion 的重度用户，现在也准备做一套自己私有化的知识库方案，核心功能是把我历史收藏过的一些优质内容，录到向量数据库里面，这样在我需要的时候，这些智慧的人可以启发我思考💡<br><img src="https://cdnv2.ruguoapp.com/Fuw5qOPChF_sDzmXZdVUcz2RSU04v3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 16 May 2023 02:05:54 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6462e502feb4c7ae9c2360e4</guid>
-            <link>https://m.okjike.com/originalPosts/6462e502feb4c7ae9c2360e4</link>
-            
-            
-            
-            <author><![CDATA[张小吉]]></author>
             
                 
             
