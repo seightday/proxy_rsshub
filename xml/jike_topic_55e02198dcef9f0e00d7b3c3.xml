@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 17 May 2023 23:26:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 May 2023 03:37:24 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[小更新，WebPilot Plugin支持在线pdf了 前提：不大的，文字的]]></title>
+            <description><![CDATA[小更新，WebPilot Plugin支持在线pdf了<br><br>前提：不大的，文字的<br><img src="https://cdnv2.ruguoapp.com/FgxQ7zZMEvNv5Gd_4TpW8OxsdNjgv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 17 May 2023 17:12:25 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64650af9feb4c7ae9c61bbfa</guid>
+            <link>https://m.okjike.com/originalPosts/64650af9feb4c7ae9c61bbfa</link>
+            
+            
+            
+            <author><![CDATA[葬花达人鲁智深]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[这个跨平台全局划词翻译 https://github.com/pot-app/pot-desktop 确实是生产力工具， 不过更让我欢喜的是终于知道 macOS 下的 popclip 在其他平台的替代方案了...]]></title>
@@ -34,6 +50,22 @@
             
             
             <author><![CDATA[Exquisite]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[申请了下 MS 的 2500 刀赞助....1秒过...太给面子了]]></title>
+            <description><![CDATA[申请了下 MS 的 2500 刀赞助....1秒过...太给面子了]]></description>
+            <pubDate>Wed, 17 May 2023 03:51:17 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64644f35f9f5188894b9ebc6</guid>
+            <link>https://m.okjike.com/originalPosts/64644f35f9f5188894b9ebc6</link>
+            
+            
+            
+            <author><![CDATA[葬花达人鲁智深]]></author>
             
                 
             
@@ -82,22 +114,6 @@
             
             
             <author><![CDATA[Exquisite]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[这个辅助机器人🤖代码开源了， https://github.com/jimmyyhwu/tidybot /jimmyyhwu/tidybot ，包含服务端代码、机器人代码、3D打印部件清单、训练数据集。 也就...]]></title>
-            <description><![CDATA[这个辅助机器人🤖代码开源了，<br>https://github.com/jimmyyhwu/tidybot /jimmyyhwu/tidybot ，包含服务端代码、机器人代码、3D打印部件清单、训练数据集。<br>也就是说，人人都可以自己做这个辅助机器人了，只要你愿意去3D打印所有部件，然后组装，并搭建起整套代码环境。<br>这会促进整个行业的繁荣，很快估计会有各种改进版本出现了，价格也能打下来了。<br>一台会使用洗衣机、洗碗机、会炒菜做饭的机器人如果价格能到10万以内，估计会有不少人想买。<br>未来已来。<img src="https://cdnv2.ruguoapp.com/Fqzg9VAiZs1_ONqvNv0gRDTYUTg7v3.gif" referrerpolicy="no-referrer"><img src="https://cdnv2.ruguoapp.com/Fp4xCS-S-KigQXGzJP5HQkjeuoz6v3.gif" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FiDsMuYBKgd8nAvHIVdzmhmrlltMv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FoFhLR_d1u-OwG-yOhWaqe6k-whEv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sun, 14 May 2023 00:20:00 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/646029309b85b0f2943d14fd</guid>
-            <link>https://m.okjike.com/originalPosts/646029309b85b0f2943d14fd</link>
-            
-            
-            
-            <author><![CDATA[哥飞]]></author>
             
                 
             
@@ -162,22 +178,6 @@
             
             
             <author><![CDATA[Airyland]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[「霞鹜文楷」全系列字体已于㋄㏠㍘在 GitHub 上更新。其中，完整版、轻便版、传承字形版增补《新华字典》和《现代汉语词典》所有已入 U 字头及繁异体，GB 字形版...]]></title>
-            <description><![CDATA[「霞鹜文楷」全系列字体已于㋄㏠㍘在 GitHub 上更新。其中，完整版、轻便版、传承字形版增补《新华字典》和《现代汉语词典》所有已入 U 字头及繁异体，GB 字形版增加繁体支持。<br><br>完整版：https://github.com/lxgw/LxgwWenKai/releases/tag/v1.300<br>轻便版：https://github.com/lxgw/LxgwWenKai-Lite/releases/tag/v1.300<br>TC传承字形：<br>https://github.com/lxgw/LxgwWenkaiTC/releases/tag/v1.000<br>GB国标字形：<br>https://github.com/lxgw/LxgwWenkaiGB/releases/tag/v1.000<br><img src="https://cdnv2.ruguoapp.com/FqhTl_rRtjnj3cEMv5dnwqLE55c0v3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sun, 30 Apr 2023 17:33:41 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/644ea675b99c001fe80abe20</guid>
-            <link>https://m.okjike.com/originalPosts/644ea675b99c001fe80abe20</link>
-            
-            
-            
-            <author><![CDATA[落霞孤鹜lxgw]]></author>
             
                 
             
