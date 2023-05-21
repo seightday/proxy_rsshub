@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sun, 21 May 2023 10:44:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 May 2023 14:51:22 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[下标从零开始的程序员电梯]]></title>
+            <description><![CDATA[下标从零开始的程序员电梯<br><img src="https://cdnv2.ruguoapp.com/Fq8QjQ7rOw72ncl93gOzFnCjAJnuv3.heic" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sun, 21 May 2023 02:17:03 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64697f1ffeb4c7ae9cd197fe</guid>
+            <link>https://m.okjike.com/originalPosts/64697f1ffeb4c7ae9cd197fe</link>
+            
+            
+            
+            <author><![CDATA[林深时见鹿777]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[叉会儿腰，大哥给弄的🥳 GPT-4 32k]]></title>
@@ -105,15 +121,15 @@
         </item>
         
         <item>
-            <title><![CDATA[今天在 Product Hunt 上闲逛，发现一个叫 Design+Code 的产品，教设计师写代码，教开发者做设计，完美戳中了我的痛点。明天就去开个会员，争取学完以后能自己画...]]></title>
-            <description><![CDATA[<img src="https://cdnv2.ruguoapp.com/icons/link.png" referrerpolicy="no-referrer"><br>                    <a href="https://www.producthunt.com/products/design-code">Just a moment...</a><br>                <br>今天在 Product Hunt 上闲逛，发现一个叫 Design+Code 的产品，教设计师写代码，教开发者做设计，完美戳中了我的痛点。明天就去开个会员，争取学完以后能自己画出拿得出手的UI]]></description>
-            <pubDate>Thu, 18 May 2023 15:01:10 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64663db6502f200fae43006c</guid>
-            <link>https://m.okjike.com/originalPosts/64663db6502f200fae43006c</link>
+            <title><![CDATA[🚀 我们的富文本 CRDT 算法库 crdt-richtext 开源啦！ 它集成了这两年最新的 CRDT 算法 Peritext 和 Fugue。其中 Peritext CRDT 能够更合理地合并富文本的并发...]]></title>
+            <description><![CDATA[🚀 我们的富文本 CRDT 算法库 crdt-richtext 开源啦！ <br>它集成了这两年最新的 CRDT 算法 Peritext 和 Fugue。其中 Peritext CRDT 能够更合理地合并富文本的并发编辑，而 Fugue 巧妙地解决了列表 CRDTs 中的 interleaving 问题。<br>crdt-richtext 使用了一系列优化手段，使这种组合更加高效，详情见博客 https://zhuanlan.zhihu.com/p/629580388]]></description>
+            <pubDate>Mon, 15 May 2023 10:51:19 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64620ea7feb4c7ae9c1023b3</guid>
+            <link>https://m.okjike.com/originalPosts/64620ea7feb4c7ae9c1023b3</link>
             
             
             
-            <author><![CDATA[PlusWe]]></author>
+            <author><![CDATA[zxch3n]]></author>
             
                 
             
@@ -162,22 +178,6 @@
             
             
             <author><![CDATA[Airyland]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[「霞鹜文楷」全系列字体已于㋄㏠㍘在 GitHub 上更新。其中，完整版、轻便版、传承字形版增补《新华字典》和《现代汉语词典》所有已入 U 字头及繁异体，GB 字形版...]]></title>
-            <description><![CDATA[「霞鹜文楷」全系列字体已于㋄㏠㍘在 GitHub 上更新。其中，完整版、轻便版、传承字形版增补《新华字典》和《现代汉语词典》所有已入 U 字头及繁异体，GB 字形版增加繁体支持。<br><br>完整版：https://github.com/lxgw/LxgwWenKai/releases/tag/v1.300<br>轻便版：https://github.com/lxgw/LxgwWenKai-Lite/releases/tag/v1.300<br>TC传承字形：<br>https://github.com/lxgw/LxgwWenkaiTC/releases/tag/v1.000<br>GB国标字形：<br>https://github.com/lxgw/LxgwWenkaiGB/releases/tag/v1.000<br><img src="https://cdnv2.ruguoapp.com/FqhTl_rRtjnj3cEMv5dnwqLE55c0v3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sun, 30 Apr 2023 17:33:41 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/644ea675b99c001fe80abe20</guid>
-            <link>https://m.okjike.com/originalPosts/644ea675b99c001fe80abe20</link>
-            
-            
-            
-            <author><![CDATA[落霞孤鹜lxgw]]></author>
             
                 
             
