@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 22 May 2023 14:30:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 May 2023 19:04:34 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[每次都是按部就班的安装jdk、tomcat、redis、mysql、nginx，每次都要花费不少时间，直到现在才知道oneinstack 这个东西，可以一行命令把我上面的安装需求几分钟...]]></title>
+            <description><![CDATA[每次都是按部就班的安装jdk、tomcat、redis、mysql、nginx，每次都要花费不少时间，直到现在才知道oneinstack 这个东西，可以一行命令把我上面的安装需求几分钟跑完，好东西啊。]]></description>
+            <pubDate>Mon, 22 May 2023 13:23:08 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/646b6cbcf82533a97901d4d4</guid>
+            <link>https://m.okjike.com/originalPosts/646b6cbcf82533a97901d4d4</link>
+            
+            
+            
+            <author><![CDATA[陈怀哲]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[对不起真的有点好笑]]></title>
@@ -98,22 +114,6 @@
             
             
             <author><![CDATA[陈怀哲]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[去年的这个小项目昨天居然能在 Hacker News 登顶，不过确实是我写过最好的文章了。 Tidy 是树的布局算法，布局结果比其他算法更紧凑。 这个布局算法是我刚加入字...]]></title>
-            <description><![CDATA[去年的这个小项目昨天居然能在 Hacker News 登顶，不过确实是我写过最好的文章了。<br><br>Tidy 是树的布局算法，布局结果比其他算法更紧凑。<br><br>这个布局算法是我刚加入字节在幕布里做的第一件事。@幕布  现在用的就是它，性能很好。当时和@遥行Gofurther 花了很多时间打磨相关的细节，编辑如何触发布局就尝试了好几个版本。<br><br>去年接触 Rust 就借着这个契机做了个 lib，也借此写了篇博客介绍算法的发展和原理。对于十万节点的布局，它也能在手机端浏览器上 30ms 内完成（博客里我内置了能直接跑的benchmark），对于大多数应用场景布局不会成为瓶颈了。<br><br>High-performance tidy trees visualization https://www.zxch3n.com/tidy/tidy/<br><img src="https://cdnv2.ruguoapp.com/FsQ7Vk5j1c65hKQCK6WcyX_x4sNFv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 20 May 2023 05:38:22 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64685cce457401b93aa48a01</guid>
-            <link>https://m.okjike.com/originalPosts/64685cce457401b93aa48a01</link>
-            
-            
-            
-            <author><![CDATA[zxch3n]]></author>
             
                 
             
