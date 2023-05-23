@@ -21,12 +21,28 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 23 May 2023 07:30:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 May 2023 11:45:31 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
+            <title><![CDATA[外包之所以是外包真是tm有原因的，我列一下大姐的几宗罪： 1.有几种不同应用场景，不写条件分支，靠tmd注释掉不同的代码来应对，也不写注释也不写文档，问她的时...]]></title>
+            <description><![CDATA[外包之所以是外包真是tm有原因的，我列一下大姐的几宗罪：<br><br>1.有几种不同应用场景，不写条件分支，靠tmd注释掉不同的代码来应对，也不写注释也不写文档，问她的时候说遇到另一种情况会“取消注释”。<br><br>2.拍脑袋理解业务需求，用一种脚丫子想都不对的逻辑来规避写分支。(小明五岁之前喝母乳，如果有个18岁的小明，也给他一个喝母乳的方法。)<br><br>3.不用git，每天不同进度的开发文件靠另存为。<br><br>4.不用while，硬编码循环1000次来代替判断循环结束判断。<br><br>5.不知道代码复用，100行的函数只有三行不同，就复制粘贴一个新的。<br><br>6.不知道面向对象。什么多态继承，我复制一个文件出来不就好了？<br><br>7.数据库交互不写在程序文件里，而是使用sql自己的客户端生成excel，然后再读入代码。<br><br>一天天想吐血。]]></description>
+            <pubDate>Tue, 23 May 2023 02:01:30 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/646c1e7a502f200faed64354</guid>
+            <link>https://m.okjike.com/originalPosts/646c1e7a502f200faed64354</link>
+            
+            
+            
+            <author><![CDATA[思源湖摸鱼比赛第三名]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[推荐一个比较喜欢的建站工具，如果你经常使用 Notion 的话，应该会喜欢这个建站工具，全部操作都是所见即所得，我测试了一下性能和 SEO，都非常好，墙裂推荐👇...]]></title>
-            <description><![CDATA[推荐一个比较喜欢的建站工具，如果你经常使用 Notion 的话，应该会喜欢这个建站工具，全部操作都是所见即所得，我测试了一下性能和 SEO，都非常好，墙裂推荐👇🏻<br><br>https://pagy.co/<br><br>技术栈：nextjs+vercel<br><video src="https://videocdn.jellow.site/lqaMgPy3mvlUsyP-8Oi3xTJL7JJl.mp4?sign=830bb5b6392673a82cb6afc2a111fbd2&amp;t=646c70b9" controls=""></video>]]></description>
+            <description><![CDATA[推荐一个比较喜欢的建站工具，如果你经常使用 Notion 的话，应该会喜欢这个建站工具，全部操作都是所见即所得，我测试了一下性能和 SEO，都非常好，墙裂推荐👇🏻<br><br>https://pagy.co/<br><br>技术栈：nextjs+vercel<br><video src="https://videocdn.jellow.site/lqaMgPy3mvlUsyP-8Oi3xTJL7JJl.mp4?sign=9a006ac8de82b49166aab1b3e5e1c903&amp;t=646cad18" controls=""></video>]]></description>
             <pubDate>Tue, 23 May 2023 00:46:18 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/646c0cda3650d8cae8a21fdc</guid>
             <link>https://m.okjike.com/originalPosts/646c0cda3650d8cae8a21fdc</link>
@@ -82,22 +98,6 @@
             
             
             <author><![CDATA[huogo]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[全球最佳CSS开发者奖杯🏆 via designershumor]]></title>
-            <description><![CDATA[全球最佳CSS开发者奖杯🏆<br>via designershumor<br><img src="https://cdnv2.ruguoapp.com/FsilchfA46VH7NnAdhjhNzl8UK_6v3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sun, 21 May 2023 14:52:09 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/646a3019feb4c7ae9ce64dee</guid>
-            <link>https://m.okjike.com/originalPosts/646a3019feb4c7ae9ce64dee</link>
-            
-            
-            
-            <author><![CDATA[龙爪槐守望者]]></author>
             
                 
             
