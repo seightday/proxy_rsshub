@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Fri, 26 May 2023 18:19:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 May 2023 00:27:37 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[分享一个很多人不知道的羊毛，以阿里云举例。 你在阿里云买了一台新服务器，然后注册了一个新域名，在阿里云做备案，绑定这台新服务器IP。 之后提交备案信息初审...]]></title>
+            <description><![CDATA[分享一个很多人不知道的羊毛，以阿里云举例。<br>你在阿里云买了一台新服务器，然后注册了一个新域名，在阿里云做备案，绑定这台新服务器IP。<br>之后提交备案信息初审，初审有可能被发现各种问题，没关系，按照打回的理由一条一条去修改。<br>之后再次提交审核，还是可能有问题被打回来，继续修改，继续提交，直到初审通过。<br>之后会被提交到工信部审核，不同的省份审核时间不一样，像广东有可能是7个工作日。<br>在审核通过后，阿里云会给你这台新服务器免费续期，从你首次提交备案到审核通过，用了多少天就会给你免费续多少天。最多30天。<br>过段时间，你又买了一个新服务器，又注册了一个新域名，又可以备多久，送多久。<br>另外，腾讯云据说最多送1年。]]></description>
+            <pubDate>Fri, 26 May 2023 13:30:47 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6470b487086ac133c3edd722</guid>
+            <link>https://m.okjike.com/originalPosts/6470b487086ac133c3edd722</link>
+            
+            
+            
+            <author><![CDATA[哥飞]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[发现一份婚礼请柬小程序源码，mark一下。 以后也许会用到👀 技术栈：uniapp + vue3 + ts + vite 代码库：https://github.com/zouyaoji/wedding-invitation 配...]]></title>
@@ -82,22 +98,6 @@
             
             
             <author><![CDATA[踏月流星]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[每次都是按部就班的安装jdk、tomcat、redis、mysql、nginx，每次都要花费不少时间，直到现在才知道oneinstack 这个东西，可以一行命令把我上面的安装需求几分钟...]]></title>
-            <description><![CDATA[每次都是按部就班的安装jdk、tomcat、redis、mysql、nginx，每次都要花费不少时间，直到现在才知道oneinstack 这个东西，可以一行命令把我上面的安装需求几分钟跑完，好东西啊。]]></description>
-            <pubDate>Mon, 22 May 2023 13:23:08 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/646b6cbcf82533a97901d4d4</guid>
-            <link>https://m.okjike.com/originalPosts/646b6cbcf82533a97901d4d4</link>
-            
-            
-            
-            <author><![CDATA[陈怀哲]]></author>
             
                 
             
