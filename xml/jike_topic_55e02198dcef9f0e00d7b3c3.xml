@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 29 May 2023 12:05:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 May 2023 16:05:17 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[Microsoft/guidance真的是目前最好的提示词工程工具！太厉害了我都想好好研究一下代码！ 虽然原理很简单，但是我还没找到适合的API来做这个功能，然后巨硬就做了...]]></title>
+            <description><![CDATA[<img src="https://opengraph.githubassets.com/719a4259c92a0977f3643122a247794f09e209a195acdbbb8c891cfd74370640/microsoft/guidance" referrerpolicy="no-referrer"><br>                    <a href="https://github.com/microsoft/guidance">GitHub - microsoft/guidance: A guidance language for controlling large language models.</a><br>                <br>Microsoft/guidance真的是目前最好的提示词工程工具！太厉害了我都想好好研究一下代码！<br><br>虽然原理很简单，但是我还没找到适合的API来做这个功能，然后巨硬就做了👏🏻怪不得可以一个月一个copilot]]></description>
+            <pubDate>Mon, 29 May 2023 10:32:32 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64747f401c1a49160c066a73</guid>
+            <link>https://m.okjike.com/originalPosts/64747f401c1a49160c066a73</link>
+            
+            
+            
+            <author><![CDATA[Rickardo]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[完结撒花，这个是实战篇，一步一步搭建一个基于 ChatGPT plugin 的个人知识库，写文章跟排版几乎是 3：1 的时间，啥时候能有个工具帮我自动化做长图就好了，另外...]]></title>
@@ -46,22 +62,6 @@
             <pubDate>Sun, 28 May 2023 04:35:02 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6472d9f6fabb994a8be36499</guid>
             <link>https://m.okjike.com/originalPosts/6472d9f6fabb994a8be36499</link>
-            
-            
-            
-            <author><![CDATA[哥飞]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[分享一个很多人不知道的羊毛，以阿里云举例。 你在阿里云买了一台新服务器，然后注册了一个新域名，在阿里云做备案，绑定这台新服务器IP。 之后提交备案信息初审...]]></title>
-            <description><![CDATA[分享一个很多人不知道的羊毛，以阿里云举例。<br>你在阿里云买了一台新服务器，然后注册了一个新域名，在阿里云做备案，绑定这台新服务器IP。<br>之后提交备案信息初审，初审有可能被发现各种问题，没关系，按照打回的理由一条一条去修改。<br>之后再次提交审核，还是可能有问题被打回来，继续修改，继续提交，直到初审通过。<br>之后会被提交到工信部审核，不同的省份审核时间不一样，像广东有可能是7个工作日。<br>在审核通过后，阿里云会给你这台新服务器免费续期，从你首次提交备案到审核通过，用了多少天就会给你免费续多少天。最多30天。<br>过段时间，你又买了一个新服务器，又注册了一个新域名，又可以备多久，送多久。<br>另外，腾讯云据说最多送1年。]]></description>
-            <pubDate>Fri, 26 May 2023 13:30:47 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6470b487086ac133c3edd722</guid>
-            <link>https://m.okjike.com/originalPosts/6470b487086ac133c3edd722</link>
             
             
             
