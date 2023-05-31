@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 31 May 2023 00:06:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 May 2023 04:06:06 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[【搭建个人博客】 解决方案：hexo+vercel+butterfly主题 捣鼓了半天，终于把个人博客搭好了✌ 之前用vercel搭了个GPT私人站点后发现vercel是真的好用！于是想借...]]></title>
+            <description><![CDATA[<img src="http://example.com/img/egoat.png" referrerpolicy="no-referrer"><br>                    <a href="https://blog.goatpeng.cn/">Goat' Blog</a><br>                <br>【搭建个人博客】<br>解决方案：hexo+vercel+butterfly主题<br><br>捣鼓了半天，终于把个人博客搭好了✌<br>之前用vercel搭了个GPT私人站点后发现vercel是真的好用！于是想借助vercel快速整个博客，当作电子名片用。<br><br>首先，vercel+hexo搭博客，15分钟就能搭好。但是我疯狂增添功能和调整样式。首先把butterfly的各种基本功能启用，然后加了搜索、评论、友链、字数统计、转发、打字机效果等功能，通过各种找图抠图换图，样式调整字符串修改，总算搞出满意的博客😇<br><br>具体搭站细节见博客第一篇文章（但也不完全具体…）]]></description>
+            <pubDate>Tue, 30 May 2023 17:09:00 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64762dac3abf05f7f9be601b</guid>
+            <link>https://m.okjike.com/originalPosts/64762dac3abf05f7f9be601b</link>
+            
+            
+            
+            <author><![CDATA[彭山羊]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[推特公布了新算法： 1、回复占权重最大 2、新账号注册30天以上才会被推荐 3、发推语言和自己设置的UI语言不一样，将会被降权]]></title>
@@ -66,22 +82,6 @@
             
             
             <author><![CDATA[张小吉]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[这是一个技术梗 草地 老师 如果你常用 linux 系统，是否曾经打出过上面的汉字？]]></title>
-            <description><![CDATA[这是一个技术梗<br><br>草地<br>老师<br><br>如果你常用 linux 系统，是否曾经打出过上面的汉字？]]></description>
-            <pubDate>Sun, 28 May 2023 04:35:02 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6472d9f6fabb994a8be36499</guid>
-            <link>https://m.okjike.com/originalPosts/6472d9f6fabb994a8be36499</link>
-            
-            
-            
-            <author><![CDATA[哥飞]]></author>
             
                 
             
