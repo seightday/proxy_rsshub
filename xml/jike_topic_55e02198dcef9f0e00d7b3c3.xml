@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 31 May 2023 18:22:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Jun 2023 00:36:34 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[造轮子需要花费时长n。 用1/2n的时间，去阅读别人轮子的优秀源码。 用3n的时间，去阅读别人轮子屎一样的源码。]]></title>
+            <description><![CDATA[造轮子需要花费时长n。<br><br>用1/2n的时间，去阅读别人轮子的优秀源码。<br>用3n的时间，去阅读别人轮子屎一样的源码。]]></description>
+            <pubDate>Wed, 31 May 2023 16:26:36 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6477753c2186f28a768a90ae</guid>
+            <link>https://m.okjike.com/originalPosts/6477753c2186f28a768a90ae</link>
+            
+            
+            
+            <author><![CDATA[杰克有茶]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[【搭建个人博客】 解决方案：hexo+vercel+butterfly主题 捣鼓了半天，终于把个人博客搭好了✌ 之前用vercel搭了个GPT私人站点后发现vercel是真的好用！于是想借...]]></title>
@@ -162,22 +178,6 @@
             
             
             <author><![CDATA[陈怀哲]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Vercel 的 DB、KV、对象存储，虽迟但到。 Vercel 的数据库是 Postgres, KV 基于 Redis。Cloudflare 的数据库是 SQLite，KV 仅支持简单的读写，为了应对 serverle...]]></title>
-            <description><![CDATA[Vercel 的 DB、KV、对象存储，虽迟但到。<br><br>Vercel 的数据库是 Postgres, KV 基于 Redis。Cloudflare 的数据库是 SQLite，KV 仅支持简单的读写，为了应对 serverless 并发的操作原子性，有另一个产品 Durable Object(付费)。<br><br>Vercel 看起来有更大的灵活性。而 Cloudflare 的设计是为了面向大规模数据中心的数据同步，另外对应产品比较起来 UI 体验上远不及 Vercel。<br><br>不过，Vercel 目前还少了 Cloudflare 丰富免费的防火墙/ratelimit 规则功能。极容易被攻击，且无法简单处理。<br><br>同时，压力也给到 Supabase 等数据库服务，毕竟之前大家只能在 Vercel 调用第三方。<br><img src="https://cdnv2.ruguoapp.com/FkiLeXId8b3YDdVx9MT-gu3aRJSev3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 01 May 2023 19:07:59 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64500e0fb99c001fe82c1263</guid>
-            <link>https://m.okjike.com/originalPosts/64500e0fb99c001fe82c1263</link>
-            
-            
-            
-            <author><![CDATA[Airyland]]></author>
             
                 
             
