@@ -21,8 +21,40 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 01 Jun 2023 14:54:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Jun 2023 19:07:21 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[我把用ChatGPT生成开发工具网站的过程写成了一篇文章，竟然入选公司技术期刊啦，开心^_^ 网站地址：https://dev-tools.xuqiming.tech/]]></title>
+            <description><![CDATA[我把用ChatGPT生成开发工具网站的过程写成了一篇文章，竟然入选公司技术期刊啦，开心^_^<br><br>网站地址：https://dev-tools.xuqiming.tech/<br><img src="https://cdnv2.ruguoapp.com/FvMecfjjPEALfrXLqGlu73gQt2Ecv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 01 Jun 2023 07:01:37 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64784251822c320345c64503</guid>
+            <link>https://m.okjike.com/originalPosts/64784251822c320345c64503</link>
+            
+            
+            
+            <author><![CDATA[CoderKim]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[推荐一个神奇的开发方法。"把 vscode 源码当成一个开源库。" vscode 自带了 依赖注入，命令服务，快捷键服务，主题服务，一些基础的 utils 只需要把部分感兴趣的...]]></title>
+            <description><![CDATA[推荐一个神奇的开发方法。"把 vscode 源码当成一个开源库。"<br><br>vscode 自带了 依赖注入，命令服务，快捷键服务，主题服务，一些基础的 utils<br><br>只需要把部分感兴趣的代码拷贝到项目就行了。<br><br>hamsterbase 底层代码都是从 vs code 拷贝的，很多时候遇到问题，只要去看看 vscode 怎么实现就行了。  参考 vs code  ，实现了一套代码同时支持 electron 桌面版，docker 部署，未来还会支持  iOS 和安卓。]]></description>
+            <pubDate>Thu, 01 Jun 2023 04:14:30 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64781b268cb95a257e919b84</guid>
+            <link>https://m.okjike.com/originalPosts/64781b268cb95a257e919b84</link>
+            
+            
+            
+            <author><![CDATA[HamsterBase]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[reddit 这篇帖子很有意思。 https://www.reddit.com/r/Python/comments/13s7h2m/realised_ive_spent_10_hrs_learning_to_automate_a/ 有一个工作任务每周需要 15...]]></title>
@@ -73,22 +105,6 @@
         </item>
         
         <item>
-            <title><![CDATA[排行榜😎 失业的😭]]></title>
-            <description><![CDATA[排行榜😎<br>失业的😭<br><img src="https://cdnv2.ruguoapp.com/FvQJZIFksHeMYKyD6frunRIz9qJzv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 31 May 2023 05:30:37 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6476db7d2186f28a7677bd33</guid>
-            <link>https://m.okjike.com/originalPosts/6476db7d2186f28a7677bd33</link>
-            
-            
-            
-            <author><![CDATA[秦直道]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Microsoft/guidance真的是目前最好的提示词工程工具！太厉害了我都想好好研究一下代码！ 虽然原理很简单，但是我还没找到适合的API来做这个功能，然后巨硬就做了...]]></title>
             <description><![CDATA[<img src="https://opengraph.githubassets.com/719a4259c92a0977f3643122a247794f09e209a195acdbbb8c891cfd74370640/microsoft/guidance" referrerpolicy="no-referrer"><br>                    <a href="https://github.com/microsoft/guidance">GitHub - microsoft/guidance: A guidance language for controlling large language models.</a><br>                <br>Microsoft/guidance真的是目前最好的提示词工程工具！太厉害了我都想好好研究一下代码！<br><br>虽然原理很简单，但是我还没找到适合的API来做这个功能，然后巨硬就做了👏🏻怪不得可以一个月一个copilot]]></description>
             <pubDate>Mon, 29 May 2023 10:32:32 GMT</pubDate>
@@ -114,22 +130,6 @@
             
             
             <author><![CDATA[张小吉]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[天涯神贴合集 https://www.aliyundrive.com/s/3YkkhbKv7bY 提取码: g42x]]></title>
-            <description><![CDATA[天涯神贴合集<br>https://www.aliyundrive.com/s/3YkkhbKv7bY<br>提取码: g42x<br><img src="https://cdnv2.ruguoapp.com/Ftf27xg70RGt6QlbxE0nyENvZ_oYv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FqfnsNuV37vl0y75diin4XtnZVuZv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FjFZyJszdHEv7aUTxjjZBlyHcJ_3v3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FhWQdb8uHgDsBLSV9PSZrglCYkHnv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FiARS7Wri0fS5a53DgUGUmyjs7Sjv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fsl1mxFqPYiw4ohlYpgl6F4f0V72v3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 22 May 2023 02:43:19 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/646ad6c7f9f518889463217f</guid>
-            <link>https://m.okjike.com/originalPosts/646ad6c7f9f518889463217f</link>
-            
-            
-            
-            <author><![CDATA[huogo]]></author>
             
                 
             
