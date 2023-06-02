@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Fri, 02 Jun 2023 16:02:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jun 2023 20:15:13 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[如果是独立开发者，不要期望一年做一两个项目能成功。参考下 levelsio，做了70 多个项目，有4个成功，在这个过程中也构建了社区影响力。 Develop more. Ship mor...]]></title>
+            <description><![CDATA[如果是独立开发者，不要期望一年做一两个项目能成功。参考下 levelsio，做了70 多个项目，有4个成功，在这个过程中也构建了社区影响力。<br><br>Develop more. Ship more.<br><img src="https://cdnv2.ruguoapp.com/Fi67q2jugCzRzbBGjnbx_FePeT1rv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FixV8CzGntoYtcC1RNwlMD-H7Z8Qv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 02 Jun 2023 12:41:34 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6479e37e176b17a8c8b39d6d</guid>
+            <link>https://m.okjike.com/originalPosts/6479e37e176b17a8c8b39d6d</link>
+            
+            
+            
+            <author><![CDATA[Airyland]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[在浏览器输入base64也能得到一个记事本，关掉标签页就等于删除这个临时记事本。很适合用来粘贴一些临时保存的文字，比如我在码的这几行文案。 复制这里：data:te...]]></title>
@@ -114,22 +130,6 @@
             
             
             <author><![CDATA[HamsterBase]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[reddit 这篇帖子很有意思。 https://www.reddit.com/r/Python/comments/13s7h2m/realised_ive_spent_10_hrs_learning_to_automate_a/ 有一个工作任务每周需要 15...]]></title>
-            <description><![CDATA[reddit 这篇帖子很有意思。<br><br>https://www.reddit.com/r/Python/comments/13s7h2m/realised_ive_spent_10_hrs_learning_to_automate_a/<br><br>有一个工作任务每周需要 15 分钟，这个老哥却花了 10 个小时学习并尝试自动化它。下面有一个评论回复很精辟，说我们做某些事情，不是因为它们很容易，而是我们认为它很容易 🤣，拿之前 visual 的图来展示就更形象了，人往往会按线性的思维去预估未来发生的事情。<br><br>但话说回来，这件事值得做吗？我认为是值得的。在工作中，我也经常花点时间写一些小脚本，处理一些重复或防御性的工作。比如，在需要用户上传数据的场景下，我会做强验证，像「达人佣金-6月-健康-小明组-知乎」这样的输入，我会严格验证中间的格式，例如通过判断分隔符，确保用户在中间正确输入了短破折号。投入这类工作的时间和精力是值得的，因为如果现在为了省事而不处理，后续一旦用户上传错误，我还是得花费更多的时间去排查错误。 <br><br>另外，每次在处理这些场景中积累的经验，是可以复用和迁移到别的任务中，拉长时间的纬度来看，是更节省时间的。<br><img src="https://cdnv2.ruguoapp.com/FtEZSFr12dFNLZ83Z_4OUHWTazfWv3.JPG" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 01 Jun 2023 02:17:29 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6477ffb97aea3e01b2879dae</guid>
-            <link>https://m.okjike.com/originalPosts/6477ffb97aea3e01b2879dae</link>
-            
-            
-            
-            <author><![CDATA[张小吉]]></author>
             
                 
             
