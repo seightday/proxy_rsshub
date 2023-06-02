@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 01 Jun 2023 23:19:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jun 2023 03:42:20 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -34,6 +34,22 @@
             
             
             <author><![CDATA[CoderKim]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[QQ PC版正在用electron重构]]></title>
+            <description><![CDATA[QQ PC版正在用electron重构<br><img src="https://cdnv2.ruguoapp.com/FnpdaL9FrNI4JXk7RDZNcKoJwdLHv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 01 Jun 2023 04:28:28 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64781e6c2186f28a769892f9</guid>
+            <link>https://m.okjike.com/originalPosts/64781e6c2186f28a769892f9</link>
+            
+            
+            
+            <author><![CDATA[NCC_Panda]]></author>
             
                 
             
@@ -89,15 +105,15 @@
         </item>
         
         <item>
-            <title><![CDATA[程序员就应该用程序员的理念去学英语，怎么说呢？ 先看现状，现实中的大多数程序员只需要读写（read and write）能力，所以我们可以把英文学习范围缩小到读写，...]]></title>
-            <description><![CDATA[<img src="https://ishare20.github.io/formalizedChinese/img/docusaurus-social-card.jpg" referrerpolicy="no-referrer"><br>                    <a href="https://ishare20.github.io/formalizedChinese/blog/20230531">形式中文，程序员视角下的英语学习 | 形式中文</a><br>                <br>程序员就应该用程序员的理念去学英语，怎么说呢？<br><br>先看现状，现实中的大多数程序员只需要读写（read and write）能力，所以我们可以把英文学习范围缩小到读写，从而降低掌握英文读写的复杂度。解决问题时缩小求解范围，就能降低求解的复杂度，这是程序员的基本共识。所以我提出了形式中文的概念<br><br>形式中文（Formalized Chinese）是一种适用于程序员学习英语的工具。这种工具通过限定英语学习范围到读写（read and write），并允许中文词汇进行形式变化，来简化英语学习过程。点击链接查看具体介绍]]></description>
-            <pubDate>Wed, 31 May 2023 12:00:37 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/647736e52912c9b3619c0e02</guid>
-            <link>https://m.okjike.com/originalPosts/647736e52912c9b3619c0e02</link>
+            <title><![CDATA[排行榜😎 失业的😭]]></title>
+            <description><![CDATA[排行榜😎<br>失业的😭<br><img src="https://cdnv2.ruguoapp.com/FvQJZIFksHeMYKyD6frunRIz9qJzv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 31 May 2023 05:30:37 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6476db7d2186f28a7677bd33</guid>
+            <link>https://m.okjike.com/originalPosts/6476db7d2186f28a7677bd33</link>
             
             
             
-            <author><![CDATA[noPointBTree]]></author>
+            <author><![CDATA[秦直道]]></author>
             
                 
             
@@ -162,22 +178,6 @@
             
             
             <author><![CDATA[哥飞]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[自己想做app，需要学什么内容呢？ 如果你想自己开发一个app，需要学习以下内容： 1. 编程语言：首先，你需要学习一种或多种编程语言。对于Android应用开发，你可...]]></title>
-            <description><![CDATA[自己想做app，需要学什么内容呢？<br><br>如果你想自己开发一个app，需要学习以下内容：<br><br>1. 编程语言：首先，你需要学习一种或多种编程语言。对于Android应用开发，你可以学习Java或Kotlin；对于iOS应用开发，你可以学习Swift或Objective-C。<br>2. 开发环境：熟悉你所选择平台的开发环境。对于Android开发，你需要学习如何使用Android Studio；对于iOS开发，你需要学习如何使用Xcode。<br>3. 开发框架和库：了解并学习常用的开发框架和库，这些框架和库可以帮助你快速开发应用。例如，对于Android，你可以学习Android SDK（软件开发工具包）、Google Play服务等；对于iOS，你可以学习UIKit、Core Data等。<br>4. 设计模式和架构：学习软件设计模式和架构，例如MVC（模型-视图-控制器）、MVVM（模型-视图-视图模型）等。这将帮助你编写可维护和可扩展的代码。<br>5. 用户界面（UI）和用户体验（UX）设计：学习如何设计美观、易用的用户界面，以及提高用户体验的方法。<br>6. 数据存储和管理：了解如何在应用中存储和管理数据，例如使用SQLite数据库、Core Data等。<br>7. 网络编程：学习如何在应用中进行网络请求和数据传输，例如使用HTTP、WebSocket等协议。<br>8. 性能优化：了解如何优化应用性能，减少内存和CPU占用，提高用户体验。<br>9. 跨平台开发：如果你希望开发跨平台应用（同时支持Android和iOS），可以学习React Native、Flutter等框架。<br>10. 应用发布和维护：了解如何将应用发布到应用商店（例如Google Play商店或Apple App Store），以及如何维护和更新应用。<br><br>建议你从基础知识开始学习，然后逐步掌握更高级的技能。可以参加线上课程、阅读教程和文档、加入开发者社区等，不断提高自己的开发能力。最重要的是，要多动手实践，开发自己的项目，以便更好地掌握所学知识。<br><br>此回答由AI协助完成。确实， 这个问题 AI 答的比我想的好很多，也全面很多。]]></description>
-            <pubDate>Wed, 03 May 2023 01:29:09 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6451b8e584e12d3382c45d8b</guid>
-            <link>https://m.okjike.com/originalPosts/6451b8e584e12d3382c45d8b</link>
-            
-            
-            
-            <author><![CDATA[陈怀哲]]></author>
             
                 
             
