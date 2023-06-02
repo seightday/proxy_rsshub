@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Fri, 02 Jun 2023 11:57:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jun 2023 16:02:00 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[在浏览器输入base64也能得到一个记事本，关掉标签页就等于删除这个临时记事本。很适合用来粘贴一些临时保存的文字，比如我在码的这几行文案。 复制这里：data:te...]]></title>
+            <description><![CDATA[在浏览器输入base64也能得到一个记事本，关掉标签页就等于删除这个临时记事本。很适合用来粘贴一些临时保存的文字，比如我在码的这几行文案。<br><br>复制这里：data:text/html;base64,PGh0bWwgY29udGVudGVkaXRhYmxlIHN0eWxlPWxpbmUtaGVpZ2h0OjEuNTtmb250LXNpemU6MjBweCA+SGVsbG8sSmkgWW91PC9odG1sPg==<br><br>原理是在浏览器地址栏输入html代码，只不过上面的地址用base64编码了一下。可以到 https://github.com/zserge/awfice 看更多例子<br><img src="https://cdnv2.ruguoapp.com/FpIc4Jgl1x-OEKFm32DwkQ_oECPUv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 02 Jun 2023 07:55:11 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6479a05f2912c9b361daf228</guid>
+            <link>https://m.okjike.com/originalPosts/6479a05f2912c9b361daf228</link>
+            
+            
+            
+            <author><![CDATA[BigYe程普]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[说个可能五年后你们会感谢我的建议。 有技术的同学们，立即，开始做出海小产品吧！ 不要说想做，以后再做。 要行动，立即开始行动。 赚全世界人民的钱，在国内花...]]></title>
@@ -130,22 +146,6 @@
             
             
             <author><![CDATA[千澈VI]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[完结撒花，这个是实战篇，一步一步搭建一个基于 ChatGPT plugin 的个人知识库，写文章跟排版几乎是 3：1 的时间，啥时候能有个工具帮我自动化做长图就好了，另外...]]></title>
-            <description><![CDATA[完结撒花，这个是实战篇，一步一步搭建一个基于 ChatGPT plugin 的个人知识库，写文章跟排版几乎是 3：1 的时间，啥时候能有个工具帮我自动化做长图就好了，另外算是白排版了，不支持太长的图片，sad，建议还是去博客上看👇🏻<br><br>https://www.bmms.me/blog/building-personal-knowledge-base-with-chatgpt-plugin-part-2<br><img src="https://cdnv2.ruguoapp.com/Fir2dCQYiUO_gvb-t_CvledBxlV2v3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FtsL76IMjvISGzSMJ_ItIqwYWyQyv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 29 May 2023 02:47:55 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6474125b1c1a49160cf851bd</guid>
-            <link>https://m.okjike.com/originalPosts/6474125b1c1a49160cf851bd</link>
-            
-            
-            
-            <author><![CDATA[张小吉]]></author>
             
                 
             
