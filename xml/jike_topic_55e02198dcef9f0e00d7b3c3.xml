@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sat, 03 Jun 2023 10:52:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Jun 2023 15:06:31 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -50,6 +50,22 @@
             
             
             <author><![CDATA[Airyland]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[【提问】 怎么才能比较优雅地分享自己开发的app，分享apk到微信每次都会加后缀，还得手动去掉才能安装😵]]></title>
+            <description><![CDATA[【提问】<br>怎么才能比较优雅地分享自己开发的app，分享apk到微信每次都会加后缀，还得手动去掉才能安装😵]]></description>
+            <pubDate>Fri, 02 Jun 2023 08:52:22 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6479adc69bf2006576065f4e</guid>
+            <link>https://m.okjike.com/originalPosts/6479adc69bf2006576065f4e</link>
+            
+            
+            
+            <author><![CDATA[彭山羊]]></author>
             
                 
             
@@ -114,22 +130,6 @@
             
             
             <author><![CDATA[CoderKim]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[推荐一个神奇的开发方法。"把 vscode 源码当成一个开源库。" vscode 自带了 依赖注入，命令服务，快捷键服务，主题服务，一些基础的 utils 只需要把部分感兴趣的...]]></title>
-            <description><![CDATA[推荐一个神奇的开发方法。"把 vscode 源码当成一个开源库。"<br><br>vscode 自带了 依赖注入，命令服务，快捷键服务，主题服务，一些基础的 utils<br><br>只需要把部分感兴趣的代码拷贝到项目就行了。<br><br>hamsterbase 底层代码都是从 vs code 拷贝的，很多时候遇到问题，只要去看看 vscode 怎么实现就行了。  参考 vs code  ，实现了一套代码同时支持 electron 桌面版，docker 部署，未来还会支持  iOS 和安卓。]]></description>
-            <pubDate>Thu, 01 Jun 2023 04:14:30 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64781b268cb95a257e919b84</guid>
-            <link>https://m.okjike.com/originalPosts/64781b268cb95a257e919b84</link>
-            
-            
-            
-            <author><![CDATA[HamsterBase]]></author>
             
                 
             
