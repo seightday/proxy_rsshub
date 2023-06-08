@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 08 Jun 2023 16:10:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Jun 2023 20:10:44 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -74,7 +74,7 @@
         
         <item>
             <title><![CDATA[基于 LangchainJS 的上层应用还真不少，又看到一个做的非常不错的，https://github.com/FlowiseAI/Flowise，只需要简单的几个拖拽动作，便可以实现让多个 AI 之...]]></title>
-            <description><![CDATA[基于 LangchainJS 的上层应用还真不少，又看到一个做的非常不错的，https://github.com/FlowiseAI/Flowise，只需要简单的几个拖拽动作，便可以实现让多个 AI 之间相互交互，例如给 Chat 说一句，抓一条最新的热点，帮我生成一条有吸引力的 Twitter 并发布，需要做的事情很简单：<br><br>1）让 AutoGPT 找到热点内容，获得文案后润色<br>2）让 Midjourney 根据文案生成图片<br>3）利用 Twitter 的开放 API 将内容发布出去<br><br>而这些工作，只需要简单的几次点击和拖拽（如图所示），便可以完成，甚至可以加上第四步：<br><br>4）帮我每天定时干一次 1~3 的工作<br><br>当然，这个项目还做不到 3、4，但是稍微改造一下，实现起来并不难。这个项目还有一个对应网站，https://flowiseai.com/ 未来这个网站的生态可以做得更加丰富，就有点像我前面分享的 OpenDAN 了。<br><video src="https://videocdn.jellow.site/FuvrJCnjaJQclOuFD-9oGNrDHWEw.mp4?sign=dd83d5014d051289f96e4e0ea128a6eb&amp;t=648203f1" controls=""></video>]]></description>
+            <description><![CDATA[基于 LangchainJS 的上层应用还真不少，又看到一个做的非常不错的，https://github.com/FlowiseAI/Flowise，只需要简单的几个拖拽动作，便可以实现让多个 AI 之间相互交互，例如给 Chat 说一句，抓一条最新的热点，帮我生成一条有吸引力的 Twitter 并发布，需要做的事情很简单：<br><br>1）让 AutoGPT 找到热点内容，获得文案后润色<br>2）让 Midjourney 根据文案生成图片<br>3）利用 Twitter 的开放 API 将内容发布出去<br><br>而这些工作，只需要简单的几次点击和拖拽（如图所示），便可以完成，甚至可以加上第四步：<br><br>4）帮我每天定时干一次 1~3 的工作<br><br>当然，这个项目还做不到 3、4，但是稍微改造一下，实现起来并不难。这个项目还有一个对应网站，https://flowiseai.com/ 未来这个网站的生态可以做得更加丰富，就有点像我前面分享的 OpenDAN 了。<br><video src="https://videocdn.jellow.site/FuvrJCnjaJQclOuFD-9oGNrDHWEw.mp4?sign=846e38489b095598b4ca51a58d8523a7&amp;t=64823b68" controls=""></video>]]></description>
             <pubDate>Wed, 07 Jun 2023 15:27:22 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6480a1da946fef1b4a69c93a</guid>
             <link>https://m.okjike.com/originalPosts/6480a1da946fef1b4a69c93a</link>
