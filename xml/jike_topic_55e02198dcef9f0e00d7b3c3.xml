@@ -21,8 +21,40 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 07 Jun 2023 18:10:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Jun 2023 01:13:41 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[基于 LangchainJS 的上层应用还真不少，又看到一个做的非常不错的，https://github.com/FlowiseAI/Flowise，只需要简单的几个拖拽动作，便可以实现让多个 AI 之...]]></title>
+            <description><![CDATA[基于 LangchainJS 的上层应用还真不少，又看到一个做的非常不错的，https://github.com/FlowiseAI/Flowise，只需要简单的几个拖拽动作，便可以实现让多个 AI 之间相互交互，例如给 Chat 说一句，抓一条最新的热点，帮我生成一条有吸引力的 Twitter 并发布，需要做的事情很简单：<br><br>1）让 AutoGPT 找到热点内容，获得文案后润色<br>2）让 Midjourney 根据文案生成图片<br>3）利用 Twitter 的开放 API 将内容发布出去<br><br>而这些工作，只需要简单的几次点击和拖拽（如图所示），便可以完成，甚至可以加上第四步：<br><br>4）帮我每天定时干一次 1~3 的工作<br><br>当然，这个项目还做不到 3、4，但是稍微改造一下，实现起来并不难。这个项目还有一个对应网站，https://flowiseai.com/ 未来这个网站的生态可以做得更加丰富，就有点像我前面分享的 OpenDAN 了。<br><video src="https://videocdn.jellow.site/FuvrJCnjaJQclOuFD-9oGNrDHWEw.mp4?sign=303061c53524c72bcdb7a09ecba9a523&amp;t=64813007" controls=""></video>]]></description>
+            <pubDate>Wed, 07 Jun 2023 15:27:22 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6480a1da946fef1b4a69c93a</guid>
+            <link>https://m.okjike.com/originalPosts/6480a1da946fef1b4a69c93a</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[推荐一个基于 canvas/svg 实现的富文本编辑器 canvas-editor，开源免费，https://github.com/Hufe921/canvas-editor ，实现度较为完整，尝试了下长文本，也十分...]]></title>
+            <description><![CDATA[推荐一个基于 canvas/svg 实现的富文本编辑器 canvas-editor，开源免费，https://github.com/Hufe921/canvas-editor ，实现度较为完整，尝试了下长文本，也十分流畅，果然基于 Canvas 实现的优势还是很明显呐。<br><br>看了下整个项目的源码，可拓展性做得不错，例如注册事件、自定义菜单等，都十分便捷；交互体验上还有些瑕疵，不过相信开源之后可以加速完善。<br><br>使用 Canvas 实现整个编辑器的开源项目不常见，市面上看到的基本还是用 DOM 来实现的，业务扩展起来要方便很多，Canvas 最显著的特点就是性能好，但实现成本就高很多了，例如排版引擎、表格结构处理、按需渲染、虚拟滚动等等，都比较难搞，国内外的文档产品中 Google Docs 和腾讯文档使用的就是 Canvas。<br><img src="https://cdnv2.ruguoapp.com/FsAriRnMmIc6xknpmlDK8c8IdKeOv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 07 Jun 2023 13:58:45 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64808d1532c0b2c7ace6c2f1</guid>
+            <link>https://m.okjike.com/originalPosts/64808d1532c0b2c7ace6c2f1</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[给想入门ML的同学强烈推荐Andrej Karpathy的Neural Networks: Zero to Hero系列，14小时从1+1=2到手撸GPT，节奏极佳没有一句多余的内容。 而且代码写的十分美，...]]></title>
@@ -137,22 +169,6 @@
         </item>
         
         <item>
-            <title><![CDATA[天涯论坛神帖合集，买了一部分，整理了一部分，后续还在更新……https://pan.quark.cn/s/07d1f45dba19]]></title>
-            <description><![CDATA[天涯论坛神帖合集，买了一部分，整理了一部分，后续还在更新……https://pan.quark.cn/s/07d1f45dba19<br><img src="https://cdnv2.ruguoapp.com/FlwSONOGOVqDn65GvHhOkH6OU5-jv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 31 May 2023 17:04:35 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64777e23b1e89d4475b77fdb</guid>
-            <link>https://m.okjike.com/originalPosts/64777e23b1e89d4475b77fdb</link>
-            
-            
-            
-            <author><![CDATA[千澈VI]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[🚀 我们的富文本 CRDT 算法库 crdt-richtext 开源啦！ 它集成了这两年最新的 CRDT 算法 Peritext 和 Fugue。其中 Peritext CRDT 能够更合理地合并富文本的并发...]]></title>
             <description><![CDATA[🚀 我们的富文本 CRDT 算法库 crdt-richtext 开源啦！ <br>它集成了这两年最新的 CRDT 算法 Peritext 和 Fugue。其中 Peritext CRDT 能够更合理地合并富文本的并发编辑，而 Fugue 巧妙地解决了列表 CRDTs 中的 interleaving 问题。<br>crdt-richtext 使用了一系列优化手段，使这种组合更加高效，详情见博客 https://zhuanlan.zhihu.com/p/629580388]]></description>
             <pubDate>Mon, 15 May 2023 10:51:19 GMT</pubDate>
@@ -162,22 +178,6 @@
             
             
             <author><![CDATA[zxch3n]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[廖雪峰的这个教程挺好，从零开始，介绍自己训练一个识别手写数字0到9的模型所需要的全过程。 如果你曾经好奇过，模型到底是什么？模型怎么训练？下载来的模型文...]]></title>
-            <description><![CDATA[<img src="https://www.liaoxuefeng.com/files/attachments/1543329456062562/l" referrerpolicy="no-referrer"><br>                    <a href="https://www.liaoxuefeng.com/article/1543329456062498">零基础AI入门指南</a><br>                <br>廖雪峰的这个教程挺好，从零开始，介绍自己训练一个识别手写数字0到9的模型所需要的全过程。<br>如果你曾经好奇过，模型到底是什么？模型怎么训练？下载来的模型文件到底是什么？模型文件怎么使用？<br>那么这个教程你可以看一看。]]></description>
-            <pubDate>Tue, 09 May 2023 00:51:15 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64599903174fdd04a73d4a77</guid>
-            <link>https://m.okjike.com/originalPosts/64599903174fdd04a73d4a77</link>
-            
-            
-            
-            <author><![CDATA[哥飞]]></author>
             
                 
             
