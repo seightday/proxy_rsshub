@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 08 Jun 2023 12:10:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Jun 2023 16:10:35 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[准备交给 chatgpt 开发 一个笔记软件。 现在开始开发。会以评论的形式直播开发过程。 希望可以'在睡觉前部署上线。]]></title>
+            <description><![CDATA[准备交给 chatgpt 开发 一个笔记软件。<br><br>现在开始开发。会以评论的形式直播开发过程。 希望可以'在睡觉前部署上线。]]></description>
+            <pubDate>Thu, 08 Jun 2023 12:32:43 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6481ca6a395998dfd43a85f0</guid>
+            <link>https://m.okjike.com/originalPosts/6481ca6a395998dfd43a85f0</link>
+            
+            
+            
+            <author><![CDATA[HamsterBase]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[《Software 2.0》，https://karpathy.medium.com/software-2-0-a64152b37c35，这篇文章读起来有种醍醐灌顶的感觉，作者是 OpenAI 创始团队成员，原特斯拉 AI 部...]]></title>
@@ -58,7 +74,7 @@
         
         <item>
             <title><![CDATA[基于 LangchainJS 的上层应用还真不少，又看到一个做的非常不错的，https://github.com/FlowiseAI/Flowise，只需要简单的几个拖拽动作，便可以实现让多个 AI 之...]]></title>
-            <description><![CDATA[基于 LangchainJS 的上层应用还真不少，又看到一个做的非常不错的，https://github.com/FlowiseAI/Flowise，只需要简单的几个拖拽动作，便可以实现让多个 AI 之间相互交互，例如给 Chat 说一句，抓一条最新的热点，帮我生成一条有吸引力的 Twitter 并发布，需要做的事情很简单：<br><br>1）让 AutoGPT 找到热点内容，获得文案后润色<br>2）让 Midjourney 根据文案生成图片<br>3）利用 Twitter 的开放 API 将内容发布出去<br><br>而这些工作，只需要简单的几次点击和拖拽（如图所示），便可以完成，甚至可以加上第四步：<br><br>4）帮我每天定时干一次 1~3 的工作<br><br>当然，这个项目还做不到 3、4，但是稍微改造一下，实现起来并不难。这个项目还有一个对应网站，https://flowiseai.com/ 未来这个网站的生态可以做得更加丰富，就有点像我前面分享的 OpenDAN 了。<br><video src="https://videocdn.jellow.site/FuvrJCnjaJQclOuFD-9oGNrDHWEw.mp4?sign=a676549e11ac8eb2ed0b7a2d56ecc3af&amp;t=6481cb7e" controls=""></video>]]></description>
+            <description><![CDATA[基于 LangchainJS 的上层应用还真不少，又看到一个做的非常不错的，https://github.com/FlowiseAI/Flowise，只需要简单的几个拖拽动作，便可以实现让多个 AI 之间相互交互，例如给 Chat 说一句，抓一条最新的热点，帮我生成一条有吸引力的 Twitter 并发布，需要做的事情很简单：<br><br>1）让 AutoGPT 找到热点内容，获得文案后润色<br>2）让 Midjourney 根据文案生成图片<br>3）利用 Twitter 的开放 API 将内容发布出去<br><br>而这些工作，只需要简单的几次点击和拖拽（如图所示），便可以完成，甚至可以加上第四步：<br><br>4）帮我每天定时干一次 1~3 的工作<br><br>当然，这个项目还做不到 3、4，但是稍微改造一下，实现起来并不难。这个项目还有一个对应网站，https://flowiseai.com/ 未来这个网站的生态可以做得更加丰富，就有点像我前面分享的 OpenDAN 了。<br><video src="https://videocdn.jellow.site/FuvrJCnjaJQclOuFD-9oGNrDHWEw.mp4?sign=dd83d5014d051289f96e4e0ea128a6eb&amp;t=648203f1" controls=""></video>]]></description>
             <pubDate>Wed, 07 Jun 2023 15:27:22 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6480a1da946fef1b4a69c93a</guid>
             <link>https://m.okjike.com/originalPosts/6480a1da946fef1b4a69c93a</link>
@@ -98,22 +114,6 @@
             
             
             <author><![CDATA[阿笠博士]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[AES-128 加密的m3u8文件怎么下载转成mp4 折腾一天了，没搞定.. 录屏也太费劲了... mac电脑，不是windows😭 球球代码麻瓜也能看得懂的步骤]]></title>
-            <description><![CDATA[AES-128 加密的m3u8文件怎么下载转成mp4<br>折腾一天了，没搞定..<br>录屏也太费劲了...<br>mac电脑，不是windows😭<br>球球代码麻瓜也能看得懂的步骤]]></description>
-            <pubDate>Wed, 07 Jun 2023 10:41:27 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64805ed7946fef1b4a61c19c</guid>
-            <link>https://m.okjike.com/originalPosts/64805ed7946fef1b4a61c19c</link>
-            
-            
-            
-            <author><![CDATA[CC的脑子痒]]></author>
             
                 
             
