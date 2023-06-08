@@ -21,12 +21,28 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 08 Jun 2023 07:27:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Jun 2023 12:10:23 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
+            <title><![CDATA[《Software 2.0》，https://karpathy.medium.com/software-2-0-a64152b37c35，这篇文章读起来有种醍醐灌顶的感觉，作者是 OpenAI 创始团队成员，原特斯拉 AI 部...]]></title>
+            <description><![CDATA[《Software 2.0》，https://karpathy.medium.com/software-2-0-a64152b37c35，这篇文章读起来有种醍醐灌顶的感觉，作者是 OpenAI 创始团队成员，原特斯拉 AI 部门负责人，17 年写的文章，真的十分富有远见。<br><br>他认为未来软件迭代的编程范式由两部分组成：1）定义目标行为的数据集；2）给定代码大致结构（需要填充细节的神经网络结构）。软件 1.0 编写的都是明确的指令，程序运行在理想行为的特定点上，而在软件 2.0 的编程范式中，程序涉及了大量的权重（如 ChatGPT 就有上万亿入参了），人类无法参与编程，能做的就是在给定的行为目标和程序骨架所组成的程序空间中，使用反向传播和随机梯度下降方法搜索可用的程序。<br><br>软件 2.0 下的程序员不负责编写程序，那他们做什么呢？他们的核心工作变成了编辑和扩大数据集，因为只要有足够大的数据集和足够好的程序骨架，理论上是可以找到一个较为靠谱的程序来执行任务的。在特定领域下，通过软件 2.0 编程获得的程序要比你或者我写的代码更好，他提到，就目前（17 年）而言，图像、视频、音频等领域已经是这样了。<br><br>现在去看 ChatGPT/Midjourney/HuggingFace/LangChain 等产品和工具，不正是朝着这个方向在发展么。未来我们的部分工作一定是会被 AI 取代的，我们的角色会发生变化。<br><br>这里有一篇中文翻译版本，可参考阅读：https://ywh1bkansf.feishu.cn/wiki/FFJawIKRpi77JokULCvcjIPBnBv<br><img src="https://cdnv2.ruguoapp.com/Fv7WId-iyUFlE0g6XN7QZV1YxTEfv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 08 Jun 2023 07:01:58 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64817ce6d68c7c800836fc4b</guid>
+            <link>https://m.okjike.com/originalPosts/64817ce6d68c7c800836fc4b</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[真是神器，很多按钮图标什么的，不用自己画，截个图，调整好边距，上传到 https://vectorizer.ai/ ，然后下载 svg 图标，自己再调整颜色，就得到了一个新图标。]]></title>
-            <description><![CDATA[<img src="https://d1j8j7mb8gx2ao.cloudfront.net/p/assets/images/upload_7f781aaee2d6c1cf29db87d76d056860.svg" referrerpolicy="no-referrer"><br>                    <a href="https://vectorizer.ai/">Trace Pixels To Vectors in Full Color, Fully Automatically, Using AI - Vectorizer.AI</a><br>                <br>真是神器，很多按钮图标什么的，不用自己画，截个图，调整好边距，上传到 https://vectorizer.ai/ ，然后下载 svg 图标，自己再调整颜色，就得到了一个新图标。]]></description>
+            <description><![CDATA[<img src="https://cdnv2.ruguoapp.com/FoTcJhNyxgCOOTrQmGSETwiXU2fR.png" referrerpolicy="no-referrer"><br>                    <a href="https://vectorizer.ai/">Trace Pixels To Vectors in Full Color, Fully Automatically, Using AI - Vectorizer.AI</a><br>                <br>真是神器，很多按钮图标什么的，不用自己画，截个图，调整好边距，上传到 https://vectorizer.ai/ ，然后下载 svg 图标，自己再调整颜色，就得到了一个新图标。]]></description>
             <pubDate>Thu, 08 Jun 2023 04:02:46 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/648152e6671f59a7f2c462ba</guid>
             <link>https://m.okjike.com/originalPosts/648152e6671f59a7f2c462ba</link>
@@ -42,7 +58,7 @@
         
         <item>
             <title><![CDATA[基于 LangchainJS 的上层应用还真不少，又看到一个做的非常不错的，https://github.com/FlowiseAI/Flowise，只需要简单的几个拖拽动作，便可以实现让多个 AI 之...]]></title>
-            <description><![CDATA[基于 LangchainJS 的上层应用还真不少，又看到一个做的非常不错的，https://github.com/FlowiseAI/Flowise，只需要简单的几个拖拽动作，便可以实现让多个 AI 之间相互交互，例如给 Chat 说一句，抓一条最新的热点，帮我生成一条有吸引力的 Twitter 并发布，需要做的事情很简单：<br><br>1）让 AutoGPT 找到热点内容，获得文案后润色<br>2）让 Midjourney 根据文案生成图片<br>3）利用 Twitter 的开放 API 将内容发布出去<br><br>而这些工作，只需要简单的几次点击和拖拽（如图所示），便可以完成，甚至可以加上第四步：<br><br>4）帮我每天定时干一次 1~3 的工作<br><br>当然，这个项目还做不到 3、4，但是稍微改造一下，实现起来并不难。这个项目还有一个对应网站，https://flowiseai.com/ 未来这个网站的生态可以做得更加丰富，就有点像我前面分享的 OpenDAN 了。<br><video src="https://videocdn.jellow.site/FuvrJCnjaJQclOuFD-9oGNrDHWEw.mp4?sign=7b5347b5bb1c61cba8064566f0857adf&amp;t=64818837" controls=""></video>]]></description>
+            <description><![CDATA[基于 LangchainJS 的上层应用还真不少，又看到一个做的非常不错的，https://github.com/FlowiseAI/Flowise，只需要简单的几个拖拽动作，便可以实现让多个 AI 之间相互交互，例如给 Chat 说一句，抓一条最新的热点，帮我生成一条有吸引力的 Twitter 并发布，需要做的事情很简单：<br><br>1）让 AutoGPT 找到热点内容，获得文案后润色<br>2）让 Midjourney 根据文案生成图片<br>3）利用 Twitter 的开放 API 将内容发布出去<br><br>而这些工作，只需要简单的几次点击和拖拽（如图所示），便可以完成，甚至可以加上第四步：<br><br>4）帮我每天定时干一次 1~3 的工作<br><br>当然，这个项目还做不到 3、4，但是稍微改造一下，实现起来并不难。这个项目还有一个对应网站，https://flowiseai.com/ 未来这个网站的生态可以做得更加丰富，就有点像我前面分享的 OpenDAN 了。<br><video src="https://videocdn.jellow.site/FuvrJCnjaJQclOuFD-9oGNrDHWEw.mp4?sign=a676549e11ac8eb2ed0b7a2d56ecc3af&amp;t=6481cb7e" controls=""></video>]]></description>
             <pubDate>Wed, 07 Jun 2023 15:27:22 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6480a1da946fef1b4a69c93a</guid>
             <link>https://m.okjike.com/originalPosts/6480a1da946fef1b4a69c93a</link>
@@ -89,6 +105,22 @@
         </item>
         
         <item>
+            <title><![CDATA[AES-128 加密的m3u8文件怎么下载转成mp4 折腾一天了，没搞定.. 录屏也太费劲了... mac电脑，不是windows😭 球球代码麻瓜也能看得懂的步骤]]></title>
+            <description><![CDATA[AES-128 加密的m3u8文件怎么下载转成mp4<br>折腾一天了，没搞定..<br>录屏也太费劲了...<br>mac电脑，不是windows😭<br>球球代码麻瓜也能看得懂的步骤]]></description>
+            <pubDate>Wed, 07 Jun 2023 10:41:27 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64805ed7946fef1b4a61c19c</guid>
+            <link>https://m.okjike.com/originalPosts/64805ed7946fef1b4a61c19c</link>
+            
+            
+            
+            <author><![CDATA[CC的脑子痒]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[给想入门ML的同学强烈推荐Andrej Karpathy的Neural Networks: Zero to Hero系列，14小时从1+1=2到手撸GPT，节奏极佳没有一句多余的内容。 而且代码写的十分美，...]]></title>
             <description><![CDATA[给想入门ML的同学强烈推荐Andrej Karpathy的Neural Networks: Zero to Hero系列，14小时从1+1=2到手撸GPT，节奏极佳没有一句多余的内容。<br>而且代码写的十分美，看着就是一种享受。有多美呢，第一节课用160行代码不用任何库实现了正反向传播和MLP，每一行代码都逻辑清晰。我愿称之为赛博李白👍]]></description>
             <pubDate>Wed, 07 Jun 2023 03:05:31 GMT</pubDate>
@@ -105,22 +137,6 @@
         </item>
         
         <item>
-            <title><![CDATA[推荐一款让人爽心悦目的开源免费中文字体：LXGW WenKai / 霞鹜文楷，https://github.com/lxgw/LxgwWenKai 中文字体的体积一般比较大（2~5Mb），如果要用于网页正...]]></title>
-            <description><![CDATA[推荐一款让人爽心悦目的开源免费中文字体：LXGW WenKai / 霞鹜文楷，https://github.com/lxgw/LxgwWenKai<br><br>中文字体的体积一般比较大（2~5Mb），如果要用于网页正文渲染，可以考虑将字体文件分拆多份，每一份通过 unicode-range 这个 css 属性来指定生效字符范围，这种方式可以借助浏览器并行下载的能力，快速完成字体下载，参考这个文件：https://cdnjs.cloudflare.com/ajax/libs/lxgw-wenkai-screen-webfont/1.5.0/lxgwwenkaiscreenr.css<br><img src="https://cdnv2.ruguoapp.com/FvjdfwFVAEVxOd1SvUofbpsPG833v3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 06 Jun 2023 06:36:07 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/647ed3d7176b17a8c82e503c</guid>
-            <link>https://m.okjike.com/originalPosts/647ed3d7176b17a8c82e503c</link>
-            
-            
-            
-            <author><![CDATA[Barret李靖]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[有没有想要学习 Python，但不知道从哪里开始的朋友们，不如试试我最近做的一个网站 GPYTHON😉。它是一个基于 AI 的 Python 在线学习平台，里面内置了 AI 助手...]]></title>
             <description><![CDATA[有没有想要学习 Python，但不知道从哪里开始的朋友们，不如试试我最近做的一个网站 GPYTHON😉。它是一个基于 AI 的 Python 在线学习平台，里面内置了 AI 助手，你可以随时随地不懂就问。<br>不仅如此，里面还内置了在线代码运行模块，允许你随时修改示例代码，一键运行，一键查错。AI 会提供给你最及时的 debug 指导，帮助你解决学习过程中的难题。<br>链接在这里：https://gpython.aibang.run，欢迎大家体验并提出建议（我自己也知道还有好多 bug），希望这个小网站能帮助喜欢 Python 的小伙伴们真的能学会 Python，更好的提高学习效率🎉。<br><img src="https://cdnv2.ruguoapp.com/FrZ2GblQuZe5vI1ll7Vt7GuFP4qzv3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Tue, 06 Jun 2023 04:34:21 GMT</pubDate>
@@ -130,22 +146,6 @@
             
             
             <author><![CDATA[Stanaaa]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[看到一篇讲《内存分配如何工作》的文章，从基础知识讲起，然后用图解的方式来一步一步描述内存分配是如何工作的，浅显易懂，值得计算机爱好者一读。via Tw93 �...]]></title>
-            <description><![CDATA[看到一篇讲《内存分配如何工作》的文章，从基础知识讲起，然后用图解的方式来一步一步描述内存分配是如何工作的，浅显易懂，值得计算机爱好者一读。via Tw93<br>🐵 https://samwho.dev/memory-allocation/<br><img src="https://cdnv2.ruguoapp.com/Fr-ixfzTWQqv_OEVgTmtrdiTUPQKv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Foj9NHRao2nMBINqB4KRb9Z8qelyv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fg1gjdiZogm2QhhcyT2L287WTSeIv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 06 Jun 2023 01:57:37 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/647e9291822c32034565da4c</guid>
-            <link>https://m.okjike.com/originalPosts/647e9291822c32034565da4c</link>
-            
-            
-            
-            <author><![CDATA[huogo]]></author>
             
                 
             
