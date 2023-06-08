@@ -21,12 +21,12 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 08 Jun 2023 01:13:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Jun 2023 03:18:48 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
             <title><![CDATA[基于 LangchainJS 的上层应用还真不少，又看到一个做的非常不错的，https://github.com/FlowiseAI/Flowise，只需要简单的几个拖拽动作，便可以实现让多个 AI 之...]]></title>
-            <description><![CDATA[基于 LangchainJS 的上层应用还真不少，又看到一个做的非常不错的，https://github.com/FlowiseAI/Flowise，只需要简单的几个拖拽动作，便可以实现让多个 AI 之间相互交互，例如给 Chat 说一句，抓一条最新的热点，帮我生成一条有吸引力的 Twitter 并发布，需要做的事情很简单：<br><br>1）让 AutoGPT 找到热点内容，获得文案后润色<br>2）让 Midjourney 根据文案生成图片<br>3）利用 Twitter 的开放 API 将内容发布出去<br><br>而这些工作，只需要简单的几次点击和拖拽（如图所示），便可以完成，甚至可以加上第四步：<br><br>4）帮我每天定时干一次 1~3 的工作<br><br>当然，这个项目还做不到 3、4，但是稍微改造一下，实现起来并不难。这个项目还有一个对应网站，https://flowiseai.com/ 未来这个网站的生态可以做得更加丰富，就有点像我前面分享的 OpenDAN 了。<br><video src="https://videocdn.jellow.site/FuvrJCnjaJQclOuFD-9oGNrDHWEw.mp4?sign=303061c53524c72bcdb7a09ecba9a523&amp;t=64813007" controls=""></video>]]></description>
+            <description><![CDATA[基于 LangchainJS 的上层应用还真不少，又看到一个做的非常不错的，https://github.com/FlowiseAI/Flowise，只需要简单的几个拖拽动作，便可以实现让多个 AI 之间相互交互，例如给 Chat 说一句，抓一条最新的热点，帮我生成一条有吸引力的 Twitter 并发布，需要做的事情很简单：<br><br>1）让 AutoGPT 找到热点内容，获得文案后润色<br>2）让 Midjourney 根据文案生成图片<br>3）利用 Twitter 的开放 API 将内容发布出去<br><br>而这些工作，只需要简单的几次点击和拖拽（如图所示），便可以完成，甚至可以加上第四步：<br><br>4）帮我每天定时干一次 1~3 的工作<br><br>当然，这个项目还做不到 3、4，但是稍微改造一下，实现起来并不难。这个项目还有一个对应网站，https://flowiseai.com/ 未来这个网站的生态可以做得更加丰富，就有点像我前面分享的 OpenDAN 了。<br><video src="https://videocdn.jellow.site/FuvrJCnjaJQclOuFD-9oGNrDHWEw.mp4?sign=ae4159ad141d4f2bfcaf176fd448ba84&amp;t=64814e17" controls=""></video>]]></description>
             <pubDate>Wed, 07 Jun 2023 15:27:22 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6480a1da946fef1b4a69c93a</guid>
             <link>https://m.okjike.com/originalPosts/6480a1da946fef1b4a69c93a</link>
@@ -66,22 +66,6 @@
             
             
             <author><![CDATA[12DogGod]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[这个作者很有意思，写了一篇教程，教你如何写出💩一样的代码，https://github.com/trekhleb/state-of-the-art-shitcode，包括了命名、注释、缩进、错误处理、...]]></title>
-            <description><![CDATA[这个作者很有意思，写了一篇教程，教你如何写出💩一样的代码，https://github.com/trekhleb/state-of-the-art-shitcode，包括了命名、注释、缩进、错误处理、嵌套等几个方面。<br><br>相对应的，Google 也开源了一份项目风格指南，教你怎么把代码写的更加优雅，可以对比着看看：https://zh-google-styleguide.readthedocs.io/en/latest/google-javascript-styleguide/contents/<br><img src="https://cdnv2.ruguoapp.com/FsIhoV2_8bgr0kledFognd_1pBc0v3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FklaKzWEaT7e8HmTmfTz7ufFY-i9v3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 06 Jun 2023 09:08:57 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/647ef7a93a29529a3bd66062</guid>
-            <link>https://m.okjike.com/originalPosts/647ef7a93a29529a3bd66062</link>
-            
-            
-            
-            <author><![CDATA[Barret李靖]]></author>
             
                 
             
@@ -162,6 +146,22 @@
             
             
             <author><![CDATA[哥飞]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[天涯论坛神帖合集，买了一部分，整理了一部分，后续还在更新……https://pan.quark.cn/s/07d1f45dba19]]></title>
+            <description><![CDATA[天涯论坛神帖合集，买了一部分，整理了一部分，后续还在更新……https://pan.quark.cn/s/07d1f45dba19<br><img src="https://cdnv2.ruguoapp.com/FlwSONOGOVqDn65GvHhOkH6OU5-jv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 31 May 2023 17:04:35 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64777e23b1e89d4475b77fdb</guid>
+            <link>https://m.okjike.com/originalPosts/64777e23b1e89d4475b77fdb</link>
+            
+            
+            
+            <author><![CDATA[千澈VI]]></author>
             
                 
             
