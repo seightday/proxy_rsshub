@@ -21,12 +21,28 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 08 Jun 2023 03:18:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Jun 2023 07:27:47 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
+            <title><![CDATA[真是神器，很多按钮图标什么的，不用自己画，截个图，调整好边距，上传到 https://vectorizer.ai/ ，然后下载 svg 图标，自己再调整颜色，就得到了一个新图标。]]></title>
+            <description><![CDATA[<img src="https://d1j8j7mb8gx2ao.cloudfront.net/p/assets/images/upload_7f781aaee2d6c1cf29db87d76d056860.svg" referrerpolicy="no-referrer"><br>                    <a href="https://vectorizer.ai/">Trace Pixels To Vectors in Full Color, Fully Automatically, Using AI - Vectorizer.AI</a><br>                <br>真是神器，很多按钮图标什么的，不用自己画，截个图，调整好边距，上传到 https://vectorizer.ai/ ，然后下载 svg 图标，自己再调整颜色，就得到了一个新图标。]]></description>
+            <pubDate>Thu, 08 Jun 2023 04:02:46 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/648152e6671f59a7f2c462ba</guid>
+            <link>https://m.okjike.com/originalPosts/648152e6671f59a7f2c462ba</link>
+            
+            
+            
+            <author><![CDATA[哥飞]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[基于 LangchainJS 的上层应用还真不少，又看到一个做的非常不错的，https://github.com/FlowiseAI/Flowise，只需要简单的几个拖拽动作，便可以实现让多个 AI 之...]]></title>
-            <description><![CDATA[基于 LangchainJS 的上层应用还真不少，又看到一个做的非常不错的，https://github.com/FlowiseAI/Flowise，只需要简单的几个拖拽动作，便可以实现让多个 AI 之间相互交互，例如给 Chat 说一句，抓一条最新的热点，帮我生成一条有吸引力的 Twitter 并发布，需要做的事情很简单：<br><br>1）让 AutoGPT 找到热点内容，获得文案后润色<br>2）让 Midjourney 根据文案生成图片<br>3）利用 Twitter 的开放 API 将内容发布出去<br><br>而这些工作，只需要简单的几次点击和拖拽（如图所示），便可以完成，甚至可以加上第四步：<br><br>4）帮我每天定时干一次 1~3 的工作<br><br>当然，这个项目还做不到 3、4，但是稍微改造一下，实现起来并不难。这个项目还有一个对应网站，https://flowiseai.com/ 未来这个网站的生态可以做得更加丰富，就有点像我前面分享的 OpenDAN 了。<br><video src="https://videocdn.jellow.site/FuvrJCnjaJQclOuFD-9oGNrDHWEw.mp4?sign=ae4159ad141d4f2bfcaf176fd448ba84&amp;t=64814e17" controls=""></video>]]></description>
+            <description><![CDATA[基于 LangchainJS 的上层应用还真不少，又看到一个做的非常不错的，https://github.com/FlowiseAI/Flowise，只需要简单的几个拖拽动作，便可以实现让多个 AI 之间相互交互，例如给 Chat 说一句，抓一条最新的热点，帮我生成一条有吸引力的 Twitter 并发布，需要做的事情很简单：<br><br>1）让 AutoGPT 找到热点内容，获得文案后润色<br>2）让 Midjourney 根据文案生成图片<br>3）利用 Twitter 的开放 API 将内容发布出去<br><br>而这些工作，只需要简单的几次点击和拖拽（如图所示），便可以完成，甚至可以加上第四步：<br><br>4）帮我每天定时干一次 1~3 的工作<br><br>当然，这个项目还做不到 3、4，但是稍微改造一下，实现起来并不难。这个项目还有一个对应网站，https://flowiseai.com/ 未来这个网站的生态可以做得更加丰富，就有点像我前面分享的 OpenDAN 了。<br><video src="https://videocdn.jellow.site/FuvrJCnjaJQclOuFD-9oGNrDHWEw.mp4?sign=7b5347b5bb1c61cba8064566f0857adf&amp;t=64818837" controls=""></video>]]></description>
             <pubDate>Wed, 07 Jun 2023 15:27:22 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6480a1da946fef1b4a69c93a</guid>
             <link>https://m.okjike.com/originalPosts/6480a1da946fef1b4a69c93a</link>
@@ -50,6 +66,22 @@
             
             
             <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[无题]]></title>
+            <description><![CDATA[<br><img src="https://cdnv2.ruguoapp.com/FnL1KWGHv7Uo--6SqdkslwxZgBM3v3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 07 Jun 2023 13:52:06 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64808b86395998dfd41a60b0</guid>
+            <link>https://m.okjike.com/originalPosts/64808b86395998dfd41a60b0</link>
+            
+            
+            
+            <author><![CDATA[阿笠博士]]></author>
             
                 
             
@@ -121,22 +153,6 @@
         </item>
         
         <item>
-            <title><![CDATA[有大佬帮帮嘛？（期末作业）价钱可以谈😭]]></title>
-            <description><![CDATA[有大佬帮帮嘛？（期末作业）价钱可以谈😭<br><img src="https://cdnv2.ruguoapp.com/FsteNOc91YEbUGXjsWMv-B5C3ECyv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/lqGTiJ-qXxTkHqJHnC_d83OOKojVv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 05 Jun 2023 08:18:21 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/647d9a4d822c3203454e4a3b</guid>
-            <link>https://m.okjike.com/originalPosts/647d9a4d822c3203454e4a3b</link>
-            
-            
-            
-            <author><![CDATA[check_mate沐槿年华]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[说个可能五年后你们会感谢我的建议。 有技术的同学们，立即，开始做出海小产品吧！ 不要说想做，以后再做。 要行动，立即开始行动。 赚全世界人民的钱，在国内花...]]></title>
             <description><![CDATA[说个可能五年后你们会感谢我的建议。<br>有技术的同学们，立即，开始做出海小产品吧！<br>不要说想做，以后再做。<br>要行动，立即开始行动。<br>赚全世界人民的钱，在国内花。<br>也不需要太多，每年每人5万美元的外汇额度用满就有30多万人民币收入了，就很不错了。]]></description>
             <pubDate>Fri, 02 Jun 2023 04:34:08 GMT</pubDate>
@@ -146,22 +162,6 @@
             
             
             <author><![CDATA[哥飞]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[天涯论坛神帖合集，买了一部分，整理了一部分，后续还在更新……https://pan.quark.cn/s/07d1f45dba19]]></title>
-            <description><![CDATA[天涯论坛神帖合集，买了一部分，整理了一部分，后续还在更新……https://pan.quark.cn/s/07d1f45dba19<br><img src="https://cdnv2.ruguoapp.com/FlwSONOGOVqDn65GvHhOkH6OU5-jv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 31 May 2023 17:04:35 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64777e23b1e89d4475b77fdb</guid>
-            <link>https://m.okjike.com/originalPosts/64777e23b1e89d4475b77fdb</link>
-            
-            
-            
-            <author><![CDATA[千澈VI]]></author>
             
                 
             
