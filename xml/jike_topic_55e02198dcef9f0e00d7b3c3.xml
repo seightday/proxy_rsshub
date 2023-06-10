@@ -21,19 +21,19 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Fri, 09 Jun 2023 18:20:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Jun 2023 00:52:20 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
-            <title><![CDATA[历时一年半，写了一个以markdown为主的笔记应用。希望大佬们给点意见！ 支持gitee，github同步笔记]]></title>
-            <description><![CDATA[<img src="https://cdnv2.ruguoapp.com/icons/link.png" referrerpolicy="no-referrer"><br>                    <a href="https://ohmymd.app/">Oh Mymd - a markdown editor,support cloud sync</a><br>                <br>历时一年半，写了一个以markdown为主的笔记应用。希望大佬们给点意见！<br>支持gitee，github同步笔记]]></description>
-            <pubDate>Fri, 09 Jun 2023 03:31:14 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64829d02e6d50309fb4211c8</guid>
-            <link>https://m.okjike.com/originalPosts/64829d02e6d50309fb4211c8</link>
+            <title><![CDATA[独立开发变现周刊（第90期）：靠自学开发了一个36万美元/年的ChatGPT应用 分享独立开发、产品变现相关内容，每周五发布。 目录 1、ChatGPT-Midjourney: 开源 Cha...]]></title>
+            <description><![CDATA[独立开发变现周刊（第90期）：靠自学开发了一个36万美元/年的ChatGPT应用<br><br>分享独立开发、产品变现相关内容，每周五发布。<br>目录<br><br>1、ChatGPT-Midjourney: 开源 ChatGPT+Midjourney 网页应用<br>2、PLExtension: 一个图床上传浏览器扩展<br>3、EasySpider: 一个可视化爬虫软件<br>4、BibiGPT: 音视频 AI 一键总结 &amp; 对话<br>5、自学的程序员开发了一个36万美元/年的GPT应用<br>详细内容：https://www.ezindie.com/weekly/issue-90<br><img src="https://cdnv2.ruguoapp.com/FgvgS8EYiszHa5y6mhsyAoGdi_mKv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fqh6rZHulba4xM8-JF_5xehB47E0v3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FjQ4wVcduh9mbgnVVXolw1l50C9Jv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 09 Jun 2023 00:49:06 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6482770232c0b2c7ac146009</guid>
+            <link>https://m.okjike.com/originalPosts/6482770232c0b2c7ac146009</link>
             
             
             
-            <author><![CDATA[ch3ng]]></author>
+            <author><![CDATA[凯凯刘]]></author>
             
                 
             
@@ -106,7 +106,7 @@
         
         <item>
             <title><![CDATA[基于 LangchainJS 的上层应用还真不少，又看到一个做的非常不错的，https://github.com/FlowiseAI/Flowise，只需要简单的几个拖拽动作，便可以实现让多个 AI 之...]]></title>
-            <description><![CDATA[基于 LangchainJS 的上层应用还真不少，又看到一个做的非常不错的，https://github.com/FlowiseAI/Flowise，只需要简单的几个拖拽动作，便可以实现让多个 AI 之间相互交互，例如给 Chat 说一句，抓一条最新的热点，帮我生成一条有吸引力的 Twitter 并发布，需要做的事情很简单：<br><br>1）让 AutoGPT 找到热点内容，获得文案后润色<br>2）让 Midjourney 根据文案生成图片<br>3）利用 Twitter 的开放 API 将内容发布出去<br><br>而这些工作，只需要简单的几次点击和拖拽（如图所示），便可以完成，甚至可以加上第四步：<br><br>4）帮我每天定时干一次 1~3 的工作<br><br>当然，这个项目还做不到 3、4，但是稍微改造一下，实现起来并不难。这个项目还有一个对应网站，https://flowiseai.com/ 未来这个网站的生态可以做得更加丰富，就有点像我前面分享的 OpenDAN 了。<br><video src="https://videocdn.jellow.site/FuvrJCnjaJQclOuFD-9oGNrDHWEw.mp4?sign=8cc51987f720175051075d6399a207d6&amp;t=6483724b" controls=""></video>]]></description>
+            <description><![CDATA[基于 LangchainJS 的上层应用还真不少，又看到一个做的非常不错的，https://github.com/FlowiseAI/Flowise，只需要简单的几个拖拽动作，便可以实现让多个 AI 之间相互交互，例如给 Chat 说一句，抓一条最新的热点，帮我生成一条有吸引力的 Twitter 并发布，需要做的事情很简单：<br><br>1）让 AutoGPT 找到热点内容，获得文案后润色<br>2）让 Midjourney 根据文案生成图片<br>3）利用 Twitter 的开放 API 将内容发布出去<br><br>而这些工作，只需要简单的几次点击和拖拽（如图所示），便可以完成，甚至可以加上第四步：<br><br>4）帮我每天定时干一次 1~3 的工作<br><br>当然，这个项目还做不到 3、4，但是稍微改造一下，实现起来并不难。这个项目还有一个对应网站，https://flowiseai.com/ 未来这个网站的生态可以做得更加丰富，就有点像我前面分享的 OpenDAN 了。<br><video src="https://videocdn.jellow.site/FuvrJCnjaJQclOuFD-9oGNrDHWEw.mp4?sign=fe17cc15c8d2b498e07c8fa8398b2921&amp;t=6483cfe3" controls=""></video>]]></description>
             <pubDate>Wed, 07 Jun 2023 15:27:22 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6480a1da946fef1b4a69c93a</guid>
             <link>https://m.okjike.com/originalPosts/6480a1da946fef1b4a69c93a</link>
