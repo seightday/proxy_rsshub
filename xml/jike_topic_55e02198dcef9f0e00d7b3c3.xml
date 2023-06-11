@@ -21,8 +21,40 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sun, 11 Jun 2023 12:11:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Jun 2023 14:27:50 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[看这段 EO 采访 Notion 的视频，还蛮感慨的。 Ivan 自述裁掉之前员工，选择了去京都专心码代码，非常有魄力。也是那个版本打下了 Notion 文档极致的编辑体验。另...]]></title>
+            <description><![CDATA[看这段 EO 采访 Notion 的视频，还蛮感慨的。<br><br>Ivan 自述裁掉之前员工，选择了去京都专心码代码，非常有魄力。也是那个版本打下了 Notion 文档极致的编辑体验。另外在 Akshay 的访谈中，Notion 2.0 之后，他们专注在打磨 blocks 这个核心功能，另外提供了非常丰富的模板，让用户能够快速上手立马解决实际的问题，这和 Framer 把 Figma 设计稿直接生成网页的做法一样，把用户关注的最核心问题解决掉。所以，识别用户需求是一个很高级的元能力，乔布斯是这方面的专家，他的访谈可以多看看，他总是能洞见问题的本质。<br><video src="https://videocdn.jellow.site/lma31QPWsuQs1UdQ-tRcaIPokM3R.mp4?sign=34f2561f6d4e0b62d3ce7d04f21981fc&amp;t=6485e049" controls=""></video>]]></description>
+            <pubDate>Sun, 11 Jun 2023 11:00:09 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6485a939e6d50309fb8ce548</guid>
+            <link>https://m.okjike.com/originalPosts/6485a939e6d50309fb8ce548</link>
+            
+            
+            
+            <author><![CDATA[张小吉]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[软件外包的淘宝店，唉，不知道能不能做起来，想接一些单子，找一些程序员做，自己做中介抽点成。听说有一年60w的，就靠淘宝店。]]></title>
+            <description><![CDATA[<img src="https://cdnv2.ruguoapp.com/icons/link.png" referrerpolicy="no-referrer"><br>                    <a href="https://h5.m.taobao.com/awp/core/detail.htm?ft=t&amp;id=710702513433">商品详情页</a><br>                <br>软件外包的淘宝店，唉，不知道能不能做起来，想接一些单子，找一些程序员做，自己做中介抽点成。听说有一年60w的，就靠淘宝店。]]></description>
+            <pubDate>Sun, 11 Jun 2023 05:57:54 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/648562625549d1474eb61afc</guid>
+            <link>https://m.okjike.com/originalPosts/648562625549d1474eb61afc</link>
+            
+            
+            
+            <author><![CDATA[李守聪]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[张鑫旭大佬又整活了🐂🍺 用纯CSS码出随机噪点，完美实现老照片效果 🔗https://www.zhangxinxu.com/wordpress/2023/06/css-noise/]]></title>
@@ -89,22 +121,6 @@
         </item>
         
         <item>
-            <title><![CDATA[《Software 2.0》，https://karpathy.medium.com/software-2-0-a64152b37c35，这篇文章读起来有种醍醐灌顶的感觉，作者是 OpenAI 创始团队成员，原特斯拉 AI 部...]]></title>
-            <description><![CDATA[《Software 2.0》，https://karpathy.medium.com/software-2-0-a64152b37c35，这篇文章读起来有种醍醐灌顶的感觉，作者是 OpenAI 创始团队成员，原特斯拉 AI 部门负责人，17 年写的文章，真的十分富有远见。<br><br>他认为未来软件迭代的编程范式由两部分组成：1）定义目标行为的数据集；2）给定代码大致结构（需要填充细节的神经网络结构）。软件 1.0 编写的都是明确的指令，程序运行在理想行为的特定点上，而在软件 2.0 的编程范式中，程序涉及了大量的权重（如 ChatGPT 就有上万亿入参了），人类无法参与编程，能做的就是在给定的行为目标和程序骨架所组成的程序空间中，使用反向传播和随机梯度下降方法搜索可用的程序。<br><br>软件 2.0 下的程序员不负责编写程序，那他们做什么呢？他们的核心工作变成了编辑和扩大数据集，因为只要有足够大的数据集和足够好的程序骨架，理论上是可以找到一个较为靠谱的程序来执行任务的。在特定领域下，通过软件 2.0 编程获得的程序要比你或者我写的代码更好，他提到，就目前（17 年）而言，图像、视频、音频等领域已经是这样了。<br><br>现在去看 ChatGPT/Midjourney/HuggingFace/LangChain 等产品和工具，不正是朝着这个方向在发展么。未来我们的部分工作一定是会被 AI 取代的，我们的角色会发生变化。<br><br>这里有一篇中文翻译版本，可参考阅读：https://ywh1bkansf.feishu.cn/wiki/FFJawIKRpi77JokULCvcjIPBnBv<br><img src="https://cdnv2.ruguoapp.com/Fv7WId-iyUFlE0g6XN7QZV1YxTEfv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 08 Jun 2023 07:01:58 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64817ce6d68c7c800836fc4b</guid>
-            <link>https://m.okjike.com/originalPosts/64817ce6d68c7c800836fc4b</link>
-            
-            
-            
-            <author><![CDATA[Barret李靖]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[真是神器，很多按钮图标什么的，不用自己画，截个图，调整好边距，上传到 https://vectorizer.ai/ ，然后下载 svg 图标，自己再调整颜色，就得到了一个新图标。]]></title>
             <description><![CDATA[<img src="https://cdnv2.ruguoapp.com/FoTcJhNyxgCOOTrQmGSETwiXU2fR.png" referrerpolicy="no-referrer"><br>                    <a href="https://vectorizer.ai/">Trace Pixels To Vectors in Full Color, Fully Automatically, Using AI - Vectorizer.AI</a><br>                <br>真是神器，很多按钮图标什么的，不用自己画，截个图，调整好边距，上传到 https://vectorizer.ai/ ，然后下载 svg 图标，自己再调整颜色，就得到了一个新图标。]]></description>
             <pubDate>Thu, 08 Jun 2023 04:02:46 GMT</pubDate>
@@ -130,22 +146,6 @@
             
             
             <author><![CDATA[阿笠博士]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[给想入门ML的同学强烈推荐Andrej Karpathy的Neural Networks: Zero to Hero系列，14小时从1+1=2到手撸GPT，节奏极佳没有一句多余的内容。 而且代码写的十分美，...]]></title>
-            <description><![CDATA[给想入门ML的同学强烈推荐Andrej Karpathy的Neural Networks: Zero to Hero系列，14小时从1+1=2到手撸GPT，节奏极佳没有一句多余的内容。<br>而且代码写的十分美，看着就是一种享受。有多美呢，第一节课用160行代码不用任何库实现了正反向传播和MLP，每一行代码都逻辑清晰。我愿称之为赛博李白👍]]></description>
-            <pubDate>Wed, 07 Jun 2023 03:05:31 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/647ff3fb3a29529a3bee5bca</guid>
-            <link>https://m.okjike.com/originalPosts/647ff3fb3a29529a3bee5bca</link>
-            
-            
-            
-            <author><![CDATA[12DogGod]]></author>
             
                 
             
