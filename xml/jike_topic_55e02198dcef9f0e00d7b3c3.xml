@@ -21,8 +21,40 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 12 Jun 2023 08:10:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Jun 2023 12:12:32 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[女朋友在程序员心里的地位]]></title>
+            <description><![CDATA[女朋友在程序员心里的地位<br><img src="https://cdnv2.ruguoapp.com/Fj2MkVk39698aVWERV-vb_TyEfhmv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 12 Jun 2023 10:27:26 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6486f30e82ed71e508ac2dc7</guid>
+            <link>https://m.okjike.com/originalPosts/6486f30e82ed71e508ac2dc7</link>
+            
+            
+            
+            <author><![CDATA[旧城以西yx]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[各位大佬知道这是哪个网站吗？ 想去看看，感谢大家！]]></title>
+            <description><![CDATA[各位大佬知道这是哪个网站吗？<br>想去看看，感谢大家！<br><img src="https://cdnv2.ruguoapp.com/Fg9ESbsiPkgSiBVoqMCIMv4zecEWv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 12 Jun 2023 04:52:44 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6486a49cb0f25cc9188b197b</guid>
+            <link>https://m.okjike.com/originalPosts/6486a49cb0f25cc9188b197b</link>
+            
+            
+            
+            <author><![CDATA[Lois_sSIt]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[发现比npm包更坏的东西了，conda坏死了]]></title>
@@ -41,24 +73,8 @@
         </item>
         
         <item>
-            <title><![CDATA[MacBook 主板烧了之后暂时切换到平时用来打游戏的联想拯救者上写代码，老实说要不是 Windows 开发太恶心了我真的会弃用 macOS。 恶心的几个点： 1、环境变量问题...]]></title>
-            <description><![CDATA[MacBook 主板烧了之后暂时切换到平时用来打游戏的联想拯救者上写代码，老实说要不是 Windows 开发太恶心了我真的会弃用 macOS。<br><br>恶心的几个点：<br><br>1、环境变量问题：装完 Node.js 之后，我在终端上已经能看到版本号了，结果 VS Code 里的终端却死活无法识别到可执行命令，即便是关了 VS Code 再打开也不行；<br>2、路径问题：路径补全的时候全是 \ 反斜杠，Fxxk you 反斜杠；<br>3、WSL 代理问题：心想 Windows 用不起我还躲不起？换个 WSL 完事了。但想让 WSL 通过局域网连接到 Windows 上的代理，真的是折腾得要死；<br>4、PowerShell：功能看起来很多很强大，但默认设置下的使用体验感觉不如 Bash。<br><br>当然，如果能根本上解决掉第三条，那么以上都不是问题，我愿称你 Windows 为最强开发本 😅]]></description>
-            <pubDate>Sun, 11 Jun 2023 13:11:02 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6485c7e6e6d50309fb9048fa</guid>
-            <link>https://m.okjike.com/originalPosts/6485c7e6e6d50309fb9048fa</link>
-            
-            
-            
-            <author><![CDATA[100gle]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[看这段 EO 采访 Notion 的视频，还蛮感慨的。 Ivan 自述裁掉之前员工，选择了去京都专心码代码，非常有魄力。也是那个版本打下了 Notion 文档极致的编辑体验。另...]]></title>
-            <description><![CDATA[看这段 EO 采访 Notion 的视频，还蛮感慨的。<br><br>Ivan 自述裁掉之前员工，选择了去京都专心码代码，非常有魄力。也是那个版本打下了 Notion 文档极致的编辑体验。另外在 Akshay 的访谈中，Notion 2.0 之后，他们专注在打磨 blocks 这个核心功能，另外提供了非常丰富的模板，让用户能够快速上手立马解决实际的问题，这和 Framer 把 Figma 设计稿直接生成网页的做法一样，把用户关注的最核心问题解决掉。所以，识别用户需求是一个很高级的元能力，乔布斯是这方面的专家，他的访谈可以多看看，他总是能洞见问题的本质。<br><video src="https://videocdn.jellow.site/lma31QPWsuQs1UdQ-tRcaIPokM3R.mp4?sign=37c70076e62ac4757632f65fd94d384a&amp;t=6486d7f4" controls=""></video>]]></description>
+            <description><![CDATA[看这段 EO 采访 Notion 的视频，还蛮感慨的。<br><br>Ivan 自述裁掉之前员工，选择了去京都专心码代码，非常有魄力。也是那个版本打下了 Notion 文档极致的编辑体验。另外在 Akshay 的访谈中，Notion 2.0 之后，他们专注在打磨 blocks 这个核心功能，另外提供了非常丰富的模板，让用户能够快速上手立马解决实际的问题，这和 Framer 把 Figma 设计稿直接生成网页的做法一样，把用户关注的最核心问题解决掉。所以，识别用户需求是一个很高级的元能力，乔布斯是这方面的专家，他的访谈可以多看看，他总是能洞见问题的本质。<br><video src="https://videocdn.jellow.site/lma31QPWsuQs1UdQ-tRcaIPokM3R.mp4?sign=47272e9c7c58175283f1d81dc268db43&amp;t=648712a7" controls=""></video>]]></description>
             <pubDate>Sun, 11 Jun 2023 11:00:09 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6485a939e6d50309fb8ce548</guid>
             <link>https://m.okjike.com/originalPosts/6485a939e6d50309fb8ce548</link>
@@ -130,22 +146,6 @@
             
             
             <author><![CDATA[是哪的鸭]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[无题]]></title>
-            <description><![CDATA[<br><img src="https://cdnv2.ruguoapp.com/FnL1KWGHv7Uo--6SqdkslwxZgBM3v3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 07 Jun 2023 13:52:06 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64808b86395998dfd41a60b0</guid>
-            <link>https://m.okjike.com/originalPosts/64808b86395998dfd41a60b0</link>
-            
-            
-            
-            <author><![CDATA[阿笠博士]]></author>
             
                 
             
