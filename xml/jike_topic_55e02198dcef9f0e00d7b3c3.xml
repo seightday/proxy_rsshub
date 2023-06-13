@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 13 Jun 2023 10:43:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jun 2023 14:56:38 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[即友们，我这里有个关于做小程序的简单需求，请问大概要多少钱呀？ 简单来说就是用户通过小程序内表单上传内容，然后小程序中上传出来就行了，原型链接发在评论...]]></title>
+            <description><![CDATA[即友们，我这里有个关于做小程序的简单需求，请问大概要多少钱呀？<br><br>简单来说就是用户通过小程序内表单上传内容，然后小程序中上传出来就行了，原型链接发在评论区了。<br><br>可以做的朋友可以联系下俺感谢🙏]]></description>
+            <pubDate>Tue, 13 Jun 2023 09:40:21 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64883985946fef1b4a2582f4</guid>
+            <link>https://m.okjike.com/originalPosts/64883985946fef1b4a2582f4</link>
+            
+            
+            
+            <author><![CDATA[汤来]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[如果那段代码用copilot写，而非手敲，就不会把(ax, ay, az)写成(ax, ay, ax)。 就这，修了3个小时。 我是傻逼。]]></title>
@@ -106,7 +122,7 @@
         
         <item>
             <title><![CDATA[看这段 EO 采访 Notion 的视频，还蛮感慨的。 Ivan 自述裁掉之前员工，选择了去京都专心码代码，非常有魄力。也是那个版本打下了 Notion 文档极致的编辑体验。另...]]></title>
-            <description><![CDATA[看这段 EO 采访 Notion 的视频，还蛮感慨的。<br><br>Ivan 自述裁掉之前员工，选择了去京都专心码代码，非常有魄力。也是那个版本打下了 Notion 文档极致的编辑体验。另外在 Akshay 的访谈中，Notion 2.0 之后，他们专注在打磨 blocks 这个核心功能，另外提供了非常丰富的模板，让用户能够快速上手立马解决实际的问题，这和 Framer 把 Figma 设计稿直接生成网页的做法一样，把用户关注的最核心问题解决掉。所以，识别用户需求是一个很高级的元能力，乔布斯是这方面的专家，他的访谈可以多看看，他总是能洞见问题的本质。<br><video src="https://videocdn.jellow.site/lma31QPWsuQs1UdQ-tRcaIPokM3R.mp4?sign=1db226241020a9d98758a750092cfc2c&amp;t=64884edd" controls=""></video>]]></description>
+            <description><![CDATA[看这段 EO 采访 Notion 的视频，还蛮感慨的。<br><br>Ivan 自述裁掉之前员工，选择了去京都专心码代码，非常有魄力。也是那个版本打下了 Notion 文档极致的编辑体验。另外在 Akshay 的访谈中，Notion 2.0 之后，他们专注在打磨 blocks 这个核心功能，另外提供了非常丰富的模板，让用户能够快速上手立马解决实际的问题，这和 Framer 把 Figma 设计稿直接生成网页的做法一样，把用户关注的最核心问题解决掉。所以，识别用户需求是一个很高级的元能力，乔布斯是这方面的专家，他的访谈可以多看看，他总是能洞见问题的本质。<br><video src="https://videocdn.jellow.site/lma31QPWsuQs1UdQ-tRcaIPokM3R.mp4?sign=4c17cce9d54766ea2501ad862482c97a&amp;t=64888935" controls=""></video>]]></description>
             <pubDate>Sun, 11 Jun 2023 11:00:09 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6485a939e6d50309fb8ce548</guid>
             <link>https://m.okjike.com/originalPosts/6485a939e6d50309fb8ce548</link>
@@ -130,22 +146,6 @@
             
             
             <author><![CDATA[BigYe程普]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[做了一个自动同步微信读书书评想法等信息到 Notion 的插件。 前端菜鸡，页面有点丑...将就用。 会代码的童鞋建议拉取代码本地运行。 体验地址：http://wereadton...]]></title>
-            <description><![CDATA[做了一个自动同步微信读书书评想法等信息到 Notion 的插件。<br>前端菜鸡，页面有点丑...将就用。<br>会代码的童鞋建议拉取代码本地运行。<br><br>体验地址：http://wereadtonotion.yaya.run/<br>项目地址：https://github.com/DuckDuck88/weread2notion<br><img src="https://cdnv2.ruguoapp.com/FqUDiGhQS305M4Qyy_CdkSTubXvFv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 09 Jun 2023 07:39:35 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6482d737e6d50309fb492c0b</guid>
-            <link>https://m.okjike.com/originalPosts/6482d737e6d50309fb492c0b</link>
-            
-            
-            
-            <author><![CDATA[是哪的鸭]]></author>
             
                 
             
