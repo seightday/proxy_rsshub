@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 14 Jun 2023 03:29:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Jun 2023 07:34:42 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[按照 OpenAI 今天发布的 Function calling 示例，我写了个搜索电影的插件：search_movies，支持按最新、最热、最高分和按年份搜索电影。以下是根据用户不同的提...]]></title>
+            <description><![CDATA[按照 OpenAI 今天发布的 Function calling 示例，我写了个搜索电影的插件：search_movies，支持按最新、最热、最高分和按年份搜索电影。以下是根据用户不同的提问信息，gpt 匹配到插件时的不同参数响应。<br><br>如果提问内容跟电影无关，就不会匹配插件，而是直接输出内容。<br><br>可以看到，Function calling 的能力还是很强的，第三方应用集成插件将会变得非常简单。<br><br>SDK地址: https://github.com/chatgp/gpt3<br><img src="https://cdnv2.ruguoapp.com/FpNJLNboS6Vo1OfrZ174ZDArW16Av3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FtHDa9HB8UUY-wBMH5GgLE_ivmVXv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FnM2hvC-_c7QbjJOXddp9Q4MCVupv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FiPqYdLcyaNyKjdXum2fhQWE35emv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 14 Jun 2023 05:37:00 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/648951fc3a29529a3bdb1253</guid>
+            <link>https://m.okjike.com/originalPosts/648951fc3a29529a3bdb1253</link>
+            
+            
+            
+            <author><![CDATA[艾逗笔]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[今天 OpenAI 更新了gpt-3.5 和 gpt-4 的 API 能力，其中 Function Call 的能力最让第三方开发者惊喜。 以 GPTalk 为例，拆解了一下 Function Call 的使用流程： ...]]></title>
@@ -98,22 +114,6 @@
             
             
             <author><![CDATA[杰克有茶]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[小调查，你身边技术大神们的孩子，是姑娘多，还是小子多？ （我可能发现了什么不得了的事情...）]]></title>
-            <description><![CDATA[小调查，你身边技术大神们的孩子，是姑娘多，还是小子多？<br><br>（我可能发现了什么不得了的事情...）]]></description>
-            <pubDate>Mon, 12 Jun 2023 13:39:13 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64872001b0f25cc9189a3bdc</guid>
-            <link>https://m.okjike.com/originalPosts/64872001b0f25cc9189a3bdc</link>
-            
-            
-            
-            <author><![CDATA[葬花达人鲁智深]]></author>
             
                 
             
