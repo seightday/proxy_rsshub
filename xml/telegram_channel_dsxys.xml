@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
 
   xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
 
@@ -8,7 +8,7 @@
     <channel>
         <title><![CDATA[大师兄影视官方频道 - Telegram Channel]]></title>
         <link>https://t.me/s/dsxys</link>
-        <atom:link href="https://rsshub.app/telegram/channel/dsxys" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub/telegram/channel/dsxys" rel="self" type="application/rss+xml" />
         <description><![CDATA[官网https://dsxys.pro - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -23,8 +23,8 @@
             <link>https://t.me/s/dsxys</link>
         </image>
         
-        <lastBuildDate>Wed, 14 Jun 2023 12:31:48 GMT</lastBuildDate>
-        <ttl>120</ttl>
+        <lastBuildDate>Wed, 14 Jun 2023 16:21:25 GMT</lastBuildDate>
+        <ttl>1</ttl>
         
         <item>
             <title><![CDATA[📄 大师兄影视-v3.2.3-3203.apk - 57.6 MB]]></title>
