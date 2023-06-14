@@ -21,8 +21,40 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 13 Jun 2023 19:00:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Jun 2023 01:20:01 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[关于独立开发者，很有启发的一篇文章，https://blog.futantan.com/book-the-minimalist-entrepreneur，在自己兴趣的基础上，思考如何去帮助他人解决一个切实的问...]]></title>
+            <description><![CDATA[关于独立开发者，很有启发的一篇文章，https://blog.futantan.com/book-the-minimalist-entrepreneur，在自己兴趣的基础上，思考如何去帮助他人解决一个切实的问题，然后围绕这个过程去创作，收获真正的受众，不要大而全，尽量小而美，快速出结果，获得反馈然后迭代。如果不能让自己活下去，这就不是一门好的生意，不要免费。]]></description>
+            <pubDate>Tue, 13 Jun 2023 16:31:13 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/648899d1b0f25cc918c0f02e</guid>
+            <link>https://m.okjike.com/originalPosts/648899d1b0f25cc918c0f02e</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[这是一个分享如何以最佳方式支持国际化的方法，思路来源于 VS Code 源代码。方法如下： 无需实现编写国际化的 key，只需在代码中写入 key + message。例如： loc...]]></title>
+            <description><![CDATA[这是一个分享如何以最佳方式支持国际化的方法，思路来源于 VS Code 源代码。方法如下：<br><br>无需实现编写国际化的 key，只需在代码中写入 key + message。例如：<br>localize("setting.auto_on_title", "Auto On")<br><br>编写完成后，使用 Babel 解析源代码，分析 AST。找出源码中全部的 localize 调用，提取出 key 和 message。<br>types.isIdentifier(callee) &amp;&amp; callee.name === "localize"<br><br>根据当前全部 key message 列表，生成对应的 en-US.json。<br><br>计算出当前 zh-CN 和 en-US 的差异，生成 ChatGPT prompt。<br><br>-----prompt 开始分割线<br>帮我把下面的 key 翻译一下吧：<br><br>{ 'zh-CN.json': [ 'setting.auto_on_block_list_subtile' ] }<br><br>可以参考下面的英文：<br><br>{ 'setting.auto_on_block_list_subtile': 'The webpage annotation feature will not be automatically enabled on the following webpages.' }<br><br>返回格式为：{ "language.json": { "key": "message" } }<br><br>-----prompt 结束分割线<br><br>使用脚本解析 ChatGPT 返回的结果，生成新的 zh-CN.json 文件。<br><br>我的高亮插件就是以这种方式实现国际化的，暂时没时间把脚本抽出来当开源库，  直接看源码吧。<br><br>https://github.com/hamsterbase/hamsterbase-highlighter/blob/main/scripts/format.mts]]></description>
+            <pubDate>Tue, 13 Jun 2023 14:52:32 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/648882b03a29529a3bc89619</guid>
+            <link>https://m.okjike.com/originalPosts/648882b03a29529a3bc89619</link>
+            
+            
+            
+            <author><![CDATA[HamsterBase]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[即友们，我这里有个关于做小程序的简单需求，请问大概要多少钱呀？ 简单来说就是用户通过小程序内表单上传内容，然后小程序中上传出来就行了，原型链接发在评论...]]></title>
@@ -89,22 +121,6 @@
         </item>
         
         <item>
-            <title><![CDATA[各位大佬知道这是哪个网站吗？ 想去看看，感谢大家！]]></title>
-            <description><![CDATA[各位大佬知道这是哪个网站吗？<br>想去看看，感谢大家！<br><img src="https://cdnv2.ruguoapp.com/Fg9ESbsiPkgSiBVoqMCIMv4zecEWv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 12 Jun 2023 04:52:44 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6486a49cb0f25cc9188b197b</guid>
-            <link>https://m.okjike.com/originalPosts/6486a49cb0f25cc9188b197b</link>
-            
-            
-            
-            <author><![CDATA[Lois_sSIt]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[发现比npm包更坏的东西了，conda坏死了]]></title>
             <description><![CDATA[发现比npm包更坏的东西了，conda坏死了]]></description>
             <pubDate>Sun, 11 Jun 2023 18:37:35 GMT</pubDate>
@@ -114,22 +130,6 @@
             
             
             <author><![CDATA[来路不明的扛把子]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[看这段 EO 采访 Notion 的视频，还蛮感慨的。 Ivan 自述裁掉之前员工，选择了去京都专心码代码，非常有魄力。也是那个版本打下了 Notion 文档极致的编辑体验。另...]]></title>
-            <description><![CDATA[看这段 EO 采访 Notion 的视频，还蛮感慨的。<br><br>Ivan 自述裁掉之前员工，选择了去京都专心码代码，非常有魄力。也是那个版本打下了 Notion 文档极致的编辑体验。另外在 Akshay 的访谈中，Notion 2.0 之后，他们专注在打磨 blocks 这个核心功能，另外提供了非常丰富的模板，让用户能够快速上手立马解决实际的问题，这和 Framer 把 Figma 设计稿直接生成网页的做法一样，把用户关注的最核心问题解决掉。所以，识别用户需求是一个很高级的元能力，乔布斯是这方面的专家，他的访谈可以多看看，他总是能洞见问题的本质。<br><video src="https://videocdn.jellow.site/lma31QPWsuQs1UdQ-tRcaIPokM3R.mp4?sign=5fac83cbcae3375606e667f84cb96518&amp;t=6488c16a" controls=""></video>]]></description>
-            <pubDate>Sun, 11 Jun 2023 11:00:09 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6485a939e6d50309fb8ce548</guid>
-            <link>https://m.okjike.com/originalPosts/6485a939e6d50309fb8ce548</link>
-            
-            
-            
-            <author><![CDATA[张小吉]]></author>
             
                 
             
