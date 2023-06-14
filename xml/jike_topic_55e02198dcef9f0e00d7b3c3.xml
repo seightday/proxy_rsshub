@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 14 Jun 2023 07:34:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Jun 2023 11:38:38 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -34,6 +34,22 @@
             
             
             <author><![CDATA[艾逗笔]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[实测，把模型从 gpt-3.5-turbo 换成 gpt-3.5-turbo-0613 响应速度更快，耗时更短。 而且输入还更便宜 25% 。 代码中其它任何地方都不改，只改模型名称即可。]]></title>
+            <description><![CDATA[实测，把模型从 gpt-3.5-turbo 换成 gpt-3.5-turbo-0613 响应速度更快，耗时更短。<br>而且输入还更便宜 25% 。<br>代码中其它任何地方都不改，只改模型名称即可。]]></description>
+            <pubDate>Wed, 14 Jun 2023 03:06:19 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64892eab82ed71e508e34747</guid>
+            <link>https://m.okjike.com/originalPosts/64892eab82ed71e508e34747</link>
+            
+            
+            
+            <author><![CDATA[哥飞]]></author>
             
                 
             
@@ -162,22 +178,6 @@
             
             
             <author><![CDATA[Stanaaa]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[🚀 我们的富文本 CRDT 算法库 crdt-richtext 开源啦！ 它集成了这两年最新的 CRDT 算法 Peritext 和 Fugue。其中 Peritext CRDT 能够更合理地合并富文本的并发...]]></title>
-            <description><![CDATA[🚀 我们的富文本 CRDT 算法库 crdt-richtext 开源啦！ <br>它集成了这两年最新的 CRDT 算法 Peritext 和 Fugue。其中 Peritext CRDT 能够更合理地合并富文本的并发编辑，而 Fugue 巧妙地解决了列表 CRDTs 中的 interleaving 问题。<br>crdt-richtext 使用了一系列优化手段，使这种组合更加高效，详情见博客 https://zhuanlan.zhihu.com/p/629580388]]></description>
-            <pubDate>Mon, 15 May 2023 10:51:19 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64620ea7feb4c7ae9c1023b3</guid>
-            <link>https://m.okjike.com/originalPosts/64620ea7feb4c7ae9c1023b3</link>
-            
-            
-            
-            <author><![CDATA[zxch3n]]></author>
             
                 
             
