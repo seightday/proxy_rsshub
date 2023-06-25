@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sun, 25 Jun 2023 14:21:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jun 2023 18:21:29 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -34,6 +34,38 @@
             
             
             <author><![CDATA[杰克有茶]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[我终于理解为什么app总是催着用户更新版本了。 😭一直不升级的话，只要老的流量还不能直接忽略，还得去维护老接口。如果版本太陈旧接口重构了，往往一个功能要...]]></title>
+            <description><![CDATA[我终于理解为什么app总是催着用户更新版本了。<br><br>😭一直不升级的话，只要老的流量还不能直接忽略，还得去维护老接口。如果版本太陈旧接口重构了，往往一个功能要适配上双份。<br><br>我一定积极升级，攒点功德。]]></description>
+            <pubDate>Sun, 25 Jun 2023 10:08:32 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/649812203a29529a3b410562</guid>
+            <link>https://m.okjike.com/originalPosts/649812203a29529a3b410562</link>
+            
+            
+            
+            <author><![CDATA[Lenvia]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[微信 Donut 多端开发工具，宣称可以把小程序编译为 Android 和 iOS App 。 但实际操作时，要求你选择在微信开放平台 https://open.weixin.qq.com/ 已经创建好的...]]></title>
+            <description><![CDATA[微信 Donut 多端开发工具，宣称可以把小程序编译为 Android 和 iOS App 。<br>但实际操作时，要求你选择在微信开放平台 https://open.weixin.qq.com/ 已经创建好的移动应用。<br>当然，如果你没有创建过应用，也可以选择“复用多端应用快速创建”，扫码后可以选择一个小程序，会复用小程序的名称和icon等信息，剩下的都要你自己填。<br>要填哪些呢？要填应用官网，应用运行流程截图，和应用签名。<br>其中应用官网输入框有提示，“非必填，如不填默认以小程序作为官网内容进行审核”，所以我就没填。<br>应用流程截图，我App还没生成呢，没截图啊，就去小程序截图了几个界面传上去了。<br>提交审核后，半天过去，告诉你，审核不通过，原因是：<br>1、应用官网没有描述应用详细信息，内容排版不对；<br>2、提交流程图不规范，不能是小程序截图。<br><br>对照着看，懂了，还是得做一个官网，另外还需要画一个流程交互图，不能是小程序截图。<br>总的来说，细节挺多，不踩坑根本不知道。<br><img src="https://cdnv2.ruguoapp.com/FiB-Kq4h9RbEoeUIJkwlDBnuvI-rv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sun, 25 Jun 2023 06:54:49 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6497e4b972699323c169c256</guid>
+            <link>https://m.okjike.com/originalPosts/6497e4b972699323c169c256</link>
+            
+            
+            
+            <author><![CDATA[哥飞]]></author>
             
                 
             
@@ -74,7 +106,7 @@
         
         <item>
             <title><![CDATA[良好坐姿的重要性]]></title>
-            <description><![CDATA[良好坐姿的重要性<br><video src="https://videocdn.jellow.site/Fmrk-dpTIiDhAiG8AQ8D8YkVzdtb.mp4?sign=e0a5d2e956a6b19486ecd9746af268cc&amp;t=64985424" controls=""></video>]]></description>
+            <description><![CDATA[良好坐姿的重要性<br><video src="https://videocdn.jellow.site/Fmrk-dpTIiDhAiG8AQ8D8YkVzdtb.mp4?sign=261c59bca79a2fe8cc946c38dda418e6&amp;t=64988c8b" controls=""></video>]]></description>
             <pubDate>Sat, 24 Jun 2023 07:37:15 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/64969d2bfac280fd49d4b649</guid>
             <link>https://m.okjike.com/originalPosts/64969d2bfac280fd49d4b649</link>
@@ -82,38 +114,6 @@
             
             
             <author><![CDATA[Goohuogo]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[如果想追求更快的开发效率的话，还是推荐大家用 neovim 而非 vscode。 当然，我并不否认 vscode 的易用性，但当你想更进一步，尤其是需要与 terminal 有更多的互...]]></title>
-            <description><![CDATA[如果想追求更快的开发效率的话，还是推荐大家用 neovim 而非 vscode。<br><br>当然，我并不否认 vscode 的易用性，但当你想更进一步，尤其是需要与 terminal 有更多的互操作的时候，还是更推荐大家使用 vim/neovim 之类的 terminal editor。<br><br>比如，你想要左边半个屏幕来编辑代码，右上角 显示 htop，右下角显示命令执行的 log。同时又希望能快速切换到另一屏，而另一屏展示的是另一个 project。<br><br>上面的操作想用 vscode 做到非常麻烦，需要多个应用协同并且还要分屏和切屏。但是用neovim+zellij （或是更原生的 vim+tmux) 则非常简单，只需要两三个组合键就可以随意切换了。<br><br>并且现在这类 terminal editor 也在降低自己的上手成本，比如 neovim 社区的 lazyvim 就是一整套开箱即用的编辑器，半小时就能用上（当然想用的熟悉就得下一番功夫了）]]></description>
-            <pubDate>Sat, 24 Jun 2023 06:44:22 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/649690c672699323c149bc5a</guid>
-            <link>https://m.okjike.com/originalPosts/649690c672699323c149bc5a</link>
-            
-            
-            
-            <author><![CDATA[KarlLM]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[面试押题王新增默认岗位一键选择，来尝鲜的小伙伴不用去找jd了，欢迎体验，分享~ yatiwang.chat/?id=20]]></title>
-            <description><![CDATA[面试押题王新增默认岗位一键选择，来尝鲜的小伙伴不用去找jd了，欢迎体验，分享~<br>yatiwang.chat/?id=20<br><video src="https://videocdn.jellow.site/lmXzOSDDkleNJpJXO1HQ_2Z8B9ET.mp4?sign=f993147d73444b00fa72bceeb4b09801&amp;t=64985424" controls=""></video>]]></description>
-            <pubDate>Sat, 24 Jun 2023 02:34:24 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6496563086c3544bb2b523ee</guid>
-            <link>https://m.okjike.com/originalPosts/6496563086c3544bb2b523ee</link>
-            
-            
-            
-            <author><![CDATA[押题王XIAOMING]]></author>
             
                 
             
