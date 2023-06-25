@@ -21,35 +21,19 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 14 Jun 2023 15:42:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jun 2023 10:21:12 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
-            <title><![CDATA[收到Rust社区送的螃蟹们 一部分留给组织 一部分送给开源社区的好朋友们 比如，Apache]]></title>
-            <description><![CDATA[收到Rust社区送的螃蟹们<br>一部分留给组织<br>一部分送给开源社区的好朋友们<br>比如，Apache<br><img src="https://cdnv2.ruguoapp.com/Fp6EJexh859PTxokGI4GpLdP9xSgv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 14 Jun 2023 13:01:12 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6489ba18395998dfd40016fd</guid>
-            <link>https://m.okjike.com/originalPosts/6489ba18395998dfd40016fd</link>
+            <title><![CDATA[Obsidian的dataview插件太强大了。请收下我的膝盖。]]></title>
+            <description><![CDATA[Obsidian的dataview插件太强大了。请收下我的膝盖。]]></description>
+            <pubDate>Sun, 25 Jun 2023 04:07:37 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6497bd89671f59a7f2e8086b</guid>
+            <link>https://m.okjike.com/originalPosts/6497bd89671f59a7f2e8086b</link>
             
             
             
-            <author><![CDATA[阿法兔]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[按照 OpenAI 今天发布的 Function calling 示例，我写了个搜索电影的插件：search_movies，支持按最新、最热、最高分和按年份搜索电影。以下是根据用户不同的提...]]></title>
-            <description><![CDATA[按照 OpenAI 今天发布的 Function calling 示例，我写了个搜索电影的插件：search_movies，支持按最新、最热、最高分和按年份搜索电影。以下是根据用户不同的提问信息，gpt 匹配到插件时的不同参数响应。<br><br>如果提问内容跟电影无关，就不会匹配插件，而是直接输出内容。<br><br>可以看到，Function calling 的能力还是很强的，第三方应用集成插件将会变得非常简单。<br><br>SDK地址: https://github.com/chatgp/gpt3<br><img src="https://cdnv2.ruguoapp.com/FpNJLNboS6Vo1OfrZ174ZDArW16Av3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FtHDa9HB8UUY-wBMH5GgLE_ivmVXv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FnM2hvC-_c7QbjJOXddp9Q4MCVupv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FiPqYdLcyaNyKjdXum2fhQWE35emv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 14 Jun 2023 05:37:00 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/648951fc3a29529a3bdb1253</guid>
-            <link>https://m.okjike.com/originalPosts/648951fc3a29529a3bdb1253</link>
-            
-            
-            
-            <author><![CDATA[艾逗笔]]></author>
+            <author><![CDATA[扎克爱思]]></author>
             
                 
             
@@ -57,75 +41,11 @@
         </item>
         
         <item>
-            <title><![CDATA[实测，把模型从 gpt-3.5-turbo 换成 gpt-3.5-turbo-0613 响应速度更快，耗时更短。 而且输入还更便宜 25% 。 代码中其它任何地方都不改，只改模型名称即可。]]></title>
-            <description><![CDATA[实测，把模型从 gpt-3.5-turbo 换成 gpt-3.5-turbo-0613 响应速度更快，耗时更短。<br>而且输入还更便宜 25% 。<br>代码中其它任何地方都不改，只改模型名称即可。]]></description>
-            <pubDate>Wed, 14 Jun 2023 03:06:19 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64892eab82ed71e508e34747</guid>
-            <link>https://m.okjike.com/originalPosts/64892eab82ed71e508e34747</link>
-            
-            
-            
-            <author><![CDATA[哥飞]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[今天 OpenAI 更新了gpt-3.5 和 gpt-4 的 API 能力，其中 Function Call 的能力最让第三方开发者惊喜。 以 GPTalk 为例，拆解了一下 Function Call 的使用流程： ...]]></title>
-            <description><![CDATA[今天 OpenAI 更新了gpt-3.5 和 gpt-4 的 API 能力，其中 Function Call 的能力最让第三方开发者惊喜。<br><br>以 GPTalk 为例，拆解了一下 Function Call 的使用流程：<br><br>1. 用户提问。比如：推荐 3 部最近上映的电影；<br>2. 加载插件。GPTalk 获取用户启用的插件，比如：豆瓣电影、谷歌搜索、淘宝商品；<br>3. 请求转换。GPTalk 带上用户提问、带上启用的插件列表，请求 OpenAI 的接口；<br>4. 匹配插件。OpenAPI 根据提问和插件描述信息，给出最佳匹配插件建议，响应标准化的插件调用参数，比如：{"插件名":"豆瓣电影","插件输入": "top3, movies"}；<br>5. 调用插件。GPTalk 根据 OpenAI 响应的匹配插件和调用参数，决定对 豆瓣电影 这个插件的 API 发起请求；<br>6. 插件响应。GPTalk 获取到 豆瓣电影 这个插件的标准响应数据，比如：{"movies": ["xxx","xxx","xxx"]};<br>7. 请求转换。GPTalk 把用户提问原文、匹配到的插件信息、插件响应内容带上一起请求 OpenAI 的接口；<br>8. 转换输出。OpenAI 根据用户提问信息和插件响应信息，转换成用户好理解的文本内容，比如：content: 亲，给你推荐最近上映的3部电影为：xxx，xxx，xxx；<br>9. 回复用户。GPTalk 把 OpenAI 转换后的文本信息回复给用户。<br><br>可以看到，Function Call 能力可以把非标准的输入输出转换成标准的输入输出，结合插件API的调用，让 GPT 联网检索变得简单，也能完成一些流程化的工作，比如调用 email 接口给指定用户发邮件等。<br><br>第三方应用集成第三方插件，未来可期。😏<br><img src="https://cdnv2.ruguoapp.com/FliZ2Dp7A2WPz54Ev-GpP8LZ7Ynlv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 14 Jun 2023 02:08:15 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6489210ed0d79a50956ab1dd</guid>
-            <link>https://m.okjike.com/originalPosts/6489210ed0d79a50956ab1dd</link>
-            
-            
-            
-            <author><![CDATA[艾逗笔]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[关于独立开发者，很有启发的一篇文章，https://blog.futantan.com/book-the-minimalist-entrepreneur，在自己兴趣的基础上，思考如何去帮助他人解决一个切实的问...]]></title>
-            <description><![CDATA[关于独立开发者，很有启发的一篇文章，https://blog.futantan.com/book-the-minimalist-entrepreneur，在自己兴趣的基础上，思考如何去帮助他人解决一个切实的问题，然后围绕这个过程去创作，收获真正的受众，不要大而全，尽量小而美，快速出结果，获得反馈然后迭代。如果不能让自己活下去，这就不是一门好的生意，不要免费。]]></description>
-            <pubDate>Tue, 13 Jun 2023 16:31:13 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/648899d1b0f25cc918c0f02e</guid>
-            <link>https://m.okjike.com/originalPosts/648899d1b0f25cc918c0f02e</link>
-            
-            
-            
-            <author><![CDATA[Barret李靖]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[这是一个分享如何以最佳方式支持国际化的方法，思路来源于 VS Code 源代码。方法如下： 无需实现编写国际化的 key，只需在代码中写入 key + message。例如： loc...]]></title>
-            <description><![CDATA[这是一个分享如何以最佳方式支持国际化的方法，思路来源于 VS Code 源代码。方法如下：<br><br>无需实现编写国际化的 key，只需在代码中写入 key + message。例如：<br>localize("setting.auto_on_title", "Auto On")<br><br>编写完成后，使用 Babel 解析源代码，分析 AST。找出源码中全部的 localize 调用，提取出 key 和 message。<br>types.isIdentifier(callee) &amp;&amp; callee.name === "localize"<br><br>根据当前全部 key message 列表，生成对应的 en-US.json。<br><br>计算出当前 zh-CN 和 en-US 的差异，生成 ChatGPT prompt。<br><br>-----prompt 开始分割线<br>帮我把下面的 key 翻译一下吧：<br><br>{ 'zh-CN.json': [ 'setting.auto_on_block_list_subtile' ] }<br><br>可以参考下面的英文：<br><br>{ 'setting.auto_on_block_list_subtile': 'The webpage annotation feature will not be automatically enabled on the following webpages.' }<br><br>返回格式为：{ "language.json": { "key": "message" } }<br><br>-----prompt 结束分割线<br><br>使用脚本解析 ChatGPT 返回的结果，生成新的 zh-CN.json 文件。<br><br>我的高亮插件就是以这种方式实现国际化的，暂时没时间把脚本抽出来当开源库，  直接看源码吧。<br><br>https://github.com/hamsterbase/hamsterbase-highlighter/blob/main/scripts/format.mts]]></description>
-            <pubDate>Tue, 13 Jun 2023 14:52:32 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/648882b03a29529a3bc89619</guid>
-            <link>https://m.okjike.com/originalPosts/648882b03a29529a3bc89619</link>
-            
-            
-            
-            <author><![CDATA[HamsterBase]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[如果那段代码用copilot写，而非手敲，就不会把(ax, ay, az)写成(ax, ay, ax)。 就这，修了3个小时。 我是傻逼。]]></title>
-            <description><![CDATA[如果那段代码用copilot写，而非手敲，就不会把(ax, ay, az)写成(ax, ay, ax)。<br>就这，修了3个小时。<br>我是傻逼。]]></description>
-            <pubDate>Tue, 13 Jun 2023 03:13:30 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6487deda2378062867fe5a5f</guid>
-            <link>https://m.okjike.com/originalPosts/6487deda2378062867fe5a5f</link>
+            <title><![CDATA[零基础编程入门决定教写函数： 1. 文件加密 2. 画线 3. 暴力排序 4. 数独生成/解谜 然后教控制： 1. 红绿灯 2. 贪吃蛇 3. 猜数字 4. 电梯模拟 5. 接着教应用： 1...]]></title>
+            <description><![CDATA[零基础编程入门决定教写函数：<br>1. 文件加密<br>2. 画线<br>3. 暴力排序<br>4. 数独生成/解谜<br><br>然后教控制：<br>1. 红绿灯<br>2. 贪吃蛇<br>3. 猜数字<br>4. 电梯模拟<br>5. <br><br>接着教应用：<br>1. 搭个人网站<br>2. <br><br>（有建议的欢迎补充）]]></description>
+            <pubDate>Sat, 24 Jun 2023 15:37:10 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64970da682ed71e508536d1b</guid>
+            <link>https://m.okjike.com/originalPosts/64970da682ed71e508536d1b</link>
             
             
             
@@ -137,31 +57,15 @@
         </item>
         
         <item>
-            <title><![CDATA[女朋友在程序员心里的地位]]></title>
-            <description><![CDATA[女朋友在程序员心里的地位<br><img src="https://cdnv2.ruguoapp.com/Fj2MkVk39698aVWERV-vb_TyEfhmv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 12 Jun 2023 10:27:26 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6486f30e82ed71e508ac2dc7</guid>
-            <link>https://m.okjike.com/originalPosts/6486f30e82ed71e508ac2dc7</link>
+            <title><![CDATA[无题]]></title>
+            <description><![CDATA[<br><img src="https://cdnv2.ruguoapp.com/FmEwxouSxM-nNnsaTQnppuaL6IKGv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sat, 24 Jun 2023 11:35:13 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6496d4f182ed71e508444fda</guid>
+            <link>https://m.okjike.com/originalPosts/6496d4f182ed71e508444fda</link>
             
             
             
-            <author><![CDATA[旧城以西yx]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[张鑫旭大佬又整活了🐂🍺 用纯CSS码出随机噪点，完美实现老照片效果 🔗https://www.zhangxinxu.com/wordpress/2023/06/css-noise/]]></title>
-            <description><![CDATA[张鑫旭大佬又整活了🐂🍺<br>用纯CSS码出随机噪点，完美实现老照片效果<br>🔗https://www.zhangxinxu.com/wordpress/2023/06/css-noise/<br><img src="https://cdnv2.ruguoapp.com/Fuv0sNTfObvFq6Ui2cKKXuKOkxzxv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 10 Jun 2023 13:23:25 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6484794de6d50309fb716111</guid>
-            <link>https://m.okjike.com/originalPosts/6484794de6d50309fb716111</link>
-            
-            
-            
-            <author><![CDATA[BigYe程普]]></author>
+            <author><![CDATA[二阶堂不是红丸]]></author>
             
                 
             
@@ -169,15 +73,111 @@
         </item>
         
         <item>
-            <title><![CDATA[有没有想要学习 Python，但不知道从哪里开始的朋友们，不如试试我最近做的一个网站 GPYTHON😉。它是一个基于 AI 的 Python 在线学习平台，里面内置了 AI 助手...]]></title>
-            <description><![CDATA[有没有想要学习 Python，但不知道从哪里开始的朋友们，不如试试我最近做的一个网站 GPYTHON😉。它是一个基于 AI 的 Python 在线学习平台，里面内置了 AI 助手，你可以随时随地不懂就问。<br>不仅如此，里面还内置了在线代码运行模块，允许你随时修改示例代码，一键运行，一键查错。AI 会提供给你最及时的 debug 指导，帮助你解决学习过程中的难题。<br>链接在这里：https://gpython.aibang.run，欢迎大家体验并提出建议（我自己也知道还有好多 bug），希望这个小网站能帮助喜欢 Python 的小伙伴们真的能学会 Python，更好的提高学习效率🎉。<br><img src="https://cdnv2.ruguoapp.com/FrZ2GblQuZe5vI1ll7Vt7GuFP4qzv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 06 Jun 2023 04:34:21 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/647eb74df039ad00d6df0d7c</guid>
-            <link>https://m.okjike.com/originalPosts/647eb74df039ad00d6df0d7c</link>
+            <title><![CDATA[良好坐姿的重要性]]></title>
+            <description><![CDATA[良好坐姿的重要性<br><video src="https://videocdn.jellow.site/Fmrk-dpTIiDhAiG8AQ8D8YkVzdtb.mp4?sign=a930c624d05a11536efd57a70c3de0d6&amp;t=64981bed" controls=""></video>]]></description>
+            <pubDate>Sat, 24 Jun 2023 07:37:15 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64969d2bfac280fd49d4b649</guid>
+            <link>https://m.okjike.com/originalPosts/64969d2bfac280fd49d4b649</link>
             
             
             
-            <author><![CDATA[Stanaaa]]></author>
+            <author><![CDATA[Goohuogo]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[如果想追求更快的开发效率的话，还是推荐大家用 neovim 而非 vscode。 当然，我并不否认 vscode 的易用性，但当你想更进一步，尤其是需要与 terminal 有更多的互...]]></title>
+            <description><![CDATA[如果想追求更快的开发效率的话，还是推荐大家用 neovim 而非 vscode。<br><br>当然，我并不否认 vscode 的易用性，但当你想更进一步，尤其是需要与 terminal 有更多的互操作的时候，还是更推荐大家使用 vim/neovim 之类的 terminal editor。<br><br>比如，你想要左边半个屏幕来编辑代码，右上角 显示 htop，右下角显示命令执行的 log。同时又希望能快速切换到另一屏，而另一屏展示的是另一个 project。<br><br>上面的操作想用 vscode 做到非常麻烦，需要多个应用协同并且还要分屏和切屏。但是用neovim+zellij （或是更原生的 vim+tmux) 则非常简单，只需要两三个组合键就可以随意切换了。<br><br>并且现在这类 terminal editor 也在降低自己的上手成本，比如 neovim 社区的 lazyvim 就是一整套开箱即用的编辑器，半小时就能用上（当然想用的熟悉就得下一番功夫了）]]></description>
+            <pubDate>Sat, 24 Jun 2023 06:44:22 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/649690c672699323c149bc5a</guid>
+            <link>https://m.okjike.com/originalPosts/649690c672699323c149bc5a</link>
+            
+            
+            
+            <author><![CDATA[KarlLM]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[面试押题王新增默认岗位一键选择，来尝鲜的小伙伴不用去找jd了，欢迎体验，分享~ yatiwang.chat/?id=20]]></title>
+            <description><![CDATA[面试押题王新增默认岗位一键选择，来尝鲜的小伙伴不用去找jd了，欢迎体验，分享~<br>yatiwang.chat/?id=20<br><video src="https://videocdn.jellow.site/lmXzOSDDkleNJpJXO1HQ_2Z8B9ET.mp4?sign=bb0a0af0532069e08223d705469fcfed&amp;t=64981a02" controls=""></video>]]></description>
+            <pubDate>Sat, 24 Jun 2023 02:34:24 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6496563086c3544bb2b523ee</guid>
+            <link>https://m.okjike.com/originalPosts/6496563086c3544bb2b523ee</link>
+            
+            
+            
+            <author><![CDATA[押题王XIAOMING]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[说说近十年来、你在Linux 中最受用的命令 我先来 sleep 30]]></title>
+            <description><![CDATA[说说近十年来、你在Linux 中最受用的命令<br><br>我先来 sleep 30<br><img src="https://cdnv2.ruguoapp.com/Fsq_2S5zE9gptTo6hrv-Vqp3FEPtv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 23 Jun 2023 14:11:05 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6495a7f9b0f25cc918fe6d1b</guid>
+            <link>https://m.okjike.com/originalPosts/6495a7f9b0f25cc918fe6d1b</link>
+            
+            
+            
+            <author><![CDATA[_虾猫佬_]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[我觉得，js/ts里，应该避免使用spread syntax (...) 来实现mapping的效果；也应该避免使用"_.omit"或类似方法来实现反选"_.pick"的效果。 因为其违反了开闭原则...]]></title>
+            <description><![CDATA[我觉得，js/ts里，应该避免使用spread syntax (...) 来实现mapping的效果；也应该避免使用"_.omit"或类似方法来实现反选"_.pick"的效果。<br>因为其违反了开闭原则中的"闭"，即对修改封闭。应该认清，在代码会不断迭代的前提下，选取object中的abcd字段，并不等同于剔除object中剩下的e字段。这个时候我还是宁愿一个一个赋值过去比较好。]]></description>
+            <pubDate>Mon, 19 Jun 2023 10:59:07 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/649034fb86c3544bb22495b3</guid>
+            <link>https://m.okjike.com/originalPosts/649034fb86c3544bb22495b3</link>
+            
+            
+            
+            <author><![CDATA[柏拉图式控]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[最近在学习function calling替代langchain的可能性和实现方式，非常感谢即刻上颇具开源精神的@哥飞 。 突发奇想测试一下模型对function的实现方式的理解，chathu...]]></title>
+            <description><![CDATA[最近在学习function calling替代langchain的可能性和实现方式，非常感谢即刻上颇具开源精神的@哥飞 。<br>突发奇想测试一下模型对function的实现方式的理解，chathub和侧边栏在对比场景非常实用，感谢@wong2 开发。618还有优惠，推荐一下。<br>https://twitter.com/wong2_x/status/1669309015715905538?cxt=HHwWhIDU4ZLtyaouAAAA<br><img src="https://cdnv2.ruguoapp.com/FtoO4qj7GemV85PtKI02L6dPptbBv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 16 Jun 2023 07:21:36 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/648c0d8060db29056034464b</guid>
+            <link>https://m.okjike.com/originalPosts/648c0d8060db29056034464b</link>
+            
+            
+            
+            <author><![CDATA[呆羊d1eyoang]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[GPT的 function call 让我想起之前做 ins 线下店预定客服bot遇到的问题，客户是文字来预约时间，当时开发这个 GPT 客服 bot 的棘手问题是，他需要额外调用 API来...]]></title>
+            <description><![CDATA[GPT的 function call 让我想起之前做 ins 线下店预定客服bot遇到的问题，客户是文字来预约时间，当时开发这个 GPT 客服 bot 的棘手问题是，他需要额外调用 API来查询数据库才能知道空闲时段，在客户确认完时间后还得调用 API 来写入客户的这个预约。<br><br>在 function call之前实现这个需求是肯定是要 dirty hack 的，但有了 function call 之后，gpt 跟传统互联网的服务完全可以通过 API request 打通了。]]></description>
+            <pubDate>Thu, 15 Jun 2023 07:31:26 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/648abe4e671f59a7f2b0b80c</guid>
+            <link>https://m.okjike.com/originalPosts/648abe4e671f59a7f2b0b80c</link>
+            
+            
+            
+            <author><![CDATA[志达]]></author>
             
                 
             
