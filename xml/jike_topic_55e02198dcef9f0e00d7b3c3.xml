@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 26 Jun 2023 14:22:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jun 2023 18:22:19 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -34,6 +34,22 @@
             
             
             <author><![CDATA[卤代烃]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[在传统的计算机科学课程中，从操作系统、编程语言到机器学习，这些高大上课程和主题已经非常多了。 然而有一个至关重要的主题却很少被专门讲授，而是留给学生们...]]></title>
+            <description><![CDATA[<img src="https://img.shields.io/github/stars/missing-semester-cn/missing-semester-cn.github.io?style=social" referrerpolicy="no-referrer"><br>                    <a href="https://missing-semester-cn.github.io/">计算机教育中缺失的一课</a><br>                <br>在传统的计算机科学课程中，从操作系统、编程语言到机器学习，这些高大上课程和主题已经非常多了。 然而有一个至关重要的主题却很少被专门讲授，而是留给学生们自己去探索。 这部分内容就是：精通工具。<br><br>很多学生对于工具的了解知之甚少。计算机设计的初衷就是任务自动化，然而学生们却常常陷在大量的重复任务中，或者无法完全发挥出诸如版本控制、文本编辑器等工具的强大作用。效率低下和浪费时间还是其次，更糟糕的是，这还可能导致数据丢失或无法完成某些特定任务。<br><br>这些主题不是大学课程的一部分：学生一直都不知道如何使用这些工具，或者说，至少是不知道如何高效地使用，因此浪费了时间和精力在本来可以更简单的任务上。标准的计算机科学课程缺少了这门能让计算变得更简捷的关键课程。]]></description>
+            <pubDate>Mon, 26 Jun 2023 11:21:08 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/649974a42552fcb33dc5606f</guid>
+            <link>https://m.okjike.com/originalPosts/649974a42552fcb33dc5606f</link>
+            
+            
+            
+            <author><![CDATA[Nameless0322]]></author>
             
                 
             
@@ -98,22 +114,6 @@
             
             
             <author><![CDATA[心有林夕啊]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[微信 Donut 多端开发工具，宣称可以把小程序编译为 Android 和 iOS App 。 但实际操作时，要求你选择在微信开放平台 https://open.weixin.qq.com/ 已经创建好的...]]></title>
-            <description><![CDATA[微信 Donut 多端开发工具，宣称可以把小程序编译为 Android 和 iOS App 。<br>但实际操作时，要求你选择在微信开放平台 https://open.weixin.qq.com/ 已经创建好的移动应用。<br>当然，如果你没有创建过应用，也可以选择“复用多端应用快速创建”，扫码后可以选择一个小程序，会复用小程序的名称和icon等信息，剩下的都要你自己填。<br>要填哪些呢？要填应用官网，应用运行流程截图，和应用签名。<br>其中应用官网输入框有提示，“非必填，如不填默认以小程序作为官网内容进行审核”，所以我就没填。<br>应用流程截图，我App还没生成呢，没截图啊，就去小程序截图了几个界面传上去了。<br>提交审核后，半天过去，告诉你，审核不通过，原因是：<br>1、应用官网没有描述应用详细信息，内容排版不对；<br>2、提交流程图不规范，不能是小程序截图。<br><br>对照着看，懂了，还是得做一个官网，另外还需要画一个流程交互图，不能是小程序截图。<br>总的来说，细节挺多，不踩坑根本不知道。<br><img src="https://cdnv2.ruguoapp.com/FiB-Kq4h9RbEoeUIJkwlDBnuvI-rv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sun, 25 Jun 2023 06:54:49 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6497e4b972699323c169c256</guid>
-            <link>https://m.okjike.com/originalPosts/6497e4b972699323c169c256</link>
-            
-            
-            
-            <author><![CDATA[哥飞]]></author>
             
                 
             
