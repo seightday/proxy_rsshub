@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Fri, 30 Jun 2023 06:24:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jun 2023 12:25:09 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[越用 similarweb 越发现，不管你是否懂技术，你的第一个小产品，不要做什么 App 了，还是做网站吧。 你熟悉 vue 就用 vue ，熟悉 react 就用 react ，两个都不熟...]]></title>
+            <description><![CDATA[越用 similarweb 越发现，不管你是否懂技术，你的第一个小产品，不要做什么 App 了，还是做网站吧。<br>你熟悉 vue 就用 vue ，熟悉 react 就用 react ，两个都不熟悉的话，你就用 jquery 也行，也能做出一个小产品。<br>最开始做产品，最好是选择那些周末两天就可以做出来的。快速试错，一个周末做一个，一个月下来也就有4个了。<br>假设成功率是10%，最慢也只需要两个半月，你就能做出一个成功的产品。最快则只需要一个周末。<br>而如果选择大项目，时间拉得越长，你的激情就被消耗得越多，慢慢就烂尾了，再也没有动力继续下去了。<br>还有一点，即使你不懂编程，你让 ChatGPT 帮你实现网站代码，你也很容易就在自己电脑运行起来，测试是否达到你的要求。<br>很多工具类的网站，完全不需要后端代码，你前端代码调试没问题后，再一键部署到 vercel 上，连服务器都不用买。<br>所以有了 ChatGPT ，人人都可以做网站了。]]></description>
+            <pubDate>Fri, 30 Jun 2023 11:07:07 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/649eb75b351db905896776bc</guid>
+            <link>https://m.okjike.com/originalPosts/649eb75b351db905896776bc</link>
+            
+            
+            
+            <author><![CDATA[哥飞]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[看俺像个程序员吗]]></title>
@@ -50,22 +66,6 @@
             
             
             <author><![CDATA[杰克有茶]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[花了大半个月，我终于逆向分析了Github Copilot]]></title>
-            <description><![CDATA[<img src="https://mmbiz.qpic.cn/mmbiz_jpg/ta0Hx5vm0hNwWGxcQEIgqV21clz0CsQObSNDVPCSJpZDyiaQwrfveEiaCibVicmzLbDaMkiahL1s4SXUOsuH31iaRPVA/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>                    <a href="https://mp.weixin.qq.com/s/ieS8Ks3NBqh9D0NtsMGMww">花了大半个月，我终于逆向分析了Github Copilot</a><br>                <br>]]></description>
-            <pubDate>Wed, 28 Jun 2023 16:59:36 GMT</pubDate>
-            <guid isPermaLink="false">https://mp.weixin.qq.com/s/ieS8Ks3NBqh9D0NtsMGMww</guid>
-            <link>https://mp.weixin.qq.com/s/ieS8Ks3NBqh9D0NtsMGMww</link>
-            
-            
-            
-            <author><![CDATA[阿法兔]]></author>
             
                 
             
