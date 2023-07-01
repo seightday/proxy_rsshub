@@ -21,8 +21,40 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Fri, 30 Jun 2023 18:25:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jul 2023 00:25:44 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[Screenity，https://github.com/alyssaxuu/screenity，这是一个可以对浏览器 Tab 进行视频录制的 Chrome 插件，用了好几年了，接上条内容，也推荐一下。 它可以...]]></title>
+            <description><![CDATA[Screenity，https://github.com/alyssaxuu/screenity，这是一个可以对浏览器 Tab 进行视频录制的 Chrome 插件，用了好几年了，接上条内容，也推荐一下。<br><br>它可以很方便地进行音视频的录制，过程中还可以像 PPT 一样做演示，也可以把自己给录进去，录制完成后支持对视频进行简单的裁剪和编辑。对演讲者十分友好。<img src="https://cdnv2.ruguoapp.com/FqHilwUB42NSWOh7fyrvVGYA3ycsv3.gif" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 30 Jun 2023 11:35:53 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/649ebe19c45dd65189a53bca</guid>
+            <link>https://m.okjike.com/originalPosts/649ebe19c45dd65189a53bca</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[看到一个在网页上录制用户行为的框架，https://github.com/rrweb-io/rrweb，最终可以导出一个用户在网页操作的视频录制文件，其实现的原理比较有意思。 一般什么...]]></title>
+            <description><![CDATA[看到一个在网页上录制用户行为的框架，https://github.com/rrweb-io/rrweb，最终可以导出一个用户在网页操作的视频录制文件，其实现的原理比较有意思。<br><br>一般什么情况下需要记录用户在网页上的行为呢？比如想要排查某个用户的报错，必须按照用户的操作轨迹才能够复现问题，这个时候行为录制然后上报就十分有效，省却了联系用户再远程连接的过程；再比如保险业务的签署上，国家有文件规定必须记录用户的操作行为，如果采用录屏的方式，操作难度和网络开销都是比较有挑战的；再比如一些需要风控的内部系统上，对于敏感的操作需要对用户的操作过程做记录。再比如做产品的用户交互行为分析等，需求场景还是蛮多的。<br><br>rrweb 这个框架没有采用录屏的方式，也没有通过 html2canvas 将每一帧都记录下来，而是采用了更加高效、更低成本的办法，思路大概是这样的：<br><br>1. 将 DOM 进行虚拟化转换，储存为序列化的 snapshot<br>2. 通过 MutationObserver API 收集 DOM 的变更，将操作过程（Oplog）和 DOM diff 记录到一个双向链表中<br>3. 回放过程：将 snapshot 还原到一个 no-script iframe 沙箱中，然后使用一个定时器读取链表数据，逐步依次还原 Oplog 和 patch diff<br><br>对双向链表做精简、合并或者过滤，可以实现最小化储存，回放过程中还可以实现快进和跳过无效行为；这个框架中处理了大量的异常问题和边界 case，项目完成度非常高。]]></description>
+            <pubDate>Fri, 30 Jun 2023 11:12:27 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/649eb89bc45dd65189a49b7c</guid>
+            <link>https://m.okjike.com/originalPosts/649eb89bc45dd65189a49b7c</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[越用 similarweb 越发现，不管你是否懂技术，你的第一个小产品，不要做什么 App 了，还是做网站吧。 你熟悉 vue 就用 vue ，熟悉 react 就用 react ，两个都不熟...]]></title>
@@ -41,43 +73,11 @@
         </item>
         
         <item>
-            <title><![CDATA[看俺像个程序员吗]]></title>
-            <description><![CDATA[看俺像个程序员吗<br><img src="https://cdnv2.ruguoapp.com/FqVcr9Nv2eYbAYuwsKtRa8W7aSnHv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 29 Jun 2023 17:21:10 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/649dbd860496a46ed6f93f93</guid>
-            <link>https://m.okjike.com/originalPosts/649dbd860496a46ed6f93f93</link>
-            
-            
-            
-            <author><![CDATA[李守聪]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[分享几个C# 很常用的性能优化方式。]]></title>
             <description><![CDATA[分享几个C# 很常用的性能优化方式。<br><img src="https://cdnv2.ruguoapp.com/FrfE0G3-lWr_03PLFqDEMxctdGm_v3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FhFpSLq0AFUeUOnjDtgpZOzksDoyv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fvlg6hduYZTBVjL3cv-h1f6Tk0APv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fm7Vc5Z5j5x_GUNySaXYEA-q1Cy7v3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FnG9j1DZlaDoKpi6C-ZxHNNSRnI_v3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FmEhz1MPqwv2iglRLlf_KXxZY8tNv3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Thu, 29 Jun 2023 11:59:48 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/649d7234351db90589474771</guid>
             <link>https://m.okjike.com/originalPosts/649d7234351db90589474771</link>
-            
-            
-            
-            <author><![CDATA[杰克有茶]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[“想不想学C#？” “这啥语言？狗都不学。” “想学游戏开发吗？” “哇，听起来很不错，想啊想啊！”]]></title>
-            <description><![CDATA[“想不想学C#？” <br>“这啥语言？狗都不学。”<br><br>“想学游戏开发吗？”<br>“哇，听起来很不错，想啊想啊！”]]></description>
-            <pubDate>Wed, 28 Jun 2023 12:16:11 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/649c248bcb80d8107ba6334f</guid>
-            <link>https://m.okjike.com/originalPosts/649c248bcb80d8107ba6334f</link>
             
             
             
