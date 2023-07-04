@@ -21,8 +21,40 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 04 Jul 2023 06:27:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jul 2023 12:27:21 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[墙都比你努力]]></title>
+            <description><![CDATA[墙都比你努力<br><img src="https://cdnv2.ruguoapp.com/Fm9I3qADprjOyd8SzWsjFXWAMiENv3.heic" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 04 Jul 2023 02:26:32 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64a38358bb71f3be57c759d9</guid>
+            <link>https://m.okjike.com/originalPosts/64a38358bb71f3be57c759d9</link>
+            
+            
+            
+            <author><![CDATA[社会杨超越]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[用 vitepress 搭了一下新的官网，适配了中英文无缝切换，暗黑模式，移动端。 https://hamsterbase.com/zh/]]></title>
+            <description><![CDATA[用 vitepress 搭了一下新的官网，适配了中英文无缝切换，暗黑模式，移动端。<br><br>https://hamsterbase.com/zh/<br><img src="https://cdnv2.ruguoapp.com/FnKwaM1-uSVTqsiDeEr2gefHvJX5v3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FlvERZoupwB5YBnU_ybmkud99WlIv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 03 Jul 2023 15:05:34 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64a2e3bebb71f3be57bb087b</guid>
+            <link>https://m.okjike.com/originalPosts/64a2e3bebb71f3be57bb087b</link>
+            
+            
+            
+            <author><![CDATA[HamsterBase]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[去医院检查眼睛和颈椎，因为有干眼症和视疲劳，眼科医生建议我把显示器高度弄低一些，这样眼睛不太用向上看，减少眼白露出的比例。 然后颈椎医生建议我调高显示...]]></title>
@@ -66,38 +98,6 @@
             
             
             <author><![CDATA[哥飞]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[这个群的群主说，买了一个老域名，昨天上线新网站，生成了几十万个，今天就被谷歌收录了两千多个页面。 有人就问，几十万个什么？ 我帮群主回答，是几十万个页面...]]></title>
-            <description><![CDATA[这个群的群主说，买了一个老域名，昨天上线新网站，生成了几十万个，今天就被谷歌收录了两千多个页面。<br>有人就问，几十万个什么？<br>我帮群主回答，是几十万个页面。<br>举个例子，16进制的颜色代码 ff0066 这种，你如果给每个颜色生成一个页面，那么就总共可以生成一千六百多万个页面。当然实际操作中，不是真的生成这么多个 html 页面。而是用动态页面，根据不同的url路径参数显示不同的页面。<br>那怎么让搜索引擎知道你有那么多页面呢？<br>答案就是内链和网站地图。<br>做好这两样，就能让搜索引擎发现你的所有内页。<br><br>又有人问，生成页面目的是什么？<br>我答，生成页面是为了给谷歌收录，谷歌收录之后，才有可能把你的页面放进搜索结果里，最终目的当然是为了从搜索引擎里获取流量。<br>至于获取到了流量了，怎么变现，就要看你做的是什么网站了。有些可能单纯赚广告费，有些赚会员费，有些赚交易佣金。<br><br>每一个页面，都对应一个关键字，生成几十万个页面的意思就是做了很多关键字。<br>用户搜索这些关键字，如果谷歌把我们网站排到前面了，用户就有可能会点进进来。<br>一个页面可能一天只能带来10个访问，但如果你有1万个这样的页面，是不是每天就有10万个访问了。<br><img src="https://cdnv2.ruguoapp.com/Fv-YGqzRg2BSr7VIYf11nKZeZbsov3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sun, 02 Jul 2023 01:25:20 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64a0d200ae733bd063d8f74c</guid>
-            <link>https://m.okjike.com/originalPosts/64a0d200ae733bd063d8f74c</link>
-            
-            
-            
-            <author><![CDATA[哥飞]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Screenity，https://github.com/alyssaxuu/screenity，这是一个可以对浏览器 Tab 进行视频录制的 Chrome 插件，用了好几年了，接上条内容，也推荐一下。 它可以...]]></title>
-            <description><![CDATA[Screenity，https://github.com/alyssaxuu/screenity，这是一个可以对浏览器 Tab 进行视频录制的 Chrome 插件，用了好几年了，接上条内容，也推荐一下。<br><br>它可以很方便地进行音视频的录制，过程中还可以像 PPT 一样做演示，也可以把自己给录进去，录制完成后支持对视频进行简单的裁剪和编辑。对演讲者十分友好。<img src="https://cdnv2.ruguoapp.com/FqHilwUB42NSWOh7fyrvVGYA3ycsv3.gif" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 30 Jun 2023 11:35:53 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/649ebe19c45dd65189a53bca</guid>
-            <link>https://m.okjike.com/originalPosts/649ebe19c45dd65189a53bca</link>
-            
-            
-            
-            <author><![CDATA[Barret李靖]]></author>
             
                 
             
