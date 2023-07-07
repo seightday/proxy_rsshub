@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Fri, 07 Jul 2023 12:28:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jul 2023 15:29:10 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[cloudflare 的 workers 真是好东西。 一些新网站，小网站的后端逻辑直接可以用 worker 实现。 省去自己购买服务器成本。]]></title>
+            <description><![CDATA[cloudflare 的 workers 真是好东西。<br>一些新网站，小网站的后端逻辑直接可以用 worker 实现。<br>省去自己购买服务器成本。]]></description>
+            <pubDate>Fri, 07 Jul 2023 11:35:09 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64a7f86d38acc7bb51d009fa</guid>
+            <link>https://m.okjike.com/originalPosts/64a7f86d38acc7bb51d009fa</link>
+            
+            
+            
+            <author><![CDATA[哥飞]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[公共开放 api 搜集页面，好东西]]></title>
@@ -114,22 +130,6 @@
             
             
             <author><![CDATA[freel_]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[来分享一下你手机的Docker上是哪些软件]]></title>
-            <description><![CDATA[来分享一下你手机的Docker上是哪些软件<br><img src="https://cdnv2.ruguoapp.com/FmkSrXWU0jBuiHGblw_Ver23sOItv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sun, 02 Jul 2023 14:56:45 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64a1902dae733bd063ed3698</guid>
-            <link>https://m.okjike.com/originalPosts/64a1902dae733bd063ed3698</link>
-            
-            
-            
-            <author><![CDATA[CR_不开会员版]]></author>
             
                 
             
