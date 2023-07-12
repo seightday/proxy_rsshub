@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 12 Jul 2023 01:19:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jul 2023 03:24:54 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -34,6 +34,22 @@
             
             
             <author><![CDATA[PriceTag应用推荐]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[无题]]></title>
+            <description><![CDATA[<br><img src="https://cdnv2.ruguoapp.com/FrsCnChzZGDh4tYMZCHQUtVf6U_gv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 11 Jul 2023 08:53:01 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64ad186d7b5daee5430ead50</guid>
+            <link>https://m.okjike.com/originalPosts/64ad186d7b5daee5430ead50</link>
+            
+            
+            
+            <author><![CDATA[旧城以西yx]]></author>
             
                 
             
@@ -89,24 +105,8 @@
         </item>
         
         <item>
-            <title><![CDATA[最近读了 A Philosophy of Software Design，很有收获。 在设计软件时有很多权衡：模块应不应该拆分，函数有哪些参数，哪些信息应该往外暴露。这都是编程上的日...]]></title>
-            <description><![CDATA[最近读了 A Philosophy of Software Design，很有收获。<br><br>在设计软件时有很多权衡：模块应不应该拆分，函数有哪些参数，哪些信息应该往外暴露。这都是编程上的日常纠结，但是这个话题上的书却非常少，所以作者写了这本书，并开设了斯坦福 CS 190 的课程。以下是部分笔记：<br><br># 复杂度的本质是『难理解』和『难修改』。<br><br>复杂度的症状包括：1. 改动扩散，简单的功能修改需要大量的不同地方的代码改动；2. 高认知负荷，开发者需要理解很多东西才能对某个模块进行修改（有时候更长的代码的复杂度更低，因为阅读他们的认知负荷更小）；3. 未知的未知，不知道应该改哪些东西以完成某个任务。<br><br>未知的未知是最糟糕的，因为你需要知道某些事，但是没有途径让你去知道它是什么，甚至没法知道是否出了问题。<br><br>## 造成复杂性的主要原因包括『依赖』和『晦涩』<br><br>『依赖』指的是一块代码无法被独立的修改和理解，在改动时必须同时考虑/修改其它模块。它<br><br>『晦涩』会在重要信息不够显而易见的时候出现。一个简单的例子就是命名太通用从而没什么信息量（例如 time），或者是对一个变量的单位没有说明，一定要读它相关的代码才能理解。『晦涩』尤其在有隐藏的『依赖』存在的时候发生，例如新添加了一种状态就需要同时修改其它好几处对这个状态的处理，而又没有明显的途径去知道要修改哪几处（所以有些动态类型语言的代码非常晦涩）。<br><br>从而『依赖』造成了复杂度的改动扩散和认知负荷，『晦涩』造成了未知的未知和另一部分的认知负荷。如果我们找到途径最小化『依赖』和『晦涩』，我们就找到了降低软件复杂度的方法。<br><br>复杂性是累加的。它不是突然因为某个错误决策而造成的，而是成百上千的『依赖』和『晦涩』日积月累而成的。这种累加性让复杂性更加难以控制。而一旦累积起来就难以消除，因为每次消除一小部分并不能产生显著作用。<br><br># 战术编程和战略编程<br><br>大多数程序员在做软件开发的时候都是用的『战术编程』的心态：尽快让某个东西能用，例如尽快修个 Bug。虽然让某个东西能用是高优先的事情，但是这种心态却不可能产生好的系统设计。战术编程的问题在于它让程序员放弃寻找最好的设计，从而就会"稍微复杂点没事，先上线再说"。而复杂度往往就这样累积起来了。战术编程的心态下每个任务都会引入一些额外的复杂度，每个任务都看似是一个向『尽快完成』的妥协，但是复杂性累积的速度很快，不久后就会开始产生问题。<br><br>几乎所有软件组织中都有一个程序员把战术编程发挥到极致，且称为战术怪。战术怪是高产的程序员，做什么都比其他人快，但完全是以战术编程思路做的。要完成一个新 featuer，没有人比战术怪更快。在某些组织中管理人员会把战术怪视为英雄，但要在他们代码上工作的工程师不会这么认为。往往这些工程师要清理战术怪留下来的问题，这使得那些工程师（真正的英雄）看起来速度更慢。<br><br>在任何系统中的大部分代码都是通过扩展现有的代码完成的，作为开发者最重要的任务就是让未来的扩展变得简单。虽然代码必须得能用，但它不应该是开发的主要目标。开发者的主要目标必须是做出好的设计，而它们刚好能用，这就是『战略编程』。<br><br># Modules Should Be Deep<br><br>在设计一个系统的时候应让开发者每次只需要应对总体复杂度中的一小部分，这就是模块化设计。<br><br>每个模块有自己的接口和实现，接口是任何使用这个模块时所需要知道的信息，往往描述了它完成了什么事情而不包含如何完成这些事，它的实现则完成了接口上的契约。<br><br>好的模块设计应该是深的：它有简单的接口和丰富的功能。从而模块的使用者能够以小认知负荷来完成更多事，从而降低系统整体的复杂度。<br><br>接口上包含了正式的和非正式的信息。正式的信息指的是代码中明确声明的一些东西，比如函数名、参数名、以及类型系统能够检查的函数签名。非正式的信息指的是不能被编程语言声明的信息，例如这个函数会改变某个参数内部的值。以及如果有函数 B 必须在函数 A 调用后使用这种要求，它也是接口的一部分。简而言之，为了使用一个模块而需要了解的所有信息都是接口的一部分。<br><br>抽象是抛弃不重要信息的简化视图。错误的抽象有两种类型，一种是包含了不重要信息从而增大使用认知负荷，一种是抛弃了重要信息从而造成了『晦涩』。后者被称为 false abstraction，它虽然看上去简单，但实际上不是（在一些声称能极简化开发的工具中容易出现）。所以设计抽象的核心就是理解什么是重要的，并且寻找能够最小化这些重要信息的设计。<br><img src="https://cdnv2.ruguoapp.com/FtscNGrlTPJlwv6uCv-wIJ9XV24lv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sun, 09 Jul 2023 11:30:39 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64aa9a5f16e52475022af55c</guid>
-            <link>https://m.okjike.com/originalPosts/64aa9a5f16e52475022af55c</link>
-            
-            
-            
-            <author><![CDATA[zxch3n]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[朋友圈看到的，好直观的二进制]]></title>
-            <description><![CDATA[朋友圈看到的，好直观的二进制<br><video src="https://videocdn.jellow.site/loZwULaPtDvF6I3_vc8jS4jIy5ww.mp4?sign=b1f64899d8c3b23c1626190641c07bc6&amp;t=64ae068c" controls=""></video>]]></description>
+            <description><![CDATA[朋友圈看到的，好直观的二进制<br><video src="https://videocdn.jellow.site/loZwULaPtDvF6I3_vc8jS4jIy5ww.mp4?sign=2755ba0bfa1346e93a596f2d92bc6337&amp;t=64ae227b" controls=""></video>]]></description>
             <pubDate>Fri, 07 Jul 2023 16:26:12 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/64a83ca4f14149eb21f7f191</guid>
             <link>https://m.okjike.com/originalPosts/64a83ca4f14149eb21f7f191</link>
