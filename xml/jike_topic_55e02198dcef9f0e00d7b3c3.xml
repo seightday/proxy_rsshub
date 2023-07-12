@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 12 Jul 2023 11:38:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jul 2023 15:40:07 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -34,6 +34,22 @@
             
             
             <author><![CDATA[BigYe程普]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[《小而美：持续盈利的经营法则》这本书说，要是把创业步骤写在纸上，看上去会非常容易： 1）你的理想客户是哪些？缩小这个群体的范围，直到不能再缩小为止 2）明...]]></title>
+            <description><![CDATA[《小而美：持续盈利的经营法则》这本书说，要是把创业步骤写在纸上，看上去会非常容易：<br><br>1）你的理想客户是哪些？缩小这个群体的范围，直到不能再缩小为止<br>2）明确你要帮他们解决的痛点是什么，以及他们为此愿意付多少钱<br>3）设置一个严格的时间表，专心致志地设计一个方案，然后收取费用<br>4）不断重复这个过程，直到找到一个可行的产品，然后围绕它扩大经营<br><br>找到目标群体，找到 MVP，设置好定价，干。不过真当干起来的时候，一堆新的问题又出现了，经常会容易迷失到分支任务中，忘记了主线是要干啥。]]></description>
+            <pubDate>Wed, 12 Jul 2023 01:45:35 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64ae05bf1b83e0b21ae907a9</guid>
+            <link>https://m.okjike.com/originalPosts/64ae05bf1b83e0b21ae907a9</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
             
                 
             
@@ -89,24 +105,8 @@
         </item>
         
         <item>
-            <title><![CDATA[玩了两天的 Code Interpreter，我只能说，太惊艳了，让我感受了效率的提升不是一点半点。 主要玩了两个方面的东西： 第一个，我的需求是爬取一个网页的数据，这...]]></title>
-            <description><![CDATA[玩了两天的 Code Interpreter，我只能说，太惊艳了，让我感受了效率的提升不是一点半点。<br><br>主要玩了两个方面的东西：<br><br>第一个，我的需求是爬取一个网页的数据，这个网页是一个 .net 框架下的网页，前后端不分离，数据是直接渲染在页面中的，我需要爬取的数据，需要点击多个选择框，点击后，数据才会展示出来。<br><br>因为对于前端和爬虫方面的知识接触的比较少，如果让我从零开始摸索这个玩意，需要花费的时间不少，比如需要熟悉一些前端页面的简单知识和 python 爬虫的一些框架使用。<br><br>有了 Code Interpreter 后，我的做法是，先把这个页面保存成一个 html 文件，把这个文件上传给 Code Interpreter，然后打开 Elements 和对着页面，把我想要做的事情一步一步写下来，比如，我先需要点击一个选择框，等待页面加载 5 秒，数据渲染出来后，具体的某个 div 下面就会有我需要的数据，然后我需要爬取的数据的 name 是哪些，然后再批量爬取下来。<br><br>Code Interpreter 有了上传的 html 文件代码后，很明显就知道我想要爬取的内容了，然后写出一段  python 的爬虫代码回来，使用了 selenium 这个爬虫库。然后我把我的需求改成需要批量点击哪些选择框等等，让它给出我最终的代码。<br><br>整个交互过程时间大概是 1 个小时，一开始还走了弯路，后面把我想要的操作一步一步写下来让他去执行，稍微修改之后就拿到结果了。有了这种效率工具，让我不再畏惧前端和爬虫了吧<br><br>第二个我探索的东西是：让它给我分析出沪深 300 指数的支撑位。<br><br>分析出来的具体结果不符合和我想要的预期不大一致，就没太花时间去继续调教它，不如预期的原因大概率和我的指令有关。<br><br>有了  Code Interpreter 这样的工具后，那些没法对业务有深刻洞察的程序员，真的在瑟瑟发抖了，同时也看到了超级个体涌现的趋势。<br><br>之前和一个大佬沟通，他说，口罩这三年，很多小团队都死光了，你今年以来觉得做业务的轻松，并不是你有多牛逼，而是你的竞争者死光了。不过后面会有更多的独立开发者去和你竞争，有了 AI 的加持，他们的个人的能力边界会不断拓展，想做的东西可以更加快速去验证。]]></description>
-            <pubDate>Sun, 09 Jul 2023 14:24:52 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64aac3341b83e0b21a9bedce</guid>
-            <link>https://m.okjike.com/originalPosts/64aac3341b83e0b21a9bedce</link>
-            
-            
-            
-            <author><![CDATA[dongd.eth]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[朋友圈看到的，好直观的二进制]]></title>
-            <description><![CDATA[朋友圈看到的，好直观的二进制<br><video src="https://videocdn.jellow.site/loZwULaPtDvF6I3_vc8jS4jIy5ww.mp4?sign=2f2778e9314efbd359a4893b37372249&amp;t=64ae96c0" controls=""></video>]]></description>
+            <description><![CDATA[朋友圈看到的，好直观的二进制<br><video src="https://videocdn.jellow.site/loZwULaPtDvF6I3_vc8jS4jIy5ww.mp4?sign=867ea5b07ba50559b9f7731315e03673&amp;t=64aece41" controls=""></video>]]></description>
             <pubDate>Fri, 07 Jul 2023 16:26:12 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/64a83ca4f14149eb21f7f191</guid>
             <link>https://m.okjike.com/originalPosts/64a83ca4f14149eb21f7f191</link>
