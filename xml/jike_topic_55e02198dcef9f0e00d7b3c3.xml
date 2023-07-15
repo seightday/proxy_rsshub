@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sat, 15 Jul 2023 07:06:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jul 2023 11:10:50 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -121,6 +121,22 @@
         </item>
         
         <item>
+            <title><![CDATA[还没申请到 claude api 的小伙伴，可以试试这个方案哈 - 支持使用最新的 claude v2 - 国内可访问（那个。。。注册还得自己想想方案哈 github: https://github.co...]]></title>
+            <description><![CDATA[<img src="https://cdn.apifox.cn/app/project-icon/builtin/18.jpg" referrerpolicy="no-referrer"><br>                    <a href="https://openai-proxy.apifox.cn/">README - openai-proxy</a><br>                <br>还没申请到 claude api 的小伙伴，可以试试这个方案哈<br><br>- 支持使用最新的 claude v2<br>- 国内可访问（那个。。。注册还得自己想想方案哈<br><br>github: https://github.com/UNICKCHENG/openai-proxy<br><br>claude web: https://claude.ai]]></description>
+            <pubDate>Thu, 13 Jul 2023 10:07:39 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64afcceb1b83e0b21a183aaf</guid>
+            <link>https://m.okjike.com/originalPosts/64afcceb1b83e0b21a183aaf</link>
+            
+            
+            
+            <author><![CDATA[尤克unickcheng]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[达成自己的目标：获得MongoDB Certified Associate Developer & Redis Certified Developer双认证，点亮了NoSQL的技能点。]]></title>
             <description><![CDATA[达成自己的目标：获得MongoDB Certified Associate Developer &amp; Redis Certified Developer双认证，点亮了NoSQL的技能点。<br><img src="https://cdnv2.ruguoapp.com/FvkSr20aXkHAsmw1f4UX24kKrmMXv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fs-xha8kOMAFETfvazY6h5Jrwf3rv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FrZflSV5xW2vkQmrupQF3AdaEtyzv3.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Thu, 06 Jul 2023 00:41:19 GMT</pubDate>
@@ -162,22 +178,6 @@
             
             
             <author><![CDATA[呆羊d1eyoang]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[GPT的 function call 让我想起之前做 ins 线下店预定客服bot遇到的问题，客户是文字来预约时间，当时开发这个 GPT 客服 bot 的棘手问题是，他需要额外调用 API来...]]></title>
-            <description><![CDATA[GPT的 function call 让我想起之前做 ins 线下店预定客服bot遇到的问题，客户是文字来预约时间，当时开发这个 GPT 客服 bot 的棘手问题是，他需要额外调用 API来查询数据库才能知道空闲时段，在客户确认完时间后还得调用 API 来写入客户的这个预约。<br><br>在 function call之前实现这个需求是肯定是要 dirty hack 的，但有了 function call 之后，gpt 跟传统互联网的服务完全可以通过 API request 打通了。]]></description>
-            <pubDate>Thu, 15 Jun 2023 07:31:26 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/648abe4e671f59a7f2b0b80c</guid>
-            <link>https://m.okjike.com/originalPosts/648abe4e671f59a7f2b0b80c</link>
-            
-            
-            
-            <author><![CDATA[志达]]></author>
             
                 
             
