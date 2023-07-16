@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sat, 15 Jul 2023 17:14:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jul 2023 01:24:00 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[昨天在服务器里下载 vscode ，下载速度只有十几KB每秒，89M需要下载几个小时。 后来换成用Linode的日本服务器下载，只用了0.5秒，瞬间下完，上面显示速度 185M ...]]></title>
+            <description><![CDATA[昨天在服务器里下载 vscode ，下载速度只有十几KB每秒，89M需要下载几个小时。<br>后来换成用Linode的日本服务器下载，只用了0.5秒，瞬间下完，上面显示速度 185M 每秒。<br>通过这个对比，可以看到国内外网速的差距。]]></description>
+            <pubDate>Sat, 15 Jul 2023 03:27:14 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64b2121263e42a95c482ff6f</guid>
+            <link>https://m.okjike.com/originalPosts/64b2121263e42a95c482ff6f</link>
+            
+            
+            
+            <author><![CDATA[哥飞]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[@Luo说不啰嗦 ：“很多人觉得成为独立黑客/独立开发者就是必须要辞掉自己当前的工作，全职做自己的产品，这是一种错误的理解。 以下是我目前的收获： - 3000 位...]]></title>
@@ -114,22 +130,6 @@
             
             
             <author><![CDATA[savokiss_]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[还没申请到 claude api 的小伙伴，可以试试这个方案哈 - 支持使用最新的 claude v2 - 国内可访问（那个。。。注册还得自己想想方案哈 github: https://github.co...]]></title>
-            <description><![CDATA[<img src="https://cdn.apifox.cn/app/project-icon/builtin/18.jpg" referrerpolicy="no-referrer"><br>                    <a href="https://openai-proxy.apifox.cn/">README - openai-proxy</a><br>                <br>还没申请到 claude api 的小伙伴，可以试试这个方案哈<br><br>- 支持使用最新的 claude v2<br>- 国内可访问（那个。。。注册还得自己想想方案哈<br><br>github: https://github.com/UNICKCHENG/openai-proxy<br><br>claude web: https://claude.ai]]></description>
-            <pubDate>Thu, 13 Jul 2023 10:07:39 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64afcceb1b83e0b21a183aaf</guid>
-            <link>https://m.okjike.com/originalPosts/64afcceb1b83e0b21a183aaf</link>
-            
-            
-            
-            <author><![CDATA[尤克unickcheng]]></author>
             
                 
             
