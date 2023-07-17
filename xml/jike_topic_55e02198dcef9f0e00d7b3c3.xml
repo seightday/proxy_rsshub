@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 17 Jul 2023 02:13:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jul 2023 08:16:32 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[一个份网友整理的精益副业：程序员如何优雅地做副业，主要从为什么副业特别重要、如何优雅地做副业和有哪些副业案例三个方面说明。本书扩展了《程序员如何优雅地...]]></title>
+            <description><![CDATA[一个份网友整理的精益副业：程序员如何优雅地做副业，主要从为什么副业特别重要、如何优雅地做副业和有哪些副业案例三个方面说明。本书扩展了《程序员如何优雅地挣零花钱》的基本内容，将其放到更大的副业视角；同时，引入经过互联网行业验证的「精益创业」流程，并优化为副业专用的「精益副业」流程。在书籍第二部分，以实际案例为主，添加了「独立开发变现」和「网课变现实践」的内容。副业也许只是挣点零花钱补贴家用的小打小闹，但实际上，它对于我们的整个职业有非常大的影响，甚至会改变我们的人生，感兴趣的同学可以到网站学习。http://r.ftqq.com/lean-side-bussiness/<br><img src="https://cdnv2.ruguoapp.com/FuGHndSyeICerq5OoD0BVdp9MiOxv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 17 Jul 2023 03:32:15 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64b4b63fe1ebb63d2ca8221b</guid>
+            <link>https://m.okjike.com/originalPosts/64b4b63fe1ebb63d2ca8221b</link>
+            
+            
+            
+            <author><![CDATA[Goohuogo]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[几年前，我的老朋友@白宦成 白兄做完 logoly.pro 后一系列漂亮的宣传动作看得我佩服之至。 前几天看到“什么值得读”站长在V2EX分享这篇文章，我就觉得会对大家...]]></title>
@@ -41,6 +57,22 @@
         </item>
         
         <item>
+            <title><![CDATA[对于服务端来说一个好的 API 设计非常非常重要，推荐一篇 slack 官方技术博客分享的 API 设计原则文章。 https://slack.engineering/how-we-design-our-apis-at-...]]></title>
+            <description><![CDATA[对于服务端来说一个好的 API 设计非常非常重要，推荐一篇 slack 官方技术博客分享的 API 设计原则文章。<br><br>https://slack.engineering/how-we-design-our-apis-at-slack]]></description>
+            <pubDate>Sun, 16 Jul 2023 15:04:20 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64b406f416e52475020f1ae4</guid>
+            <link>https://m.okjike.com/originalPosts/64b406f416e52475020f1ae4</link>
+            
+            
+            
+            <author><![CDATA[mghio]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[我让Gpt4帮忙写了一个Chrome 插件 如果你想更方便地下载小宇宙上的音频，可能对你有帮助 只要复制小宇宙上的音频链接 然后点击我的这个插件 就可以自动下载音频...]]></title>
             <description><![CDATA[我让Gpt4帮忙写了一个Chrome 插件<br>如果你想更方便地下载小宇宙上的音频，可能对你有帮助<br>只要复制小宇宙上的音频链接<br>然后点击我的这个插件<br>就可以自动下载音频了<br>但是我没有发布到Chrome 商店 在GitHub 上开源了 你可以下载使用<br><br>https://github.com/chrischenchen/XiaoyuzhouDownload<br><br>安装步骤见图片<br>如果觉得有帮助<br>帮我转发或者在GitHub上帮我点个Star<br>谢谢<br><img src="https://cdnv2.ruguoapp.com/FqqXIs20ukRd1ZNLifj2oOs9z-Flv3.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Sun, 16 Jul 2023 12:00:54 GMT</pubDate>
@@ -50,22 +82,6 @@
             
             
             <author><![CDATA[牛油果蛋汉堡]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[昨天在服务器里下载 vscode ，下载速度只有十几KB每秒，89M需要下载几个小时。 后来换成用Linode的日本服务器下载，只用了0.5秒，瞬间下完，上面显示速度 185M ...]]></title>
-            <description><![CDATA[昨天在服务器里下载 vscode ，下载速度只有十几KB每秒，89M需要下载几个小时。<br>后来换成用Linode的日本服务器下载，只用了0.5秒，瞬间下完，上面显示速度 185M 每秒。<br>通过这个对比，可以看到国内外网速的差距。]]></description>
-            <pubDate>Sat, 15 Jul 2023 03:27:14 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64b2121263e42a95c482ff6f</guid>
-            <link>https://m.okjike.com/originalPosts/64b2121263e42a95c482ff6f</link>
-            
-            
-            
-            <author><![CDATA[哥飞]]></author>
             
                 
             
@@ -98,22 +114,6 @@
             
             
             <author><![CDATA[半庄]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[easychen整理的一人公司方法论 传送门👉🏻 https://github.com/easychen/one-person-businesses-methodology]]></title>
-            <description><![CDATA[easychen整理的一人公司方法论<br><br>传送门👉🏻 https://github.com/easychen/one-person-businesses-methodology<br><img src="https://cdnv2.ruguoapp.com/FnX9ts6iO_-qBS27qgRtp0MEkZ1wv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 13 Jul 2023 14:06:43 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64b004f3f14149eb21b5a4d9</guid>
-            <link>https://m.okjike.com/originalPosts/64b004f3f14149eb21b5a4d9</link>
-            
-            
-            
-            <author><![CDATA[张小吉]]></author>
             
                 
             
