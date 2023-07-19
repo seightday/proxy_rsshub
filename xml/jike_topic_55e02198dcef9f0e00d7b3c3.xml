@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 19 Jul 2023 06:52:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jul 2023 11:02:23 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -137,6 +137,22 @@
         </item>
         
         <item>
+            <title><![CDATA[对于服务端来说一个好的 API 设计非常非常重要，推荐一篇 slack 官方技术博客分享的 API 设计原则文章。 https://slack.engineering/how-we-design-our-apis-at-...]]></title>
+            <description><![CDATA[对于服务端来说一个好的 API 设计非常非常重要，推荐一篇 slack 官方技术博客分享的 API 设计原则文章。<br><br>https://slack.engineering/how-we-design-our-apis-at-slack]]></description>
+            <pubDate>Sun, 16 Jul 2023 15:04:20 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64b406f416e52475020f1ae4</guid>
+            <link>https://m.okjike.com/originalPosts/64b406f416e52475020f1ae4</link>
+            
+            
+            
+            <author><![CDATA[mghio]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[一个独立开发者的五年：https://mp.weixin.qq.com/s/x6PLSIMn_1qcKnXWPT-J-Q 作者的几个观点： 1）建离岸公司做美元市场是个不错的选择 2）应该尽可能多地去发挥...]]></title>
             <description><![CDATA[一个独立开发者的五年：https://mp.weixin.qq.com/s/x6PLSIMn_1qcKnXWPT-J-Q<br><br>作者的几个观点：<br><br>1）建离岸公司做美元市场是个不错的选择<br>2）应该尽可能多地去发挥三方资源的优势，来成就「一人公司」<br>3）菲律宾人力成本低而且英语好，是个不错的海外雇佣选项<br>4）Learn to sell. Learn to build. 大多数独立开发者不会 sell<br>5）把客户当做朋友，从客户身上涌现新的产品想法，保持思考<br>6）生意是一门艺术，在各个环节发挥自己的创造力来对抗无聊<br>7）这是一个最好的时代，代码永不眠，去创造]]></description>
             <pubDate>Tue, 11 Jul 2023 02:02:34 GMT</pubDate>
@@ -162,22 +178,6 @@
             
             
             <author><![CDATA[呆唯Yui]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[我觉得，js/ts里，应该避免使用spread syntax (...) 来实现mapping的效果；也应该避免使用"_.omit"或类似方法来实现反选"_.pick"的效果。 因为其违反了开闭原则...]]></title>
-            <description><![CDATA[我觉得，js/ts里，应该避免使用spread syntax (...) 来实现mapping的效果；也应该避免使用"_.omit"或类似方法来实现反选"_.pick"的效果。<br>因为其违反了开闭原则中的"闭"，即对修改封闭。应该认清，在代码会不断迭代的前提下，选取object中的abcd字段，并不等同于剔除object中剩下的e字段。这个时候我还是宁愿一个一个赋值过去比较好。]]></description>
-            <pubDate>Mon, 19 Jun 2023 10:59:07 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/649034fb86c3544bb22495b3</guid>
-            <link>https://m.okjike.com/originalPosts/649034fb86c3544bb22495b3</link>
-            
-            
-            
-            <author><![CDATA[柏拉图式控]]></author>
             
                 
             
