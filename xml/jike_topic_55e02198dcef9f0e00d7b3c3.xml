@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 19 Jul 2023 11:02:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jul 2023 15:04:09 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[关于独立开发如何开始，Indie Hackers 论坛官方有一个指引，内容包含：看看其他创作者做了什么，获得启发和学习经验；从Side Project开始，决定是否找合伙人，找...]]></title>
+            <description><![CDATA[关于独立开发如何开始，Indie Hackers 论坛官方有一个指引，内容包含：看看其他创作者做了什么，获得启发和学习经验；从Side Project开始，决定是否找合伙人，找到一个点子；快速实现MVP，发布产品，获得第一个用户；寻找更多的客户，营销和增长，改变生活方式。<br>https://www.indiehackers.com/start<br><br>读了前几篇很受启发，迫不及待分享给大家，下面分享两点：<br>1、不要等着想出一个天才的点子，大概率一直想不出来；不要害怕有竞争，有竞争说明有需求；缓慢前进好过停在原地。<br>2、750 Word，一个帮助用户培养写作习惯的网站，完全私密写作，只有自己能看，活了14年的网站，月盈利2万美元。解决用户一个简单的问题，长久的活下去，就是胜利。]]></description>
+            <pubDate>Wed, 19 Jul 2023 07:05:31 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64b78b3b7b5daee5430af490</guid>
+            <link>https://m.okjike.com/originalPosts/64b78b3b7b5daee5430af490</link>
+            
+            
+            
+            <author><![CDATA[半庄]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[大佬们，本科用的java，研究生用的python，会一点c++，最近想学rust和go，想问问如果只考虑一种语言去学的话，学哪种比较好呀？ 城市考虑青岛或者沈阳，谢谢大佬...]]></title>
@@ -130,22 +146,6 @@
             
             
             <author><![CDATA[哥飞]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[对于服务端来说一个好的 API 设计非常非常重要，推荐一篇 slack 官方技术博客分享的 API 设计原则文章。 https://slack.engineering/how-we-design-our-apis-at-...]]></title>
-            <description><![CDATA[对于服务端来说一个好的 API 设计非常非常重要，推荐一篇 slack 官方技术博客分享的 API 设计原则文章。<br><br>https://slack.engineering/how-we-design-our-apis-at-slack]]></description>
-            <pubDate>Sun, 16 Jul 2023 15:04:20 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64b406f416e52475020f1ae4</guid>
-            <link>https://m.okjike.com/originalPosts/64b406f416e52475020f1ae4</link>
-            
-            
-            
-            <author><![CDATA[mghio]]></author>
             
                 
             
