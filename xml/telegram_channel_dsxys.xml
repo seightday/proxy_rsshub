@@ -8,7 +8,7 @@
     <channel>
         <title><![CDATA[大师兄影视官方频道 - Telegram Channel]]></title>
         <link>https://t.me/s/dsxys</link>
-        <atom:link href="https://rsshub.app/telegram/channel/dsxys" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub.rssforever.com/telegram/channel/dsxys" rel="self" type="application/rss+xml" />
         <description><![CDATA[官网https://dsxys.pro - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -23,8 +23,8 @@
             <link>https://t.me/s/dsxys</link>
         </image>
         
-        <lastBuildDate>Thu, 20 Jul 2023 12:26:19 GMT</lastBuildDate>
-        <ttl>120</ttl>
+        <lastBuildDate>Thu, 20 Jul 2023 16:16:09 GMT</lastBuildDate>
+        <ttl>5</ttl>
         
         <item>
             <title><![CDATA[tv恢复]]></title>
@@ -252,7 +252,7 @@
         
         <item>
             <title><![CDATA[📊 统计下你是什么客户端]]></title>
-            <description><![CDATA[<blockquote><p><b>统计下你是什么客户端</b></p><p><small>Anonymous Poll</small></p><p><b>24%</b> - 安卓</p><p><b>63%</b> - IOS</p><p><b>9%</b> - 没下载到IOS</p><p><b>5%</b> - 就不告诉你</p></blockquote>]]></description>
+            <description><![CDATA[<blockquote><p><b>统计下你是什么客户端</b></p><p><small>Anonymous Poll</small></p><p><b>24%</b> - 安卓</p><p><b>63%</b> - IOS</p><p><b>9%</b> - 没下载到IOS</p><p><b>4%</b> - 就不告诉你</p></blockquote>]]></description>
             <pubDate>Fri, 12 May 2023 07:52:36 GMT</pubDate>
             <guid isPermaLink="false">https://t.me/dsxys/1021</guid>
             <link>https://t.me/dsxys/1021</link>

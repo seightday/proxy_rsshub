@@ -21,88 +21,8 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 20 Jul 2023 12:04:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jul 2023 04:10:06 GMT</lastBuildDate>
         <ttl>120</ttl>
-        
-        <item>
-            <title><![CDATA[我的评价是：6]]></title>
-            <description><![CDATA[我的评价是：6<br><img src="https://cdnv2.ruguoapp.com/FuNnUGbTbmwUdBeZ6BMGFnqy2CgGv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 20 Jul 2023 11:11:06 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64b9164a7b5daee543326f20</guid>
-            <link>https://m.okjike.com/originalPosts/64b9164a7b5daee543326f20</link>
-            
-            
-            
-            <author><![CDATA[雨医生]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[关于独立开发者进行海外收款，在网上搜到了一些注册 Stripe 账号的教程，主要得解决三个问题： 1. 去 Fiverr 找人代办 EIN，会提供 147C 2. 在 Wise/Payoneer 上...]]></title>
-            <description><![CDATA[关于独立开发者进行海外收款，在网上搜到了一些注册 Stripe 账号的教程，主要得解决三个问题：<br><br>1. 去 Fiverr 找人代办 EIN，会提供 147C<br>2. 在 Wise/Payoneer 上开通美国银行账户<br>3. 使用 Google Voice 搞定美国手机号码问题<br><br>还需要一个美国地址，可以用生成器，但是风险似乎有点高？另外，只有 EIN 没有 SSN 是不是也是个风险。<br><br>除了第一步可以直接花钱解决，后面两步折腾半天都没搞定，Wise 上中国区用户貌似不支持？Google Voice 淘宝上也没买到。看到最后还有一个养号指南，对登录 IP、转账金额、交易频度等各种限制，好担心真的申请下来又被风控。<br><br>有靠谱的渠道或者教程搞定这事儿么😂]]></description>
-            <pubDate>Thu, 20 Jul 2023 04:20:48 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64b8b620b1d391675d71fb59</guid>
-            <link>https://m.okjike.com/originalPosts/64b8b620b1d391675d71fb59</link>
-            
-            
-            
-            <author><![CDATA[Barret李靖]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[这个项目，建议喜欢研究交互式原理的小伙伴关注下 作者制作了一系列可交互网页，用来解释数据结构、算法、Framer Motion 等背后的原理，比如他最近发布的内容，...]]></title>
-            <description><![CDATA[这个项目，建议喜欢研究交互式原理的小伙伴关注下<br><br>作者制作了一系列可交互网页，用来解释数据结构、算法、Framer Motion 等背后的原理，比如他最近发布的内容，介绍了 svg 路劲的实现逻辑，他将各种常见的曲线类型及其实现原理做了非常细致的拆解<br><br>⏺ 我录了个视频，方便你预览<br><br>传送门 👉 https://www.nan.fyi/<br><video src="https://videocdn.jellow.site/ln3fybAiZF3GSY2XR_2iI26qdEfA.mp4?sign=c039cec559cc4a7539b2f0b7621f9477&amp;t=64b927d1" controls=""></video>]]></description>
-            <pubDate>Thu, 20 Jul 2023 03:35:25 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64b8ab7db1d391675d70a667</guid>
-            <link>https://m.okjike.com/originalPosts/64b8ab7db1d391675d70a667</link>
-            
-            
-            
-            <author><![CDATA[张小吉]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[这个 Github 仓库收集了来自全球各个口家 Y 民相关的资质资料和要求，对于有这方面需求的小伙伴可以看看，我粗略得过了一遍，项目介绍还细致得。比如，项目中介...]]></title>
-            <description><![CDATA[这个 Github 仓库收集了来自全球各个口家 Y 民相关的资质资料和要求，对于有这方面需求的小伙伴可以看看，我粗略得过了一遍，项目介绍还细致得。比如，项目中介绍了各个种类的签证，每个签证的区别是什么，在考虑迁到目标国家时，需要准备哪些语言，大概准备多少资金，如何找到目标工作等等。另外项目清单中，发现有一个德国专门针对 IT 人才的工签，只要能拿到工作录用就可以申请，对于学历没有要求。有兴趣的小伙伴，可以上去再具体了解一下<br><br>传送门 👉 https://github.com/AwesomeVisa/awesome-immigration/tree/master<br><img src="https://cdnv2.ruguoapp.com/FuOP5Op6Ana34gWl16lK31XerqPtv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FulSRV3gQjyX582FwUk5QZv7kx4Qv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 19 Jul 2023 06:04:00 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64b77cd0f14149eb2165b7fc</guid>
-            <link>https://m.okjike.com/originalPosts/64b77cd0f14149eb2165b7fc</link>
-            
-            
-            
-            <author><![CDATA[张小吉]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[免费的Google技术课程，还能获得证书： 1.学习python。 http://developers.google.com/edu/python 2.学习JavaScript。 http://learndigital.withgoogle.com/digi...]]></title>
-            <description><![CDATA[免费的Google技术课程，还能获得证书：<br><br>1.学习python。<br>http://developers.google.com/edu/python<br><br>2.学习JavaScript。<br>http://learndigital.withgoogle.com/digitalgarage/<br><br>3.基本数据，ML，AI。<br>http://cloudskillsboost.google/quests/34<br><br>4. Google Cloud Essentials。<br>http://cloudskillsboost.google/quests/23<br><br>5.机器学习课程。<br>http://learndigital.withgoogle.com/digitalunlocke<br><br>6.与Python的数据科学。<br>http://learndigital.withgoogle.com/digitalunlocke<br><br>7.云计算基础。<br>http://cloudskillsboost.google/course_templat<br><br>8.数字营销的基础。<br>http://learndigital.withgoogle.com/digitalgarage/<br><br>via <br>@DevMuzzammil]]></description>
-            <pubDate>Wed, 19 Jul 2023 02:34:14 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64b74ba663e42a95c4febcab</guid>
-            <link>https://m.okjike.com/originalPosts/64b74ba663e42a95c4febcab</link>
-            
-            
-            
-            <author><![CDATA[通义千问]]></author>
-            
-                
-            
-            
-        </item>
         
         <item>
             <title><![CDATA[群里有人问，如何做到日入100美元，我说我也没办法给你具体的步骤，但可以帮你分解任务。 如果你想靠纯广告费赚这么多，按照海外 ecpm 3.3 美元计算，需要每天有...]]></title>
@@ -114,6 +34,22 @@
             
             
             <author><![CDATA[哥飞]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[不要沉迷技术细节和新功能，在 MRR 达到 $10000 之前，所有动作都应该聚焦一个目的——新增。 产品的生命力不是每天有多少活跃，而是每天有多少新增，这也是收入...]]></title>
+            <description><![CDATA[不要沉迷技术细节和新功能，在 MRR 达到 $10000 之前，所有动作都应该聚焦一个目的——新增。<br><br>产品的生命力不是每天有多少活跃，而是每天有多少新增，这也是收入的主要来源。]]></description>
+            <pubDate>Tue, 18 Jul 2023 10:24:17 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64b6685163e42a95c4eae7d0</guid>
+            <link>https://m.okjike.com/originalPosts/64b6685163e42a95c4eae7d0</link>
+            
+            
+            
+            <author><![CDATA[赖嘉伟Gary]]></author>
             
                 
             
@@ -137,6 +73,38 @@
         </item>
         
         <item>
+            <title><![CDATA[发现国区 Apple podcast 有一很全的技术播客列表，播客荒的话直接在这里面找就好了 https://podcasts.apple.com/cn/genre/podcasts-technology/id1318]]></title>
+            <description><![CDATA[发现国区 Apple podcast 有一很全的技术播客列表，播客荒的话直接在这里面找就好了<br><br>https://podcasts.apple.com/cn/genre/podcasts-technology/id1318<br><img src="https://cdnv2.ruguoapp.com/Fk1TrHlOkXU40YRcGHjqaJbhy5e8v3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 17 Jul 2023 04:28:01 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64b4c351fab493d9c4f531a4</guid>
+            <link>https://m.okjike.com/originalPosts/64b4c351fab493d9c4f531a4</link>
+            
+            
+            
+            <author><![CDATA[通义千问]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[一个份网友整理的精益副业：程序员如何优雅地做副业，主要从为什么副业特别重要、如何优雅地做副业和有哪些副业案例三个方面说明。本书扩展了《程序员如何优雅地...]]></title>
+            <description><![CDATA[一个份网友整理的精益副业：程序员如何优雅地做副业，主要从为什么副业特别重要、如何优雅地做副业和有哪些副业案例三个方面说明。本书扩展了《程序员如何优雅地挣零花钱》的基本内容，将其放到更大的副业视角；同时，引入经过互联网行业验证的「精益创业」流程，并优化为副业专用的「精益副业」流程。在书籍第二部分，以实际案例为主，添加了「独立开发变现」和「网课变现实践」的内容。副业也许只是挣点零花钱补贴家用的小打小闹，但实际上，它对于我们的整个职业有非常大的影响，甚至会改变我们的人生，感兴趣的同学可以到网站学习。http://r.ftqq.com/lean-side-bussiness/<br><img src="https://cdnv2.ruguoapp.com/FuGHndSyeICerq5OoD0BVdp9MiOxv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 17 Jul 2023 03:32:15 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64b4b63fe1ebb63d2ca8221b</guid>
+            <link>https://m.okjike.com/originalPosts/64b4b63fe1ebb63d2ca8221b</link>
+            
+            
+            
+            <author><![CDATA[Goohuogo]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[几年前，我的老朋友@白宦成 白兄做完 logoly.pro 后一系列漂亮的宣传动作看得我佩服之至。 前几天看到“什么值得读”站长在V2EX分享这篇文章，我就觉得会对大家...]]></title>
             <description><![CDATA[<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/LBrX00GQeicuic4dxucdIQwfTicxoRIMwSzwLHxvIQTkbvH8cCerYQ7iaia3GDV19Zkce5Lgs7glBp4xH1KG66WNe5A/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>                    <a href="https://mp.weixin.qq.com/s/f0GV7Ld5Ag6N4g0YYsIeog">独立开发者用得上的30个免费产品推广渠道</a><br>                <br>几年前，我的老朋友@白宦成 白兄做完 logoly.pro 后一系列漂亮的宣传动作看得我佩服之至。<br>前几天看到“什么值得读”站长在V2EX分享这篇文章，我就觉得会对大家都很有用，所以申请转载过来了。<br>所有的开发者都可以收藏保存，一定会用得上的。<br>另外白兄的logoly复盘，我后面写个详细的分享给大家，让大家看看他是怎么做宣传的。]]></description>
             <pubDate>Mon, 17 Jul 2023 00:44:11 GMT</pubDate>
@@ -146,6 +114,22 @@
             
             
             <author><![CDATA[哥飞]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[对于服务端来说一个好的 API 设计非常非常重要，推荐一篇 slack 官方技术博客分享的 API 设计原则文章。 https://slack.engineering/how-we-design-our-apis-at-...]]></title>
+            <description><![CDATA[对于服务端来说一个好的 API 设计非常非常重要，推荐一篇 slack 官方技术博客分享的 API 设计原则文章。<br><br>https://slack.engineering/how-we-design-our-apis-at-slack]]></description>
+            <pubDate>Sun, 16 Jul 2023 15:04:20 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64b406f416e52475020f1ae4</guid>
+            <link>https://m.okjike.com/originalPosts/64b406f416e52475020f1ae4</link>
+            
+            
+            
+            <author><![CDATA[mghio]]></author>
             
                 
             
@@ -178,6 +162,22 @@
             
             
             <author><![CDATA[呆唯Yui]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[我觉得，js/ts里，应该避免使用spread syntax (...) 来实现mapping的效果；也应该避免使用"_.omit"或类似方法来实现反选"_.pick"的效果。 因为其违反了开闭原则...]]></title>
+            <description><![CDATA[我觉得，js/ts里，应该避免使用spread syntax (...) 来实现mapping的效果；也应该避免使用"_.omit"或类似方法来实现反选"_.pick"的效果。<br>因为其违反了开闭原则中的"闭"，即对修改封闭。应该认清，在代码会不断迭代的前提下，选取object中的abcd字段，并不等同于剔除object中剩下的e字段。这个时候我还是宁愿一个一个赋值过去比较好。]]></description>
+            <pubDate>Mon, 19 Jun 2023 10:59:07 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/649034fb86c3544bb22495b3</guid>
+            <link>https://m.okjike.com/originalPosts/649034fb86c3544bb22495b3</link>
+            
+            
+            
+            <author><![CDATA[柏拉图式控]]></author>
             
                 
             
