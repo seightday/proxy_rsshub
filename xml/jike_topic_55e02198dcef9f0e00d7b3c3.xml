@@ -21,19 +21,35 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 20 Jul 2023 03:58:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jul 2023 08:00:31 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
-            <title><![CDATA[关于独立开发如何开始，Indie Hackers 论坛官方有一个指引，内容包含：看看其他创作者做了什么，获得启发和学习经验；从Side Project开始，决定是否找合伙人，找...]]></title>
-            <description><![CDATA[关于独立开发如何开始，Indie Hackers 论坛官方有一个指引，内容包含：看看其他创作者做了什么，获得启发和学习经验；从Side Project开始，决定是否找合伙人，找到一个点子；快速实现MVP，发布产品，获得第一个用户；寻找更多的客户，营销和增长，改变生活方式。<br>https://www.indiehackers.com/start<br><br>读了前几篇很受启发，迫不及待分享给大家，下面分享两点：<br>1、不要等着想出一个天才的点子，大概率一直想不出来；不要害怕有竞争，有竞争说明有需求；缓慢前进好过停在原地。<br>2、750 Word，一个帮助用户培养写作习惯的网站，完全私密写作，只有自己能看，活了14年的网站，月盈利2万美元。解决用户一个简单的问题，长久的活下去，就是胜利。]]></description>
-            <pubDate>Wed, 19 Jul 2023 07:05:31 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64b78b3b7b5daee5430af490</guid>
-            <link>https://m.okjike.com/originalPosts/64b78b3b7b5daee5430af490</link>
+            <title><![CDATA[关于独立开发者进行海外收款，在网上搜到了一些注册 Stripe 账号的教程，主要得解决三个问题： 1. 去 Fiverr 找人代办 EIN，会提供 147C 2. 在 Wise/Payoneer 上...]]></title>
+            <description><![CDATA[关于独立开发者进行海外收款，在网上搜到了一些注册 Stripe 账号的教程，主要得解决三个问题：<br><br>1. 去 Fiverr 找人代办 EIN，会提供 147C<br>2. 在 Wise/Payoneer 上开通美国银行账户<br>3. 使用 Google Voice 搞定美国手机号码问题<br><br>还需要一个美国地址，可以用生成器，但是风险似乎有点高？另外，只有 EIN 没有 SSN 是不是也是个风险。<br><br>除了第一步可以直接花钱解决，后面两步折腾半天都没搞定，Wise 上中国区用户貌似不支持？Google Voice 淘宝上也没买到。看到最后还有一个养号指南，对登录 IP、转账金额、交易频度等各种限制，好担心真的申请下来又被风控。<br><br>有靠谱的渠道或者教程搞定这事儿么😂]]></description>
+            <pubDate>Thu, 20 Jul 2023 04:20:48 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64b8b620b1d391675d71fb59</guid>
+            <link>https://m.okjike.com/originalPosts/64b8b620b1d391675d71fb59</link>
             
             
             
-            <author><![CDATA[半庄]]></author>
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[这个项目，建议喜欢研究交互式原理的小伙伴关注下 作者制作了一系列可交互网页，用来解释数据结构、算法、Framer Motion 等背后的原理，比如他最近发布的内容，...]]></title>
+            <description><![CDATA[这个项目，建议喜欢研究交互式原理的小伙伴关注下<br><br>作者制作了一系列可交互网页，用来解释数据结构、算法、Framer Motion 等背后的原理，比如他最近发布的内容，介绍了 svg 路劲的实现逻辑，他将各种常见的曲线类型及其实现原理做了非常细致的拆解<br><br>⏺ 我录了个视频，方便你预览<br><br>传送门 👉 https://www.nan.fyi/<br><video src="https://videocdn.jellow.site/ln3fybAiZF3GSY2XR_2iI26qdEfA.mp4?sign=a2c8531e3ccff1633459b90973ef783e&amp;t=64b8f09e" controls=""></video>]]></description>
+            <pubDate>Thu, 20 Jul 2023 03:35:25 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64b8ab7db1d391675d70a667</guid>
+            <link>https://m.okjike.com/originalPosts/64b8ab7db1d391675d70a667</link>
+            
+            
+            
+            <author><![CDATA[张小吉]]></author>
             
                 
             
@@ -50,22 +66,6 @@
             
             
             <author><![CDATA[张小吉]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[大佬们，本科用的java，研究生用的python，会一点c++，最近想学rust和go，想问问如果只考虑一种语言去学的话，学哪种比较好呀？ 城市考虑青岛或者沈阳，谢谢大佬...]]></title>
-            <description><![CDATA[大佬们，本科用的java，研究生用的python，会一点c++，最近想学rust和go，想问问如果只考虑一种语言去学的话，学哪种比较好呀？<br>城市考虑青岛或者沈阳，谢谢大佬们<br><img src="https://cdnv2.ruguoapp.com/FrIYQp4BHnNrAt393Gt2FFKuAYDEv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 19 Jul 2023 02:37:47 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64b74c7b16e52475025d22d5</guid>
-            <link>https://m.okjike.com/originalPosts/64b74c7b16e52475025d22d5</link>
-            
-            
-            
-            <author><![CDATA[发呆的快乐小面包]]></author>
             
                 
             
