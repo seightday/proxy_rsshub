@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Fri, 21 Jul 2023 07:40:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jul 2023 11:48:09 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[做独立开发产品的时候，UI设计对很多人来说是个难题（包括我），在公司里有设计师提供设计稿，只需要还原设计稿就可以了，自己折腾产品的时候，如何做出好看的UI...]]></title>
+            <description><![CDATA[做独立开发产品的时候，UI设计对很多人来说是个难题（包括我），在公司里有设计师提供设计稿，只需要还原设计稿就可以了，自己折腾产品的时候，如何做出好看的UI呢？<br>这篇文章介绍了如何在Figma中使用Tailwind CSS 构建设计系统：<br>https://uxplanet.org/building-a-design-system-with-tailwind-css-a-step-by-step-guide-f03f99f87aba<br><br>设计UI的时候我一般会有两种方式，一种是用现成的组建库，用默认的样式或者改改主题颜色，比如阿里的 Ant，这种方式的好处是简单，开发速度比较快，缺点是不太好看，没有特点，如果默认行为不能满足需求，改起来比较麻烦。<br><br>还有一种方式是不使用组建库，或者使用 handless 的组件库，只提供行为没有样式，在Figma 中画出设计稿，然后用 CSS 去实现样式，结合Tailwind CSS，开发体验也很好，按照文章中的步骤，在Figma中将Tailwind CSS相关的变量设置好，开发时直接还原就可以了。<br><br>再推荐一个生成颜色搭配的工具，也是配合Tailwind CSS使用，选择一个颜色，直接生成色卡，懒人必备了<br>https://uicolors.app/create]]></description>
+            <pubDate>Fri, 21 Jul 2023 03:02:14 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64b9f536ca2b035a486c6b58</guid>
+            <link>https://m.okjike.com/originalPosts/64b9f536ca2b035a486c6b58</link>
+            
+            
+            
+            <author><![CDATA[半庄]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[新时代的独立开发者应该向以前的独立站老站长们学习一个啊🌝 流量运营，SEO，跨国电汇，完全独立的收支系统（费率最低能干到0.6%），个个玩儿都很6…… 最后分...]]></title>
@@ -74,26 +90,10 @@
         
         <item>
             <title><![CDATA[这个项目，建议喜欢研究交互式原理的小伙伴关注下 作者制作了一系列可交互网页，用来解释数据结构、算法、Framer Motion 等背后的原理，比如他最近发布的内容，...]]></title>
-            <description><![CDATA[这个项目，建议喜欢研究交互式原理的小伙伴关注下<br><br>作者制作了一系列可交互网页，用来解释数据结构、算法、Framer Motion 等背后的原理，比如他最近发布的内容，介绍了 svg 路劲的实现逻辑，他将各种常见的曲线类型及其实现原理做了非常细致的拆解<br><br>⏺ 我录了个视频，方便你预览<br><br>传送门 👉 https://www.nan.fyi/<br><video src="https://videocdn.jellow.site/ln3fybAiZF3GSY2XR_2iI26qdEfA.mp4?sign=fc89bd5d87b6d95ffe099d221a1c2b6f&amp;t=64ba3b93" controls=""></video>]]></description>
+            <description><![CDATA[这个项目，建议喜欢研究交互式原理的小伙伴关注下<br><br>作者制作了一系列可交互网页，用来解释数据结构、算法、Framer Motion 等背后的原理，比如他最近发布的内容，介绍了 svg 路劲的实现逻辑，他将各种常见的曲线类型及其实现原理做了非常细致的拆解<br><br>⏺ 我录了个视频，方便你预览<br><br>传送门 👉 https://www.nan.fyi/<br><video src="https://videocdn.jellow.site/ln3fybAiZF3GSY2XR_2iI26qdEfA.mp4?sign=d3591c9d40342cab72ea09d1621167c2&amp;t=64ba75b4" controls=""></video>]]></description>
             <pubDate>Thu, 20 Jul 2023 03:35:25 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/64b8ab7db1d391675d70a667</guid>
             <link>https://m.okjike.com/originalPosts/64b8ab7db1d391675d70a667</link>
-            
-            
-            
-            <author><![CDATA[张小吉]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[这个 Github 仓库收集了来自全球各个口家 Y 民相关的资质资料和要求，对于有这方面需求的小伙伴可以看看，我粗略得过了一遍，项目介绍还细致得。比如，项目中介...]]></title>
-            <description><![CDATA[这个 Github 仓库收集了来自全球各个口家 Y 民相关的资质资料和要求，对于有这方面需求的小伙伴可以看看，我粗略得过了一遍，项目介绍还细致得。比如，项目中介绍了各个种类的签证，每个签证的区别是什么，在考虑迁到目标国家时，需要准备哪些语言，大概准备多少资金，如何找到目标工作等等。另外项目清单中，发现有一个德国专门针对 IT 人才的工签，只要能拿到工作录用就可以申请，对于学历没有要求。有兴趣的小伙伴，可以上去再具体了解一下<br><br>传送门 👉 https://github.com/AwesomeVisa/awesome-immigration/tree/master<br><img src="https://cdnv2.ruguoapp.com/FuOP5Op6Ana34gWl16lK31XerqPtv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FulSRV3gQjyX582FwUk5QZv7kx4Qv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 19 Jul 2023 06:04:00 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64b77cd0f14149eb2165b7fc</guid>
-            <link>https://m.okjike.com/originalPosts/64b77cd0f14149eb2165b7fc</link>
             
             
             
