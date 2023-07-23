@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sun, 23 Jul 2023 10:31:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jul 2023 14:44:37 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[周六下午，做了个Base64.kr，然后网站源码开源了； 网址：https://base64.kr/zh GIT 地址：https://github.com/JustAIGithub/base64.kr 【背景】 ①我喜欢(or 我...]]></title>
+            <description><![CDATA[<img src="https://cdnv2.ruguoapp.com/icons/link.png" referrerpolicy="no-referrer"><br>                    <a href="https://base64.kr/zh/">Base64 解码编码 | Base64 加密解密 - Base64.kr</a><br>                <br>周六下午，做了个Base64.kr，然后网站源码开源了；<br><br>网址：https://base64.kr/zh<br><br>GIT 地址：https://github.com/JustAIGithub/base64.kr<br><br>【背景】<br><br>①我喜欢(or 我需要)<br>作为程序员，平常工作中经常有用 Base64 解码调试程序的场景，这是 [我有需求]<br><br>②其他用户有需要<br>然后之前几个月在 similarweb 看了下数据，当时就注意到 Base64 Decode 的关键词，访问量韩国流量不少， 这周六又看了一次，发现韩国流量排到第一了；但是观察对比了好几个类似的 Base64 网站没有找到韩国顶级域名做 Base 解码编码的； 于是我买了 Base64.kr ，尝试验证下跨国域名工具站单页的 seo 和流量情况；<br><br>③我能做<br>主要结合 ChatGPT ，可以很快一天就能做出来<br><br>基于上面三点（ 1.我喜欢 2.我能做 3.有用户需求），我做了 Base64.kr<br><br>这个是个简单的工具站单页，V1.0 全部代码花了我不到一天时间（主要是 ChatGPT 给力），对这个工具站的预期是：【做时间的朋友】<br><br>同时：<br><br>⑴观察数据流量<br>⑵验证国域名是否有优势<br>⑶自己用<br>⑷等待流量慢慢涨起来，养成系<br>整个工具站很简单，追求就简单的 Html 、CSS 、JS 就能跑起来，GIT 上的 g 友们，有感兴趣的可以 clone 、push ；]]></description>
+            <pubDate>Sun, 23 Jul 2023 07:09:31 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64bcd22b38acc7bb51c314fb</guid>
+            <link>https://m.okjike.com/originalPosts/64bcd22b38acc7bb51c314fb</link>
+            
+            
+            
+            <author><![CDATA[AUDI_GUZZ]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[最近身边一个朋友被裁员，面了两个月，不想再面了，拿了 pdd 的 offer，很纠结要不要去，对方 hr 在电话里明说，11116，早上十一点，晚上十一点，一周六天，🤦...]]></title>
@@ -89,24 +105,8 @@
         </item>
         
         <item>
-            <title><![CDATA[关于独立开发者进行海外收款，在网上搜到了一些注册 Stripe 账号的教程，主要得解决三个问题： 1. 去 Fiverr 找人代办 EIN，会提供 147C 2. 在 Wise/Payoneer 上...]]></title>
-            <description><![CDATA[关于独立开发者进行海外收款，在网上搜到了一些注册 Stripe 账号的教程，主要得解决三个问题：<br><br>1. 去 Fiverr 找人代办 EIN，会提供 147C<br>2. 在 Wise/Payoneer 上开通美国银行账户<br>3. 使用 Google Voice 搞定美国手机号码问题<br><br>还需要一个美国地址，可以用生成器，但是风险似乎有点高？另外，只有 EIN 没有 SSN 是不是也是个风险。<br><br>除了第一步可以直接花钱解决，后面两步折腾半天都没搞定，Wise 上中国区用户貌似不支持？Google Voice 淘宝上也没买到。看到最后还有一个养号指南，对登录 IP、转账金额、交易频度等各种限制，好担心真的申请下来又被风控。<br><br>有靠谱的渠道或者教程搞定这事儿么😂]]></description>
-            <pubDate>Thu, 20 Jul 2023 04:20:48 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64b8b620b1d391675d71fb59</guid>
-            <link>https://m.okjike.com/originalPosts/64b8b620b1d391675d71fb59</link>
-            
-            
-            
-            <author><![CDATA[Barret李靖]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[这个项目，建议喜欢研究交互式原理的小伙伴关注下 作者制作了一系列可交互网页，用来解释数据结构、算法、Framer Motion 等背后的原理，比如他最近发布的内容，...]]></title>
-            <description><![CDATA[这个项目，建议喜欢研究交互式原理的小伙伴关注下<br><br>作者制作了一系列可交互网页，用来解释数据结构、算法、Framer Motion 等背后的原理，比如他最近发布的内容，介绍了 svg 路劲的实现逻辑，他将各种常见的曲线类型及其实现原理做了非常细致的拆解<br><br>⏺ 我录了个视频，方便你预览<br><br>传送门 👉 https://www.nan.fyi/<br><video src="https://videocdn.jellow.site/ln3fybAiZF3GSY2XR_2iI26qdEfA.mp4?sign=94c76799cad06501b845fb9b13f091ed&amp;t=64bd07d0" controls=""></video>]]></description>
+            <description><![CDATA[这个项目，建议喜欢研究交互式原理的小伙伴关注下<br><br>作者制作了一系列可交互网页，用来解释数据结构、算法、Framer Motion 等背后的原理，比如他最近发布的内容，介绍了 svg 路劲的实现逻辑，他将各种常见的曲线类型及其实现原理做了非常细致的拆解<br><br>⏺ 我录了个视频，方便你预览<br><br>传送门 👉 https://www.nan.fyi/<br><video src="https://videocdn.jellow.site/ln3fybAiZF3GSY2XR_2iI26qdEfA.mp4?sign=2e3a4bb9bad2dcd798e9ef4e468faa8e&amp;t=64bd4359" controls=""></video>]]></description>
             <pubDate>Thu, 20 Jul 2023 03:35:25 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/64b8ab7db1d391675d70a667</guid>
             <link>https://m.okjike.com/originalPosts/64b8ab7db1d391675d70a667</link>
