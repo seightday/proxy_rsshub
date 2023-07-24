@@ -21,8 +21,40 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 24 Jul 2023 03:08:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jul 2023 07:10:13 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[推荐一个可自定义的图标库资源：https://iconbuddy.app 它有10万多个图标，120多个图标集，并且每个图标都可以编辑，自定义，下载多种格式（SVG，PNG，WebP，甚...]]></title>
+            <description><![CDATA[推荐一个可自定义的图标库资源：https://iconbuddy.app<br><br>它有10万多个图标，120多个图标集，并且每个图标都可以编辑，自定义，下载多种格式（SVG，PNG，WebP，甚至还有 React 和 Vue）。<br><img src="https://cdnv2.ruguoapp.com/Fue4toom7WqwISjK28s9xLAie9-Hv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 24 Jul 2023 04:20:21 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64bdfc059c6e6f2f00590e83</guid>
+            <link>https://m.okjike.com/originalPosts/64bdfc059c6e6f2f00590e83</link>
+            
+            
+            
+            <author><![CDATA[BigYe程普]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[搞一个新词新站挑战赛，只要是今明两天（2023年7月24日~25日）注册的域名都可以参赛。 注册域名后在评论区报名即算参赛。 然后你就可以去开发网站，尽可能让自己...]]></title>
+            <description><![CDATA[搞一个新词新站挑战赛，只要是今明两天（2023年7月24日~25日）注册的域名都可以参赛。<br>注册域名后在评论区报名即算参赛。<br>然后你就可以去开发网站，尽可能让自己的关键字被谷歌排名到前面。<br>网站需要添加Google Analytics 统计代码，以及添加到Google Search Console中。<br>两周后，8月8日，立秋那天，我们来看看收获。<br>从谷歌获取流量第一名者，我个人出资，奖励666元。<br>网站流量第一名者，我个人出资，奖励666元。<br>也就是说，如果你得到了双料冠军，就可以得到两个666元。<br>你的成本只是一个域名注册的钱，敢不敢来参赛？<br>特别说明：<br>1、参与活动域名数量≥5，活动才算正式成立。主要是怕只有一两个人参与，那么人人都是冠军了；<br>2、一人仅限报名一个域名，怕的是高手用多个域名参赛，那么其他人就没机会了。<br>活动真实有效，童叟无欺。<br><img src="https://cdnv2.ruguoapp.com/FuLTWi32L_gkFse02jbL34u4GW8Ev3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 24 Jul 2023 02:00:31 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64bddb3f1b83e0b21a6417da</guid>
+            <link>https://m.okjike.com/originalPosts/64bddb3f1b83e0b21a6417da</link>
+            
+            
+            
+            <author><![CDATA[哥飞]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[https://github.com/all-in-aigc/claude-webapi claude2 webapi sdk 发到 github 了，有需要的朋友可以使用。☺️]]></title>
@@ -73,38 +105,6 @@
         </item>
         
         <item>
-            <title><![CDATA[做独立开发产品的时候，UI设计对很多人来说是个难题（包括我），在公司里有设计师提供设计稿，只需要还原设计稿就可以了，自己折腾产品的时候，如何做出好看的UI...]]></title>
-            <description><![CDATA[做独立开发产品的时候，UI设计对很多人来说是个难题（包括我），在公司里有设计师提供设计稿，只需要还原设计稿就可以了，自己折腾产品的时候，如何做出好看的UI呢？<br>这篇文章介绍了如何在Figma中使用Tailwind CSS 构建设计系统：<br>https://uxplanet.org/building-a-design-system-with-tailwind-css-a-step-by-step-guide-f03f99f87aba<br><br>设计UI的时候我一般会有两种方式，一种是用现成的组建库，用默认的样式或者改改主题颜色，比如阿里的 Ant，这种方式的好处是简单，开发速度比较快，缺点是不太好看，没有特点，如果默认行为不能满足需求，改起来比较麻烦。<br><br>还有一种方式是不使用组建库，或者使用 handless 的组件库，只提供行为没有样式，在Figma 中画出设计稿，然后用 CSS 去实现样式，结合Tailwind CSS，开发体验也很好，按照文章中的步骤，在Figma中将Tailwind CSS相关的变量设置好，开发时直接还原就可以了。<br><br>再推荐一个生成颜色搭配的工具，也是配合Tailwind CSS使用，选择一个颜色，直接生成色卡，懒人必备了<br>https://uicolors.app/create]]></description>
-            <pubDate>Fri, 21 Jul 2023 03:02:14 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64b9f536ca2b035a486c6b58</guid>
-            <link>https://m.okjike.com/originalPosts/64b9f536ca2b035a486c6b58</link>
-            
-            
-            
-            <author><![CDATA[半庄]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[新时代的独立开发者应该向以前的独立站老站长们学习一个啊🌝 流量运营，SEO，跨国电汇，完全独立的收支系统（费率最低能干到0.6%），个个玩儿都很6…… 最后分...]]></title>
-            <description><![CDATA[新时代的独立开发者应该向以前的独立站老站长们学习一个啊🌝<br>流量运营，SEO，跨国电汇，完全独立的收支系统（费率最低能干到0.6%），个个玩儿都很6……<br>最后分享一个收获：<br>1⃣️ Northwestregisteredagent 注册公司<br>2⃣️ 淘宝买个传真服务申请下EIN<br>3⃣️ 用公司信息开个Mercury Bank账户<br>4⃣️ 然后你就足不出户花100💲拥有了一个美国银行账户]]></description>
-            <pubDate>Thu, 20 Jul 2023 14:15:50 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64b9419638acc7bb5172cd87</guid>
-            <link>https://m.okjike.com/originalPosts/64b9419638acc7bb5172cd87</link>
-            
-            
-            
-            <author><![CDATA[莫尔索]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[我的评价是：6]]></title>
             <description><![CDATA[我的评价是：6<br><img src="https://cdnv2.ruguoapp.com/FuNnUGbTbmwUdBeZ6BMGFnqy2CgGv3.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Thu, 20 Jul 2023 11:11:06 GMT</pubDate>
@@ -122,7 +122,7 @@
         
         <item>
             <title><![CDATA[这个项目，建议喜欢研究交互式原理的小伙伴关注下 作者制作了一系列可交互网页，用来解释数据结构、算法、Framer Motion 等背后的原理，比如他最近发布的内容，...]]></title>
-            <description><![CDATA[这个项目，建议喜欢研究交互式原理的小伙伴关注下<br><br>作者制作了一系列可交互网页，用来解释数据结构、算法、Framer Motion 等背后的原理，比如他最近发布的内容，介绍了 svg 路劲的实现逻辑，他将各种常见的曲线类型及其实现原理做了非常细致的拆解<br><br>⏺ 我录了个视频，方便你预览<br><br>传送门 👉 https://www.nan.fyi/<br><video src="https://videocdn.jellow.site/ln3fybAiZF3GSY2XR_2iI26qdEfA.mp4?sign=c6786bd153c4918bb18b96e3335010ea&amp;t=64bdf049" controls=""></video>]]></description>
+            <description><![CDATA[这个项目，建议喜欢研究交互式原理的小伙伴关注下<br><br>作者制作了一系列可交互网页，用来解释数据结构、算法、Framer Motion 等背后的原理，比如他最近发布的内容，介绍了 svg 路劲的实现逻辑，他将各种常见的曲线类型及其实现原理做了非常细致的拆解<br><br>⏺ 我录了个视频，方便你预览<br><br>传送门 👉 https://www.nan.fyi/<br><video src="https://videocdn.jellow.site/ln3fybAiZF3GSY2XR_2iI26qdEfA.mp4?sign=01b76f8b7cec8c9e0306039f8f1b8659&amp;t=64be2a14" controls=""></video>]]></description>
             <pubDate>Thu, 20 Jul 2023 03:35:25 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/64b8ab7db1d391675d70a667</guid>
             <link>https://m.okjike.com/originalPosts/64b8ab7db1d391675d70a667</link>

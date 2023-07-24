@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
-
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
 
 >
     <channel>
         <title><![CDATA[最新限免 / 促销应用]]></title>
         <link>https://gofans.cn/</link>
-        <atom:link href="https://rsshub.app/appstore/gofans" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub/appstore/gofans" rel="self" type="application/rss+xml" />
         <description><![CDATA[GoFans：最新限免 / 促销应用 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -15,14 +14,95 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Mon, 24 Jul 2023 02:44:00 GMT</lastBuildDate>
-        <ttl>120</ttl>
+        <lastBuildDate>Mon, 24 Jul 2023 08:16:50 GMT</lastBuildDate>
+        <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[「免费」-「iOS」超级MP3格式转换器]]></title>
+            <description><![CDATA[<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/aa/a8/c5/aaa8c502-5c4f-d5ae-17f1-729403ec3b6e/app_mac_store.png/256x256bb.png" referrerpolicy="no-referrer">
+          <br>
+          原价：¥98.00 -> 现价：¥0.00
+          <br>
+          平台：macOS
+          <br>
+          超级 MP3 转换器可以转换几乎所有的视频/音频, 如 MP4, MOV, M4V, MKV, AVI, WMV, FLV, FLAC, wav, M4A, 和 WMA, MP3, AAC, AIFF, ALAC, wav, 和 M4A ，以闪电速度和零质量损失。此外, 它使您可以从最流行的视频提取音频文件, 如 MP4, MOV, MKV, M4V, AVI 和更多。转换后的音频文件可以很好地在 iPhone 7/8/SE/6/6 plus/5/5s/4s, ipad Air 2, ipad 迷你 3, ipad 迷你, ipad 4, ipod touch, ipod Nano和其他播放器
+        ]]></description>
+            <pubDate>Mon, 24 Jul 2023 06:33:38 GMT</pubDate>
+            <guid isPermaLink="false">https://gofans.cn/app/011150e9-148c-4f81-aba6-fa64473e1c6b</guid>
+            <link>https://gofans.cn/app/011150e9-148c-4f81-aba6-fa64473e1c6b</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[「免费」-「iOS」记住圆周率 - 3.14π]]></title>
+            <description><![CDATA[<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/00/29/dc/0029dcac-aca2-eb71-5b3d-a2a8738627e2/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/256x256bb.jpg" referrerpolicy="no-referrer">
+          <br>
+          原价：¥22.00 -> 现价：¥0.00
+          <br>
+          平台：iOS
+          <br>
+          圆周率，定义为圆的周长（即圆周）与直径的比值。一般以π来表示，是一个在数学及物理学普遍存在的数学常数，是精确计算圆周、圆面积、球体积等几何量的关键值。
+
+世界记录是100,000位，由日本人原口证于2006年10月3日背诵。
+
+普通话用谐音记忆的有“山巅一寺一壶酒，尔乐苦煞吾，把酒吃，酒杀尔，杀不死，乐而乐”，就是3.1415926535897932384626。 另一谐音为：“山巅一石一壶酒，二妞舞扇舞，把酒沏酒搧又搧，饱死啰”，就是3.14159265358979323846。
+
+这应用能帮助你快速学习背诵圆周率。
+
+添加网络对战模式，如果所有设备都连接在同一的区域网络上。你可以发起多达5
+        ]]></description>
+            <pubDate>Mon, 24 Jul 2023 06:30:35 GMT</pubDate>
+            <guid isPermaLink="false">https://gofans.cn/app/7a652fbf-4657-4313-a841-3c8c3467035a</guid>
+            <link>https://gofans.cn/app/7a652fbf-4657-4313-a841-3c8c3467035a</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[「免费」-「iOS」ScheduleMe]]></title>
+            <description><![CDATA[<img src="https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/ea/2c/19/ea2c1988-b97f-6cc3-70f1-7f3f53dabe36/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/256x256bb.jpg" referrerpolicy="no-referrer">
+          <br>
+          原价：¥22.00 -> 现价：¥0.00
+          <br>
+          平台：iOS
+          <br>
+          ScheduleMe 操作简单，配置灵活，功能强大。有了它，待办事项，习惯养成，任务安排，多人协作，都能轻松胜任，工作生活，有条不紊。
+
+1，每天在 9:15, 11:15, 14:15, 16:15,  喝杯水，休息一下。新建一个每天重复的项目，选择这四个时间点，保存即可。先坚持30天，到期后自动为我延长，勾选“自动延续”即可。对了，周末和节假日不需要提醒，勾选相应的排除项就行了。
+
+2，每天在8:00和20:00，锻炼身体两次。新建一个每天重复的项目，选择这两个时间点，保存即可。进一步细化，添加几个清单项，比如，俯卧撑30个，卷腹60个，深蹲90个，保存之后，这些清单项会自动分配给每个子任
+        ]]></description>
+            <pubDate>Mon, 24 Jul 2023 04:46:58 GMT</pubDate>
+            <guid isPermaLink="false">https://gofans.cn/app/d998d2fd-52b3-4924-9f09-2cecf776b924</guid>
+            <link>https://gofans.cn/app/d998d2fd-52b3-4924-9f09-2cecf776b924</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[「降价」-「iOS」Farm Touch Sounds]]></title>
             <description><![CDATA[<img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/b2/97/55/b297555c-3838-6f48-4543-a6f4a17c821e/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/256x256bb.jpg" referrerpolicy="no-referrer">
           <br>
-          原价：¥15.00 -&gt; 现价：¥8.00
+          原价：¥15.00 -> 现价：¥8.00
           <br>
           平台：iOS
           <br>
@@ -51,7 +131,7 @@ Let them explore and learn, with 5 vivid high definition photos and
             <title><![CDATA[「免费」-「iOS」我的画笔 MyBrushes]]></title>
             <description><![CDATA[<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/06/fb/c3/06fbc306-52d0-ba17-f8a7-acdc155b513e/mybrushes_mac.png/256x256bb.png" referrerpolicy="no-referrer">
           <br>
-          原价：¥28.00 -&gt; 现价：¥0.00
+          原价：¥28.00 -> 现价：¥0.00
           <br>
           平台：macOS
           <br>
@@ -80,7 +160,7 @@ MyBrushes = 无限的绘画层＋无限次的Undo, Redo(撤销+重做) + 无限�
             <title><![CDATA[「降价」-「iOS」System Toolkit]]></title>
             <description><![CDATA[<img src="https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/cb/91/43/cb914377-568b-db48-4f6d-45cc5f5959d5/AppIcon-85-220-4-2x.png/256x256bb.png" referrerpolicy="no-referrer">
           <br>
-          原价：¥15.00 -&gt; 现价：¥8.00
+          原价：¥15.00 -> 现价：¥8.00
           <br>
           平台：macOS
           <br>
@@ -108,7 +188,7 @@ Keep track of all your system loads. This includes CPU load, memory usage, netwo
             <title><![CDATA[「免费」-「iOS」剪贴画素材图库：图标，插图，矢量图形，动态背景和圣诞元素集合]]></title>
             <description><![CDATA[<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple117/v4/a9/eb/db/a9ebdb43-2740-6adf-f993-4678f5f54ef6/mzl.ipoiewre.png/256x256bb.png" referrerpolicy="no-referrer">
           <br>
-          原价：¥28.00 -&gt; 现价：¥0.00
+          原价：¥28.00 -> 现价：¥0.00
           <br>
           平台：macOS
           <br>
@@ -140,7 +220,7 @@ Keep track of all your system loads. This includes CPU load, memory usage, netwo
             <title><![CDATA[「免费」-「iOS」发条日签-好心情制造机]]></title>
             <description><![CDATA[<img src="https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/c9/ac/b2/c9acb2a0-a34d-149f-6160-2e0e26856392/AppIcon-0-1x_U007emarketing-0-6-0-85-220.png/256x256bb.jpg" referrerpolicy="no-referrer">
           <br>
-          原价：¥8.00 -&gt; 现价：¥0.00
+          原价：¥8.00 -> 现价：¥0.00
           <br>
           平台：iOS
           <br>
@@ -176,7 +256,7 @@ Keep track of all your system loads. This includes CPU load, memory usage, netwo
             <title><![CDATA[「降价」-「iOS」Mapping Tonal Harmony Pro]]></title>
             <description><![CDATA[<img src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/cc/da/cd/ccdacd53-a41c-b349-27fd-8f73850e8803/AppIcon-1x_U007emarketing-0-0-0-10-0-0-85-220.png/256x256bb.jpg" referrerpolicy="no-referrer">
           <br>
-          原价：¥98.00 -&gt; 现价：¥68.00
+          原价：¥98.00 -> 现价：¥68.00
           <br>
           平台：iOS
           <br>
@@ -199,7 +279,7 @@ Keep track of all your system loads. This includes CPU load, memory usage, netwo
             <title><![CDATA[「降价」-「iOS」Saierda - 塞尔达助手，王国之泪攻略]]></title>
             <description><![CDATA[<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e1/5c/80/e15c8068-c895-46de-a822-9a53442d89e4/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/256x256bb.jpg" referrerpolicy="no-referrer">
           <br>
-          原价：¥8.00 -&gt; 现价：¥3.00
+          原价：¥8.00 -> 现价：¥3.00
           <br>
           平台：iOS
           <br>
@@ -235,7 +315,7 @@ Keep track of all your system loads. This includes CPU load, memory usage, netwo
             <title><![CDATA[「免费」-「iOS」沙盒星球]]></title>
             <description><![CDATA[<img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/aa/e4/fc/aae4fc1a-94e7-cf71-a158-a1f7e15ce459/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/256x256bb.jpg" referrerpolicy="no-referrer">
           <br>
-          原价：¥68.00 -&gt; 现价：¥0.00
+          原价：¥68.00 -> 现价：¥0.00
           <br>
           平台：iOS
           <br>
@@ -260,7 +340,7 @@ Keep track of all your system loads. This includes CPU load, memory usage, netwo
             <title><![CDATA[「免费」-「iOS」HEIC Converter - Aiseesoft]]></title>
             <description><![CDATA[<img src="https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/17/a0/87/17a08726-5b50-3ec9-8080-3b22e60ef926/app_mac_store.png/256x256bb.png" referrerpolicy="no-referrer">
           <br>
-          原价：¥68.00 -&gt; 现价：¥0.00
+          原价：¥68.00 -> 现价：¥0.00
           <br>
           平台：macOS
           <br>
@@ -289,7 +369,7 @@ HEIC Converter能够将HEIC转换为具有完全原始图像质量的JPG或PNG
             <title><![CDATA[「降价」-「iOS」算法导论.助手]]></title>
             <description><![CDATA[<img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/50/a0/0c/50a00c8a-77a2-a74e-6af8-1524a8534a7d/AppIcon-1x_U007emarketing-0-10-0-85-220.png/256x256bb.jpg" referrerpolicy="no-referrer">
           <br>
-          原价：¥6.00 -&gt; 现价：¥1.00
+          原价：¥6.00 -> 现价：¥1.00
           <br>
           平台：iOS
           <br>
@@ -321,7 +401,7 @@ HEIC Converter能够将HEIC转换为具有完全原始图像质量的JPG或PNG
             <title><![CDATA[「免费」-「iOS」LED弹幕 - 手持应援显示屏，跑马灯字幕]]></title>
             <description><![CDATA[<img src="https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/a6/8b/09/a68b093d-7a57-ce44-ecfa-28419980e3f9/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/256x256bb.jpg" referrerpolicy="no-referrer">
           <br>
-          原价：¥8.00 -&gt; 现价：¥0.00
+          原价：¥8.00 -> 现价：¥0.00
           <br>
           平台：iOS
           <br>
@@ -340,7 +420,7 @@ HEIC Converter能够将HEIC转换为具有完全原始图像质量的JPG或PNG
 
 ＃ 特点
 
- - 跑马灯 &amp; 变形字 两种动画，任你选择
+ - 跑马灯 & 变形字 两种动画，任你选择
  - 支持更改文字大小、颜色和样式以及动画速度
  - 完美适配 iPhone， iPad
         ]]></description>
@@ -361,7 +441,7 @@ HEIC Converter能够将HEIC转换为具有完全原始图像质量的JPG或PNG
             <title><![CDATA[「降价」-「iOS」Author]]></title>
             <description><![CDATA[<img src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/96/8a/53/968a53f2-29cd-f72b-5f54-fb1d85524a6b/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/256x256bb.png" referrerpolicy="no-referrer">
           <br>
-          原价：¥198.00 -&gt; 现价：¥148.00
+          原价：¥198.00 -> 现价：¥148.00
           <br>
           平台：macOS
           <br>
@@ -389,7 +469,7 @@ Get to grips with your work in more powerful ways with powerful Views, integrate
             <title><![CDATA[「免费」-「iOS」图片批量处理Batch Photo Editor]]></title>
             <description><![CDATA[<img src="https://is5-ssl.mzstatic.com/image/thumb/Purple6/v4/43/2e/52/432e5250-734a-de67-f1d5-ae37633b6358/BPEIcon.png/256x256bb.png" referrerpolicy="no-referrer">
           <br>
-          原价：¥38.00 -&gt; 现价：¥0.00
+          原价：¥38.00 -> 现价：¥0.00
           <br>
           平台：macOS
           <br>
@@ -434,7 +514,7 @@ Batch Photo Editor 是一款简单易用的图像批处理软件。它可以批�
             <title><![CDATA[「免费」-「iOS」我的画笔专业版 MyBrushes Pro]]></title>
             <description><![CDATA[<img src="https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/0e/d3/3a/0ed33a3c-ae7c-d862-e341-b42c6caf78e9/AppIcon-1-1x_U007emarketing-0-85-220-0-7.png/256x256bb.jpg" referrerpolicy="no-referrer">
           <br>
-          原价：¥22.00 -&gt; 现价：¥0.00
+          原价：¥22.00 -> 现价：¥0.00
           <br>
           平台：iOS
           <br>
@@ -460,7 +540,7 @@ MyBrushes Pro 是一款独特的,能够回放整个绘画过程的绘画工具�
             <title><![CDATA[「免费」-「iOS」MOV Converter Pro - 转MP4 / AVI]]></title>
             <description><![CDATA[<img src="https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/52/1c/f1/521cf1e6-b4be-19ab-712c-f6733f1ce28e/app_mac_store.png/256x256bb.png" referrerpolicy="no-referrer">
           <br>
-          原价：¥148.00 -&gt; 现价：¥0.00
+          原价：¥148.00 -> 现价：¥0.00
           <br>
           平台：macOS
           <br>
@@ -486,7 +566,7 @@ Aiseesoft MOV Converter Pro可以方便地将视频转换为MOV格式和从MOV�
             <title><![CDATA[「免费」-「iOS」Color Accent]]></title>
             <description><![CDATA[<img src="https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/11/9a/af/119aaf87-b498-6e20-5a92-51502ffeccf6/AppIcon-0-1x_U007emarketing-0-0-85-220-0-6.png/256x256bb.jpg" referrerpolicy="no-referrer">
           <br>
-          原价：¥8.00 -&gt; 现价：¥0.00
+          原价：¥8.00 -> 现价：¥0.00
           <br>
           平台：iOS
           <br>
@@ -516,7 +596,7 @@ FEATURES
             <title><![CDATA[「免费」-「iOS」Magnifying Glass & Flashlight]]></title>
             <description><![CDATA[<img src="https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/15/8e/f0/158ef068-6caa-8b79-91ed-59e8eeb329e6/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/256x256bb.jpg" referrerpolicy="no-referrer">
           <br>
-          原价：¥8.00 -&gt; 现价：¥0.00
+          原价：¥8.00 -> 现价：¥0.00
           <br>
           平台：iOS
           <br>
@@ -529,77 +609,6 @@ The Magnifier Flash App is a very convenient and h
             <pubDate>Fri, 21 Jul 2023 11:49:41 GMT</pubDate>
             <guid isPermaLink="false">https://gofans.cn/app/4cb2dde1-f8c1-4700-a247-508bc4705c8b</guid>
             <link>https://gofans.cn/app/4cb2dde1-f8c1-4700-a247-508bc4705c8b</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[「免费」-「iOS」Orderly - Simple to-do lists]]></title>
-            <description><![CDATA[<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c2/08/d0/c208d011-7133-0aaf-7a13-d9059a452047/AppIcon-1-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/256x256bb.jpg" referrerpolicy="no-referrer">
-          <br>
-          原价：¥15.00 -&gt; 现价：¥0.00
-          <br>
-          平台：iOS
-          <br>
-          It is a nice and incredibly easy to use to-do list app, that features a breath-taking interface, seamless cloud sync, and comes with "Location Based Reminders", so that the users never miss a to-do task at a particular location. With the unique visual layout, you can get a glimpse of your to-do list
-        ]]></description>
-            <pubDate>Fri, 21 Jul 2023 11:49:38 GMT</pubDate>
-            <guid isPermaLink="false">https://gofans.cn/app/5f8c6d12-b9aa-4e6f-a90e-d2bc5871f3f4</guid>
-            <link>https://gofans.cn/app/5f8c6d12-b9aa-4e6f-a90e-d2bc5871f3f4</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[「免费」-「iOS」System Activity Monitors]]></title>
-            <description><![CDATA[<img src="https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/e4/f7/fa/e4f7fafb-f30f-4f87-8138-91f340873224/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/256x256bb.jpg" referrerpolicy="no-referrer">
-          <br>
-          原价：¥15.00 -&gt; 现价：¥0.00
-          <br>
-          平台：iOS
-          <br>
-          The app monitors iOS activity like memory usage, battery life, used space,  and device information. Great visuals like speedometer view, LED indicator, 3D bar charts, battery charging animation, LED flashing charger, provides you a rich visual views of your iOS device internals, like you have never 
-        ]]></description>
-            <pubDate>Fri, 21 Jul 2023 11:48:57 GMT</pubDate>
-            <guid isPermaLink="false">https://gofans.cn/app/78a4aea0-49d8-4429-8006-53e379d74789</guid>
-            <link>https://gofans.cn/app/78a4aea0-49d8-4429-8006-53e379d74789</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[「免费」-「iOS」Calcly: Free Universal Calculator for iPad]]></title>
-            <description><![CDATA[<img src="https://is5-ssl.mzstatic.com/image/thumb/Purple49/v4/bf/f8/d8/bff8d864-ba55-7474-8c43-40a18a642cfc/mzl.njqgqmho.png/256x256bb.jpg" referrerpolicy="no-referrer">
-          <br>
-          原价：¥8.00 -&gt; 现价：¥0.00
-          <br>
-          平台：iOS
-          <br>
-          * Free for a limited time! Download now *
-
-Sick of calculators filled with ads and paid functions to perform Calcly is a universal calculator for iPad. With 8 memory cells, you can perform functions for Trigonometry, Algebra, Logarithms, Power, Factorials &amp; more. Our calculator is perfect for studen
-        ]]></description>
-            <pubDate>Fri, 21 Jul 2023 06:34:06 GMT</pubDate>
-            <guid isPermaLink="false">https://gofans.cn/app/3f484040-96b6-4a28-af1a-ae336e0c3b60</guid>
-            <link>https://gofans.cn/app/3f484040-96b6-4a28-af1a-ae336e0c3b60</link>
             
             
             
