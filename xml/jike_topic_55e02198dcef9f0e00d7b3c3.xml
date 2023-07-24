@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 24 Jul 2023 07:10:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jul 2023 11:11:56 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[做独立开发3个多月里，最近也看到了很多对独立开发感兴趣，或者刚开始做的人。目前我算是度过了独立开发新手期，分享一下我做独立开发以来一些肤浅有限的经验。]]></title>
+            <description><![CDATA[做独立开发3个多月里，最近也看到了很多对独立开发感兴趣，或者刚开始做的人。目前我算是度过了独立开发新手期，分享一下我做独立开发以来一些肤浅有限的经验。<br><img src="https://cdnv2.ruguoapp.com/Fhv5Vj5v41-PLTj26iaE6fTHdvcwv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 24 Jul 2023 07:10:26 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64be23e2e1ebb63d2c8b7b95</guid>
+            <link>https://m.okjike.com/originalPosts/64be23e2e1ebb63d2c8b7b95</link>
+            
+            
+            
+            <author><![CDATA[禅与沙县炒粉艺术]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[推荐一个可自定义的图标库资源：https://iconbuddy.app 它有10万多个图标，120多个图标集，并且每个图标都可以编辑，自定义，下载多种格式（SVG，PNG，WebP，甚...]]></title>
@@ -50,22 +66,6 @@
             
             
             <author><![CDATA[哥飞]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[https://github.com/all-in-aigc/claude-webapi claude2 webapi sdk 发到 github 了，有需要的朋友可以使用。☺️]]></title>
-            <description><![CDATA[https://github.com/all-in-aigc/claude-webapi<br><br>claude2 webapi sdk 发到 github 了，有需要的朋友可以使用。☺️]]></description>
-            <pubDate>Sun, 23 Jul 2023 07:58:44 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64bcddb4b1d391675dd41cf5</guid>
-            <link>https://m.okjike.com/originalPosts/64bcddb4b1d391675dd41cf5</link>
-            
-            
-            
-            <author><![CDATA[艾逗笔]]></author>
             
                 
             
@@ -122,7 +122,7 @@
         
         <item>
             <title><![CDATA[这个项目，建议喜欢研究交互式原理的小伙伴关注下 作者制作了一系列可交互网页，用来解释数据结构、算法、Framer Motion 等背后的原理，比如他最近发布的内容，...]]></title>
-            <description><![CDATA[这个项目，建议喜欢研究交互式原理的小伙伴关注下<br><br>作者制作了一系列可交互网页，用来解释数据结构、算法、Framer Motion 等背后的原理，比如他最近发布的内容，介绍了 svg 路劲的实现逻辑，他将各种常见的曲线类型及其实现原理做了非常细致的拆解<br><br>⏺ 我录了个视频，方便你预览<br><br>传送门 👉 https://www.nan.fyi/<br><video src="https://videocdn.jellow.site/ln3fybAiZF3GSY2XR_2iI26qdEfA.mp4?sign=01b76f8b7cec8c9e0306039f8f1b8659&amp;t=64be2a14" controls=""></video>]]></description>
+            <description><![CDATA[这个项目，建议喜欢研究交互式原理的小伙伴关注下<br><br>作者制作了一系列可交互网页，用来解释数据结构、算法、Framer Motion 等背后的原理，比如他最近发布的内容，介绍了 svg 路劲的实现逻辑，他将各种常见的曲线类型及其实现原理做了非常细致的拆解<br><br>⏺ 我录了个视频，方便你预览<br><br>传送门 👉 https://www.nan.fyi/<br><video src="https://videocdn.jellow.site/ln3fybAiZF3GSY2XR_2iI26qdEfA.mp4?sign=da707e8fac34d3e17219b4b8f35e12dc&amp;t=64be6334" controls=""></video>]]></description>
             <pubDate>Thu, 20 Jul 2023 03:35:25 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/64b8ab7db1d391675d70a667</guid>
             <link>https://m.okjike.com/originalPosts/64b8ab7db1d391675d70a667</link>
