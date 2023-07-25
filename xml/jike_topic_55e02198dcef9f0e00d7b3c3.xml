@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 25 Jul 2023 07:40:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jul 2023 12:10:24 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[自学计算机科学 开发者的学习资源 省万八千学费 持续更新 中文版 http://Teachyourselfcs.com]]></title>
+            <description><![CDATA[自学计算机科学<br><br>开发者的学习资源<br>省万八千学费<br><br>持续更新<br>中文版<br><br>http://Teachyourselfcs.com<br><img src="https://cdnv2.ruguoapp.com/FgwXJ5xBw4eHCokyRo6AiPlcKuFpv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 25 Jul 2023 09:35:03 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64bf9747f14149eb2127b318</guid>
+            <link>https://m.okjike.com/originalPosts/64bf9747f14149eb2127b318</link>
+            
+            
+            
+            <author><![CDATA[通义千问]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[我先放个一句话结论，看得懂的可以先行动，后面有空我再写文章解释。 万物皆可Embedding，万物皆能语义化，语义化之后，很多清单类的产品都可以重做一次了。 你...]]></title>
@@ -98,22 +114,6 @@
             
             
             <author><![CDATA[哥飞]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[周六下午，做了个Base64.kr，然后网站源码开源了； 网址：https://base64.kr/zh GIT 地址：https://github.com/JustAIGithub/base64.kr 【背景】 ①我喜欢(or 我...]]></title>
-            <description><![CDATA[<img src="https://cdnv2.ruguoapp.com/icons/link.png" referrerpolicy="no-referrer"><br>                    <a href="https://base64.kr/zh/">Base64 解码编码 | Base64 加密解密 - Base64.kr</a><br>                <br>周六下午，做了个Base64.kr，然后网站源码开源了；<br><br>网址：https://base64.kr/zh<br><br>GIT 地址：https://github.com/JustAIGithub/base64.kr<br><br>【背景】<br><br>①我喜欢(or 我需要)<br>作为程序员，平常工作中经常有用 Base64 解码调试程序的场景，这是 [我有需求]<br><br>②其他用户有需要<br>然后之前几个月在 similarweb 看了下数据，当时就注意到 Base64 Decode 的关键词，访问量韩国流量不少， 这周六又看了一次，发现韩国流量排到第一了；但是观察对比了好几个类似的 Base64 网站没有找到韩国顶级域名做 Base 解码编码的； 于是我买了 Base64.kr ，尝试验证下跨国域名工具站单页的 seo 和流量情况；<br><br>③我能做<br>主要结合 ChatGPT ，可以很快一天就能做出来<br><br>基于上面三点（ 1.我喜欢 2.我能做 3.有用户需求），我做了 Base64.kr<br><br>这个是个简单的工具站单页，V1.0 全部代码花了我不到一天时间（主要是 ChatGPT 给力），对这个工具站的预期是：【做时间的朋友】<br><br>同时：<br><br>⑴观察数据流量<br>⑵验证国域名是否有优势<br>⑶自己用<br>⑷等待流量慢慢涨起来，养成系<br>整个工具站很简单，追求就简单的 Html 、CSS 、JS 就能跑起来，GIT 上的 g 友们，有感兴趣的可以 clone 、push ；]]></description>
-            <pubDate>Sun, 23 Jul 2023 07:09:31 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64bcd22b38acc7bb51c314fb</guid>
-            <link>https://m.okjike.com/originalPosts/64bcd22b38acc7bb51c314fb</link>
-            
-            
-            
-            <author><![CDATA[AUDI_GUZZ]]></author>
             
                 
             
