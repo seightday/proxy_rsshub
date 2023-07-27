@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 27 Jul 2023 09:06:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jul 2023 15:13:02 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[跟朋友聊天，他有一个很大的疑问，为什么在中国，程序员越做越担心被淘汰，从道理上讲，不应该是越做越值钱么？ 程序员的编程能力、对系统的认知、对架构的掌控...]]></title>
+            <description><![CDATA[跟朋友聊天，他有一个很大的疑问，为什么在中国，程序员越做越担心被淘汰，从道理上讲，不应该是越做越值钱么？<br><br>程序员的编程能力、对系统的认知、对架构的掌控能力，随着年限一定是在提升的，相比绝大多数刚毕业两三年的新手来说，肯定有更多的优势，但是在中国不是这样，企业更喜欢年轻人，因为他们可以做到更加卷。<br><br>他说，为啥国外程序员就没有这种焦虑呢？可以安安心心地、长期地做技术，VSCode 这个产品要说复杂也没复杂到做不出来，整个设计思想还是很简单的，但在中国就没有造出来。]]></description>
+            <pubDate>Thu, 27 Jul 2023 10:06:26 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64c241a2172ece6ac37dd84e</guid>
+            <link>https://m.okjike.com/originalPosts/64c241a2172ece6ac37dd84e</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[❌证明自己的方式，做个程序，然后开源。 ⭕证明自己的方式，做个产品，然后赚钱。]]></title>
@@ -50,6 +66,22 @@
             
             
             <author><![CDATA[哥飞]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[使用 AI 总结 Youtube 视频，走 you-get 下载视频 → FFmpeg 转音频 → whisper 再转文字 → AI 总结，这个方法很通用，但是速度实在太慢了，临时想到了一个野路...]]></title>
+            <description><![CDATA[使用 AI 总结 Youtube 视频，走 you-get 下载视频 → FFmpeg 转音频 → whisper 再转文字 → AI 总结，这个方法很通用，但是速度实在太慢了，临时想到了一个野路子，验证了下也是可行的：<br><br>1）直接从网页接口拉取对应的字幕<br>2）AI 总结<br><br>Youtube 的字幕数据并没有藏的特别深，在图一就可以找到，控制台输入 document.getElementsByTagName('ytd-app')[0].data.playerResponse，对应的数据如图二所示。<br><br>做成 Chrome 插件可以直接完成数据读取，如果想做到更自动化，也可以使用 puppeteer headless 模式抓取，成本还是很低的，1s 内可以完成总结任务。<br><img src="https://cdnv2.ruguoapp.com/Fr4QKKkUbS2GOy07npubagGk_Z4fv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FgyGAVaMyhO3dhAibAqrSjsms_i9v3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 26 Jul 2023 15:10:36 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64c1376cfbc9a354346f2c64</guid>
+            <link>https://m.okjike.com/originalPosts/64c1376cfbc9a354346f2c64</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
             
                 
             
@@ -89,22 +121,6 @@
         </item>
         
         <item>
-            <title><![CDATA[很犀利的一篇文章，《工作不要当老黄牛》，https://hwv430.blogspot.com/2023/07/blog-post_8.html 作者认为，工作晋升从来都不是看你做成了多少事情，而是看你...]]></title>
-            <description><![CDATA[很犀利的一篇文章，《工作不要当老黄牛》，https://hwv430.blogspot.com/2023/07/blog-post_8.html<br><br>作者认为，工作晋升从来都不是看你做成了多少事情，而是看你辅佐的上司情况效果如何；进入企业工作，你的目标就是得升迁，尽一切可能升迁；在企业工作，客观规则就是：up or out。]]></description>
-            <pubDate>Mon, 24 Jul 2023 15:04:17 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64be92f1f14149eb211004dc</guid>
-            <link>https://m.okjike.com/originalPosts/64be92f1f14149eb211004dc</link>
-            
-            
-            
-            <author><![CDATA[Barret李靖]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[做独立开发3个多月里，最近也看到了很多对独立开发感兴趣，或者刚开始做的人。目前我算是度过了独立开发新手期，分享一下我做独立开发以来一些肤浅有限的经验。]]></title>
             <description><![CDATA[做独立开发3个多月里，最近也看到了很多对独立开发感兴趣，或者刚开始做的人。目前我算是度过了独立开发新手期，分享一下我做独立开发以来一些肤浅有限的经验。<br><img src="https://cdnv2.ruguoapp.com/Fhv5Vj5v41-PLTj26iaE6fTHdvcwv3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Mon, 24 Jul 2023 07:10:26 GMT</pubDate>
@@ -130,22 +146,6 @@
             
             
             <author><![CDATA[BigYe程普]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[搞一个新词新站挑战赛，只要是2023年7月20日之后注册的域名都可以参赛。 7月24日~25日在评论区报名即算参赛。 然后你就可以去开发网站，尽可能让自己的关键字被...]]></title>
-            <description><![CDATA[搞一个新词新站挑战赛，只要是2023年7月20日之后注册的域名都可以参赛。<br>7月24日~25日在评论区报名即算参赛。<br>然后你就可以去开发网站，尽可能让自己的关键字被谷歌排名到前面。<br>网站需要添加Google Analytics 统计代码，以及添加到Google Search Console中。<br>两周后，8月8日，立秋那天，我们来看看收获。<br>从谷歌获取流量第一名者，我个人出资，奖励666元。<br>网站流量第一名者，我个人出资，奖励666元。<br>也就是说，如果你得到了双料冠军，就可以得到两个666元。<br>你的成本只是一个域名注册的钱，敢不敢来参赛？<br>特别说明：<br>1、参与活动域名数量≥5，活动才算正式成立。主要是怕只有一两个人参与，那么人人都是冠军了；<br>2、一人仅限报名一个域名，怕的是高手用多个域名参赛，那么其他人就没机会了。<br>活动真实有效，童叟无欺。<br><img src="https://cdnv2.ruguoapp.com/FuLTWi32L_gkFse02jbL34u4GW8Ev3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 24 Jul 2023 02:00:31 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64bddb3f1b83e0b21a6417da</guid>
-            <link>https://m.okjike.com/originalPosts/64bddb3f1b83e0b21a6417da</link>
-            
-            
-            
-            <author><![CDATA[哥飞]]></author>
             
                 
             
