@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sun, 30 Jul 2023 04:01:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jul 2023 08:04:53 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -50,6 +50,22 @@
             
             
             <author><![CDATA[alswl]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[向程序员偷师学艺 很多大牛都推崇学习编程，编程由世界上最聪明的一群人创造，里面包含大量的内隐知识，在编程的世界里游荡可以一窥聪明人的所思所想。这不，最...]]></title>
+            <description><![CDATA[向程序员偷师学艺<br><br>很多大牛都推崇学习编程，编程由世界上最聪明的一群人创造，里面包含大量的内隐知识，在编程的世界里游荡可以一窥聪明人的所思所想。这不，最近我就从 xml 标记语言中学到了如何使用层级结构整理信息。<br><br>我需要下载基本甲状腺相关的书籍，需要标记它们的英文书籍，下载文件的类型以及储存的位置。如果是用 Excel，整理起来会非常的清楚，但是内容储存在 Excel 里面不方便后期检索、查找。我就想着在 flomo 中完成工作。<br><br> @flomo浮墨笔记 不支持表格，那如何办？我就想到了 xml，xml 使用层级形式整理信息，借助flomo 文本编辑器的锁进可以很方便的表示层级关系。说干就干，我将内容整理为：<br><br>- 中文书籍<br>  - 英文名称：<br>  - 已经下载：<br>  - 已经上传：<br><br>详细的内容如下图：书籍对应的英文名称，下载文件类型以及上传的位置都清清楚楚展现出来。<br><img src="https://cdnv2.ruguoapp.com/FgMGzmPUuGJXwnOfyxWPzy57i7XZv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sat, 29 Jul 2023 04:21:03 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64c493af94d175e98d816f82</guid>
+            <link>https://m.okjike.com/originalPosts/64c493af94d175e98d816f82</link>
+            
+            
+            
+            <author><![CDATA[阿帅的健康笔记]]></author>
             
                 
             
@@ -130,22 +146,6 @@
             
             
             <author><![CDATA[通义千问]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[推荐一个可自定义的图标库资源：https://iconbuddy.app 它有10万多个图标，120多个图标集，并且每个图标都可以编辑，自定义，下载多种格式（SVG，PNG，WebP，甚...]]></title>
-            <description><![CDATA[推荐一个可自定义的图标库资源：https://iconbuddy.app<br><br>它有10万多个图标，120多个图标集，并且每个图标都可以编辑，自定义，下载多种格式（SVG，PNG，WebP，甚至还有 React 和 Vue）。<br><img src="https://cdnv2.ruguoapp.com/Fue4toom7WqwISjK28s9xLAie9-Hv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 24 Jul 2023 04:20:21 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64bdfc059c6e6f2f00590e83</guid>
-            <link>https://m.okjike.com/originalPosts/64bdfc059c6e6f2f00590e83</link>
-            
-            
-            
-            <author><![CDATA[BigYe程普]]></author>
             
                 
             
