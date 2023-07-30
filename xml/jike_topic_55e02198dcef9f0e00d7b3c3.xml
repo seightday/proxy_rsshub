@@ -21,19 +21,19 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sun, 30 Jul 2023 12:06:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jul 2023 16:11:25 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
-            <title><![CDATA[再试了试在 iPad 上通过 VS Code Tunnel 写代码，Server 跑在 Mac mini 上，iPad 在 Safari 上打开链接就可以。现在支持很完整，有点惊艳了。Vim 自定义 keymap ...]]></title>
-            <description><![CDATA[再试了试在 iPad 上通过 VS Code Tunnel 写代码，Server 跑在 Mac mini 上，iPad 在 Safari 上打开链接就可以。现在支持很完整，有点惊艳了。Vim 自定义 keymap 完整支持，rust analyzer 的所有操作都支持，excalidraw 这种 webview 插件也没问题，lean4 交互式编程插件也正常用。而且除了网络延迟带来一些加载速度的问题外，整体都很流畅。这兼容性做得太强了<br><img src="https://cdnv2.ruguoapp.com/FsVTuFeFndbzLvyPn522Ol6fXsyTv3.heic" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 29 Jul 2023 16:31:05 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64c53ec91e2cb61bcaa8fccb</guid>
-            <link>https://m.okjike.com/originalPosts/64c53ec91e2cb61bcaa8fccb</link>
+            <title><![CDATA[这个项目值得拿来学习 https://github.com/leerob/leerob.io 特点是可以免费部署在 Vercel 上，数据库用的 PlanetScale 初期也是免费使用的。所以整套技术栈完全...]]></title>
+            <description><![CDATA[这个项目值得拿来学习 https://github.com/leerob/leerob.io <br>特点是可以免费部署在 Vercel 上，数据库用的 PlanetScale 初期也是免费使用的。所以整套技术栈完全是为免费网站服务的。基于这个项目，我们改改就能拿来做别的网站。<br>Framework: Next.js<br>Database: PlanetScale<br>Authentication: NextAuth.js<br>Deployment: Vercel<br>Styling: Tailwind CSS<br>Analytics: Vercel Analytics<br><img src="https://cdnv2.ruguoapp.com/FgjPbVZH1P9VDe7tWZslJfV99E_Uv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sun, 30 Jul 2023 12:42:53 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64c65acdbd6086d0bd1fd801</guid>
+            <link>https://m.okjike.com/originalPosts/64c65acdbd6086d0bd1fd801</link>
             
             
             
-            <author><![CDATA[zxch3n]]></author>
+            <author><![CDATA[哥飞]]></author>
             
                 
             
