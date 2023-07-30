@@ -21,19 +21,19 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sat, 29 Jul 2023 23:58:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jul 2023 04:01:00 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
-            <title><![CDATA[向程序员偷师学艺 很多大牛都推崇学习编程，编程由世界上最聪明的一群人创造，里面包含大量的内隐知识，在编程的世界里游荡可以一窥聪明人的所思所想。这不，最...]]></title>
-            <description><![CDATA[向程序员偷师学艺<br><br>很多大牛都推崇学习编程，编程由世界上最聪明的一群人创造，里面包含大量的内隐知识，在编程的世界里游荡可以一窥聪明人的所思所想。这不，最近我就从 xml 标记语言中学到了如何使用层级结构整理信息。<br><br>我需要下载基本甲状腺相关的书籍，需要标记它们的英文书籍，下载文件的类型以及储存的位置。如果是用 Excel，整理起来会非常的清楚，但是内容储存在 Excel 里面不方便后期检索、查找。我就想着在 flomo 中完成工作。<br><br> @flomo浮墨笔记 不支持表格，那如何办？我就想到了 xml，xml 使用层级形式整理信息，借助flomo 文本编辑器的锁进可以很方便的表示层级关系。说干就干，我将内容整理为：<br><br>- 中文书籍<br>  - 英文名称：<br>  - 已经下载：<br>  - 已经上传：<br><br>详细的内容如下图：书籍对应的英文名称，下载文件类型以及上传的位置都清清楚楚展现出来。<br><img src="https://cdnv2.ruguoapp.com/FgMGzmPUuGJXwnOfyxWPzy57i7XZv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 29 Jul 2023 04:21:03 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64c493af94d175e98d816f82</guid>
-            <link>https://m.okjike.com/originalPosts/64c493af94d175e98d816f82</link>
+            <title><![CDATA[再试了试在 iPad 上通过 VS Code Tunnel 写代码，Server 跑在 Mac mini 上，iPad 在 Safari 上打开链接就可以。现在支持很完整，有点惊艳了。Vim 自定义 keymap ...]]></title>
+            <description><![CDATA[再试了试在 iPad 上通过 VS Code Tunnel 写代码，Server 跑在 Mac mini 上，iPad 在 Safari 上打开链接就可以。现在支持很完整，有点惊艳了。Vim 自定义 keymap 完整支持，rust analyzer 的所有操作都支持，excalidraw 这种 webview 插件也没问题，lean4 交互式编程插件也正常用。而且除了网络延迟带来一些加载速度的问题外，整体都很流畅。这兼容性做得太强了<br><img src="https://cdnv2.ruguoapp.com/FsVTuFeFndbzLvyPn522Ol6fXsyTv3.heic" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sat, 29 Jul 2023 16:31:05 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64c53ec91e2cb61bcaa8fccb</guid>
+            <link>https://m.okjike.com/originalPosts/64c53ec91e2cb61bcaa8fccb</link>
             
             
             
-            <author><![CDATA[阿帅的健康笔记]]></author>
+            <author><![CDATA[zxch3n]]></author>
             
                 
             
@@ -41,15 +41,15 @@
         </item>
         
         <item>
-            <title><![CDATA[问了好几个独立开发者，你的 idea 是从哪里冒出来的，又是怎么从一堆 idea 中找出最先下手的产品。 他们的回答几乎都是，需求源自自己，做自己最迫切想用的功能...]]></title>
-            <description><![CDATA[问了好几个独立开发者，你的 idea 是从哪里冒出来的，又是怎么从一堆 idea 中找出最先下手的产品。<br><br>他们的回答几乎都是，需求源自自己，做自己最迫切想用的功能。<br><br>想想也对，如果做出来的产品，自己都不是第一用户，都不能解决自己最原始的诉求，那创作的源动力在哪里呢？🤔]]></description>
-            <pubDate>Fri, 28 Jul 2023 16:58:26 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64c3f3b2a0ec82864d9c17f1</guid>
-            <link>https://m.okjike.com/originalPosts/64c3f3b2a0ec82864d9c17f1</link>
+            <title><![CDATA[侄子去一个私募公司实习，需要使用 Linux，问我怎么学。我说 多用 + 看官方文档。随后开一个云服务器给他练手。 我还找了一圈教程，好多不太好的教程 SEO 做得好...]]></title>
+            <description><![CDATA[侄子去一个私募公司实习，需要使用 Linux，问我怎么学。我说 多用 + 看官方文档。随后开一个云服务器给他练手。<br>我还找了一圈教程，好多不太好的教程 SEO 做得好在首屏。我最后找了 Debian 的用户手册第一章节  https://debian.org/doc/manuals/debian-reference/ch01.zh-cn.html 。<br>看完就算入门了。<br><img src="https://cdnv2.ruguoapp.com/Fh85RbWYSDVo7V8NHuJg67F0L8Onv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sat, 29 Jul 2023 10:59:10 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64c4f0fed099868a44b78182</guid>
+            <link>https://m.okjike.com/originalPosts/64c4f0fed099868a44b78182</link>
             
             
             
-            <author><![CDATA[Barret李靖]]></author>
+            <author><![CDATA[alswl]]></author>
             
                 
             
