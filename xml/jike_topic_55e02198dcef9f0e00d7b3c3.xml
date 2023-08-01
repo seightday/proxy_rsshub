@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 01 Aug 2023 14:42:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Aug 2023 18:56:03 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -57,6 +57,22 @@
         </item>
         
         <item>
+            <title><![CDATA[朋友做了一个产品，围绕微信传播，含分销的业务逻辑，本来以为接入微信支付是分分钟的事情，结果硬生生忙了一个月，过程一路坎坷： 1）微信支付要求是工商个体户...]]></title>
+            <description><![CDATA[朋友做了一个产品，围绕微信传播，含分销的业务逻辑，本来以为接入微信支付是分分钟的事情，结果硬生生忙了一个月，过程一路坎坷：<br><br>1）微信支付要求是工商个体户或者企业才能接入，于是去申请工商个体户<br>2）工商个体户要求有店面，看到申请淘宝店铺可免店面，于是去申请淘宝店铺<br>3）淘宝店铺申请好了之后，花费一周拿到了营业执照<br>4）微信支付又要求服务号接入，于是申请服务号；服务号接入时，又要求营业执照超过 15 天，继续等待<br><br>接下来就是个人认证，研发对接微信接口……<br><br>5）等一切都做好了，发现在分销场景用户提现的时候，工商个体类型不支持直接提现到用户零钱，必须是企业才行<br>6）他开始去准备公司的申请流程了……<br><br>不知道支付宝的流程是不是简单一点，看起来国内支付对个人开发者并不是那么友好？感觉还有更多坑等着他。<br><br>这也说明，提前预研下支付流程还是有必要的呀😂，国内有啥类似 Stripe 这种支付集成服务或第三方支付平台推荐么？]]></description>
+            <pubDate>Mon, 31 Jul 2023 12:10:47 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64c7a4c7fc3cfea0fc8fb3ea</guid>
+            <link>https://m.okjike.com/originalPosts/64c7a4c7fc3cfea0fc8fb3ea</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[十年编程两茫茫，工期短，需求长。千行代码，Bug何处藏。纵使上线又如何，新版本，继续忙。黑白颠倒没商量，睡地铺，吃食堂。夜半梦醒，无人在身旁。最怕灯火阑...]]></title>
             <description><![CDATA[十年编程两茫茫，工期短，需求长。千行代码，Bug何处藏。纵使上线又如何，新版本，继续忙。黑白颠倒没商量，睡地铺，吃食堂。夜半梦醒，无人在身旁。最怕灯火阑珊时，手机响，心里慌。<br><img src="https://cdnv2.ruguoapp.com/Fp6haWg9dNUEOQT3xP2ABl2WGWjmv3.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Mon, 31 Jul 2023 03:24:52 GMT</pubDate>
@@ -66,22 +82,6 @@
             
             
             <author><![CDATA[木北枳南]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[一次有趣的 idea→build→sell 实践，《开发一个浏览器插件在第三天卖出 1000 元》https://lutaonan.com/blog/my-extension-sold-1k-yuan/，作者实践过程中几点...]]></title>
-            <description><![CDATA[一次有趣的 idea→build→sell 实践，《开发一个浏览器插件在第三天卖出 1000 元》https://lutaonan.com/blog/my-extension-sold-1k-yuan/，作者实践过程中几点心得：<br><br>1）在做出产品之前，先找到人群，试探一下市场<br>2）确定真正的 MVP，去解决看到的最直接的问题<br>3）验证产品价值——看市场付费意愿<br>4）先拍脑袋定价，因为 3）很重要<br>5）自动化很重要，但是最开始阶段不要做<br>6）自传播需要用户基数，冷启动阶段主动去 sell 自己的产品<br>7）记录好日志，及时解决 bug，快速发版<br>8）根据用户的反馈，拓展产品价值边界<br><br>作者的目标很简单，“解决小部分人的需求，让他们为产品提供的价值付费”，因此，“做产品，首先要想的不是怎么做，而是卖给谁”，很受启发。]]></description>
-            <pubDate>Mon, 31 Jul 2023 02:55:42 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64c722aed099868a44e735fe</guid>
-            <link>https://m.okjike.com/originalPosts/64c722aed099868a44e735fe</link>
-            
-            
-            
-            <author><![CDATA[Barret李靖]]></author>
             
                 
             
