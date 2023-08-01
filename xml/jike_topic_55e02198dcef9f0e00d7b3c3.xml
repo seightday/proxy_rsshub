@@ -21,15 +21,15 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 01 Aug 2023 10:40:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Aug 2023 14:42:42 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
-            <title><![CDATA[看到一个V2EX神贴，讲作者如何找一个网站的服务器真实 IP ，简直叹为观止。 这个网站用了 CloudFlare 服务隐藏了源服务器 IP，按理说就找不到真实 IP 了。 但坏...]]></title>
-            <description><![CDATA[看到一个V2EX神贴，讲作者如何找一个网站的服务器真实 IP ，简直叹为观止。<br>这个网站用了 CloudFlare 服务隐藏了源服务器 IP，按理说就找不到真实 IP 了。<br>但坏就坏在，站长暴露了用的是阿里云服务器。<br>所以作者从 ipinfo 上把阿里云服务器的所有 IP 段下载下来了，然后写了个程序跑了五个多小时，把真实服务器 IP 给找出来了。<br>果然是大力出奇迹。]]></description>
-            <pubDate>Mon, 31 Jul 2023 14:46:47 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64c7c957fc3cfea0fc93beb0</guid>
-            <link>https://m.okjike.com/originalPosts/64c7c957fc3cfea0fc93beb0</link>
+            <title><![CDATA[https://LK99Wiki.com 已上线，就花了69花钱域名成本。 步骤如下： 1、注册域名（CloudFlare或者Godaddy）； 2、在 CloudFlare 添加域名； 3、建一个新的 Github...]]></title>
+            <description><![CDATA[https://LK99Wiki.com 已上线，就花了69花钱域名成本。<br>步骤如下：<br>1、注册域名（CloudFlare或者Godaddy）；<br>2、在 CloudFlare 添加域名；<br>3、建一个新的 Github 仓库，本地初始化，手写html，提交到仓库；<br>4、去 Vercel 建一个新项目，关联刚才建的 Github 仓库，自动进行部署；<br>5、等 Vercel 部署好之后，添加自己的域名，并去 ClouFlare 设置域名解析；<br>6、等待一会儿，网站就可以访问了。<br>以上所有步骤加起来，10分钟就足够了。]]></description>
+            <pubDate>Tue, 01 Aug 2023 12:25:10 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64c8f9a6ba30ac5540a8d0bc</guid>
+            <link>https://m.okjike.com/originalPosts/64c8f9a6ba30ac5540a8d0bc</link>
             
             
             
@@ -41,15 +41,15 @@
         </item>
         
         <item>
-            <title><![CDATA[朋友做了一个产品，围绕微信传播，含分销的业务逻辑，本来以为接入微信支付是分分钟的事情，结果硬生生忙了一个月，过程一路坎坷： 1）微信支付要求是工商个体户...]]></title>
-            <description><![CDATA[朋友做了一个产品，围绕微信传播，含分销的业务逻辑，本来以为接入微信支付是分分钟的事情，结果硬生生忙了一个月，过程一路坎坷：<br><br>1）微信支付要求是工商个体户或者企业才能接入，于是去申请工商个体户<br>2）工商个体户要求有店面，看到申请淘宝店铺可免店面，于是去申请淘宝店铺<br>3）淘宝店铺申请好了之后，花费一周拿到了营业执照<br>4）微信支付又要求服务号接入，于是申请服务号；服务号接入时，又要求营业执照超过 15 天，继续等待<br><br>接下来就是个人认证，研发对接微信接口……<br><br>5）等一切都做好了，发现在分销场景用户提现的时候，工商个体类型不支持直接提现到用户零钱，必须是企业才行<br>6）他开始去准备公司的申请流程了……<br><br>不知道支付宝的流程是不是简单一点，看起来国内支付对个人开发者并不是那么友好？感觉还有更多坑等着他。<br><br>这也说明，提前预研下支付流程还是有必要的呀😂，国内有啥类似 Stripe 这种支付集成服务或第三方支付平台推荐么？]]></description>
-            <pubDate>Mon, 31 Jul 2023 12:10:47 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64c7a4c7fc3cfea0fc8fb3ea</guid>
-            <link>https://m.okjike.com/originalPosts/64c7a4c7fc3cfea0fc8fb3ea</link>
+            <title><![CDATA[看到一个V2EX神贴，讲作者如何找一个网站的服务器真实 IP ，简直叹为观止。 这个网站用了 CloudFlare 服务隐藏了源服务器 IP，按理说就找不到真实 IP 了。 但坏...]]></title>
+            <description><![CDATA[看到一个V2EX神贴，讲作者如何找一个网站的服务器真实 IP ，简直叹为观止。<br>这个网站用了 CloudFlare 服务隐藏了源服务器 IP，按理说就找不到真实 IP 了。<br>但坏就坏在，站长暴露了用的是阿里云服务器。<br>所以作者从 ipinfo 上把阿里云服务器的所有 IP 段下载下来了，然后写了个程序跑了五个多小时，把真实服务器 IP 给找出来了。<br>果然是大力出奇迹。]]></description>
+            <pubDate>Mon, 31 Jul 2023 14:46:47 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64c7c957fc3cfea0fc93beb0</guid>
+            <link>https://m.okjike.com/originalPosts/64c7c957fc3cfea0fc93beb0</link>
             
             
             
-            <author><![CDATA[Barret李靖]]></author>
+            <author><![CDATA[哥飞]]></author>
             
                 
             
