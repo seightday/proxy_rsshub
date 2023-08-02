@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 02 Aug 2023 03:10:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Aug 2023 07:23:02 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[👋 嗨，我是广志，我写了一篇文章记录了全职独立开发一个月的经历和收获，同时公开了收入情况，希望给大家一个参考和启发。 #独立开发的日常]]></title>
+            <description><![CDATA[<img src="https://mmbiz.qpic.cn/mmbiz_jpg/d66PDKohV2Mib6YiavHk33RA1HcXS9fHSsaCzc8xMkoGic9N26TlTngtaGBJUhG8DDTSf0KNAjCAfAXFHwbmt9ZWA/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>                    <a href="https://mp.weixin.qq.com/s/E2A2of2K-RQfpPmS8Nbl-w">2023 年 7 月全职独立开发的这一个月</a><br>                <br>👋<br><br>嗨，我是广志，我写了一篇文章记录了全职独立开发一个月的经历和收获，同时公开了收入情况，希望给大家一个参考和启发。<br><br>#独立开发的日常]]></description>
+            <pubDate>Wed, 02 Aug 2023 03:59:49 GMT</pubDate>
+            <guid isPermaLink="false">https://mp.weixin.qq.com/s/E2A2of2K-RQfpPmS8Nbl-w</guid>
+            <link>https://mp.weixin.qq.com/s/E2A2of2K-RQfpPmS8Nbl-w</link>
+            
+            
+            
+            <author><![CDATA[谢广志]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[https://LK99Wiki.com 已上线，就花了69花钱域名成本。 步骤如下： 1、注册域名（CloudFlare或者Godaddy）； 2、在 CloudFlare 添加域名； 3、建一个新的 Github...]]></title>
@@ -66,22 +82,6 @@
             
             
             <author><![CDATA[哥飞]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[朋友做了一个产品，围绕微信传播，含分销的业务逻辑，本来以为接入微信支付是分分钟的事情，结果硬生生忙了一个月，过程一路坎坷： 1）微信支付要求是工商个体户...]]></title>
-            <description><![CDATA[朋友做了一个产品，围绕微信传播，含分销的业务逻辑，本来以为接入微信支付是分分钟的事情，结果硬生生忙了一个月，过程一路坎坷：<br><br>1）微信支付要求是工商个体户或者企业才能接入，于是去申请工商个体户<br>2）工商个体户要求有店面，看到申请淘宝店铺可免店面，于是去申请淘宝店铺<br>3）淘宝店铺申请好了之后，花费一周拿到了营业执照<br>4）微信支付又要求服务号接入，于是申请服务号；服务号接入时，又要求营业执照超过 15 天，继续等待<br><br>接下来就是个人认证，研发对接微信接口……<br><br>5）等一切都做好了，发现在分销场景用户提现的时候，工商个体类型不支持直接提现到用户零钱，必须是企业才行<br>6）他开始去准备公司的申请流程了……<br><br>不知道支付宝的流程是不是简单一点，看起来国内支付对个人开发者并不是那么友好？感觉还有更多坑等着他。<br><br>这也说明，提前预研下支付流程还是有必要的呀😂，国内有啥类似 Stripe 这种支付集成服务或第三方支付平台推荐么？]]></description>
-            <pubDate>Mon, 31 Jul 2023 12:10:47 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64c7a4c7fc3cfea0fc8fb3ea</guid>
-            <link>https://m.okjike.com/originalPosts/64c7a4c7fc3cfea0fc8fb3ea</link>
-            
-            
-            
-            <author><![CDATA[Barret李靖]]></author>
             
                 
             
