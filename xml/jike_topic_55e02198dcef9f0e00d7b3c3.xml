@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 02 Aug 2023 07:23:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Aug 2023 09:29:01 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -73,6 +73,22 @@
         </item>
         
         <item>
+            <title><![CDATA[米哈游后端招聘， 急招！！急招！！急招！！ 项目组：hoyolab（米游社国际） 福利 - 补充公积金+五险+商业医疗险 - 每年 2 次调薪窗口 - 每年10天年假，3天带薪...]]></title>
+            <description><![CDATA[米哈游后端招聘， 急招！！急招！！急招！！<br><br>项目组：hoyolab（米游社国际）<br><br>福利<br>- 补充公积金+五险+商业医疗险<br>- 每年 2 次调薪窗口<br>- 每年10天年假，3天带薪病假<br>- 免费体检福利（包含一位家属）<br>- 内部专属咖啡吧<br>- 零食饮料不限量供应<br>- 免费午餐晚餐<br>- 年会大抽奖（100%中奖率）<br><br>岗位要求：<br>1、计算机相关专业本科及以上学历，有两年以上后台开发经验；<br>2、熟悉Go语言，有实际使用Go语言项目开发经验；<br>3、对微服务架构有一定程度的研究并有开发经验，在服务治理，服务监控方面有相关经验；<br>4、熟悉Web技术栈和Web应用开发，包括HTTP、安全、数据库、缓存、消息队列等；<br>5、熟悉SQL和数据库设计，具备mysql数据库设计和性能优化经验；熟悉主流非关系性数据库、缓存技术，例如：Redis、MongoDB、Memcached等；<br>6、掌握基本的前端知识js、ajax等，了解前后端分离架构；<br>7、了解Linux/Unix系统常用命令，了解docker、kubernetes等容器技术；<br>8、有高并发，海量用户系统经验优先。<br><br>👏欢迎简历投递 jiacheng.feng@mihoyo.com]]></description>
+            <pubDate>Tue, 01 Aug 2023 09:13:25 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64c8ccb5d8f8e55bd96d84d5</guid>
+            <link>https://m.okjike.com/originalPosts/64c8ccb5d8f8e55bd96d84d5</link>
+            
+            
+            
+            <author><![CDATA[林深时见鹿777]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[看到一个V2EX神贴，讲作者如何找一个网站的服务器真实 IP ，简直叹为观止。 这个网站用了 CloudFlare 服务隐藏了源服务器 IP，按理说就找不到真实 IP 了。 但坏...]]></title>
             <description><![CDATA[看到一个V2EX神贴，讲作者如何找一个网站的服务器真实 IP ，简直叹为观止。<br>这个网站用了 CloudFlare 服务隐藏了源服务器 IP，按理说就找不到真实 IP 了。<br>但坏就坏在，站长暴露了用的是阿里云服务器。<br>所以作者从 ipinfo 上把阿里云服务器的所有 IP 段下载下来了，然后写了个程序跑了五个多小时，把真实服务器 IP 给找出来了。<br>果然是大力出奇迹。]]></description>
             <pubDate>Mon, 31 Jul 2023 14:46:47 GMT</pubDate>
@@ -82,22 +98,6 @@
             
             
             <author><![CDATA[哥飞]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[十年编程两茫茫，工期短，需求长。千行代码，Bug何处藏。纵使上线又如何，新版本，继续忙。黑白颠倒没商量，睡地铺，吃食堂。夜半梦醒，无人在身旁。最怕灯火阑...]]></title>
-            <description><![CDATA[十年编程两茫茫，工期短，需求长。千行代码，Bug何处藏。纵使上线又如何，新版本，继续忙。黑白颠倒没商量，睡地铺，吃食堂。夜半梦醒，无人在身旁。最怕灯火阑珊时，手机响，心里慌。<br><img src="https://cdnv2.ruguoapp.com/Fp6haWg9dNUEOQT3xP2ABl2WGWjmv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 31 Jul 2023 03:24:52 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64c729840b3c21926fcbfcec</guid>
-            <link>https://m.okjike.com/originalPosts/64c729840b3c21926fcbfcec</link>
-            
-            
-            
-            <author><![CDATA[木北枳南]]></author>
             
                 
             
