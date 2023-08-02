@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 02 Aug 2023 09:29:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Aug 2023 15:42:38 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[第一次在Product Hunt上面发布产品～上线48h，网站访问量破1500，ProductHunt 当日排名最高第10～记录和复盘一下整个发布经历和策略☺️]]></title>
+            <description><![CDATA[<img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F180b98d7-16a6-443c-87a6-20350890ce85%2Fcover.png?table=block&amp;id=b6d96a24-946b-41b8-8fd7-95e13bc312c3&amp;cache=v2" referrerpolicy="no-referrer"><br>                    <a href="https://www.solopilot.xyz/article/Launch-at-product-hunt">如何在Product Hunt冷启动？我的一些发布策略 | SoloPilot</a><br>                <br>第一次在Product Hunt上面发布产品～上线48h，网站访问量破1500，ProductHunt 当日排名最高第10～记录和复盘一下整个发布经历和策略☺️]]></description>
+            <pubDate>Wed, 02 Aug 2023 11:18:23 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64ca3b7f1e74dff79255e390</guid>
+            <link>https://m.okjike.com/originalPosts/64ca3b7f1e74dff79255e390</link>
+            
+            
+            
+            <author><![CDATA[do小鱼]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[👋 嗨，我是广志，我写了一篇文章记录了全职独立开发一个月的经历和收获，同时公开了收入情况，希望给大家一个参考和启发。 #独立开发的日常]]></title>
@@ -82,22 +98,6 @@
             
             
             <author><![CDATA[林深时见鹿777]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[看到一个V2EX神贴，讲作者如何找一个网站的服务器真实 IP ，简直叹为观止。 这个网站用了 CloudFlare 服务隐藏了源服务器 IP，按理说就找不到真实 IP 了。 但坏...]]></title>
-            <description><![CDATA[看到一个V2EX神贴，讲作者如何找一个网站的服务器真实 IP ，简直叹为观止。<br>这个网站用了 CloudFlare 服务隐藏了源服务器 IP，按理说就找不到真实 IP 了。<br>但坏就坏在，站长暴露了用的是阿里云服务器。<br>所以作者从 ipinfo 上把阿里云服务器的所有 IP 段下载下来了，然后写了个程序跑了五个多小时，把真实服务器 IP 给找出来了。<br>果然是大力出奇迹。]]></description>
-            <pubDate>Mon, 31 Jul 2023 14:46:47 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64c7c957fc3cfea0fc93beb0</guid>
-            <link>https://m.okjike.com/originalPosts/64c7c957fc3cfea0fc93beb0</link>
-            
-            
-            
-            <author><![CDATA[哥飞]]></author>
             
                 
             
