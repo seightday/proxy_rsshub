@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 01 Aug 2023 18:56:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Aug 2023 01:01:47 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -34,6 +34,22 @@
             
             
             <author><![CDATA[哥飞]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[最近刚好有个数据可视化的需求，本来用的 echarts 结果没找到地理位置的信息。 找了一圈发现阿里 antv 团队最近开源了一个地理空间可视化平台，比较新，只有几十...]]></title>
+            <description><![CDATA[最近刚好有个数据可视化的需求，本来用的 echarts 结果没找到地理位置的信息。<br><br>找了一圈发现阿里 antv 团队最近开源了一个地理空间可视化平台，比较新，只有几十个 stars 。<br><br>https://locationinsight.antv.antgroup.com/<br><br>配合各种数据源能实现：<br><br>- 地图块的标注<br>- 地图块点击展示数据源详情<br>- 侧边或底部展示 表格、线图、柱状图、饼图<br><br>基本上拖拖拽拽就能生成一个基于地理信息的可视化页面，直接导出单个 HTML 文件，非常方便~<br><br>---<br><br>如果需要地理位置信息可以用网站上的工具：<br><br>https://l7.antv.antgroup.com/custom/tools<br><br>里面有世界各国的边界坐标以及国内各行政区域的划分。<br><br>如果还没有自己想要的可以直接基于地图圈一块地，坐标就出来了🥳~<br><img src="https://cdnv2.ruguoapp.com/Ftgw6rR-g7tYA2elrQYBnR2zuzcnv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 01 Aug 2023 12:09:15 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64c8f5ebaac630c848e8e720</guid>
+            <link>https://m.okjike.com/originalPosts/64c8f5ebaac630c848e8e720</link>
+            
+            
+            
+            <author><![CDATA[savokiss_]]></author>
             
                 
             
@@ -82,22 +98,6 @@
             
             
             <author><![CDATA[木北枳南]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[这个项目值得拿来学习 https://github.com/leerob/leerob.io 特点是可以免费部署在 Vercel 上，数据库用的 PlanetScale 初期也是免费使用的。所以整套技术栈完全...]]></title>
-            <description><![CDATA[这个项目值得拿来学习 https://github.com/leerob/leerob.io <br>特点是可以免费部署在 Vercel 上，数据库用的 PlanetScale 初期也是免费使用的。所以整套技术栈完全是为免费网站服务的。基于这个项目，我们改改就能拿来做别的网站。<br>Framework: Next.js<br>Database: PlanetScale<br>Authentication: NextAuth.js<br>Deployment: Vercel<br>Styling: Tailwind CSS<br>Analytics: Vercel Analytics<br><img src="https://cdnv2.ruguoapp.com/FgjPbVZH1P9VDe7tWZslJfV99E_Uv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sun, 30 Jul 2023 12:42:53 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64c65acdbd6086d0bd1fd801</guid>
-            <link>https://m.okjike.com/originalPosts/64c65acdbd6086d0bd1fd801</link>
-            
-            
-            
-            <author><![CDATA[哥飞]]></author>
             
                 
             
