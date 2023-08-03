@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[分享白菜达人的微博]]></title>
         <link>https://weibo.com/5609361977/</link>
-        <atom:link href="https://rsshub.rssforever.com/weibo/user/5609361977" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub.app/weibo/user/5609361977" rel="self" type="application/rss+xml" />
         <description><![CDATA[跟着博主抢红包，薅羊毛！撸免单！买超优惠商品！ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -16,13 +16,13 @@
         <language>zh-cn</language>
         
         <image>
-            <url>https://tvax2.sinaimg.cn/crop.0.0.512.512.180/0067Cjihly8gb7w03ko6vj30e80e874q.jpg?KID=imgbed,tva&#38;Expires=1691076303&#38;ssig=Jblhfc%2BU3l</url>
+            <url>https://tvax2.sinaimg.cn/crop.0.0.512.512.180/0067Cjihly8gb7w03ko6vj30e80e874q.jpg?KID=imgbed,tva&#38;Expires=1691090080&#38;ssig=bz0FvwMB3N</url>
             <title><![CDATA[分享白菜达人的微博]]></title>
             <link>https://weibo.com/5609361977/</link>
         </image>
         
-        <lastBuildDate>Thu, 03 Aug 2023 12:25:04 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Thu, 03 Aug 2023 16:14:43 GMT</lastBuildDate>
+        <ttl>120</ttl>
         
         <item>
             <title><![CDATA[网页链接白象火鸡面 五包 14.9 [图片]]]></title>
