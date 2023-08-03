@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 02 Aug 2023 23:51:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Aug 2023 01:51:43 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -105,15 +105,15 @@
         </item>
         
         <item>
-            <title><![CDATA[开发者跨语言学习的关键路径 这里所说的语言专指编程语言。最近由于项目需要，开始接触 JavaScript 技术栈，之前一直写的是 Java，对其他编程语言鲜有项目级的使...]]></title>
-            <description><![CDATA[开发者跨语言学习的关键路径<br><br>这里所说的语言专指编程语言。最近由于项目需要，开始接触 JavaScript 技术栈，之前一直写的是 Java，对其他编程语言鲜有项目级的使用体验。结合这次项目级入手 JavaScript 技术栈的体验，记录和分享下我在这个过程中的一些体会，希望能对其他有跨语言学习的同学有些帮助。<br><br>而且据我目前的了解，市面上几乎很难一门语言统治所有的公司，比如B站/字节是 Go 系列，蚂蚁/阿里是 Java 系列，掌握跨语言能力，对面向真实市场的个人来说也至关重要。<br><br>话说回来，从一个语言切到另外一个全新的语言，有几个关键路径要解决，如果不解决可能会极大影响实战效率，依次是：<br><br>1. 关键语法<br><br>2. 独有特性<br><br>3. 运行时<br><br>4. 包管理器<br><br>5. 其他：比如封装的Framework<br><br>一、 关键语法<br><br>新语言的语法说重要也重要，说不重要也不重要。不重要，是因为语法仅仅就是语法而已，每个语言都有自己独特的关键字 keyword 和编写格式，这个没什么好稀奇的。说他重要，是因为这个部分是非常高频的知识点，如果不稍微了解下，后面看代码、写代码都会成为比较大的阻碍。<br><br>以 JavaScript 为例，虽然是解释性语言，但是本质上还是没逃过冯诺依曼体系架构的大框架，到最底层还是会翻译成指令，让计算机一行行执行。计算机本质上就是个指令系统，既然是指令系统，掌握发指令的方法无非就是几点：<br><br>- 怎么命名变量<br>- 怎么控制顺序<br>- 怎么做循环 for/while<br>- 怎么面向对象设计<br><br>JavaScript 的变量其实大部分时候掌握 let 、var 、const 这三个关键词基本就够了，var 和 let 都可以用来命名一个变量，let 的作用范围更小些，在代码块级别生效，比如for 循环里的条件可以用 let，大部分拿不准的情况下应该多用 let, 避免用 var 造成大范围场景下的命名冲突。而 const 就更简单了，和其他语言类似，就是用来命名常量的。<br><br>在控制顺序和循环上，和C系的语言没啥区别，都是一行行执行，如果有循环就用 for / while 循环，执行的方式和你之前学的 C、Java一样。面向对象的设计稍微有些特殊，或者更简单，比如大部分情况下一个 JavaScript Object 的使用就像是一个 HashMap 一样，不需要提前指明一个对象的所有属性，用到的时候直接设置下即可，这一点和 JavaScript 作为一个动态语言有比较大的关系。比如，我比较喜欢用的一个方法 Object.keys(x) ，可以用来获取这个对象所有的属性key的数组，处理一些特殊问题会比较灵活。<br><br>在 JavaScript 里还有一个比较重要的概念，就是 function 变成了一等公民，什么意思呢，就是你可以把 function 看成一个变量，到处传参。其实这个没什么新鲜的，Java 其实也支持把一个匿名函数传到一个参数里，只要参数类型是个接口就行。<br><br>二、独有特性<br><br>对于一门新语言来说，一般情况下还有他比较特性的部分，这个特性可能是他区别于其他语言最核心的东西。而对于 JavaScript 来说，我觉得最特性的部分主要就是异步编程了。<br><br>JavaScript 早期是在浏览器上运行，主要服务于用户视图场景，天然就和事件驱动不谋而合，对非阻塞式响应的要求是刚需。后来 V8 引擎发展起来，JavaScript 开始涉足后端，但是仍然保留了这种天生的特性。所以你会看到，JavaScript 在 Node 环境下本身还是单线程模式，为了防止大量请求阻塞，不得不对很多长耗时请求采取异步化操作。所以你会看到 JavaScript 项目里充斥着大量的async/await 这种异步化的影子。<br><br>JavaScript 为了支持异步化编程，给开发者也提供了三种不同的选项：<br><br> 1. callback-based : 即调用一个异步化函数的时候，传一个回调函数进去，里面操作执行完之后自然会执行回调函数里的逻辑；<br><br>2. promise-based : 用传回调函数的方式写大量异步化代码，会出现很多函数里套函数的场景，代码变得无比难读，所以语言很贴心地提供了 Promise 这种设计，其实和 Java 里的 future 类似，就是异步函数的返回值只是个 Promise（承诺），不是直接结果，想拿到直接结果就调下 promise.then() 方法，在then 里面写上你想干的事情即可；<br><br>3. asyn/await : 这两个关键字很常用，在普通函数前面加个 async，函数就变成异步化的了，而在一个 async 函数里如果想同步调用其他的异步函数，只需要在被调函数之前加个 await 即可，而且 await 只能出现在一个 async 函数里。<br><br>那么有人会问，如果想在一个普通函数里，通过添加 await 关键字同步地调用一个异步函数、立马拿到结果，行不行？答案是不行。除非你把自己的这个普通函数加上 async , 然后一路向上让调用方都异步化，这个操作其实是把异步化问题上移了。而这个就是 JavaScript 吊轨的地方。他在语言层面限制了你，不能在一个同步方法里，绝对不能同步地调用一个异步函数，不然就会出现大面积阻塞。核心还是因为 JavaScript 单线程的天然设计。<br><br>三、 运行时<br><br>运行时对于任何一门语言来说都是非常重要的，这个决定了你可以使用什么样的平台能力。比如 Java 在安卓端、服务器端跑的时候，所具备的能力就是不太一样的。JavaScript 差异更大，前端运行在浏览器端可以操作 DOM，而在服务器端，需要和 Node 紧密结合，有些能力不是语言提供给你，而是 Node 运行时提供给你的。<br><br>跨语言开发者，想要对对运行时有比较体感的理解，只需要动手跑下 node hello.js 这种命令行就行了。<br><br>对于 Java 来说，包含 main 方法的一个 hello.java 文件经过编译之后生成 hello.class，然后再java hello 命令来执行里面的函数，本身就是启动了一个 JVM 运行时，启动之后执行 main 函数里面的内容，结束后 JVM退出，命令终止。<br><br>而对于 JavaScript 来说，大致情况类似，只是因为 JavaScript 是个解释性语言，省去了编译的步骤，写好 hello.js 之后，直接用 node hello.js 命令执行，这个时候 V8 引擎会直接执行js文件里面的方法（比如输出一段文字），之后退出结束。这里甚至都不需要说 hello.js 文件必须包含main方法，什么方法都行，只要是个执行方法的指令就行。<br><br>所以用 Node 执行 JavaScript 给我的一个体验是，任何一个 js 文件都可以独立执行，简直不要太方便。反观一个 Java 项目，找不到 main 方法，你就抓瞎吧。如果想测试一个 Java 类，最好是借助 JUnit 这种测试框架，然后最好还是在 IDE 里执行，稍微就显得臃肿了（不过 Java 项目也有他自己的优势，这个暂且不表，只是做个对比）。<br><br>四、包管理器<br><br>成熟的项目，基本都会大量依赖第三方成熟的代码库，不可能什么都自己重新写一遍。而为了管理好成熟的库，这个时候就需要模块化的概念了，同时配套的还需要能管理共享模块的能力。<br><br>Java 在这方面，比较流行的包管理工具就是 Maven 了。开发者通过 groupId、artifactId 来定义一个 Maven 模块的坐标，之后打成一个 jar 包上传到中央仓库/共享仓库中，其他人可以通过这个坐标来引入它，方式其实就是把坐标添加到自己项目的 pom.xml 里，最终完成开发协作。<br><br>而对于 JavaScript 的世界，这套包管理工具同样必不可少，这个工具就是 npm. JavaScript 用 module 的概念来描述可以共享的模块，通过 import 或者 require 来引用别的 module. npm 也提供了 package.json 这种类似 pom.xml 的描述文件来整体管理依赖，而所依赖的模块代码都会被下载到 node_modules 这样的一个文件夹下。如果在项目目录下执行npm install, 依赖会被下载的当前项目目录的 node_modules 下，如果是在全局执行 npm install -g, 依赖会被下载到 home 目录下的 node_modules 中。<br><br>这一点，其实和 Java 不太一样，Java/Maven 喜欢把所有的依赖 jar 都下载到一个全局的 .m2 仓库中。个人观点，Node 的这种包管理机制，显得更加简单和灵活一些。<br><br>五、 其他<br><br>其实跨语言学习的关键路径，除了掌握上述的关键语法、独有特性、运行时、包管理器之外，还要了解一些编程框架，比如几乎所有的 Java 项目都或多或少用到 Spring Framework, Web 项目可能还会用到 Spring Boot，JavaScript 项目也不例外。这里就依据具体的项目使用情况，单独学习即可，本质上都不会太复杂，就看这个框架帮你解决了什么问题即可。<br><br>上面分享的案例虽然是以 JavaScript 为主，但是很多对跨语言学习的理解，同样适用于其他语言，作为开发者，最好的学习方式就是打开思路，拓宽视野。因为在我看来，广度在某种意义上，也是一种深度。<br><br>以上。<br><img src="https://cdnv2.ruguoapp.com/FovAHQkr3tvQuUtUh6a9oh3lEkLXv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sun, 30 Jul 2023 03:30:04 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64c5d93c94d175e98d9d6208</guid>
-            <link>https://m.okjike.com/originalPosts/64c5d93c94d175e98d9d6208</link>
+            <title><![CDATA[看到一个V2EX神贴，讲作者如何找一个网站的服务器真实 IP ，简直叹为观止。 这个网站用了 CloudFlare 服务隐藏了源服务器 IP，按理说就找不到真实 IP 了。 但坏...]]></title>
+            <description><![CDATA[看到一个V2EX神贴，讲作者如何找一个网站的服务器真实 IP ，简直叹为观止。<br>这个网站用了 CloudFlare 服务隐藏了源服务器 IP，按理说就找不到真实 IP 了。<br>但坏就坏在，站长暴露了用的是阿里云服务器。<br>所以作者从 ipinfo 上把阿里云服务器的所有 IP 段下载下来了，然后写了个程序跑了五个多小时，把真实服务器 IP 给找出来了。<br>果然是大力出奇迹。]]></description>
+            <pubDate>Mon, 31 Jul 2023 14:46:47 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64c7c957fc3cfea0fc93beb0</guid>
+            <link>https://m.okjike.com/originalPosts/64c7c957fc3cfea0fc93beb0</link>
             
             
             
-            <author><![CDATA[鸿缘Yuan]]></author>
+            <author><![CDATA[哥飞]]></author>
             
                 
             
