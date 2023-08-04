@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Fri, 04 Aug 2023 02:54:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Aug 2023 06:59:45 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -34,6 +34,22 @@
             
             
             <author><![CDATA[金山文档]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[这篇文章非常值得程序员读读，怎么发现挖掘一个小众真实需求，用程序自动化实现微信读书笔记的导出 里面还写了，他创作这个产品的思考 1.先跑通MVP，上线再迭代 ...]]></title>
+            <description><![CDATA[<img src="https://lutaonan.com/ogImage.png" referrerpolicy="no-referrer"><br>                    <a href="https://lutaonan.com/blog/my-extension-sold-1k-yuan/">开发一个浏览器插件在第三天卖出 1000 元 | Randy's Blog</a><br>                <br>这篇文章非常值得程序员读读，怎么发现挖掘一个小众真实需求，用程序自动化实现微信读书笔记的导出<br><br>里面还写了，他创作这个产品的思考<br>1.先跑通MVP，上线再迭代<br><br>2.收费意识，一定要收费，即使1元钱也与免费有区别<br><br>3.收多少？买断还是免费订阅？里面有作者的思考<br><br>4.如何支付？对接支付渠道还是挺麻烦的，作者考虑到毕竟是小众需求，采用最简单的办法，付款页面放收款码，但付款后，如何和用户绑定？<br><br>付款后，让用户填邮箱，开发一个生成token和检验的接口，人做太累，继续自动化<br><br>读完很受启发，程序员会写代码，想探索副业就可以做主业的延伸，难的是挖掘到真实需求，以及将其产品化<br><br>不知道怎么做的情况下，唯有多看了]]></description>
+            <pubDate>Wed, 02 Aug 2023 23:07:12 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64cae1a07d10e1210f4f8048</guid>
+            <link>https://m.okjike.com/originalPosts/64cae1a07d10e1210f4f8048</link>
+            
+            
+            
+            <author><![CDATA[每天晒白牙]]></author>
             
                 
             
@@ -114,22 +130,6 @@
             
             
             <author><![CDATA[林深时见鹿777]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[哥飞最近写的一系列初级入门教程 如何挖掘需求 https://mp.weixin.qq.com/s/rzqgRubYO8Em3xuWRGufuw 挖掘到需求后如何规划 https://mp.weixin.qq.com/s/vEq835Fx...]]></title>
-            <description><![CDATA[哥飞最近写的一系列初级入门教程<br>如何挖掘需求 https://mp.weixin.qq.com/s/rzqgRubYO8Em3xuWRGufuw<br>挖掘到需求后如何规划 https://mp.weixin.qq.com/s/vEq835Fx99NU-yDDhorThg<br>学写前端代码可以看菜鸟教程 https://www.runoob.com/<br>前端代码如何设置h1\h2\h3等 https://mp.weixin.qq.com/s/PgAO0CxUdUyYP1xz3PNmIw<br>代码写好后如何部署 https://mp.weixin.qq.com/s/Qo_Ydf8wGSyOaCuBujgMYg https://mp.weixin.qq.com/s/pW3hHm-04oBz98LielieTw<br>部署完后如何快速被谷歌收录 https://mp.weixin.qq.com/s/F8nbfD720wjxcJsSPlAb-w<br>上线后在哪些渠道进行推广 https://mp.weixin.qq.com/s/f0GV7Ld5Ag6N4g0YYsIeog<br>推广时如何对用户进行归因 https://mp.weixin.qq.com/s/LKIRxo6X6i_GI7Q_NozmHQ<br>如何做更高ecpm的站 https://mp.weixin.qq.com/s/ifpY1__iCVqJW5TY6lhrxQ<br>给独立开发者的20条建议 https://mp.weixin.qq.com/s/XsJdccQftThivJmazamL9A<br>立项之初想好赚钱模式 https://mp.weixin.qq.com/s/EtW2m349ifz1ioUoVFtCTA<br>10种谷歌结构化搜索结果样式介绍及实现方法 https://mp.weixin.qq.com/s/I4hkYHtp8OEf21L-3yqCrw<br>蹭热点找新词快速拿到搜索引擎流量 https://mp.weixin.qq.com/s/NcHgwVLRggbEk6oNLGVJrg<br>技术人如何了解目前市场上大家都在怎么赚钱 https://mp.weixin.qq.com/s/JLGiCXruK7r4P1nCbrejSA]]></description>
-            <pubDate>Thu, 27 Jul 2023 00:31:01 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64c1bac5fbc9a35434778f65</guid>
-            <link>https://m.okjike.com/originalPosts/64c1bac5fbc9a35434778f65</link>
-            
-            
-            
-            <author><![CDATA[哥飞]]></author>
             
                 
             
