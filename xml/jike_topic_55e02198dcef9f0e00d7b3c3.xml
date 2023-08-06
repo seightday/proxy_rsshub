@@ -21,12 +21,28 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sun, 06 Aug 2023 07:48:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Aug 2023 11:51:44 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
+            <title><![CDATA[看到 Vim 作者去世的消息有点感慨，曾经 Vim 入门了无数次，都只是用来简单改下配置文件。直到大二暑假，我在 B 站看到了 @TheCW 的 Vim 教程，被宏录制功能深深...]]></title>
+            <description><![CDATA[看到 Vim 作者去世的消息有点感慨，曾经 Vim 入门了无数次，都只是用来简单改下配置文件。直到大二暑假，我在 B 站看到了 @TheCW 的 Vim 教程，被宏录制功能深深震撼，也就下定决心了必须学会 Vim。<br><br>Vim 最伟大的地方在于它提供了一套 Vim 键位，在绝大多数代码编辑器上都可以使用这套键位。虽然我现在主用 VSCode，但 Vim 键位从来没有放弃过，甚至可以说已经忘记了 VSCode 的编辑器键位。<br><br>不管是代码编辑器，笔记软件甚至是阅读软件，支持 Vim 键位会更加受到程序员的欢迎，它代表着这个软件可以纯键盘操作，而且是以熟悉的方式。]]></description>
+            <pubDate>Sun, 06 Aug 2023 03:13:46 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64cf0fea96f1897a9e560047</guid>
+            <link>https://m.okjike.com/originalPosts/64cf0fea96f1897a9e560047</link>
+            
+            
+            
+            <author><![CDATA[ourongxing]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[放下手中工作，开始提肛！！！]]></title>
-            <description><![CDATA[放下手中工作，开始提肛！！！<br><video src="https://videocdn.jellow.site/FqbYBYJCpK16pwelBNzHOMoHqwv-.mp4?sign=7602b7d46753c6b1e9f3d5583bc1b24a&amp;t=64cf575d" controls=""></video>]]></description>
+            <description><![CDATA[放下手中工作，开始提肛！！！<br><video src="https://videocdn.jellow.site/FqbYBYJCpK16pwelBNzHOMoHqwv-.mp4?sign=4ffd9bb46a3fd5f6ee7c00e0e16ec0bf&amp;t=64cf8e11" controls=""></video>]]></description>
             <pubDate>Fri, 04 Aug 2023 07:42:43 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/64ccabf3aac630c84840837e</guid>
             <link>https://m.okjike.com/originalPosts/64ccabf3aac630c84840837e</link>
@@ -50,22 +66,6 @@
             
             
             <author><![CDATA[村雨遥]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[这篇文章非常值得程序员读读，怎么发现挖掘一个小众真实需求，用程序自动化实现微信读书笔记的导出 里面还写了，他创作这个产品的思考 1.先跑通MVP，上线再迭代 ...]]></title>
-            <description><![CDATA[<img src="https://lutaonan.com/ogImage.png" referrerpolicy="no-referrer"><br>                    <a href="https://lutaonan.com/blog/my-extension-sold-1k-yuan/">开发一个浏览器插件在第三天卖出 1000 元 | Randy's Blog</a><br>                <br>这篇文章非常值得程序员读读，怎么发现挖掘一个小众真实需求，用程序自动化实现微信读书笔记的导出<br><br>里面还写了，他创作这个产品的思考<br>1.先跑通MVP，上线再迭代<br><br>2.收费意识，一定要收费，即使1元钱也与免费有区别<br><br>3.收多少？买断还是免费订阅？里面有作者的思考<br><br>4.如何支付？对接支付渠道还是挺麻烦的，作者考虑到毕竟是小众需求，采用最简单的办法，付款页面放收款码，但付款后，如何和用户绑定？<br><br>付款后，让用户填邮箱，开发一个生成token和检验的接口，人做太累，继续自动化<br><br>读完很受启发，程序员会写代码，想探索副业就可以做主业的延伸，难的是挖掘到真实需求，以及将其产品化<br><br>不知道怎么做的情况下，唯有多看了]]></description>
-            <pubDate>Wed, 02 Aug 2023 23:07:12 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64cae1a07d10e1210f4f8048</guid>
-            <link>https://m.okjike.com/originalPosts/64cae1a07d10e1210f4f8048</link>
-            
-            
-            
-            <author><![CDATA[每天晒白牙]]></author>
             
                 
             
