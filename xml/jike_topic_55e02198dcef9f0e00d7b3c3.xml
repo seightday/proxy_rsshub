@@ -21,8 +21,40 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 07 Aug 2023 08:16:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Aug 2023 10:29:47 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[AI 辅助学习的魅力可能被低估了，没想到 GPython 发布短短一个多月了收获了接近 1 万个注册用户，因此我又设计了一门新的SQL课程，不知道有没有想学 SQL、数据分...]]></title>
+            <description><![CDATA[AI 辅助学习的魅力可能被低估了，没想到 GPython 发布短短一个多月了收获了接近 1 万个注册用户，因此我又设计了一门新的SQL课程，不知道有没有想学  SQL、数据分析的即友愿意来体验下😬<br><br>还是熟悉的配方，所有代码块在线运行，随时修改和编辑，支持 AI释义，一键 debug，AI判题，AI答疑，再也不怕不会做的时候无人可问了😄<br><br>传送门: https://gpython.aibang.run/<br><img src="https://cdnv2.ruguoapp.com/FhCCMqFpjJMLum1wn4YHTyxXBnnFv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 07 Aug 2023 09:53:14 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64d0bf0a96f1897a9e7d944d</guid>
+            <link>https://m.okjike.com/originalPosts/64d0bf0a96f1897a9e7d944d</link>
+            
+            
+            
+            <author><![CDATA[Stanaaa]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[发现一个二维码生成工具。 可以导出配置方便后续生成相同风格样式的二维码。 Demo：https://styled-qr-code-generator.vercel.app/ GitHub：https://github.com/...]]></title>
+            <description><![CDATA[发现一个二维码生成工具。<br>可以导出配置方便后续生成相同风格样式的二维码。<br><br>Demo：https://styled-qr-code-generator.vercel.app/<br>GitHub：https://github.com/lyqht/styled-qr-code-generator<br><img src="https://cdnv2.ruguoapp.com/FsLAK1CPuvytzMqoa92Gf3n5srJPv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 07 Aug 2023 01:32:27 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64d049abaac630c8488da0de</guid>
+            <link>https://m.okjike.com/originalPosts/64d049abaac630c8488da0de</link>
+            
+            
+            
+            <author><![CDATA[Airyland]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[跟大家说两句，不要因为觉得独立开发很酷而去做独立开发，不要觉得自己目前没作品是因为上班忙，很有可能你全职独立开发也一样没作品。 多在工作之余花点时间去...]]></title>
@@ -74,7 +106,7 @@
         
         <item>
             <title><![CDATA[放下手中工作，开始提肛！！！]]></title>
-            <description><![CDATA[放下手中工作，开始提肛！！！<br><video src="https://videocdn.jellow.site/FqbYBYJCpK16pwelBNzHOMoHqwv-.mp4?sign=c4ab5683a84e155b758bb0344c4a178e&amp;t=64d0ad4c" controls=""></video>]]></description>
+            <description><![CDATA[放下手中工作，开始提肛！！！<br><video src="https://videocdn.jellow.site/FqbYBYJCpK16pwelBNzHOMoHqwv-.mp4?sign=e4356145d2667ffff05f4392c31b8b29&amp;t=64d0ce96" controls=""></video>]]></description>
             <pubDate>Fri, 04 Aug 2023 07:42:43 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/64ccabf3aac630c84840837e</guid>
             <link>https://m.okjike.com/originalPosts/64ccabf3aac630c84840837e</link>
@@ -114,38 +146,6 @@
             
             
             <author><![CDATA[哥飞]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[最近刚好有个数据可视化的需求，本来用的 echarts 结果没找到地理位置的信息。 找了一圈发现阿里 antv 团队最近开源了一个地理空间可视化平台，比较新，只有几十...]]></title>
-            <description><![CDATA[最近刚好有个数据可视化的需求，本来用的 echarts 结果没找到地理位置的信息。<br><br>找了一圈发现阿里 antv 团队最近开源了一个地理空间可视化平台，比较新，只有几十个 stars 。<br><br>https://locationinsight.antv.antgroup.com/<br><br>配合各种数据源能实现：<br><br>- 地图块的标注<br>- 地图块点击展示数据源详情<br>- 侧边或底部展示 表格、线图、柱状图、饼图<br><br>基本上拖拖拽拽就能生成一个基于地理信息的可视化页面，直接导出单个 HTML 文件，非常方便~<br><br>---<br><br>如果需要地理位置信息可以用网站上的工具：<br><br>https://l7.antv.antgroup.com/custom/tools<br><br>里面有世界各国的边界坐标以及国内各行政区域的划分。<br><br>如果还没有自己想要的可以直接基于地图圈一块地，坐标就出来了🥳~<br><img src="https://cdnv2.ruguoapp.com/Ftgw6rR-g7tYA2elrQYBnR2zuzcnv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 01 Aug 2023 12:09:15 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64c8f5ebaac630c848e8e720</guid>
-            <link>https://m.okjike.com/originalPosts/64c8f5ebaac630c848e8e720</link>
-            
-            
-            
-            <author><![CDATA[savokiss_]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[米哈游后端招聘， 急招！！急招！！急招！！ 项目组：hoyolab（米游社国际） 福利 - 补充公积金+五险+商业医疗险 - 每年 2 次调薪窗口 - 每年10天年假，3天带薪...]]></title>
-            <description><![CDATA[米哈游后端招聘， 急招！！急招！！急招！！<br><br>项目组：hoyolab（米游社国际）<br><br>福利<br>- 补充公积金+五险+商业医疗险<br>- 每年 2 次调薪窗口<br>- 每年10天年假，3天带薪病假<br>- 免费体检福利（包含一位家属）<br>- 内部专属咖啡吧<br>- 零食饮料不限量供应<br>- 免费午餐晚餐<br>- 年会大抽奖（100%中奖率）<br><br>岗位要求：<br>1、计算机相关专业本科及以上学历，有两年以上后台开发经验；<br>2、熟悉Go语言，有实际使用Go语言项目开发经验；<br>3、对微服务架构有一定程度的研究并有开发经验，在服务治理，服务监控方面有相关经验；<br>4、熟悉Web技术栈和Web应用开发，包括HTTP、安全、数据库、缓存、消息队列等；<br>5、熟悉SQL和数据库设计，具备mysql数据库设计和性能优化经验；熟悉主流非关系性数据库、缓存技术，例如：Redis、MongoDB、Memcached等；<br>6、掌握基本的前端知识js、ajax等，了解前后端分离架构；<br>7、了解Linux/Unix系统常用命令，了解docker、kubernetes等容器技术；<br>8、有高并发，海量用户系统经验优先。<br><br>👏欢迎简历投递 jiacheng.feng@mihoyo.com]]></description>
-            <pubDate>Tue, 01 Aug 2023 09:13:25 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64c8ccb5d8f8e55bd96d84d5</guid>
-            <link>https://m.okjike.com/originalPosts/64c8ccb5d8f8e55bd96d84d5</link>
-            
-            
-            
-            <author><![CDATA[林深时见鹿777]]></author>
             
                 
             
