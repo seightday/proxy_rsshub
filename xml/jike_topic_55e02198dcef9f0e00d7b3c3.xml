@@ -21,8 +21,40 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 08 Aug 2023 02:46:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Aug 2023 07:03:02 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[在申请海外银行账户的时候，看到有推友推荐了爱沙尼亚的「数字居民」，研究了下，感觉还是挺有意思的。 爱沙尼亚是欧洲的一个小国家，也是全球第一个落实数字游...]]></title>
+            <description><![CDATA[在申请海外银行账户的时候，看到有推友推荐了爱沙尼亚的「数字居民」，研究了下，感觉还是挺有意思的。<br><br>爱沙尼亚是欧洲的一个小国家，也是全球第一个落实数字游民签证的国家，申请通过后，会获得一个爱沙尼亚的数字居民 ID，使用这个 ID 可以在线完成海外公司的注册、银行卡的申请等，对独立开发者比较友好。<br><br>而申请也是比较简单的，直接上官网按照流程填写表单就行了，https://www.e-resident.gov.ee，需要准备的内容大概是：<br><br>1）你的个人简历，也可以是自己的社交媒体链接，例如 Twitter/Linkedin/Github 等<br>2）用于表单填写的其他信息，如护照、个人照片等<br>3）一张 Visa/Master 银行卡，最后填写完成需要缴费 100 欧元，送到北京需要外加 20 欧元邮费<br><br>唯一需要注意的是，表单会询问你申请的目的，让你成为爱沙尼亚的数字居民，肯定还是希望你能够为这个国家带来一些经济贡献的。一般 3~8 周会完成审核和发证，需要亲自去一趟北京爱沙尼亚大使馆申领证件，证件的有效期是五年，五年后需要续签。<br><br>在网上检索相关信息的时候，看到有朋友踩了个坑，跑北京一趟结果忘记了带护照……我已经提交了申请，看看能不能申请通过😄]]></description>
+            <pubDate>Tue, 08 Aug 2023 04:55:20 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64d1cab82edae6abdc16ae19</guid>
+            <link>https://m.okjike.com/originalPosts/64d1cab82edae6abdc16ae19</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[阮一峰写的 TypeScript 开源教程，介绍基本概念和用法，面向初学者。 在线阅读：https://wangdoc.com/typescript/ 博客介绍：https://www.ruanyifeng.com/blog/2...]]></title>
+            <description><![CDATA[阮一峰写的 TypeScript 开源教程，介绍基本概念和用法，面向初学者。<br>在线阅读：https://wangdoc.com/typescript/<br>博客介绍：https://www.ruanyifeng.com/blog/2023/08/typescript-tutorial.html<br>开放源码：https://github.com/wangdoc/typescript-tutorial<br><img src="https://cdnv2.ruguoapp.com/FnG8VbU8IGYI87_GJ3VHjCZAGICLv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 08 Aug 2023 03:39:18 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64d1b8e658c9056cf4b04129</guid>
+            <link>https://m.okjike.com/originalPosts/64d1b8e658c9056cf4b04129</link>
+            
+            
+            
+            <author><![CDATA[哥飞]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[猜猜为什么不直接发文字版]]></title>
@@ -50,22 +82,6 @@
             
             
             <author><![CDATA[Stanaaa]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[在 M1 机器上装 Linux 系统跑业务构建，思路清奇，但效果极佳。 有看到一篇 M1 芯片的性能测试数据，https://jysperm.me/2021/01/macbook-air-apple-silicon/#%E...]]></title>
-            <description><![CDATA[在 M1 机器上装 Linux 系统跑业务构建，思路清奇，但效果极佳。<br><br>有看到一篇 M1 芯片的性能测试数据，https://jysperm.me/2021/01/macbook-air-apple-silicon/#%E6%80%A7%E8%83%BD%E6%B5%8B%E8%AF%95，作者得出的一个结论是：对于 Node.js 依赖安装、前端项目构建、Swift 代码编译这些 CPU 密集且内存访问频繁、其中一些步骤依赖单核性能的场景，M1 有着非常明显的提升，即使使用 Rosetta 2 转译也要显著好于 i5。<br><br>在两年前，我们自己也做了类似的实验，得出的结论是基本一致的，而且买了一批机器，将 Mac 系统换成了 Linux，然后接入到集群进行调度，从数据上看，构建时间整体下降了 30%~60%，在高频协同尤其是 CI 任务繁重的项目中，这种投入的收益还是蛮高的。<br><img src="https://cdnv2.ruguoapp.com/Fntr5n8EDqHtMmRLeA5QZszzSGYVv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 07 Aug 2023 05:13:45 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64d07d89d8f8e55bd91c55d4</guid>
-            <link>https://m.okjike.com/originalPosts/64d07d89d8f8e55bd91c55d4</link>
-            
-            
-            
-            <author><![CDATA[Barret李靖]]></author>
             
                 
             
@@ -114,22 +130,6 @@
             
             
             <author><![CDATA[ourongxing]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[放下手中工作，开始提肛！！！]]></title>
-            <description><![CDATA[放下手中工作，开始提肛！！！<br><video src="https://videocdn.jellow.site/FqbYBYJCpK16pwelBNzHOMoHqwv-.mp4?sign=42d2074f34c5c4de4ddadc1a9378e71f&amp;t=64d1b217" controls=""></video>]]></description>
-            <pubDate>Fri, 04 Aug 2023 07:42:43 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64ccabf3aac630c84840837e</guid>
-            <link>https://m.okjike.com/originalPosts/64ccabf3aac630c84840837e</link>
-            
-            
-            
-            <author><![CDATA[店長]]></author>
             
                 
             
