@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 08 Aug 2023 07:03:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Aug 2023 11:14:23 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -50,6 +50,38 @@
             
             
             <author><![CDATA[哥飞]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[感谢 @哥飞 分享的一系列建站 SEO 赚流量相关知识，看到了 @AUDI_GUZZ 的 https://base64.kr/ 实践，自己也终于动手搞了个 https://www.urlxcode.com/，一个URL ...]]></title>
+            <description><![CDATA[感谢 @哥飞 分享的一系列建站 SEO 赚流量相关知识，看到了 @AUDI_GUZZ 的 https://base64.kr/ 实践，自己也终于动手搞了个 https://www.urlxcode.com/，一个URL 编码、解码在线工具，完全面向 AI 编程，借助 Claude 2 手搓代码，从新建文件夹到上线部署耗时 2 个小时左右。<br><br>到现在的一些里程碑：<br>- 08.04 上线英文、中文版本，提供 URL 解码、编码等最基础功能<br>- 08.06 提交 Google、百度收录，增加 URL 参数解析功能<br>- 08.07 被 Google 收录英文首页，增加 URL 编码模式切换功能<br>- 08.08 被 Google 收录中文首页，增加韩文、日文版本<br><br>未来继续：<br>- 关键词优化：创建更多网站页面<br>- 推广：创建尽可能多的外链<br>- 多语言：找关键词难度更低的国家，翻译网站语言<br>- 功能、性能优化：必要的时候再考虑<br><img src="https://cdnv2.ruguoapp.com/FgXCJ1Wzl862R11cpTgT3-EI9WLQv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fr9KzNirRxIYsOsNoqi10wQSpN5tv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 08 Aug 2023 03:25:40 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64d1b5b4aac630c848afd2fa</guid>
+            <link>https://m.okjike.com/originalPosts/64d1b5b4aac630c848afd2fa</link>
+            
+            
+            
+            <author><![CDATA[waringhu]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[搞不懂，为什么这么多开发者对华为和HarmonyOS有这么多偏见呢？]]></title>
+            <description><![CDATA[搞不懂，为什么这么多开发者对华为和HarmonyOS有这么多偏见呢？]]></description>
+            <pubDate>Tue, 08 Aug 2023 02:07:52 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64d1a378ebdb17148c06e0e7</guid>
+            <link>https://m.okjike.com/originalPosts/64d1a378ebdb17148c06e0e7</link>
+            
+            
+            
+            <author><![CDATA[小毛爱咬人]]></author>
             
                 
             
@@ -89,22 +121,6 @@
         </item>
         
         <item>
-            <title><![CDATA[发现一个二维码生成工具。 可以导出配置方便后续生成相同风格样式的二维码。 Demo：https://styled-qr-code-generator.vercel.app/ GitHub：https://github.com/...]]></title>
-            <description><![CDATA[发现一个二维码生成工具。<br>可以导出配置方便后续生成相同风格样式的二维码。<br><br>Demo：https://styled-qr-code-generator.vercel.app/<br>GitHub：https://github.com/lyqht/styled-qr-code-generator<br><img src="https://cdnv2.ruguoapp.com/FsLAK1CPuvytzMqoa92Gf3n5srJPv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 07 Aug 2023 01:32:27 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64d049abaac630c8488da0de</guid>
-            <link>https://m.okjike.com/originalPosts/64d049abaac630c8488da0de</link>
-            
-            
-            
-            <author><![CDATA[Airyland]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[跟大家说两句，不要因为觉得独立开发很酷而去做独立开发，不要觉得自己目前没作品是因为上班忙，很有可能你全职独立开发也一样没作品。 多在工作之余花点时间去...]]></title>
             <description><![CDATA[跟大家说两句，不要因为觉得独立开发很酷而去做独立开发，不要觉得自己目前没作品是因为上班忙，很有可能你全职独立开发也一样没作品。<br>多在工作之余花点时间去搞搞业余作品。<br>不要觉得开发容易，就只会开发，而不去推广运营。<br>开发只是作品第一步，后面的推广运营会更难，更要去迎难而上，去突破。]]></description>
             <pubDate>Sun, 06 Aug 2023 12:11:10 GMT</pubDate>
@@ -114,22 +130,6 @@
             
             
             <author><![CDATA[哥飞]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[看到 Vim 作者去世的消息有点感慨，曾经 Vim 入门了无数次，都只是用来简单改下配置文件。直到大二暑假，我在 B 站看到了 @TheCW 的 Vim 教程，被宏录制功能深深...]]></title>
-            <description><![CDATA[看到 Vim 作者去世的消息有点感慨，曾经 Vim 入门了无数次，都只是用来简单改下配置文件。直到大二暑假，我在 B 站看到了 @TheCW 的 Vim 教程，被宏录制功能深深震撼，也就下定决心了必须学会 Vim。<br><br>Vim 最伟大的地方在于它提供了一套 Vim 键位，在绝大多数代码编辑器上都可以使用这套键位。虽然我现在主用 VSCode，但 Vim 键位从来没有放弃过，甚至可以说已经忘记了 VSCode 的编辑器键位。<br><br>不管是代码编辑器，笔记软件甚至是阅读软件，支持 Vim 键位会更加受到程序员的欢迎，它代表着这个软件可以纯键盘操作，而且是以熟悉的方式。]]></description>
-            <pubDate>Sun, 06 Aug 2023 03:13:46 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64cf0fea96f1897a9e560047</guid>
-            <link>https://m.okjike.com/originalPosts/64cf0fea96f1897a9e560047</link>
-            
-            
-            
-            <author><![CDATA[ourongxing]]></author>
             
                 
             
