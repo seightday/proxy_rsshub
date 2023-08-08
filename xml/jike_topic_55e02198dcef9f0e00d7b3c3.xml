@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 08 Aug 2023 00:37:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Aug 2023 02:46:03 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[猜猜为什么不直接发文字版]]></title>
+            <description><![CDATA[猜猜为什么不直接发文字版<br><img src="https://cdnv2.ruguoapp.com/FrstOdBmdSjjWRkOilqQ7uAzu2fmv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 08 Aug 2023 01:57:51 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64d1a11fba30ac55406c9be8</guid>
+            <link>https://m.okjike.com/originalPosts/64d1a11fba30ac55406c9be8</link>
+            
+            
+            
+            <author><![CDATA[哥飞]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[AI 辅助学习的魅力可能被低估了，没想到 GPython 发布短短一个多月了收获了接近 1 万个注册用户，因此我又设计了一门新的SQL课程，不知道有没有想学 SQL、数据分...]]></title>
@@ -34,6 +50,22 @@
             
             
             <author><![CDATA[Stanaaa]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[在 M1 机器上装 Linux 系统跑业务构建，思路清奇，但效果极佳。 有看到一篇 M1 芯片的性能测试数据，https://jysperm.me/2021/01/macbook-air-apple-silicon/#%E...]]></title>
+            <description><![CDATA[在 M1 机器上装 Linux 系统跑业务构建，思路清奇，但效果极佳。<br><br>有看到一篇 M1 芯片的性能测试数据，https://jysperm.me/2021/01/macbook-air-apple-silicon/#%E6%80%A7%E8%83%BD%E6%B5%8B%E8%AF%95，作者得出的一个结论是：对于 Node.js 依赖安装、前端项目构建、Swift 代码编译这些 CPU 密集且内存访问频繁、其中一些步骤依赖单核性能的场景，M1 有着非常明显的提升，即使使用 Rosetta 2 转译也要显著好于 i5。<br><br>在两年前，我们自己也做了类似的实验，得出的结论是基本一致的，而且买了一批机器，将 Mac 系统换成了 Linux，然后接入到集群进行调度，从数据上看，构建时间整体下降了 30%~60%，在高频协同尤其是 CI 任务繁重的项目中，这种投入的收益还是蛮高的。<br><img src="https://cdnv2.ruguoapp.com/Fntr5n8EDqHtMmRLeA5QZszzSGYVv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 07 Aug 2023 05:13:45 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64d07d89d8f8e55bd91c55d4</guid>
+            <link>https://m.okjike.com/originalPosts/64d07d89d8f8e55bd91c55d4</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
             
                 
             
@@ -89,24 +121,8 @@
         </item>
         
         <item>
-            <title><![CDATA[开发了一个小工具：给PDF添加目录（table of contents） 你平时会经常看电子书吗？是否会烦恼有些电子书没有目录，手动添加又很麻烦？如果是，那可以试试这款应...]]></title>
-            <description><![CDATA[开发了一个小工具：给PDF添加目录（table of contents）<br><br>你平时会经常看电子书吗？是否会烦恼有些电子书没有目录，手动添加又很麻烦？如果是，那可以试试这款应用。<br><br>只需要把目录页的文本从PDF复制到一个文本文件，整理成 层级 标题 页码 的格式，就可以被读取，创建目录。同时还可以预览和修改这些信息。<br><br>借鉴了一些别人的作品，最大的创意还是可以预览和编辑目录信息。<br><br>感谢GPT-4🤭<br><br>项目地址<br>https://github.com/dull-bird/pdf_toc<br><br>第一个发布的小工具，希望有人能试试，给点宝贵的意见☺️<br><img src="https://cdnv2.ruguoapp.com/Fq7bo5B3gfiwebCmu8iYGgrQkXrrv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FlisGoSU4PsqA8J8YqYzDWTtQpRYv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 05 Aug 2023 17:11:59 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64ce82dfd8f8e55bd9f36379</guid>
-            <link>https://m.okjike.com/originalPosts/64ce82dfd8f8e55bd9f36379</link>
-            
-            
-            
-            <author><![CDATA[茶颜观色_cha]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[放下手中工作，开始提肛！！！]]></title>
-            <description><![CDATA[放下手中工作，开始提肛！！！<br><video src="https://videocdn.jellow.site/FqbYBYJCpK16pwelBNzHOMoHqwv-.mp4?sign=1c43700ffbd9e7713271dbdb67dd089b&amp;t=64d1939f" controls=""></video>]]></description>
+            <description><![CDATA[放下手中工作，开始提肛！！！<br><video src="https://videocdn.jellow.site/FqbYBYJCpK16pwelBNzHOMoHqwv-.mp4?sign=42d2074f34c5c4de4ddadc1a9378e71f&amp;t=64d1b217" controls=""></video>]]></description>
             <pubDate>Fri, 04 Aug 2023 07:42:43 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/64ccabf3aac630c84840837e</guid>
             <link>https://m.okjike.com/originalPosts/64ccabf3aac630c84840837e</link>
@@ -130,22 +146,6 @@
             
             
             <author><![CDATA[谢广志]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[https://LK99Wiki.com 已上线，就花了69花钱域名成本。 步骤如下： 1、注册域名（CloudFlare或者Godaddy）； 2、在 CloudFlare 添加域名； 3、建一个新的 Github...]]></title>
-            <description><![CDATA[https://LK99Wiki.com 已上线，就花了69花钱域名成本。<br>步骤如下：<br>1、注册域名（CloudFlare或者Godaddy）；<br>2、在 CloudFlare 添加域名；<br>3、建一个新的 Github 仓库，本地初始化，手写html，提交到仓库；<br>4、去 Vercel 建一个新项目，关联刚才建的 Github 仓库，自动进行部署；<br>5、等 Vercel 部署好之后，添加自己的域名，并去 ClouFlare 设置域名解析；<br>6、等待一会儿，网站就可以访问了。<br>以上所有步骤加起来，10分钟就足够了。]]></description>
-            <pubDate>Tue, 01 Aug 2023 12:25:10 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64c8f9a6ba30ac5540a8d0bc</guid>
-            <link>https://m.okjike.com/originalPosts/64c8f9a6ba30ac5540a8d0bc</link>
-            
-            
-            
-            <author><![CDATA[哥飞]]></author>
             
                 
             
