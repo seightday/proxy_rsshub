@@ -15,8 +15,54 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Wed, 09 Aug 2023 15:20:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Aug 2023 19:37:32 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[「免费」-「iOS」Sifter - 垃圾短信拦截过滤]]></title>
+            <description><![CDATA[<img src="https://is2-ssl.mzstatic.com/image/thumb/Purple116/v4/bd/0a/88/bd0a88a0-b7d4-a2e3-0fa8-26cb0386628f/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/256x256bb.jpg" referrerpolicy="no-referrer">
+          <br>
+          原价：¥8.00 -&gt; 现价：¥0.00
+          <br>
+          平台：iOS
+          <br>
+          基于用户设计的规则过滤短信。完全在本地运行，保证用户的隐私。
+
+◆ 支持的规则类型：
+- 白名单用户
+- 黑名单用户
+- 白名单（支持词组组合）
+- 黑名单（支持词组组合）
+- 正则白名单用户
+- 正则黑名单用户
+- 正则白名单
+- 正则黑名单
+
+*使用后4种规则需要对正则表达式有一定的了解。
+
+◆ 支持云规则（下载/更新第三方规则）
+◆ 规则快速编辑/添加（规则在一个单独的文本文件中）
+◆ 支持全部规则导入导出
+◆ 支持 iCloud 同步规则
+◆ 规则本地测试
+◆ 3D Touch 快捷键
+
+◆ URL Schemes：
+sifter://whitelist_users
+sifter://
+        ]]></description>
+            <pubDate>Wed, 09 Aug 2023 15:29:22 GMT</pubDate>
+            <guid isPermaLink="false">https://gofans.cn/app/acd6a024-88b3-45ea-ae0d-0e45fadeef2f</guid>
+            <link>https://gofans.cn/app/acd6a024-88b3-45ea-ae0d-0e45fadeef2f</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[「免费」-「iOS」MOV Converter Pro - 转MP4 / AVI]]></title>
@@ -686,37 +732,6 @@ There is a large selection of cass
             <pubDate>Mon, 07 Aug 2023 14:09:37 GMT</pubDate>
             <guid isPermaLink="false">https://gofans.cn/app/a8751704-9ea9-4ddf-a30c-6d8ff3340654</guid>
             <link>https://gofans.cn/app/a8751704-9ea9-4ddf-a30c-6d8ff3340654</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[「免费」-「iOS」AirDisk Pro]]></title>
-            <description><![CDATA[<img src="https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/4e/21/1c/4e211cc8-0a62-b287-712e-eb6f726ed1bf/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/256x256bb.jpg" referrerpolicy="no-referrer">
-          <br>
-          原价：¥22.00 -&gt; 现价：¥0.00
-          <br>
-          平台：iOS
-          <br>
-          介绍AirDisk Pro，一款可让您在iPhone、iPad或iPod touch上存储、查看和管理文件的终极解决方案。您可以通过Wi-Fi网络从任何Mac或PC连接到AirDisk Pro，并通过从Finder或Windows资源管理器中直接拖放文件进行传输。
-
-AirDisk Pro具备强大的文档查看器、PDF阅读器、音乐播放器、图片查看器、录音机、文本编辑器、文件管理器，并支持大多数文件操作，如删除、移动、复制、电子邮件、共享、压缩、解压等。
-
-
-主要功能：
-
-1. 支持云存储：
-支持iCloud Drive、Google Drive、Dropbox和OneDrive存储账户的多重链接
-        ]]></description>
-            <pubDate>Mon, 07 Aug 2023 14:09:20 GMT</pubDate>
-            <guid isPermaLink="false">https://gofans.cn/app/80b562bc-3938-4653-9506-8911f4740d39</guid>
-            <link>https://gofans.cn/app/80b562bc-3938-4653-9506-8911f4740d39</link>
             
             
             
