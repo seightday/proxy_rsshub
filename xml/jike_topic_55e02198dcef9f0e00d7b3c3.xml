@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 10 Aug 2023 11:04:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Aug 2023 15:04:52 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -41,15 +41,15 @@
         </item>
         
         <item>
-            <title><![CDATA[这两天有各种10分钟注册 Stripe 的教程在流传，如图三、四，看起来好像很简单，但是有坑，各位注意。 一定要真实信息，最好用公司名义申请，不然后面有你后悔的...]]></title>
-            <description><![CDATA[这两天有各种10分钟注册 Stripe 的教程在流传，如图三、四，看起来好像很简单，但是有坑，各位注意。<br>一定要真实信息，最好用公司名义申请，不然后面有你后悔的。<br><img src="https://cdnv2.ruguoapp.com/Fm1oP9_lYOh9A29Cpx_Tz7rmx6Q1v3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FnqH-KZ7VZRvYbWfPcO8f-LqiRw1v3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fl89QHSu8rBcTsq7gXoU0r9y-zTgv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FqKNtpMabgQnz389JfR6zv6HIZ6Wv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 10 Aug 2023 01:31:35 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64d43df7ebdb17148c446f98</guid>
-            <link>https://m.okjike.com/originalPosts/64d43df7ebdb17148c446f98</link>
+            <title><![CDATA[在一个独立开发者的交流群里，看到有人问，做好了 Chrome 插件，如何实现免费/付费的接入，他不想过于复杂地折腾 OAuth 登录和支付模块，在研究 Chrome 插件排行...]]></title>
+            <description><![CDATA[在一个独立开发者的交流群里，看到有人问，做好了 Chrome 插件，如何实现免费/付费的接入，他不想过于复杂地折腾 OAuth 登录和支付模块，在研究 Chrome 插件排行榜（https://extpose.com/top-grossing）的时候，恰好看到一个有趣的玩法：<br><br>1）在后端实现一个最简单的邮件注册和登录模块，用于记录用户付费状态<br>2）使用爱发电（https://afdian.net）的「自选金额」作为支付工具，可以通过 URL 拼接参数的方式实现自定义金额（如图），同时附带 remark 信息<br>3）用户支付成功后，利用爱发电提供的 Webhook 将用户的支付成功信息（含 remarks）回调给后端<br>4）后端通过解析 remark 里的订单/用户信息，将用户标记为付费状态<br><br>这个方案的缺点是只支持支付宝和微信支付，且平台收取 6% 的服务费。之前还看到一个更自助的模式，用户直接向自己的支付宝/微信/银行账号付款，在付费完成后，手动/自动给用户邮箱发送 token，相比爱发电方案，需要去对接上面提到的第三步，略微复杂一点。<br><br>不知道大家还用过哪些更轻便的玩法？😄<br><img src="https://cdnv2.ruguoapp.com/Fm_onJ2Egn41ZbMI4PIgAqwQ9_2dv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 10 Aug 2023 03:43:46 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64d45cf2ba30ac5540ade9b0</guid>
+            <link>https://m.okjike.com/originalPosts/64d45cf2ba30ac5540ade9b0</link>
             
             
             
-            <author><![CDATA[哥飞]]></author>
+            <author><![CDATA[Barret李靖]]></author>
             
                 
             
