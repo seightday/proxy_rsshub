@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Fri, 18 Aug 2023 23:55:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Aug 2023 04:03:36 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -73,6 +73,22 @@
         </item>
         
         <item>
+            <title><![CDATA[翻了 chrome 大佬的 blog，大佬太亲民了，每年写篇 blog 手把手教你优化 js 性能]]></title>
+            <description><![CDATA[<img src="https://mmbiz.qpic.cn/mmbiz_jpg/8MK8X2XQgu4hJIZMegibicQoFicTI7iaOKU8nfPKedkXM9lkp8ISIDBPXgt46XDiazTOqDXd2p69C1S8aow3wxibqUnw/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>                    <a href="https://mp.weixin.qq.com/s/IyyAioj8WsPsB43QsMC9VA">[性能优化] The Cost Of JavaScript (2017 - 2023) | JavaScript 性能优化之旅</a><br>                <br>翻了 chrome 大佬的 blog，大佬太亲民了，每年写篇 blog 手把手教你优化 js 性能]]></description>
+            <pubDate>Thu, 17 Aug 2023 09:26:29 GMT</pubDate>
+            <guid isPermaLink="false">https://mp.weixin.qq.com/s/IyyAioj8WsPsB43QsMC9VA</guid>
+            <link>https://mp.weixin.qq.com/s/IyyAioj8WsPsB43QsMC9VA</link>
+            
+            
+            
+            <author><![CDATA[卤代烃]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[微信云开发故障，好多小程序存储的数据没了，群里一片骂声。 很难说不是因为裁员导致的，老员工是个宝，经验没办法继承，新员工得再犯很多次错误，才能积累到相...]]></title>
             <description><![CDATA[微信云开发故障，好多小程序存储的数据没了，群里一片骂声。<br>很难说不是因为裁员导致的，老员工是个宝，经验没办法继承，新员工得再犯很多次错误，才能积累到相同的经验。<br><img src="https://cdnv2.ruguoapp.com/FobM3-DUsv-wOaUBkK_ubb1otOBLv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FofE7qHzNAR5tbpFwq3HuzM-PWe_v3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Thu, 17 Aug 2023 07:54:47 GMT</pubDate>
@@ -89,24 +105,8 @@
         </item>
         
         <item>
-            <title><![CDATA[宝塔bt.com确实是个好东西。一个宝塔基本上把服务端部署相关的东西都包装起来了，Web网站，数据库，监控基本都可视化了，学习和运维成本骤降。推荐独立开发者都...]]></title>
-            <description><![CDATA[宝塔bt.com确实是个好东西。一个宝塔基本上把服务端部署相关的东西都包装起来了，Web网站，数据库，监控基本都可视化了，学习和运维成本骤降。推荐独立开发者都利用起来。<br>另外还想再吐槽一遍，阿里云乱七八糟的服务简直太贵了，不要买不要买不要买。<br>#独立开发者##apple独立开发者##问东风ai#]]></description>
-            <pubDate>Thu, 17 Aug 2023 05:40:22 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64ddb2c62edae6abdc2ccd52</guid>
-            <link>https://m.okjike.com/originalPosts/64ddb2c62edae6abdc2ccd52</link>
-            
-            
-            
-            <author><![CDATA[本山德彪]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[当 代 前 端 开 发 现 状]]></title>
-            <description><![CDATA[当 代 前 端 开 发 现 状<br><video src="https://videocdn.jellow.site/lrnRse2f4IuJCtzL-TV6ImziLcvH.mp4?sign=309967e45eea551aa1ebc39ad70d8083&amp;t=64e00b81" controls=""></video>]]></description>
+            <description><![CDATA[当 代 前 端 开 发 现 状<br><video src="https://videocdn.jellow.site/lrnRse2f4IuJCtzL-TV6ImziLcvH.mp4?sign=cefb21d4618255a974d85f53d15c3253&amp;t=64e044b9" controls=""></video>]]></description>
             <pubDate>Thu, 17 Aug 2023 03:08:12 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/64dd8f1c58c9056cf4c49dd5</guid>
             <link>https://m.okjike.com/originalPosts/64dd8f1c58c9056cf4c49dd5</link>
