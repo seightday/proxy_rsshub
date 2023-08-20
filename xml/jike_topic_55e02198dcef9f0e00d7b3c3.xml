@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sun, 20 Aug 2023 15:47:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Aug 2023 19:54:31 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -50,6 +50,22 @@
             
             
             <author><![CDATA[哥飞]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[12 年到 15 年，一直使用博客园写作，当时经常霸榜推荐栏，这里是我技术启蒙的地方。 没想到十年后内容环境已经如此恶劣，在中国做公开内容就必须承受封站、罚款...]]></title>
+            <description><![CDATA[<img src="https://mmbiz.qpic.cn/mmbiz_jpg/dxsBJIxlHDZOzwcMODM8JfV73g488rLafQCYEw74ngicMvibaUobbIcurUZzATcPOr1941l0ibIM0UCcib0rbxjctQ/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>                    <a href="https://mp.weixin.qq.com/s/kEYexTJWDuUnBcvoC0aoNw">弹尽粮绝，会员救园：会员上线，命悬一线</a><br>                <br>12 年到 15 年，一直使用博客园写作，当时经常霸榜推荐栏，这里是我技术启蒙的地方。<br><br>没想到十年后内容环境已经如此恶劣，在中国做公开内容就必须承受封站、罚款的风险。<br><br>园长还是坚持着技术人的纯粹，其实早应该推出付费模式。]]></description>
+            <pubDate>Sat, 19 Aug 2023 23:55:48 GMT</pubDate>
+            <guid isPermaLink="false">https://mp.weixin.qq.com/s/kEYexTJWDuUnBcvoC0aoNw</guid>
+            <link>https://mp.weixin.qq.com/s/kEYexTJWDuUnBcvoC0aoNw</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
             
                 
             
@@ -162,22 +178,6 @@
             
             
             <author><![CDATA[Stanaaa]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[使用 AI 总结 Youtube 视频，走 you-get 下载视频 → FFmpeg 转音频 → whisper 再转文字 → AI 总结，这个方法很通用，但是速度实在太慢了，临时想到了一个野路...]]></title>
-            <description><![CDATA[使用 AI 总结 Youtube 视频，走 you-get 下载视频 → FFmpeg 转音频 → whisper 再转文字 → AI 总结，这个方法很通用，但是速度实在太慢了，临时想到了一个野路子，验证了下也是可行的：<br><br>1）直接从网页接口拉取对应的字幕<br>2）AI 总结<br><br>Youtube 的字幕数据并没有藏的特别深，在图一就可以找到，控制台输入 document.getElementsByTagName('ytd-app')[0].data.playerResponse，对应的数据如图二所示。<br><br>做成 Chrome 插件可以直接完成数据读取，如果想做到更自动化，也可以使用 puppeteer headless 模式抓取，成本还是很低的，1s 内可以完成总结任务。<br><img src="https://cdnv2.ruguoapp.com/Fr4QKKkUbS2GOy07npubagGk_Z4fv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FgyGAVaMyhO3dhAibAqrSjsms_i9v3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 26 Jul 2023 15:10:36 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64c1376cfbc9a354346f2c64</guid>
-            <link>https://m.okjike.com/originalPosts/64c1376cfbc9a354346f2c64</link>
-            
-            
-            
-            <author><![CDATA[Barret李靖]]></author>
             
                 
             
