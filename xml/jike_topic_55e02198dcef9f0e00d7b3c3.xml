@@ -21,8 +21,40 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 22 Aug 2023 12:11:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Aug 2023 14:20:10 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[一个GPT接口省钱小技巧。 因为 GPT 接口是无状态的，上下文需要我们自己管理，所以为了省钱，其实完全可以在输入 token 比较少时，用 GPT3.5 的 4K 模型，之后随...]]></title>
+            <description><![CDATA[一个GPT接口省钱小技巧。<br>因为 GPT 接口是无状态的，上下文需要我们自己管理，所以为了省钱，其实完全可以在输入 token 比较少时，用 GPT3.5 的 4K 模型，之后随着用户越聊越多时，才升级为 16K 模型，之后如果不够用了，再升级为 GPT4 的 32K 模型。<br>另外，维护上下文时，其实没必要把历史问题和回复的全文放进去，如果你想偷懒实现，可以直接截取前100个字，这种做法足够应付99%的提问。<br>如果你想把剩下的1%情况也做好，那么可以上 embeddings ，智能提取历史问题和回答。]]></description>
+            <pubDate>Tue, 22 Aug 2023 11:22:09 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64e49a6158c9056cf461fb55</guid>
+            <link>https://m.okjike.com/originalPosts/64e49a6158c9056cf461fb55</link>
+            
+            
+            
+            <author><![CDATA[哥飞]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[好几次在工具网站上看到了系列产品的月访问量、平均访问时长、跳出率等信息，很好奇数据是从哪里来的，研究了一下，找到了源头是 www.similarweb.com 那 similar...]]></title>
+            <description><![CDATA[好几次在工具网站上看到了系列产品的月访问量、平均访问时长、跳出率等信息，很好奇数据是从哪里来的，研究了一下，找到了源头是 www.similarweb.com<br><br>那 similarweb 的数据又是从哪里来的呢？可以简单理解为抽样分析 + 算法预测，只不过这里的抽样量级很恐怖，它每天会从全网各个渠道拿到 10 亿规模的数据，然后进行算法建模，推导出每个网站的各类数据指标的变化趋势，同时它有接入数以百万计的 Google Analysis 站长数据，这个数据一部分会作为算法的对照组，用于矫正分析结果，也是对算法模型的数据补充。<br><br>similarweb 有一个很强的能力，就是能够根据当前网站找到同类别下的相似网站，最近在研究一些 AI 产品的时候，用的比较多，本来以为 A 产品已经做的非常好了，利用 similarweb 一查，一下子又看到了好多其他新鲜的产品，只不过其准确性上还是有待提升（可能因为我不是付费版）。之前推荐的 toolify.ai 这个 AI 工具聚合网站就是基于 similarweb 的 API 搭建起来的，很不错。<br><img src="https://cdnv2.ruguoapp.com/FoUOsJlRj3jhEGacqn8hVFRSgcmdv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FpVBdusFhbqNMUmIRoVThaYwIuRov3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 22 Aug 2023 11:17:08 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64e499341e74dff792af68e7</guid>
+            <link>https://m.okjike.com/originalPosts/64e499341e74dff792af68e7</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[已经复购第二个了]]></title>
@@ -50,38 +82,6 @@
             
             
             <author><![CDATA[BigYe程普]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[这里开发大佬多，来讨论一下，能不能有一个对标系统相册的第三方相册APP，用来统一管理备份照片视频？ ⭕ 目前发现，照片备份主要存在以下几个问题： ① 手机厂...]]></title>
-            <description><![CDATA[这里开发大佬多，来讨论一下，能不能有一个对标系统相册的第三方相册APP，用来统一管理备份照片视频？<br><br>⭕ 目前发现，照片备份主要存在以下几个问题：<br>① 手机厂商提供的云服务只能在其自身的手机品牌上使用，换品牌是灾难；<br>② 手机厂商提供的云存储服务通常很贵；<br>③ 网盘厂商提供的照片备份服务通常不好用，因为是网盘的附属功能，做不到简洁易用。<br><br>⭕ 基于此，我设想了一个相册备份管理的小demo，它主要的特性是：<br>① 对标系统相册。简洁无广，盈利方式主要依靠捐赠+部分进阶功能付费；<br>② 不用担心数据安全且云空间资费较低。数据云同步依靠百度网盘，Webdav，OneDrive等较为可靠的第三方云服务；<br>③ 不受品牌机型限制。作为独立的第三方APP，无论你更换了什么品牌的手机，都可以不影响到照片的备份存储，甚至Android，iOS，Windows等多端都可以互通。<br><br>⭕ 个人初步设想是这样，可能会存在一些疏漏，大家可以在评论区讨论交流，也欢迎可以合作的开发者联系我们～<br><img src="https://cdnv2.ruguoapp.com/FmQZEtrbF44RD1LFrEvvMkENiFmIv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sun, 20 Aug 2023 09:38:13 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64e1df05ebdb17148c7d1326</guid>
-            <link>https://m.okjike.com/originalPosts/64e1df05ebdb17148c7d1326</link>
-            
-            
-            
-            <author><![CDATA[lemotd]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[这个作者说得当然也有些道理，但是，他没有理解和菜头提建议的对象是谁。 ​和菜头跟还没有做出第一个产品的人说的，让他们勇敢的走出第一步，那么其实做三件套...]]></title>
-            <description><![CDATA[这个作者说得当然也有些道理，但是，他没有理解和菜头提建议的对象是谁。<br>​和菜头跟还没有做出第一个产品的人说的，让他们勇敢的走出第一步，那么其实做三件套没有任何问题。<br>重要的不是点子，而是做出一个完整的产品，走完全流程。<br>另外，截图这个作者真是一点情商都没有，你标题就不会好好写吗？什么叫做“该死鬼”？不要站在上帝视角俯视众生，请回到现实世界来。<br>另外给截图作者科普一下，和菜头只是不会写代码而已，但是他有自己的技术公司，也做过一些产品。<br>图二就是和菜头公司做过的一些产品，还是有一定用户量的，所以我觉得和菜头有发言权，而不是你说的“不会游泳”。<br><img src="https://cdnv2.ruguoapp.com/Fklq7SYoFImGkzaIHuIJlx9oQWmCv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FtVh8mIGpf98ZUsu3USN_IPNMAGkv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sun, 20 Aug 2023 01:22:22 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64e16ace62e51d2dc78244e7</guid>
-            <link>https://m.okjike.com/originalPosts/64e16ace62e51d2dc78244e7</link>
-            
-            
-            
-            <author><![CDATA[哥飞]]></author>
             
                 
             
