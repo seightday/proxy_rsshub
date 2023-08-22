@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss  xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
+
 
 >
     <channel>
         <title><![CDATA[JitHub程序员 - 即刻圈子]]></title>
         <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
-        <atom:link href="https://rsshub/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub.app/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
         <description><![CDATA[开发者们分享，问答，也可以交友的地方。欢迎所有工程师！ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -20,19 +21,19 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 22 Aug 2023 08:16:19 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Tue, 22 Aug 2023 12:11:37 GMT</lastBuildDate>
+        <ttl>120</ttl>
         
         <item>
             <title><![CDATA[已经复购第二个了]]></title>
-            <description><![CDATA[<br>已经复购第二个了<br><picture><source srcset="https://cdnv2.ruguoapp.com/FgjGmaKZojsLACzbfoE2fR93GK3Tv3.jpg?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/FgjGmaKZojsLACzbfoE2fR93GK3Tv3.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/FgjGmaKZojsLACzbfoE2fR93GK3Tv3.jpg"></picture>]]></description>
+            <description><![CDATA[已经复购第二个了<br><img src="https://cdnv2.ruguoapp.com/FgjGmaKZojsLACzbfoE2fR93GK3Tv3.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Mon, 21 Aug 2023 06:22:23 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/64e3029f96f1897a9e1f7ae1</guid>
             <link>https://m.okjike.com/originalPosts/64e3029f96f1897a9e1f7ae1</link>
             
             
             
-            
+            <author><![CDATA[张小飞_]]></author>
             
                 
             
@@ -41,14 +42,14 @@
         
         <item>
             <title><![CDATA[分享一套web前端入门教程，这是微软Azure云退出的为期12周24课时的课程，提供关于JavaScript、CSS和HTML的基础知识，每节课都包括课前和课后测验、完成课程的书...]]></title>
-            <description><![CDATA[<br>分享一套web前端入门教程，这是微软Azure云退出的为期12周24课时的课程，提供关于JavaScript、CSS和HTML的基础知识，每节课都包括课前和课后测验、完成课程的书面说明、解决方案、作业等，帮助你更好地学习和巩固知识。教程提供了多种语言的版本。https://microsoft.github.io/Web-Dev-For-Beginners/#/ <br><picture><source srcset="https://cdnv2.ruguoapp.com/Fny1uv0v3tdGE0JvCRu5TuSrDo3ev3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/Fny1uv0v3tdGE0JvCRu5TuSrDo3ev3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/Fny1uv0v3tdGE0JvCRu5TuSrDo3ev3.png"></picture>]]></description>
+            <description><![CDATA[分享一套web前端入门教程，这是微软Azure云退出的为期12周24课时的课程，提供关于JavaScript、CSS和HTML的基础知识，每节课都包括课前和课后测验、完成课程的书面说明、解决方案、作业等，帮助你更好地学习和巩固知识。教程提供了多种语言的版本。https://microsoft.github.io/Web-Dev-For-Beginners/#/ <br><img src="https://cdnv2.ruguoapp.com/Fny1uv0v3tdGE0JvCRu5TuSrDo3ev3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Mon, 21 Aug 2023 02:59:07 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/64e2d2fb58c9056cf437ab4f</guid>
             <link>https://m.okjike.com/originalPosts/64e2d2fb58c9056cf437ab4f</link>
             
             
             
-            
+            <author><![CDATA[BigYe程普]]></author>
             
                 
             
@@ -56,16 +57,31 @@
         </item>
         
         <item>
-            <title><![CDATA[这个作者说得当然也有些道理，但是，他没有理解和菜头提建议的对象是谁。
-​和菜头跟还没有做出第一个产品的人说的，让他们勇敢的走出第一步，那么其实做三件套...]]></title>
-            <description><![CDATA[<br>这个作者说得当然也有些道理，但是，他没有理解和菜头提建议的对象是谁。<br>​和菜头跟还没有做出第一个产品的人说的，让他们勇敢的走出第一步，那么其实做三件套没有任何问题。<br>重要的不是点子，而是做出一个完整的产品，走完全流程。<br>另外，截图这个作者真是一点情商都没有，你标题就不会好好写吗？什么叫做“该死鬼”？不要站在上帝视角俯视众生，请回到现实世界来。<br>另外给截图作者科普一下，和菜头只是不会写代码而已，但是他有自己的技术公司，也做过一些产品。<br>图二就是和菜头公司做过的一些产品，还是有一定用户量的，所以我觉得和菜头有发言权，而不是你说的“不会游泳”。<br><picture><source srcset="https://cdnv2.ruguoapp.com/Fklq7SYoFImGkzaIHuIJlx9oQWmCv3.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/Fklq7SYoFImGkzaIHuIJlx9oQWmCv3.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/Fklq7SYoFImGkzaIHuIJlx9oQWmCv3.jpg"></picture><br><picture><source srcset="https://cdnv2.ruguoapp.com/FtVh8mIGpf98ZUsu3USN_IPNMAGkv3.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/FtVh8mIGpf98ZUsu3USN_IPNMAGkv3.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/FtVh8mIGpf98ZUsu3USN_IPNMAGkv3.jpg"></picture>]]></description>
+            <title><![CDATA[这里开发大佬多，来讨论一下，能不能有一个对标系统相册的第三方相册APP，用来统一管理备份照片视频？ ⭕ 目前发现，照片备份主要存在以下几个问题： ① 手机厂...]]></title>
+            <description><![CDATA[这里开发大佬多，来讨论一下，能不能有一个对标系统相册的第三方相册APP，用来统一管理备份照片视频？<br><br>⭕ 目前发现，照片备份主要存在以下几个问题：<br>① 手机厂商提供的云服务只能在其自身的手机品牌上使用，换品牌是灾难；<br>② 手机厂商提供的云存储服务通常很贵；<br>③ 网盘厂商提供的照片备份服务通常不好用，因为是网盘的附属功能，做不到简洁易用。<br><br>⭕ 基于此，我设想了一个相册备份管理的小demo，它主要的特性是：<br>① 对标系统相册。简洁无广，盈利方式主要依靠捐赠+部分进阶功能付费；<br>② 不用担心数据安全且云空间资费较低。数据云同步依靠百度网盘，Webdav，OneDrive等较为可靠的第三方云服务；<br>③ 不受品牌机型限制。作为独立的第三方APP，无论你更换了什么品牌的手机，都可以不影响到照片的备份存储，甚至Android，iOS，Windows等多端都可以互通。<br><br>⭕ 个人初步设想是这样，可能会存在一些疏漏，大家可以在评论区讨论交流，也欢迎可以合作的开发者联系我们～<br><img src="https://cdnv2.ruguoapp.com/FmQZEtrbF44RD1LFrEvvMkENiFmIv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sun, 20 Aug 2023 09:38:13 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64e1df05ebdb17148c7d1326</guid>
+            <link>https://m.okjike.com/originalPosts/64e1df05ebdb17148c7d1326</link>
+            
+            
+            
+            <author><![CDATA[lemotd]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[这个作者说得当然也有些道理，但是，他没有理解和菜头提建议的对象是谁。 ​和菜头跟还没有做出第一个产品的人说的，让他们勇敢的走出第一步，那么其实做三件套...]]></title>
+            <description><![CDATA[这个作者说得当然也有些道理，但是，他没有理解和菜头提建议的对象是谁。<br>​和菜头跟还没有做出第一个产品的人说的，让他们勇敢的走出第一步，那么其实做三件套没有任何问题。<br>重要的不是点子，而是做出一个完整的产品，走完全流程。<br>另外，截图这个作者真是一点情商都没有，你标题就不会好好写吗？什么叫做“该死鬼”？不要站在上帝视角俯视众生，请回到现实世界来。<br>另外给截图作者科普一下，和菜头只是不会写代码而已，但是他有自己的技术公司，也做过一些产品。<br>图二就是和菜头公司做过的一些产品，还是有一定用户量的，所以我觉得和菜头有发言权，而不是你说的“不会游泳”。<br><img src="https://cdnv2.ruguoapp.com/Fklq7SYoFImGkzaIHuIJlx9oQWmCv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FtVh8mIGpf98ZUsu3USN_IPNMAGkv3.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Sun, 20 Aug 2023 01:22:22 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/64e16ace62e51d2dc78244e7</guid>
             <link>https://m.okjike.com/originalPosts/64e16ace62e51d2dc78244e7</link>
             
             
             
-            
+            <author><![CDATA[哥飞]]></author>
             
                 
             
@@ -73,33 +89,15 @@
         </item>
         
         <item>
-            <title><![CDATA[12 年到 15 年，一直使用博客园写作，当时经常霸榜推荐栏，这里是我技术启蒙的地方。
-
-没想到十年后内容环境已经如此恶劣，在中国做公开内容就必须承受封站、罚...]]></title>
-            <description><![CDATA[<br>                    <img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dxsBJIxlHDZOzwcMODM8JfV73g488rLafQCYEw74ngicMvibaUobbIcurUZzATcPOr1941l0ibIM0UCcib0rbxjctQ/0?wx_fmt=jpeg"><br>                    <a href="https://mp.weixin.qq.com/s/kEYexTJWDuUnBcvoC0aoNw">弹尽粮绝，会员救园：会员上线，命悬一线</a><br>                <br>12 年到 15 年，一直使用博客园写作，当时经常霸榜推荐栏，这里是我技术启蒙的地方。<br><br>没想到十年后内容环境已经如此恶劣，在中国做公开内容就必须承受封站、罚款的风险。<br><br>园长还是坚持着技术人的纯粹，其实早应该推出付费模式。]]></description>
+            <title><![CDATA[12 年到 15 年，一直使用博客园写作，当时经常霸榜推荐栏，这里是我技术启蒙的地方。 没想到十年后内容环境已经如此恶劣，在中国做公开内容就必须承受封站、罚款...]]></title>
+            <description><![CDATA[<img src="https://mmbiz.qpic.cn/mmbiz_jpg/dxsBJIxlHDZOzwcMODM8JfV73g488rLafQCYEw74ngicMvibaUobbIcurUZzATcPOr1941l0ibIM0UCcib0rbxjctQ/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>                    <a href="https://mp.weixin.qq.com/s/kEYexTJWDuUnBcvoC0aoNw">弹尽粮绝，会员救园：会员上线，命悬一线</a><br>                <br>12 年到 15 年，一直使用博客园写作，当时经常霸榜推荐栏，这里是我技术启蒙的地方。<br><br>没想到十年后内容环境已经如此恶劣，在中国做公开内容就必须承受封站、罚款的风险。<br><br>园长还是坚持着技术人的纯粹，其实早应该推出付费模式。]]></description>
             <pubDate>Sat, 19 Aug 2023 23:55:48 GMT</pubDate>
             <guid isPermaLink="false">https://mp.weixin.qq.com/s/kEYexTJWDuUnBcvoC0aoNw</guid>
             <link>https://mp.weixin.qq.com/s/kEYexTJWDuUnBcvoC0aoNw</link>
             
             
             
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[建议博客园多加点广告，月度2500万访问量，结果养不活团队和服务器，还是太克制了。]]></title>
-            <description><![CDATA[<br>建议博客园多加点广告，月度2500万访问量，结果养不活团队和服务器，还是太克制了。<br><picture><source srcset="https://cdnv2.ruguoapp.com/Fh01FIY-NusH_4ZLLoyJlw6XctJav3.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/Fh01FIY-NusH_4ZLLoyJlw6XctJav3.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/Fh01FIY-NusH_4ZLLoyJlw6XctJav3.jpg"></picture><br><picture><source srcset="https://cdnv2.ruguoapp.com/FgSTfqPsSKG7MlvQ7ar6ZGVM818lv3.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/FgSTfqPsSKG7MlvQ7ar6ZGVM818lv3.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/FgSTfqPsSKG7MlvQ7ar6ZGVM818lv3.jpg"></picture>]]></description>
-            <pubDate>Sat, 19 Aug 2023 12:47:38 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64e0b9ead8f8e55bd9953453</guid>
-            <link>https://m.okjike.com/originalPosts/64e0b9ead8f8e55bd9953453</link>
-            
-            
-            
-            
+            <author><![CDATA[Barret李靖]]></author>
             
                 
             
@@ -108,14 +106,14 @@
         
         <item>
             <title><![CDATA[宇宙的尽头…]]></title>
-            <description><![CDATA[<br>宇宙的尽头…<br><picture><source srcset="https://cdnv2.ruguoapp.com/Fp9-HqkQGf5Q9bxqYxJhrpWcyBHZv3.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/Fp9-HqkQGf5Q9bxqYxJhrpWcyBHZv3.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/Fp9-HqkQGf5Q9bxqYxJhrpWcyBHZv3.jpg"></picture>]]></description>
+            <description><![CDATA[宇宙的尽头…<br><img src="https://cdnv2.ruguoapp.com/Fp9-HqkQGf5Q9bxqYxJhrpWcyBHZv3.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Fri, 18 Aug 2023 03:03:17 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/64dedf75ba30ac5540a1cd93</guid>
             <link>https://m.okjike.com/originalPosts/64dedf75ba30ac5540a1cd93</link>
             
             
             
-            
+            <author><![CDATA[mghio]]></author>
             
                 
             
@@ -124,14 +122,14 @@
         
         <item>
             <title><![CDATA[太TM精辟了😂]]></title>
-            <description><![CDATA[<br>太TM精辟了😂<br><picture><source srcset="https://cdnv2.ruguoapp.com/Fs4eJhsOJZMp779Ib42d99INvnIFv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/Fs4eJhsOJZMp779Ib42d99INvnIFv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/Fs4eJhsOJZMp779Ib42d99INvnIFv3.png"></picture>]]></description>
+            <description><![CDATA[太TM精辟了😂<br><img src="https://cdnv2.ruguoapp.com/Fs4eJhsOJZMp779Ib42d99INvnIFv3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Thu, 17 Aug 2023 14:45:57 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/64de32a5d8f8e55bd95e7b13</guid>
             <link>https://m.okjike.com/originalPosts/64de32a5d8f8e55bd95e7b13</link>
             
             
             
-            
+            <author><![CDATA[Daotin]]></author>
             
                 
             
@@ -139,17 +137,15 @@
         </item>
         
         <item>
-            <title><![CDATA[哥飞上网🏄，又发现了好玩的。
-https://whopaystechnicalwriters.com/
-这个叫“Who Pays Technical Writers”的网站，可以给技术写作人员提供一些付费写作的机...]]></title>
-            <description><![CDATA[<br>哥飞上网🏄，又发现了好玩的。<br>https://whopaystechnicalwriters.com/<br>这个叫“Who Pays Technical Writers”的网站，可以给技术写作人员提供一些付费写作的机会。<br><br>如果你对技术方面有所了解，比如系统管理、WordPress托管等，你可以在这个网站上找到一些写作项目。<br><br>每篇文章的报酬从几百到一千美元不等，还挺合适想找点兼职的人。<br><br>网站上还有一些与软件开发写作有关的资源，如果你对这方面感兴趣，也可以看看。<br><picture><source srcset="https://cdnv2.ruguoapp.com/FiEHliPOB2f-G6zK1_fj5R4hmfP6v3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/FiEHliPOB2f-G6zK1_fj5R4hmfP6v3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/FiEHliPOB2f-G6zK1_fj5R4hmfP6v3.png"></picture>]]></description>
+            <title><![CDATA[哥飞上网🏄，又发现了好玩的。 https://whopaystechnicalwriters.com/ 这个叫“Who Pays Technical Writers”的网站，可以给技术写作人员提供一些付费写作的机...]]></title>
+            <description><![CDATA[哥飞上网🏄，又发现了好玩的。<br>https://whopaystechnicalwriters.com/<br>这个叫“Who Pays Technical Writers”的网站，可以给技术写作人员提供一些付费写作的机会。<br><br>如果你对技术方面有所了解，比如系统管理、WordPress托管等，你可以在这个网站上找到一些写作项目。<br><br>每篇文章的报酬从几百到一千美元不等，还挺合适想找点兼职的人。<br><br>网站上还有一些与软件开发写作有关的资源，如果你对这方面感兴趣，也可以看看。<br><img src="https://cdnv2.ruguoapp.com/FiEHliPOB2f-G6zK1_fj5R4hmfP6v3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Fri, 11 Aug 2023 07:30:01 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/64d5e3791e74dff79262db91</guid>
             <link>https://m.okjike.com/originalPosts/64d5e3791e74dff79262db91</link>
             
             
             
-            
+            <author><![CDATA[哥飞]]></author>
             
                 
             
@@ -158,14 +154,14 @@ https://whopaystechnicalwriters.com/
         
         <item>
             <title><![CDATA[找到一个学习 Chrome 优秀插件产品设计和技术细节的最佳路径，ExtPose，https://extpose.com/top-grossing，这个产品提供了 Chrome 插件的每日最热榜单和历史最...]]></title>
-            <description><![CDATA[<br>找到一个学习 Chrome 优秀插件产品设计和技术细节的最佳路径，ExtPose，https://extpose.com/top-grossing，这个产品提供了 Chrome 插件的每日最热榜单和历史最多下载量榜单，可以在这里观测到近期都上架了哪些优秀的产品。<br><br>在插件详情页，提供了插件源码的下载入口，下载下来是一个 zip 文件，解压后即可看到源码，点开源码就能看到，不少最近新上架的热门插件，代码其实写的很一般，但是热度非常高，这也足以说明，洞察到用户需求才是关键，代码就是个实现产品的手段，只要有想法，愿意实践，使用 ChatGPT 做副驾驶就能做出受欢迎的产品 😄<br><picture><source srcset="https://cdnv2.ruguoapp.com/FlNehmOoc4IKcrXKYl734MPBHWJZv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/FlNehmOoc4IKcrXKYl734MPBHWJZv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/FlNehmOoc4IKcrXKYl734MPBHWJZv3.png"></picture>]]></description>
+            <description><![CDATA[找到一个学习 Chrome 优秀插件产品设计和技术细节的最佳路径，ExtPose，https://extpose.com/top-grossing，这个产品提供了 Chrome 插件的每日最热榜单和历史最多下载量榜单，可以在这里观测到近期都上架了哪些优秀的产品。<br><br>在插件详情页，提供了插件源码的下载入口，下载下来是一个 zip 文件，解压后即可看到源码，点开源码就能看到，不少最近新上架的热门插件，代码其实写的很一般，但是热度非常高，这也足以说明，洞察到用户需求才是关键，代码就是个实现产品的手段，只要有想法，愿意实践，使用 ChatGPT 做副驾驶就能做出受欢迎的产品 😄<br><img src="https://cdnv2.ruguoapp.com/FlNehmOoc4IKcrXKYl734MPBHWJZv3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Tue, 08 Aug 2023 10:12:59 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/64d2152b7d10e1210ff681f9</guid>
             <link>https://m.okjike.com/originalPosts/64d2152b7d10e1210ff681f9</link>
             
             
             
-            
+            <author><![CDATA[Barret李靖]]></author>
             
                 
             
@@ -173,15 +169,15 @@ https://whopaystechnicalwriters.com/
         </item>
         
         <item>
-            <title><![CDATA[AI 辅助学习的魅力可能被低估了，没想到 GPython 发布短短一个多月了收获了接近 1 万个注册用户，因此我又设计了一门新的SQL课程，不知道有没有想学  SQL、数据...]]></title>
-            <description><![CDATA[<br>AI 辅助学习的魅力可能被低估了，没想到 GPython 发布短短一个多月了收获了接近 1 万个注册用户，因此我又设计了一门新的SQL课程，不知道有没有想学  SQL、数据分析的即友愿意来体验下😬<br><br>还是熟悉的配方，所有代码块在线运行，随时修改和编辑，支持 AI释义，一键 debug，AI判题，AI答疑，再也不怕不会做的时候无人可问了😄<br><br>传送门: https://gpython.aibang.run/<br><picture><source srcset="https://cdnv2.ruguoapp.com/FhCCMqFpjJMLum1wn4YHTyxXBnnFv3.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/FhCCMqFpjJMLum1wn4YHTyxXBnnFv3.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/FhCCMqFpjJMLum1wn4YHTyxXBnnFv3.jpg"></picture>]]></description>
+            <title><![CDATA[AI 辅助学习的魅力可能被低估了，没想到 GPython 发布短短一个多月了收获了接近 1 万个注册用户，因此我又设计了一门新的SQL课程，不知道有没有想学 SQL、数据分...]]></title>
+            <description><![CDATA[AI 辅助学习的魅力可能被低估了，没想到 GPython 发布短短一个多月了收获了接近 1 万个注册用户，因此我又设计了一门新的SQL课程，不知道有没有想学  SQL、数据分析的即友愿意来体验下😬<br><br>还是熟悉的配方，所有代码块在线运行，随时修改和编辑，支持 AI释义，一键 debug，AI判题，AI答疑，再也不怕不会做的时候无人可问了😄<br><br>传送门: https://gpython.aibang.run/<br><img src="https://cdnv2.ruguoapp.com/FhCCMqFpjJMLum1wn4YHTyxXBnnFv3.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Mon, 07 Aug 2023 09:53:14 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/64d0bf0a96f1897a9e7d944d</guid>
             <link>https://m.okjike.com/originalPosts/64d0bf0a96f1897a9e7d944d</link>
             
             
             
-            
+            <author><![CDATA[Stanaaa]]></author>
             
                 
             
