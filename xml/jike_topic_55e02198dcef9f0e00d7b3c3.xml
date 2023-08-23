@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 23 Aug 2023 07:07:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Aug 2023 11:10:04 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[昨天的一个小瓜]]></title>
+            <description><![CDATA[昨天的一个小瓜<br><img src="https://cdnv2.ruguoapp.com/FrQ6rVNaLccLMNB-QemxOc-evD1Nv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 23 Aug 2023 03:29:51 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64e57d2f58c9056cf473f141</guid>
+            <link>https://m.okjike.com/originalPosts/64e57d2f58c9056cf473f141</link>
+            
+            
+            
+            <author><![CDATA[哥飞]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[中年程序员惨遭裁员，一时找不到工作，索性发展一点兴趣爱好。花费巨资买了缝纫设备，通读说明书到深夜，第二天调试好设备，找来废旧衣物，正襟危坐，手起针落，...]]></title>
@@ -62,22 +78,6 @@
             <pubDate>Tue, 22 Aug 2023 14:10:01 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/64e4c1b958c9056cf465efa5</guid>
             <link>https://m.okjike.com/originalPosts/64e4c1b958c9056cf465efa5</link>
-            
-            
-            
-            <author><![CDATA[哥飞]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[一个GPT接口省钱小技巧。 因为 GPT 接口是无状态的，上下文需要我们自己管理，所以为了省钱，其实完全可以在输入 token 比较少时，用 GPT3.5 的 4K 模型，之后随...]]></title>
-            <description><![CDATA[一个GPT接口省钱小技巧。<br>因为 GPT 接口是无状态的，上下文需要我们自己管理，所以为了省钱，其实完全可以在输入 token 比较少时，用 GPT3.5 的 4K 模型，之后随着用户越聊越多时，才升级为 16K 模型，之后如果不够用了，再升级为 GPT4 的 32K 模型。<br>另外，维护上下文时，其实没必要把历史问题和回复的全文放进去，如果你想偷懒实现，可以直接截取前100个字，这种做法足够应付99%的提问。<br>如果你想把剩下的1%情况也做好，那么可以上 embeddings ，智能提取历史问题和回答。]]></description>
-            <pubDate>Tue, 22 Aug 2023 11:22:09 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64e49a6158c9056cf461fb55</guid>
-            <link>https://m.okjike.com/originalPosts/64e49a6158c9056cf461fb55</link>
             
             
             
