@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 24 Aug 2023 05:59:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Aug 2023 12:10:04 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[写了一个账号 & 支付的（胶水）管理后台，现已开源！ 主要面向的是 Web App，可以快速接入付费（包含微信和支付宝）。 支持单次购买、证书激活以及订阅。 妈妈再...]]></title>
+            <description><![CDATA[写了一个账号 &amp; 支付的（胶水）管理后台，现已开源！<br><br>主要面向的是 Web App，可以快速接入付费（包含微信和支付宝）。<br><br>支持单次购买、证书激活以及订阅。<br><br>妈妈再也不用担心我的海外收款问题啦🥵<br><br>Demo 体验链接 👉 https://lemontree.vercel.app<br><br>部署文档和 API 参见 👉 https://github.com/mthli/lemonsqueepy/wiki<br><img src="https://cdnv2.ruguoapp.com/FpyONal73QVTMju9cZQLWQHTduR9v3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FllmkiDAmehpEEkeD5rqxLMDsxetv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 24 Aug 2023 03:13:36 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64e6cae02edae6abdcf556c3</guid>
+            <link>https://m.okjike.com/originalPosts/64e6cae02edae6abdcf556c3</link>
+            
+            
+            
+            <author><![CDATA[李明亮等100万人]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[如果你想要妈妈粉，那么可以做个晒娃美图制作小程序，她们会自发帮你传播]]></title>
@@ -98,22 +114,6 @@
             
             
             <author><![CDATA[Barret李靖]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[分享一套web前端入门教程，这是微软Azure云退出的为期12周24课时的课程，提供关于JavaScript、CSS和HTML的基础知识，每节课都包括课前和课后测验、完成课程的书...]]></title>
-            <description><![CDATA[分享一套web前端入门教程，这是微软Azure云退出的为期12周24课时的课程，提供关于JavaScript、CSS和HTML的基础知识，每节课都包括课前和课后测验、完成课程的书面说明、解决方案、作业等，帮助你更好地学习和巩固知识。教程提供了多种语言的版本。https://microsoft.github.io/Web-Dev-For-Beginners/#/ <br><img src="https://cdnv2.ruguoapp.com/Fny1uv0v3tdGE0JvCRu5TuSrDo3ev3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 21 Aug 2023 02:59:07 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64e2d2fb58c9056cf437ab4f</guid>
-            <link>https://m.okjike.com/originalPosts/64e2d2fb58c9056cf437ab4f</link>
-            
-            
-            
-            <author><![CDATA[BigYe程普]]></author>
             
                 
             
