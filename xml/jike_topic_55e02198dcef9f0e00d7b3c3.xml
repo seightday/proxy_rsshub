@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Fri, 25 Aug 2023 02:45:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Aug 2023 06:46:19 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[有人问我，怎么把散落在各个平台的「宝藏」信息给聚合起来，放到一块儿关注，我来提供一点工具和线索： 1）你需要一个 RSS 阅读器，我推荐 Reeder 5，Mac/iPhone...]]></title>
+            <description><![CDATA[有人问我，怎么把散落在各个平台的「宝藏」信息给聚合起来，放到一块儿关注，我来提供一点工具和线索：<br><br>1）你需要一个 RSS 阅读器，我推荐 Reeder 5，Mac/iPhone/iPad 三端体验都没有太多可挑剔的地方，关键是它支持滚动代替已读，有些看了标题就不想点进去的内容，只要滚动条滚过去，就会自动标记为已读，如果你是一个经常上千未读的订阅者，这个功能很减压，它是收费的；有一个体验稍微弱一点的免费产品，NetNewsWire，我也体验过一段时间，还不错<br><br>2）你需要一个将任意内容转换成 RSS 的工具，我推荐  RSSHub，https://docs.rsshub.app，它目前已经把主流媒体和渠道的内容转化成了 RSS；你也可以自己去定制，将互联网上喜欢的内容转换成 RSS<br><br>3）我建议你找一个 RSS 平台，注册一个账号，来管理 RSS 集合，一方面可以方便你在多个平台之间同步数据,包括订阅源的增删改查，以及已读、未读、收藏等状态的同步，另一方面也可以很好地支持多人协同，例如分享你的订阅给他人，或者将他人的订阅转为自己的订阅等等；我调研了不少类似的产品，最后选择的是 Inoreader，https://www.inoreader.com，虽然也是收费产品，但免费额度足够使用<br><br>接下来需要做的事情，就是去寻找自己喜欢的内容啦，这是一件长期的工作，不断去扩充自己的阅读边界；更重要的是，需要时常维护自己的订阅源，例如某些长期被略过的内容，即便偶尔出现一点点好的内容，也应该果断放弃，因为筛选成本太高了。<br><br>另外，欢迎大家分享自己的高质量订阅源😄<br><img src="https://cdnv2.ruguoapp.com/Fmi87Bo_otevNr6pM-sC43MHqogzv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 25 Aug 2023 06:11:28 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64e84610c70326f2eb30947a</guid>
+            <link>https://m.okjike.com/originalPosts/64e84610c70326f2eb30947a</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[卧虎藏龙]]></title>
@@ -162,22 +178,6 @@
             
             
             <author><![CDATA[Barret李靖]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[AI 辅助学习的魅力可能被低估了，没想到 GPython 发布短短一个多月了收获了接近 1 万个注册用户，因此我又设计了一门新的SQL课程，不知道有没有想学 SQL、数据分...]]></title>
-            <description><![CDATA[AI 辅助学习的魅力可能被低估了，没想到 GPython 发布短短一个多月了收获了接近 1 万个注册用户，因此我又设计了一门新的SQL课程，不知道有没有想学  SQL、数据分析的即友愿意来体验下😬<br><br>还是熟悉的配方，所有代码块在线运行，随时修改和编辑，支持 AI释义，一键 debug，AI判题，AI答疑，再也不怕不会做的时候无人可问了😄<br><br>传送门: https://gpython.aibang.run/<br><img src="https://cdnv2.ruguoapp.com/FhCCMqFpjJMLum1wn4YHTyxXBnnFv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 07 Aug 2023 09:53:14 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64d0bf0a96f1897a9e7d944d</guid>
-            <link>https://m.okjike.com/originalPosts/64d0bf0a96f1897a9e7d944d</link>
-            
-            
-            
-            <author><![CDATA[Stanaaa]]></author>
             
                 
             
