@@ -21,12 +21,12 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 28 Aug 2023 10:55:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Aug 2023 15:00:12 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
             <title><![CDATA[推荐一款开源免费的剪藏神器，https://github.com/yuque/yuque-chrome-extension，它不仅仅是一个信息的收集工具，还支持在信息收集过程中对内容进行编辑、优化...]]></title>
-            <description><![CDATA[推荐一款开源免费的剪藏神器，https://github.com/yuque/yuque-chrome-extension，它不仅仅是一个信息的收集工具，还支持在信息收集过程中对内容进行编辑、优化、翻译等操作，剪藏的数据在落库以后，还可以进行后期整理，例如支持全文检索、标签管理、内容聚合生成文章，甚至还有考虑对聚合的内容进行智能问答，这个用处就十分广泛了，有点类似 chat with docs。<br><br>尝试了一段时间，页面元素多选的体验做的很棒，据说后期可以将微信读书的笔记也导入进来，比较期待；另外，这个工具还自带了划词翻译功能，感觉又可以少装一个翻译插件了😄<br><br>插件的完成度比较高，正在学习如何制作 Chrome 插件的同学，可以扒一扒源码，参考下，这个项目是开源的。你也可以直接向仓库提交 PR，帮助它完善和改进。更详细的介绍，可以看这篇文档：https://www.yuque.com/yuque/yuque-browser-extension/welcome<br><video src="https://videocdn.jellow.site/FhtMnsO4XSeO3sFkQqReQzwH42zW.mp4?sign=27c69ab3e11cfbd91653bd3d386f6074&amp;t=64ec8249" controls=""></video>]]></description>
+            <description><![CDATA[推荐一款开源免费的剪藏神器，https://github.com/yuque/yuque-chrome-extension，它不仅仅是一个信息的收集工具，还支持在信息收集过程中对内容进行编辑、优化、翻译等操作，剪藏的数据在落库以后，还可以进行后期整理，例如支持全文检索、标签管理、内容聚合生成文章，甚至还有考虑对聚合的内容进行智能问答，这个用处就十分广泛了，有点类似 chat with docs。<br><br>尝试了一段时间，页面元素多选的体验做的很棒，据说后期可以将微信读书的笔记也导入进来，比较期待；另外，这个工具还自带了划词翻译功能，感觉又可以少装一个翻译插件了😄<br><br>插件的完成度比较高，正在学习如何制作 Chrome 插件的同学，可以扒一扒源码，参考下，这个项目是开源的。你也可以直接向仓库提交 PR，帮助它完善和改进。更详细的介绍，可以看这篇文档：https://www.yuque.com/yuque/yuque-browser-extension/welcome<br><video src="https://videocdn.jellow.site/FhtMnsO4XSeO3sFkQqReQzwH42zW.mp4?sign=6a41d412814dec04cf521ed3a45f9743&amp;t=64ecbcf3" controls=""></video>]]></description>
             <pubDate>Mon, 28 Aug 2023 07:41:51 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/64ec4fbf0c915376a2797880</guid>
             <link>https://m.okjike.com/originalPosts/64ec4fbf0c915376a2797880</link>
@@ -41,15 +41,15 @@
         </item>
         
         <item>
-            <title><![CDATA[“喜欢浏览掘金、CSDN等技术社区”，简历中写这句话的应届生，你是实在不知道用什么内容把一页纸填充满么？这跟“熟悉PPT、Photoshop、Linux单词的拼写”没什么...]]></title>
-            <description><![CDATA[“喜欢浏览掘金、CSDN等技术社区”，简历中写这句话的应届生，你是实在不知道用什么内容把一页纸填充满么？这跟“熟悉PPT、Photoshop、Linux单词的拼写”没什么区别吧？<br><br>你如果写“经常浏览GiHub网站、能流畅阅读英文技术文档”，我觉得还有点优势，能体现出差异化。你得写稍微有点门槛的东西上来。<br><br>CSDN这种上古时期就存在的、广告满天飞的牛皮癣网站，哪个程序员没见过？]]></description>
-            <pubDate>Sun, 27 Aug 2023 05:43:22 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64eae27a2c9bdd1af54e3574</guid>
-            <link>https://m.okjike.com/originalPosts/64eae27a2c9bdd1af54e3574</link>
+            <title><![CDATA[已经把 https://bibigpt.co 域名正式切换为国内服务器啦！大家可以试试看打开速度如何？😁 但可能还会有一定的遗留问题需要解决，先观察分流一段时间！ 哈哈哈...]]></title>
+            <description><![CDATA[已经把 https://bibigpt.co 域名正式切换为国内服务器啦！大家可以试试看打开速度如何？😁<br><br>但可能还会有一定的遗留问题需要解决，先观察分流一段时间！<br>哈哈哈，原来的 https://b.jimmylv.cn 是正常的，如果想要切换只需要把 b 改成 a 就行，换成 https://a.jimmylv.cn<br><img src="https://cdnv2.ruguoapp.com/FlhDWbxrXdemscA1uXyP1xk0VwK7v3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 28 Aug 2023 04:27:21 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64ec2229757144eb9a49fd6c</guid>
+            <link>https://m.okjike.com/originalPosts/64ec2229757144eb9a49fd6c</link>
             
             
             
-            <author><![CDATA[千古壹号]]></author>
+            <author><![CDATA[吕立青_JimmyLv.eth]]></author>
             
                 
             
