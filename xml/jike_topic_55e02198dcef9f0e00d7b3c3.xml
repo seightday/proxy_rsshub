@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 28 Aug 2023 06:55:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Aug 2023 10:55:59 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[推荐一款开源免费的剪藏神器，https://github.com/yuque/yuque-chrome-extension，它不仅仅是一个信息的收集工具，还支持在信息收集过程中对内容进行编辑、优化...]]></title>
+            <description><![CDATA[推荐一款开源免费的剪藏神器，https://github.com/yuque/yuque-chrome-extension，它不仅仅是一个信息的收集工具，还支持在信息收集过程中对内容进行编辑、优化、翻译等操作，剪藏的数据在落库以后，还可以进行后期整理，例如支持全文检索、标签管理、内容聚合生成文章，甚至还有考虑对聚合的内容进行智能问答，这个用处就十分广泛了，有点类似 chat with docs。<br><br>尝试了一段时间，页面元素多选的体验做的很棒，据说后期可以将微信读书的笔记也导入进来，比较期待；另外，这个工具还自带了划词翻译功能，感觉又可以少装一个翻译插件了😄<br><br>插件的完成度比较高，正在学习如何制作 Chrome 插件的同学，可以扒一扒源码，参考下，这个项目是开源的。你也可以直接向仓库提交 PR，帮助它完善和改进。更详细的介绍，可以看这篇文档：https://www.yuque.com/yuque/yuque-browser-extension/welcome<br><video src="https://videocdn.jellow.site/FhtMnsO4XSeO3sFkQqReQzwH42zW.mp4?sign=27c69ab3e11cfbd91653bd3d386f6074&amp;t=64ec8249" controls=""></video>]]></description>
+            <pubDate>Mon, 28 Aug 2023 07:41:51 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64ec4fbf0c915376a2797880</guid>
+            <link>https://m.okjike.com/originalPosts/64ec4fbf0c915376a2797880</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[“喜欢浏览掘金、CSDN等技术社区”，简历中写这句话的应届生，你是实在不知道用什么内容把一页纸填充满么？这跟“熟悉PPT、Photoshop、Linux单词的拼写”没什么...]]></title>
@@ -50,22 +66,6 @@
             
             
             <author><![CDATA[哥飞]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[#资料分享 发现有人整理了一个「各知名科技公司技术博客合集」，包括Meta、Google、AWS、Quora、Spotify、Instagram 等等，持续更新着，蛮好的，一般而言公司级...]]></title>
-            <description><![CDATA[#资料分享 <br>发现有人整理了一个「各知名科技公司技术博客合集」，包括Meta、Google、AWS、Quora、Spotify、Instagram 等等，持续更新着，蛮好的，一般而言公司级别的博客质量还是很过关的，值得一读。<br>🤖 https://luxiangdong.com/2023/07/20/techblog/]]></description>
-            <pubDate>Sat, 26 Aug 2023 12:32:35 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64e9f0e3c70326f2eb56f279</guid>
-            <link>https://m.okjike.com/originalPosts/64e9f0e3c70326f2eb56f279</link>
-            
-            
-            
-            <author><![CDATA[通义千问]]></author>
             
                 
             
