@@ -20,15 +20,17 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 29 Aug 2023 04:15:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Aug 2023 08:16:38 GMT</lastBuildDate>
         <ttl>1</ttl>
         
         <item>
-            <title><![CDATA[推荐一款开源免费的剪藏神器，https://github.com/yuque/yuque-chrome-extension，它不仅仅是一个信息的收集工具，还支持在信息收集过程中对内容进行编辑、优化...]]></title>
-            <description><![CDATA[<br>推荐一款开源免费的剪藏神器，https://github.com/yuque/yuque-chrome-extension，它不仅仅是一个信息的收集工具，还支持在信息收集过程中对内容进行编辑、优化、翻译等操作，剪藏的数据在落库以后，还可以进行后期整理，例如支持全文检索、标签管理、内容聚合生成文章，甚至还有考虑对聚合的内容进行智能问答，这个用处就十分广泛了，有点类似 chat with docs。<br><br>尝试了一段时间，页面元素多选的体验做的很棒，据说后期可以将微信读书的笔记也导入进来，比较期待；另外，这个工具还自带了划词翻译功能，感觉又可以少装一个翻译插件了😄<br><br>插件的完成度比较高，正在学习如何制作 Chrome 插件的同学，可以扒一扒源码，参考下，这个项目是开源的。你也可以直接向仓库提交 PR，帮助它完善和改进。更详细的介绍，可以看这篇文档：https://www.yuque.com/yuque/yuque-browser-extension/welcome]]></description>
-            <pubDate>Mon, 28 Aug 2023 07:41:51 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64ec4fbf0c915376a2797880</guid>
-            <link>https://m.okjike.com/originalPosts/64ec4fbf0c915376a2797880</link>
+            <title><![CDATA[如果你想学SEO，那么 ahrefs 的手册 https://ahrefs.com/seo 可以看一看。
+把下面几篇按顺序看一遍，就有了基本的SEO概念了
+how do search engines work  https:...]]></title>
+            <description><![CDATA[<br>如果你想学SEO，那么 ahrefs 的手册 https://ahrefs.com/seo 可以看一看。<br>把下面几篇按顺序看一遍，就有了基本的SEO概念了<br>how do search engines work  https://ahrefs.com/blog/how-do-search-engines-work/<br>seo basics  https://ahrefs.com/blog/seo-basics/<br>keyword research  https://ahrefs.com/blog/keyword-research/<br>seo content  https://ahrefs.com/blog/seo-content/<br>on page seo  https://ahrefs.com/blog/on-page-seo/<br>link building  https://ahrefs.com/blog/link-building/<br>technical seo  https://ahrefs.com/blog/technical-seo/]]></description>
+            <pubDate>Tue, 29 Aug 2023 06:28:11 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64ed8ffb0ec55b25f5d05bae</guid>
+            <link>https://m.okjike.com/originalPosts/64ed8ffb0ec55b25f5d05bae</link>
             
             
             
@@ -40,14 +42,11 @@
         </item>
         
         <item>
-            <title><![CDATA[已经把 https://bibigpt.co 域名正式切换为国内服务器啦！大家可以试试看打开速度如何？😁
-
-但可能还会有一定的遗留问题需要解决，先观察分流一段时间！
-哈哈...]]></title>
-            <description><![CDATA[<br>已经把 https://bibigpt.co 域名正式切换为国内服务器啦！大家可以试试看打开速度如何？😁<br><br>但可能还会有一定的遗留问题需要解决，先观察分流一段时间！<br>哈哈哈，原来的 https://b.jimmylv.cn 是正常的，如果想要切换只需要把 b 改成 a 就行，换成 https://a.jimmylv.cn<br><picture><source srcset="https://cdnv2.ruguoapp.com/FlhDWbxrXdemscA1uXyP1xk0VwK7v3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/FlhDWbxrXdemscA1uXyP1xk0VwK7v3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/FlhDWbxrXdemscA1uXyP1xk0VwK7v3.png"></picture>]]></description>
-            <pubDate>Mon, 28 Aug 2023 04:27:21 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64ec2229757144eb9a49fd6c</guid>
-            <link>https://m.okjike.com/originalPosts/64ec2229757144eb9a49fd6c</link>
+            <title><![CDATA[推荐一款开源免费的剪藏神器，https://github.com/yuque/yuque-chrome-extension，它不仅仅是一个信息的收集工具，还支持在信息收集过程中对内容进行编辑、优化...]]></title>
+            <description><![CDATA[<br>推荐一款开源免费的剪藏神器，https://github.com/yuque/yuque-chrome-extension，它不仅仅是一个信息的收集工具，还支持在信息收集过程中对内容进行编辑、优化、翻译等操作，剪藏的数据在落库以后，还可以进行后期整理，例如支持全文检索、标签管理、内容聚合生成文章，甚至还有考虑对聚合的内容进行智能问答，这个用处就十分广泛了，有点类似 chat with docs。<br><br>尝试了一段时间，页面元素多选的体验做的很棒，据说后期可以将微信读书的笔记也导入进来，比较期待；另外，这个工具还自带了划词翻译功能，感觉又可以少装一个翻译插件了😄<br><br>插件的完成度比较高，正在学习如何制作 Chrome 插件的同学，可以扒一扒源码，参考下，这个项目是开源的。你也可以直接向仓库提交 PR，帮助它完善和改进。更详细的介绍，可以看这篇文档：https://www.yuque.com/yuque/yuque-browser-extension/welcome]]></description>
+            <pubDate>Mon, 28 Aug 2023 07:41:51 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64ec4fbf0c915376a2797880</guid>
+            <link>https://m.okjike.com/originalPosts/64ec4fbf0c915376a2797880</link>
             
             
             
