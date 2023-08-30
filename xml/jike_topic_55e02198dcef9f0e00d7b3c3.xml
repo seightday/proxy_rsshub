@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss  xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
+
 
 >
     <channel>
         <title><![CDATA[JitHub程序员 - 即刻圈子]]></title>
         <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
-        <atom:link href="https://rsshub/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub.app/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
         <description><![CDATA[开发者们分享，问答，也可以交友的地方。欢迎所有工程师！ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -20,19 +21,19 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 30 Aug 2023 08:16:19 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Wed, 30 Aug 2023 10:54:28 GMT</lastBuildDate>
+        <ttl>120</ttl>
         
         <item>
             <title><![CDATA[不是 你们工作中敲代码遇到不会的都问谁啊。]]></title>
-            <description><![CDATA[<br>不是 你们工作中敲代码遇到不会的都问谁啊。]]></description>
+            <description><![CDATA[不是 你们工作中敲代码遇到不会的都问谁啊。]]></description>
             <pubDate>Wed, 30 Aug 2023 02:09:51 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/64eea4ef15391e4bc7270a7c</guid>
             <link>https://m.okjike.com/originalPosts/64eea4ef15391e4bc7270a7c</link>
             
             
             
-            
+            <author><![CDATA[来自颜朝的叁叁]]></author>
             
                 
             
@@ -41,14 +42,14 @@
         
         <item>
             <title><![CDATA[这两天有篇 reddit 上的帖子挺火的，作者说通过 ahrefs 找到了2个每个月有40K搜索量但竞争度很低的关键字，之后总共花了不到2000美元做网站，2019年11月上线了网...]]></title>
-            <description><![CDATA[<br>                    <img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/LBrX00GQeicudhZvoGXiblZiaf3fsjeyxhONPUiaENibdc0vmOAL37uf0J5UNzfibN5JQL42B2icYYpMDKkcw0zGXibRpA/0?wx_fmt=jpeg"><br>                    <a href="https://mp.weixin.qq.com/s/r0H48GssICrKbP8YePIuqw">利用Semrush找有一定搜索量且竞争小的关键词时容易遇到的一些陷阱</a><br>                <br>这两天有篇 reddit 上的帖子挺火的，作者说通过 ahrefs 找到了2个每个月有40K搜索量但竞争度很低的关键字，之后总共花了不到2000美元做网站，2019年11月上线了网站，到现在每个月收入1000美元，美滋滋。<br>​其实用Semrush也能找词，不过不管用什么工具找词都可能会遇到一些陷阱，今天哥飞给你讲讲。]]></description>
+            <description><![CDATA[<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/LBrX00GQeicudhZvoGXiblZiaf3fsjeyxhONPUiaENibdc0vmOAL37uf0J5UNzfibN5JQL42B2icYYpMDKkcw0zGXibRpA/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>                    <a href="https://mp.weixin.qq.com/s/r0H48GssICrKbP8YePIuqw">利用Semrush找有一定搜索量且竞争小的关键词时容易遇到的一些陷阱</a><br>                <br>这两天有篇 reddit 上的帖子挺火的，作者说通过 ahrefs 找到了2个每个月有40K搜索量但竞争度很低的关键字，之后总共花了不到2000美元做网站，2019年11月上线了网站，到现在每个月收入1000美元，美滋滋。<br>​其实用Semrush也能找词，不过不管用什么工具找词都可能会遇到一些陷阱，今天哥飞给你讲讲。]]></description>
             <pubDate>Wed, 30 Aug 2023 00:09:54 GMT</pubDate>
             <guid isPermaLink="false">https://mp.weixin.qq.com/s/r0H48GssICrKbP8YePIuqw</guid>
             <link>https://mp.weixin.qq.com/s/r0H48GssICrKbP8YePIuqw</link>
             
             
             
-            
+            <author><![CDATA[哥飞]]></author>
             
                 
             
@@ -57,14 +58,14 @@
         
         <item>
             <title><![CDATA[彩云天气和翻译 API 不再提供免费额度。]]></title>
-            <description><![CDATA[<br>彩云天气和翻译 API 不再提供免费额度。<br><picture><source srcset="https://cdnv2.ruguoapp.com/FrBOOUStJs70QvB1VSQZ8tDb-YvBv3.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/FrBOOUStJs70QvB1VSQZ8tDb-YvBv3.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/FrBOOUStJs70QvB1VSQZ8tDb-YvBv3.jpg"></picture>]]></description>
+            <description><![CDATA[彩云天气和翻译 API 不再提供免费额度。<br><img src="https://cdnv2.ruguoapp.com/FrBOOUStJs70QvB1VSQZ8tDb-YvBv3.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Tue, 29 Aug 2023 07:14:58 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/64ed9af22c9bdd1af58cb43b</guid>
             <link>https://m.okjike.com/originalPosts/64ed9af22c9bdd1af58cb43b</link>
             
             
             
-            
+            <author><![CDATA[ourongxing]]></author>
             
                 
             
@@ -72,17 +73,15 @@
         </item>
         
         <item>
-            <title><![CDATA[如果你想学SEO，那么 ahrefs 的手册 https://ahrefs.com/seo 可以看一看。
-把下面几篇按顺序看一遍，就有了基本的SEO概念了
-how do search engines work  https:...]]></title>
-            <description><![CDATA[<br>如果你想学SEO，那么 ahrefs 的手册 https://ahrefs.com/seo 可以看一看。<br>把下面几篇按顺序看一遍，就有了基本的SEO概念了<br>how do search engines work  https://ahrefs.com/blog/how-do-search-engines-work/<br>seo basics  https://ahrefs.com/blog/seo-basics/<br>keyword research  https://ahrefs.com/blog/keyword-research/<br>seo content  https://ahrefs.com/blog/seo-content/<br>on page seo  https://ahrefs.com/blog/on-page-seo/<br>link building  https://ahrefs.com/blog/link-building/<br>technical seo  https://ahrefs.com/blog/technical-seo/]]></description>
+            <title><![CDATA[如果你想学SEO，那么 ahrefs 的手册 https://ahrefs.com/seo 可以看一看。 把下面几篇按顺序看一遍，就有了基本的SEO概念了 how do search engines work https:/...]]></title>
+            <description><![CDATA[如果你想学SEO，那么 ahrefs 的手册 https://ahrefs.com/seo 可以看一看。<br>把下面几篇按顺序看一遍，就有了基本的SEO概念了<br>how do search engines work  https://ahrefs.com/blog/how-do-search-engines-work/<br>seo basics  https://ahrefs.com/blog/seo-basics/<br>keyword research  https://ahrefs.com/blog/keyword-research/<br>seo content  https://ahrefs.com/blog/seo-content/<br>on page seo  https://ahrefs.com/blog/on-page-seo/<br>link building  https://ahrefs.com/blog/link-building/<br>technical seo  https://ahrefs.com/blog/technical-seo/]]></description>
             <pubDate>Tue, 29 Aug 2023 06:28:11 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/64ed8ffb0ec55b25f5d05bae</guid>
             <link>https://m.okjike.com/originalPosts/64ed8ffb0ec55b25f5d05bae</link>
             
             
             
-            
+            <author><![CDATA[哥飞]]></author>
             
                 
             
@@ -91,14 +90,14 @@ how do search engines work  https:...]]></title>
         
         <item>
             <title><![CDATA[推荐一款开源免费的剪藏神器，https://github.com/yuque/yuque-chrome-extension，它不仅仅是一个信息的收集工具，还支持在信息收集过程中对内容进行编辑、优化...]]></title>
-            <description><![CDATA[<br>推荐一款开源免费的剪藏神器，https://github.com/yuque/yuque-chrome-extension，它不仅仅是一个信息的收集工具，还支持在信息收集过程中对内容进行编辑、优化、翻译等操作，剪藏的数据在落库以后，还可以进行后期整理，例如支持全文检索、标签管理、内容聚合生成文章，甚至还有考虑对聚合的内容进行智能问答，这个用处就十分广泛了，有点类似 chat with docs。<br><br>尝试了一段时间，页面元素多选的体验做的很棒，据说后期可以将微信读书的笔记也导入进来，比较期待；另外，这个工具还自带了划词翻译功能，感觉又可以少装一个翻译插件了😄<br><br>插件的完成度比较高，正在学习如何制作 Chrome 插件的同学，可以扒一扒源码，参考下，这个项目是开源的。你也可以直接向仓库提交 PR，帮助它完善和改进。更详细的介绍，可以看这篇文档：https://www.yuque.com/yuque/yuque-browser-extension/welcome]]></description>
+            <description><![CDATA[推荐一款开源免费的剪藏神器，https://github.com/yuque/yuque-chrome-extension，它不仅仅是一个信息的收集工具，还支持在信息收集过程中对内容进行编辑、优化、翻译等操作，剪藏的数据在落库以后，还可以进行后期整理，例如支持全文检索、标签管理、内容聚合生成文章，甚至还有考虑对聚合的内容进行智能问答，这个用处就十分广泛了，有点类似 chat with docs。<br><br>尝试了一段时间，页面元素多选的体验做的很棒，据说后期可以将微信读书的笔记也导入进来，比较期待；另外，这个工具还自带了划词翻译功能，感觉又可以少装一个翻译插件了😄<br><br>插件的完成度比较高，正在学习如何制作 Chrome 插件的同学，可以扒一扒源码，参考下，这个项目是开源的。你也可以直接向仓库提交 PR，帮助它完善和改进。更详细的介绍，可以看这篇文档：https://www.yuque.com/yuque/yuque-browser-extension/welcome<br><video src="https://videocdn.jellow.site/FhtMnsO4XSeO3sFkQqReQzwH42zW.mp4?sign=18239a63f67af5c224df5a81f12f3cc1&amp;t=64ef257f" controls=""></video>]]></description>
             <pubDate>Mon, 28 Aug 2023 07:41:51 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/64ec4fbf0c915376a2797880</guid>
             <link>https://m.okjike.com/originalPosts/64ec4fbf0c915376a2797880</link>
             
             
             
-            
+            <author><![CDATA[Barret李靖]]></author>
             
                 
             
@@ -106,16 +105,15 @@ how do search engines work  https:...]]></title>
         </item>
         
         <item>
-            <title><![CDATA[学习做网站，入门看 https://runoob.com 就够了，1和2可以并行，接着学3，然后就可以做一些工具网站了。
-如 @AUDI_GUZZ 开源的 base64 工具，就是纯前端就可以实...]]></title>
-            <description><![CDATA[<br>学习做网站，入门看 https://runoob.com 就够了，1和2可以并行，接着学3，然后就可以做一些工具网站了。<br>如 @AUDI_GUZZ 开源的 base64 工具，就是纯前端就可以实现。<br><picture><source srcset="https://cdnv2.ruguoapp.com/FvpdKziUqNPWKkyQTRaHvqABqT-nv3.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/FvpdKziUqNPWKkyQTRaHvqABqT-nv3.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/FvpdKziUqNPWKkyQTRaHvqABqT-nv3.jpg"></picture>]]></description>
+            <title><![CDATA[学习做网站，入门看 https://runoob.com 就够了，1和2可以并行，接着学3，然后就可以做一些工具网站了。 如 @AUDI_GUZZ 开源的 base64 工具，就是纯前端就可以实...]]></title>
+            <description><![CDATA[学习做网站，入门看 https://runoob.com 就够了，1和2可以并行，接着学3，然后就可以做一些工具网站了。<br>如 @AUDI_GUZZ 开源的 base64 工具，就是纯前端就可以实现。<br><img src="https://cdnv2.ruguoapp.com/FvpdKziUqNPWKkyQTRaHvqABqT-nv3.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Sun, 27 Aug 2023 00:21:01 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/64ea96edc70326f2eb622ff7</guid>
             <link>https://m.okjike.com/originalPosts/64ea96edc70326f2eb622ff7</link>
             
             
             
-            
+            <author><![CDATA[哥飞]]></author>
             
                 
             
@@ -123,17 +121,15 @@ how do search engines work  https:...]]></title>
         </item>
         
         <item>
-            <title><![CDATA[有人问我，怎么把散落在各个平台的「宝藏」信息给聚合起来，放到一块儿关注，我来提供一点工具和线索：
-
-1）你需要一个 RSS 阅读器，我推荐 Reeder 5，Mac/iPhon...]]></title>
-            <description><![CDATA[<br>有人问我，怎么把散落在各个平台的「宝藏」信息给聚合起来，放到一块儿关注，我来提供一点工具和线索：<br><br>1）你需要一个 RSS 阅读器，我推荐 Reeder 5，Mac/iPhone/iPad 三端体验都没有太多可挑剔的地方，关键是它支持滚动代替已读，有些看了标题就不想点进去的内容，只要滚动条滚过去，就会自动标记为已读，如果你是一个经常上千未读的订阅者，这个功能很减压，它是收费的；有一个体验稍微弱一点的免费产品，NetNewsWire，我也体验过一段时间，还不错<br><br>2）你需要一个将任意内容转换成 RSS 的工具，我推荐  RSSHub，https://docs.rsshub.app，它目前已经把主流媒体和渠道的内容转化成了 RSS；你也可以自己去定制，将互联网上喜欢的内容转换成 RSS<br><br>3）我建议你找一个 RSS 平台，注册一个账号，来管理 RSS 集合，一方面可以方便你在多个平台之间同步数据,包括订阅源的增删改查，以及已读、未读、收藏等状态的同步，另一方面也可以很好地支持多人协同，例如分享你的订阅给他人，或者将他人的订阅转为自己的订阅等等；我调研了不少类似的产品，最后选择的是 Inoreader，https://www.inoreader.com，虽然也是收费产品，但免费额度足够使用<br><br>接下来需要做的事情，就是去寻找自己喜欢的内容啦，这是一件长期的工作，不断去扩充自己的阅读边界；更重要的是，需要时常维护自己的订阅源，例如某些长期被略过的内容，即便偶尔出现一点点好的内容，也应该果断放弃，因为筛选成本太高了。<br><br>另外，欢迎大家分享自己的高质量订阅源😄<br><picture><source srcset="https://cdnv2.ruguoapp.com/Fmi87Bo_otevNr6pM-sC43MHqogzv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/Fmi87Bo_otevNr6pM-sC43MHqogzv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/Fmi87Bo_otevNr6pM-sC43MHqogzv3.png"></picture>]]></description>
+            <title><![CDATA[有人问我，怎么把散落在各个平台的「宝藏」信息给聚合起来，放到一块儿关注，我来提供一点工具和线索： 1）你需要一个 RSS 阅读器，我推荐 Reeder 5，Mac/iPhone...]]></title>
+            <description><![CDATA[有人问我，怎么把散落在各个平台的「宝藏」信息给聚合起来，放到一块儿关注，我来提供一点工具和线索：<br><br>1）你需要一个 RSS 阅读器，我推荐 Reeder 5，Mac/iPhone/iPad 三端体验都没有太多可挑剔的地方，关键是它支持滚动代替已读，有些看了标题就不想点进去的内容，只要滚动条滚过去，就会自动标记为已读，如果你是一个经常上千未读的订阅者，这个功能很减压，它是收费的；有一个体验稍微弱一点的免费产品，NetNewsWire，我也体验过一段时间，还不错<br><br>2）你需要一个将任意内容转换成 RSS 的工具，我推荐  RSSHub，https://docs.rsshub.app，它目前已经把主流媒体和渠道的内容转化成了 RSS；你也可以自己去定制，将互联网上喜欢的内容转换成 RSS<br><br>3）我建议你找一个 RSS 平台，注册一个账号，来管理 RSS 集合，一方面可以方便你在多个平台之间同步数据,包括订阅源的增删改查，以及已读、未读、收藏等状态的同步，另一方面也可以很好地支持多人协同，例如分享你的订阅给他人，或者将他人的订阅转为自己的订阅等等；我调研了不少类似的产品，最后选择的是 Inoreader，https://www.inoreader.com，虽然也是收费产品，但免费额度足够使用<br><br>接下来需要做的事情，就是去寻找自己喜欢的内容啦，这是一件长期的工作，不断去扩充自己的阅读边界；更重要的是，需要时常维护自己的订阅源，例如某些长期被略过的内容，即便偶尔出现一点点好的内容，也应该果断放弃，因为筛选成本太高了。<br><br>另外，欢迎大家分享自己的高质量订阅源😄<br><img src="https://cdnv2.ruguoapp.com/Fmi87Bo_otevNr6pM-sC43MHqogzv3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Fri, 25 Aug 2023 06:11:28 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/64e84610c70326f2eb30947a</guid>
             <link>https://m.okjike.com/originalPosts/64e84610c70326f2eb30947a</link>
             
             
             
-            
+            <author><![CDATA[Barret李靖]]></author>
             
                 
             
@@ -141,17 +137,15 @@ how do search engines work  https:...]]></title>
         </item>
         
         <item>
-            <title><![CDATA[12 年到 15 年，一直使用博客园写作，当时经常霸榜推荐栏，这里是我技术启蒙的地方。
-
-没想到十年后内容环境已经如此恶劣，在中国做公开内容就必须承受封站、罚...]]></title>
-            <description><![CDATA[<br>                    <img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dxsBJIxlHDZOzwcMODM8JfV73g488rLafQCYEw74ngicMvibaUobbIcurUZzATcPOr1941l0ibIM0UCcib0rbxjctQ/0?wx_fmt=jpeg"><br>                    <a href="https://mp.weixin.qq.com/s/kEYexTJWDuUnBcvoC0aoNw">弹尽粮绝，会员救园：会员上线，命悬一线</a><br>                <br>12 年到 15 年，一直使用博客园写作，当时经常霸榜推荐栏，这里是我技术启蒙的地方。<br><br>没想到十年后内容环境已经如此恶劣，在中国做公开内容就必须承受封站、罚款的风险。<br><br>园长还是坚持着技术人的纯粹，其实早应该推出付费模式。]]></description>
+            <title><![CDATA[12 年到 15 年，一直使用博客园写作，当时经常霸榜推荐栏，这里是我技术启蒙的地方。 没想到十年后内容环境已经如此恶劣，在中国做公开内容就必须承受封站、罚款...]]></title>
+            <description><![CDATA[<img src="https://mmbiz.qpic.cn/mmbiz_jpg/dxsBJIxlHDZOzwcMODM8JfV73g488rLafQCYEw74ngicMvibaUobbIcurUZzATcPOr1941l0ibIM0UCcib0rbxjctQ/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>                    <a href="https://mp.weixin.qq.com/s/kEYexTJWDuUnBcvoC0aoNw">弹尽粮绝，会员救园：会员上线，命悬一线</a><br>                <br>12 年到 15 年，一直使用博客园写作，当时经常霸榜推荐栏，这里是我技术启蒙的地方。<br><br>没想到十年后内容环境已经如此恶劣，在中国做公开内容就必须承受封站、罚款的风险。<br><br>园长还是坚持着技术人的纯粹，其实早应该推出付费模式。]]></description>
             <pubDate>Sat, 19 Aug 2023 23:55:48 GMT</pubDate>
             <guid isPermaLink="false">https://mp.weixin.qq.com/s/kEYexTJWDuUnBcvoC0aoNw</guid>
             <link>https://mp.weixin.qq.com/s/kEYexTJWDuUnBcvoC0aoNw</link>
             
             
             
-            
+            <author><![CDATA[Barret李靖]]></author>
             
                 
             
@@ -159,17 +153,15 @@ how do search engines work  https:...]]></title>
         </item>
         
         <item>
-            <title><![CDATA[哥飞上网🏄，又发现了好玩的。
-https://whopaystechnicalwriters.com/
-这个叫“Who Pays Technical Writers”的网站，可以给技术写作人员提供一些付费写作的机...]]></title>
-            <description><![CDATA[<br>哥飞上网🏄，又发现了好玩的。<br>https://whopaystechnicalwriters.com/<br>这个叫“Who Pays Technical Writers”的网站，可以给技术写作人员提供一些付费写作的机会。<br><br>如果你对技术方面有所了解，比如系统管理、WordPress托管等，你可以在这个网站上找到一些写作项目。<br><br>每篇文章的报酬从几百到一千美元不等，还挺合适想找点兼职的人。<br><br>网站上还有一些与软件开发写作有关的资源，如果你对这方面感兴趣，也可以看看。<br><picture><source srcset="https://cdnv2.ruguoapp.com/FiEHliPOB2f-G6zK1_fj5R4hmfP6v3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/FiEHliPOB2f-G6zK1_fj5R4hmfP6v3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/FiEHliPOB2f-G6zK1_fj5R4hmfP6v3.png"></picture>]]></description>
+            <title><![CDATA[哥飞上网🏄，又发现了好玩的。 https://whopaystechnicalwriters.com/ 这个叫“Who Pays Technical Writers”的网站，可以给技术写作人员提供一些付费写作的机...]]></title>
+            <description><![CDATA[哥飞上网🏄，又发现了好玩的。<br>https://whopaystechnicalwriters.com/<br>这个叫“Who Pays Technical Writers”的网站，可以给技术写作人员提供一些付费写作的机会。<br><br>如果你对技术方面有所了解，比如系统管理、WordPress托管等，你可以在这个网站上找到一些写作项目。<br><br>每篇文章的报酬从几百到一千美元不等，还挺合适想找点兼职的人。<br><br>网站上还有一些与软件开发写作有关的资源，如果你对这方面感兴趣，也可以看看。<br><img src="https://cdnv2.ruguoapp.com/FiEHliPOB2f-G6zK1_fj5R4hmfP6v3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Fri, 11 Aug 2023 07:30:01 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/64d5e3791e74dff79262db91</guid>
             <link>https://m.okjike.com/originalPosts/64d5e3791e74dff79262db91</link>
             
             
             
-            
+            <author><![CDATA[哥飞]]></author>
             
                 
             
@@ -178,14 +170,14 @@ https://whopaystechnicalwriters.com/
         
         <item>
             <title><![CDATA[找到一个学习 Chrome 优秀插件产品设计和技术细节的最佳路径，ExtPose，https://extpose.com/top-grossing，这个产品提供了 Chrome 插件的每日最热榜单和历史最...]]></title>
-            <description><![CDATA[<br>找到一个学习 Chrome 优秀插件产品设计和技术细节的最佳路径，ExtPose，https://extpose.com/top-grossing，这个产品提供了 Chrome 插件的每日最热榜单和历史最多下载量榜单，可以在这里观测到近期都上架了哪些优秀的产品。<br><br>在插件详情页，提供了插件源码的下载入口，下载下来是一个 zip 文件，解压后即可看到源码，点开源码就能看到，不少最近新上架的热门插件，代码其实写的很一般，但是热度非常高，这也足以说明，洞察到用户需求才是关键，代码就是个实现产品的手段，只要有想法，愿意实践，使用 ChatGPT 做副驾驶就能做出受欢迎的产品 😄<br><picture><source srcset="https://cdnv2.ruguoapp.com/FlNehmOoc4IKcrXKYl734MPBHWJZv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/FlNehmOoc4IKcrXKYl734MPBHWJZv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/FlNehmOoc4IKcrXKYl734MPBHWJZv3.png"></picture>]]></description>
+            <description><![CDATA[找到一个学习 Chrome 优秀插件产品设计和技术细节的最佳路径，ExtPose，https://extpose.com/top-grossing，这个产品提供了 Chrome 插件的每日最热榜单和历史最多下载量榜单，可以在这里观测到近期都上架了哪些优秀的产品。<br><br>在插件详情页，提供了插件源码的下载入口，下载下来是一个 zip 文件，解压后即可看到源码，点开源码就能看到，不少最近新上架的热门插件，代码其实写的很一般，但是热度非常高，这也足以说明，洞察到用户需求才是关键，代码就是个实现产品的手段，只要有想法，愿意实践，使用 ChatGPT 做副驾驶就能做出受欢迎的产品 😄<br><img src="https://cdnv2.ruguoapp.com/FlNehmOoc4IKcrXKYl734MPBHWJZv3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Tue, 08 Aug 2023 10:12:59 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/64d2152b7d10e1210ff681f9</guid>
             <link>https://m.okjike.com/originalPosts/64d2152b7d10e1210ff681f9</link>
             
             
             
-            
+            <author><![CDATA[Barret李靖]]></author>
             
                 
             
