@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 31 Aug 2023 01:30:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Aug 2023 07:32:14 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[同事把他差点被骗子骗十几万的经历给分享了出来，https://mp.weixin.qq.com/s/qWc_FkbbZYXuVR7pS9A3FA，明明是自己收钱，最后却变成向骗子转账，也是不知道该说...]]></title>
+            <description><![CDATA[同事把他差点被骗子骗十几万的经历给分享了出来，https://mp.weixin.qq.com/s/qWc_FkbbZYXuVR7pS9A3FA，明明是自己收钱，最后却变成向骗子转账，也是不知道该说啥了。回头再看，整个过程漏洞百出，有几个教训值得分享下：<br><br>1）私人手机号码来电，八成就是骗子了，你可以要求对方通过公司座机打过来，这一步可以挡掉大部分的无妄之灾<br>2）引导安装软件，不是 APP Store 的正规通道软件，还需要信任证书，要知道最高权限的证书可以远程直接抹掉手机的所有数据，更别说查看你的数据了<br>3）直播录屏，把所有的银行卡操作暴露在骗子眼前，甚至 1Password 密码都暴露出来，只能说太大方<br>4）行骗域名是一串奇怪的数字，后缀还是 .icu 结尾，骗子也是够幽默的，这是专骗程序员的域名么？<br>5）蚂蚁的老员工，还被骗子 PS 的一张蚂蚁工牌给骗了，竟然没有想到去内网求证一下😂<br><br>骗子都是急人之所急，对人性和情绪有着极度的掌控，被骗者一旦陷进去，想爬出来就难了。小区的教授、公司的技术专家、社交媒体的名人，都是身边真实发生的事件，骗子正在把目光瞄准到知识分子身上。<br><br>需要引以为戒，也许下一个就是自己了……]]></description>
+            <pubDate>Thu, 31 Aug 2023 05:26:17 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64f024796e5e990f20df1c5c</guid>
+            <link>https://m.okjike.com/originalPosts/64f024796e5e990f20df1c5c</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[不是 你们工作中敲代码遇到不会的都问谁啊。]]></title>
@@ -57,22 +73,6 @@
         </item>
         
         <item>
-            <title><![CDATA[彩云天气和翻译 API 不再提供免费额度。]]></title>
-            <description><![CDATA[彩云天气和翻译 API 不再提供免费额度。<br><img src="https://cdnv2.ruguoapp.com/FrBOOUStJs70QvB1VSQZ8tDb-YvBv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 29 Aug 2023 07:14:58 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64ed9af22c9bdd1af58cb43b</guid>
-            <link>https://m.okjike.com/originalPosts/64ed9af22c9bdd1af58cb43b</link>
-            
-            
-            
-            <author><![CDATA[ourongxing]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[如果你想学SEO，那么 ahrefs 的手册 https://ahrefs.com/seo 可以看一看。 把下面几篇按顺序看一遍，就有了基本的SEO概念了 how do search engines work https:/...]]></title>
             <description><![CDATA[如果你想学SEO，那么 ahrefs 的手册 https://ahrefs.com/seo 可以看一看。<br>把下面几篇按顺序看一遍，就有了基本的SEO概念了<br>how do search engines work  https://ahrefs.com/blog/how-do-search-engines-work/<br>seo basics  https://ahrefs.com/blog/seo-basics/<br>keyword research  https://ahrefs.com/blog/keyword-research/<br>seo content  https://ahrefs.com/blog/seo-content/<br>on page seo  https://ahrefs.com/blog/on-page-seo/<br>link building  https://ahrefs.com/blog/link-building/<br>technical seo  https://ahrefs.com/blog/technical-seo/]]></description>
             <pubDate>Tue, 29 Aug 2023 06:28:11 GMT</pubDate>
@@ -90,7 +90,7 @@
         
         <item>
             <title><![CDATA[推荐一款开源免费的剪藏神器，https://github.com/yuque/yuque-chrome-extension，它不仅仅是一个信息的收集工具，还支持在信息收集过程中对内容进行编辑、优化...]]></title>
-            <description><![CDATA[推荐一款开源免费的剪藏神器，https://github.com/yuque/yuque-chrome-extension，它不仅仅是一个信息的收集工具，还支持在信息收集过程中对内容进行编辑、优化、翻译等操作，剪藏的数据在落库以后，还可以进行后期整理，例如支持全文检索、标签管理、内容聚合生成文章，甚至还有考虑对聚合的内容进行智能问答，这个用处就十分广泛了，有点类似 chat with docs。<br><br>尝试了一段时间，页面元素多选的体验做的很棒，据说后期可以将微信读书的笔记也导入进来，比较期待；另外，这个工具还自带了划词翻译功能，感觉又可以少装一个翻译插件了😄<br><br>插件的完成度比较高，正在学习如何制作 Chrome 插件的同学，可以扒一扒源码，参考下，这个项目是开源的。你也可以直接向仓库提交 PR，帮助它完善和改进。更详细的介绍，可以看这篇文档：https://www.yuque.com/yuque/yuque-browser-extension/welcome<br><video src="https://videocdn.jellow.site/FhtMnsO4XSeO3sFkQqReQzwH42zW.mp4?sign=9871f0d8caae2758b0f26abb3bb0c81d&amp;t=64eff302" controls=""></video>]]></description>
+            <description><![CDATA[推荐一款开源免费的剪藏神器，https://github.com/yuque/yuque-chrome-extension，它不仅仅是一个信息的收集工具，还支持在信息收集过程中对内容进行编辑、优化、翻译等操作，剪藏的数据在落库以后，还可以进行后期整理，例如支持全文检索、标签管理、内容聚合生成文章，甚至还有考虑对聚合的内容进行智能问答，这个用处就十分广泛了，有点类似 chat with docs。<br><br>尝试了一段时间，页面元素多选的体验做的很棒，据说后期可以将微信读书的笔记也导入进来，比较期待；另外，这个工具还自带了划词翻译功能，感觉又可以少装一个翻译插件了😄<br><br>插件的完成度比较高，正在学习如何制作 Chrome 插件的同学，可以扒一扒源码，参考下，这个项目是开源的。你也可以直接向仓库提交 PR，帮助它完善和改进。更详细的介绍，可以看这篇文档：https://www.yuque.com/yuque/yuque-browser-extension/welcome<br><video src="https://videocdn.jellow.site/FhtMnsO4XSeO3sFkQqReQzwH42zW.mp4?sign=742156e95d00a9341d3de802f79e34b4&amp;t=64f047d6" controls=""></video>]]></description>
             <pubDate>Mon, 28 Aug 2023 07:41:51 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/64ec4fbf0c915376a2797880</guid>
             <link>https://m.okjike.com/originalPosts/64ec4fbf0c915376a2797880</link>
@@ -153,6 +153,22 @@
         </item>
         
         <item>
+            <title><![CDATA[一段20年前的代码，作者pony （马化腾）, 代码提交的时间是99年大年初六 星期日]]></title>
+            <description><![CDATA[一段20年前的代码，作者pony （马化腾）,<br>代码提交的时间是99年大年初六 星期日<br><img src="https://cdnv2.ruguoapp.com/FoV7EIzsYdNyj7PW9ArdlaKu9xCgv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sun, 13 Aug 2023 23:32:10 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64d967fa62e51d2dc7cc0205</guid>
+            <link>https://m.okjike.com/originalPosts/64d967fa62e51d2dc7cc0205</link>
+            
+            
+            
+            <author><![CDATA[Exquisite]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[哥飞上网🏄，又发现了好玩的。 https://whopaystechnicalwriters.com/ 这个叫“Who Pays Technical Writers”的网站，可以给技术写作人员提供一些付费写作的机...]]></title>
             <description><![CDATA[哥飞上网🏄，又发现了好玩的。<br>https://whopaystechnicalwriters.com/<br>这个叫“Who Pays Technical Writers”的网站，可以给技术写作人员提供一些付费写作的机会。<br><br>如果你对技术方面有所了解，比如系统管理、WordPress托管等，你可以在这个网站上找到一些写作项目。<br><br>每篇文章的报酬从几百到一千美元不等，还挺合适想找点兼职的人。<br><br>网站上还有一些与软件开发写作有关的资源，如果你对这方面感兴趣，也可以看看。<br><img src="https://cdnv2.ruguoapp.com/FiEHliPOB2f-G6zK1_fj5R4hmfP6v3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Fri, 11 Aug 2023 07:30:01 GMT</pubDate>
@@ -162,22 +178,6 @@
             
             
             <author><![CDATA[哥飞]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[找到一个学习 Chrome 优秀插件产品设计和技术细节的最佳路径，ExtPose，https://extpose.com/top-grossing，这个产品提供了 Chrome 插件的每日最热榜单和历史最...]]></title>
-            <description><![CDATA[找到一个学习 Chrome 优秀插件产品设计和技术细节的最佳路径，ExtPose，https://extpose.com/top-grossing，这个产品提供了 Chrome 插件的每日最热榜单和历史最多下载量榜单，可以在这里观测到近期都上架了哪些优秀的产品。<br><br>在插件详情页，提供了插件源码的下载入口，下载下来是一个 zip 文件，解压后即可看到源码，点开源码就能看到，不少最近新上架的热门插件，代码其实写的很一般，但是热度非常高，这也足以说明，洞察到用户需求才是关键，代码就是个实现产品的手段，只要有想法，愿意实践，使用 ChatGPT 做副驾驶就能做出受欢迎的产品 😄<br><img src="https://cdnv2.ruguoapp.com/FlNehmOoc4IKcrXKYl734MPBHWJZv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 08 Aug 2023 10:12:59 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64d2152b7d10e1210ff681f9</guid>
-            <link>https://m.okjike.com/originalPosts/64d2152b7d10e1210ff681f9</link>
-            
-            
-            
-            <author><![CDATA[Barret李靖]]></author>
             
                 
             
