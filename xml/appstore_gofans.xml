@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[最新限免 / 促销应用]]></title>
         <link>https://gofans.cn/</link>
-        <atom:link href="https://rsshub.app/appstore/gofans" rel="self" type="application/rss+xml" />
+        <atom:link href="http://rsshub.app/appstore/gofans" rel="self" type="application/rss+xml" />
         <description><![CDATA[GoFans：最新限免 / 促销应用 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -15,8 +15,66 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Fri, 01 Sep 2023 11:37:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Sep 2023 15:41:47 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[「免费」-「iOS」无损图片压缩优化 Photo Size Optimizer]]></title>
+            <description><![CDATA[<img src="https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/4a/aa/e8/4aaae8ed-0637-f4d9-851b-ded07f7fe657/mzl.cqjgpfrh.png/256x256bb.png" referrerpolicy="no-referrer">
+          <br>
+          原价：¥68.00 -&gt; 现价：¥0.00
+          <br>
+          平台：macOS
+          <br>
+          限时促销。原价120元。只为手快的您准备。
+不要错过“超级抠图”，一键抠图工具，从此告别PS的蜗牛抠图。现正半价促销。需要的快下手！
+
+Photo Size Optimizer 是一款强大的照片优化工具，它在保持原有的分辨率和质量不变的前提下，可以缩小照片到原始照片的20%-80%那么大，并且支持png, jpg, gif等图片格式.使用Photo Size Optimizer,您可以大量的节省空间并且更快的和朋友分享高清照片。
+
+只需要点击一下，您就可以方便快捷地批量调整成千上万张照片的大小。
+
+它支持输入多达70种格式的图片：
+JPG,BMP,PNG,GIF,PDF,PSD,PNT,RGB
+        ]]></description>
+            <pubDate>Fri, 01 Sep 2023 14:18:31 GMT</pubDate>
+            <guid isPermaLink="false">https://gofans.cn/app/ea47f8d9-8999-4323-9f7b-1103c51c8fc5</guid>
+            <link>https://gofans.cn/app/ea47f8d9-8999-4323-9f7b-1103c51c8fc5</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[「免费」-「iOS」视频转换器 白金版]]></title>
+            <description><![CDATA[<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a9/44/28/a9442803-fdc2-9e4e-c1ac-be9d767dcd23/app_mac_store.png/256x256bb.png" referrerpolicy="no-referrer">
+          <br>
+          原价：¥198.00 -&gt; 现价：¥0.00
+          <br>
+          平台：macOS
+          <br>
+          Video Converter Platinum是App Store中速度最快的视频转换器，具有最高的输出质量。它允许您将自制DVD转换为MP4 / MOV / WMV和更多视频，还可以转换任何4K和1080p高清和标清视频和音频格式，以完美适应iPhone，iPad，iPod，Apple TV，PSP，三星，HTC，LG，索尼手机和更多具有超高速和零视频质量损失的设备。
+
+主要特征：
+1.将DVD转换为MP4 / MOV / WMV / AVI和其他视频
+如果你想将DVD翻录成视频，你应该试试这个视频转换器。它支持将自制DVD转换为MOV / AVI / WMV / MKV / WEBM /
+        ]]></description>
+            <pubDate>Fri, 01 Sep 2023 14:18:04 GMT</pubDate>
+            <guid isPermaLink="false">https://gofans.cn/app/46d82197-b166-463a-a02c-b2688042745e</guid>
+            <link>https://gofans.cn/app/46d82197-b166-463a-a02c-b2688042745e</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[「降价」-「iOS」Mass Rename]]></title>
@@ -588,62 +646,6 @@ RGB值（独立修改照片的红、绿、蓝通道）
             <pubDate>Thu, 31 Aug 2023 09:43:40 GMT</pubDate>
             <guid isPermaLink="false">https://gofans.cn/app/4182c249-32bf-4265-9d83-1ea389e1da4b</guid>
             <link>https://gofans.cn/app/4182c249-32bf-4265-9d83-1ea389e1da4b</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[「免费」-「iOS」沙盒星球]]></title>
-            <description><![CDATA[<img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/aa/e4/fc/aae4fc1a-94e7-cf71-a158-a1f7e15ce459/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/256x256bb.jpg" referrerpolicy="no-referrer">
-          <br>
-          原价：¥68.00 -&gt; 现价：¥0.00
-          <br>
-          平台：iOS
-          <br>
-          模拟真实的太阳系。
-模拟宇宙起源，创建您想要的任何星球。
-高度自由任意建立你的专属星系。
-        ]]></description>
-            <pubDate>Thu, 31 Aug 2023 08:00:01 GMT</pubDate>
-            <guid isPermaLink="false">https://gofans.cn/app/9f188d04-5c45-4889-afab-43dc6c40ff64</guid>
-            <link>https://gofans.cn/app/9f188d04-5c45-4889-afab-43dc6c40ff64</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[「免费」-「iOS」记住圆周率 - 3.14π]]></title>
-            <description><![CDATA[<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/00/29/dc/0029dcac-aca2-eb71-5b3d-a2a8738627e2/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/256x256bb.jpg" referrerpolicy="no-referrer">
-          <br>
-          原价：¥22.00 -&gt; 现价：¥0.00
-          <br>
-          平台：iOS
-          <br>
-          圆周率，定义为圆的周长（即圆周）与直径的比值。一般以π来表示，是一个在数学及物理学普遍存在的数学常数，是精确计算圆周、圆面积、球体积等几何量的关键值。
-
-世界记录是100,000位，由日本人原口证于2006年10月3日背诵。
-
-普通话用谐音记忆的有“山巅一寺一壶酒，尔乐苦煞吾，把酒吃，酒杀尔，杀不死，乐而乐”，就是3.1415926535897932384626。 另一谐音为：“山巅一石一壶酒，二妞舞扇舞，把酒沏酒搧又搧，饱死啰”，就是3.14159265358979323846。
-
-这应用能帮助你快速学习背诵圆周率。
-
-添加网络对战模式，如果所有设备都连接在同一的区域网络上。你可以发起多达5
-        ]]></description>
-            <pubDate>Thu, 31 Aug 2023 07:59:16 GMT</pubDate>
-            <guid isPermaLink="false">https://gofans.cn/app/7a652fbf-4657-4313-a841-3c8c3467035a</guid>
-            <link>https://gofans.cn/app/7a652fbf-4657-4313-a841-3c8c3467035a</link>
             
             
             
