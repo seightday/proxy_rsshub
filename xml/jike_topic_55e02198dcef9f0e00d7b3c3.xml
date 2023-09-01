@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Fri, 01 Sep 2023 02:31:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Sep 2023 06:38:02 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -73,6 +73,22 @@
         </item>
         
         <item>
+            <title><![CDATA[这两天有篇 reddit 上的帖子挺火的，作者说通过 ahrefs 找到了2个每个月有40K搜索量但竞争度很低的关键字，之后总共花了不到2000美元做网站，2019年11月上线了网...]]></title>
+            <description><![CDATA[<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/LBrX00GQeicudhZvoGXiblZiaf3fsjeyxhONPUiaENibdc0vmOAL37uf0J5UNzfibN5JQL42B2icYYpMDKkcw0zGXibRpA/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>                    <a href="https://mp.weixin.qq.com/s/r0H48GssICrKbP8YePIuqw">利用Semrush找有一定搜索量且竞争小的关键词时容易遇到的一些陷阱</a><br>                <br>这两天有篇 reddit 上的帖子挺火的，作者说通过 ahrefs 找到了2个每个月有40K搜索量但竞争度很低的关键字，之后总共花了不到2000美元做网站，2019年11月上线了网站，到现在每个月收入1000美元，美滋滋。<br>​其实用Semrush也能找词，不过不管用什么工具找词都可能会遇到一些陷阱，今天哥飞给你讲讲。]]></description>
+            <pubDate>Wed, 30 Aug 2023 00:09:54 GMT</pubDate>
+            <guid isPermaLink="false">https://mp.weixin.qq.com/s/r0H48GssICrKbP8YePIuqw</guid>
+            <link>https://mp.weixin.qq.com/s/r0H48GssICrKbP8YePIuqw</link>
+            
+            
+            
+            <author><![CDATA[哥飞]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[如果你想学SEO，那么 ahrefs 的手册 https://ahrefs.com/seo 可以看一看。 把下面几篇按顺序看一遍，就有了基本的SEO概念了 how do search engines work https:/...]]></title>
             <description><![CDATA[如果你想学SEO，那么 ahrefs 的手册 https://ahrefs.com/seo 可以看一看。<br>把下面几篇按顺序看一遍，就有了基本的SEO概念了<br>how do search engines work  https://ahrefs.com/blog/how-do-search-engines-work/<br>seo basics  https://ahrefs.com/blog/seo-basics/<br>keyword research  https://ahrefs.com/blog/keyword-research/<br>seo content  https://ahrefs.com/blog/seo-content/<br>on page seo  https://ahrefs.com/blog/on-page-seo/<br>link building  https://ahrefs.com/blog/link-building/<br>technical seo  https://ahrefs.com/blog/technical-seo/]]></description>
             <pubDate>Tue, 29 Aug 2023 06:28:11 GMT</pubDate>
@@ -90,7 +106,7 @@
         
         <item>
             <title><![CDATA[推荐一款开源免费的剪藏神器，https://github.com/yuque/yuque-chrome-extension，它不仅仅是一个信息的收集工具，还支持在信息收集过程中对内容进行编辑、优化...]]></title>
-            <description><![CDATA[推荐一款开源免费的剪藏神器，https://github.com/yuque/yuque-chrome-extension，它不仅仅是一个信息的收集工具，还支持在信息收集过程中对内容进行编辑、优化、翻译等操作，剪藏的数据在落库以后，还可以进行后期整理，例如支持全文检索、标签管理、内容聚合生成文章，甚至还有考虑对聚合的内容进行智能问答，这个用处就十分广泛了，有点类似 chat with docs。<br><br>尝试了一段时间，页面元素多选的体验做的很棒，据说后期可以将微信读书的笔记也导入进来，比较期待；另外，这个工具还自带了划词翻译功能，感觉又可以少装一个翻译插件了😄<br><br>插件的完成度比较高，正在学习如何制作 Chrome 插件的同学，可以扒一扒源码，参考下，这个项目是开源的。你也可以直接向仓库提交 PR，帮助它完善和改进。更详细的介绍，可以看这篇文档：https://www.yuque.com/yuque/yuque-browser-extension/welcome<br><video src="https://videocdn.jellow.site/FhtMnsO4XSeO3sFkQqReQzwH42zW.mp4?sign=9b44b9136403b2edd5e949fc2ce8ae4f&amp;t=64f153b9" controls=""></video>]]></description>
+            <description><![CDATA[推荐一款开源免费的剪藏神器，https://github.com/yuque/yuque-chrome-extension，它不仅仅是一个信息的收集工具，还支持在信息收集过程中对内容进行编辑、优化、翻译等操作，剪藏的数据在落库以后，还可以进行后期整理，例如支持全文检索、标签管理、内容聚合生成文章，甚至还有考虑对聚合的内容进行智能问答，这个用处就十分广泛了，有点类似 chat with docs。<br><br>尝试了一段时间，页面元素多选的体验做的很棒，据说后期可以将微信读书的笔记也导入进来，比较期待；另外，这个工具还自带了划词翻译功能，感觉又可以少装一个翻译插件了😄<br><br>插件的完成度比较高，正在学习如何制作 Chrome 插件的同学，可以扒一扒源码，参考下，这个项目是开源的。你也可以直接向仓库提交 PR，帮助它完善和改进。更详细的介绍，可以看这篇文档：https://www.yuque.com/yuque/yuque-browser-extension/welcome<br><video src="https://videocdn.jellow.site/FhtMnsO4XSeO3sFkQqReQzwH42zW.mp4?sign=f649ab89372e1c66af48253a10680491&amp;t=64f18dd2" controls=""></video>]]></description>
             <pubDate>Mon, 28 Aug 2023 07:41:51 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/64ec4fbf0c915376a2797880</guid>
             <link>https://m.okjike.com/originalPosts/64ec4fbf0c915376a2797880</link>
@@ -162,22 +178,6 @@
             
             
             <author><![CDATA[Exquisite]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[哥飞上网🏄，又发现了好玩的。 https://whopaystechnicalwriters.com/ 这个叫“Who Pays Technical Writers”的网站，可以给技术写作人员提供一些付费写作的机...]]></title>
-            <description><![CDATA[哥飞上网🏄，又发现了好玩的。<br>https://whopaystechnicalwriters.com/<br>这个叫“Who Pays Technical Writers”的网站，可以给技术写作人员提供一些付费写作的机会。<br><br>如果你对技术方面有所了解，比如系统管理、WordPress托管等，你可以在这个网站上找到一些写作项目。<br><br>每篇文章的报酬从几百到一千美元不等，还挺合适想找点兼职的人。<br><br>网站上还有一些与软件开发写作有关的资源，如果你对这方面感兴趣，也可以看看。<br><img src="https://cdnv2.ruguoapp.com/FiEHliPOB2f-G6zK1_fj5R4hmfP6v3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 11 Aug 2023 07:30:01 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64d5e3791e74dff79262db91</guid>
-            <link>https://m.okjike.com/originalPosts/64d5e3791e74dff79262db91</link>
-            
-            
-            
-            <author><![CDATA[哥飞]]></author>
             
                 
             
