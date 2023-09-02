@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sat, 02 Sep 2023 03:09:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Sep 2023 07:11:38 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[C++代码的一大特点就是作者很可能几天以后就会看不懂自己的代码]]></title>
+            <description><![CDATA[C++代码的一大特点就是作者很可能几天以后就会看不懂自己的代码]]></description>
+            <pubDate>Fri, 01 Sep 2023 20:23:52 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64f24858ef2a3efae7f32910</guid>
+            <link>https://m.okjike.com/originalPosts/64f24858ef2a3efae7f32910</link>
+            
+            
+            
+            <author><![CDATA[阿法兔]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[公安和网信办给我来电，说我的个人博客涉黄，要求立即处理，满脸黑线…… 按照指示，看了下，是 2013 年写的博客文章里引用了一篇 2009 年的外链，这个外链以前...]]></title>
@@ -89,22 +105,6 @@
         </item>
         
         <item>
-            <title><![CDATA[iPhone 跟 Mac 之间的跨设备粘贴坏了快一个月了，这一个月每次复制粘贴都是通过 IM 给自己私信，有点忍无可忍。晚上折腾了差不多一个小时，终于找到一个可以恢复...]]></title>
-            <description><![CDATA[iPhone 跟 Mac 之间的跨设备粘贴坏了快一个月了，这一个月每次复制粘贴都是通过 IM 给自己私信，有点忍无可忍。晚上折腾了差不多一个小时，终于找到一个可以恢复的路径：<br><br>1）关闭手机和电脑的蓝牙、WiFi 和接力<br>2）手机和电脑都关机，然后都开机<br>3）打开手机和电脑的蓝牙、WiFi 和接力<br><br>这个方法的实质是重新启动了所有的连接，并重新建立了新的链接。关闭蓝牙、WiFi 和接力意味着断开了所有的现有连接，包括可能存在的错误连接；重新打开所有的连接时，设备将会重新扫描附近的设备，并建立新的稳定的连接。<br><br>印象中在出现问题之前，跨设备粘贴会 loading 很长的时间，然后慢慢地，就无法进行跨设备粘贴了，也不知道有啥专业的工具可以直接找到是哪个环节出了问题😢]]></description>
-            <pubDate>Wed, 30 Aug 2023 15:47:30 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64ef6492c70326f2ebd36783</guid>
-            <link>https://m.okjike.com/originalPosts/64ef6492c70326f2ebd36783</link>
-            
-            
-            
-            <author><![CDATA[Barret李靖]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[如果你想学SEO，那么 ahrefs 的手册 https://ahrefs.com/seo 可以看一看。 把下面几篇按顺序看一遍，就有了基本的SEO概念了 how do search engines work https:/...]]></title>
             <description><![CDATA[如果你想学SEO，那么 ahrefs 的手册 https://ahrefs.com/seo 可以看一看。<br>把下面几篇按顺序看一遍，就有了基本的SEO概念了<br>how do search engines work  https://ahrefs.com/blog/how-do-search-engines-work/<br>seo basics  https://ahrefs.com/blog/seo-basics/<br>keyword research  https://ahrefs.com/blog/keyword-research/<br>seo content  https://ahrefs.com/blog/seo-content/<br>on page seo  https://ahrefs.com/blog/on-page-seo/<br>link building  https://ahrefs.com/blog/link-building/<br>technical seo  https://ahrefs.com/blog/technical-seo/]]></description>
             <pubDate>Tue, 29 Aug 2023 06:28:11 GMT</pubDate>
@@ -122,7 +122,7 @@
         
         <item>
             <title><![CDATA[推荐一款开源免费的剪藏神器，https://github.com/yuque/yuque-chrome-extension，它不仅仅是一个信息的收集工具，还支持在信息收集过程中对内容进行编辑、优化...]]></title>
-            <description><![CDATA[推荐一款开源免费的剪藏神器，https://github.com/yuque/yuque-chrome-extension，它不仅仅是一个信息的收集工具，还支持在信息收集过程中对内容进行编辑、优化、翻译等操作，剪藏的数据在落库以后，还可以进行后期整理，例如支持全文检索、标签管理、内容聚合生成文章，甚至还有考虑对聚合的内容进行智能问答，这个用处就十分广泛了，有点类似 chat with docs。<br><br>尝试了一段时间，页面元素多选的体验做的很棒，据说后期可以将微信读书的笔记也导入进来，比较期待；另外，这个工具还自带了划词翻译功能，感觉又可以少装一个翻译插件了😄<br><br>插件的完成度比较高，正在学习如何制作 Chrome 插件的同学，可以扒一扒源码，参考下，这个项目是开源的。你也可以直接向仓库提交 PR，帮助它完善和改进。更详细的介绍，可以看这篇文档：https://www.yuque.com/yuque/yuque-browser-extension/welcome<br><video src="https://videocdn.jellow.site/FhtMnsO4XSeO3sFkQqReQzwH42zW.mp4?sign=094683bf4509d73042ca52cc6be05126&amp;t=64f2ac69" controls=""></video>]]></description>
+            <description><![CDATA[推荐一款开源免费的剪藏神器，https://github.com/yuque/yuque-chrome-extension，它不仅仅是一个信息的收集工具，还支持在信息收集过程中对内容进行编辑、优化、翻译等操作，剪藏的数据在落库以后，还可以进行后期整理，例如支持全文检索、标签管理、内容聚合生成文章，甚至还有考虑对聚合的内容进行智能问答，这个用处就十分广泛了，有点类似 chat with docs。<br><br>尝试了一段时间，页面元素多选的体验做的很棒，据说后期可以将微信读书的笔记也导入进来，比较期待；另外，这个工具还自带了划词翻译功能，感觉又可以少装一个翻译插件了😄<br><br>插件的完成度比较高，正在学习如何制作 Chrome 插件的同学，可以扒一扒源码，参考下，这个项目是开源的。你也可以直接向仓库提交 PR，帮助它完善和改进。更详细的介绍，可以看这篇文档：https://www.yuque.com/yuque/yuque-browser-extension/welcome<br><video src="https://videocdn.jellow.site/FhtMnsO4XSeO3sFkQqReQzwH42zW.mp4?sign=e1830cc609ee6fe1a61a27aeddeb75fc&amp;t=64f2e6df" controls=""></video>]]></description>
             <pubDate>Mon, 28 Aug 2023 07:41:51 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/64ec4fbf0c915376a2797880</guid>
             <link>https://m.okjike.com/originalPosts/64ec4fbf0c915376a2797880</link>
