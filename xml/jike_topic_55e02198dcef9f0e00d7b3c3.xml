@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sun, 03 Sep 2023 10:28:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Sep 2023 14:37:26 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[方正字库出了一款新字体，叫做「少林功夫体」，取材于少林碑刻《千崖万壑碑》，大气🤩，字体下载地址：https://www.foundertype.com/index.php/FontInfo/index...]]></title>
+            <description><![CDATA[方正字库出了一款新字体，叫做「少林功夫体」，取材于少林碑刻《千崖万壑碑》，大气🤩，字体下载地址：https://www.foundertype.com/index.php/FontInfo/index/id/6581<br><img src="https://cdnv2.ruguoapp.com/Fr-v8xEjjxOSZQWl9CcgGtqtzvxdv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Ftdj7b2lczk5r4w9ab57CEYnGoqMv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fq9SDrOOn25VD3nxWfvHldPsFlvlv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fg-1xfngJsUQOifPyfXio3gTnwBpv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Ft2MiGCBpNj-S7cB_SQ13N2piXtiv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FsJQDx7_grEj-QEvWXmglantBSP6v3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sun, 03 Sep 2023 02:53:03 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64f3f50f2a0c03ca13451177</guid>
+            <link>https://m.okjike.com/originalPosts/64f3f50f2a0c03ca13451177</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[最近在 Cloudflare 注册了几个域名，踩到了几个坑 1️⃣ 没有 Whois Privacy，而是 Whois redaction，但是会显示注册人的国家、省/州 2️⃣ 需要升级到 business...]]></title>
@@ -114,22 +130,6 @@
             
             
             <author><![CDATA[哥飞]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[推荐一款开源免费的剪藏神器，https://github.com/yuque/yuque-chrome-extension，它不仅仅是一个信息的收集工具，还支持在信息收集过程中对内容进行编辑、优化...]]></title>
-            <description><![CDATA[推荐一款开源免费的剪藏神器，https://github.com/yuque/yuque-chrome-extension，它不仅仅是一个信息的收集工具，还支持在信息收集过程中对内容进行编辑、优化、翻译等操作，剪藏的数据在落库以后，还可以进行后期整理，例如支持全文检索、标签管理、内容聚合生成文章，甚至还有考虑对聚合的内容进行智能问答，这个用处就十分广泛了，有点类似 chat with docs。<br><br>尝试了一段时间，页面元素多选的体验做的很棒，据说后期可以将微信读书的笔记也导入进来，比较期待；另外，这个工具还自带了划词翻译功能，感觉又可以少装一个翻译插件了😄<br><br>插件的完成度比较高，正在学习如何制作 Chrome 插件的同学，可以扒一扒源码，参考下，这个项目是开源的。你也可以直接向仓库提交 PR，帮助它完善和改进。更详细的介绍，可以看这篇文档：https://www.yuque.com/yuque/yuque-browser-extension/welcome<br><video src="https://videocdn.jellow.site/FhtMnsO4XSeO3sFkQqReQzwH42zW.mp4?sign=16d88f2767784fb90de48d800f276a96&amp;t=64f464e1" controls=""></video>]]></description>
-            <pubDate>Mon, 28 Aug 2023 07:41:51 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64ec4fbf0c915376a2797880</guid>
-            <link>https://m.okjike.com/originalPosts/64ec4fbf0c915376a2797880</link>
-            
-            
-            
-            <author><![CDATA[Barret李靖]]></author>
             
                 
             
