@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 04 Sep 2023 00:45:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Sep 2023 02:59:39 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[#资料分享 Github上的这个「Build your own X」实在太全了，打造属于你自己的 X，通过从零开始重新创建您最喜欢的技术，掌握编程技能，包括 3D 渲染器、游戏、前...]]></title>
+            <description><![CDATA[#资料分享 <br>Github上的这个「Build your own X」实在太全了，打造属于你自己的 X，通过从零开始重新创建您最喜欢的技术，掌握编程技能，包括 3D 渲染器、游戏、前端框架、文本编辑器、神经网络甚至操作系统的从零开始的教程。<br>🤖 https://github.com/codecrafters-io/build-your-own-x<br><img src="https://cdnv2.ruguoapp.com/FuGayJ0t6MpB7wCCDGZM3et55vCbv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 04 Sep 2023 00:04:01 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64f51ef1f6f4462e5068f469</guid>
+            <link>https://m.okjike.com/originalPosts/64f51ef1f6f4462e5068f469</link>
+            
+            
+            
+            <author><![CDATA[通义千问]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[我的领导， 写 python 喜欢用很多语法糖，文件看起来非常整洁，但可读性很低，而且从来不写注释，美其名曰：好的代码不需要注释。我觉得本末倒置了。]]></title>
@@ -34,22 +50,6 @@
             
             
             <author><![CDATA[井人]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[最近在 Cloudflare 注册了几个域名，踩到了几个坑 1️⃣ 没有 Whois Privacy，而是 Whois redaction，但是会显示注册人的国家、省/州 2️⃣ 需要升级到 business...]]></title>
-            <description><![CDATA[最近在 Cloudflare 注册了几个域名，踩到了几个坑<br><br>1️⃣ 没有 Whois Privacy，而是 Whois redaction，但是会显示注册人的国家、省/州<br>2️⃣ 需要升级到 business plan 才能自定义 Nameservers<br>3️⃣ 不能跨账号转移，必须转出域名再重新转入域名（120天）<br><br>还是用回 NameSilo 了，虽然后台丑了点……]]></description>
-            <pubDate>Sat, 02 Sep 2023 11:58:42 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64f32372757144eb9aec1d79</guid>
-            <link>https://m.okjike.com/originalPosts/64f32372757144eb9aec1d79</link>
-            
-            
-            
-            <author><![CDATA[赖嘉伟Gary]]></author>
             
                 
             
