@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 04 Sep 2023 02:59:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Sep 2023 07:09:01 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[Pulse 是一款利用 AI 还原低分辨率图像细节的工具，https://github.com/adamian98/pulse，严格来说，不能叫做还原，而是扩充，对于图像缺失的信息，AI 是无法做...]]></title>
+            <description><![CDATA[Pulse 是一款利用 AI 还原低分辨率图像细节的工具，https://github.com/adamian98/pulse，严格来说，不能叫做还原，而是扩充，对于图像缺失的信息，AI 是无法做到准确还原的，它的用途在于探索图像中缺失信息的可能性，然后逐一还原成清晰图像，例如，用户输入一张 16x16 分辨率的图像，利用 Pulse 可以输出一组 1024x1024 分辨率的图像<br><br>相关论文在这里：https://arxiv.org/pdf/2003.03808.pdf，背后用到的是 StyleGan 这个图像生成模型，https://github.com/NVlabs/stylegan，可以想象一下，应用场景还是蛮丰富的。<br><img src="https://cdnv2.ruguoapp.com/Fke5TKUnN_UCDffoql7tmtJxiYU4v3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 04 Sep 2023 04:03:59 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64f5572f80042815f260eaa4</guid>
+            <link>https://m.okjike.com/originalPosts/64f5572f80042815f260eaa4</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[#资料分享 Github上的这个「Build your own X」实在太全了，打造属于你自己的 X，通过从零开始重新创建您最喜欢的技术，掌握编程技能，包括 3D 渲染器、游戏、前...]]></title>
@@ -34,22 +50,6 @@
             
             
             <author><![CDATA[通义千问]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[我的领导， 写 python 喜欢用很多语法糖，文件看起来非常整洁，但可读性很低，而且从来不写注释，美其名曰：好的代码不需要注释。我觉得本末倒置了。]]></title>
-            <description><![CDATA[我的领导， 写 python 喜欢用很多语法糖，文件看起来非常整洁，但可读性很低，而且从来不写注释，美其名曰：好的代码不需要注释。我觉得本末倒置了。]]></description>
-            <pubDate>Sun, 03 Sep 2023 06:53:02 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64f42d4e2a0c03ca134a71cf</guid>
-            <link>https://m.okjike.com/originalPosts/64f42d4e2a0c03ca134a71cf</link>
-            
-            
-            
-            <author><![CDATA[井人]]></author>
             
                 
             
