@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 04 Sep 2023 19:47:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Sep 2023 21:47:36 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -34,6 +34,22 @@
             
             
             <author><![CDATA[花果山大圣]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[最近在考虑新项目要不要用 Next.js，除了有 Vercel 这样的基础设施之外，还有非常多优秀的新轮子。 我依然很喜欢 Rails，像一个老朋友，但它已经不是激进、冒险...]]></title>
+            <description><![CDATA[最近在考虑新项目要不要用 Next.js，除了有 Vercel 这样的基础设施之外，还有非常多优秀的新轮子。<br><br>我依然很喜欢 Rails，像一个老朋友，但它已经不是激进、冒险的选择了，很多时候新项目并不是从零开始的。<br><br>随着 Serverless、Edge Computing 的流行，单体应用显得更笨重和昂贵，这已经无关前后端分离。<br><br>推荐一篇 Vercel 开发者回顾 Heroku 的文章<br>https://leerob.io/blog/heroku]]></description>
+            <pubDate>Mon, 04 Sep 2023 09:24:33 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64f5a2513c00b8f53d413e44</guid>
+            <link>https://m.okjike.com/originalPosts/64f5a2513c00b8f53d413e44</link>
+            
+            
+            
+            <author><![CDATA[赖嘉伟Gary]]></author>
             
                 
             
@@ -114,22 +130,6 @@
             
             
             <author><![CDATA[Barret李靖]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[如果你想学SEO，那么 ahrefs 的手册 https://ahrefs.com/seo 可以看一看。 把下面几篇按顺序看一遍，就有了基本的SEO概念了 how do search engines work https:/...]]></title>
-            <description><![CDATA[如果你想学SEO，那么 ahrefs 的手册 https://ahrefs.com/seo 可以看一看。<br>把下面几篇按顺序看一遍，就有了基本的SEO概念了<br>how do search engines work  https://ahrefs.com/blog/how-do-search-engines-work/<br>seo basics  https://ahrefs.com/blog/seo-basics/<br>keyword research  https://ahrefs.com/blog/keyword-research/<br>seo content  https://ahrefs.com/blog/seo-content/<br>on page seo  https://ahrefs.com/blog/on-page-seo/<br>link building  https://ahrefs.com/blog/link-building/<br>technical seo  https://ahrefs.com/blog/technical-seo/]]></description>
-            <pubDate>Tue, 29 Aug 2023 06:28:11 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64ed8ffb0ec55b25f5d05bae</guid>
-            <link>https://m.okjike.com/originalPosts/64ed8ffb0ec55b25f5d05bae</link>
-            
-            
-            
-            <author><![CDATA[哥飞]]></author>
             
                 
             
