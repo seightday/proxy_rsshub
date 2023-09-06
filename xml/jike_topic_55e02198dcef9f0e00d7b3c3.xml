@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 06 Sep 2023 00:19:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Sep 2023 02:19:19 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[TokenFlow 测试了几个，真强 官方 https://diffusion-tokenflow.github.io/ 代码 https://github.com/omerbt/TokenFlow 论文 https://arxiv.org/abs/2307.10373 ...]]></title>
+            <description><![CDATA[TokenFlow 测试了几个，真强<br><br>官方<br>https://diffusion-tokenflow.github.io/<br><br>代码<br>https://github.com/omerbt/TokenFlow<br><br>论文<br>https://arxiv.org/abs/2307.10373<br><br>测试<br>https://huggingface.co/spaces/weizmannscience/tokenflow<br><img src="https://cdnv2.ruguoapp.com/Fu0ovsyQDRoKAZJWKu6uVSLQNgzkv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 05 Sep 2023 08:01:14 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64f6e04a15391e4bc7e30579</guid>
+            <link>https://m.okjike.com/originalPosts/64f6e04a15391e4bc7e30579</link>
+            
+            
+            
+            <author><![CDATA[北邻]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[如果你不知道可以做什么，那么哥飞给你需求密码： Trranslator、Generator 、Example 、Convert、Online 、Downloader、Maker、Creator 、Editor、Processor、De...]]></title>
@@ -50,22 +66,6 @@
             
             
             <author><![CDATA[花果山大圣]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Pulse 是一款利用 AI 还原低分辨率图像细节的工具，https://github.com/adamian98/pulse，严格来说，不能叫做还原，而是扩充，对于图像缺失的信息，AI 是无法做...]]></title>
-            <description><![CDATA[Pulse 是一款利用 AI 还原低分辨率图像细节的工具，https://github.com/adamian98/pulse，严格来说，不能叫做还原，而是扩充，对于图像缺失的信息，AI 是无法做到准确还原的，它的用途在于探索图像中缺失信息的可能性，然后逐一还原成清晰图像，例如，用户输入一张 16x16 分辨率的图像，利用 Pulse 可以输出一组 1024x1024 分辨率的图像<br><br>相关论文在这里：https://arxiv.org/pdf/2003.03808.pdf，背后用到的是 StyleGan 这个图像生成模型，https://github.com/NVlabs/stylegan，可以想象一下，应用场景还是蛮丰富的。<br><img src="https://cdnv2.ruguoapp.com/Fke5TKUnN_UCDffoql7tmtJxiYU4v3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 04 Sep 2023 04:03:59 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64f5572f80042815f260eaa4</guid>
-            <link>https://m.okjike.com/originalPosts/64f5572f80042815f260eaa4</link>
-            
-            
-            
-            <author><![CDATA[Barret李靖]]></author>
             
                 
             
