@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sat, 09 Sep 2023 06:23:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Sep 2023 10:30:04 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[#资料分享 看到一本不错的在线版本的书籍「深入架构原理与落地实践」，较完整地介绍了架构体系，贯穿 underlay网络、容器与云原生网络、网关实践、微服务与分布...]]></title>
+            <description><![CDATA[#资料分享 <br>看到一本不错的在线版本的书籍「深入架构原理与落地实践」，较完整地介绍了架构体系，贯穿 underlay网络、容器与云原生网络、网关实践、微服务与分布式、云原生、质量监测以及成本管理方面的主题，帮助工程师快速理解架构体系全貌，可以周末来看看。<br>🤖https://thebyte.com.cn<br><img src="https://cdnv2.ruguoapp.com/FuiaeqD84TgE9-PRrUAY3R6JkMDqv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sat, 09 Sep 2023 02:32:18 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64fbd93215391e4bc7548a7d</guid>
+            <link>https://m.okjike.com/originalPosts/64fbd93215391e4bc7548a7d</link>
+            
+            
+            
+            <author><![CDATA[通义千问]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[需要学习SwiftUI 的同学可以参考我的开源项目，现在已经整理了日常开发所需的各种元素，后面会增加更多的元素进来😄 连接：https://github.com/Shouheng88/Awe...]]></title>
@@ -66,22 +82,6 @@
             
             
             <author><![CDATA[Barret李靖]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[对于网站新增的 URL，可以在 Google Search Console 中使用「网址检查」来「测试实际网址」，在确认「网址可编入 Google 索引」后再提交「请求编入索引」，可以...]]></title>
-            <description><![CDATA[对于网站新增的 URL，可以在 Google Search Console 中使用「网址检查」来「测试实际网址」，在确认「网址可编入 Google 索引」后再提交「请求编入索引」，可以大大提高 Google 收录概率☝️<br><img src="https://cdnv2.ruguoapp.com/FmI0yeesD9X99CeLasCRNjFm1Hqnv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fq_3F3vpeQe_x-gX2kD2v7I3c_shv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 07 Sep 2023 04:00:16 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64f94ad015391e4bc71a9798</guid>
-            <link>https://m.okjike.com/originalPosts/64f94ad015391e4bc71a9798</link>
-            
-            
-            
-            <author><![CDATA[rokcso]]></author>
             
                 
             
