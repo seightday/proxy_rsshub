@@ -21,8 +21,40 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 11 Sep 2023 00:31:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Sep 2023 02:36:38 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[关于网站备案、域名备案的一点科普 大家好，我是哥飞。 今天跟大家聊点轻松的，分享关于网站备案、域名备案的一些小知识，小经验。 到目前为止，总共有过三个版...]]></title>
+            <description><![CDATA[关于网站备案、域名备案的一点科普<br><br>大家好，我是哥飞。<br><br>今天跟大家聊点轻松的，分享关于网站备案、域名备案的一些小知识，小经验。<br><br>到目前为止，总共有过三个版本的备案系统，目前正在用的是刚刚九月份上线的第三版备案系统，在之前网站备案的基础上，增加了App、小程序、快应用备案。<br><br>严格来说，网站备案，其实是域名备案，一个域名备案之后，一般只做一个网站，当然也可以做多个网站。<br><br>所以后面我们有时候说网站有时候说域名，可以认为是等价的。<br><br>第一阶段：不需要备案<br><br>在2005年之前，国内做网站是不需要备案的。<br><br>也就是说，你可以随时注册一个域名，快速做好网站，快速上线。<br><br>第二阶段：第一版备案系统<br><br>工信部备案系统第一版是2005年2月8日开始启用的。<br><br>在那之后，站长需要自己在工信部备案系统上注册账号，提交备案信息，然后由各地管局审核，最后拿到备案号。<br><br>那时候对于接入管理不严格，只要你备案时选择了一个接入商，拿到了备案号，那么你后面把域名解析到别的云服务商也没有问题，可以正常使用。<br><br>甚至有些公司自建的机房，可以不遵守备案规则，不备案也可以使用。<br><br>当然，前提是没有被巡查发现，如果发现了会要求你整改。<br><br>这一版系统，不要求域名进行实名认证，所以可以使用国外域名注册商注册的域名。<br><br>第三阶段：第二版备案系统<br><br>2010年6月19日，第一版备案系统宣布暂停接收备案申请，要进行系统升级。同年8月20日，第二版备案系统上线。<br><br>从第二版系统开始，大家备案不用直接登录到工信部备案系统提交资料了。<br><br>而是由各个云服务接入商——如阿里云、腾讯云等——做一套代备案系统与工信部备案系统接口对接。<br><br>然后用户在代备案系统里提交资料进行备案，对于已备案的网站，可以一键导入到代备案系统里。<br><br>从第二版系统开始，就严格执行接入制度了，也就是说，你的域名在阿里云备案了，后面如果要在腾讯云使用，还需要再做一次接入备案。<br><br>更直观一点说，第一版备案系统，一个域名只跟一个接入商绑定，第二版系统，一个域名可以与多个接入商绑定。<br><br>从这一版开始，要求备案的域名先进行实名认证，而只有国内的域名注册商对接了工信部备案接口，可以同步域名实名信息到备案系统，所以想要备案，就必须在国内域名注册商处注册域名了。<br><br>第四阶段：第三版备案系统<br><br>第三版备案系统正式在2023年9月1日启用。<br><br>这版系统其实是基于第二版系统进行升级扩展得到的。<br><br>相对于第二版系统，在网站备案的基础上，增加了App、小程序、快应用备案。<br><br>网站备案依然还是之前的操作，App备案的话，需要选择App内使用的SDK，还需要选择API所使用的接入商。<br><br>小程序备案直接在微信公众平台小程序后台实现，暂时还没有对大家开放，不过已经可以看到有些腾讯系的小程序已经备案了。<br><img src="https://cdnv2.ruguoapp.com/Fr3eAsV1ZFHHCFVjYvcvLOPPIhHAv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 11 Sep 2023 00:44:45 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64fe62fdc70326f2eb2121f8</guid>
+            <link>https://m.okjike.com/originalPosts/64fe62fdc70326f2eb2121f8</link>
+            
+            
+            
+            <author><![CDATA[哥飞]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[刷推看到这个图，想起《数据结构》是我大学最喜欢的课程，当时非常迷恋各种数据结构的巧妙设计，当时用 Java 几乎把课本涉及到的数据结构都实现了。这个对我后来...]]></title>
+            <description><![CDATA[刷推看到这个图，想起《数据结构》是我大学最喜欢的课程，当时非常迷恋各种数据结构的巧妙设计，当时用 Java 几乎把课本涉及到的数据结构都实现了。这个对我后来工作也有很大的帮助。<br>如果还在上学，我可能会用 Rust，Mojo，Moonbit 重新实现这些数据结构。<br><img src="https://cdnv2.ruguoapp.com/FhivXA3lyt0MecwFd8ww5Go7CqWrv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sun, 10 Sep 2023 10:44:01 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64fd9df102edc16158875319</guid>
+            <link>https://m.okjike.com/originalPosts/64fd9df102edc16158875319</link>
+            
+            
+            
+            <author><![CDATA[北邻]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[这是我目前能访问的所有模型，我把他们内置到了APP中。 免费：GPT3.5，GPT3.5-16k，Claude Instance 按量付费：GPT4，GPT4-32k，Claude2 域名网站都是国外的，付...]]></title>
@@ -89,22 +121,6 @@
         </item>
         
         <item>
-            <title><![CDATA[如果你不知道可以做什么，那么哥飞给你需求密码： Trranslator、Generator 、Example 、Convert、Online 、Downloader、Maker、Creator 、Editor、Processor、De...]]></title>
-            <description><![CDATA[如果你不知道可以做什么，那么哥飞给你需求密码：<br>Trranslator、Generator 、Example 、Convert、Online 、Downloader、Maker、Creator 、Editor、Processor、Designer、Compiler、Analyzer、Evaluator、Sender、Receiver、Interpreter、Uploader、Calculator、Sample、template、Format、Builder、Scheme、Pattern、哥飞微信 qiayue 。<br>围绕着这些关键词去挖掘需求，比自己空想需求靠谱多了。]]></description>
-            <pubDate>Tue, 05 Sep 2023 06:02:53 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64f6c48d2a0c03ca13862f7a</guid>
-            <link>https://m.okjike.com/originalPosts/64f6c48d2a0c03ca13862f7a</link>
-            
-            
-            
-            <author><![CDATA[哥飞]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[#资料分享 Github上的这个「Build your own X」实在太全了，打造属于你自己的 X，通过从零开始重新创建您最喜欢的技术，掌握编程技能，包括 3D 渲染器、游戏、前...]]></title>
             <description><![CDATA[#资料分享 <br>Github上的这个「Build your own X」实在太全了，打造属于你自己的 X，通过从零开始重新创建您最喜欢的技术，掌握编程技能，包括 3D 渲染器、游戏、前端框架、文本编辑器、神经网络甚至操作系统的从零开始的教程。<br>🤖 https://github.com/codecrafters-io/build-your-own-x<br><img src="https://cdnv2.ruguoapp.com/FuGayJ0t6MpB7wCCDGZM3et55vCbv3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Mon, 04 Sep 2023 00:04:01 GMT</pubDate>
@@ -162,22 +178,6 @@
             
             
             <author><![CDATA[Barret李靖]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[一段20年前的代码，作者pony （马化腾）, 代码提交的时间是99年大年初六 星期日]]></title>
-            <description><![CDATA[一段20年前的代码，作者pony （马化腾）,<br>代码提交的时间是99年大年初六 星期日<br><img src="https://cdnv2.ruguoapp.com/FoV7EIzsYdNyj7PW9ArdlaKu9xCgv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sun, 13 Aug 2023 23:32:10 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64d967fa62e51d2dc7cc0205</guid>
-            <link>https://m.okjike.com/originalPosts/64d967fa62e51d2dc7cc0205</link>
-            
-            
-            
-            <author><![CDATA[Exquisite]]></author>
             
                 
             
