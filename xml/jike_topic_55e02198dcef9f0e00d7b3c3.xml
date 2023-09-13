@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 13 Sep 2023 02:45:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Sep 2023 07:01:10 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[四年前写了一个自动化工具，可以将内容一键发布到 Twitter/Weibo/Zhihu/Linkedin/掘金等平台，也支持一键删除刚才发布的内容，甚至还使用 Auto.js 兼容了在安卓...]]></title>
+            <description><![CDATA[四年前写了一个自动化工具，可以将内容一键发布到 Twitter/Weibo/Zhihu/Linkedin/掘金等平台，也支持一键删除刚才发布的内容，甚至还使用 Auto.js 兼容了在安卓设备自动发布微信朋友圈。<br><br>原理比较简单，就是利用 Puppeteer/Auto.js 等自动化框架模拟人来操作，这样就可以不用担心 API 的限制问题了。需要处理的细节非常多，随着几个平台的 UI 改版，已经没维护了……<br><img src="https://cdnv2.ruguoapp.com/FhXd1Z6yTTDGkbdeoO2juqXfvDHav3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 13 Sep 2023 03:13:59 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/650128f73c00b8f53d46f15e</guid>
+            <link>https://m.okjike.com/originalPosts/650128f73c00b8f53d46f15e</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[推荐一个免费计算机编程类中文书籍索引的仓库，这个仓库是justjavac大神创建的。它包含了各种编程语言的书籍，如JavaScript、Java、Python、Swift等等；也包括了...]]></title>
@@ -122,7 +138,7 @@
         
         <item>
             <title><![CDATA[内置了一些用于快速体验应用的示例]]></title>
-            <description><![CDATA[内置了一些用于快速体验应用的示例<br><video src="https://videocdn.jellow.site/FvYJrIb_EL3IgUTvv-aA1ds4jjNZ.mp4?sign=9ce61ce61bd4b0091a24a44dbbf8c835&amp;t=6501274f" controls=""></video>]]></description>
+            <description><![CDATA[内置了一些用于快速体验应用的示例<br><video src="https://videocdn.jellow.site/FvYJrIb_EL3IgUTvv-aA1ds4jjNZ.mp4?sign=da71309acd6debfc449ea95be020b1bc&amp;t=65016511" controls=""></video>]]></description>
             <pubDate>Fri, 08 Sep 2023 05:05:24 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/64faab941589e4a51ad3309d</guid>
             <link>https://m.okjike.com/originalPosts/64faab941589e4a51ad3309d</link>
@@ -130,22 +146,6 @@
             
             
             <author><![CDATA[沈毅]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[调用境外 ChatGPT 接口，好大的胆子🐶]]></title>
-            <description><![CDATA[调用境外 ChatGPT 接口，好大的胆子🐶<br><img src="https://cdnv2.ruguoapp.com/FjGOAJ2uJyh-H85gsgbh0dE6EV_Yv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 07 Sep 2023 13:45:32 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64f9d3fc3c00b8f53da442b2</guid>
-            <link>https://m.okjike.com/originalPosts/64f9d3fc3c00b8f53da442b2</link>
-            
-            
-            
-            <author><![CDATA[Barret李靖]]></author>
             
                 
             
