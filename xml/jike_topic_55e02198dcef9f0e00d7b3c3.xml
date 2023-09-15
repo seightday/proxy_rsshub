@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Fri, 15 Sep 2023 02:33:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Sep 2023 06:33:38 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[Vercel 发布了一个新的 AI 辅助设计和编程工具，v0.dev，你只需要说出你想实现的应用或者产品功能，它就会一次性给你生成多张页面或多个模块，如果你对它生成的...]]></title>
+            <description><![CDATA[Vercel 发布了一个新的 AI 辅助设计和编程工具，v0.dev，你只需要说出你想实现的应用或者产品功能，它就会一次性给你生成多张页面或多个模块，如果你对它生成的内容不满意，你可以把鼠标放到不满意的细节部位，跟它聊天优化。<br><br>最终产出的是一个可立即部署的应用，或者可以被用来复用的代码模块，你可以对这个代码模块进行直接的复制&amp;粘贴。<br><br>我都已经开始脑补一个熟悉的画面，程序员对着电脑说着话，调教着 AI 完成产品需求的开发，就好像曾经产品经理站在程序员的背后，指着屏幕，嘴里嘟囔着，“改改这个颜色，调调那个按钮”，画面历历在目😂<br><video src="https://videocdn.jellow.site/FsdedrjAHNmDp8Eopuby8yYmAFMT.mp4?sign=2663eeb49a94e07293b2d97b997afce6&amp;t=6503ffa4" controls=""></video>]]></description>
+            <pubDate>Fri, 15 Sep 2023 01:13:04 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6503afa02c9bdd1af582cd12</guid>
+            <link>https://m.okjike.com/originalPosts/6503afa02c9bdd1af582cd12</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[分享一个利用google找词的技巧。 先是下午在moneyhunter群看到群主发了一个AI Homework Helper的产品流量图，然后下意识考虑到 1.这域名起的像国人的产品出海 2....]]></title>
@@ -66,22 +82,6 @@
             
             
             <author><![CDATA[少杰.Code2U]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[四年前写了一个自动化工具，可以将内容一键发布到 Twitter/Weibo/Zhihu/Linkedin/掘金等平台，也支持一键删除刚才发布的内容，甚至还使用 Auto.js 兼容了在安卓...]]></title>
-            <description><![CDATA[四年前写了一个自动化工具，可以将内容一键发布到 Twitter/Weibo/Zhihu/Linkedin/掘金等平台，也支持一键删除刚才发布的内容，甚至还使用 Auto.js 兼容了在安卓设备自动发布微信朋友圈。<br><br>原理比较简单，就是利用 Puppeteer/Auto.js 等自动化框架模拟人来操作，这样就可以不用担心 API 的限制问题了。需要处理的细节非常多，随着几个平台的 UI 改版，已经没维护了……<br><img src="https://cdnv2.ruguoapp.com/FhXd1Z6yTTDGkbdeoO2juqXfvDHav3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 13 Sep 2023 03:13:59 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/650128f73c00b8f53d46f15e</guid>
-            <link>https://m.okjike.com/originalPosts/650128f73c00b8f53d46f15e</link>
-            
-            
-            
-            <author><![CDATA[Barret李靖]]></author>
             
                 
             
@@ -138,7 +138,7 @@
         
         <item>
             <title><![CDATA[内置了一些用于快速体验应用的示例]]></title>
-            <description><![CDATA[内置了一些用于快速体验应用的示例<br><video src="https://videocdn.jellow.site/FvYJrIb_EL3IgUTvv-aA1ds4jjNZ.mp4?sign=784ce14bad5b57f6c56528436648008a&amp;t=6503c8ce" controls=""></video>]]></description>
+            <description><![CDATA[内置了一些用于快速体验应用的示例<br><video src="https://videocdn.jellow.site/FvYJrIb_EL3IgUTvv-aA1ds4jjNZ.mp4?sign=fddb00cc89276ba75be2f00c8a178d55&amp;t=65040106" controls=""></video>]]></description>
             <pubDate>Fri, 08 Sep 2023 05:05:24 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/64faab941589e4a51ad3309d</guid>
             <link>https://m.okjike.com/originalPosts/64faab941589e4a51ad3309d</link>
