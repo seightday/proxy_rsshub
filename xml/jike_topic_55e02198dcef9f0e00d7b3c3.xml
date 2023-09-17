@@ -21,12 +21,28 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sat, 16 Sep 2023 23:15:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Sep 2023 03:37:46 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
+            <title><![CDATA[现在你可以通过浏览器直接起一个 PHP/Node.js 环境跑后端程序了，这是 Google I/O 2023 提到的一个 WebAssembly 实践，将 WordPress 直接运行在浏览器，包括后端...]]></title>
+            <description><![CDATA[现在你可以通过浏览器直接起一个 PHP/Node.js 环境跑后端程序了，这是 Google I/O 2023 提到的一个 WebAssembly 实践，将 WordPress 直接运行在浏览器，包括后端和数据库：web.dev/wordpress-playground，效果如图一所示。<br><br>这项实践颇有意义，以前大家可能见过各种 WebOS 的网页版 Demo，例如运行在 Web 上的操作系统、 Bash 环境、单机游戏，那些其实都是通过 JavaScript 来模拟实现的，现在基于 WASM 我们有机会实现一个纯浏览器的运行环境，它可以为程序提供 POSIX 接口，例如处理文件、进程、信号等等。<br><br>这就带来了比较多的想象空间，例如大家熟悉的 Github Workspace，对于简单类型的 Node.js 应用就没必要起一个昂贵的后端容器了，前后端代码都可以在浏览器直接执行。实际上，StackBlitz 的 CodeFlow 就已经在商业化中投入使用了这样的方式。<br><br>再例如，新手学编程就不需要配置复杂的本地环境了，基于 WASM 的浏览器环境便是一个最好的 Playground，所有的依赖通过一个远程下发的 .wasm 文件就可以搞定；再例如，对于无状态的云函数，也可以在端上直接运行一个轻量级的 WASM 环境。充分利用端的计算能力，通过软件分发和服务分发的形式提升端侧体验，同时也可以一定程度降低云的成本。<br><br>以 WordPress 为例，图二演示了大致的实现原理：使用 Service Worker 拦截请求，然后将处理任务转发给 Worker 进程，Worker 中调用 WASM 提供的能力进行处理。整体看起来就像是在 Client 侧部署了一个 Server，又一个新形态的 BFF（Backend for Frontend） 层，😄<br><br>借助 WASM 暴露系统能力给 JS 还是存在一定局限性的，例如对于 TCP/UDP 流量的处理，目前就做不到，倒是可以考虑通过 Websocket 包装 TCP/UDP 流量，然后再转发到代理服务器上进行处理；再例如在 high-level 的 JavaScript 中无法处理 low-level 的 C/C++ 网络请求，JS 是异步循环，而 C/C++ 执行的请求是同步的，天然就会出问题，不过社区也有人搞了一个 Asyncify 来实现兼容，算的上一个能力补偿库。类似的问题还比较多，需要靠更丰富的应用层的发展来驱动解决。<br><br>实际上，WASM 并不单单为 Web 设计，它也可以跑在各种 IoT 设备和后端环境中，也就是说，使用 Node.js 调用一个使用 WASM 包装的 PHP 应用能力将会变成一件十分轻松的事情。按照这个思路来看，未来软件的分发就变得更加简单了，它将不再受到语言的限制。<br><br>还是很值得投入研究的，感兴趣的朋友可以进来看看。<br><img src="https://cdnv2.ruguoapp.com/FrxOz7bsCS4VMnIUIsTtuTP83B1Mv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FrplQUdV4GUjuDTchR7mkOfSRoChv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sat, 16 Sep 2023 14:28:46 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6505bb9e8425e0dd3b32e6d7</guid>
+            <link>https://m.okjike.com/originalPosts/6505bb9e8425e0dd3b32e6d7</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Vercel 发布了一个新的 AI 辅助设计和编程工具，v0.dev，你只需要说出你想实现的应用或者产品功能，它就会一次性给你生成多张页面或多个模块，如果你对它生成的...]]></title>
-            <description><![CDATA[Vercel 发布了一个新的 AI 辅助设计和编程工具，v0.dev，你只需要说出你想实现的应用或者产品功能，它就会一次性给你生成多张页面或多个模块，如果你对它生成的内容不满意，你可以把鼠标放到不满意的细节部位，跟它聊天优化。<br><br>最终产出的是一个可立即部署的应用，或者可以被用来复用的代码模块，你可以对这个代码模块进行直接的复制&amp;粘贴。<br><br>我都已经开始脑补一个熟悉的画面，程序员对着电脑说着话，调教着 AI 完成产品需求的开发，就好像曾经产品经理站在程序员的背后，指着屏幕，嘴里嘟囔着，“改改这个颜色，调调那个按钮”，画面历历在目😂<br><video src="https://videocdn.jellow.site/FsdedrjAHNmDp8Eopuby8yYmAFMT.mp4?sign=fa324f16b286bffa4981153f412b0629&amp;t=65063e29" controls=""></video>]]></description>
+            <description><![CDATA[Vercel 发布了一个新的 AI 辅助设计和编程工具，v0.dev，你只需要说出你想实现的应用或者产品功能，它就会一次性给你生成多张页面或多个模块，如果你对它生成的内容不满意，你可以把鼠标放到不满意的细节部位，跟它聊天优化。<br><br>最终产出的是一个可立即部署的应用，或者可以被用来复用的代码模块，你可以对这个代码模块进行直接的复制&amp;粘贴。<br><br>我都已经开始脑补一个熟悉的画面，程序员对着电脑说着话，调教着 AI 完成产品需求的开发，就好像曾经产品经理站在程序员的背后，指着屏幕，嘴里嘟囔着，“改改这个颜色，调调那个按钮”，画面历历在目😂<br><video src="https://videocdn.jellow.site/FsdedrjAHNmDp8Eopuby8yYmAFMT.mp4?sign=02f32aaaa2eff851134211ac50bd2dcf&amp;t=650679db" controls=""></video>]]></description>
             <pubDate>Fri, 15 Sep 2023 01:13:04 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6503afa02c9bdd1af582cd12</guid>
             <link>https://m.okjike.com/originalPosts/6503afa02c9bdd1af582cd12</link>
@@ -89,22 +105,6 @@
         </item>
         
         <item>
-            <title><![CDATA[推荐一个免费计算机编程类中文书籍索引的仓库，这个仓库是justjavac大神创建的。它包含了各种编程语言的书籍，如JavaScript、Java、Python、Swift等等；也包括了...]]></title>
-            <description><![CDATA[推荐一个免费计算机编程类中文书籍索引的仓库，这个仓库是justjavac大神创建的。它包含了各种编程语言的书籍，如JavaScript、Java、Python、Swift等等；也包括了一些与编程相关的非语言类主题，如设计模式、算法、数据库等等。如果您想学习编程或者提高自己的技能，可以从这个仓库开始查阅有价值的资料。https://github.com/justjavac/free-programming-books-zh_CN<br><img src="https://cdnv2.ruguoapp.com/FnuIemcNWsIj89r5gY6eaGVV1pvLv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FuBaLy3qsjfHACOUJgDX7ZkKDHwFv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 12 Sep 2023 09:20:33 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65002d61c70326f2eb4dc32f</guid>
-            <link>https://m.okjike.com/originalPosts/65002d61c70326f2eb4dc32f</link>
-            
-            
-            
-            <author><![CDATA[BigYe程普]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[哪里找海外 remote 的工作机会？ 感谢@夏天爱吃菠萝大西瓜 分享]]></title>
             <description><![CDATA[哪里找海外 remote 的工作机会？<br>感谢@夏天爱吃菠萝大西瓜 分享<br><img src="https://cdnv2.ruguoapp.com/FsuVXDyrHRjzYHQKuKUVJKI1LJCHv3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Mon, 11 Sep 2023 12:46:21 GMT</pubDate>
@@ -138,7 +138,7 @@
         
         <item>
             <title><![CDATA[内置了一些用于快速体验应用的示例]]></title>
-            <description><![CDATA[内置了一些用于快速体验应用的示例<br><video src="https://videocdn.jellow.site/FvYJrIb_EL3IgUTvv-aA1ds4jjNZ.mp4?sign=47cc77ef123a283cd9d999a1cb683402&amp;t=65063e29" controls=""></video>]]></description>
+            <description><![CDATA[内置了一些用于快速体验应用的示例<br><video src="https://videocdn.jellow.site/FvYJrIb_EL3IgUTvv-aA1ds4jjNZ.mp4?sign=a847cd7a29d5885cd72407f804d28711&amp;t=650679db" controls=""></video>]]></description>
             <pubDate>Fri, 08 Sep 2023 05:05:24 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/64faab941589e4a51ad3309d</guid>
             <link>https://m.okjike.com/originalPosts/64faab941589e4a51ad3309d</link>
