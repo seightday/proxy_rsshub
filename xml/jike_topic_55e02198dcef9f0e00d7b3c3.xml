@@ -21,8 +21,40 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 18 Sep 2023 11:12:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Sep 2023 15:29:10 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[助力每个有梦想的程序员出海赚钱(不想备案)。分享我近期的最佳实践： 并产出一个产品： https://i18n.studio. 说明： 我同时开发和维护几个软件，国内的和国外的...]]></title>
+            <description><![CDATA[助力每个有梦想的程序员出海赚钱(不想备案)。分享我近期的最佳实践：<br><br>并产出一个产品：<br>https://i18n.studio. <br><br>说明：<br>我同时开发和维护几个软件，国内的和国外的都有，老实说，国内的赚钱能力很差，即便人数真的不少，付费的真是百里挑一。<br>支持国外的软件开发首先要做的就是翻译，这个步骤真的非常繁琐，之前我专门做了个软件来做这件事，已经很好用，但是翻译仍旧有许多解决不了的问题，比如:<br><br>1.我需要某个词不要翻译,比如APP名称,我希望所有语言都一样<br>2.某个词别误解了，比如：“天”，可能翻译成时间的天，也可能翻译成天空的天<br>3.某个词首字母大写，比如注册翻译为 Sign Up 而不是 sign up<br>4.google翻译，翻译错了怎么办，没办法，因为那是翻译接口返回的，你只能手动去一个个改<br><br>传统的翻译根本无法满足各种各样的需求,为此我忙活了几天将这个软件单独抽离成了一个独立的Mac软件(之前嵌在其他软件里)并完善。<br><br>* 命名：【I18n Studio】<br>* 买了个不错的域名并开发出了网站：https://i18n.studio. <br>* 接入了GPT4<br>* 支持iOS/macOS/Android/JS开发的项目<br><br>引入翻译微调功能（这里是最佳实践）：<br><br>什么是翻译微调? 在写i18n文件的时候,一般会包含键值对和注释,比如下面这样<br><br>/*<br>时间:天<br>*/<br>"day":"天"<br><br>当翻译为英语的时候，我会告诉GPT4,你需要将"天"翻译为英语,同时我会把你的注释"时间:天"也告诉它，这样GPT4就知道你要翻译的是时间天，而不是天空的天。<br>例子很简单，每个键值对都有对应的注释，也就是说注释即Prompt，这就有无限可能了，你可以要求GPT4满足你的各种需求：大小写/不翻译/首字母大写/解释该词的使用场景等等。<br><br>这么做之后上述所有问题都解决了，而且翻译质量比google好非常多。<br>缺点也有，GPT4确实贵，几天开发测试下来花了我十美元，但相比找人或者google翻译或者自己手动翻译，我觉得已经非常超值了；<br>再就是翻译速度慢，批量翻译估计需要2分钟才返回所有数据。  欢迎试用并给我提出建议。<br><img src="https://cdnv2.ruguoapp.com/FuI_w6fzF9OVPa2msmBYLnqyqIa4v3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 18 Sep 2023 10:15:44 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6508235002edc1615877be22</guid>
+            <link>https://m.okjike.com/originalPosts/6508235002edc1615877be22</link>
+            
+            
+            
+            <author><![CDATA[Lessimore]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[https://github.com/AirCodeLabs/documate?gefei 这个项目可以让你把 chat doc 能力嵌入到你自己网站中。 看演示视频很牛啊，感觉可以替代网站的搜索功能了。]]></title>
+            <description><![CDATA[https://github.com/AirCodeLabs/documate?gefei<br>这个项目可以让你把 chat doc 能力嵌入到你自己网站中。<br>看演示视频很牛啊，感觉可以替代网站的搜索功能了。<br><video src="https://videocdn.jellow.site/FuUluF8C4Pz4MwGwQ9xbxYiEyEM8.mp4?sign=661d474458c8bccdc19e375ee2c6df57&amp;t=6508739c" controls=""></video>]]></description>
+            <pubDate>Mon, 18 Sep 2023 08:09:11 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/650805a702edc1615874967c</guid>
+            <link>https://m.okjike.com/originalPosts/650805a702edc1615874967c</link>
+            
+            
+            
+            <author><![CDATA[哥飞]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[今天尝试了 Meta 开源的 OCR 神器，Nougat 在 Mac m1 上跑的，很慢。效果如附图所示。 表格的效果很赞 图片不见了，我还在研究怎么回事 Nougat 代码： https://g...]]></title>
@@ -34,22 +66,6 @@
             
             
             <author><![CDATA[北邻]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Documate，https://documate.site，是一款针对站内文档问答的开源 AI 工具，通过简单的配置，就可以将能力接入到你的网站之中。有了大模型的加持，用户上来几乎...]]></title>
-            <description><![CDATA[Documate，https://documate.site，是一款针对站内文档问答的开源 AI 工具，通过简单的配置，就可以将能力接入到你的网站之中。有了大模型的加持，用户上来几乎可以不读文档，直接与 AI 对话就可以完成自己的需求，对技术类产品文档来说，价值很高。<br><br>文档智能问答的工具其实已经非常丰富了，但开源免费的却比较少见，仔细阅读了这个项目的源码（https://github.com/AirCodeLabs/documate），整体实现还是比较简单和清晰的，它由三部分构成：<br><br>1）一个将文档提交到数据库的 CLI 工具，只需要在项目中配置下  documate.json 就行了，描述哪些是文档文件，如图一<br><br>2）一个封装好的拿来即用的问答 UI 组件，直接 import 组件就可以使用，目前提供了 Vue 版本，如图二<br><br>3）一个提供问答服务、可一键完成部署的 AI Ask Server，可以在 Aircode 直接完成部署，也可以在自己的服务器上部署，如图三<br><br>问答服务有了，UI 组件有了，数据也有了，那就可以尝试着玩耍了，整个配置过程大概可以在 15min 内完成，效果如图四。<br><br>另外，推荐大家学习下这个项目中的 Server 端处理逻辑，在 backend/ask.js 中，它使用简短的几十行代码演示了：如何将输入内容向量化、如何将数据库内容载入到 MemoryDB、如何进行向量化查询，以及最后如何拼接结果提交给大模型。<br><br>你还可以再考虑使用 LLaMa 之类的开源工具私有化部署一个大模型，这样整个技术栈就全部是自己手撕的了😄<br><img src="https://cdnv2.ruguoapp.com/Fgs30_yNqwJonhtbG50baBNjfEXFv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FmOo6Exj17rN1XjtJjYcIyltb0uOv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Ftx8L_aBE0BLW-2SWUz3NQV7sx0Gv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FpVgc9j5SfYUSRzF3uNhgr0OV8eQv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sun, 17 Sep 2023 16:08:19 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6507247302edc1615861e230</guid>
-            <link>https://m.okjike.com/originalPosts/6507247302edc1615861e230</link>
-            
-            
-            
-            <author><![CDATA[Barret李靖]]></author>
             
                 
             
@@ -82,22 +98,6 @@
             
             
             <author><![CDATA[哥飞]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Vercel 发布了一个新的 AI 辅助设计和编程工具，v0.dev，你只需要说出你想实现的应用或者产品功能，它就会一次性给你生成多张页面或多个模块，如果你对它生成的...]]></title>
-            <description><![CDATA[Vercel 发布了一个新的 AI 辅助设计和编程工具，v0.dev，你只需要说出你想实现的应用或者产品功能，它就会一次性给你生成多张页面或多个模块，如果你对它生成的内容不满意，你可以把鼠标放到不满意的细节部位，跟它聊天优化。<br><br>最终产出的是一个可立即部署的应用，或者可以被用来复用的代码模块，你可以对这个代码模块进行直接的复制&amp;粘贴。<br><br>我都已经开始脑补一个熟悉的画面，程序员对着电脑说着话，调教着 AI 完成产品需求的开发，就好像曾经产品经理站在程序员的背后，指着屏幕，嘴里嘟囔着，“改改这个颜色，调调那个按钮”，画面历历在目😂<br><video src="https://videocdn.jellow.site/FsdedrjAHNmDp8Eopuby8yYmAFMT.mp4?sign=488890a45750f190001cefbada058829&amp;t=65083706" controls=""></video>]]></description>
-            <pubDate>Fri, 15 Sep 2023 01:13:04 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6503afa02c9bdd1af582cd12</guid>
-            <link>https://m.okjike.com/originalPosts/6503afa02c9bdd1af582cd12</link>
-            
-            
-            
-            <author><![CDATA[Barret李靖]]></author>
             
                 
             
@@ -138,7 +138,7 @@
         
         <item>
             <title><![CDATA[内置了一些用于快速体验应用的示例]]></title>
-            <description><![CDATA[内置了一些用于快速体验应用的示例<br><video src="https://videocdn.jellow.site/FvYJrIb_EL3IgUTvv-aA1ds4jjNZ.mp4?sign=9e2013ea73ef6978448c69fa0f3b92cb&amp;t=65083726" controls=""></video>]]></description>
+            <description><![CDATA[内置了一些用于快速体验应用的示例<br><video src="https://videocdn.jellow.site/FvYJrIb_EL3IgUTvv-aA1ds4jjNZ.mp4?sign=8198db83df997ea619eb22585adfc772&amp;t=650871e7" controls=""></video>]]></description>
             <pubDate>Fri, 08 Sep 2023 05:05:24 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/64faab941589e4a51ad3309d</guid>
             <link>https://m.okjike.com/originalPosts/64faab941589e4a51ad3309d</link>
