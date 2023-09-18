@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 18 Sep 2023 07:04:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Sep 2023 11:12:33 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[今天尝试了 Meta 开源的 OCR 神器，Nougat 在 Mac m1 上跑的，很慢。效果如附图所示。 表格的效果很赞 图片不见了，我还在研究怎么回事 Nougat 代码： https://g...]]></title>
+            <description><![CDATA[今天尝试了 Meta 开源的 OCR 神器，Nougat<br><br>在 Mac m1 上跑的，很慢。效果如附图所示。<br>表格的效果很赞<br>图片不见了，我还在研究怎么回事<br><br>Nougat 代码：<br>https://github.com/facebookresearch/nougat<br><br>查看升成 MMD 文件的代码：<br>https://github.com/Mathpix/mathpix-markdown-it<br><img src="https://cdnv2.ruguoapp.com/FphWizfRYboz8Ztipl-ktPhqxQkFv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 18 Sep 2023 03:47:43 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6507c85f1589e4a51afa20ad</guid>
+            <link>https://m.okjike.com/originalPosts/6507c85f1589e4a51afa20ad</link>
+            
+            
+            
+            <author><![CDATA[北邻]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[Documate，https://documate.site，是一款针对站内文档问答的开源 AI 工具，通过简单的配置，就可以将能力接入到你的网站之中。有了大模型的加持，用户上来几乎...]]></title>
@@ -74,7 +90,7 @@
         
         <item>
             <title><![CDATA[Vercel 发布了一个新的 AI 辅助设计和编程工具，v0.dev，你只需要说出你想实现的应用或者产品功能，它就会一次性给你生成多张页面或多个模块，如果你对它生成的...]]></title>
-            <description><![CDATA[Vercel 发布了一个新的 AI 辅助设计和编程工具，v0.dev，你只需要说出你想实现的应用或者产品功能，它就会一次性给你生成多张页面或多个模块，如果你对它生成的内容不满意，你可以把鼠标放到不满意的细节部位，跟它聊天优化。<br><br>最终产出的是一个可立即部署的应用，或者可以被用来复用的代码模块，你可以对这个代码模块进行直接的复制&amp;粘贴。<br><br>我都已经开始脑补一个熟悉的画面，程序员对着电脑说着话，调教着 AI 完成产品需求的开发，就好像曾经产品经理站在程序员的背后，指着屏幕，嘴里嘟囔着，“改改这个颜色，调调那个按钮”，画面历历在目😂<br><video src="https://videocdn.jellow.site/FsdedrjAHNmDp8Eopuby8yYmAFMT.mp4?sign=a8569ee2d9cad47699d817cd973d5772&amp;t=6507fcea" controls=""></video>]]></description>
+            <description><![CDATA[Vercel 发布了一个新的 AI 辅助设计和编程工具，v0.dev，你只需要说出你想实现的应用或者产品功能，它就会一次性给你生成多张页面或多个模块，如果你对它生成的内容不满意，你可以把鼠标放到不满意的细节部位，跟它聊天优化。<br><br>最终产出的是一个可立即部署的应用，或者可以被用来复用的代码模块，你可以对这个代码模块进行直接的复制&amp;粘贴。<br><br>我都已经开始脑补一个熟悉的画面，程序员对着电脑说着话，调教着 AI 完成产品需求的开发，就好像曾经产品经理站在程序员的背后，指着屏幕，嘴里嘟囔着，“改改这个颜色，调调那个按钮”，画面历历在目😂<br><video src="https://videocdn.jellow.site/FsdedrjAHNmDp8Eopuby8yYmAFMT.mp4?sign=488890a45750f190001cefbada058829&amp;t=65083706" controls=""></video>]]></description>
             <pubDate>Fri, 15 Sep 2023 01:13:04 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6503afa02c9bdd1af582cd12</guid>
             <link>https://m.okjike.com/originalPosts/6503afa02c9bdd1af582cd12</link>
@@ -105,22 +121,6 @@
         </item>
         
         <item>
-            <title><![CDATA[新博文《接码平台与海外手机卡》https://mp.weixin.qq.com/s/MAmfnVBoS8N2GGqzbWXoGg 如果你注册和使用过 ChatGPT，那你对这篇文章要解决的问题就会深有感触，注...]]></title>
-            <description><![CDATA[新博文《接码平台与海外手机卡》https://mp.weixin.qq.com/s/MAmfnVBoS8N2GGqzbWXoGg<br><br>如果你注册和使用过 ChatGPT，那你对这篇文章要解决的问题就会深有感触，注册时使用邮箱登录后，OpenAI 会要求你绑定一个手机号码，而这个手机号码不允许是中国大陆区的，很多人都会卡在这一步。<br><br>有两条路径来解决这个问题，1）使用接码平台，临时租一个非大陆手机号码，用来接收验证码；2）你可以直接购买一张非大陆区的手机卡。本文会告诉你，这两条路径分别该怎么走。<br><img src="https://cdnv2.ruguoapp.com/FjFCVgMO2MoPzfMykahQNrHOr4P7v3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 13 Sep 2023 15:27:22 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6501d4da1589e4a51a77108f</guid>
-            <link>https://m.okjike.com/originalPosts/6501d4da1589e4a51a77108f</link>
-            
-            
-            
-            <author><![CDATA[Barret李靖]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[关于网站备案、域名备案的一点科普 大家好，我是哥飞。 今天跟大家聊点轻松的，分享关于网站备案、域名备案的一些小知识，小经验。 到目前为止，总共有过三个版...]]></title>
             <description><![CDATA[关于网站备案、域名备案的一点科普<br><br>大家好，我是哥飞。<br><br>今天跟大家聊点轻松的，分享关于网站备案、域名备案的一些小知识，小经验。<br><br>到目前为止，总共有过三个版本的备案系统，目前正在用的是刚刚九月份上线的第三版备案系统，在之前网站备案的基础上，增加了App、小程序、快应用备案。<br><br>严格来说，网站备案，其实是域名备案，一个域名备案之后，一般只做一个网站，当然也可以做多个网站。<br><br>所以后面我们有时候说网站有时候说域名，可以认为是等价的。<br><br>第一阶段：不需要备案<br><br>在2005年之前，国内做网站是不需要备案的。<br><br>也就是说，你可以随时注册一个域名，快速做好网站，快速上线。<br><br>第二阶段：第一版备案系统<br><br>工信部备案系统第一版是2005年2月8日开始启用的。<br><br>在那之后，站长需要自己在工信部备案系统上注册账号，提交备案信息，然后由各地管局审核，最后拿到备案号。<br><br>那时候对于接入管理不严格，只要你备案时选择了一个接入商，拿到了备案号，那么你后面把域名解析到别的云服务商也没有问题，可以正常使用。<br><br>甚至有些公司自建的机房，可以不遵守备案规则，不备案也可以使用。<br><br>当然，前提是没有被巡查发现，如果发现了会要求你整改。<br><br>这一版系统，不要求域名进行实名认证，所以可以使用国外域名注册商注册的域名。<br><br>第三阶段：第二版备案系统<br><br>2010年6月19日，第一版备案系统宣布暂停接收备案申请，要进行系统升级。同年8月20日，第二版备案系统上线。<br><br>从第二版系统开始，大家备案不用直接登录到工信部备案系统提交资料了。<br><br>而是由各个云服务接入商——如阿里云、腾讯云等——做一套代备案系统与工信部备案系统接口对接。<br><br>然后用户在代备案系统里提交资料进行备案，对于已备案的网站，可以一键导入到代备案系统里。<br><br>从第二版系统开始，就严格执行接入制度了，也就是说，你的域名在阿里云备案了，后面如果要在腾讯云使用，还需要再做一次接入备案。<br><br>更直观一点说，第一版备案系统，一个域名只跟一个接入商绑定，第二版系统，一个域名可以与多个接入商绑定。<br><br>从这一版开始，要求备案的域名先进行实名认证，而只有国内的域名注册商对接了工信部备案接口，可以同步域名实名信息到备案系统，所以想要备案，就必须在国内域名注册商处注册域名了。<br><br>第四阶段：第三版备案系统<br><br>第三版备案系统正式在2023年9月1日启用。<br><br>这版系统其实是基于第二版系统进行升级扩展得到的。<br><br>相对于第二版系统，在网站备案的基础上，增加了App、小程序、快应用备案。<br><br>网站备案依然还是之前的操作，App备案的话，需要选择App内使用的SDK，还需要选择API所使用的接入商。<br><br>小程序备案直接在微信公众平台小程序后台实现，暂时还没有对大家开放，不过已经可以看到有些腾讯系的小程序已经备案了。<br><img src="https://cdnv2.ruguoapp.com/Fr3eAsV1ZFHHCFVjYvcvLOPPIhHAv3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Mon, 11 Sep 2023 00:44:45 GMT</pubDate>
@@ -138,7 +138,7 @@
         
         <item>
             <title><![CDATA[内置了一些用于快速体验应用的示例]]></title>
-            <description><![CDATA[内置了一些用于快速体验应用的示例<br><video src="https://videocdn.jellow.site/FvYJrIb_EL3IgUTvv-aA1ds4jjNZ.mp4?sign=b41aa2b6fc2ddf71ea203c23623814d5&amp;t=6507fceb" controls=""></video>]]></description>
+            <description><![CDATA[内置了一些用于快速体验应用的示例<br><video src="https://videocdn.jellow.site/FvYJrIb_EL3IgUTvv-aA1ds4jjNZ.mp4?sign=9e2013ea73ef6978448c69fa0f3b92cb&amp;t=65083726" controls=""></video>]]></description>
             <pubDate>Fri, 08 Sep 2023 05:05:24 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/64faab941589e4a51ad3309d</guid>
             <link>https://m.okjike.com/originalPosts/64faab941589e4a51ad3309d</link>
