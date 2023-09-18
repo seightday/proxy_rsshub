@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 18 Sep 2023 02:55:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Sep 2023 07:04:52 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[Documate，https://documate.site，是一款针对站内文档问答的开源 AI 工具，通过简单的配置，就可以将能力接入到你的网站之中。有了大模型的加持，用户上来几乎...]]></title>
+            <description><![CDATA[Documate，https://documate.site，是一款针对站内文档问答的开源 AI 工具，通过简单的配置，就可以将能力接入到你的网站之中。有了大模型的加持，用户上来几乎可以不读文档，直接与 AI 对话就可以完成自己的需求，对技术类产品文档来说，价值很高。<br><br>文档智能问答的工具其实已经非常丰富了，但开源免费的却比较少见，仔细阅读了这个项目的源码（https://github.com/AirCodeLabs/documate），整体实现还是比较简单和清晰的，它由三部分构成：<br><br>1）一个将文档提交到数据库的 CLI 工具，只需要在项目中配置下  documate.json 就行了，描述哪些是文档文件，如图一<br><br>2）一个封装好的拿来即用的问答 UI 组件，直接 import 组件就可以使用，目前提供了 Vue 版本，如图二<br><br>3）一个提供问答服务、可一键完成部署的 AI Ask Server，可以在 Aircode 直接完成部署，也可以在自己的服务器上部署，如图三<br><br>问答服务有了，UI 组件有了，数据也有了，那就可以尝试着玩耍了，整个配置过程大概可以在 15min 内完成，效果如图四。<br><br>另外，推荐大家学习下这个项目中的 Server 端处理逻辑，在 backend/ask.js 中，它使用简短的几十行代码演示了：如何将输入内容向量化、如何将数据库内容载入到 MemoryDB、如何进行向量化查询，以及最后如何拼接结果提交给大模型。<br><br>你还可以再考虑使用 LLaMa 之类的开源工具私有化部署一个大模型，这样整个技术栈就全部是自己手撕的了😄<br><img src="https://cdnv2.ruguoapp.com/Fgs30_yNqwJonhtbG50baBNjfEXFv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FmOo6Exj17rN1XjtJjYcIyltb0uOv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Ftx8L_aBE0BLW-2SWUz3NQV7sx0Gv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FpVgc9j5SfYUSRzF3uNhgr0OV8eQv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sun, 17 Sep 2023 16:08:19 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6507247302edc1615861e230</guid>
+            <link>https://m.okjike.com/originalPosts/6507247302edc1615861e230</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[OneModel —— 软件架构师专用绘图工具 链接：https://www.onemodel.app/ 这款绘图工具里提供很多软件架构的图标、素材、模板，帮助软件架构师绘制软件架构图。]]></title>
@@ -57,24 +73,8 @@
         </item>
         
         <item>
-            <title><![CDATA[现在你可以通过浏览器直接起一个 PHP/Node.js 环境跑后端程序了，这是 Google I/O 2023 提到的一个 WebAssembly 实践，将 WordPress 直接运行在浏览器，包括后端...]]></title>
-            <description><![CDATA[现在你可以通过浏览器直接起一个 PHP/Node.js 环境跑后端程序了，这是 Google I/O 2023 提到的一个 WebAssembly 实践，将 WordPress 直接运行在浏览器，包括后端和数据库：web.dev/wordpress-playground，效果如图一所示。<br><br>这项实践颇有意义，以前大家可能见过各种 WebOS 的网页版 Demo，例如运行在 Web 上的操作系统、 Bash 环境、单机游戏，那些其实都是通过 JavaScript 来模拟实现的，现在基于 WASM 我们有机会实现一个纯浏览器的运行环境，它可以为程序提供 POSIX 接口，例如处理文件、进程、信号等等。<br><br>这就带来了比较多的想象空间，例如大家熟悉的 Github Workspace，对于简单类型的 Node.js 应用就没必要起一个昂贵的后端容器了，前后端代码都可以在浏览器直接执行。实际上，StackBlitz 的 CodeFlow 就已经在商业化中投入使用了这样的方式。<br><br>再例如，新手学编程就不需要配置复杂的本地环境了，基于 WASM 的浏览器环境便是一个最好的 Playground，所有的依赖通过一个远程下发的 .wasm 文件就可以搞定；再例如，对于无状态的云函数，也可以在端上直接运行一个轻量级的 WASM 环境。充分利用端的计算能力，通过软件分发和服务分发的形式提升端侧体验，同时也可以一定程度降低云的成本。<br><br>以 WordPress 为例，图二演示了大致的实现原理：使用 Service Worker 拦截请求，然后将处理任务转发给 Worker 进程，Worker 中调用 WASM 提供的能力进行处理。整体看起来就像是在 Client 侧部署了一个 Server，又一个新形态的 BFF（Backend for Frontend） 层，😄<br><br>借助 WASM 暴露系统能力给 JS 还是存在一定局限性的，例如对于 TCP/UDP 流量的处理，目前就做不到，倒是可以考虑通过 Websocket 包装 TCP/UDP 流量，然后再转发到代理服务器上进行处理；再例如在 high-level 的 JavaScript 中无法处理 low-level 的 C/C++ 网络请求，JS 是异步循环，而 C/C++ 执行的请求是同步的，天然就会出问题，不过社区也有人搞了一个 Asyncify 来实现兼容，算的上一个能力补偿库。类似的问题还比较多，需要靠更丰富的应用层的发展来驱动解决。<br><br>实际上，WASM 并不单单为 Web 设计，它也可以跑在各种 IoT 设备和后端环境中，也就是说，使用 Node.js 调用一个使用 WASM 包装的 PHP 应用能力将会变成一件十分轻松的事情。按照这个思路来看，未来软件的分发就变得更加简单了，它将不再受到语言的限制。<br><br>还是很值得投入研究的，感兴趣的朋友可以进来看看。<br><img src="https://cdnv2.ruguoapp.com/FrxOz7bsCS4VMnIUIsTtuTP83B1Mv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FrplQUdV4GUjuDTchR7mkOfSRoChv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 16 Sep 2023 14:28:46 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6505bb9e8425e0dd3b32e6d7</guid>
-            <link>https://m.okjike.com/originalPosts/6505bb9e8425e0dd3b32e6d7</link>
-            
-            
-            
-            <author><![CDATA[Barret李靖]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Vercel 发布了一个新的 AI 辅助设计和编程工具，v0.dev，你只需要说出你想实现的应用或者产品功能，它就会一次性给你生成多张页面或多个模块，如果你对它生成的...]]></title>
-            <description><![CDATA[Vercel 发布了一个新的 AI 辅助设计和编程工具，v0.dev，你只需要说出你想实现的应用或者产品功能，它就会一次性给你生成多张页面或多个模块，如果你对它生成的内容不满意，你可以把鼠标放到不满意的细节部位，跟它聊天优化。<br><br>最终产出的是一个可立即部署的应用，或者可以被用来复用的代码模块，你可以对这个代码模块进行直接的复制&amp;粘贴。<br><br>我都已经开始脑补一个熟悉的画面，程序员对着电脑说着话，调教着 AI 完成产品需求的开发，就好像曾经产品经理站在程序员的背后，指着屏幕，嘴里嘟囔着，“改改这个颜色，调调那个按钮”，画面历历在目😂<br><video src="https://videocdn.jellow.site/FsdedrjAHNmDp8Eopuby8yYmAFMT.mp4?sign=01a951d25df0953be17ad9de1a8c8546&amp;t=6507c2c8" controls=""></video>]]></description>
+            <description><![CDATA[Vercel 发布了一个新的 AI 辅助设计和编程工具，v0.dev，你只需要说出你想实现的应用或者产品功能，它就会一次性给你生成多张页面或多个模块，如果你对它生成的内容不满意，你可以把鼠标放到不满意的细节部位，跟它聊天优化。<br><br>最终产出的是一个可立即部署的应用，或者可以被用来复用的代码模块，你可以对这个代码模块进行直接的复制&amp;粘贴。<br><br>我都已经开始脑补一个熟悉的画面，程序员对着电脑说着话，调教着 AI 完成产品需求的开发，就好像曾经产品经理站在程序员的背后，指着屏幕，嘴里嘟囔着，“改改这个颜色，调调那个按钮”，画面历历在目😂<br><video src="https://videocdn.jellow.site/FsdedrjAHNmDp8Eopuby8yYmAFMT.mp4?sign=a8569ee2d9cad47699d817cd973d5772&amp;t=6507fcea" controls=""></video>]]></description>
             <pubDate>Fri, 15 Sep 2023 01:13:04 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6503afa02c9bdd1af582cd12</guid>
             <link>https://m.okjike.com/originalPosts/6503afa02c9bdd1af582cd12</link>
@@ -138,7 +138,7 @@
         
         <item>
             <title><![CDATA[内置了一些用于快速体验应用的示例]]></title>
-            <description><![CDATA[内置了一些用于快速体验应用的示例<br><video src="https://videocdn.jellow.site/FvYJrIb_EL3IgUTvv-aA1ds4jjNZ.mp4?sign=78513c3572c2034d397b105bd4ef20a9&amp;t=6507c2c8" controls=""></video>]]></description>
+            <description><![CDATA[内置了一些用于快速体验应用的示例<br><video src="https://videocdn.jellow.site/FvYJrIb_EL3IgUTvv-aA1ds4jjNZ.mp4?sign=b41aa2b6fc2ddf71ea203c23623814d5&amp;t=6507fceb" controls=""></video>]]></description>
             <pubDate>Fri, 08 Sep 2023 05:05:24 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/64faab941589e4a51ad3309d</guid>
             <link>https://m.okjike.com/originalPosts/64faab941589e4a51ad3309d</link>
