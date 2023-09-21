@@ -21,8 +21,40 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 20 Sep 2023 18:41:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Sep 2023 22:42:02 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[Google 提供的 Apps Script API 极其丰富，它可以让你对 Google 的 Doc/Sheet/Form/Gmail/Calendar/Task 等等几乎所有的应用，有完全的掌控权。举几个例子： 1）...]]></title>
+            <description><![CDATA[Google 提供的 Apps Script API 极其丰富，它可以让你对 Google 的 Doc/Sheet/Form/Gmail/Calendar/Task 等等几乎所有的应用，有完全的掌控权。举几个例子：<br><br>1）利用 Google Sheets 实现一个收集报名信息的表单：https://github.com/levinunnink/html-form-to-google-sheet，以 Sheet 为数据容器，调用 Google Sheet API，将插入一条数据的能力通过 HTTP Post 接口暴露出来，就可以开始收集了<br><br>2）利用 Gmail 给刚才收集到的联系方式发送邮件：https://github.com/googleworkspace/solutions/blob/master/content-signup/src/Code.js，使用 Google Docs 写一篇文档作为模板，通过 Google Doc API 将文档数据读取出来，替换成表单里的数据，然后利用 Gmail 接口逐一给对应列表的人发送邮件<br><br>3）利用 Google Keep 将回复邮件的对象记录到待办，方便后续进一步沟通：https://github.com/googleworkspace/apps-script-samples/blob/main/advanced/tasks.gs，使用 Google Gmail API 监听邮件，一旦有回复，就更新 1）中表单的状态栏为「有回应」，并调用 Google Keep API 同时给自己新增一个沟通任务<br><br>实际上，这个几个例子串起来，就实现了一个简单的自动化营销系统了，甚至它还支持对接外部 API，https://developers.google.com/apps-script/guides/services/external?hl=zh-cn，可以调用电话外呼的能力，在 3）结束之后直接给回复了邮件的人打一个机器人营销电话，一气呵成，😂<br><img src="https://cdnv2.ruguoapp.com/FpNLEHPCsjMeuFCpp6_LsMY2qyNvv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 20 Sep 2023 10:03:27 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/650ac36f15391e4bc7a7960e</guid>
+            <link>https://m.okjike.com/originalPosts/650ac36f15391e4bc7a7960e</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Code2U，中国程序员的全球被动收入之路。 ———————————————————— 解锁「用代码，赚美金」新技能，道路虽然漫长且收入少，但我们坚信长期主义...]]></title>
+            <description><![CDATA[Code2U，中国程序员的全球被动收入之路。<br>————————————————————<br>解锁「用代码，赚美金」新技能，道路虽然漫长且收入少，但我们坚信长期主义，认同复利原理，Code2U就是服务此类人群的。<br><br>内容传送门，点击链接阅读：<br><br>》Indiehacker修炼手册.pdf<br>一、想法篇 👉🏻 https://code2u.io/blog/handbook-idea/<br>二、建设篇 👉🏻 https://code2u.io/blog/handbook-build/<br>三、发布篇 👉🏻 https://code2u.io/blog/handbook-launch/<br>四、增长篇 👉🏻 https://code2u.io/blog/handbook-grow/<br>五、变现篇 👉🏻 https://code2u.io/blog/handbook-monetize/<br><br>》2023年最值得关注的Indie hacker<br>用Code赚USD，是出海独立开发者的目标，我们整理出2023年最值得关注的独立开发者，希望给大家一些启发。<br>独立开发者名人堂 👉🏻 https://code2u.io/blog/2023/<br><br>》精选22个Indie hacker兼职副业项目<br>精选按订阅付费模式、MRR$1000以上、兼职及独立开发者的项目，希望给大家一些灵感。<br>适合独立创业的项目 👉🏻 https://code2u.io/blog/22indie-hacker/<br><img src="https://cdnv2.ruguoapp.com/FnMZyb9exd1YPVqo3jJzyRp3no2Bv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 19 Sep 2023 03:49:30 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65091a4a4101002b06ee45e0</guid>
+            <link>https://m.okjike.com/originalPosts/65091a4a4101002b06ee45e0</link>
+            
+            
+            
+            <author><![CDATA[少杰.Code2U]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[Google 搞了一个 Emoji Kitchen，挺有意思。 直接点击 https://www.google.com.hk/search?q=emoji+kitchen 进入。]]></title>
@@ -50,22 +82,6 @@
             
             
             <author><![CDATA[Lessimore]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[https://github.com/AirCodeLabs/documate?gefei 这个项目可以让你把 chat doc 能力嵌入到你自己网站中。 看演示视频很牛啊，感觉可以替代网站的搜索功能了。]]></title>
-            <description><![CDATA[https://github.com/AirCodeLabs/documate?gefei<br>这个项目可以让你把 chat doc 能力嵌入到你自己网站中。<br>看演示视频很牛啊，感觉可以替代网站的搜索功能了。<br><video src="https://videocdn.jellow.site/FuUluF8C4Pz4MwGwQ9xbxYiEyEM8.mp4?sign=e6a81005a5253638b817f8c448148c16&amp;t=650b42b8" controls=""></video>]]></description>
-            <pubDate>Mon, 18 Sep 2023 08:09:11 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/650805a702edc1615874967c</guid>
-            <link>https://m.okjike.com/originalPosts/650805a702edc1615874967c</link>
-            
-            
-            
-            <author><![CDATA[哥飞]]></author>
             
                 
             
@@ -105,22 +121,6 @@
         </item>
         
         <item>
-            <title><![CDATA[分享一个利用google找词的技巧。 先是下午在moneyhunter群看到群主发了一个AI Homework Helper的产品流量图，然后下意识考虑到 1.这域名起的像国人的产品出海 2....]]></title>
-            <description><![CDATA[分享一个利用google找词的技巧。<br>先是下午在moneyhunter群看到群主发了一个AI Homework Helper的产品流量图，然后下意识考虑到<br>1.这域名起的像国人的产品出海<br>2.肯定有其他相关的Helper产品，试试看，于是【先AI  **  Helper，然后删除**】，就出现了图片中的效果。<br>可以看到不少词，<br>有这些词就可以研究是否可以上产品去承接这这些词的流量。<br>如何去承接，大致是这样，看-similar-看地区，看流量占比，看数据，看-semrush看词-看国家-在看google trends，下拉框，rs。<br><img src="https://cdnv2.ruguoapp.com/FlndM0ZEiOfWW1pQ0lUWinLiKnhtv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 14 Sep 2023 15:30:52 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6503272c15391e4bc7fde741</guid>
-            <link>https://m.okjike.com/originalPosts/6503272c15391e4bc7fde741</link>
-            
-            
-            
-            <author><![CDATA[AUDI_GUZZ]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[关于网站备案、域名备案的一点科普 大家好，我是哥飞。 今天跟大家聊点轻松的，分享关于网站备案、域名备案的一些小知识，小经验。 到目前为止，总共有过三个版...]]></title>
             <description><![CDATA[关于网站备案、域名备案的一点科普<br><br>大家好，我是哥飞。<br><br>今天跟大家聊点轻松的，分享关于网站备案、域名备案的一些小知识，小经验。<br><br>到目前为止，总共有过三个版本的备案系统，目前正在用的是刚刚九月份上线的第三版备案系统，在之前网站备案的基础上，增加了App、小程序、快应用备案。<br><br>严格来说，网站备案，其实是域名备案，一个域名备案之后，一般只做一个网站，当然也可以做多个网站。<br><br>所以后面我们有时候说网站有时候说域名，可以认为是等价的。<br><br>第一阶段：不需要备案<br><br>在2005年之前，国内做网站是不需要备案的。<br><br>也就是说，你可以随时注册一个域名，快速做好网站，快速上线。<br><br>第二阶段：第一版备案系统<br><br>工信部备案系统第一版是2005年2月8日开始启用的。<br><br>在那之后，站长需要自己在工信部备案系统上注册账号，提交备案信息，然后由各地管局审核，最后拿到备案号。<br><br>那时候对于接入管理不严格，只要你备案时选择了一个接入商，拿到了备案号，那么你后面把域名解析到别的云服务商也没有问题，可以正常使用。<br><br>甚至有些公司自建的机房，可以不遵守备案规则，不备案也可以使用。<br><br>当然，前提是没有被巡查发现，如果发现了会要求你整改。<br><br>这一版系统，不要求域名进行实名认证，所以可以使用国外域名注册商注册的域名。<br><br>第三阶段：第二版备案系统<br><br>2010年6月19日，第一版备案系统宣布暂停接收备案申请，要进行系统升级。同年8月20日，第二版备案系统上线。<br><br>从第二版系统开始，大家备案不用直接登录到工信部备案系统提交资料了。<br><br>而是由各个云服务接入商——如阿里云、腾讯云等——做一套代备案系统与工信部备案系统接口对接。<br><br>然后用户在代备案系统里提交资料进行备案，对于已备案的网站，可以一键导入到代备案系统里。<br><br>从第二版系统开始，就严格执行接入制度了，也就是说，你的域名在阿里云备案了，后面如果要在腾讯云使用，还需要再做一次接入备案。<br><br>更直观一点说，第一版备案系统，一个域名只跟一个接入商绑定，第二版系统，一个域名可以与多个接入商绑定。<br><br>从这一版开始，要求备案的域名先进行实名认证，而只有国内的域名注册商对接了工信部备案接口，可以同步域名实名信息到备案系统，所以想要备案，就必须在国内域名注册商处注册域名了。<br><br>第四阶段：第三版备案系统<br><br>第三版备案系统正式在2023年9月1日启用。<br><br>这版系统其实是基于第二版系统进行升级扩展得到的。<br><br>相对于第二版系统，在网站备案的基础上，增加了App、小程序、快应用备案。<br><br>网站备案依然还是之前的操作，App备案的话，需要选择App内使用的SDK，还需要选择API所使用的接入商。<br><br>小程序备案直接在微信公众平台小程序后台实现，暂时还没有对大家开放，不过已经可以看到有些腾讯系的小程序已经备案了。<br><img src="https://cdnv2.ruguoapp.com/Fr3eAsV1ZFHHCFVjYvcvLOPPIhHAv3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Mon, 11 Sep 2023 00:44:45 GMT</pubDate>
@@ -138,7 +138,7 @@
         
         <item>
             <title><![CDATA[内置了一些用于快速体验应用的示例]]></title>
-            <description><![CDATA[内置了一些用于快速体验应用的示例<br><video src="https://videocdn.jellow.site/FvYJrIb_EL3IgUTvv-aA1ds4jjNZ.mp4?sign=b835e5f21bfe49cd591dcb35ee71ac1a&amp;t=650b42b8" controls=""></video>]]></description>
+            <description><![CDATA[内置了一些用于快速体验应用的示例<br><video src="https://videocdn.jellow.site/FvYJrIb_EL3IgUTvv-aA1ds4jjNZ.mp4?sign=89205e4d71ab616e2cc1a5cc2d725561&amp;t=650b7c42" controls=""></video>]]></description>
             <pubDate>Fri, 08 Sep 2023 05:05:24 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/64faab941589e4a51ad3309d</guid>
             <link>https://m.okjike.com/originalPosts/64faab941589e4a51ad3309d</link>
