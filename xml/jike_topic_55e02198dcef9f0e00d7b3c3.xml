@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 21 Sep 2023 02:42:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Sep 2023 06:45:08 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -34,6 +34,22 @@
             
             
             <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[How to Design Programs, Second Edition 官网有在线免费版本：https://htdp.org/2023-8-14/Book/index.html 有个梨说：这是一本racket语言教材，在20多所大学作...]]></title>
+            <description><![CDATA[How to Design Programs, Second Edition<br>官网有在线免费版本：https://htdp.org/2023-8-14/Book/index.html<br><br>有个梨说：这是一本racket语言教材，在20多所大学作为第一门编程语言课教授的，满满的都是如何养成良好的代码设计，测试和注释习惯的。是让孩子们从第一天开始学会这些而不是工作三年之后才开始。<br><img src="https://cdnv2.ruguoapp.com/Fq5EgdWA9rAllpf9qe5F8tdUwAmdv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 20 Sep 2023 09:31:03 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/650abbd74101002b06147b63</guid>
+            <link>https://m.okjike.com/originalPosts/650abbd74101002b06147b63</link>
+            
+            
+            
+            <author><![CDATA[哥飞]]></author>
             
                 
             
@@ -89,22 +105,6 @@
         </item>
         
         <item>
-            <title><![CDATA[今天尝试了 Meta 开源的 OCR 神器，Nougat 在 Mac m1 上跑的，很慢。效果如附图所示。 表格的效果很赞 不支持中文 图片不见了，我还在研究怎么回事 Nougat 代码...]]></title>
-            <description><![CDATA[今天尝试了 Meta 开源的 OCR 神器，Nougat<br><br>在 Mac m1 上跑的，很慢。效果如附图所示。<br>表格的效果很赞<br>不支持中文<br>图片不见了，我还在研究怎么回事<br><br>Nougat 代码：<br>https://github.com/facebookresearch/nougat<br><br>查看升成 MMD 文件的代码：<br>https://github.com/Mathpix/mathpix-markdown-it<br><img src="https://cdnv2.ruguoapp.com/FphWizfRYboz8Ztipl-ktPhqxQkFv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 18 Sep 2023 03:47:43 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6507c85f1589e4a51afa20ad</guid>
-            <link>https://m.okjike.com/originalPosts/6507c85f1589e4a51afa20ad</link>
-            
-            
-            
-            <author><![CDATA[北邻]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[OneModel —— 软件架构师专用绘图工具 链接：https://www.onemodel.app/ 这款绘图工具里提供很多软件架构的图标、素材、模板，帮助软件架构师绘制软件架构图。]]></title>
             <description><![CDATA[OneModel —— 软件架构师专用绘图工具<br><br>链接：https://www.onemodel.app/<br><br>这款绘图工具里提供很多软件架构的图标、素材、模板，帮助软件架构师绘制软件架构图。<br><img src="https://cdnv2.ruguoapp.com/Fpr4Gc41a8vBHVbeNSoA5Dfdaudwv3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Sun, 17 Sep 2023 15:52:06 GMT</pubDate>
@@ -138,7 +138,7 @@
         
         <item>
             <title><![CDATA[内置了一些用于快速体验应用的示例]]></title>
-            <description><![CDATA[内置了一些用于快速体验应用的示例<br><video src="https://videocdn.jellow.site/FvYJrIb_EL3IgUTvv-aA1ds4jjNZ.mp4?sign=f16f1fc91d518edcb4f46c4364b7852b&amp;t=650bb48a" controls=""></video>]]></description>
+            <description><![CDATA[内置了一些用于快速体验应用的示例<br><video src="https://videocdn.jellow.site/FvYJrIb_EL3IgUTvv-aA1ds4jjNZ.mp4?sign=67c245afcd4c088a4096f70db3ec4613&amp;t=650bed7c" controls=""></video>]]></description>
             <pubDate>Fri, 08 Sep 2023 05:05:24 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/64faab941589e4a51ad3309d</guid>
             <link>https://m.okjike.com/originalPosts/64faab941589e4a51ad3309d</link>
