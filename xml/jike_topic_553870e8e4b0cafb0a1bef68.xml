@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
-
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
 
 >
     <channel>
         <title><![CDATA[一觉醒来发生了什么 - 即刻圈子]]></title>
         <link>https://m.okjike.com/topics/553870e8e4b0cafb0a1bef68</link>
-        <atom:link href="https://rsshub.app/jike/topic/553870e8e4b0cafb0a1bef68" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub/jike/topic/553870e8e4b0cafb0a1bef68" rel="self" type="application/rss+xml" />
         <description><![CDATA[每天早上向你汇报当你睡觉的时候世界发生了什么，快速一览昨夜今晨要闻。 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -21,19 +20,19 @@
             <link>https://m.okjike.com/topics/553870e8e4b0cafb0a1bef68</link>
         </image>
         
-        <lastBuildDate>Thu, 21 Sep 2023 07:59:40 GMT</lastBuildDate>
-        <ttl>120</ttl>
+        <lastBuildDate>Thu, 21 Sep 2023 12:25:34 GMT</lastBuildDate>
+        <ttl>1</ttl>
         
         <item>
             <title><![CDATA[一觉醒来发生了什么 09月21日]]></title>
-            <description><![CDATA[2023年09月21日<br>🌍资讯快读<br>1、江苏宿迁遭遇强龙卷风，致5死4重伤<br>https://www.jiemian.com/article/10128114.html<br>2、2023世界制造业大会今天开幕<br>https://36kr.com/newsflashes/2439623098143360<br>3、河北雄安新区取消商品住房预售，公共服务“租售同权”<br>https://www.jiemian.com/article/10130320.html<br>4、印象笔记发售首款AI墨水屏办公本<br>https://36kr.com/newsflashes/2439895961621127<br>5、马斯克脑机公司将进行首次人体试验，已开始招募临床试验患者<br>https://www.jiemian.com/article/10125975.html<br><br>👬即刻镇小报<br>1、自介下团队做菜单翻译app：Kuli Kuli<br>https://m.okjike.com/originalPosts/650a97074101002b061074c2<br>2、Emoji Kitchen：关于emoji的自由组合！<br>https://m.okjike.com/originalPosts/6509035e05145f31e5756cec<br>3、不要因为自己的孤独感感到羞耻<br>https://m.okjike.com/originalPosts/6508640fc70326f2eb097d67<br>4、豆制品爱好者购物推荐<br>https://m.okjike.com/originalPosts/65070f8c2c9bdd1af5d01110<br><br>今日即刻镇小报内容来自 @瓦恁 @Hu胡鹤仙 @我不跑调 @徐大半 ，感谢以上即友的创作与分享。]]></description>
+            <description><![CDATA[<br>2023年09月21日<br>🌍资讯快读<br>1、江苏宿迁遭遇强龙卷风，致5死4重伤<br>https://www.jiemian.com/article/10128114.html<br>2、2023世界制造业大会今天开幕<br>https://36kr.com/newsflashes/2439623098143360<br>3、河北雄安新区取消商品住房预售，公共服务“租售同权”<br>https://www.jiemian.com/article/10130320.html<br>4、印象笔记发售首款AI墨水屏办公本<br>https://36kr.com/newsflashes/2439895961621127<br>5、马斯克脑机公司将进行首次人体试验，已开始招募临床试验患者<br>https://www.jiemian.com/article/10125975.html<br><br>👬即刻镇小报<br>1、自介下团队做菜单翻译app：Kuli Kuli<br>https://m.okjike.com/originalPosts/650a97074101002b061074c2<br>2、Emoji Kitchen：关于emoji的自由组合！<br>https://m.okjike.com/originalPosts/6509035e05145f31e5756cec<br>3、不要因为自己的孤独感感到羞耻<br>https://m.okjike.com/originalPosts/6508640fc70326f2eb097d67<br>4、豆制品爱好者购物推荐<br>https://m.okjike.com/originalPosts/65070f8c2c9bdd1af5d01110<br><br>今日即刻镇小报内容来自 @瓦恁 @Hu胡鹤仙 @我不跑调 @徐大半 ，感谢以上即友的创作与分享。]]></description>
             <pubDate>Wed, 20 Sep 2023 23:05:19 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/650b7aaf9029c9112f3a1809</guid>
             <link>https://m.okjike.com/originalPosts/650b7aaf9029c9112f3a1809</link>
             
             
             
-            <author><![CDATA[即刻资讯台]]></author>
+            
             
                 
             
@@ -42,14 +41,14 @@
         
         <item>
             <title><![CDATA[一觉醒来发生了什么 09月20日]]></title>
-            <description><![CDATA[2023年09月20日<br>🌍资讯快读<br>1、腾讯阿里参投，“智谱AI”完成B-4轮融资<br>https://www.36kr.com/newsflashes/2438836227265156<br>2、国庆假期铁路日均客流量约为春运两倍<br>https://www.jiemian.com/article/10117418.html<br>3、李家超：迎国庆全香港影院半价<br>https://www.36kr.com/newsflashes/2438294353367427<br>4、《中国好声音》制作方灿星文化起诉华纳音乐<br>https://www.jiemian.com/article/10124799.html<br>5、指认侵犯隐私，拜登之子起诉美国国税局<br>https://www.jiemian.com/article/10124653.html<br><br>👬即刻镇小报<br>1、国内外AI行业状态相关文章集合<br>https://m.okjike.com/originalPosts/650809561589e4a51a013b98<br>2、多模型思维：学学马斯克解决问题的方法<br>https://m.okjike.com/originalPosts/6508426b1589e4a51a073abf<br>3、使用AI和不用AI工作的人工作效率会差多少<br>https://m.okjike.com/originalPosts/650887e302edc1615881ae6b<br>4、读书摘录：K.K. 新作《宝贵的人生建议》<br>https://m.okjike.com/originalPosts/65092a1902edc161588df6bb<br><br>今日即刻镇小报内容来自 @rosicky311_明浩 @Diiiii @歸藏 @派派Zoe ，感谢以上即友的创作与分享。]]></description>
+            <description><![CDATA[<br>2023年09月20日<br>🌍资讯快读<br>1、腾讯阿里参投，“智谱AI”完成B-4轮融资<br>https://www.36kr.com/newsflashes/2438836227265156<br>2、国庆假期铁路日均客流量约为春运两倍<br>https://www.jiemian.com/article/10117418.html<br>3、李家超：迎国庆全香港影院半价<br>https://www.36kr.com/newsflashes/2438294353367427<br>4、《中国好声音》制作方灿星文化起诉华纳音乐<br>https://www.jiemian.com/article/10124799.html<br>5、指认侵犯隐私，拜登之子起诉美国国税局<br>https://www.jiemian.com/article/10124653.html<br><br>👬即刻镇小报<br>1、国内外AI行业状态相关文章集合<br>https://m.okjike.com/originalPosts/650809561589e4a51a013b98<br>2、多模型思维：学学马斯克解决问题的方法<br>https://m.okjike.com/originalPosts/6508426b1589e4a51a073abf<br>3、使用AI和不用AI工作的人工作效率会差多少<br>https://m.okjike.com/originalPosts/650887e302edc1615881ae6b<br>4、读书摘录：K.K. 新作《宝贵的人生建议》<br>https://m.okjike.com/originalPosts/65092a1902edc161588df6bb<br><br>今日即刻镇小报内容来自 @rosicky311_明浩 @Diiiii @歸藏 @派派Zoe ，感谢以上即友的创作与分享。]]></description>
             <pubDate>Tue, 19 Sep 2023 23:05:07 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/650a29239029c9112f39a869</guid>
             <link>https://m.okjike.com/originalPosts/650a29239029c9112f39a869</link>
             
             
             
-            <author><![CDATA[即刻资讯台]]></author>
+            
             
                 
             
@@ -58,14 +57,14 @@
         
         <item>
             <title><![CDATA[一觉醒来发生了什么 09月19日]]></title>
-            <description><![CDATA[2023年09月19日<br>🌍资讯快读<br>1、江苏出台优化调整稳就业政策措施<br>https://www.jiemian.com/article/10113669.html<br>2、贵阳中院一审宣判“人贩余华英拐卖11名儿童”案：判处死刑<br>https://www.jiemian.com/article/10113685.html<br>3、香港交易所与广西自治区政府签订合作备忘录<br>https://36kr.com/newsflashes/2437290740617859<br>4、武汉往返台北直航航线今日复航<br>https://36kr.com/newsflashes/2437057871516289<br>5、鲍勃·范戴克卸任腾讯大股东Prosus首席执行官<br>https://www.jiemian.com/article/10114762.html<br><br>👬即刻镇小报<br>1、杭州精酿酒吧不完全指南（总览篇）<br>https://m.okjike.com/originalPosts/650811964101002b06d7d275<br>2、我在 Youtube 上爱上了刷数学题<br>https://m.okjike.com/originalPosts/6507fa498425e0dd3b632c2a<br>3、九月初的南京在下金色的雨<br>https://m.okjike.com/originalPosts/6507a5a14101002b06cbe4ef<br>4、即友们分享的年度回购之选<br>https://m.okjike.com/originalPosts/64f9748e05145f31e516c030<br><br>今日即刻镇小报内容来自 @古畑Kenshiro @傅丰元 @Heraclio @生活委员 ，感谢以上即友的创作与分享。]]></description>
+            <description><![CDATA[<br>2023年09月19日<br>🌍资讯快读<br>1、江苏出台优化调整稳就业政策措施<br>https://www.jiemian.com/article/10113669.html<br>2、贵阳中院一审宣判“人贩余华英拐卖11名儿童”案：判处死刑<br>https://www.jiemian.com/article/10113685.html<br>3、香港交易所与广西自治区政府签订合作备忘录<br>https://36kr.com/newsflashes/2437290740617859<br>4、武汉往返台北直航航线今日复航<br>https://36kr.com/newsflashes/2437057871516289<br>5、鲍勃·范戴克卸任腾讯大股东Prosus首席执行官<br>https://www.jiemian.com/article/10114762.html<br><br>👬即刻镇小报<br>1、杭州精酿酒吧不完全指南（总览篇）<br>https://m.okjike.com/originalPosts/650811964101002b06d7d275<br>2、我在 Youtube 上爱上了刷数学题<br>https://m.okjike.com/originalPosts/6507fa498425e0dd3b632c2a<br>3、九月初的南京在下金色的雨<br>https://m.okjike.com/originalPosts/6507a5a14101002b06cbe4ef<br>4、即友们分享的年度回购之选<br>https://m.okjike.com/originalPosts/64f9748e05145f31e516c030<br><br>今日即刻镇小报内容来自 @古畑Kenshiro @傅丰元 @Heraclio @生活委员 ，感谢以上即友的创作与分享。]]></description>
             <pubDate>Mon, 18 Sep 2023 23:05:55 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6508d7d39029c9112f393205</guid>
             <link>https://m.okjike.com/originalPosts/6508d7d39029c9112f393205</link>
             
             
             
-            <author><![CDATA[即刻资讯台]]></author>
+            
             
                 
             
@@ -74,14 +73,14 @@
         
         <item>
             <title><![CDATA[一觉醒来发生了什么 09月18日]]></title>
-            <description><![CDATA[2023年09月18日<br>🌍资讯快读<br>1、河南将迎大到暴雨，局部大暴雨<br>https://www.jiemian.com/article/10111912.html<br>2、特斯拉全球产量突破500万辆<br>https://www.jiemian.com/article/10110966.html<br>3、十一出游热，国内热门酒店预订量暴涨超500%<br>https://36kr.com/newsflashes/2435448053584264<br>4、“77国集团和中国”峰会通过《哈瓦那宣言》<br>https://www.jiemian.com/article/10110844.html<br>5、美国加州起诉5家石油巨头，指控其隐瞒气候变化风险<br>https://36kr.com/newsflashes/2435472643789445<br><br>👬即刻镇小报<br>1、USB-C线缆信息总结<br>https://m.okjike.com/originalPosts/6505b4e91589e4a51aced7de<br>2、《马斯克传》读后感分享<br>https://m.okjike.com/originalPosts/650576a72a0c03ca13d6f5e7<br>3、华为mate60 pro芯片知识科普<br>https://m.okjike.com/originalPosts/65052199c70326f2ebbf1182<br>4、树是另一种意义上的海<br>https://m.okjike.com/originalPosts/64844ac4d68c7c80087d4b04<br><br>今日即刻镇小报内容来自 @Yachen @大咕咕咕咕驴 @呜哈 @JocelynlWind ，感谢以上即友的创作与分享。]]></description>
+            <description><![CDATA[<br>2023年09月18日<br>🌍资讯快读<br>1、河南将迎大到暴雨，局部大暴雨<br>https://www.jiemian.com/article/10111912.html<br>2、特斯拉全球产量突破500万辆<br>https://www.jiemian.com/article/10110966.html<br>3、十一出游热，国内热门酒店预订量暴涨超500%<br>https://36kr.com/newsflashes/2435448053584264<br>4、“77国集团和中国”峰会通过《哈瓦那宣言》<br>https://www.jiemian.com/article/10110844.html<br>5、美国加州起诉5家石油巨头，指控其隐瞒气候变化风险<br>https://36kr.com/newsflashes/2435472643789445<br><br>👬即刻镇小报<br>1、USB-C线缆信息总结<br>https://m.okjike.com/originalPosts/6505b4e91589e4a51aced7de<br>2、《马斯克传》读后感分享<br>https://m.okjike.com/originalPosts/650576a72a0c03ca13d6f5e7<br>3、华为mate60 pro芯片知识科普<br>https://m.okjike.com/originalPosts/65052199c70326f2ebbf1182<br>4、树是另一种意义上的海<br>https://m.okjike.com/originalPosts/64844ac4d68c7c80087d4b04<br><br>今日即刻镇小报内容来自 @Yachen @大咕咕咕咕驴 @呜哈 @JocelynlWind ，感谢以上即友的创作与分享。]]></description>
             <pubDate>Sun, 17 Sep 2023 23:05:44 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/650786489029c9112f38bf8c</guid>
             <link>https://m.okjike.com/originalPosts/650786489029c9112f38bf8c</link>
             
             
             
-            <author><![CDATA[即刻资讯台]]></author>
+            
             
                 
             
@@ -90,14 +89,14 @@
         
         <item>
             <title><![CDATA[一觉醒来发生了什么 09月17日]]></title>
-            <description><![CDATA[2023年09月17日<br>🌍资讯快读<br>1、恒大财富多人被采取刑事强制措施<br>https://www.jiemian.com/article/10110638.html<br>2、9月15日火车票单日售票达2287.7万张<br>https://36kr.com/newsflashes/2434360254452105<br>3、iPhone 15系列1分钟售罄，粉色最受欢迎<br>https://36kr.com/newsflashes/2433924216509063<br>4、郁美净连夜开直播，老国货是否迎来新机遇<br>https://www.jiemian.com/article/10108194.html<br>5、华为推出首款黄金智能手表，售价约2.3万人民币<br>https://36kr.com/newsflashes/2433919286907528<br><br>👬即刻镇小报<br>1、一份了解“大脑”的干货书单<br>https://m.okjike.com/originalPosts/6502b2068425e0dd3bec7a8c<br>2、网文行业的DAU现状<br>https://m.okjike.com/originalPosts/6504154315391e4bc7122b8d<br>3、适合周末看的电影推荐<br>https://m.okjike.com/originalPosts/6503a6eac70326f2eb9c7114<br>4、我所理解的数字游民<br>https://m.okjike.com/originalPosts/64e43c3eebdb17148cb0cb62<br><br>今日即刻镇小报内容来自 @纵横四海official @TomXu @JocelynlWind @范米索Misso ，感谢以上即友的创作与分享。]]></description>
+            <description><![CDATA[<br>2023年09月17日<br>🌍资讯快读<br>1、恒大财富多人被采取刑事强制措施<br>https://www.jiemian.com/article/10110638.html<br>2、9月15日火车票单日售票达2287.7万张<br>https://36kr.com/newsflashes/2434360254452105<br>3、iPhone 15系列1分钟售罄，粉色最受欢迎<br>https://36kr.com/newsflashes/2433924216509063<br>4、郁美净连夜开直播，老国货是否迎来新机遇<br>https://www.jiemian.com/article/10108194.html<br>5、华为推出首款黄金智能手表，售价约2.3万人民币<br>https://36kr.com/newsflashes/2433919286907528<br><br>👬即刻镇小报<br>1、一份了解“大脑”的干货书单<br>https://m.okjike.com/originalPosts/6502b2068425e0dd3bec7a8c<br>2、网文行业的DAU现状<br>https://m.okjike.com/originalPosts/6504154315391e4bc7122b8d<br>3、适合周末看的电影推荐<br>https://m.okjike.com/originalPosts/6503a6eac70326f2eb9c7114<br>4、我所理解的数字游民<br>https://m.okjike.com/originalPosts/64e43c3eebdb17148cb0cb62<br><br>今日即刻镇小报内容来自 @纵横四海official @TomXu @JocelynlWind @范米索Misso ，感谢以上即友的创作与分享。]]></description>
             <pubDate>Sat, 16 Sep 2023 23:05:31 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/650634bb9029c9112f384ca0</guid>
             <link>https://m.okjike.com/originalPosts/650634bb9029c9112f384ca0</link>
             
             
             
-            <author><![CDATA[即刻资讯台]]></author>
+            
             
                 
             
@@ -106,14 +105,14 @@
         
         <item>
             <title><![CDATA[一觉醒来发生了什么 09月16日]]></title>
-            <description><![CDATA[2023年09月16日<br>🌍资讯快读<br>1、合肥全面取消限购限售<br>https://36kr.com/newsflashes/2433020969489031<br>2、中国工商银行原纪委书记刘立宪接受审查调查<br>https://www.jiemian.com/article/10106998.html<br>3、1-8月全国一般公共预算收入151796亿元<br>https://www.jiemian.com/article/10106198.html<br>4、猴痘9月20日起纳入乙类传染病管理<br>https://www.jiemian.com/article/10103925.html<br>5、利比亚洪水重灾区德尔纳遇难人数已超1万人<br>https://www.jiemian.com/article/10102287.html<br><br>👬即刻镇小报<br>1、分享一个利用Google找词的技巧<br>https://m.okjike.com/originalPosts/6503272c15391e4bc7fde741<br>2、如何给合同找BUG的经验和建议<br>https://m.okjike.com/originalPosts/6501233c15391e4bc7cb99e1<br>3、如何找到有趣好玩的播客<br>https://m.okjike.com/originalPosts/64f44e62a751974a898a27e2<br>4、苏州一日游的建议<br>https://m.okjike.com/originalPosts/6503f4e14101002b067c5932<br><br>今日即刻镇小报内容来自 @我是雄少 @AUDI_GUZZ @东门南路1021号 @鸠摩小虾米 ，感谢以上即友的创作与分享。]]></description>
+            <description><![CDATA[<br>2023年09月16日<br>🌍资讯快读<br>1、合肥全面取消限购限售<br>https://36kr.com/newsflashes/2433020969489031<br>2、中国工商银行原纪委书记刘立宪接受审查调查<br>https://www.jiemian.com/article/10106998.html<br>3、1-8月全国一般公共预算收入151796亿元<br>https://www.jiemian.com/article/10106198.html<br>4、猴痘9月20日起纳入乙类传染病管理<br>https://www.jiemian.com/article/10103925.html<br>5、利比亚洪水重灾区德尔纳遇难人数已超1万人<br>https://www.jiemian.com/article/10102287.html<br><br>👬即刻镇小报<br>1、分享一个利用Google找词的技巧<br>https://m.okjike.com/originalPosts/6503272c15391e4bc7fde741<br>2、如何给合同找BUG的经验和建议<br>https://m.okjike.com/originalPosts/6501233c15391e4bc7cb99e1<br>3、如何找到有趣好玩的播客<br>https://m.okjike.com/originalPosts/64f44e62a751974a898a27e2<br>4、苏州一日游的建议<br>https://m.okjike.com/originalPosts/6503f4e14101002b067c5932<br><br>今日即刻镇小报内容来自 @我是雄少 @AUDI_GUZZ @东门南路1021号 @鸠摩小虾米 ，感谢以上即友的创作与分享。]]></description>
             <pubDate>Fri, 15 Sep 2023 23:05:21 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6504e3319029c9112f37dbd5</guid>
             <link>https://m.okjike.com/originalPosts/6504e3319029c9112f37dbd5</link>
             
             
             
-            <author><![CDATA[即刻资讯台]]></author>
+            
             
                 
             
@@ -122,14 +121,14 @@
         
         <item>
             <title><![CDATA[一觉醒来发生了什么 09月15日]]></title>
-            <description><![CDATA[2023年09月15日<br>🌍资讯快读<br>1、鄂尔多斯重大高压气体泄漏事故致10死3伤<br>https://www.jiemian.com/article/10098449.html<br>2、外交部回应欧盟针对中国出口电动汽车将启动反补贴调查<br>https://www.jiemian.com/article/10098562.html<br>3、国家广播电视总局等三部门：进一步加强车载音视频管理<br>https://36kr.com/newsflashes/2431057999466884<br>4、茅台版酒心巧克力官宣：2颗35元<br>https://36kr.com/newsflashes/2431447106114182<br>5、马斯克、扎克伯格、黄仁勋等出席美参议院AI政策论坛<br>https://www.jiemian.com/article/10095958.html<br><br>👬即刻镇小报<br>1、凯文·凯利的 40 条人生建议<br>https://m.okjike.com/originalPosts/6502c77802edc16158ff520a<br>2、Stable Audio：用prompt的方式写歌<br>https://m.okjike.com/originalPosts/6502c5c28425e0dd3beeb581<br>3、本科同学聚会的一些感悟<br>https://m.okjike.com/originalPosts/64fee44202edc16158a476b7<br>4、日照金山，见者好运<br>https://m.okjike.com/originalPosts/63d1d3361e37d9e8d344cf22]]></description>
+            <description><![CDATA[<br>2023年09月15日<br>🌍资讯快读<br>1、鄂尔多斯重大高压气体泄漏事故致10死3伤<br>https://www.jiemian.com/article/10098449.html<br>2、外交部回应欧盟针对中国出口电动汽车将启动反补贴调查<br>https://www.jiemian.com/article/10098562.html<br>3、国家广播电视总局等三部门：进一步加强车载音视频管理<br>https://36kr.com/newsflashes/2431057999466884<br>4、茅台版酒心巧克力官宣：2颗35元<br>https://36kr.com/newsflashes/2431447106114182<br>5、马斯克、扎克伯格、黄仁勋等出席美参议院AI政策论坛<br>https://www.jiemian.com/article/10095958.html<br><br>👬即刻镇小报<br>1、凯文·凯利的 40 条人生建议<br>https://m.okjike.com/originalPosts/6502c77802edc16158ff520a<br>2、Stable Audio：用prompt的方式写歌<br>https://m.okjike.com/originalPosts/6502c5c28425e0dd3beeb581<br>3、本科同学聚会的一些感悟<br>https://m.okjike.com/originalPosts/64fee44202edc16158a476b7<br>4、日照金山，见者好运<br>https://m.okjike.com/originalPosts/63d1d3361e37d9e8d344cf22]]></description>
             <pubDate>Thu, 14 Sep 2023 23:05:09 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/650391a59029c9112f3769a1</guid>
             <link>https://m.okjike.com/originalPosts/650391a59029c9112f3769a1</link>
             
             
             
-            <author><![CDATA[即刻资讯台]]></author>
+            
             
                 
             
@@ -138,14 +137,14 @@
         
         <item>
             <title><![CDATA[一觉醒来发生了什么 09月14日]]></title>
-            <description><![CDATA[2023年09月14日<br>🌍资讯快读<br>1、第八届“一带一路”高峰论坛在香港开幕<br>https://36kr.com/newsflashes/2429985966870912<br>2、苹果iPhone 15系列国行价格出炉，5999元起售<br>https://www.jiemian.com/article/10087801.html<br>3、华为和小米达成全球专利交叉许可协议<br>https://www.pingwest.com/w/288230<br> 4、泰国决定对中国游客实施为期5个月的免签政策<br>https://www.jiemian.com/article/10090425.html<br>5、美国司法部针对谷歌的反垄断案开庭<br>https://www.jiemian.com/article/10087624.html<br><br>👬即刻镇小报<br>1、Walter Isaacson讲述他眼中的马斯克<br>https://m.okjike.com/originalPosts/64ff1f7d15391e4bc79f35c2<br>2、Canva 推出了 ChatGPT Plugins<br>https://m.okjike.com/originalPosts/64ffad392a0c03ca134e97a4<br>3、模仿日剧拍了一期失业VLOG<br>https://m.okjike.com/originalPosts/6500772105145f31e5b641a6<br>4、推荐一本关于如何写作的书<br>https://m.okjike.com/originalPosts/64ff1a3215391e4bc79ea2a3<br><br>今日即刻镇小报内容来自 @于欣烈 @Szhans @竹棘 @盐汽水 ，感谢以上即友的创作与分享。]]></description>
+            <description><![CDATA[<br>2023年09月14日<br>🌍资讯快读<br>1、第八届“一带一路”高峰论坛在香港开幕<br>https://36kr.com/newsflashes/2429985966870912<br>2、苹果iPhone 15系列国行价格出炉，5999元起售<br>https://www.jiemian.com/article/10087801.html<br>3、华为和小米达成全球专利交叉许可协议<br>https://www.pingwest.com/w/288230<br> 4、泰国决定对中国游客实施为期5个月的免签政策<br>https://www.jiemian.com/article/10090425.html<br>5、美国司法部针对谷歌的反垄断案开庭<br>https://www.jiemian.com/article/10087624.html<br><br>👬即刻镇小报<br>1、Walter Isaacson讲述他眼中的马斯克<br>https://m.okjike.com/originalPosts/64ff1f7d15391e4bc79f35c2<br>2、Canva 推出了 ChatGPT Plugins<br>https://m.okjike.com/originalPosts/64ffad392a0c03ca134e97a4<br>3、模仿日剧拍了一期失业VLOG<br>https://m.okjike.com/originalPosts/6500772105145f31e5b641a6<br>4、推荐一本关于如何写作的书<br>https://m.okjike.com/originalPosts/64ff1a3215391e4bc79ea2a3<br><br>今日即刻镇小报内容来自 @于欣烈 @Szhans @竹棘 @盐汽水 ，感谢以上即友的创作与分享。]]></description>
             <pubDate>Wed, 13 Sep 2023 23:05:58 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/650240569029c9112f36f7ab</guid>
             <link>https://m.okjike.com/originalPosts/650240569029c9112f36f7ab</link>
             
             
             
-            <author><![CDATA[即刻资讯台]]></author>
+            
             
                 
             
@@ -154,14 +153,14 @@
         
         <item>
             <title><![CDATA[一觉醒来发生了什么 09月13日]]></title>
-            <description><![CDATA[2023年09月13日<br>🌍资讯快读<br>1、中国人寿原董事长王滨受贿3.25亿余元，一审被判死缓<br>https://www.jiemian.com/article/10085118.html<br>2、文旅部公布首批中国赴俄罗斯免签旅游业务旅行社名单<br>https://www.jiemian.com/article/10085180.html<br>3、“2023中国民营企业500强”榜单发布<br>https://36kr.com/newsflashes/2428357062615811<br>4、荷兰消费者协会起诉谷歌在数据收集方面侵犯隐私<br>https://36kr.com/newsflashes/2428796434768903<br>5、TikTok在美国正式推出电商业务“TikTok Shop”<br>https://www.jiemian.com/article/10085982.html<br><br>👬即刻镇小报<br>1、聊聊 Spotify上的播客名人效应<br>https://m.okjike.com/originalPosts/64fe9b7ac70326f2eb2781e7<br>2、好的创业人一定是好的打工人吗<br>https://m.okjike.com/originalPosts/64fefe7d1589e4a51a33928e<br>3、关于网络备案、域名备案的科普<br>https://m.okjike.com/originalPosts/64fe62fdc70326f2eb2121f8<br>4、来自中科院的“论文写作秘方”<br>https://m.okjike.com/originalPosts/64fe892d3c00b8f53d094c4e<br><br>今日即刻镇小报内容来自 @我不跑调 @躲在屋顶的猫 @哥飞 @徐衣行 ，感谢以上即友的创作与分享。]]></description>
+            <description><![CDATA[<br>2023年09月13日<br>🌍资讯快读<br>1、中国人寿原董事长王滨受贿3.25亿余元，一审被判死缓<br>https://www.jiemian.com/article/10085118.html<br>2、文旅部公布首批中国赴俄罗斯免签旅游业务旅行社名单<br>https://www.jiemian.com/article/10085180.html<br>3、“2023中国民营企业500强”榜单发布<br>https://36kr.com/newsflashes/2428357062615811<br>4、荷兰消费者协会起诉谷歌在数据收集方面侵犯隐私<br>https://36kr.com/newsflashes/2428796434768903<br>5、TikTok在美国正式推出电商业务“TikTok Shop”<br>https://www.jiemian.com/article/10085982.html<br><br>👬即刻镇小报<br>1、聊聊 Spotify上的播客名人效应<br>https://m.okjike.com/originalPosts/64fe9b7ac70326f2eb2781e7<br>2、好的创业人一定是好的打工人吗<br>https://m.okjike.com/originalPosts/64fefe7d1589e4a51a33928e<br>3、关于网络备案、域名备案的科普<br>https://m.okjike.com/originalPosts/64fe62fdc70326f2eb2121f8<br>4、来自中科院的“论文写作秘方”<br>https://m.okjike.com/originalPosts/64fe892d3c00b8f53d094c4e<br><br>今日即刻镇小报内容来自 @我不跑调 @躲在屋顶的猫 @哥飞 @徐衣行 ，感谢以上即友的创作与分享。]]></description>
             <pubDate>Tue, 12 Sep 2023 23:05:45 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6500eec99029c9112f368567</guid>
             <link>https://m.okjike.com/originalPosts/6500eec99029c9112f368567</link>
             
             
             
-            <author><![CDATA[即刻资讯台]]></author>
+            
             
                 
             
@@ -170,14 +169,14 @@
         
         <item>
             <title><![CDATA[一觉醒来发生了什么 09月12日]]></title>
-            <description><![CDATA[2023年09月12日<br>🌍资讯快读<br>1、深圳优化调整离婚或复婚家庭购房政策<br>https://36kr.com/newsflashes/2427202355274758<br>2、国家安全部：美国“功勋”间谍在华落网<br>https://www.jiemian.com/article/10073300.html<br>3、阿里云智能集团主席与CEO变更，张勇转型成投资人<br>https://www.jiemian.com/article/10073555.html<br>4、日本首轮7788立方米核污染水排海<br>https://36kr.com/newsflashes/2427283750970377<br>5、宝马集团投资6亿英镑在英国生产纯电动MINI<br>https://36kr.com/newsflashes/2427387416142855<br>6、德约科维奇美网3-0战胜梅德维德夫<br>https://www.jiemian.com/article/10073606.html<br><br>👬即刻镇小报<br>1、关于李佳琦与花西子的几点分析<br>https://m.okjike.com/originalPosts/64fe92d48425e0dd3b8b0d3e<br>2、半年和一年工作经验的差别<br>https://m.okjike.com/originalPosts/64fe60838425e0dd3b852d31<br>3、做播客的几点心得<br>https://m.okjike.com/originalPosts/64fe9c272a0c03ca1336c959<br>4、日本花火大会的瞬间<br>https://m.okjike.com/originalPosts/64fd810702edc16158848c7a<br><br>今日即刻镇小报内容来自 @周阿包 @小马宋 @刘旸教主 @该文君 ，感谢以上即友的创作与分享。]]></description>
+            <description><![CDATA[<br>2023年09月12日<br>🌍资讯快读<br>1、深圳优化调整离婚或复婚家庭购房政策<br>https://36kr.com/newsflashes/2427202355274758<br>2、国家安全部：美国“功勋”间谍在华落网<br>https://www.jiemian.com/article/10073300.html<br>3、阿里云智能集团主席与CEO变更，张勇转型成投资人<br>https://www.jiemian.com/article/10073555.html<br>4、日本首轮7788立方米核污染水排海<br>https://36kr.com/newsflashes/2427283750970377<br>5、宝马集团投资6亿英镑在英国生产纯电动MINI<br>https://36kr.com/newsflashes/2427387416142855<br>6、德约科维奇美网3-0战胜梅德维德夫<br>https://www.jiemian.com/article/10073606.html<br><br>👬即刻镇小报<br>1、关于李佳琦与花西子的几点分析<br>https://m.okjike.com/originalPosts/64fe92d48425e0dd3b8b0d3e<br>2、半年和一年工作经验的差别<br>https://m.okjike.com/originalPosts/64fe60838425e0dd3b852d31<br>3、做播客的几点心得<br>https://m.okjike.com/originalPosts/64fe9c272a0c03ca1336c959<br>4、日本花火大会的瞬间<br>https://m.okjike.com/originalPosts/64fd810702edc16158848c7a<br><br>今日即刻镇小报内容来自 @周阿包 @小马宋 @刘旸教主 @该文君 ，感谢以上即友的创作与分享。]]></description>
             <pubDate>Mon, 11 Sep 2023 23:05:33 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/64ff9d3d9029c9112f360cd1</guid>
             <link>https://m.okjike.com/originalPosts/64ff9d3d9029c9112f360cd1</link>
             
             
             
-            <author><![CDATA[即刻资讯台]]></author>
+            
             
                 
             

@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
-
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
 
 >
     <channel>
         <title><![CDATA[每日精品限免 / 促销应用]]></title>
         <link>http://app.so/xianmian/</link>
-        <atom:link href="https://rsshub.app/appstore/xianmian" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub/appstore/xianmian" rel="self" type="application/rss+xml" />
         <description><![CDATA[鲜面连线 by AppSo：每日精品限免 / 促销应用 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -15,14 +14,14 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Thu, 21 Sep 2023 06:26:51 GMT</lastBuildDate>
-        <ttl>120</ttl>
+        <lastBuildDate>Thu, 21 Sep 2023 12:24:45 GMT</lastBuildDate>
+        <ttl>1</ttl>
         
         <item>
             <title><![CDATA[「降价」Tape]]></title>
             <description><![CDATA[<img src="https://media.ifanrusercontent.com/user_files/appsoimg/89/c3/89c3dca80792c6087d0987eef44b3ec395eab8d7-cd80d190b1ef43675659f427325ae53b41034066.jpg" referrerpolicy="no-referrer">
           <br>
-          原价：¥38.00 -&gt; 现价：¥15.00
+          原价：¥38.00 -> 现价：¥15.00
           <br>
           平台：iPhone
           <br>
@@ -45,7 +44,7 @@
             <title><![CDATA[「免费」Lock Notes Pro]]></title>
             <description><![CDATA[<img src="https://media.ifanrusercontent.com/user_files/appsoimg/8f/57/8f57521073c1671d18be094205aa07149d763d7b-a17abfaeb04047e599bc2d5da6674b23cf65e732.jpg" referrerpolicy="no-referrer">
           <br>
-          原价：¥30.00 -&gt; 现价：¥0.00
+          原价：¥30.00 -> 现价：¥0.00
           <br>
           平台：iOS Universal
           <br>
@@ -68,7 +67,7 @@
             <title><![CDATA[「降价」Luca - Photo Editor & Filters]]></title>
             <description><![CDATA[<img src="https://media.ifanrusercontent.com/user_files/appsoimg/fb/84/fb84b0430d9571c135145d319a6836cb14e1bbde-4c51b5bb2c048fea9dcae1a64725c1eecd2fccde.jpg" referrerpolicy="no-referrer">
           <br>
-          原价：¥8.00 -&gt; 现价：¥3.00
+          原价：¥8.00 -> 现价：¥3.00
           <br>
           平台：iOS Universal
           <br>
@@ -91,7 +90,7 @@
             <title><![CDATA[「免费」BreatheIn: Calm Breathing]]></title>
             <description><![CDATA[<img src="https://media.ifanrusercontent.com/user_files/appsoimg/db/00/db00ce07572fe0808b43bf0d33165a4b186fcc5b-6d47317abb823b472e8eb47851fdbd961a4deb49.jpg" referrerpolicy="no-referrer">
           <br>
-          原价：¥12.00 -&gt; 现价：¥0.00
+          原价：¥12.00 -> 现价：¥0.00
           <br>
           平台：iOS Universal
           <br>
@@ -114,7 +113,7 @@
             <title><![CDATA[「免费」水平仪 HD]]></title>
             <description><![CDATA[<img src="https://media.ifanrusercontent.com/user_files/appsoimg/67/25/6725f2578b8c2e3a86d4fea7651f91741aaa42c0-e0b37c869d7d76767433fef1da314fb5dd55ac6a.jpg" referrerpolicy="no-referrer">
           <br>
-          原价：¥6.00 -&gt; 现价：¥0.00
+          原价：¥6.00 -> 现价：¥0.00
           <br>
           平台：iOS Universal
           <br>
@@ -137,7 +136,7 @@
             <title><![CDATA[「免费」几枝 - 愿君多采撷]]></title>
             <description><![CDATA[<img src="https://media.ifanrusercontent.com/user_files/appsoimg/84/69/84695956610ac09ffce572dcc6865a97cc5ceb70-6777b703996b8a4d583d51e2e483895f60ef7290.jpg" referrerpolicy="no-referrer">
           <br>
-          原价：¥3.00 -&gt; 现价：¥0.00
+          原价：¥3.00 -> 现价：¥0.00
           <br>
           平台：iOS Universal
           <br>
@@ -160,7 +159,7 @@
             <title><![CDATA[「免费」幺儿-白噪声伴您入睡]]></title>
             <description><![CDATA[<img src="https://media.ifanrusercontent.com/user_files/appsoimg/75/de/75de6cdaf4985caaaaaefef382226eb0bfbcc892-56145482706df066b330b65f94d81b2ff51a656a.jpg" referrerpolicy="no-referrer">
           <br>
-          原价：¥22.00 -&gt; 现价：¥0.00
+          原价：¥22.00 -> 现价：¥0.00
           <br>
           平台：iPhone
           <br>
@@ -184,7 +183,7 @@
             <title><![CDATA[「降价」Goodak 复古胶片相机 - 拍立得旅行摄影，拍照水印滤镜]]></title>
             <description><![CDATA[<img src="https://media.ifanrusercontent.com/user_files/appsoimg/46/46/46467a28aa75c043adbc121b0fb4575cd513fb94-6b2d199d12d2815084fb6731bc2e11d258917c43.jpg" referrerpolicy="no-referrer">
           <br>
-          原价：¥15.00 -&gt; 现价：¥8.00
+          原价：¥15.00 -> 现价：¥8.00
           <br>
           平台：iPhone
           <br>
@@ -207,7 +206,7 @@
             <title><![CDATA[「免费」Wafari - Watch Browser]]></title>
             <description><![CDATA[<img src="https://media.ifanrusercontent.com/user_files/appsoimg/d2/04/d2049069a66b5730a13398d6556624cbc1816d18-80478fe353f5ce6d8a066f4dc913ea5aea237e40.jpg" referrerpolicy="no-referrer">
           <br>
-          原价：¥1.00 -&gt; 现价：¥0.00
+          原价：¥1.00 -> 现价：¥0.00
           <br>
           平台：iOS Universal
           <br>
@@ -230,7 +229,7 @@
             <title><![CDATA[「免费」黄鸭证件照-最美求职考试证照制作神器]]></title>
             <description><![CDATA[<img src="https://media.ifanrusercontent.com/user_files/appsoimg/94/fb/94fbad089c865718503393f29240170ee44deb94-dfb8c7c4ab86a2c55d22d37fe4bd617411f7e1ee.jpg" referrerpolicy="no-referrer">
           <br>
-          原价：¥3.00 -&gt; 现价：¥0.00
+          原价：¥3.00 -> 现价：¥0.00
           <br>
           平台：iPhone
           <br>
