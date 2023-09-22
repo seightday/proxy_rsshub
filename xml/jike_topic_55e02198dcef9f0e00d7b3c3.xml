@@ -20,8 +20,27 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Fri, 22 Sep 2023 04:15:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Sep 2023 08:16:57 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[对于独立开发者来说，套壳才是真正的生产力。
+1. 先开发 docker 版，使用 nodejs + react
+2. 套壳 electron，开发 mac，windows，linux 版
+3. react native 套 n...]]></title>
+            <description><![CDATA[<br>对于独立开发者来说，套壳才是真正的生产力。<br>1. 先开发 docker 版，使用 nodejs + react<br>2. 套壳 electron，开发 mac，windows，linux 版<br>3. react native 套 nodejs ，开发 iOS，安卓版。<br><br>这样可以做到一次编写，到处运行。]]></description>
+            <pubDate>Fri, 22 Sep 2023 02:10:56 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/650cf7b002edc16158e298f9</guid>
+            <link>https://m.okjike.com/originalPosts/650cf7b002edc16158e298f9</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[支持微信扫码登录的应用经常会有这个漏洞：你可以将当前页面的二维码发送给其他人，被扫码之后，对方的账号就是你的了。原理很简单：
@@ -48,24 +67,6 @@ vercel的v0首先支持了tailwind也是出于这种考量。]]></title>
             <pubDate>Thu, 21 Sep 2023 03:14:51 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/650bb52b2a0c03ca1360e63a</guid>
             <link>https://m.okjike.com/originalPosts/650bb52b2a0c03ca1360e63a</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Google 提供的 Apps Script API 极其丰富，它可以让你对 Google 的 Doc/Sheet/Form/Gmail/Calendar/Task 等等几乎所有的应用，有完全的掌控权。举几个例子：
-
-1...]]></title>
-            <description><![CDATA[<br>Google 提供的 Apps Script API 极其丰富，它可以让你对 Google 的 Doc/Sheet/Form/Gmail/Calendar/Task 等等几乎所有的应用，有完全的掌控权。举几个例子：<br><br>1）利用 Google Sheets 实现一个收集报名信息的表单：https://github.com/levinunnink/html-form-to-google-sheet，以 Sheet 为数据容器，调用 Google Sheet API，将插入一条数据的能力通过 HTTP Post 接口暴露出来，就可以开始收集了<br><br>2）利用 Gmail 给刚才收集到的联系方式发送邮件：https://github.com/googleworkspace/solutions/blob/master/content-signup/src/Code.js，使用 Google Docs 写一篇文档作为模板，通过 Google Doc API 将文档数据读取出来，替换成表单里的数据，然后利用 Gmail 接口逐一给对应列表的人发送邮件<br><br>3）利用 Google Keep 将回复邮件的对象记录到待办，方便后续进一步沟通：https://github.com/googleworkspace/apps-script-samples/blob/main/advanced/tasks.gs，使用 Google Gmail API 监听邮件，一旦有回复，就更新 1）中表单的状态栏为「有回应」，并调用 Google Keep API 同时给自己新增一个沟通任务<br><br>实际上，这个几个例子串起来，就实现了一个简单的自动化营销系统了，甚至它还支持对接外部 API，https://developers.google.com/apps-script/guides/services/external?hl=zh-cn，可以调用电话外呼的能力，在 3）结束之后直接给回复了邮件的人打一个机器人营销电话，一气呵成，😂<br><picture><source srcset="https://cdnv2.ruguoapp.com/FpNLEHPCsjMeuFCpp6_LsMY2qyNvv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/FpNLEHPCsjMeuFCpp6_LsMY2qyNvv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/FpNLEHPCsjMeuFCpp6_LsMY2qyNvv3.png"></picture>]]></description>
-            <pubDate>Wed, 20 Sep 2023 10:03:27 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/650ac36f15391e4bc7a7960e</guid>
-            <link>https://m.okjike.com/originalPosts/650ac36f15391e4bc7a7960e</link>
             
             
             
