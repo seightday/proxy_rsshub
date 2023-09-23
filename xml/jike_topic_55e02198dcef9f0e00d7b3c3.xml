@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Fri, 22 Sep 2023 23:16:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Sep 2023 03:20:02 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[LongLLaMA，https://github.com/CStanKonrad/long_llama，主打一个 Looooong，它支持 256k 的上下文长度，一次性输入十几本圣经全文都扛得住。要知道 gpt-4 才 8...]]></title>
+            <description><![CDATA[LongLLaMA，https://github.com/CStanKonrad/long_llama，主打一个 Looooong，它支持 256k 的上下文长度，一次性输入十几本圣经全文都扛得住。要知道 gpt-4 才 8k😂<br><img src="https://cdnv2.ruguoapp.com/Fqs0BBAJ8MGTPUzZOYPAfT_jKK6Tv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 22 Sep 2023 07:40:56 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/650d450805145f31e5d6fcb4</guid>
+            <link>https://m.okjike.com/originalPosts/650d450805145f31e5d6fcb4</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[国内卷不动了 深思熟虑后 去香港写代码]]></title>
@@ -34,6 +50,22 @@
             
             
             <author><![CDATA[造App]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[推荐一个神奇的网站文档生成器，Docsify，https://docsify.js.org。如果你的项目 Repo 写了一个 README，或者写了一堆 Markdown 文件，正准备使用 GitBook、Hexo...]]></title>
+            <description><![CDATA[推荐一个神奇的网站文档生成器，Docsify，https://docsify.js.org。如果你的项目 Repo 写了一个 README，或者写了一堆 Markdown 文件，正准备使用 GitBook、Hexo、Jekyll 等工具来生成一个网站，可以考虑停下来，先看看这个工具。<br><br>你需要做的工作十分简单，在项目中增加一个 index.html 文件，写十几行代码然后稍作配置，就可以搞定你的网站文档站点了，对程序员极为友好。它的原理比较简单：<br><br>1）搭建一个网页初始化框架，允许网站主题、字体、字号、Logo 等进行配置化传入<br>2）然后直接异步加载 Markdown 文件，解析成 HTML 后呈现<br>3）同时允许对 sidebar/navbar/pagecover 等框架性的东西做定制化，并以插件化的方式支持了社区化评论组件、Google 统计、代码预览等等的接入<br><br>功能做的颇为全面，大多数情况下，默认的几个配置就可以满足需求了。<br><img src="https://cdnv2.ruguoapp.com/FsNwplh6M2Losp13Fyzo8sBWD-IWv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FjQUor11NPznemdfipUhCujNPxbAv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 22 Sep 2023 03:08:01 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/650d05118425e0dd3bd401de</guid>
+            <link>https://m.okjike.com/originalPosts/650d05118425e0dd3bd401de</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
             
                 
             
@@ -73,22 +105,6 @@
         </item>
         
         <item>
-            <title><![CDATA[Code2U，中国程序员的全球被动收入之路。 ———————————————————— 解锁「用代码，赚美金」新技能，道路虽然漫长且收入少，但我们坚信长期主义...]]></title>
-            <description><![CDATA[Code2U，中国程序员的全球被动收入之路。<br>————————————————————<br>解锁「用代码，赚美金」新技能，道路虽然漫长且收入少，但我们坚信长期主义，认同复利原理，Code2U就是服务此类人群的。<br><br>内容传送门，点击链接阅读：<br><br>》Indiehacker修炼手册.pdf<br>一、想法篇 👉🏻 https://code2u.io/blog/handbook-idea/<br>二、建设篇 👉🏻 https://code2u.io/blog/handbook-build/<br>三、发布篇 👉🏻 https://code2u.io/blog/handbook-launch/<br>四、增长篇 👉🏻 https://code2u.io/blog/handbook-grow/<br>五、变现篇 👉🏻 https://code2u.io/blog/handbook-monetize/<br><br>》2023年最值得关注的Indie hacker<br>用Code赚USD，是出海独立开发者的目标，我们整理出2023年最值得关注的独立开发者，希望给大家一些启发。<br>独立开发者名人堂 👉🏻 https://code2u.io/blog/2023/<br><br>》精选22个Indie hacker兼职副业项目<br>精选按订阅付费模式、MRR$1000以上、兼职及独立开发者的项目，希望给大家一些灵感。<br>适合独立创业的项目 👉🏻 https://code2u.io/blog/22indie-hacker/<br><img src="https://cdnv2.ruguoapp.com/FnMZyb9exd1YPVqo3jJzyRp3no2Bv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 19 Sep 2023 03:49:30 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65091a4a4101002b06ee45e0</guid>
-            <link>https://m.okjike.com/originalPosts/65091a4a4101002b06ee45e0</link>
-            
-            
-            
-            <author><![CDATA[少杰.Code2U]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Google 搞了一个 Emoji Kitchen，挺有意思。 直接点击 https://www.google.com.hk/search?q=emoji+kitchen 进入。]]></title>
             <description><![CDATA[Google 搞了一个 Emoji Kitchen，挺有意思。<br><br>直接点击 https://www.google.com.hk/search?q=emoji+kitchen 进入。<img src="https://cdnv2.ruguoapp.com/Fjo--pYsQKr2P7wgC6_Yw59SHj6lv3.gif" referrerpolicy="no-referrer">]]></description>
             <pubDate>Tue, 19 Sep 2023 02:11:42 GMT</pubDate>
@@ -98,22 +114,6 @@
             
             
             <author><![CDATA[Hu胡鹤仙]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[OneModel —— 软件架构师专用绘图工具 链接：https://www.onemodel.app/ 这款绘图工具里提供很多软件架构的图标、素材、模板，帮助软件架构师绘制软件架构图。]]></title>
-            <description><![CDATA[OneModel —— 软件架构师专用绘图工具<br><br>链接：https://www.onemodel.app/<br><br>这款绘图工具里提供很多软件架构的图标、素材、模板，帮助软件架构师绘制软件架构图。<br><img src="https://cdnv2.ruguoapp.com/Fpr4Gc41a8vBHVbeNSoA5Dfdaudwv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sun, 17 Sep 2023 15:52:06 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/650720a602edc16158617d43</guid>
-            <link>https://m.okjike.com/originalPosts/650720a602edc16158617d43</link>
-            
-            
-            
-            <author><![CDATA[龙爪槐守望者]]></author>
             
                 
             
@@ -138,7 +138,7 @@
         
         <item>
             <title><![CDATA[内置了一些用于快速体验应用的示例]]></title>
-            <description><![CDATA[内置了一些用于快速体验应用的示例<br><video src="https://videocdn.jellow.site/FvYJrIb_EL3IgUTvv-aA1ds4jjNZ.mp4?sign=6286256c993c7ecb65df4167fc7bfdcc&amp;t=650e25de" controls=""></video>]]></description>
+            <description><![CDATA[内置了一些用于快速体验应用的示例<br><video src="https://videocdn.jellow.site/FvYJrIb_EL3IgUTvv-aA1ds4jjNZ.mp4?sign=7edda9e9d00d5590935cd6f4125d7262&amp;t=650e5fcb" controls=""></video>]]></description>
             <pubDate>Fri, 08 Sep 2023 05:05:24 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/64faab941589e4a51ad3309d</guid>
             <link>https://m.okjike.com/originalPosts/64faab941589e4a51ad3309d</link>
