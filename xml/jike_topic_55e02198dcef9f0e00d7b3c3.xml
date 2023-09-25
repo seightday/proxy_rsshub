@@ -21,19 +21,35 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 25 Sep 2023 02:28:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Sep 2023 06:53:32 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
-            <title><![CDATA[(搜了下还没人发过，那我来) Cables，基于Web端的交互式实时图形、数据可视化和在线应用开发平台。UI风格挺接近vvvv/msp的，但看文档似乎是可以导出为批处理或是...]]></title>
-            <description><![CDATA[<img src="https://cables.gl/img/metathumb-landing.jpg" referrerpolicy="no-referrer"><br>                    <a href="https://cables.gl/">cables</a><br>                <br>(搜了下还没人发过，那我来)<br>Cables，基于Web端的交互式实时图形、数据可视化和在线应用开发平台。UI风格挺接近vvvv/msp的，但看文档似乎是可以导出为批处理或是EXE文件。虽然网页端相比单机应用的可玩性是差了一点(比如音频用途会受限于交互事件)，但它Showcase里那么多网页案例……就算不做商业项目，拿来做个站也不是完全不行吧🌚<br>(说来惭愧，这两天有点怠惰，还没咋看🤣)]]></description>
-            <pubDate>Sun, 24 Sep 2023 14:54:47 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65104db74101002b068e60a1</guid>
-            <link>https://m.okjike.com/originalPosts/65104db74101002b068e60a1</link>
+            <title><![CDATA[超过1000本的计算机经典书籍 以及校招社招各种面经分享 https://github.com/forthespada/CS-Books]]></title>
+            <description><![CDATA[超过1000本的计算机经典书籍<br><br>以及校招社招各种面经分享<br>https://github.com/forthespada/CS-Books<br><img src="https://cdnv2.ruguoapp.com/FlUJBX5ae6cpS9eXzBy5k7SB9SiRv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 25 Sep 2023 01:50:03 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6510e74bdfd4a5ca537569ab</guid>
+            <link>https://m.okjike.com/originalPosts/6510e74bdfd4a5ca537569ab</link>
             
             
             
-            <author><![CDATA[某熊猫桑]]></author>
+            <author><![CDATA[通义千问]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[推荐一个解读React Hooks的博客专栏，专栏对React官方Hooks进行了详细的用法和使用场景解读，并提供了开源在线demo作为演示。 总体来说，可以把这个专栏看作是一...]]></title>
+            <description><![CDATA[推荐一个解读React Hooks的博客专栏，专栏对React官方Hooks进行了详细的用法和使用场景解读，并提供了开源在线demo作为演示。<br>总体来说，可以把这个专栏看作是一个比官网介绍更详细也更易读的Hooks文档，适合React开发者学习和查缺补漏。<br>专栏地址：https://weijunext.com/tag/React%20hooks<br>在线演示：https://nextjs.weijunext.com/hooks<br><img src="https://cdnv2.ruguoapp.com/Fq2L2nVm7xiuPh9rOzUKGDAaiQH8v3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fmp_kbyRYiz6ab5bAy6QVbZLqgGFv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 25 Sep 2023 01:38:58 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6510e4b2f21549bc73bc59d0</guid>
+            <link>https://m.okjike.com/originalPosts/6510e4b2f21549bc73bc59d0</link>
+            
+            
+            
+            <author><![CDATA[BigYe程普]]></author>
             
                 
             
@@ -105,22 +121,6 @@
         </item>
         
         <item>
-            <title><![CDATA[前端如果想用AI写页面或组件，一定要了解一下tailwind，tailwind几乎是AI理解得最好的css方案了。 vercel的v0首先支持了tailwind也是出于这种考量。]]></title>
-            <description><![CDATA[前端如果想用AI写页面或组件，一定要了解一下tailwind，tailwind几乎是AI理解得最好的css方案了。<br>vercel的v0首先支持了tailwind也是出于这种考量。<br><img src="https://cdnv2.ruguoapp.com/FguPyxf1B-hV8AxOMKp9573yL2Lnv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 21 Sep 2023 03:14:51 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/650bb52b2a0c03ca1360e63a</guid>
-            <link>https://m.okjike.com/originalPosts/650bb52b2a0c03ca1360e63a</link>
-            
-            
-            
-            <author><![CDATA[BigYe程普]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Google 搞了一个 Emoji Kitchen，挺有意思。 直接点击 https://www.google.com.hk/search?q=emoji+kitchen 进入。]]></title>
             <description><![CDATA[Google 搞了一个 Emoji Kitchen，挺有意思。<br><br>直接点击 https://www.google.com.hk/search?q=emoji+kitchen 进入。<img src="https://cdnv2.ruguoapp.com/Fjo--pYsQKr2P7wgC6_Yw59SHj6lv3.gif" referrerpolicy="no-referrer">]]></description>
             <pubDate>Tue, 19 Sep 2023 02:11:42 GMT</pubDate>
@@ -154,7 +154,7 @@
         
         <item>
             <title><![CDATA[内置了一些用于快速体验应用的示例]]></title>
-            <description><![CDATA[内置了一些用于快速体验应用的示例<br><video src="https://videocdn.jellow.site/FvYJrIb_EL3IgUTvv-aA1ds4jjNZ.mp4?sign=d0cd8b521c11863dcb53e29969f6328f&amp;t=6510f645" controls=""></video>]]></description>
+            <description><![CDATA[内置了一些用于快速体验应用的示例<br><video src="https://videocdn.jellow.site/FvYJrIb_EL3IgUTvv-aA1ds4jjNZ.mp4?sign=e0026777094dcfb9271f2a352e18e8cf&amp;t=65113545" controls=""></video>]]></description>
             <pubDate>Fri, 08 Sep 2023 05:05:24 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/64faab941589e4a51ad3309d</guid>
             <link>https://m.okjike.com/originalPosts/64faab941589e4a51ad3309d</link>
