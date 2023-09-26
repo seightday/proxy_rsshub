@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 26 Sep 2023 07:39:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Sep 2023 11:51:52 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[承德那个程序员，做开源项目很牛的，可以去参观一下他的github。 https://github.com/maliming 开源项目abp的核心开发者，代码贡献排第二。 https://github.com/...]]></title>
+            <description><![CDATA[承德那个程序员，做开源项目很牛的，可以去参观一下他的github。<br><br>https://github.com/maliming<br><br>开源项目abp的核心开发者，代码贡献排第二。<br><br>https://github.com/abpframework/abp/graphs/contributors]]></description>
+            <pubDate>Tue, 26 Sep 2023 06:58:16 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65128108f21549bc73e33161</guid>
+            <link>https://m.okjike.com/originalPosts/65128108f21549bc73e33161</link>
+            
+            
+            
+            <author><![CDATA[P小二]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[文章说的是 BuiltWith.com 这个网站，年收入1400万美元，但其实只有一个员工，就是创始人自己。 我们先用 Similarweb 看下这个网站的流量，月访问量170万，这流...]]></title>
@@ -105,22 +121,6 @@
         </item>
         
         <item>
-            <title><![CDATA[国内卷不动了 深思熟虑后 去香港写代码]]></title>
-            <description><![CDATA[国内卷不动了<br>深思熟虑后<br>去香港写代码<br><img src="https://cdnv2.ruguoapp.com/Fr0bRe3rQY_DcnzfMvhNe3gPAttbv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 22 Sep 2023 03:32:32 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/650d0ad02c9bdd1af55527f9</guid>
-            <link>https://m.okjike.com/originalPosts/650d0ad02c9bdd1af55527f9</link>
-            
-            
-            
-            <author><![CDATA[造App]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[对于独立开发者来说，套壳才是真正的生产力。 1. 先开发 docker 版，使用 nodejs + react 2. 套壳 electron，开发 mac，windows，linux 版 3. react native 套 n...]]></title>
             <description><![CDATA[对于独立开发者来说，套壳才是真正的生产力。<br>1. 先开发 docker 版，使用 nodejs + react<br>2. 套壳 electron，开发 mac，windows，linux 版<br>3. react native 套 nodejs ，开发 iOS，安卓版。<br><br>这样可以做到一次编写，到处运行。]]></description>
             <pubDate>Fri, 22 Sep 2023 02:10:56 GMT</pubDate>
@@ -154,7 +154,7 @@
         
         <item>
             <title><![CDATA[内置了一些用于快速体验应用的示例]]></title>
-            <description><![CDATA[内置了一些用于快速体验应用的示例<br><video src="https://videocdn.jellow.site/FvYJrIb_EL3IgUTvv-aA1ds4jjNZ.mp4?sign=0b0fb785a6707db93998d66ca6b0a747&amp;t=65128f98" controls=""></video>]]></description>
+            <description><![CDATA[内置了一些用于快速体验应用的示例<br><video src="https://videocdn.jellow.site/FvYJrIb_EL3IgUTvv-aA1ds4jjNZ.mp4?sign=62e502deb885fef600f701d442efc230&amp;t=6512cc8a" controls=""></video>]]></description>
             <pubDate>Fri, 08 Sep 2023 05:05:24 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/64faab941589e4a51ad3309d</guid>
             <link>https://m.okjike.com/originalPosts/64faab941589e4a51ad3309d</link>
