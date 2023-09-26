@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 25 Sep 2023 23:23:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Sep 2023 01:35:55 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -50,6 +50,22 @@
             
             
             <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[以后看谁不爽，就直接报警说他翻墙就行了]]></title>
+            <description><![CDATA[以后看谁不爽，就直接报警说他翻墙就行了]]></description>
+            <pubDate>Mon, 25 Sep 2023 03:28:47 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6510fe6f1589e4a51ac56c65</guid>
+            <link>https://m.okjike.com/originalPosts/6510fe6f1589e4a51ac56c65</link>
+            
+            
+            
+            <author><![CDATA[痘师傅]]></author>
             
                 
             
@@ -105,22 +121,6 @@
         </item>
         
         <item>
-            <title><![CDATA[推荐一个神奇的网站文档生成器，Docsify，https://docsify.js.org。如果你的项目 Repo 写了一个 README，或者写了一堆 Markdown 文件，正准备使用 GitBook、Hexo...]]></title>
-            <description><![CDATA[推荐一个神奇的网站文档生成器，Docsify，https://docsify.js.org。如果你的项目 Repo 写了一个 README，或者写了一堆 Markdown 文件，正准备使用 GitBook、Hexo、Jekyll 等工具来生成一个网站，可以考虑停下来，先看看这个工具。<br><br>你需要做的工作十分简单，在项目中增加一个 index.html 文件，写十几行代码然后稍作配置，就可以搞定你的网站文档站点了，对程序员极为友好。它的原理比较简单：<br><br>1）搭建一个网页初始化框架，允许网站主题、字体、字号、Logo 等进行配置化传入<br>2）然后直接异步加载 Markdown 文件，解析成 HTML 后呈现<br>3）同时允许对 sidebar/navbar/pagecover 等框架性的东西做定制化，并以插件化的方式支持了社区化评论组件、Google 统计、代码预览等等的接入<br><br>功能做的颇为全面，大多数情况下，默认的几个配置就可以满足需求了。<br><img src="https://cdnv2.ruguoapp.com/FsNwplh6M2Losp13Fyzo8sBWD-IWv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FjQUor11NPznemdfipUhCujNPxbAv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 22 Sep 2023 03:08:01 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/650d05118425e0dd3bd401de</guid>
-            <link>https://m.okjike.com/originalPosts/650d05118425e0dd3bd401de</link>
-            
-            
-            
-            <author><![CDATA[Barret李靖]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[对于独立开发者来说，套壳才是真正的生产力。 1. 先开发 docker 版，使用 nodejs + react 2. 套壳 electron，开发 mac，windows，linux 版 3. react native 套 n...]]></title>
             <description><![CDATA[对于独立开发者来说，套壳才是真正的生产力。<br>1. 先开发 docker 版，使用 nodejs + react<br>2. 套壳 electron，开发 mac，windows，linux 版<br>3. react native 套 nodejs ，开发 iOS，安卓版。<br><br>这样可以做到一次编写，到处运行。]]></description>
             <pubDate>Fri, 22 Sep 2023 02:10:56 GMT</pubDate>
@@ -154,7 +154,7 @@
         
         <item>
             <title><![CDATA[内置了一些用于快速体验应用的示例]]></title>
-            <description><![CDATA[内置了一些用于快速体验应用的示例<br><video src="https://videocdn.jellow.site/FvYJrIb_EL3IgUTvv-aA1ds4jjNZ.mp4?sign=02278db40d59b1ee90cb139123e0a7c7&amp;t=65121cc3" controls=""></video>]]></description>
+            <description><![CDATA[内置了一些用于快速体验应用的示例<br><video src="https://videocdn.jellow.site/FvYJrIb_EL3IgUTvv-aA1ds4jjNZ.mp4?sign=65daa8388a3b7fde65f4e5fc3e17cf81&amp;t=65123b5a" controls=""></video>]]></description>
             <pubDate>Fri, 08 Sep 2023 05:05:24 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/64faab941589e4a51ad3309d</guid>
             <link>https://m.okjike.com/originalPosts/64faab941589e4a51ad3309d</link>
