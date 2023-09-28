@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 28 Sep 2023 06:25:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Sep 2023 10:43:03 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[对于做独立开发的同路人们来说，运营固然是重中之重，但是技术也在大家实现想法的路上占了很大的一部分，甚至也成为了很多独立产品发展的阻力。😔 所以我们策...]]></title>
+            <description><![CDATA[对于做独立开发的同路人们来说，运营固然是重中之重，但是技术也在大家实现想法的路上占了很大的一部分，甚至也成为了很多独立产品发展的阻力。😔<br>所以我们策划了这期文章，希望尽自己的绵薄之力为大家带来一份适合独立产品的技术架构分享，也希望这篇文章给永远在重构路上的你带来一点点的灵感。❤️<br> <br>文章链接：https://suoxing.noto.so/dev/travelog/arch<br><img src="https://cdnv2.ruguoapp.com/Fokw59awKoK1uLE8-Dxcjb9GkWo6v3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 28 Sep 2023 08:23:49 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6515381515391e4bc7907dad</guid>
+            <link>https://m.okjike.com/originalPosts/6515381515391e4bc7907dad</link>
+            
+            
+            
+            <author><![CDATA[Wi-Fi信号覆盖]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[选择个人开发不是靠兴趣驱动的，也不是被职场焦虑逼的，自己大致经历过三个阶段： 1. 因为看过所以相信 2. 因为做过所以确信 3. 因为深信所以去做]]></title>
@@ -42,7 +58,7 @@
         
         <item>
             <title><![CDATA[推荐一款手机屏幕控制框架，AutoX，https://github.com/kkevsekk1/AutoX，准确地说，应该是一款自动化测试框架，它提供了完善的能力，可以帮你像调试 Web 网页一...]]></title>
-            <description><![CDATA[推荐一款手机屏幕控制框架，AutoX，https://github.com/kkevsekk1/AutoX，准确地说，应该是一款自动化测试框架，它提供了完善的能力，可以帮你像调试 Web 网页一样，对当前界面中软件里的所有元素和层级进行定位，支持使用 JS 对元素节点做任意操作，例如下载图片文字、执行点击复制操作、请求数据后替换内容等等。<br><br>原理跟之前提到的跳过开屏广告的 SKIP 是一样的，在开启了无障碍服务权限后，软件可以读取到界面上所有的元素布局信息，只不过 AutoX 对元素选取、代码生成、程序执行、运行调试，包括宏录制等各个环节进行了工程化的组装，而且它提供了 VSCode 插件，可以通过局域网连接后，在电脑上编码然后手机上直接执行，所见即所得，操作起来十分便捷。该框架适用于手机的自动化测试和控制场景。<br><br>下面是一个利用 AutoX 选取目标文本的演示，拿到了元素的 ID 信息，接下来就可以到 AutoX 的编辑器开始编码了：<br><video src="https://videocdn.jellow.site/lviYAGfrufjj664yh0VO3t3yImR2.mp4?sign=06d58974c2af486d3065eda671430778&amp;t=65152131" controls=""></video>]]></description>
+            <description><![CDATA[推荐一款手机屏幕控制框架，AutoX，https://github.com/kkevsekk1/AutoX，准确地说，应该是一款自动化测试框架，它提供了完善的能力，可以帮你像调试 Web 网页一样，对当前界面中软件里的所有元素和层级进行定位，支持使用 JS 对元素节点做任意操作，例如下载图片文字、执行点击复制操作、请求数据后替换内容等等。<br><br>原理跟之前提到的跳过开屏广告的 SKIP 是一样的，在开启了无障碍服务权限后，软件可以读取到界面上所有的元素布局信息，只不过 AutoX 对元素选取、代码生成、程序执行、运行调试，包括宏录制等各个环节进行了工程化的组装，而且它提供了 VSCode 插件，可以通过局域网连接后，在电脑上编码然后手机上直接执行，所见即所得，操作起来十分便捷。该框架适用于手机的自动化测试和控制场景。<br><br>下面是一个利用 AutoX 选取目标文本的演示，拿到了元素的 ID 信息，接下来就可以到 AutoX 的编辑器开始编码了：<br><video src="https://videocdn.jellow.site/lviYAGfrufjj664yh0VO3t3yImR2.mp4?sign=1e9fce626dfe48625e0395b5aeed472b&amp;t=65155fbe" controls=""></video>]]></description>
             <pubDate>Wed, 27 Sep 2023 14:47:42 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6514408e2a0c03ca1321c80e</guid>
             <link>https://m.okjike.com/originalPosts/6514408e2a0c03ca1321c80e</link>
@@ -50,22 +66,6 @@
             
             
             <author><![CDATA[Barret李靖]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[中国程序员：这鸡汤，不咸啊]]></title>
-            <description><![CDATA[中国程序员：这鸡汤，不咸啊<br><img src="https://cdnv2.ruguoapp.com/FsGgNxK4s0XcYeUC0t_u25b0j7hVv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 27 Sep 2023 01:41:59 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/651388671589e4a51aff5f9f</guid>
-            <link>https://m.okjike.com/originalPosts/651388671589e4a51aff5f9f</link>
-            
-            
-            
-            <author><![CDATA[张佳的流量常识]]></author>
             
                 
             
@@ -154,7 +154,7 @@
         
         <item>
             <title><![CDATA[内置了一些用于快速体验应用的示例]]></title>
-            <description><![CDATA[内置了一些用于快速体验应用的示例<br><video src="https://videocdn.jellow.site/FvYJrIb_EL3IgUTvv-aA1ds4jjNZ.mp4?sign=c6d0b74a7d9435c1fddc0b4c621a8018&amp;t=6515233c" controls=""></video>]]></description>
+            <description><![CDATA[内置了一些用于快速体验应用的示例<br><video src="https://videocdn.jellow.site/FvYJrIb_EL3IgUTvv-aA1ds4jjNZ.mp4?sign=f6eaf0d7cfd9fd1f87d128833cf06e6f&amp;t=65155fbe" controls=""></video>]]></description>
             <pubDate>Fri, 08 Sep 2023 05:05:24 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/64faab941589e4a51ad3309d</guid>
             <link>https://m.okjike.com/originalPosts/64faab941589e4a51ad3309d</link>
