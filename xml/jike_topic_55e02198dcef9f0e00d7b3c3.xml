@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sat, 30 Sep 2023 02:23:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Sep 2023 06:27:17 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -73,8 +73,24 @@
         </item>
         
         <item>
+            <title><![CDATA[选择个人开发不是靠兴趣驱动的，也不是被职场焦虑逼的，自己大致经历过三个阶段： 1. 因为看过所以相信 2. 因为做过所以确信 3. 因为深信所以去做]]></title>
+            <description><![CDATA[选择个人开发不是靠兴趣驱动的，也不是被职场焦虑逼的，自己大致经历过三个阶段：<br><br>1. 因为看过所以相信<br>2. 因为做过所以确信<br>3. 因为深信所以去做]]></description>
+            <pubDate>Wed, 27 Sep 2023 14:58:12 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65144304c9ddb2a2a37f164c</guid>
+            <link>https://m.okjike.com/originalPosts/65144304c9ddb2a2a37f164c</link>
+            
+            
+            
+            <author><![CDATA[赖嘉伟Gary]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[推荐一款手机屏幕控制框架，AutoX，https://github.com/kkevsekk1/AutoX，准确地说，应该是一款自动化测试框架，它提供了完善的能力，可以帮你像调试 Web 网页一...]]></title>
-            <description><![CDATA[推荐一款手机屏幕控制框架，AutoX，https://github.com/kkevsekk1/AutoX，准确地说，应该是一款自动化测试框架，它提供了完善的能力，可以帮你像调试 Web 网页一样，对当前界面中软件里的所有元素和层级进行定位，支持使用 JS 对元素节点做任意操作，例如下载图片文字、执行点击复制操作、请求数据后替换内容等等。<br><br>原理跟之前提到的跳过开屏广告的 SKIP 是一样的，在开启了无障碍服务权限后，软件可以读取到界面上所有的元素布局信息，只不过 AutoX 对元素选取、代码生成、程序执行、运行调试，包括宏录制等各个环节进行了工程化的组装，而且它提供了 VSCode 插件，可以通过局域网连接后，在电脑上编码然后手机上直接执行，所见即所得，操作起来十分便捷。该框架适用于手机的自动化测试和控制场景。<br><br>下面是一个利用 AutoX 选取目标文本的演示，拿到了元素的 ID 信息，接下来就可以到 AutoX 的编辑器开始编码了：<br><video src="https://videocdn.jellow.site/lviYAGfrufjj664yh0VO3t3yImR2.mp4?sign=956dc90818eb61174e7aae1899976362&amp;t=65178d0a" controls=""></video>]]></description>
+            <description><![CDATA[推荐一款手机屏幕控制框架，AutoX，https://github.com/kkevsekk1/AutoX，准确地说，应该是一款自动化测试框架，它提供了完善的能力，可以帮你像调试 Web 网页一样，对当前界面中软件里的所有元素和层级进行定位，支持使用 JS 对元素节点做任意操作，例如下载图片文字、执行点击复制操作、请求数据后替换内容等等。<br><br>原理跟之前提到的跳过开屏广告的 SKIP 是一样的，在开启了无障碍服务权限后，软件可以读取到界面上所有的元素布局信息，只不过 AutoX 对元素选取、代码生成、程序执行、运行调试，包括宏录制等各个环节进行了工程化的组装，而且它提供了 VSCode 插件，可以通过局域网连接后，在电脑上编码然后手机上直接执行，所见即所得，操作起来十分便捷。该框架适用于手机的自动化测试和控制场景。<br><br>下面是一个利用 AutoX 选取目标文本的演示，拿到了元素的 ID 信息，接下来就可以到 AutoX 的编辑器开始编码了：<br><video src="https://videocdn.jellow.site/lviYAGfrufjj664yh0VO3t3yImR2.mp4?sign=3ff73416f4cf73d2159a77b60a7cf643&amp;t=6517c53e" controls=""></video>]]></description>
             <pubDate>Wed, 27 Sep 2023 14:47:42 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6514408e2a0c03ca1321c80e</guid>
             <link>https://m.okjike.com/originalPosts/6514408e2a0c03ca1321c80e</link>
@@ -154,7 +170,7 @@
         
         <item>
             <title><![CDATA[内置了一些用于快速体验应用的示例]]></title>
-            <description><![CDATA[内置了一些用于快速体验应用的示例<br><video src="https://videocdn.jellow.site/FvYJrIb_EL3IgUTvv-aA1ds4jjNZ.mp4?sign=b14197bea4d257176d85fb17ff993958&amp;t=65178db1" controls=""></video>]]></description>
+            <description><![CDATA[内置了一些用于快速体验应用的示例<br><video src="https://videocdn.jellow.site/FvYJrIb_EL3IgUTvv-aA1ds4jjNZ.mp4?sign=4abc758cff0c8be4ad4a795373301868&amp;t=6517c53e" controls=""></video>]]></description>
             <pubDate>Fri, 08 Sep 2023 05:05:24 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/64faab941589e4a51ad3309d</guid>
             <link>https://m.okjike.com/originalPosts/64faab941589e4a51ad3309d</link>
@@ -162,22 +178,6 @@
             
             
             <author><![CDATA[沈毅]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[同事把他差点被骗子骗十几万的经历给分享了出来，https://mp.weixin.qq.com/s/qWc_FkbbZYXuVR7pS9A3FA，明明是自己收钱，最后却变成向骗子转账，也是不知道该说...]]></title>
-            <description><![CDATA[同事把他差点被骗子骗十几万的经历给分享了出来，https://mp.weixin.qq.com/s/qWc_FkbbZYXuVR7pS9A3FA，明明是自己收钱，最后却变成向骗子转账，也是不知道该说啥了。回头再看，整个过程漏洞百出，有几个教训值得分享下：<br><br>1）私人手机号码来电，八成就是骗子了，你可以要求对方通过公司座机打过来，这一步可以挡掉大部分的无妄之灾<br>2）引导安装软件，不是 APP Store 的正规通道软件，还需要信任证书，要知道最高权限的证书可以远程直接抹掉手机的所有数据，更别说查看你的数据了<br>3）直播录屏，把所有的银行卡操作暴露在骗子眼前，甚至 1Password 密码都暴露出来，只能说太大方<br>4）行骗域名是一串奇怪的数字，后缀还是 .icu 结尾，骗子也是够幽默的，这是专骗程序员的域名么？<br>5）蚂蚁的老员工，还被骗子 PS 的一张蚂蚁工牌给骗了，竟然没有想到去内网求证一下😂<br><br>骗子都是急人之所急，对人性和情绪有着极度的掌控，被骗者一旦陷进去，想爬出来就难了。小区的教授、公司的技术专家、社交媒体的名人，都是身边真实发生的事件，骗子正在把目光瞄准到知识分子身上。<br><br>需要引以为戒，也许下一个就是自己了……]]></description>
-            <pubDate>Thu, 31 Aug 2023 05:26:17 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64f024796e5e990f20df1c5c</guid>
-            <link>https://m.okjike.com/originalPosts/64f024796e5e990f20df1c5c</link>
-            
-            
-            
-            <author><![CDATA[Barret李靖]]></author>
             
                 
             
