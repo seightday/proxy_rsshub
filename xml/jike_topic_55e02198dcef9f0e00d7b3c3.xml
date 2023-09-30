@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sat, 30 Sep 2023 10:29:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Sep 2023 14:36:10 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -34,6 +34,22 @@
             
             
             <author><![CDATA[Airyland]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[我写了个脚本，当“走了”之后（无论是什么意义上的走了）让服务器帮我自动处理一些事情，比如公开一些信息之类的操作。 原理是用过iOS快捷指令之类的，隔几天问...]]></title>
+            <description><![CDATA[我写了个脚本，当“走了”之后（无论是什么意义上的走了）让服务器帮我自动处理一些事情，比如公开一些信息之类的操作。<br>原理是用过iOS快捷指令之类的，隔几天问你还在不在。如果过了好几天都不在，就认为你“走了”，开始让服务器处理你预设好的操作。<br>我还在测试，等调好了 public 。<br><img src="https://cdnv2.ruguoapp.com/FpdOWJBW7Uv1D4g0wsYqgUk8mRQ-v3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 28 Sep 2023 16:46:46 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6515adf6f21549bc732dffe8</guid>
+            <link>https://m.okjike.com/originalPosts/6515adf6f21549bc732dffe8</link>
+            
+            
+            
+            <author><![CDATA[Likyo]]></author>
             
                 
             
@@ -73,24 +89,8 @@
         </item>
         
         <item>
-            <title><![CDATA[选择个人开发不是靠兴趣驱动的，也不是被职场焦虑逼的，自己大致经历过三个阶段： 1. 因为看过所以相信 2. 因为做过所以确信 3. 因为深信所以去做]]></title>
-            <description><![CDATA[选择个人开发不是靠兴趣驱动的，也不是被职场焦虑逼的，自己大致经历过三个阶段：<br><br>1. 因为看过所以相信<br>2. 因为做过所以确信<br>3. 因为深信所以去做]]></description>
-            <pubDate>Wed, 27 Sep 2023 14:58:12 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65144304c9ddb2a2a37f164c</guid>
-            <link>https://m.okjike.com/originalPosts/65144304c9ddb2a2a37f164c</link>
-            
-            
-            
-            <author><![CDATA[赖嘉伟Gary]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[推荐一款手机屏幕控制框架，AutoX，https://github.com/kkevsekk1/AutoX，准确地说，应该是一款自动化测试框架，它提供了完善的能力，可以帮你像调试 Web 网页一...]]></title>
-            <description><![CDATA[推荐一款手机屏幕控制框架，AutoX，https://github.com/kkevsekk1/AutoX，准确地说，应该是一款自动化测试框架，它提供了完善的能力，可以帮你像调试 Web 网页一样，对当前界面中软件里的所有元素和层级进行定位，支持使用 JS 对元素节点做任意操作，例如下载图片文字、执行点击复制操作、请求数据后替换内容等等。<br><br>原理跟之前提到的跳过开屏广告的 SKIP 是一样的，在开启了无障碍服务权限后，软件可以读取到界面上所有的元素布局信息，只不过 AutoX 对元素选取、代码生成、程序执行、运行调试，包括宏录制等各个环节进行了工程化的组装，而且它提供了 VSCode 插件，可以通过局域网连接后，在电脑上编码然后手机上直接执行，所见即所得，操作起来十分便捷。该框架适用于手机的自动化测试和控制场景。<br><br>下面是一个利用 AutoX 选取目标文本的演示，拿到了元素的 ID 信息，接下来就可以到 AutoX 的编辑器开始编码了：<br><video src="https://videocdn.jellow.site/lviYAGfrufjj664yh0VO3t3yImR2.mp4?sign=77c812f09388b32965d0e86cdb121e43&amp;t=6517fd5d" controls=""></video>]]></description>
+            <description><![CDATA[推荐一款手机屏幕控制框架，AutoX，https://github.com/kkevsekk1/AutoX，准确地说，应该是一款自动化测试框架，它提供了完善的能力，可以帮你像调试 Web 网页一样，对当前界面中软件里的所有元素和层级进行定位，支持使用 JS 对元素节点做任意操作，例如下载图片文字、执行点击复制操作、请求数据后替换内容等等。<br><br>原理跟之前提到的跳过开屏广告的 SKIP 是一样的，在开启了无障碍服务权限后，软件可以读取到界面上所有的元素布局信息，只不过 AutoX 对元素选取、代码生成、程序执行、运行调试，包括宏录制等各个环节进行了工程化的组装，而且它提供了 VSCode 插件，可以通过局域网连接后，在电脑上编码然后手机上直接执行，所见即所得，操作起来十分便捷。该框架适用于手机的自动化测试和控制场景。<br><br>下面是一个利用 AutoX 选取目标文本的演示，拿到了元素的 ID 信息，接下来就可以到 AutoX 的编辑器开始编码了：<br><video src="https://videocdn.jellow.site/lviYAGfrufjj664yh0VO3t3yImR2.mp4?sign=999317e78ef98aa7f6213a0e5984321a&amp;t=65183759" controls=""></video>]]></description>
             <pubDate>Wed, 27 Sep 2023 14:47:42 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6514408e2a0c03ca1321c80e</guid>
             <link>https://m.okjike.com/originalPosts/6514408e2a0c03ca1321c80e</link>
@@ -170,7 +170,7 @@
         
         <item>
             <title><![CDATA[内置了一些用于快速体验应用的示例]]></title>
-            <description><![CDATA[内置了一些用于快速体验应用的示例<br><video src="https://videocdn.jellow.site/FvYJrIb_EL3IgUTvv-aA1ds4jjNZ.mp4?sign=f3dbc7d1f273d8696ffcd261c28e3aec&amp;t=6517fd5d" controls=""></video>]]></description>
+            <description><![CDATA[内置了一些用于快速体验应用的示例<br><video src="https://videocdn.jellow.site/FvYJrIb_EL3IgUTvv-aA1ds4jjNZ.mp4?sign=e3d0efc6d4aad251926c6dbe2b77146e&amp;t=65183759" controls=""></video>]]></description>
             <pubDate>Fri, 08 Sep 2023 05:05:24 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/64faab941589e4a51ad3309d</guid>
             <link>https://m.okjike.com/originalPosts/64faab941589e4a51ad3309d</link>
