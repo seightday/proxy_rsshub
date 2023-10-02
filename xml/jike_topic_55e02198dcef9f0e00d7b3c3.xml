@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 02 Oct 2023 06:52:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Oct 2023 11:02:43 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -41,6 +41,22 @@
         </item>
         
         <item>
+            <title><![CDATA[从注册海外公司到 Stripe 收款回国]]></title>
+            <description><![CDATA[<img src="https://mmbiz.qpic.cn/mmbiz_jpg/uaOubFfIayrx4C2rUdBibxkUTWb6GWsoD1WKKW40Wb3R2o9SgA6Q6RdljzyFwrvZcbhwgb9fvpfayhBAHWpIwTQ/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>                    <a href="https://mp.weixin.qq.com/s/ZVUGOiIiOTewR7wGoiUJmw?from=groupmessage&amp;scene=1&amp;subscene=10000&amp;sessionid=1696132774&amp;clicktime=1696132952&amp;enterid=1696132952&amp;ascene=1&amp;fasttmpl_type=0&amp;fasttmpl_fullversion=6875228-zh_CN-zip&amp;fasttmpl_flag=0&amp;realreporttime=1696132952594">从注册海外公司到 Stripe 收款回国</a><br>                <br>]]></description>
+            <pubDate>Sun, 01 Oct 2023 04:05:10 GMT</pubDate>
+            <guid isPermaLink="false">https://mp.weixin.qq.com/s/ZVUGOiIiOTewR7wGoiUJmw?from=groupmessage&#38;scene=1&#38;subscene=10000&#38;sessionid=1696132774&#38;clicktime=1696132952&#38;enterid=1696132952&#38;ascene=1&#38;fasttmpl_type=0&#38;fasttmpl_fullversion=6875228-zh_CN-zip&#38;fasttmpl_flag=0&#38;realreporttime=1696132952594</guid>
+            <link>https://mp.weixin.qq.com/s/ZVUGOiIiOTewR7wGoiUJmw?from=groupmessage&#38;scene=1&#38;subscene=10000&#38;sessionid=1696132774&#38;clicktime=1696132952&#38;enterid=1696132952&#38;ascene=1&#38;fasttmpl_type=0&#38;fasttmpl_fullversion=6875228-zh_CN-zip&#38;fasttmpl_flag=0&#38;realreporttime=1696132952594</link>
+            
+            
+            
+            <author><![CDATA[李守聪]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Turso(https://turso.tech/) 是个不错的 sqlite 数据库，免费容量够大，付费也不贵，cloudflare 集成简单，Prisma 也已经支持。还有一点是，支持建立一个本地数...]]></title>
             <description><![CDATA[Turso(https://turso.tech/) 是个不错的 sqlite 数据库，免费容量够大，付费也不贵，cloudflare 集成简单，Prisma 也已经支持。还有一点是，支持建立一个本地数据库和远程数据库同步，相当于可以简单地在本地实现一个只读副本。<br><br>Too good to be true.]]></description>
             <pubDate>Fri, 29 Sep 2023 03:28:16 GMT</pubDate>
@@ -50,22 +66,6 @@
             
             
             <author><![CDATA[Airyland]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[我写了个脚本，当“走了”之后（无论是什么意义上的走了）让服务器帮我自动处理一些事情，比如公开一些信息之类的操作。 原理是用过iOS快捷指令之类的，隔几天问...]]></title>
-            <description><![CDATA[我写了个脚本，当“走了”之后（无论是什么意义上的走了）让服务器帮我自动处理一些事情，比如公开一些信息之类的操作。<br>原理是用过iOS快捷指令之类的，隔几天问你还在不在。如果过了好几天都不在，就认为你“走了”，开始让服务器处理你预设好的操作。<br>我还在测试，等调好了 public 。<br><img src="https://cdnv2.ruguoapp.com/FpdOWJBW7Uv1D4g0wsYqgUk8mRQ-v3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 28 Sep 2023 16:46:46 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6515adf6f21549bc732dffe8</guid>
-            <link>https://m.okjike.com/originalPosts/6515adf6f21549bc732dffe8</link>
-            
-            
-            
-            <author><![CDATA[Likyo]]></author>
             
                 
             
@@ -106,7 +106,7 @@
         
         <item>
             <title><![CDATA[推荐一款手机屏幕控制框架，AutoX，https://github.com/kkevsekk1/AutoX，准确地说，应该是一款自动化测试框架，它提供了完善的能力，可以帮你像调试 Web 网页一...]]></title>
-            <description><![CDATA[推荐一款手机屏幕控制框架，AutoX，https://github.com/kkevsekk1/AutoX，准确地说，应该是一款自动化测试框架，它提供了完善的能力，可以帮你像调试 Web 网页一样，对当前界面中软件里的所有元素和层级进行定位，支持使用 JS 对元素节点做任意操作，例如下载图片文字、执行点击复制操作、请求数据后替换内容等等。<br><br>原理跟之前提到的跳过开屏广告的 SKIP 是一样的，在开启了无障碍服务权限后，软件可以读取到界面上所有的元素布局信息，只不过 AutoX 对元素选取、代码生成、程序执行、运行调试，包括宏录制等各个环节进行了工程化的组装，而且它提供了 VSCode 插件，可以通过局域网连接后，在电脑上编码然后手机上直接执行，所见即所得，操作起来十分便捷。该框架适用于手机的自动化测试和控制场景。<br><br>下面是一个利用 AutoX 选取目标文本的演示，拿到了元素的 ID 信息，接下来就可以到 AutoX 的编辑器开始编码了：<br><video src="https://videocdn.jellow.site/lviYAGfrufjj664yh0VO3t3yImR2.mp4?sign=ee2964e5d8249d73c170559447935902&amp;t=651a6f45" controls=""></video>]]></description>
+            <description><![CDATA[推荐一款手机屏幕控制框架，AutoX，https://github.com/kkevsekk1/AutoX，准确地说，应该是一款自动化测试框架，它提供了完善的能力，可以帮你像调试 Web 网页一样，对当前界面中软件里的所有元素和层级进行定位，支持使用 JS 对元素节点做任意操作，例如下载图片文字、执行点击复制操作、请求数据后替换内容等等。<br><br>原理跟之前提到的跳过开屏广告的 SKIP 是一样的，在开启了无障碍服务权限后，软件可以读取到界面上所有的元素布局信息，只不过 AutoX 对元素选取、代码生成、程序执行、运行调试，包括宏录制等各个环节进行了工程化的组装，而且它提供了 VSCode 插件，可以通过局域网连接后，在电脑上编码然后手机上直接执行，所见即所得，操作起来十分便捷。该框架适用于手机的自动化测试和控制场景。<br><br>下面是一个利用 AutoX 选取目标文本的演示，拿到了元素的 ID 信息，接下来就可以到 AutoX 的编辑器开始编码了：<br><video src="https://videocdn.jellow.site/lviYAGfrufjj664yh0VO3t3yImR2.mp4?sign=af629d261e268343b867cbd03ff492c3&amp;t=651aa9d3" controls=""></video>]]></description>
             <pubDate>Wed, 27 Sep 2023 14:47:42 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6514408e2a0c03ca1321c80e</guid>
             <link>https://m.okjike.com/originalPosts/6514408e2a0c03ca1321c80e</link>
@@ -170,7 +170,7 @@
         
         <item>
             <title><![CDATA[内置了一些用于快速体验应用的示例]]></title>
-            <description><![CDATA[内置了一些用于快速体验应用的示例<br><video src="https://videocdn.jellow.site/FvYJrIb_EL3IgUTvv-aA1ds4jjNZ.mp4?sign=26ae4eed9e3ecbf85e86c8e870e02bb8&amp;t=651a6f45" controls=""></video>]]></description>
+            <description><![CDATA[内置了一些用于快速体验应用的示例<br><video src="https://videocdn.jellow.site/FvYJrIb_EL3IgUTvv-aA1ds4jjNZ.mp4?sign=15f8c9c56e68e6f7d3b0192311df0de8&amp;t=651aa9d3" controls=""></video>]]></description>
             <pubDate>Fri, 08 Sep 2023 05:05:24 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/64faab941589e4a51ad3309d</guid>
             <link>https://m.okjike.com/originalPosts/64faab941589e4a51ad3309d</link>
