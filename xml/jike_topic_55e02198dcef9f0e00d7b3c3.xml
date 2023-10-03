@@ -21,12 +21,12 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 03 Oct 2023 05:37:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Oct 2023 11:41:15 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
             <title><![CDATA[把这个星空动画开源了。 🚀 源码：https://github.com/xcc3641/zhi_starry_sky 🌍 Demo：https://zhi-starry-sky.vercel.app/]]></title>
-            <description><![CDATA[把这个星空动画开源了。<br><br>🚀 源码：https://github.com/xcc3641/zhi_starry_sky<br><br>🌍 Demo：https://zhi-starry-sky.vercel.app/<br><video src="https://videocdn.jellow.site/Fgr5c5L3lYRwy98tORs1Ww4ZHQ3b.mp4?sign=2d95e8cbbddf527e2c72d482bda66cdb&amp;t=651baf71" controls=""></video>]]></description>
+            <description><![CDATA[把这个星空动画开源了。<br><br>🚀 源码：https://github.com/xcc3641/zhi_starry_sky<br><br>🌍 Demo：https://zhi-starry-sky.vercel.app/<br><video src="https://videocdn.jellow.site/Fgr5c5L3lYRwy98tORs1Ww4ZHQ3b.mp4?sign=9171d44300227f75c172f5d3700d36d6&amp;t=651c03af" controls=""></video>]]></description>
             <pubDate>Mon, 02 Oct 2023 10:21:54 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/651a99c2c70326f2eb95648c</guid>
             <link>https://m.okjike.com/originalPosts/651a99c2c70326f2eb95648c</link>
@@ -50,6 +50,22 @@
             
             
             <author><![CDATA[花果山大圣]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Git 天天用，这个图形象的说明了主要命令的作用。]]></title>
+            <description><![CDATA[Git 天天用，这个图形象的说明了主要命令的作用。<br><img src="https://cdnv2.ruguoapp.com/FhdmkmRNbYNT6AH6MUGCX1slunINv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sun, 01 Oct 2023 07:40:39 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65192277462063a41c9feb95</guid>
+            <link>https://m.okjike.com/originalPosts/65192277462063a41c9feb95</link>
+            
+            
+            
+            <author><![CDATA[北邻]]></author>
             
                 
             
@@ -82,22 +98,6 @@
             
             
             <author><![CDATA[Airyland]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[我写了个脚本，当“走了”之后（无论是什么意义上的走了）让服务器帮我自动处理一些事情，比如公开一些信息之类的操作。 原理是用过iOS快捷指令之类的，隔几天问...]]></title>
-            <description><![CDATA[我写了个脚本，当“走了”之后（无论是什么意义上的走了）让服务器帮我自动处理一些事情，比如公开一些信息之类的操作。<br>原理是用过iOS快捷指令之类的，隔几天问你还在不在。如果过了好几天都不在，就认为你“走了”，开始让服务器处理你预设好的操作。<br>我还在测试，等调好了 public 。<br><img src="https://cdnv2.ruguoapp.com/FpdOWJBW7Uv1D4g0wsYqgUk8mRQ-v3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 28 Sep 2023 16:46:46 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6515adf6f21549bc732dffe8</guid>
-            <link>https://m.okjike.com/originalPosts/6515adf6f21549bc732dffe8</link>
-            
-            
-            
-            <author><![CDATA[Likyo]]></author>
             
                 
             
@@ -138,7 +138,7 @@
         
         <item>
             <title><![CDATA[推荐一款手机屏幕控制框架，AutoX，https://github.com/kkevsekk1/AutoX，准确地说，应该是一款自动化测试框架，它提供了完善的能力，可以帮你像调试 Web 网页一...]]></title>
-            <description><![CDATA[推荐一款手机屏幕控制框架，AutoX，https://github.com/kkevsekk1/AutoX，准确地说，应该是一款自动化测试框架，它提供了完善的能力，可以帮你像调试 Web 网页一样，对当前界面中软件里的所有元素和层级进行定位，支持使用 JS 对元素节点做任意操作，例如下载图片文字、执行点击复制操作、请求数据后替换内容等等。<br><br>原理跟之前提到的跳过开屏广告的 SKIP 是一样的，在开启了无障碍服务权限后，软件可以读取到界面上所有的元素布局信息，只不过 AutoX 对元素选取、代码生成、程序执行、运行调试，包括宏录制等各个环节进行了工程化的组装，而且它提供了 VSCode 插件，可以通过局域网连接后，在电脑上编码然后手机上直接执行，所见即所得，操作起来十分便捷。该框架适用于手机的自动化测试和控制场景。<br><br>下面是一个利用 AutoX 选取目标文本的演示，拿到了元素的 ID 信息，接下来就可以到 AutoX 的编辑器开始编码了：<br><video src="https://videocdn.jellow.site/lviYAGfrufjj664yh0VO3t3yImR2.mp4?sign=db6f40767ddded81c2954c93642fceb1&amp;t=651bae36" controls=""></video>]]></description>
+            <description><![CDATA[推荐一款手机屏幕控制框架，AutoX，https://github.com/kkevsekk1/AutoX，准确地说，应该是一款自动化测试框架，它提供了完善的能力，可以帮你像调试 Web 网页一样，对当前界面中软件里的所有元素和层级进行定位，支持使用 JS 对元素节点做任意操作，例如下载图片文字、执行点击复制操作、请求数据后替换内容等等。<br><br>原理跟之前提到的跳过开屏广告的 SKIP 是一样的，在开启了无障碍服务权限后，软件可以读取到界面上所有的元素布局信息，只不过 AutoX 对元素选取、代码生成、程序执行、运行调试，包括宏录制等各个环节进行了工程化的组装，而且它提供了 VSCode 插件，可以通过局域网连接后，在电脑上编码然后手机上直接执行，所见即所得，操作起来十分便捷。该框架适用于手机的自动化测试和控制场景。<br><br>下面是一个利用 AutoX 选取目标文本的演示，拿到了元素的 ID 信息，接下来就可以到 AutoX 的编辑器开始编码了：<br><video src="https://videocdn.jellow.site/lviYAGfrufjj664yh0VO3t3yImR2.mp4?sign=815a89db09dd136bb8c3790464b77004&amp;t=651c03af" controls=""></video>]]></description>
             <pubDate>Wed, 27 Sep 2023 14:47:42 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6514408e2a0c03ca1321c80e</guid>
             <link>https://m.okjike.com/originalPosts/6514408e2a0c03ca1321c80e</link>
@@ -170,7 +170,7 @@
         
         <item>
             <title><![CDATA[内置了一些用于快速体验应用的示例]]></title>
-            <description><![CDATA[内置了一些用于快速体验应用的示例<br><video src="https://videocdn.jellow.site/FvYJrIb_EL3IgUTvv-aA1ds4jjNZ.mp4?sign=b017e2ca2dcf52560453ebb7f5f78be7&amp;t=651bae35" controls=""></video>]]></description>
+            <description><![CDATA[内置了一些用于快速体验应用的示例<br><video src="https://videocdn.jellow.site/FvYJrIb_EL3IgUTvv-aA1ds4jjNZ.mp4?sign=eb3e0b759569c853e299e3c8d1ae0d2e&amp;t=651c03af" controls=""></video>]]></description>
             <pubDate>Fri, 08 Sep 2023 05:05:24 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/64faab941589e4a51ad3309d</guid>
             <link>https://m.okjike.com/originalPosts/64faab941589e4a51ad3309d</link>
