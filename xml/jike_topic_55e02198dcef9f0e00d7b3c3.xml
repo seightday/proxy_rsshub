@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
-
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
 
 >
     <channel>
         <title><![CDATA[JitHub程序员 - 即刻圈子]]></title>
         <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
-        <atom:link href="https://rsshub.app/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
         <description><![CDATA[开发者们分享，问答，也可以交友的地方。欢迎所有工程师！ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -21,19 +20,19 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 04 Oct 2023 15:06:43 GMT</lastBuildDate>
-        <ttl>120</ttl>
+        <lastBuildDate>Wed, 04 Oct 2023 20:13:27 GMT</lastBuildDate>
+        <ttl>1</ttl>
         
         <item>
             <title><![CDATA[双十一技术人们都有啥东西想买么！]]></title>
-            <description><![CDATA[双十一技术人们都有啥东西想买么！<br><img src="https://cdnv2.ruguoapp.com/FhpEqSeitYjMsw9VA2C1JJCiYEGMv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[<br>双十一技术人们都有啥东西想买么！<br><picture><source srcset="https://cdnv2.ruguoapp.com/FhpEqSeitYjMsw9VA2C1JJCiYEGMv3.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/FhpEqSeitYjMsw9VA2C1JJCiYEGMv3.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/FhpEqSeitYjMsw9VA2C1JJCiYEGMv3.jpg"></picture>]]></description>
             <pubDate>Wed, 04 Oct 2023 11:41:52 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/651d4f804101002b06a54244</guid>
             <link>https://m.okjike.com/originalPosts/651d4f804101002b06a54244</link>
             
             
             
-            <author><![CDATA[非凡是在下本名]]></author>
+            
             
                 
             
@@ -42,14 +41,14 @@
         
         <item>
             <title><![CDATA[最近用Cloudflare的zero trust把部署在家里的服务暴露到公网相当好用。鉴权什么的也都有了]]></title>
-            <description><![CDATA[最近用Cloudflare的zero trust把部署在家里的服务暴露到公网相当好用。鉴权什么的也都有了]]></description>
+            <description><![CDATA[<br>最近用Cloudflare的zero trust把部署在家里的服务暴露到公网相当好用。鉴权什么的也都有了]]></description>
             <pubDate>Wed, 04 Oct 2023 10:20:02 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/651d3c521589e4a51acd97dc</guid>
             <link>https://m.okjike.com/originalPosts/651d3c521589e4a51acd97dc</link>
             
             
             
-            <author><![CDATA[0neSe7en]]></author>
+            
             
                 
             
@@ -57,15 +56,17 @@
         </item>
         
         <item>
-            <title><![CDATA[https://www.npmjs.com/package/npkill 分享一个小工具，帮你快速检查和删除 node_modules，释放磁盘空间。]]></title>
-            <description><![CDATA[https://www.npmjs.com/package/npkill<br><br>分享一个小工具，帮你快速检查和删除 node_modules，释放磁盘空间。]]></description>
+            <title><![CDATA[https://www.npmjs.com/package/npkill
+
+分享一个小工具，帮你快速检查和删除 node_modules，释放磁盘空间。]]></title>
+            <description><![CDATA[<br>https://www.npmjs.com/package/npkill<br><br>分享一个小工具，帮你快速检查和删除 node_modules，释放磁盘空间。]]></description>
             <pubDate>Wed, 04 Oct 2023 01:24:02 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/651cbeb24101002b06977083</guid>
             <link>https://m.okjike.com/originalPosts/651cbeb24101002b06977083</link>
             
             
             
-            <author><![CDATA[也树]]></author>
+            
             
                 
             
@@ -74,14 +75,14 @@
         
         <item>
             <title><![CDATA[之前身体情况很严重，后来做手术恢复了一大部分，软件工程硕士毕业了，没有成功入职大学老师，面试通过了，身体问题被无情拒绝。于是开始在互联网领域创业，和阿...]]></title>
-            <description><![CDATA[之前身体情况很严重，后来做手术恢复了一大部分，软件工程硕士毕业了，没有成功入职大学老师，面试通过了，身体问题被无情拒绝。于是开始在互联网领域创业，和阿里巴巴和华为的朋友开了个公司合肥梦幻时空科技有限公司，做背单词软件闪记词典，接小程序开发网站开发APP开发业务，做家教教英语。忙的不亦乐乎。我对那个民办大学拒绝我的事情看的很轻，感觉就和肯德基拒绝马云一样，没关系，哈哈。大家怎么看，支持吗？后续还可能会做相亲交友和远程工作平台，相亲交友有个板块残障融合，是不嫌弃残障人士有爱心善良的健全人和cj人的相亲，我知道很少，但是残障融合不能只是挂在嘴上说，不只是口号。当然也可以残障人士找残障人士，自由选择。还有远程工作平台，有部分残障人士身体不方便，居家远程工作很适合。相亲交友软件和居家工作平台开发中，敬请期待。目前已经启动的是软件开发接单业务，会软件开发的朋友可以私聊我，不会的可以去哔哩哔哩看视频学习，实在不会的私聊我找我的老师学习。]]></description>
+            <description><![CDATA[<br>之前身体情况很严重，后来做手术恢复了一大部分，软件工程硕士毕业了，没有成功入职大学老师，面试通过了，身体问题被无情拒绝。于是开始在互联网领域创业，和阿里巴巴和华为的朋友开了个公司合肥梦幻时空科技有限公司，做背单词软件闪记词典，接小程序开发网站开发APP开发业务，做家教教英语。忙的不亦乐乎。我对那个民办大学拒绝我的事情看的很轻，感觉就和肯德基拒绝马云一样，没关系，哈哈。大家怎么看，支持吗？后续还可能会做相亲交友和远程工作平台，相亲交友有个板块残障融合，是不嫌弃残障人士有爱心善良的健全人和cj人的相亲，我知道很少，但是残障融合不能只是挂在嘴上说，不只是口号。当然也可以残障人士找残障人士，自由选择。还有远程工作平台，有部分残障人士身体不方便，居家远程工作很适合。相亲交友软件和居家工作平台开发中，敬请期待。目前已经启动的是软件开发接单业务，会软件开发的朋友可以私聊我，不会的可以去哔哩哔哩看视频学习，实在不会的私聊我找我的老师学习。]]></description>
             <pubDate>Tue, 03 Oct 2023 12:46:30 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/651c0d2605145f31e514f080</guid>
             <link>https://m.okjike.com/originalPosts/651c0d2605145f31e514f080</link>
             
             
             
-            <author><![CDATA[李守聪]]></author>
+            
             
                 
             
@@ -89,15 +90,19 @@
         </item>
         
         <item>
-            <title><![CDATA[把这个星空动画开源了。 🚀 源码：https://github.com/xcc3641/zhi_starry_sky 🌍 Demo：https://zhi-starry-sky.vercel.app/]]></title>
-            <description><![CDATA[把这个星空动画开源了。<br><br>🚀 源码：https://github.com/xcc3641/zhi_starry_sky<br><br>🌍 Demo：https://zhi-starry-sky.vercel.app/<br><video src="https://videocdn.jellow.site/Fgr5c5L3lYRwy98tORs1Ww4ZHQ3b.mp4?sign=b148274e3ed6a39bdefb469ed1c039e9&amp;t=651d868b" controls=""></video>]]></description>
+            <title><![CDATA[把这个星空动画开源了。
+
+🚀 源码：https://github.com/xcc3641/zhi_starry_sky
+
+🌍 Demo：https://zhi-starry-sky.vercel.app/]]></title>
+            <description><![CDATA[<br>把这个星空动画开源了。<br><br>🚀 源码：https://github.com/xcc3641/zhi_starry_sky<br><br>🌍 Demo：https://zhi-starry-sky.vercel.app/]]></description>
             <pubDate>Mon, 02 Oct 2023 10:21:54 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/651a99c2c70326f2eb95648c</guid>
             <link>https://m.okjike.com/originalPosts/651a99c2c70326f2eb95648c</link>
             
             
             
-            <author><![CDATA[谢广志]]></author>
+            
             
                 
             
@@ -105,15 +110,16 @@
         </item>
         
         <item>
-            <title><![CDATA[最近房车环游山东，主要目的就是测试下能否适应房车的生活，能适应就开始程序员环游中国行，最近感觉良好，比网上说的体验好多了 0. 房车情况，五十铃700P轻卡底...]]></title>
-            <description><![CDATA[最近房车环游山东，主要目的就是测试下能否适应房车的生活，能适应就开始程序员环游中国行，最近感觉良好，比网上说的体验好多了<br>0. 房车情况，五十铃700P轻卡底盘，长度5.99，高度3.3米，C1蓝本，小客车，节假日也是高速免费，自动挡，测拓打开后空间还不错<br>1. 娃，娃安全座椅，我觉得房车最大的优势就是可以带五个月大的娃出行，他如果拉了可以随时给他洗屁股，闹了随时驻车喂他+睡觉，完全不怕堵车<br>2. 驻车，可能是山东比较好客，我感觉哪里都可以驻车过夜，旅游景点，博物馆，烧烤城停车场，都可以过夜，还安全<br>3. 用水，水管直接厕所补水+水袋够用，饮用水超市买大桶水，灰水箱不定期排驻车地草坪即可，黑水箱用降解剂倒公厕，也没啥异味<br>4. 用电，车上10度电基本够用2~3天，行车发电+太阳能还不错，很多停车场都有充电桩，一个转接头解决，非常方便<br>5. 睡觉，都是家里用的四件套，和睡家里区别不大，隔音也不错，很舒服<br>6. 吃饭，小米电磁炉+电饭锅+卡式炉（便携气罐）+当地美食完全够用，吃的很舒服<br>7. 办公，卡座写代码，华为移动wifi+物联网卡完全够用，直播都不卡<br>淄博，潍坊，烟台，威海，青岛，玩一圈回北京补充物资，继续出发<br><img src="https://cdnv2.ruguoapp.com/FnC935-bU6wxlzIIgW2c803EjHp2v3.png" referrerpolicy="no-referrer">]]></description>
+            <title><![CDATA[最近房车环游山东，主要目的就是测试下能否适应房车的生活，能适应就开始程序员环游中国行，最近感觉良好，比网上说的体验好多了
+0. 房车情况，五十铃700P轻卡底...]]></title>
+            <description><![CDATA[<br>最近房车环游山东，主要目的就是测试下能否适应房车的生活，能适应就开始程序员环游中国行，最近感觉良好，比网上说的体验好多了<br>0. 房车情况，五十铃700P轻卡底盘，长度5.99，高度3.3米，C1蓝本，小客车，节假日也是高速免费，自动挡，测拓打开后空间还不错<br>1. 娃，娃安全座椅，我觉得房车最大的优势就是可以带五个月大的娃出行，他如果拉了可以随时给他洗屁股，闹了随时驻车喂他+睡觉，完全不怕堵车<br>2. 驻车，可能是山东比较好客，我感觉哪里都可以驻车过夜，旅游景点，博物馆，烧烤城停车场，都可以过夜，还安全<br>3. 用水，水管直接厕所补水+水袋够用，饮用水超市买大桶水，灰水箱不定期排驻车地草坪即可，黑水箱用降解剂倒公厕，也没啥异味<br>4. 用电，车上10度电基本够用2~3天，行车发电+太阳能还不错，很多停车场都有充电桩，一个转接头解决，非常方便<br>5. 睡觉，都是家里用的四件套，和睡家里区别不大，隔音也不错，很舒服<br>6. 吃饭，小米电磁炉+电饭锅+卡式炉（便携气罐）+当地美食完全够用，吃的很舒服<br>7. 办公，卡座写代码，华为移动wifi+物联网卡完全够用，直播都不卡<br>淄博，潍坊，烟台，威海，青岛，玩一圈回北京补充物资，继续出发<br><picture><source srcset="https://cdnv2.ruguoapp.com/FnC935-bU6wxlzIIgW2c803EjHp2v3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/FnC935-bU6wxlzIIgW2c803EjHp2v3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/FnC935-bU6wxlzIIgW2c803EjHp2v3.png"></picture>]]></description>
             <pubDate>Sun, 01 Oct 2023 13:35:49 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/651975b5c9ddb2a2a3ebb197</guid>
             <link>https://m.okjike.com/originalPosts/651975b5c9ddb2a2a3ebb197</link>
             
             
             
-            <author><![CDATA[花果山大圣]]></author>
+            
             
                 
             
@@ -122,14 +128,14 @@
         
         <item>
             <title><![CDATA[Turso(https://turso.tech/) 是个不错的 sqlite 数据库，免费容量够大，付费也不贵，cloudflare 集成简单，Prisma 也已经支持。还有一点是，支持建立一个本地数...]]></title>
-            <description><![CDATA[Turso(https://turso.tech/) 是个不错的 sqlite 数据库，免费容量够大，付费也不贵，cloudflare 集成简单，Prisma 也已经支持。还有一点是，支持建立一个本地数据库和远程数据库同步，相当于可以简单地在本地实现一个只读副本。<br><br>Too good to be true.]]></description>
+            <description><![CDATA[<br>Turso(https://turso.tech/) 是个不错的 sqlite 数据库，免费容量够大，付费也不贵，cloudflare 集成简单，Prisma 也已经支持。还有一点是，支持建立一个本地数据库和远程数据库同步，相当于可以简单地在本地实现一个只读副本。<br><br>Too good to be true.]]></description>
             <pubDate>Fri, 29 Sep 2023 03:28:16 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/651644502a0c03ca134c8f96</guid>
             <link>https://m.okjike.com/originalPosts/651644502a0c03ca134c8f96</link>
             
             
             
-            <author><![CDATA[Airyland]]></author>
+            
             
                 
             
@@ -137,15 +143,17 @@
         </item>
         
         <item>
-            <title><![CDATA[互联网之光 Cloudflare 最近发布了非常多的功能更新。这周是它的 #BirthdayWeek，它已经诞生13年了。 它将自己的目标定为 to help build a better Internet 并且...]]></title>
-            <description><![CDATA[互联网之光 Cloudflare 最近发布了非常多的功能更新。这周是它的 #BirthdayWeek，它已经诞生13年了。 <br><br>它将自己的目标定为 to help build a better Internet 并且在务实创新地持续实现。<br><br>https://twitter.com/Cloudflare]]></description>
+            <title><![CDATA[互联网之光 Cloudflare 最近发布了非常多的功能更新。这周是它的 #BirthdayWeek，它已经诞生13年了。 
+
+它将自己的目标定为 to help build a better Internet 并...]]></title>
+            <description><![CDATA[<br>互联网之光 Cloudflare 最近发布了非常多的功能更新。这周是它的 #BirthdayWeek，它已经诞生13年了。 <br><br>它将自己的目标定为 to help build a better Internet 并且在务实创新地持续实现。<br><br>https://twitter.com/Cloudflare]]></description>
             <pubDate>Thu, 28 Sep 2023 13:56:36 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/65158614c70326f2eb2eebde</guid>
             <link>https://m.okjike.com/originalPosts/65158614c70326f2eb2eebde</link>
             
             
             
-            <author><![CDATA[Airyland]]></author>
+            
             
                 
             
@@ -153,15 +161,21 @@
         </item>
         
         <item>
-            <title><![CDATA[关于网站备案、域名备案的一点科普 大家好，我是哥飞。 今天跟大家聊点轻松的，分享关于网站备案、域名备案的一些小知识，小经验。 到目前为止，总共有过三个版...]]></title>
-            <description><![CDATA[关于网站备案、域名备案的一点科普<br><br>大家好，我是哥飞。<br><br>今天跟大家聊点轻松的，分享关于网站备案、域名备案的一些小知识，小经验。<br><br>到目前为止，总共有过三个版本的备案系统，目前正在用的是刚刚九月份上线的第三版备案系统，在之前网站备案的基础上，增加了App、小程序、快应用备案。<br><br>严格来说，网站备案，其实是域名备案，一个域名备案之后，一般只做一个网站，当然也可以做多个网站。<br><br>所以后面我们有时候说网站有时候说域名，可以认为是等价的。<br><br>第一阶段：不需要备案<br><br>在2005年之前，国内做网站是不需要备案的。<br><br>也就是说，你可以随时注册一个域名，快速做好网站，快速上线。<br><br>第二阶段：第一版备案系统<br><br>工信部备案系统第一版是2005年2月8日开始启用的。<br><br>在那之后，站长需要自己在工信部备案系统上注册账号，提交备案信息，然后由各地管局审核，最后拿到备案号。<br><br>那时候对于接入管理不严格，只要你备案时选择了一个接入商，拿到了备案号，那么你后面把域名解析到别的云服务商也没有问题，可以正常使用。<br><br>甚至有些公司自建的机房，可以不遵守备案规则，不备案也可以使用。<br><br>当然，前提是没有被巡查发现，如果发现了会要求你整改。<br><br>这一版系统，不要求域名进行实名认证，所以可以使用国外域名注册商注册的域名。<br><br>第三阶段：第二版备案系统<br><br>2010年6月19日，第一版备案系统宣布暂停接收备案申请，要进行系统升级。同年8月20日，第二版备案系统上线。<br><br>从第二版系统开始，大家备案不用直接登录到工信部备案系统提交资料了。<br><br>而是由各个云服务接入商——如阿里云、腾讯云等——做一套代备案系统与工信部备案系统接口对接。<br><br>然后用户在代备案系统里提交资料进行备案，对于已备案的网站，可以一键导入到代备案系统里。<br><br>从第二版系统开始，就严格执行接入制度了，也就是说，你的域名在阿里云备案了，后面如果要在腾讯云使用，还需要再做一次接入备案。<br><br>更直观一点说，第一版备案系统，一个域名只跟一个接入商绑定，第二版系统，一个域名可以与多个接入商绑定。<br><br>从这一版开始，要求备案的域名先进行实名认证，而只有国内的域名注册商对接了工信部备案接口，可以同步域名实名信息到备案系统，所以想要备案，就必须在国内域名注册商处注册域名了。<br><br>第四阶段：第三版备案系统<br><br>第三版备案系统正式在2023年9月1日启用。<br><br>这版系统其实是基于第二版系统进行升级扩展得到的。<br><br>相对于第二版系统，在网站备案的基础上，增加了App、小程序、快应用备案。<br><br>网站备案依然还是之前的操作，App备案的话，需要选择App内使用的SDK，还需要选择API所使用的接入商。<br><br>小程序备案直接在微信公众平台小程序后台实现，暂时还没有对大家开放，不过已经可以看到有些腾讯系的小程序已经备案了。<br><img src="https://cdnv2.ruguoapp.com/Fr3eAsV1ZFHHCFVjYvcvLOPPIhHAv3.png" referrerpolicy="no-referrer">]]></description>
+            <title><![CDATA[关于网站备案、域名备案的一点科普
+
+大家好，我是哥飞。
+
+今天跟大家聊点轻松的，分享关于网站备案、域名备案的一些小知识，小经验。
+
+到目前为止，总共有过三个...]]></title>
+            <description><![CDATA[<br>关于网站备案、域名备案的一点科普<br><br>大家好，我是哥飞。<br><br>今天跟大家聊点轻松的，分享关于网站备案、域名备案的一些小知识，小经验。<br><br>到目前为止，总共有过三个版本的备案系统，目前正在用的是刚刚九月份上线的第三版备案系统，在之前网站备案的基础上，增加了App、小程序、快应用备案。<br><br>严格来说，网站备案，其实是域名备案，一个域名备案之后，一般只做一个网站，当然也可以做多个网站。<br><br>所以后面我们有时候说网站有时候说域名，可以认为是等价的。<br><br>第一阶段：不需要备案<br><br>在2005年之前，国内做网站是不需要备案的。<br><br>也就是说，你可以随时注册一个域名，快速做好网站，快速上线。<br><br>第二阶段：第一版备案系统<br><br>工信部备案系统第一版是2005年2月8日开始启用的。<br><br>在那之后，站长需要自己在工信部备案系统上注册账号，提交备案信息，然后由各地管局审核，最后拿到备案号。<br><br>那时候对于接入管理不严格，只要你备案时选择了一个接入商，拿到了备案号，那么你后面把域名解析到别的云服务商也没有问题，可以正常使用。<br><br>甚至有些公司自建的机房，可以不遵守备案规则，不备案也可以使用。<br><br>当然，前提是没有被巡查发现，如果发现了会要求你整改。<br><br>这一版系统，不要求域名进行实名认证，所以可以使用国外域名注册商注册的域名。<br><br>第三阶段：第二版备案系统<br><br>2010年6月19日，第一版备案系统宣布暂停接收备案申请，要进行系统升级。同年8月20日，第二版备案系统上线。<br><br>从第二版系统开始，大家备案不用直接登录到工信部备案系统提交资料了。<br><br>而是由各个云服务接入商——如阿里云、腾讯云等——做一套代备案系统与工信部备案系统接口对接。<br><br>然后用户在代备案系统里提交资料进行备案，对于已备案的网站，可以一键导入到代备案系统里。<br><br>从第二版系统开始，就严格执行接入制度了，也就是说，你的域名在阿里云备案了，后面如果要在腾讯云使用，还需要再做一次接入备案。<br><br>更直观一点说，第一版备案系统，一个域名只跟一个接入商绑定，第二版系统，一个域名可以与多个接入商绑定。<br><br>从这一版开始，要求备案的域名先进行实名认证，而只有国内的域名注册商对接了工信部备案接口，可以同步域名实名信息到备案系统，所以想要备案，就必须在国内域名注册商处注册域名了。<br><br>第四阶段：第三版备案系统<br><br>第三版备案系统正式在2023年9月1日启用。<br><br>这版系统其实是基于第二版系统进行升级扩展得到的。<br><br>相对于第二版系统，在网站备案的基础上，增加了App、小程序、快应用备案。<br><br>网站备案依然还是之前的操作，App备案的话，需要选择App内使用的SDK，还需要选择API所使用的接入商。<br><br>小程序备案直接在微信公众平台小程序后台实现，暂时还没有对大家开放，不过已经可以看到有些腾讯系的小程序已经备案了。<br><picture><source srcset="https://cdnv2.ruguoapp.com/Fr3eAsV1ZFHHCFVjYvcvLOPPIhHAv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/Fr3eAsV1ZFHHCFVjYvcvLOPPIhHAv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/Fr3eAsV1ZFHHCFVjYvcvLOPPIhHAv3.png"></picture>]]></description>
             <pubDate>Mon, 11 Sep 2023 00:44:45 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/64fe62fdc70326f2eb2121f8</guid>
             <link>https://m.okjike.com/originalPosts/64fe62fdc70326f2eb2121f8</link>
             
             
             
-            <author><![CDATA[哥飞]]></author>
+            
             
                 
             
@@ -170,14 +184,14 @@
         
         <item>
             <title><![CDATA[内置了一些用于快速体验应用的示例]]></title>
-            <description><![CDATA[内置了一些用于快速体验应用的示例<br><video src="https://videocdn.jellow.site/FvYJrIb_EL3IgUTvv-aA1ds4jjNZ.mp4?sign=3df9cc5c1827e50275b65a86fe09e326&amp;t=651d868b" controls=""></video>]]></description>
+            <description><![CDATA[<br>内置了一些用于快速体验应用的示例]]></description>
             <pubDate>Fri, 08 Sep 2023 05:05:24 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/64faab941589e4a51ad3309d</guid>
             <link>https://m.okjike.com/originalPosts/64faab941589e4a51ad3309d</link>
             
             
             
-            <author><![CDATA[沈毅]]></author>
+            
             
                 
             
