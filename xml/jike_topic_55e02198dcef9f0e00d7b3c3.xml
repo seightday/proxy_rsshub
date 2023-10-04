@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 04 Oct 2023 02:31:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Oct 2023 06:36:11 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[https://www.npmjs.com/package/npkill 分享一个小工具，帮你快速检查和删除 node_modules，释放磁盘空间。]]></title>
+            <description><![CDATA[https://www.npmjs.com/package/npkill<br><br>分享一个小工具，帮你快速检查和删除 node_modules，释放磁盘空间。]]></description>
+            <pubDate>Wed, 04 Oct 2023 01:24:02 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/651cbeb24101002b06977083</guid>
+            <link>https://m.okjike.com/originalPosts/651cbeb24101002b06977083</link>
+            
+            
+            
+            <author><![CDATA[也树]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[之前身体情况很严重，后来做手术恢复了一大部分，软件工程硕士毕业了，没有成功入职大学老师，面试通过了，身体问题被无情拒绝。于是开始在互联网领域创业，和阿...]]></title>
@@ -42,7 +58,7 @@
         
         <item>
             <title><![CDATA[把这个星空动画开源了。 🚀 源码：https://github.com/xcc3641/zhi_starry_sky 🌍 Demo：https://zhi-starry-sky.vercel.app/]]></title>
-            <description><![CDATA[把这个星空动画开源了。<br><br>🚀 源码：https://github.com/xcc3641/zhi_starry_sky<br><br>🌍 Demo：https://zhi-starry-sky.vercel.app/<br><video src="https://videocdn.jellow.site/Fgr5c5L3lYRwy98tORs1Ww4ZHQ3b.mp4?sign=a4cc176a23686bf0e17847250e6a7837&amp;t=651cd53c" controls=""></video>]]></description>
+            <description><![CDATA[把这个星空动画开源了。<br><br>🚀 源码：https://github.com/xcc3641/zhi_starry_sky<br><br>🌍 Demo：https://zhi-starry-sky.vercel.app/<br><video src="https://videocdn.jellow.site/Fgr5c5L3lYRwy98tORs1Ww4ZHQ3b.mp4?sign=cc064bcc94042391d852a2e05d37fe5e&amp;t=651d0de4" controls=""></video>]]></description>
             <pubDate>Mon, 02 Oct 2023 10:21:54 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/651a99c2c70326f2eb95648c</guid>
             <link>https://m.okjike.com/originalPosts/651a99c2c70326f2eb95648c</link>
@@ -137,22 +153,6 @@
         </item>
         
         <item>
-            <title><![CDATA[对于做独立开发的同路人们来说，运营固然是重中之重，但是技术也在大家实现想法的路上占了很大的一部分，甚至也成为了很多独立产品发展的阻力。😔 所以我们策...]]></title>
-            <description><![CDATA[对于做独立开发的同路人们来说，运营固然是重中之重，但是技术也在大家实现想法的路上占了很大的一部分，甚至也成为了很多独立产品发展的阻力。😔<br>所以我们策划了这期文章，希望尽自己的绵薄之力为大家带来一份适合独立产品的技术架构分享，也希望这篇文章给永远在重构路上的你带来一点点的灵感。❤️<br> <br>文章链接：https://suoxing.noto.so/dev/travelog/arch<br><img src="https://cdnv2.ruguoapp.com/Fokw59awKoK1uLE8-Dxcjb9GkWo6v3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 28 Sep 2023 08:23:49 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6515381515391e4bc7907dad</guid>
-            <link>https://m.okjike.com/originalPosts/6515381515391e4bc7907dad</link>
-            
-            
-            
-            <author><![CDATA[Wi-Fi信号覆盖]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[关于网站备案、域名备案的一点科普 大家好，我是哥飞。 今天跟大家聊点轻松的，分享关于网站备案、域名备案的一些小知识，小经验。 到目前为止，总共有过三个版...]]></title>
             <description><![CDATA[关于网站备案、域名备案的一点科普<br><br>大家好，我是哥飞。<br><br>今天跟大家聊点轻松的，分享关于网站备案、域名备案的一些小知识，小经验。<br><br>到目前为止，总共有过三个版本的备案系统，目前正在用的是刚刚九月份上线的第三版备案系统，在之前网站备案的基础上，增加了App、小程序、快应用备案。<br><br>严格来说，网站备案，其实是域名备案，一个域名备案之后，一般只做一个网站，当然也可以做多个网站。<br><br>所以后面我们有时候说网站有时候说域名，可以认为是等价的。<br><br>第一阶段：不需要备案<br><br>在2005年之前，国内做网站是不需要备案的。<br><br>也就是说，你可以随时注册一个域名，快速做好网站，快速上线。<br><br>第二阶段：第一版备案系统<br><br>工信部备案系统第一版是2005年2月8日开始启用的。<br><br>在那之后，站长需要自己在工信部备案系统上注册账号，提交备案信息，然后由各地管局审核，最后拿到备案号。<br><br>那时候对于接入管理不严格，只要你备案时选择了一个接入商，拿到了备案号，那么你后面把域名解析到别的云服务商也没有问题，可以正常使用。<br><br>甚至有些公司自建的机房，可以不遵守备案规则，不备案也可以使用。<br><br>当然，前提是没有被巡查发现，如果发现了会要求你整改。<br><br>这一版系统，不要求域名进行实名认证，所以可以使用国外域名注册商注册的域名。<br><br>第三阶段：第二版备案系统<br><br>2010年6月19日，第一版备案系统宣布暂停接收备案申请，要进行系统升级。同年8月20日，第二版备案系统上线。<br><br>从第二版系统开始，大家备案不用直接登录到工信部备案系统提交资料了。<br><br>而是由各个云服务接入商——如阿里云、腾讯云等——做一套代备案系统与工信部备案系统接口对接。<br><br>然后用户在代备案系统里提交资料进行备案，对于已备案的网站，可以一键导入到代备案系统里。<br><br>从第二版系统开始，就严格执行接入制度了，也就是说，你的域名在阿里云备案了，后面如果要在腾讯云使用，还需要再做一次接入备案。<br><br>更直观一点说，第一版备案系统，一个域名只跟一个接入商绑定，第二版系统，一个域名可以与多个接入商绑定。<br><br>从这一版开始，要求备案的域名先进行实名认证，而只有国内的域名注册商对接了工信部备案接口，可以同步域名实名信息到备案系统，所以想要备案，就必须在国内域名注册商处注册域名了。<br><br>第四阶段：第三版备案系统<br><br>第三版备案系统正式在2023年9月1日启用。<br><br>这版系统其实是基于第二版系统进行升级扩展得到的。<br><br>相对于第二版系统，在网站备案的基础上，增加了App、小程序、快应用备案。<br><br>网站备案依然还是之前的操作，App备案的话，需要选择App内使用的SDK，还需要选择API所使用的接入商。<br><br>小程序备案直接在微信公众平台小程序后台实现，暂时还没有对大家开放，不过已经可以看到有些腾讯系的小程序已经备案了。<br><img src="https://cdnv2.ruguoapp.com/Fr3eAsV1ZFHHCFVjYvcvLOPPIhHAv3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Mon, 11 Sep 2023 00:44:45 GMT</pubDate>
@@ -170,7 +170,7 @@
         
         <item>
             <title><![CDATA[内置了一些用于快速体验应用的示例]]></title>
-            <description><![CDATA[内置了一些用于快速体验应用的示例<br><video src="https://videocdn.jellow.site/FvYJrIb_EL3IgUTvv-aA1ds4jjNZ.mp4?sign=20a87d17e76dd765135e07049b78d460&amp;t=651cd53c" controls=""></video>]]></description>
+            <description><![CDATA[内置了一些用于快速体验应用的示例<br><video src="https://videocdn.jellow.site/FvYJrIb_EL3IgUTvv-aA1ds4jjNZ.mp4?sign=f2fc42e679bb106a78ca8d4290c667f0&amp;t=651d0dfc" controls=""></video>]]></description>
             <pubDate>Fri, 08 Sep 2023 05:05:24 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/64faab941589e4a51ad3309d</guid>
             <link>https://m.okjike.com/originalPosts/64faab941589e4a51ad3309d</link>
