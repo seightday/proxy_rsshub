@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 04 Oct 2023 23:35:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Oct 2023 04:13:38 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -50,6 +50,22 @@
             
             
             <author><![CDATA[0neSe7en]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[存储日报(2023.10.4) 今日主题：使用Rust编写的基于S3协议的分布式对象存储Garage。 Garage实现了Amazon S3协议，这是一个事实上的标准，能够与大量现有软件兼容...]]></title>
+            <description><![CDATA[存储日报(2023.10.4)<br>今日主题：使用Rust编写的基于S3协议的分布式对象存储Garage。<br>Garage实现了Amazon S3协议，这是一个事实上的标准，能够与大量现有软件兼容。它可以用作许多自托管web应用程序(如NextCloud, Matrix, Mastodon, Peertube等)的存储后端，用分布式存储层取代服务器的本地文件系统。Garage还可以用于同步文件或使用Rclone或resttic等实用程序存储备份。也可以用来托管静态网站。<br><br>Rust越来越流行的今天，如果有同学想要结合实际的分布式存储项目的案例来学习，这是个很好的机会。<br><br>· 简介：https://garagehq.deuxfleurs.fr/blog/2022-introducing-garage/<br>· 代码仓库：https://git.deuxfleurs.fr/Deuxfleurs/garage<br>· 主要文档：https://garagehq.deuxfleurs.fr/documentation/design/internals/]]></description>
+            <pubDate>Wed, 04 Oct 2023 03:47:38 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/651ce05af21549bc73be6c13</guid>
+            <link>https://m.okjike.com/originalPosts/651ce05af21549bc73be6c13</link>
+            
+            
+            
+            <author><![CDATA[大脑大爆炸]]></author>
             
                 
             
@@ -90,7 +106,7 @@
         
         <item>
             <title><![CDATA[把这个星空动画开源了。 🚀 源码：https://github.com/xcc3641/zhi_starry_sky 🌍 Demo：https://zhi-starry-sky.vercel.app/]]></title>
-            <description><![CDATA[把这个星空动画开源了。<br><br>🚀 源码：https://github.com/xcc3641/zhi_starry_sky<br><br>🌍 Demo：https://zhi-starry-sky.vercel.app/<br><video src="https://videocdn.jellow.site/Fgr5c5L3lYRwy98tORs1Ww4ZHQ3b.mp4?sign=5f6766527aaf0cafcfba2cfa8107f0b9&amp;t=651dfd62" controls=""></video>]]></description>
+            <description><![CDATA[把这个星空动画开源了。<br><br>🚀 源码：https://github.com/xcc3641/zhi_starry_sky<br><br>🌍 Demo：https://zhi-starry-sky.vercel.app/<br><video src="https://videocdn.jellow.site/Fgr5c5L3lYRwy98tORs1Ww4ZHQ3b.mp4?sign=0976e24be58f789eda8b96d4af94284f&amp;t=651e3e35" controls=""></video>]]></description>
             <pubDate>Mon, 02 Oct 2023 10:21:54 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/651a99c2c70326f2eb95648c</guid>
             <link>https://m.okjike.com/originalPosts/651a99c2c70326f2eb95648c</link>
@@ -114,22 +130,6 @@
             
             
             <author><![CDATA[花果山大圣]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Turso(https://turso.tech/) 是个不错的 sqlite 数据库，免费容量够大，付费也不贵，cloudflare 集成简单，Prisma 也已经支持。还有一点是，支持建立一个本地数...]]></title>
-            <description><![CDATA[Turso(https://turso.tech/) 是个不错的 sqlite 数据库，免费容量够大，付费也不贵，cloudflare 集成简单，Prisma 也已经支持。还有一点是，支持建立一个本地数据库和远程数据库同步，相当于可以简单地在本地实现一个只读副本。<br><br>Too good to be true.]]></description>
-            <pubDate>Fri, 29 Sep 2023 03:28:16 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/651644502a0c03ca134c8f96</guid>
-            <link>https://m.okjike.com/originalPosts/651644502a0c03ca134c8f96</link>
-            
-            
-            
-            <author><![CDATA[Airyland]]></author>
             
                 
             
@@ -170,7 +170,7 @@
         
         <item>
             <title><![CDATA[内置了一些用于快速体验应用的示例]]></title>
-            <description><![CDATA[内置了一些用于快速体验应用的示例<br><video src="https://videocdn.jellow.site/FvYJrIb_EL3IgUTvv-aA1ds4jjNZ.mp4?sign=f0776618cf81263f4406f3bf9fc5a36e&amp;t=651dfd62" controls=""></video>]]></description>
+            <description><![CDATA[内置了一些用于快速体验应用的示例<br><video src="https://videocdn.jellow.site/FvYJrIb_EL3IgUTvv-aA1ds4jjNZ.mp4?sign=ed5823bc02e94486df7fff6bf230ca53&amp;t=651e3e35" controls=""></video>]]></description>
             <pubDate>Fri, 08 Sep 2023 05:05:24 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/64faab941589e4a51ad3309d</guid>
             <link>https://m.okjike.com/originalPosts/64faab941589e4a51ad3309d</link>
