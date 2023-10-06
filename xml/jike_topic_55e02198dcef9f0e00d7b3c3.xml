@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 05 Oct 2023 19:04:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Oct 2023 23:34:34 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[有人在mac上用unity那？为啥vscode装上总是有各种 .NET的问题]]></title>
+            <description><![CDATA[有人在mac上用unity那？为啥vscode装上总是有各种 .NET的问题]]></description>
+            <pubDate>Thu, 05 Oct 2023 13:52:12 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/651ebf8cdfd4a5ca53a06821</guid>
+            <link>https://m.okjike.com/originalPosts/651ebf8cdfd4a5ca53a06821</link>
+            
+            
+            
+            <author><![CDATA[叶梓涛]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[双十一技术人们都有啥东西想买么！]]></title>
@@ -50,22 +66,6 @@
             
             
             <author><![CDATA[0neSe7en]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[存储日报(2023.10.4) 今日主题：使用Rust编写的基于S3协议的分布式对象存储Garage。 Garage实现了Amazon S3协议，这是一个事实上的标准，能够与大量现有软件兼容...]]></title>
-            <description><![CDATA[存储日报(2023.10.4)<br>今日主题：使用Rust编写的基于S3协议的分布式对象存储Garage。<br>Garage实现了Amazon S3协议，这是一个事实上的标准，能够与大量现有软件兼容。它可以用作许多自托管web应用程序(如NextCloud, Matrix, Mastodon, Peertube等)的存储后端，用分布式存储层取代服务器的本地文件系统。Garage还可以用于同步文件或使用Rclone或resttic等实用程序存储备份。也可以用来托管静态网站。<br><br>Rust越来越流行的今天，如果有同学想要结合实际的分布式存储项目的案例来学习，这是个很好的机会。<br><br>· 简介：https://garagehq.deuxfleurs.fr/blog/2022-introducing-garage/<br>· 代码仓库：https://git.deuxfleurs.fr/Deuxfleurs/garage<br>· 主要文档：https://garagehq.deuxfleurs.fr/documentation/design/internals/]]></description>
-            <pubDate>Wed, 04 Oct 2023 03:47:38 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/651ce05af21549bc73be6c13</guid>
-            <link>https://m.okjike.com/originalPosts/651ce05af21549bc73be6c13</link>
-            
-            
-            
-            <author><![CDATA[大脑大爆炸]]></author>
             
                 
             
@@ -106,7 +106,7 @@
         
         <item>
             <title><![CDATA[把这个星空动画开源了。 🚀 源码：https://github.com/xcc3641/zhi_starry_sky 🌍 Demo：https://zhi-starry-sky.vercel.app/]]></title>
-            <description><![CDATA[把这个星空动画开源了。<br><br>🚀 源码：https://github.com/xcc3641/zhi_starry_sky<br><br>🌍 Demo：https://zhi-starry-sky.vercel.app/<br><video src="https://videocdn.jellow.site/Fgr5c5L3lYRwy98tORs1Ww4ZHQ3b.mp4?sign=eac89086b3fd89e106879e8d19ce07ed&amp;t=651f0fcc" controls=""></video>]]></description>
+            <description><![CDATA[把这个星空动画开源了。<br><br>🚀 源码：https://github.com/xcc3641/zhi_starry_sky<br><br>🌍 Demo：https://zhi-starry-sky.vercel.app/<br><video src="https://videocdn.jellow.site/Fgr5c5L3lYRwy98tORs1Ww4ZHQ3b.mp4?sign=8f303eca07a846ecdd7bc5e606705554&amp;t=651f4e71" controls=""></video>]]></description>
             <pubDate>Mon, 02 Oct 2023 10:21:54 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/651a99c2c70326f2eb95648c</guid>
             <link>https://m.okjike.com/originalPosts/651a99c2c70326f2eb95648c</link>
@@ -170,7 +170,7 @@
         
         <item>
             <title><![CDATA[内置了一些用于快速体验应用的示例]]></title>
-            <description><![CDATA[内置了一些用于快速体验应用的示例<br><video src="https://videocdn.jellow.site/FvYJrIb_EL3IgUTvv-aA1ds4jjNZ.mp4?sign=6e4d2348dc6260ba74fdc67a0b164b08&amp;t=651f0fcc" controls=""></video>]]></description>
+            <description><![CDATA[内置了一些用于快速体验应用的示例<br><video src="https://videocdn.jellow.site/FvYJrIb_EL3IgUTvv-aA1ds4jjNZ.mp4?sign=79e08c05a9c7e5ff6b1d0aa9d8b9b80b&amp;t=651f4e71" controls=""></video>]]></description>
             <pubDate>Fri, 08 Sep 2023 05:05:24 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/64faab941589e4a51ad3309d</guid>
             <link>https://m.okjike.com/originalPosts/64faab941589e4a51ad3309d</link>
