@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sat, 07 Oct 2023 03:05:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Oct 2023 07:19:11 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[我是程序员，我需要具备离开公司，独立开发一款产品的能力 最近发生的两件事，触发了上面这个想法 1.前几天我一个创业的高中同学，想找我开发一款小程序，类似商...]]></title>
+            <description><![CDATA[我是程序员，我需要具备离开公司，独立开发一款产品的能力<br><br>最近发生的两件事，触发了上面这个想法<br><br>1.前几天我一个创业的高中同学，想找我开发一款小程序，类似商城那种，做产品展示、价目、案例库等。但我没接触过小程序开发，尴尬的拒绝了<br><br>事后反思了下，这种功能如果是公司产品提的后端需求，在现有项目上，很快就能开发完，为啥去一个新平台，独立开发一款小程序，我竟然一点思路都没有，愧对程序员这个角色<br><br>2.加了一个前腾讯的全栈开发者，他研发了两款app，其中一款是一个扫码聚合工具，方便用户的使用，这款产品确实可以解决用户痛点，我也向他请教了盈利模式，主要是广告或者内购<br><br>他挖掘用户痛点，是一款产品的切入点，然后转化成产品，开发应该不难，通过识别二维码，定位到应用，然后根据应用的协议，采用调起app还是落地页完成扫码，里面的工作量我理解是二维码解析、域名到app的映射、app调起或落地页调起<br><br>事后，觉得自己需要具备离开公司，独立开发一款产品的能力，类似小程序或者app，或者网站<br>如果后续做独立开发者，做成一款产品才是核心能力，至于那些架构、高并发等，都是后续的事，甚至永远触碰不到的事儿]]></description>
+            <pubDate>Sat, 07 Oct 2023 03:16:54 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6520cda64101002b06ee7111</guid>
+            <link>https://m.okjike.com/originalPosts/6520cda64101002b06ee7111</link>
+            
+            
+            
+            <author><![CDATA[每天晒白牙]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[😂“程序员”搬家。技术书只留下3本 Docker、Golang、深度学习。设计书用了2箱子，4年份的日本平面设计年鉴、插画书、摄影图册、艺术家画册。]]></title>
@@ -121,22 +137,6 @@
         </item>
         
         <item>
-            <title><![CDATA[把这个星空动画开源了。 🚀 源码：https://github.com/xcc3641/zhi_starry_sky 🌍 Demo：https://zhi-starry-sky.vercel.app/]]></title>
-            <description><![CDATA[把这个星空动画开源了。<br><br>🚀 源码：https://github.com/xcc3641/zhi_starry_sky<br><br>🌍 Demo：https://zhi-starry-sky.vercel.app/<br><video src="https://videocdn.jellow.site/Fgr5c5L3lYRwy98tORs1Ww4ZHQ3b.mp4?sign=11082c0f02d3d3e3b331ea0090eeecfc&amp;t=6520d20e" controls=""></video>]]></description>
-            <pubDate>Mon, 02 Oct 2023 10:21:54 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/651a99c2c70326f2eb95648c</guid>
-            <link>https://m.okjike.com/originalPosts/651a99c2c70326f2eb95648c</link>
-            
-            
-            
-            <author><![CDATA[谢广志]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[互联网之光 Cloudflare 最近发布了非常多的功能更新。这周是它的 #BirthdayWeek，它已经诞生13年了。 它将自己的目标定为 to help build a better Internet 并且...]]></title>
             <description><![CDATA[互联网之光 Cloudflare 最近发布了非常多的功能更新。这周是它的 #BirthdayWeek，它已经诞生13年了。 <br><br>它将自己的目标定为 to help build a better Internet 并且在务实创新地持续实现。<br><br>https://twitter.com/Cloudflare]]></description>
             <pubDate>Thu, 28 Sep 2023 13:56:36 GMT</pubDate>
@@ -170,7 +170,7 @@
         
         <item>
             <title><![CDATA[内置了一些用于快速体验应用的示例]]></title>
-            <description><![CDATA[内置了一些用于快速体验应用的示例<br><video src="https://videocdn.jellow.site/FvYJrIb_EL3IgUTvv-aA1ds4jjNZ.mp4?sign=e8532f0b4c9ed1b0277410c33c76926c&amp;t=6520d0d1" controls=""></video>]]></description>
+            <description><![CDATA[内置了一些用于快速体验应用的示例<br><video src="https://videocdn.jellow.site/FvYJrIb_EL3IgUTvv-aA1ds4jjNZ.mp4?sign=cda6bd099baa13bf4e17de081425b8e7&amp;t=65210d77" controls=""></video>]]></description>
             <pubDate>Fri, 08 Sep 2023 05:05:24 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/64faab941589e4a51ad3309d</guid>
             <link>https://m.okjike.com/originalPosts/64faab941589e4a51ad3309d</link>
