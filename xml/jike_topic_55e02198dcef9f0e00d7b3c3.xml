@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sun, 08 Oct 2023 03:58:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Oct 2023 08:14:26 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[Vercel 在国内彻底凉了啊，自定义域名也没用了。貌似 Cloudflare Page 还没被墙。]]></title>
+            <description><![CDATA[Vercel 在国内彻底凉了啊，自定义域名也没用了。貌似 Cloudflare Page 还没被墙。]]></description>
+            <pubDate>Sun, 08 Oct 2023 04:45:16 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/652233dcc9ddb2a2a3a3c536</guid>
+            <link>https://m.okjike.com/originalPosts/652233dcc9ddb2a2a3a3c536</link>
+            
+            
+            
+            <author><![CDATA[ourongxing]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[VSCode 现在已经原生支持了内网穿透，你只需要在工具栏中设置本地的具体端口，它就会生成一个临时域名，帮你把服务暴露出去。 有两种可见性配置策略：1）专用模...]]></title>
@@ -162,22 +178,6 @@
             
             
             <author><![CDATA[哥飞]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[内置了一些用于快速体验应用的示例]]></title>
-            <description><![CDATA[内置了一些用于快速体验应用的示例<br><video src="https://videocdn.jellow.site/FvYJrIb_EL3IgUTvv-aA1ds4jjNZ.mp4?sign=79a9c506fd551946ceaf6a734909bc8b&amp;t=65222ffc" controls=""></video>]]></description>
-            <pubDate>Fri, 08 Sep 2023 05:05:24 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/64faab941589e4a51ad3309d</guid>
-            <link>https://m.okjike.com/originalPosts/64faab941589e4a51ad3309d</link>
-            
-            
-            
-            <author><![CDATA[沈毅]]></author>
             
                 
             
