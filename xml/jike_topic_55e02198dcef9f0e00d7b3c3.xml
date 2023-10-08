@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sat, 07 Oct 2023 19:38:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Oct 2023 23:43:02 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[🛻 OpenAI在国庆假期里为所有fine-tune过的模型都支持了function call。 你只需在项目设置里配置好OpenAI的API key，就可以在Knit里选择你的fine-tune过的模型...]]></title>
+            <description><![CDATA[🛻 OpenAI在国庆假期里为所有fine-tune过的模型都支持了function call。<br><br>你只需在项目设置里配置好OpenAI的API key，就可以在Knit里选择你的fine-tune过的模型，并调试function call。<br><br>OpenAI的相关文档：https://platform.openai.com/docs/guides/fine-tuning/fine-tuning-examples<br><img src="https://cdnv2.ruguoapp.com/FukXZjMAfE8ctIFFX9-VDPirNhvmv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sat, 07 Oct 2023 09:37:34 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/652126de15391e4bc78a682c</guid>
+            <link>https://m.okjike.com/originalPosts/652126de15391e4bc78a682c</link>
+            
+            
+            
+            <author><![CDATA[JC.]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[我是程序员，我需要具备离开公司，独立开发一款产品的能力 最近发生的两件事，触发了上面这个想法 1.前几天我一个创业的高中同学，想找我开发一款小程序，类似商...]]></title>
@@ -50,22 +66,6 @@
             
             
             <author><![CDATA[BigYe程普]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[😂“程序员”搬家。技术书只留下3本 Docker、Golang、深度学习。设计书用了2箱子，4年份的日本平面设计年鉴、插画书、摄影图册、艺术家画册。]]></title>
-            <description><![CDATA[😂“程序员”搬家。技术书只留下3本 Docker、Golang、深度学习。设计书用了2箱子，4年份的日本平面设计年鉴、插画书、摄影图册、艺术家画册。<br><img src="https://cdnv2.ruguoapp.com/FhD2pEyTkYwvl5JV0R7KECKjMf3fv3.heic" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 06 Oct 2023 10:45:27 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/651fe5471589e4a51a0610d9</guid>
-            <link>https://m.okjike.com/originalPosts/651fe5471589e4a51a0610d9</link>
-            
-            
-            
-            <author><![CDATA[佐伯楽]]></author>
             
                 
             
@@ -170,7 +170,7 @@
         
         <item>
             <title><![CDATA[内置了一些用于快速体验应用的示例]]></title>
-            <description><![CDATA[内置了一些用于快速体验应用的示例<br><video src="https://videocdn.jellow.site/FvYJrIb_EL3IgUTvv-aA1ds4jjNZ.mp4?sign=dcc0575f85e74daaff1b16e37017285c&amp;t=6521b8cb" controls=""></video>]]></description>
+            <description><![CDATA[内置了一些用于快速体验应用的示例<br><video src="https://videocdn.jellow.site/FvYJrIb_EL3IgUTvv-aA1ds4jjNZ.mp4?sign=229c766df93489f1c64f82523ee1f495&amp;t=6521f2e1" controls=""></video>]]></description>
             <pubDate>Fri, 08 Sep 2023 05:05:24 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/64faab941589e4a51ad3309d</guid>
             <link>https://m.okjike.com/originalPosts/64faab941589e4a51ad3309d</link>
