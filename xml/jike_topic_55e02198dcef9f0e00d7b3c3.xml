@@ -21,19 +21,35 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sat, 07 Oct 2023 23:43:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Oct 2023 03:58:44 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
-            <title><![CDATA[🛻 OpenAI在国庆假期里为所有fine-tune过的模型都支持了function call。 你只需在项目设置里配置好OpenAI的API key，就可以在Knit里选择你的fine-tune过的模型...]]></title>
-            <description><![CDATA[🛻 OpenAI在国庆假期里为所有fine-tune过的模型都支持了function call。<br><br>你只需在项目设置里配置好OpenAI的API key，就可以在Knit里选择你的fine-tune过的模型，并调试function call。<br><br>OpenAI的相关文档：https://platform.openai.com/docs/guides/fine-tuning/fine-tuning-examples<br><img src="https://cdnv2.ruguoapp.com/FukXZjMAfE8ctIFFX9-VDPirNhvmv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 07 Oct 2023 09:37:34 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/652126de15391e4bc78a682c</guid>
-            <link>https://m.okjike.com/originalPosts/652126de15391e4bc78a682c</link>
+            <title><![CDATA[VSCode 现在已经原生支持了内网穿透，你只需要在工具栏中设置本地的具体端口，它就会生成一个临时域名，帮你把服务暴露出去。 有两种可见性配置策略：1）专用模...]]></title>
+            <description><![CDATA[VSCode 现在已经原生支持了内网穿透，你只需要在工具栏中设置本地的具体端口，它就会生成一个临时域名，帮你把服务暴露出去。<br><br>有两种可见性配置策略：1）专用模式，需要使用与当前 VSCode 相同的登录账户才能够访问到服务，较为安全；2）公开模式，任何人都可以访问，需要注意避免敏感信息对外。<br><br>目前一个账户允许开 5 条隧道，且存在带宽限制，不过对于一般的研发、协同和调试场景，完全够用。它的原理是与 server 端建立一条 ssh 隧道，然后开了一个反向代理。<br><img src="https://cdnv2.ruguoapp.com/FuIBONlMVL8AYQeLTmwT3G7pciWZv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sun, 08 Oct 2023 02:38:22 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6522161ec9ddb2a2a3a06387</guid>
+            <link>https://m.okjike.com/originalPosts/6522161ec9ddb2a2a3a06387</link>
             
             
             
-            <author><![CDATA[JC.]]></author>
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[看完案例，你就会发现，原来这样也可以，原来网站不一定要做多复杂，只需要解决一两个核心需求就行。]]></title>
+            <description><![CDATA[<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/LBrX00GQeict8QcrdEH5RxWCw26DyGPI7blbJDcCXN6B47gay9eHp7DGB2FibAf4bSWEfPGia5GVz5iaXgNmOG4U5g/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>                    <a href="https://mp.weixin.qq.com/s/SZ1rQLBuA8s2uVTGdHhMhA">做网站没灵感？来看看别人的优秀案例之前端工具站</a><br>                <br>看完案例，你就会发现，原来这样也可以，原来网站不一定要做多复杂，只需要解决一两个核心需求就行。]]></description>
+            <pubDate>Sun, 08 Oct 2023 00:32:44 GMT</pubDate>
+            <guid isPermaLink="false">https://mp.weixin.qq.com/s/SZ1rQLBuA8s2uVTGdHhMhA</guid>
+            <link>https://mp.weixin.qq.com/s/SZ1rQLBuA8s2uVTGdHhMhA</link>
+            
+            
+            
+            <author><![CDATA[哥飞]]></author>
             
                 
             
@@ -105,22 +121,6 @@
         </item>
         
         <item>
-            <title><![CDATA[最近用Cloudflare的zero trust把部署在家里的服务暴露到公网相当好用。鉴权什么的也都有了]]></title>
-            <description><![CDATA[最近用Cloudflare的zero trust把部署在家里的服务暴露到公网相当好用。鉴权什么的也都有了]]></description>
-            <pubDate>Wed, 04 Oct 2023 10:20:02 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/651d3c521589e4a51acd97dc</guid>
-            <link>https://m.okjike.com/originalPosts/651d3c521589e4a51acd97dc</link>
-            
-            
-            
-            <author><![CDATA[0neSe7en]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[https://www.npmjs.com/package/npkill 分享一个小工具，帮你快速检查和删除 node_modules，释放磁盘空间。]]></title>
             <description><![CDATA[https://www.npmjs.com/package/npkill<br><br>分享一个小工具，帮你快速检查和删除 node_modules，释放磁盘空间。]]></description>
             <pubDate>Wed, 04 Oct 2023 01:24:02 GMT</pubDate>
@@ -170,7 +170,7 @@
         
         <item>
             <title><![CDATA[内置了一些用于快速体验应用的示例]]></title>
-            <description><![CDATA[内置了一些用于快速体验应用的示例<br><video src="https://videocdn.jellow.site/FvYJrIb_EL3IgUTvv-aA1ds4jjNZ.mp4?sign=229c766df93489f1c64f82523ee1f495&amp;t=6521f2e1" controls=""></video>]]></description>
+            <description><![CDATA[内置了一些用于快速体验应用的示例<br><video src="https://videocdn.jellow.site/FvYJrIb_EL3IgUTvv-aA1ds4jjNZ.mp4?sign=79a9c506fd551946ceaf6a734909bc8b&amp;t=65222ffc" controls=""></video>]]></description>
             <pubDate>Fri, 08 Sep 2023 05:05:24 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/64faab941589e4a51ad3309d</guid>
             <link>https://m.okjike.com/originalPosts/64faab941589e4a51ad3309d</link>
