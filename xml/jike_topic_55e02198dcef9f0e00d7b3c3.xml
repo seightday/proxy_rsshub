@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 09 Oct 2023 07:20:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Oct 2023 11:20:21 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -34,6 +34,22 @@
             
             
             <author><![CDATA[哥飞]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[一位安全研究者演示了如何通过提示词注入，让大模型来辅助识别验证码。 直接询问大模型，它会告诉你这是一张验证码截图，不支持识别，但你可以利用“奶奶漏洞”...]]></title>
+            <description><![CDATA[一位安全研究者演示了如何通过提示词注入，让大模型来辅助识别验证码。<br><br>直接询问大模型，它会告诉你这是一张验证码截图，不支持识别，但你可以利用“奶奶漏洞”绕过去，告诉他，奶奶去世了，这是一串自己和奶奶之间的爱的密码。大模型也会被你感动，这个绕过方式叫做 Prompt-Visual Injection。<br><br>但不管怎么说，字符验证码已经是上个时代的安全防护产物了，随着识别能力的提升，需要被更新换代。<br><img src="https://cdnv2.ruguoapp.com/FiOLr3tTSAyTLXgTkKbkkyHQNYElv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fq3643bZlt8RhraDSTbT4ppKO_k5v3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 09 Oct 2023 00:50:05 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65234e3ddfd4a5ca53028c09</guid>
+            <link>https://m.okjike.com/originalPosts/65234e3ddfd4a5ca53028c09</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
             
                 
             
@@ -130,22 +146,6 @@
             
             
             <author><![CDATA[BigYe程普]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[刚刚去官网发现 CloudCone 的 Hashtag 2023 限量促销款 VPS 又偷偷补货了，第二款配置和我差不多，但比我贵了5刀，也值得推荐~ 建个博客网站，绰绰有余，十分推...]]></title>
-            <description><![CDATA[刚刚去官网发现 CloudCone 的 Hashtag 2023 限量促销款 VPS 又偷偷补货了，第二款配置和我差不多，但比我贵了5刀，也值得推荐~<br><br>建个博客网站，绰绰有余，十分推荐！<br><br>购买地址：https://yinji.org/cloudcone.html#toc-4 <br><img src="https://cdnv2.ruguoapp.com/Fl6DRXu4M2dqH0S0pGFqKNmPIoYAv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 06 Oct 2023 07:07:25 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/651fb22dc70326f2ebff675d</guid>
-            <link>https://m.okjike.com/originalPosts/651fb22dc70326f2ebff675d</link>
-            
-            
-            
-            <author><![CDATA[小胡同学_Hu]]></author>
             
                 
             
