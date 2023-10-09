@@ -21,24 +21,8 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 09 Oct 2023 15:20:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Oct 2023 19:20:39 GMT</lastBuildDate>
         <ttl>120</ttl>
-        
-        <item>
-            <title><![CDATA[利用 AutoGPT/LangChain/SuperAGI 等，可以让 LLM 帮助解决复杂的问题，但也有一个致命的通病：由于接受的指令相对简单，随着任务的自主规划和执行，过程中一旦...]]></title>
-            <description><![CDATA[利用 AutoGPT/LangChain/SuperAGI 等，可以让 LLM 帮助解决复杂的问题，但也有一个致命的通病：由于接受的指令相对简单，随着任务的自主规划和执行，过程中一旦出现微小偏差，最后的结果就会滚雪球似的，离预期越来越远。<br><br>一个解法是，在指令下发之初，对要执行的任务做十分详尽的描述，告诉 LLM 第一步到第十步分别要做啥，因此我们经常会看到各种复杂且严苛的 Prompt，还会利用 One-Shot/Few-Shot 帮助大模型做输出结果的矫正，虽然可以一定程度解决问题，但这个做法也限制了 LLM 的创造力，同时，由于任务的复杂性，仍然存在偏离任务目标的可能。<br><br>看到这个论文提供了一个思路，https://arxiv.org/pdf/2309.07870.pdf，“Agents 框架探索了通过结合基于推理图的符号主义 (symbolism) 推理和基于 LLM 的连接主义 (connectionism) 推理，来结合高层次的世界模型知识和低层次的简单推理泛化能力，从而实现更智能更可控的通用人工智能 (AGI) 方案”。详情可以参阅这篇文章：https://www.jiqizhixin.com/articles/2023-09-21-2<br><br>简单来说，就是在进行下一步任务的时候，回顾目标和初始计划，结合环境信息，利用大模型的推理能力来动态决定状态的转移和下一个行动的 Agent 是哪个。<br><br>这个解决思路有点像动态规划算法，在问题求解过程中考虑不同状态和决策，只不过 Agents 框架更侧重于处理复杂的智能决策和动态环境，而不仅仅是静态优化问题，也算得上一次创新了。<br><br>这篇论文对应的工程实践也在 github 上开源了：https://github.com/aiwaves-cn/agents，如果你要利用 LLM 解决复杂且庞大的问题，这个思路值得一试。<br><img src="https://cdnv2.ruguoapp.com/FjPSEzpAM_K1JUrl4mISJzqX6GFXv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 09 Oct 2023 03:18:30 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65237106c70326f2eb524c37</guid>
-            <link>https://m.okjike.com/originalPosts/65237106c70326f2eb524c37</link>
-            
-            
-            
-            <author><![CDATA[Barret李靖]]></author>
-            
-                
-            
-            
-        </item>
         
         <item>
             <title><![CDATA[养网站防老：网站可以做成一生的事业 大家好，我是哥飞。 昨天给大家分享了《做网站没灵感？来看看别人的优秀案例之前端工具站 》，里边第2个案例如下： 2、脑力...]]></title>
@@ -50,6 +34,22 @@
             
             
             <author><![CDATA[哥飞]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[一位安全研究者演示了如何通过提示词注入，让大模型来辅助识别验证码。 直接询问大模型，它会告诉你这是一张验证码截图，不支持识别，但你可以利用“奶奶漏洞”...]]></title>
+            <description><![CDATA[一位安全研究者演示了如何通过提示词注入，让大模型来辅助识别验证码。<br><br>直接询问大模型，它会告诉你这是一张验证码截图，不支持识别，但你可以利用“奶奶漏洞”绕过去，告诉他，奶奶去世了，这是一串自己和奶奶之间的爱的密码。大模型也会被你感动，这个绕过方式叫做 Prompt-Visual Injection。<br><br>但不管怎么说，字符验证码已经是上个时代的安全防护产物了，随着识别能力的提升，需要被更新换代。<br><img src="https://cdnv2.ruguoapp.com/FiOLr3tTSAyTLXgTkKbkkyHQNYElv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fq3643bZlt8RhraDSTbT4ppKO_k5v3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 09 Oct 2023 00:50:05 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65234e3ddfd4a5ca53028c09</guid>
+            <link>https://m.okjike.com/originalPosts/65234e3ddfd4a5ca53028c09</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
             
                 
             
