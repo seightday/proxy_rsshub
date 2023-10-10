@@ -21,19 +21,19 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 10 Oct 2023 03:20:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Oct 2023 07:21:05 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
-            <title><![CDATA[Copilot Voice，以后可以用嘴写代码了。https://githubnext.com/projects/copilot-voice 在 VS Code 插件市场搜索 GitHub Copilot Voice，安装后，即可跟下面视...]]></title>
-            <description><![CDATA[Copilot Voice，以后可以用嘴写代码了。https://githubnext.com/projects/copilot-voice<br><br>在 VS Code 插件市场搜索 GitHub Copilot Voice，安装后，即可跟下面视频一样，用嘴编程😂，它支持打开文件、运行命令、定位到编辑器的具体位置等等，开通使用要求你付费订阅了 Github Copilot，不过它对认证的学生和开源有贡献的开发者是免费的。<br><video src="https://videocdn.jellow.site/lkRrimBS_YjV3Q8KuFHEnViel9oH.mp4?sign=9866a3f548466688c8fbcd7b99a45f9a&amp;t=6524c7ce" controls=""></video>]]></description>
-            <pubDate>Mon, 09 Oct 2023 09:18:37 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6523c56d55a9562cd3c1b734</guid>
-            <link>https://m.okjike.com/originalPosts/6523c56d55a9562cd3c1b734</link>
+            <title><![CDATA[说实话，我很不理解APP备案为啥让这么多人吐槽的。 图书、音像、游戏等等，全都需要许可证才能上线，而APP比之还有能泄露隐私的隐患，而买本书来读、去电影院看...]]></title>
+            <description><![CDATA[说实话，我很不理解APP备案为啥让这么多人吐槽的。<br><br>图书、音像、游戏等等，全都需要许可证才能上线，而APP比之还有能泄露隐私的隐患，而买本书来读、去电影院看个电影啥的可没有这个问题。<br><br>备案而已，麻烦就一次，到时候该缴税缴税，正规APP怕这？]]></description>
+            <pubDate>Mon, 09 Oct 2023 16:13:17 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6524269d4fd7ddb1114fac2f</guid>
+            <link>https://m.okjike.com/originalPosts/6524269d4fd7ddb1114fac2f</link>
             
             
             
-            <author><![CDATA[Barret李靖]]></author>
+            <author><![CDATA[老C]]></author>
             
                 
             
@@ -41,11 +41,11 @@
         </item>
         
         <item>
-            <title><![CDATA[利用 AutoGPT/LangChain/SuperAGI 等，可以让 LLM 帮助解决复杂的问题，但也有一个致命的通病：由于接受的指令相对简单，随着任务的自主规划和执行，过程中一旦...]]></title>
-            <description><![CDATA[利用 AutoGPT/LangChain/SuperAGI 等，可以让 LLM 帮助解决复杂的问题，但也有一个致命的通病：由于接受的指令相对简单，随着任务的自主规划和执行，过程中一旦出现微小偏差，最后的结果就会滚雪球似的，离预期越来越远。<br><br>一个解法是，在指令下发之初，对要执行的任务做十分详尽的描述，告诉 LLM 第一步到第十步分别要做啥，因此我们经常会看到各种复杂且严苛的 Prompt，还会利用 One-Shot/Few-Shot 帮助大模型做输出结果的矫正，虽然可以一定程度解决问题，但这个做法也限制了 LLM 的创造力，同时，由于任务的复杂性，仍然存在偏离任务目标的可能。<br><br>看到这个论文提供了一个思路，https://arxiv.org/pdf/2309.07870.pdf，“Agents 框架探索了通过结合基于推理图的符号主义 (symbolism) 推理和基于 LLM 的连接主义 (connectionism) 推理，来结合高层次的世界模型知识和低层次的简单推理泛化能力，从而实现更智能更可控的通用人工智能 (AGI) 方案”。详情可以参阅这篇文章：https://www.jiqizhixin.com/articles/2023-09-21-2<br><br>简单来说，就是在进行下一步任务的时候，回顾目标和初始计划，结合环境信息，利用大模型的推理能力来动态决定状态的转移和下一个行动的 Agent 是哪个。<br><br>这个解决思路有点像动态规划算法，在问题求解过程中考虑不同状态和决策，只不过 Agents 框架更侧重于处理复杂的智能决策和动态环境，而不仅仅是静态优化问题，也算得上一次创新了。<br><br>这篇论文对应的工程实践也在 github 上开源了：https://github.com/aiwaves-cn/agents，如果你要利用 LLM 解决复杂且庞大的问题，这个思路值得一试。<br><img src="https://cdnv2.ruguoapp.com/FjPSEzpAM_K1JUrl4mISJzqX6GFXv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 09 Oct 2023 03:18:30 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65237106c70326f2eb524c37</guid>
-            <link>https://m.okjike.com/originalPosts/65237106c70326f2eb524c37</link>
+            <title><![CDATA[Copilot Voice，以后可以用嘴写代码了。https://githubnext.com/projects/copilot-voice 在 VS Code 插件市场搜索 GitHub Copilot Voice，安装后，即可跟下面视...]]></title>
+            <description><![CDATA[Copilot Voice，以后可以用嘴写代码了。https://githubnext.com/projects/copilot-voice<br><br>在 VS Code 插件市场搜索 GitHub Copilot Voice，安装后，即可跟下面视频一样，用嘴编程😂，它支持打开文件、运行命令、定位到编辑器的具体位置等等，开通使用要求你付费订阅了 Github Copilot，不过它对认证的学生和开源有贡献的开发者是免费的。<br><video src="https://videocdn.jellow.site/lkRrimBS_YjV3Q8KuFHEnViel9oH.mp4?sign=249c00debdcd9ebb38c2ee1f33a902e4&amp;t=652500c4" controls=""></video>]]></description>
+            <pubDate>Mon, 09 Oct 2023 09:18:37 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6523c56d55a9562cd3c1b734</guid>
+            <link>https://m.okjike.com/originalPosts/6523c56d55a9562cd3c1b734</link>
             
             
             
