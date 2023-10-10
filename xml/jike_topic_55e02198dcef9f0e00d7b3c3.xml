@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 10 Oct 2023 13:21:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Oct 2023 19:21:22 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[我做开源项目的一些经历： 1. 成为一个Markdown工程师，专注写开源文档、电子书、学习资料啥的，或者搞各种Awesome收藏列表，这类项目涨星最快，最能获得成就感...]]></title>
+            <description><![CDATA[我做开源项目的一些经历：<br><br>1. 成为一个Markdown工程师，专注写开源文档、电子书、学习资料啥的，或者搞各种Awesome收藏列表，这类项目涨星最快，最能获得成就感，比如我的这个项目：awesome-seo（https://github.com/madawei2699/awesome-seo）花了几天时间写完，其实半天就能搞定，主要是把我之前收集的资料列举下就行，英文版还是其他人弄的，已经1.8K的星了。我一开始也看不起这类项目，但真的能鼓励我继续搞下去，因为之前没有人关注我，所以刚开始搞这类项目也可以。<br><br>2. 追热点搞开源，比如AI在今年三月非常火，你只要手快，搞一个就能获得大量关注，比如我的这个项目：myGPTReader（https://github.com/madawei2699/myGPTReader） 花了十几天获得了4千多的星，还收获了大量的follower，其实这个项目80%的代码都是ChatGPT写的，我只是负责设计与测试，所以追对风口很关键。<br><br>3. 搞自己擅长的东西，比如Invest Alchemy（https://github.com/bmpi-dev/invest-alchemy） 这个投资相关的产品，就是我把我想做的给开源出来了，不过没做好，都是我一个人搞，最主要的是没有好的文档，当然这是我的问题，不过做自己喜欢的也是一个不错的开始。<br><br>4. 做自己想学习的东西，比如一段时间我想学webRTC，于是用Elixir与Golang搞了这个free4chat（https://github.com/madawei2699/free4chat）的开源项目，虽然是小众语言，但也快一千星了，我也学会了我想学的东西。<br><br>5. 参与知名开源项目，比如我在项目中遇到了Kaniko（https://github.com/GoogleContainerTools/kaniko）构建docker镜像的bug，于是花了一些时间去给这个热门项目提了PR，直到一年后这个PR被Google给合并到主分分支了，虽然是相当于给长城上贴了一块砖，但也让我高兴了一段时间，毕竟是个大项目。]]></description>
+            <pubDate>Tue, 10 Oct 2023 12:36:48 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/652545604fd7ddb1116882aa</guid>
+            <link>https://m.okjike.com/originalPosts/652545604fd7ddb1116882aa</link>
+            
+            
+            
+            <author><![CDATA[DaweiMa]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[我不懂技术，对技术有敬畏之心，特别是全栈独立开发者。 程序员的工作是把想法变成产品，程序员的能力体现在想法实现的能力。一个产品包括想法和实现想法两方面...]]></title>
@@ -34,22 +50,6 @@
             
             
             <author><![CDATA[夏付兵]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[说实话，我很不理解APP备案为啥让这么多人吐槽的。 图书、音像、游戏等等，全都需要许可证才能上线，而APP比之还有能泄露隐私的隐患，而买本书来读、去电影院看...]]></title>
-            <description><![CDATA[说实话，我很不理解APP备案为啥让这么多人吐槽的。<br><br>图书、音像、游戏等等，全都需要许可证才能上线，而APP比之还有能泄露隐私的隐患，而买本书来读、去电影院看个电影啥的可没有这个问题。<br><br>备案而已，麻烦就一次，到时候该缴税缴税，正规APP怕这？]]></description>
-            <pubDate>Mon, 09 Oct 2023 16:13:17 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6524269d4fd7ddb1114fac2f</guid>
-            <link>https://m.okjike.com/originalPosts/6524269d4fd7ddb1114fac2f</link>
-            
-            
-            
-            <author><![CDATA[老C]]></author>
             
                 
             
