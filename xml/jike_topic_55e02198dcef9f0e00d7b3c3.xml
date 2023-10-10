@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 09 Oct 2023 23:20:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Oct 2023 03:20:56 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[Copilot Voice，以后可以用嘴写代码了。https://githubnext.com/projects/copilot-voice 在 VS Code 插件市场搜索 GitHub Copilot Voice，安装后，即可跟下面视...]]></title>
+            <description><![CDATA[Copilot Voice，以后可以用嘴写代码了。https://githubnext.com/projects/copilot-voice<br><br>在 VS Code 插件市场搜索 GitHub Copilot Voice，安装后，即可跟下面视频一样，用嘴编程😂，它支持打开文件、运行命令、定位到编辑器的具体位置等等，开通使用要求你付费订阅了 Github Copilot，不过它对认证的学生和开源有贡献的开发者是免费的。<br><video src="https://videocdn.jellow.site/lkRrimBS_YjV3Q8KuFHEnViel9oH.mp4?sign=9866a3f548466688c8fbcd7b99a45f9a&amp;t=6524c7ce" controls=""></video>]]></description>
+            <pubDate>Mon, 09 Oct 2023 09:18:37 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6523c56d55a9562cd3c1b734</guid>
+            <link>https://m.okjike.com/originalPosts/6523c56d55a9562cd3c1b734</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[利用 AutoGPT/LangChain/SuperAGI 等，可以让 LLM 帮助解决复杂的问题，但也有一个致命的通病：由于接受的指令相对简单，随着任务的自主规划和执行，过程中一旦...]]></title>
@@ -130,22 +146,6 @@
             
             
             <author><![CDATA[每天晒白牙]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[分享一个为前端工程师和UI设计师提供超过300 个免费的 TailwindCSS 组件和模板的网站：https://tailspark.co/，tailspark.co提供了一键复制和粘贴源代码和Figma...]]></title>
-            <description><![CDATA[分享一个为前端工程师和UI设计师提供超过300 个免费的 TailwindCSS 组件和模板的网站：https://tailspark.co/，tailspark.co提供了一键复制和粘贴源代码和Figma组件的功能。想要提高开发效率或者寻找设计灵感都可以来这个网站看看了。<br><img src="https://cdnv2.ruguoapp.com/FubTehxFyLDgMBlsZh7bKpNG_ombv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 07 Oct 2023 01:24:24 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6520b348c9ddb2a2a38103d0</guid>
-            <link>https://m.okjike.com/originalPosts/6520b348c9ddb2a2a38103d0</link>
-            
-            
-            
-            <author><![CDATA[BigYe程普]]></author>
             
                 
             
