@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 11 Oct 2023 11:57:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Oct 2023 13:58:23 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -50,6 +50,22 @@
             
             
             <author><![CDATA[夏付兵]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[说实话，我很不理解APP备案为啥让这么多人吐槽的。 图书、音像、游戏等等，全都需要许可证才能上线，而APP比之还有能泄露隐私的隐患，而买本书来读、去电影院看...]]></title>
+            <description><![CDATA[说实话，我很不理解APP备案为啥让这么多人吐槽的。<br><br>图书、音像、游戏等等，全都需要许可证才能上线，而APP比之还有能泄露隐私的隐患，而买本书来读、去电影院看个电影啥的可没有这个问题。<br><br>备案而已，麻烦就一次，到时候该缴税缴税，正规APP怕这？]]></description>
+            <pubDate>Mon, 09 Oct 2023 16:13:17 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6524269d4fd7ddb1114fac2f</guid>
+            <link>https://m.okjike.com/originalPosts/6524269d4fd7ddb1114fac2f</link>
+            
+            
+            
+            <author><![CDATA[老C]]></author>
             
                 
             
@@ -114,22 +130,6 @@
             
             
             <author><![CDATA[北邻]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[关于内网穿透，你也可以选择 Cloudflare 提供的 Quick Tunnels，也是一句命令就可以实现： cloudflared tunnel --url http://localhost:8080 默认生成的是一个以...]]></title>
-            <description><![CDATA[关于内网穿透，你也可以选择 Cloudflare 提供的 Quick Tunnels，也是一句命令就可以实现：<br><br>cloudflared tunnel --url http://localhost:8080<br><br>默认生成的是一个以 .trycloudflare.com 结尾的随机域名，它是免费的。<br><br>Cloudflare 的强大之处是，你可以自定义域名、支持配置 SLB、支持 HTTPS/TCP/SSH 等服务转发、支持基于 IP 的 ACL 设置。如果免费套餐的配置不足也可以考虑升级套餐。https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/do-more-with-tunnels/trycloudflare/<br><img src="https://cdnv2.ruguoapp.com/FrDDO8QKfuJE1bg5IIcVOctmthtXv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sun, 08 Oct 2023 06:36:54 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65224e0605145f31e59abb6b</guid>
-            <link>https://m.okjike.com/originalPosts/65224e0605145f31e59abb6b</link>
-            
-            
-            
-            <author><![CDATA[Barret李靖]]></author>
             
                 
             
