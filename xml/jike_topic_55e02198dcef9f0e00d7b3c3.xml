@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 11 Oct 2023 03:45:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Oct 2023 07:55:47 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -57,22 +57,6 @@
         </item>
         
         <item>
-            <title><![CDATA[说实话，我很不理解APP备案为啥让这么多人吐槽的。 图书、音像、游戏等等，全都需要许可证才能上线，而APP比之还有能泄露隐私的隐患，而买本书来读、去电影院看...]]></title>
-            <description><![CDATA[说实话，我很不理解APP备案为啥让这么多人吐槽的。<br><br>图书、音像、游戏等等，全都需要许可证才能上线，而APP比之还有能泄露隐私的隐患，而买本书来读、去电影院看个电影啥的可没有这个问题。<br><br>备案而已，麻烦就一次，到时候该缴税缴税，正规APP怕这？]]></description>
-            <pubDate>Mon, 09 Oct 2023 16:13:17 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6524269d4fd7ddb1114fac2f</guid>
-            <link>https://m.okjike.com/originalPosts/6524269d4fd7ddb1114fac2f</link>
-            
-            
-            
-            <author><![CDATA[老C]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[一些海外免费的网站托管服务 🌐 Netlify 🏢 GitHub Pages 🚀 Surge 🔧 GitLab Pages 🔥 Firebase Hosting 👥 Bitbucket 🌟 Vercel 💻 Render �...]]></title>
             <description><![CDATA[一些海外免费的网站托管服务<br><br>🌐 Netlify<br>🏢 GitHub Pages<br>🚀 Surge<br>🔧 GitLab Pages<br>🔥 Firebase Hosting<br>👥 Bitbucket<br>🌟 Vercel<br>💻 Render<br>🤏 Tiiny host<br>🚀 AWS Amplify<br>🏰 Neocities<br>☁️ Cloudflare Pages<br>🌥️ Gatsby Cloud<br>📃 Carrd<br>💾 Freehosting<br>🌎 InfinityFree<br>💻 000webhost<br>🏆 Awardspace<br>🔧 Byet Host]]></description>
             <pubDate>Mon, 09 Oct 2023 15:12:30 GMT</pubDate>
@@ -98,6 +82,22 @@
             
             
             <author><![CDATA[哥飞]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[原来那些号称不会被ChatGPT ban掉的🪜，并非都是走了住宅IP，而是WARP。 WARP是Cloudflare推出的一项网络加速服务，其设计的初衷是改善移动互联网的性能和安全...]]></title>
+            <description><![CDATA[原来那些号称不会被ChatGPT ban掉的🪜，并非都是走了住宅IP，而是WARP。<br>WARP是Cloudflare推出的一项网络加速服务，其设计的初衷是改善移动互联网的性能和安全性。大概的原理（见图二👇）是云服务器的流量经过WARP的加密封装后，会自动寻找离云服务器最近的Cloudflare边缘节点，然后数据在Cloudflare网络里路由到离服务端最近的边缘节点，最后解密后发给服务器端（也就是ChatGPT）。<br>此时与ChatGPT交互报文的源IP不再是云服务器的IP，而是的Cloudflare边缘节点入口IP，而这个IP会被ChatGPT认为是一个普通的IP而不会遭到限制。<br>当然已经有人搞出了一键安装脚本，安装到自己云服务器即可https://gitlab.com/rwkgyg/CFwarp<br><img src="https://cdnv2.ruguoapp.com/FmLFU8X95UHyX2_A4O0fEuhdqRcjv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FtxbnfSR_Fx0jIb2GyJXTRCIz58fv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 09 Oct 2023 02:00:42 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65235ecaf95fd189a94a38cd</guid>
+            <link>https://m.okjike.com/originalPosts/65235ecaf95fd189a94a38cd</link>
+            
+            
+            
+            <author><![CDATA[莫尔索]]></author>
             
                 
             
