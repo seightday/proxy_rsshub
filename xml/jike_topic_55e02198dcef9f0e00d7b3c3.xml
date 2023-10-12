@@ -21,15 +21,31 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 12 Oct 2023 10:36:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Oct 2023 14:50:45 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
-            <title><![CDATA[Github 推出了 blocks，https://blocks.githubnext.com，以后仓库里面能展示什么内容，取决于你的想象力和构建 block 的能力。 Blocks 的目标是让代码仓库变得生...]]></title>
-            <description><![CDATA[Github 推出了 blocks，https://blocks.githubnext.com，以后仓库里面能展示什么内容，取决于你的想象力和构建 block 的能力。<br><br>Blocks 的目标是让代码仓库变得生动起来，除了代码和 README，还可以展示 3D 文件、脑图、流程图、图标、字体预览、CSS 样式预览等等，甚至还有可交互的模块，例如所见即所得的编辑器、可以排序和统计的表格、能够运行代码的沙箱等等。<br><br>只要按照对应的规范开发 block 并发布到市场（给仓库增加一个名为 github-blocks 的 tag 就行了），就可以被检索和使用，不过当前还是技术预览版本，需要本地起一个 devServer，然后借助在线网页才能渲染出来。<br><br>这个尝试感觉正在重新定义 github，以后或许不能再叫它代码仓库了，应该叫内容仓库。<br><video src="https://videocdn.jellow.site/lk94Ys1QGQyb4R5Fp2_R6BaLMudv.mp4?sign=48aeb09987a81884714b56b34f7c9c70&amp;t=6527d31a" controls=""></video>]]></description>
-            <pubDate>Wed, 11 Oct 2023 03:10:31 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/652612275110e254556c8a54</guid>
-            <link>https://m.okjike.com/originalPosts/652612275110e254556c8a54</link>
+            <title><![CDATA[在 Google Colab 上执行了一个爬虫任务，可以看出 AutoGen 框架的强大（https://web.okjike.com/originalPost/6527c452fb5ea50a73e2b33b），我做的事情就是配置...]]></title>
+            <description><![CDATA[在 Google Colab 上执行了一个爬虫任务，可以看出 AutoGen 框架的强大（https://web.okjike.com/originalPost/6527c452fb5ea50a73e2b33b），我做的事情就是配置了 ChatGPT 的 api_key 以及定义了要做啥事情，剩下的都是程序干的了。<br><br>这是最简单的模式，也可以定义很多个 Assistant 和 UserProxy，例如搞三个角色，产品经理、程序员和设计师，让他们之间讨论如何实现一个产品原型，并给出 Demo 代码。<br><br>相比让一个 AI Agent 承担多重角色来执行复杂任务，多 Agents 的优势十分突出，最后的效果也要好很多很多。过程中人类可以随时介入，进行调优，也可以避免跑题。<br><img src="https://cdnv2.ruguoapp.com/FvNOkUYkAEC1zAjaXTAOi3Zybb6Xv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 12 Oct 2023 10:29:34 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6527ca8eea72dfbaff6ee7df</guid>
+            <link>https://m.okjike.com/originalPosts/6527ca8eea72dfbaff6ee7df</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[微软研发的 AutoGen 框架太强大了，它是一个多代理框架，利用它可以轻松定制一系列工作任务。https://github.com/microsoft/autogen 举一个常见的例子：我们要实...]]></title>
+            <description><![CDATA[微软研发的 AutoGen 框架太强大了，它是一个多代理框架，利用它可以轻松定制一系列工作任务。https://github.com/microsoft/autogen<br><br>举一个常见的例子：我们要实现一个爬虫程序，抓取并保存网页图片。如果把这个任务丢给 ChatGPT，它会直接返回一串可执行代码，但是代码通常会存在问题，例如执行报错、缺少依赖等，你需要反复跟 ChatGPT 对话来完善程序。当然，我们也可以设定一个复杂 Prompt，要求它调用 ChatGPT 的代码执行插件，如果存在报错，则继续修正程序。<br><br>这个任务如果交给 AutoGen 来实现，将会变得无比简单，几行代码就可以搞定：<br><br>1）定义一个 Assistant Agent，它的任务是解决问题<br>2）定义一个 UserProxy Agent，它的任务是替代人询问问题，同时在本地执行程序<br><br>这两个 Agent 都不需要给他们设置 Prompt。当我们把爬虫任务交给 UserProxy 后，它会理解任务，然后询问 Assistant 应该如何做，Assistant 会把操作过程告诉 UserProxy，接着 UserProxy 会根据指示在本地安装依赖，然后创建文件执行代码，如果执行出现错误，它会把详细报错提交给 Assistant，依次循环，直到可以获取到最终的结果。任务结束的时候，你会看到目标图片已经保存到本地磁盘了。<br><br>利用这个框架可以做的事情非常多，它提供的能力也十分完善，可以在项目的 notebook 中找到很多最佳实践：https://github.com/microsoft/autogen/tree/main/notebook<br><br>P.S. 为了确保安全，还是建议你在 Docker 环境中执行程序，UserProxy 有一个 code_execution_config 配置，将 use_docker 配置为 True 即可；另外，它还有一个 human_input_mode 参数，设置为 NEVER，表示整个过程都不需要人参与，也可以设置为其他值，它会等待人的输入后再进行下一步操作，这个设计可以让人参与到任务执行过程，避免跑偏。<br><video src="https://videocdn.jellow.site/lkWnEGfgMgVCTtt-7peqFpQkc3rT.mp4?sign=fa38b6081d5fa8fc58c1c93798396ae5&amp;t=65280c90" controls=""></video>]]></description>
+            <pubDate>Thu, 12 Oct 2023 10:02:58 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6527c452fb5ea50a73e2b33b</guid>
+            <link>https://m.okjike.com/originalPosts/6527c452fb5ea50a73e2b33b</link>
             
             
             
@@ -146,22 +162,6 @@
             
             
             <author><![CDATA[莫尔索]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[我是程序员，我需要具备离开公司，独立开发一款产品的能力 最近发生的两件事，触发了上面这个想法 1.前几天我一个创业的高中同学，想找我开发一款小程序，类似商...]]></title>
-            <description><![CDATA[我是程序员，我需要具备离开公司，独立开发一款产品的能力<br><br>最近发生的两件事，触发了上面这个想法<br><br>1.前几天我一个创业的高中同学，想找我开发一款小程序，类似商城那种，做产品展示、价目、案例库等。但我没接触过小程序开发，尴尬的拒绝了<br><br>事后反思了下，这种功能如果是公司产品提的后端需求，在现有项目上，很快就能开发完，为啥去一个新平台，独立开发一款小程序，我竟然一点思路都没有，愧对程序员这个角色<br><br>2.加了一个前腾讯的全栈开发者，他研发了两款app，其中一款是一个扫码聚合工具，方便用户的使用，这款产品确实可以解决用户痛点，我也向他请教了盈利模式，主要是广告或者内购<br><br>他挖掘用户痛点，是一款产品的切入点，然后转化成产品，开发应该不难，通过识别二维码，定位到应用，然后根据应用的协议，采用调起app还是落地页完成扫码，里面的工作量我理解是二维码解析、域名到app的映射、app调起或落地页调起<br><br>事后，觉得自己需要具备离开公司，独立开发一款产品的能力，类似小程序或者app，或者网站<br>如果后续做独立开发者，做成一款产品才是核心能力，至于那些架构、高并发等，都是后续的事，甚至永远触碰不到的事儿]]></description>
-            <pubDate>Sat, 07 Oct 2023 03:16:54 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6520cda64101002b06ee7111</guid>
-            <link>https://m.okjike.com/originalPosts/6520cda64101002b06ee7111</link>
-            
-            
-            
-            <author><![CDATA[每天晒白牙]]></author>
             
                 
             
