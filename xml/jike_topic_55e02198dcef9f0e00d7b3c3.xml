@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 16 Oct 2023 03:41:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Oct 2023 07:53:49 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -41,15 +41,31 @@
         </item>
         
         <item>
-            <title><![CDATA[初创公司的移动端建议用什么架构？]]></title>
-            <description><![CDATA[初创公司的移动端建议用什么架构？]]></description>
-            <pubDate>Sat, 14 Oct 2023 12:35:16 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/652a8b04af95215b83fbd4af</guid>
-            <link>https://m.okjike.com/originalPosts/652a8b04af95215b83fbd4af</link>
+            <title><![CDATA[＃ Auto-i18n 仅需将博客文章推送至 GitHub 仓库，即可借助 ChatGPT 和 GitHub Actions 自动转译为多种语言。 （附图：博客支持 i18n 后浏览量提升十分显著） 项...]]></title>
+            <description><![CDATA[＃ Auto-i18n<br><br>仅需将博客文章推送至 GitHub 仓库，即可借助 ChatGPT 和 GitHub Actions 自动转译为多种语言。<br><br>（附图：博客支持 i18n 后浏览量提升十分显著）<br><br>项目仓库：https://github.com/linyuxuanlin/Auto-i18n<br>介绍文章：https://wiki-power.com/Auto-i18n%EF%BC%9A%E4%BD%BF%E7%94%A8ChatGPT%E7%9A%84%E8%87%AA%E5%8A%A8%E5%A4%9A%E8%AF%AD%E8%A8%80%E7%BF%BB%E8%AF%91%E5%B7%A5%E5%85%B7/<br><img src="https://cdnv2.ruguoapp.com/FqYovIgkZUNEK0AQgTN46MVU04g9v3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sun, 15 Oct 2023 12:46:58 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/652bdf42d5f9a5727ff892b7</guid>
+            <link>https://m.okjike.com/originalPosts/652bdf42d5f9a5727ff892b7</link>
             
             
             
-            <author><![CDATA[wei智]]></author>
+            <author><![CDATA[PowerLin]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[网友大佬们推荐一下好用的chatgpt,免费或者少量付费都可以鸭]]></title>
+            <description><![CDATA[网友大佬们推荐一下好用的chatgpt,免费或者少量付费都可以鸭]]></description>
+            <pubDate>Sun, 15 Oct 2023 09:44:36 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/652bb484aa7d4f2b306e7796</guid>
+            <link>https://m.okjike.com/originalPosts/652bb484aa7d4f2b306e7796</link>
+            
+            
+            
+            <author><![CDATA[感谢你曾来过]]></author>
             
                 
             
@@ -89,24 +105,8 @@
         </item>
         
         <item>
-            <title><![CDATA[宝藏！超过 1500 个免费的公共API，涵盖地理、交通、安全、文本分析等领域]]></title>
-            <description><![CDATA[<img src="https://repository-images.githubusercontent.com/54346799/e5ee272c-dfe1-40e5-b66b-b0a36e815254" referrerpolicy="no-referrer"><br>                    <a href="https://github.com/public-apis/public-apis">GitHub - public-apis/public-apis: A collective list of free APIs</a><br>                <br>宝藏！超过 1500 个免费的公共API，涵盖地理、交通、安全、文本分析等领域]]></description>
-            <pubDate>Fri, 13 Oct 2023 01:46:08 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6528a1609a83b06c46a63e63</guid>
-            <link>https://m.okjike.com/originalPosts/6528a1609a83b06c46a63e63</link>
-            
-            
-            
-            <author><![CDATA[Aokven]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[微软研发的 AutoGen 框架太强大了，它是一个多代理框架，利用它可以轻松定制一系列工作任务。https://github.com/microsoft/autogen 举一个常见的例子：我们要实...]]></title>
-            <description><![CDATA[微软研发的 AutoGen 框架太强大了，它是一个多代理框架，利用它可以轻松定制一系列工作任务。https://github.com/microsoft/autogen<br><br>举一个常见的例子：我们要实现一个爬虫程序，抓取并保存网页图片。如果把这个任务丢给 ChatGPT，它会直接返回一串可执行代码，但是代码通常会存在问题，例如执行报错、缺少依赖等，你需要反复跟 ChatGPT 对话来完善程序。当然，我们也可以设定一个复杂 Prompt，要求它调用 ChatGPT 的代码执行插件，如果存在报错，则继续修正程序。<br><br>这个任务如果交给 AutoGen 来实现，将会变得无比简单，几行代码就可以搞定：<br><br>1）定义一个 Assistant Agent，它的任务是解决问题<br>2）定义一个 UserProxy Agent，它的任务是替代人询问问题，同时在本地执行程序<br><br>这两个 Agent 都不需要给他们设置 Prompt。当我们把爬虫任务交给 UserProxy 后，它会理解任务，然后询问 Assistant 应该如何做，Assistant 会把操作过程告诉 UserProxy，接着 UserProxy 会根据指示在本地安装依赖，然后创建文件执行代码，如果执行出现错误，它会把详细报错提交给 Assistant，依次循环，直到可以获取到最终的结果。任务结束的时候，你会看到目标图片已经保存到本地磁盘了。<br><br>利用这个框架可以做的事情非常多，它提供的能力也十分完善，可以在项目的 notebook 中找到很多最佳实践：https://github.com/microsoft/autogen/tree/main/notebook<br><br>P.S. 为了确保安全，还是建议你在 Docker 环境中执行程序，UserProxy 有一个 code_execution_config 配置，将 use_docker 配置为 True 即可；另外，它还有一个 human_input_mode 参数，设置为 NEVER，表示整个过程都不需要人参与，也可以设置为其他值，它会等待人的输入后再进行下一步操作，这个设计可以让人参与到任务执行过程，避免跑偏。<br><video src="https://videocdn.jellow.site/lkWnEGfgMgVCTtt-7peqFpQkc3rT.mp4?sign=da6d31c03f2137263b6f29c02b6444e2&amp;t=652cb7c5" controls=""></video>]]></description>
+            <description><![CDATA[微软研发的 AutoGen 框架太强大了，它是一个多代理框架，利用它可以轻松定制一系列工作任务。https://github.com/microsoft/autogen<br><br>举一个常见的例子：我们要实现一个爬虫程序，抓取并保存网页图片。如果把这个任务丢给 ChatGPT，它会直接返回一串可执行代码，但是代码通常会存在问题，例如执行报错、缺少依赖等，你需要反复跟 ChatGPT 对话来完善程序。当然，我们也可以设定一个复杂 Prompt，要求它调用 ChatGPT 的代码执行插件，如果存在报错，则继续修正程序。<br><br>这个任务如果交给 AutoGen 来实现，将会变得无比简单，几行代码就可以搞定：<br><br>1）定义一个 Assistant Agent，它的任务是解决问题<br>2）定义一个 UserProxy Agent，它的任务是替代人询问问题，同时在本地执行程序<br><br>这两个 Agent 都不需要给他们设置 Prompt。当我们把爬虫任务交给 UserProxy 后，它会理解任务，然后询问 Assistant 应该如何做，Assistant 会把操作过程告诉 UserProxy，接着 UserProxy 会根据指示在本地安装依赖，然后创建文件执行代码，如果执行出现错误，它会把详细报错提交给 Assistant，依次循环，直到可以获取到最终的结果。任务结束的时候，你会看到目标图片已经保存到本地磁盘了。<br><br>利用这个框架可以做的事情非常多，它提供的能力也十分完善，可以在项目的 notebook 中找到很多最佳实践：https://github.com/microsoft/autogen/tree/main/notebook<br><br>P.S. 为了确保安全，还是建议你在 Docker 环境中执行程序，UserProxy 有一个 code_execution_config 配置，将 use_docker 配置为 True 即可；另外，它还有一个 human_input_mode 参数，设置为 NEVER，表示整个过程都不需要人参与，也可以设置为其他值，它会等待人的输入后再进行下一步操作，这个设计可以让人参与到任务执行过程，避免跑偏。<br><video src="https://videocdn.jellow.site/lkWnEGfgMgVCTtt-7peqFpQkc3rT.mp4?sign=43790e9278433b6a61d8a881bcceb79b&amp;t=652cf21c" controls=""></video>]]></description>
             <pubDate>Thu, 12 Oct 2023 10:02:58 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6527c452fb5ea50a73e2b33b</guid>
             <link>https://m.okjike.com/originalPosts/6527c452fb5ea50a73e2b33b</link>
