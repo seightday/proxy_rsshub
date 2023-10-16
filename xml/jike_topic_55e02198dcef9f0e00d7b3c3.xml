@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 16 Oct 2023 07:53:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Oct 2023 12:00:05 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[分享一个图解React源码的博客，系列文章用大量配图的方式，从React核心包结构和运行机制为主线索展开，讲解了许多React底层原理，是一份非常优质的学习资料。地...]]></title>
+            <description><![CDATA[分享一个图解React源码的博客，系列文章用大量配图的方式，从React核心包结构和运行机制为主线索展开，讲解了许多React底层原理，是一份非常优质的学习资料。地址：https://7km.top/<br><img src="https://cdnv2.ruguoapp.com/FtOvwagR8TeU4YrC6dk6gPh3wcyjv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 16 Oct 2023 02:54:13 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/652ca5d5d5f9a5727f073655</guid>
+            <link>https://m.okjike.com/originalPosts/652ca5d5d5f9a5727f073655</link>
+            
+            
+            
+            <author><![CDATA[BigYe程普]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[有个老乡，在惠州开了家公司，就几个人，老板和漂亮秘书出镜拍程序员段子视频，各个平台发。 最后盈利模式是从不懂开发的老板手里接单，再二次发包给兼职程序员...]]></title>
@@ -106,7 +122,7 @@
         
         <item>
             <title><![CDATA[微软研发的 AutoGen 框架太强大了，它是一个多代理框架，利用它可以轻松定制一系列工作任务。https://github.com/microsoft/autogen 举一个常见的例子：我们要实...]]></title>
-            <description><![CDATA[微软研发的 AutoGen 框架太强大了，它是一个多代理框架，利用它可以轻松定制一系列工作任务。https://github.com/microsoft/autogen<br><br>举一个常见的例子：我们要实现一个爬虫程序，抓取并保存网页图片。如果把这个任务丢给 ChatGPT，它会直接返回一串可执行代码，但是代码通常会存在问题，例如执行报错、缺少依赖等，你需要反复跟 ChatGPT 对话来完善程序。当然，我们也可以设定一个复杂 Prompt，要求它调用 ChatGPT 的代码执行插件，如果存在报错，则继续修正程序。<br><br>这个任务如果交给 AutoGen 来实现，将会变得无比简单，几行代码就可以搞定：<br><br>1）定义一个 Assistant Agent，它的任务是解决问题<br>2）定义一个 UserProxy Agent，它的任务是替代人询问问题，同时在本地执行程序<br><br>这两个 Agent 都不需要给他们设置 Prompt。当我们把爬虫任务交给 UserProxy 后，它会理解任务，然后询问 Assistant 应该如何做，Assistant 会把操作过程告诉 UserProxy，接着 UserProxy 会根据指示在本地安装依赖，然后创建文件执行代码，如果执行出现错误，它会把详细报错提交给 Assistant，依次循环，直到可以获取到最终的结果。任务结束的时候，你会看到目标图片已经保存到本地磁盘了。<br><br>利用这个框架可以做的事情非常多，它提供的能力也十分完善，可以在项目的 notebook 中找到很多最佳实践：https://github.com/microsoft/autogen/tree/main/notebook<br><br>P.S. 为了确保安全，还是建议你在 Docker 环境中执行程序，UserProxy 有一个 code_execution_config 配置，将 use_docker 配置为 True 即可；另外，它还有一个 human_input_mode 参数，设置为 NEVER，表示整个过程都不需要人参与，也可以设置为其他值，它会等待人的输入后再进行下一步操作，这个设计可以让人参与到任务执行过程，避免跑偏。<br><video src="https://videocdn.jellow.site/lkWnEGfgMgVCTtt-7peqFpQkc3rT.mp4?sign=43790e9278433b6a61d8a881bcceb79b&amp;t=652cf21c" controls=""></video>]]></description>
+            <description><![CDATA[微软研发的 AutoGen 框架太强大了，它是一个多代理框架，利用它可以轻松定制一系列工作任务。https://github.com/microsoft/autogen<br><br>举一个常见的例子：我们要实现一个爬虫程序，抓取并保存网页图片。如果把这个任务丢给 ChatGPT，它会直接返回一串可执行代码，但是代码通常会存在问题，例如执行报错、缺少依赖等，你需要反复跟 ChatGPT 对话来完善程序。当然，我们也可以设定一个复杂 Prompt，要求它调用 ChatGPT 的代码执行插件，如果存在报错，则继续修正程序。<br><br>这个任务如果交给 AutoGen 来实现，将会变得无比简单，几行代码就可以搞定：<br><br>1）定义一个 Assistant Agent，它的任务是解决问题<br>2）定义一个 UserProxy Agent，它的任务是替代人询问问题，同时在本地执行程序<br><br>这两个 Agent 都不需要给他们设置 Prompt。当我们把爬虫任务交给 UserProxy 后，它会理解任务，然后询问 Assistant 应该如何做，Assistant 会把操作过程告诉 UserProxy，接着 UserProxy 会根据指示在本地安装依赖，然后创建文件执行代码，如果执行出现错误，它会把详细报错提交给 Assistant，依次循环，直到可以获取到最终的结果。任务结束的时候，你会看到目标图片已经保存到本地磁盘了。<br><br>利用这个框架可以做的事情非常多，它提供的能力也十分完善，可以在项目的 notebook 中找到很多最佳实践：https://github.com/microsoft/autogen/tree/main/notebook<br><br>P.S. 为了确保安全，还是建议你在 Docker 环境中执行程序，UserProxy 有一个 code_execution_config 配置，将 use_docker 配置为 True 即可；另外，它还有一个 human_input_mode 参数，设置为 NEVER，表示整个过程都不需要人参与，也可以设置为其他值，它会等待人的输入后再进行下一步操作，这个设计可以让人参与到任务执行过程，避免跑偏。<br><video src="https://videocdn.jellow.site/lkWnEGfgMgVCTtt-7peqFpQkc3rT.mp4?sign=345a26f5cadd495d564e723bce434885&amp;t=652d2c0d" controls=""></video>]]></description>
             <pubDate>Thu, 12 Oct 2023 10:02:58 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6527c452fb5ea50a73e2b33b</guid>
             <link>https://m.okjike.com/originalPosts/6527c452fb5ea50a73e2b33b</link>
@@ -130,22 +146,6 @@
             
             
             <author><![CDATA[nginx.eth]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[我做开源项目的一些经历： 1. 成为一个Markdown工程师，专注写开源文档、电子书、学习资料啥的，或者搞各种Awesome收藏列表，这类项目涨星最快，最能获得成就感...]]></title>
-            <description><![CDATA[我做开源项目的一些经历：<br><br>1. 成为一个Markdown工程师，专注写开源文档、电子书、学习资料啥的，或者搞各种Awesome收藏列表，这类项目涨星最快，最能获得成就感，比如我的这个项目：awesome-seo（https://github.com/madawei2699/awesome-seo）花了几天时间写完，其实半天就能搞定，主要是把我之前收集的资料列举下就行，英文版还是其他人弄的，已经1.8K的星了。我一开始也看不起这类项目，但真的能鼓励我继续搞下去，因为之前没有人关注我，所以刚开始搞这类项目也可以。<br><br>2. 追热点搞开源，比如AI在今年三月非常火，你只要手快，搞一个就能获得大量关注，比如我的这个项目：myGPTReader（https://github.com/madawei2699/myGPTReader） 花了十几天获得了4千多的星，还收获了大量的follower，其实这个项目80%的代码都是ChatGPT写的，我只是负责设计与测试，所以追对风口很关键。<br><br>3. 搞自己擅长的东西，比如Invest Alchemy（https://github.com/bmpi-dev/invest-alchemy） 这个投资相关的产品，就是我把我想做的给开源出来了，不过没做好，都是我一个人搞，最主要的是没有好的文档，当然这是我的问题，不过做自己喜欢的也是一个不错的开始。<br><br>4. 做自己想学习的东西，比如一段时间我想学webRTC，于是用Elixir与Golang搞了这个free4chat（https://github.com/madawei2699/free4chat）的开源项目，虽然是小众语言，但也快一千星了，我也学会了我想学的东西。<br><br>5. 参与知名开源项目，比如我在项目中遇到了Kaniko（https://github.com/GoogleContainerTools/kaniko）构建docker镜像的bug，于是花了一些时间去给这个热门项目提了PR，直到一年后这个PR被Google给合并到主分分支了，虽然是相当于给长城上贴了一块砖，但也让我高兴了一段时间，毕竟是个大项目。]]></description>
-            <pubDate>Tue, 10 Oct 2023 12:36:48 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/652545604fd7ddb1116882aa</guid>
-            <link>https://m.okjike.com/originalPosts/652545604fd7ddb1116882aa</link>
-            
-            
-            
-            <author><![CDATA[DaweiMa]]></author>
             
                 
             
