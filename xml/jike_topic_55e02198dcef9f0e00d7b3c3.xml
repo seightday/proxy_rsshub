@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 16 Oct 2023 12:00:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Oct 2023 14:00:10 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[海外产品开发套件（不定期更新） 做海外产品的开发会让人感到幸福，因为有许多优秀的开发套件——从代码部署到谷歌登录，从订阅收款到分销联盟，都能直接组装使...]]></title>
+            <description><![CDATA[海外产品开发套件（不定期更新）<br><br>做海外产品的开发会让人感到幸福，因为有许多优秀的开发套件——从代码部署到谷歌登录，从订阅收款到分销联盟，都能直接组装使用。<br><br>我们可以像搭积木一样，形成一套趁手的研发模板，快速进入业务开发，解决真正的问题。<br><br>以下是我正在或计划使用的服务，欢迎推荐补充。<br><br>Cloudflare 推荐过无数次了，我的海外项目都接入了他们的服务：DNS、SSL、CDN、缓存、防火墙、统计、Workers……最近还发布了 Workers AI。Cloudflare 后台每个子菜单都值得花时间去了解一下具体应用场景，比如还有蛮多人不知道 Worker 是可以运行 Puppeteer 的。<br><br>Vercel 是一个从 Next.js 发展而来的部署平台，也有数据存储、Edge Functions。官方支持的框架语言以 JavaScript 为主，但实际上也可以运行 PHP、Python 等等。开发者社区非常活跃，官方模板是一个找现成轮子的好地方。类似服务：https://render.com、https://railway.app、https://fly.io<br><br>一般我们做项目会先看看有没开源项目参考，更进一步还可以去找现成的 API：https://rapidapi.com <br><br>AI 模型、GPU 相关服务：https://replicate.com、https://huggingface.co、https://runpod.io、https://vast.ai<br><br>Supabase 主打 PostgreSQL 数据库服务，并且集成了用户登录验证，换句话说，前端登录界面都不用自己写了。Supabase 同样也有数据存储、Edge Functions，近期还上线了向量数据库。类似服务：https://clerk.com、https://planetscale.com、https://neon.tech、https://mongodb.com、https://upstash.com<br><br>Stripe 是海外收款的首选，几乎能想到与收款相关的服务，他们都有相应产品。接入也不难，Vercel 还有一个 Stripe 订阅模板，第一次见如此详尽的开发文档。类似服务：https://paddle.com、https://lemonsqueezy.com<br><br>Affiliate 分销联盟是一个不可忽略的推广方式。https://rewardful.com 用的人比较多，它能跟 Stripe 关联，用户注册的体验也很流畅。类似服务：https://tapfiliate.com、https://tolt.io<br><br>邮件服务就非常多了，免费的可以用 Amazon SES，邮件营销还是建议选择成熟的付费服务。我的项目在用 https://mailjet.com，体验下来足够简单，也便宜。类似服务：https://mailgun.com、https://resend.com、https://postmarkapp.com、https://brevo.com<br><br>域名邮箱可以使用 https://zoho.com，最便宜 $1/月，还要什么自行车。类似服务：https://mymangomail.com<br><br>数据统计已经受够了 Google Analytics，于是换成了 https://plausible.io，也有开源版本。类似服务：https://beamanalytics.io<br><br>错误跟踪可以使用 https://sentry.io，只要代码写得不太烂，免费额度应该是够用的，同样也有开源版本。类似服务：https://rollbar.com、https://newrelic.com<br><br>本列表会不定期更新，欢迎转发、收藏。]]></description>
+            <pubDate>Mon, 16 Oct 2023 12:08:44 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/652d27cc99f2123c740acfda</guid>
+            <link>https://m.okjike.com/originalPosts/652d27cc99f2123c740acfda</link>
+            
+            
+            
+            <author><![CDATA[赖嘉伟Gary]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[分享一个图解React源码的博客，系列文章用大量配图的方式，从React核心包结构和运行机制为主线索展开，讲解了许多React底层原理，是一份非常优质的学习资料。地...]]></title>
@@ -73,22 +89,6 @@
         </item>
         
         <item>
-            <title><![CDATA[网友大佬们推荐一下好用的chatgpt,免费或者少量付费都可以鸭]]></title>
-            <description><![CDATA[网友大佬们推荐一下好用的chatgpt,免费或者少量付费都可以鸭]]></description>
-            <pubDate>Sun, 15 Oct 2023 09:44:36 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/652bb484aa7d4f2b306e7796</guid>
-            <link>https://m.okjike.com/originalPosts/652bb484aa7d4f2b306e7796</link>
-            
-            
-            
-            <author><![CDATA[感谢你曾来过]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[一键更换系统软件源脚本，解决换源苦恼。https://github.com/SuperManito/LinuxMirrors]]></title>
             <description><![CDATA[一键更换系统软件源脚本，解决换源苦恼。https://github.com/SuperManito/LinuxMirrors<br><img src="https://cdnv2.ruguoapp.com/Fgke8x6FaAfjjbNXgQNkZtc49Gi0v3.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Sat, 14 Oct 2023 07:47:15 GMT</pubDate>
@@ -122,7 +122,7 @@
         
         <item>
             <title><![CDATA[微软研发的 AutoGen 框架太强大了，它是一个多代理框架，利用它可以轻松定制一系列工作任务。https://github.com/microsoft/autogen 举一个常见的例子：我们要实...]]></title>
-            <description><![CDATA[微软研发的 AutoGen 框架太强大了，它是一个多代理框架，利用它可以轻松定制一系列工作任务。https://github.com/microsoft/autogen<br><br>举一个常见的例子：我们要实现一个爬虫程序，抓取并保存网页图片。如果把这个任务丢给 ChatGPT，它会直接返回一串可执行代码，但是代码通常会存在问题，例如执行报错、缺少依赖等，你需要反复跟 ChatGPT 对话来完善程序。当然，我们也可以设定一个复杂 Prompt，要求它调用 ChatGPT 的代码执行插件，如果存在报错，则继续修正程序。<br><br>这个任务如果交给 AutoGen 来实现，将会变得无比简单，几行代码就可以搞定：<br><br>1）定义一个 Assistant Agent，它的任务是解决问题<br>2）定义一个 UserProxy Agent，它的任务是替代人询问问题，同时在本地执行程序<br><br>这两个 Agent 都不需要给他们设置 Prompt。当我们把爬虫任务交给 UserProxy 后，它会理解任务，然后询问 Assistant 应该如何做，Assistant 会把操作过程告诉 UserProxy，接着 UserProxy 会根据指示在本地安装依赖，然后创建文件执行代码，如果执行出现错误，它会把详细报错提交给 Assistant，依次循环，直到可以获取到最终的结果。任务结束的时候，你会看到目标图片已经保存到本地磁盘了。<br><br>利用这个框架可以做的事情非常多，它提供的能力也十分完善，可以在项目的 notebook 中找到很多最佳实践：https://github.com/microsoft/autogen/tree/main/notebook<br><br>P.S. 为了确保安全，还是建议你在 Docker 环境中执行程序，UserProxy 有一个 code_execution_config 配置，将 use_docker 配置为 True 即可；另外，它还有一个 human_input_mode 参数，设置为 NEVER，表示整个过程都不需要人参与，也可以设置为其他值，它会等待人的输入后再进行下一步操作，这个设计可以让人参与到任务执行过程，避免跑偏。<br><video src="https://videocdn.jellow.site/lkWnEGfgMgVCTtt-7peqFpQkc3rT.mp4?sign=345a26f5cadd495d564e723bce434885&amp;t=652d2c0d" controls=""></video>]]></description>
+            <description><![CDATA[微软研发的 AutoGen 框架太强大了，它是一个多代理框架，利用它可以轻松定制一系列工作任务。https://github.com/microsoft/autogen<br><br>举一个常见的例子：我们要实现一个爬虫程序，抓取并保存网页图片。如果把这个任务丢给 ChatGPT，它会直接返回一串可执行代码，但是代码通常会存在问题，例如执行报错、缺少依赖等，你需要反复跟 ChatGPT 对话来完善程序。当然，我们也可以设定一个复杂 Prompt，要求它调用 ChatGPT 的代码执行插件，如果存在报错，则继续修正程序。<br><br>这个任务如果交给 AutoGen 来实现，将会变得无比简单，几行代码就可以搞定：<br><br>1）定义一个 Assistant Agent，它的任务是解决问题<br>2）定义一个 UserProxy Agent，它的任务是替代人询问问题，同时在本地执行程序<br><br>这两个 Agent 都不需要给他们设置 Prompt。当我们把爬虫任务交给 UserProxy 后，它会理解任务，然后询问 Assistant 应该如何做，Assistant 会把操作过程告诉 UserProxy，接着 UserProxy 会根据指示在本地安装依赖，然后创建文件执行代码，如果执行出现错误，它会把详细报错提交给 Assistant，依次循环，直到可以获取到最终的结果。任务结束的时候，你会看到目标图片已经保存到本地磁盘了。<br><br>利用这个框架可以做的事情非常多，它提供的能力也十分完善，可以在项目的 notebook 中找到很多最佳实践：https://github.com/microsoft/autogen/tree/main/notebook<br><br>P.S. 为了确保安全，还是建议你在 Docker 环境中执行程序，UserProxy 有一个 code_execution_config 配置，将 use_docker 配置为 True 即可；另外，它还有一个 human_input_mode 参数，设置为 NEVER，表示整个过程都不需要人参与，也可以设置为其他值，它会等待人的输入后再进行下一步操作，这个设计可以让人参与到任务执行过程，避免跑偏。<br><video src="https://videocdn.jellow.site/lkWnEGfgMgVCTtt-7peqFpQkc3rT.mp4?sign=0c98a4cccf08ce8eed8b2f71a7120491&amp;t=652d4757" controls=""></video>]]></description>
             <pubDate>Thu, 12 Oct 2023 10:02:58 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6527c452fb5ea50a73e2b33b</guid>
             <link>https://m.okjike.com/originalPosts/6527c452fb5ea50a73e2b33b</link>
