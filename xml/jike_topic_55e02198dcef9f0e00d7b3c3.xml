@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 17 Oct 2023 04:13:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Oct 2023 06:24:30 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -50,6 +50,22 @@
             
             
             <author><![CDATA[赖嘉伟Gary]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[分享一个图解React源码的博客，系列文章用大量配图的方式，从React核心包结构和运行机制为主线索展开，讲解了许多React底层原理，是一份非常优质的学习资料。地...]]></title>
+            <description><![CDATA[分享一个图解React源码的博客，系列文章用大量配图的方式，从React核心包结构和运行机制为主线索展开，讲解了许多React底层原理，是一份非常优质的学习资料。地址：https://7km.top/<br><img src="https://cdnv2.ruguoapp.com/FtOvwagR8TeU4YrC6dk6gPh3wcyjv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 16 Oct 2023 02:54:13 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/652ca5d5d5f9a5727f073655</guid>
+            <link>https://m.okjike.com/originalPosts/652ca5d5d5f9a5727f073655</link>
+            
+            
+            
+            <author><![CDATA[BigYe程普]]></author>
             
                 
             
@@ -89,22 +105,6 @@
         </item>
         
         <item>
-            <title><![CDATA[网友大佬们推荐一下好用的chatgpt,免费或者少量付费都可以鸭]]></title>
-            <description><![CDATA[网友大佬们推荐一下好用的chatgpt,免费或者少量付费都可以鸭]]></description>
-            <pubDate>Sun, 15 Oct 2023 09:44:36 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/652bb484aa7d4f2b306e7796</guid>
-            <link>https://m.okjike.com/originalPosts/652bb484aa7d4f2b306e7796</link>
-            
-            
-            
-            <author><![CDATA[感谢你曾来过]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[分享一些我常用的提升开发效率的工具： #AI工具 GitHub Copilot：能极大的提高效率，不仅能在编辑器中根据代码上下文自动编写代码，还能以ChatGPT对话的方式回答...]]></title>
             <description><![CDATA[分享一些我常用的提升开发效率的工具：<br><br>#AI工具 <br><br>GitHub Copilot：能极大的提高效率，不仅能在编辑器中根据代码上下文自动编写代码，还能以ChatGPT对话的方式回答问题。有了它，极大的降低了对StackOverflow的依赖。<br><br>ChatGPT：虽然GitHub Copilot以及能在写代码方面平替ChatGPT，但ChatGPT的GPT4 V的识图功能、DALL E3的绘图功能、移动端的语音对话功能都是GitHub Copilot无法替代的。用ChatGPT绘图或练英语还是很方便的。<br><br>https://v0.dev/：Vercel出品的AI画UI的神器，试了下，的确能大幅度降低画UI的工作量，相比ChatGPT直接生成代码，V0能以可视化的方式修改界面，这是ChatGPT无法做到的。<br><br>#开发工具 <br><br>VSCode：因为免费轻量级，哪怕是安装了很多插件，速度也比IDEA快。当然如果开发Java的话，IDEA还是更胜一筹。<br><br>DBeaver：数据库连接工具，主打免费可连接多种数据库。<br><br>pgAdmin4：管理PG数据库的工具，比DBeaver在PG的管理上更强一点。<br>云平台<br><br>GitHub：虽然你对GitHub估计很熟悉了，但也推荐看这篇文章：善用GitHub（https://www.bmpi.dev/self/use-github-better/）。<br><br>Cloudflare：Serverless最好的平台，能提供如常用的存储R2、KV数据库、CDN、Pages、Worker、MQ、甚至运行AI模型，我开发的个人产品（https://www.i365.tech/）大多都用它运行的。<br><br>Vercel：很适合部署运行Next.js的前端项目，Cloudflare Pages运行Next.js还需要额外的一些配置。<br><br>Fly.io：非常好的容器化平台，它能弥补Cloudflare只能运行Serverless的不足，能以Docker的方式运行各种重型API服务。<br><br>AWS/Azure/GCP：作为一个巨无霸的云平台，他们可以补充上面云平台所缺失的东西，比如AWS SES就是一个非常好的发邮件服务。<br><br>Newrelic：非常好的监控平台，尤其是它能作为免费的日志搜索平台，我把我产品的系统日志都上传到这个平台，然后对日志进行监控。一般的日志平台都是ES架构，价格并不便宜，单Newrelic却能免费。<br><br>Optimizely：一个不错的feature toggle平台，可以很方便的做产品的A/B测试。<br><br>#分析工具 <br><br>Umami：GA的开源平替，我网站流量都是用它监控的，速度快，数据还是自己的。<br><br>Plausible：更高级的GA开源平替，比Umami提供更多功能，但托管所需服务比较多，前者能免费跑在Vercel平台上。<br><br>Mixpanel：更更高级的GA商业平替，能做很复杂的用户行为分析与溯源，比GA高级多了。<br>支付平台<br><br>Lemonsqueezy：出海必备的支付平台，用国内身份就可以开通，然后开启出海之旅，赚美刀。<br><br>Stripe：相比前者，虽然费率便宜一些，但国内身份没发开通，需要做一些比较复杂的操作才能开通，比如开通一个美国或香港公司就可以开。<br><br>#绘图工具 <br><br>Excalidraw：非常好用的白板画图工具，适合个人使用。<br><br>PlantUML：一个支持文本绘制类UML图的工具，可以在Real World Plantuml找到很多用它实现的图。<br><br>Mermaid：通过文本生成各种UML图，最大的亮点是GitHub官方Markdown支持它，能渲染出多种图形如时序图与架构图等。<br><br>asciiflow：能简单的免费在线绘制ASCII风格图的网站，C语言大佬最爱的RFC风格绘图工具。<br><br>Sketch/OmniGraffle/Lucidchart/Draw.io/Google Drawings/Visio：这类工具相比大家或多或少用过，都是一些桌面端或浏览器常用的画图工具。<br><br>#综合工具 <br><br>Logseq：OKR + GTD + Note =&gt; Logseq（https://www.bmpi.dev/self/okr-gtd-note-logseq/），看完这篇文章，你会知道我为何而推荐这个工具，能做笔记、能规划任务或做OKR啥的。<br><br>Beancount：完美记账工具，配合Git能做到数据安全可控，可以看这篇我写的文章：使用Beancount管理家庭财务（https://www.bmpi.dev/self/beancount-my-accounting-tool-v2/），谁再给你推荐记账工具，请把这篇文章扔给他们看。<br><br>#浏览器插件 <br><br>AdblockPlus：这款插件可以自动屏蔽网站里的绝大多数广告，无需额外复杂的配置，安装好即可。<br><br>沉浸式翻译：搭配OpenAI的API Key可以做到非常完美的多语言网页翻译，读外文资料无障碍。<br><br>Internet Archive：网页时光机，很多网页因为时间很久的缘故可能无法访问（404），这个插件可以帮助我们找回这个页面，甚至可以像时光机一样查看网页不同时期的版本。<br><br>Screely：截屏工具，主要是能美化截屏界面，让其不再难看，比如加点背景。<br><br>wappalyzer：查看网站技术栈，比如使用它一些主流网站的技术栈。<br><br>SimilarWeb：查看网站PV流量的工具，但是结果有时候准确，有时候偏差挺大的。<br><br>SEOquake：查看网站的SEO相关的信息，如外链数量、索引数量、SEO的站内问题等。<br><br>Keyword Surfer：关键词工具，可以查看一些关键词的月搜索量。<br><br>META SEO inspector：网页Meta信息查看工具，可以方便地解决一些网页SEO的基本问题。]]></description>
             <pubDate>Sat, 14 Oct 2023 02:55:33 GMT</pubDate>
@@ -122,7 +122,7 @@
         
         <item>
             <title><![CDATA[微软研发的 AutoGen 框架太强大了，它是一个多代理框架，利用它可以轻松定制一系列工作任务。https://github.com/microsoft/autogen 举一个常见的例子：我们要实...]]></title>
-            <description><![CDATA[微软研发的 AutoGen 框架太强大了，它是一个多代理框架，利用它可以轻松定制一系列工作任务。https://github.com/microsoft/autogen<br><br>举一个常见的例子：我们要实现一个爬虫程序，抓取并保存网页图片。如果把这个任务丢给 ChatGPT，它会直接返回一串可执行代码，但是代码通常会存在问题，例如执行报错、缺少依赖等，你需要反复跟 ChatGPT 对话来完善程序。当然，我们也可以设定一个复杂 Prompt，要求它调用 ChatGPT 的代码执行插件，如果存在报错，则继续修正程序。<br><br>这个任务如果交给 AutoGen 来实现，将会变得无比简单，几行代码就可以搞定：<br><br>1）定义一个 Assistant Agent，它的任务是解决问题<br>2）定义一个 UserProxy Agent，它的任务是替代人询问问题，同时在本地执行程序<br><br>这两个 Agent 都不需要给他们设置 Prompt。当我们把爬虫任务交给 UserProxy 后，它会理解任务，然后询问 Assistant 应该如何做，Assistant 会把操作过程告诉 UserProxy，接着 UserProxy 会根据指示在本地安装依赖，然后创建文件执行代码，如果执行出现错误，它会把详细报错提交给 Assistant，依次循环，直到可以获取到最终的结果。任务结束的时候，你会看到目标图片已经保存到本地磁盘了。<br><br>利用这个框架可以做的事情非常多，它提供的能力也十分完善，可以在项目的 notebook 中找到很多最佳实践：https://github.com/microsoft/autogen/tree/main/notebook<br><br>P.S. 为了确保安全，还是建议你在 Docker 环境中执行程序，UserProxy 有一个 code_execution_config 配置，将 use_docker 配置为 True 即可；另外，它还有一个 human_input_mode 参数，设置为 NEVER，表示整个过程都不需要人参与，也可以设置为其他值，它会等待人的输入后再进行下一步操作，这个设计可以让人参与到任务执行过程，避免跑偏。<br><video src="https://videocdn.jellow.site/lkWnEGfgMgVCTtt-7peqFpQkc3rT.mp4?sign=723568245445b4e92dc9db5f5cabf8fa&amp;t=652e1109" controls=""></video>]]></description>
+            <description><![CDATA[微软研发的 AutoGen 框架太强大了，它是一个多代理框架，利用它可以轻松定制一系列工作任务。https://github.com/microsoft/autogen<br><br>举一个常见的例子：我们要实现一个爬虫程序，抓取并保存网页图片。如果把这个任务丢给 ChatGPT，它会直接返回一串可执行代码，但是代码通常会存在问题，例如执行报错、缺少依赖等，你需要反复跟 ChatGPT 对话来完善程序。当然，我们也可以设定一个复杂 Prompt，要求它调用 ChatGPT 的代码执行插件，如果存在报错，则继续修正程序。<br><br>这个任务如果交给 AutoGen 来实现，将会变得无比简单，几行代码就可以搞定：<br><br>1）定义一个 Assistant Agent，它的任务是解决问题<br>2）定义一个 UserProxy Agent，它的任务是替代人询问问题，同时在本地执行程序<br><br>这两个 Agent 都不需要给他们设置 Prompt。当我们把爬虫任务交给 UserProxy 后，它会理解任务，然后询问 Assistant 应该如何做，Assistant 会把操作过程告诉 UserProxy，接着 UserProxy 会根据指示在本地安装依赖，然后创建文件执行代码，如果执行出现错误，它会把详细报错提交给 Assistant，依次循环，直到可以获取到最终的结果。任务结束的时候，你会看到目标图片已经保存到本地磁盘了。<br><br>利用这个框架可以做的事情非常多，它提供的能力也十分完善，可以在项目的 notebook 中找到很多最佳实践：https://github.com/microsoft/autogen/tree/main/notebook<br><br>P.S. 为了确保安全，还是建议你在 Docker 环境中执行程序，UserProxy 有一个 code_execution_config 配置，将 use_docker 配置为 True 即可；另外，它还有一个 human_input_mode 参数，设置为 NEVER，表示整个过程都不需要人参与，也可以设置为其他值，它会等待人的输入后再进行下一步操作，这个设计可以让人参与到任务执行过程，避免跑偏。<br><video src="https://videocdn.jellow.site/lkWnEGfgMgVCTtt-7peqFpQkc3rT.mp4?sign=fa2ef40bf7e2ff9491e723149baf92c9&amp;t=652e2f83" controls=""></video>]]></description>
             <pubDate>Thu, 12 Oct 2023 10:02:58 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6527c452fb5ea50a73e2b33b</guid>
             <link>https://m.okjike.com/originalPosts/6527c452fb5ea50a73e2b33b</link>
