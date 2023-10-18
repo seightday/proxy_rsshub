@@ -21,8 +21,40 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 18 Oct 2023 09:27:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Oct 2023 15:30:28 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[如何让 ChatGPT 更好地思考，以获得更佳的输出效果，有几个比较成熟的实践和技巧，背后都有对应的论文。 1）CoT，思维链提示，https://arxiv.org/abs/2205.10625...]]></title>
+            <description><![CDATA[如何让 ChatGPT 更好地思考，以获得更佳的输出效果，有几个比较成熟的实践和技巧，背后都有对应的论文。<br><br>1）CoT，思维链提示，https://arxiv.org/abs/2205.10625，将思考过程打印出来或者提供 one-shot/few-shot，输出的准确性会更高；例如你可以在提示词后追加：“Let's think step by step”，效果就要好一些。<br><br>对于决策推理性的问题，CoT 的效果都比较不错，事实上这个涌现效果是被发现而不是被设计出来的，后来它的有效性在这篇论文（https://arxiv.org/abs/2205.10625）中得到了证明。<br><br>2）Self-Consistency，自洽性，https://arxiv.org/abs/2203.11171，在多次输出中找到投票最高的那条，例如你可以这么跟 ChatGPT 说：<br><br>“对于每一个问题，你会思考 5 种不同的思路，然后将它们结合起来，输出最佳的措辞、最全面和最准确的答案。”（图一）<br><br>3）Least to Most prompting，本质是规划+逐步执行，https://arxiv.org/abs/2205.10625，对于复杂的任务，单纯使用 CoT + SC 效果依然不会太好，可以让 ChatGPT 先自己去拆解问题再回答：<br><br>"对于每一个问题，你首先需要回答是否将问题分解为子问题，若否，直接给出答案；若是，则将问题拆解为子问题，然后将它们结合起来，输出最佳的措辞、最全面和最准确的答案。"<br><br>“To solve {problem}, we need to……”，让大模型开启这种思维模式，不断细化问题，结果会更好。（图二）<br><br>4）Multi-Persona Self-Collaboration，多角色扮演，https://arxiv.org/abs/2307.05300，这个有点类似之前提到的 AutoGen，让多个代理相互对话来解决问题，只不过 AutoGen 是从工程层面真正做到了多 Agents 交互，而这里提到的，是让 ChatGPT 扮演多重人格/角色，例如：<br><br>“你可以扮演任何角色，针对我给出的问题，请提供三个最相关的角色，对问题进行两轮讨论，然后你综合讨论结果总结最佳方案。请打印三个角色的讨论过程以及最后的方案。”（图三）<br><br>以上，这些技巧的运用并不复杂，但是思想比较重要，掌握了之后，稍微修改下 Prompt，便可以得到更加符合预期的结果。#AI学习#<br><img src="https://cdnv2.ruguoapp.com/Fre5jgJ7vXoX5nLdvGRUgPWTyo2bv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fri5ghFIDQwYXQzT-BxA_E3_4iS1v3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FuxHXNCBzHxcnJGyoR7wJp6J30TCv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 18 Oct 2023 09:49:16 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/652faa1cbb3e3660e8041b7b</guid>
+            <link>https://m.okjike.com/originalPosts/652faa1cbb3e3660e8041b7b</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[看到个很好玩的开源项目，OpenAgents，地址在这里：https://github.com/xlang-ai/OpenAgents，主要提供了3个能力： 1、DataAgent：主要提供数据分析能力。 2、Pl...]]></title>
+            <description><![CDATA[看到个很好玩的开源项目，OpenAgents，地址在这里：https://github.com/xlang-ai/OpenAgents，主要提供了3个能力：<br>1、DataAgent：主要提供数据分析能力。<br>2、PluginsAgent：插件集成能力，可以调用外部工具做些事。<br>3、WebAgent：可以在聊天对话框中针对用户需求做些操作。<br>我对WebAgent比较感兴趣，简单挖了一下，官方demo的使用文档在这里：https://docs.xlang.ai/user-manual/web-agent-setup，官方demo地址在这里：https://chat.xlang.ai<br>感兴趣的可以体验玩玩，自己定制扩展<br><img src="https://cdnv2.ruguoapp.com/FsMnsNWFwT0l3jxbYhb3oqlCnOjMv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 18 Oct 2023 01:00:15 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/652f2e1faf95215b835c6938</guid>
+            <link>https://m.okjike.com/originalPosts/652f2e1faf95215b835c6938</link>
+            
+            
+            
+            <author><![CDATA[田自在Free]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[能够影响到一些人，是我的荣幸。 千里之行始于足下，你们已经迈出了第一步。 但是网站上线绝不是结束，反而是一个开始。 能不能找到第一个用户，能不能满足用户...]]></title>
@@ -34,22 +66,6 @@
             
             
             <author><![CDATA[哥飞]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[在@哥飞 的启发下，开始了独立开发者的探索，做了一个面相数据开发工程师的工具 http://sqlvisual.net ，主要功能是对sql 进行图形化，帮助快速理解 sql。 一开...]]></title>
-            <description><![CDATA[<img src="https://cdnv2.ruguoapp.com/icons/link.png" referrerpolicy="no-referrer"><br>                    <a href="http://sqlvisual.net/">SqlVisual | helping quickly understand the SQL queries</a><br>                <br>在@哥飞 的启发下，开始了独立开发者的探索，做了一个面相数据开发工程师的工具 http://sqlvisual.net ，主要功能是对sql 进行图形化，帮助快速理解 sql。 一开始觉得找到产品的 idea 难，现在觉得搞流量更难，发布半个月了，在 Hack News 和 Reddit 上做了简单宣传，一个水花都没激起来，大家帮我看一下，我这个产品到底有没有价值？]]></description>
-            <pubDate>Tue, 17 Oct 2023 04:50:00 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/652e12785110e254551981ee</guid>
-            <link>https://m.okjike.com/originalPosts/652e12785110e254551981ee</link>
-            
-            
-            
-            <author><![CDATA[云在等风]]></author>
             
                 
             
@@ -82,22 +98,6 @@
             
             
             <author><![CDATA[赖嘉伟Gary]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[分享一个图解React源码的博客，系列文章用大量配图的方式，从React核心包结构和运行机制为主线索展开，讲解了许多React底层原理，是一份非常优质的学习资料。地...]]></title>
-            <description><![CDATA[分享一个图解React源码的博客，系列文章用大量配图的方式，从React核心包结构和运行机制为主线索展开，讲解了许多React底层原理，是一份非常优质的学习资料。地址：https://7km.top/<br><img src="https://cdnv2.ruguoapp.com/FtOvwagR8TeU4YrC6dk6gPh3wcyjv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 16 Oct 2023 02:54:13 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/652ca5d5d5f9a5727f073655</guid>
-            <link>https://m.okjike.com/originalPosts/652ca5d5d5f9a5727f073655</link>
-            
-            
-            
-            <author><![CDATA[BigYe程普]]></author>
             
                 
             
