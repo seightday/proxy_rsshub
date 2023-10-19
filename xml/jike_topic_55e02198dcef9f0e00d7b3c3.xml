@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 19 Oct 2023 03:49:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Oct 2023 08:04:16 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[《Hello 算法》是一本被清华计算机系教授和亚马逊科学家推荐过的数据结构与算法书。全书采用动画图解，源代码可一键运行，目前开源免费，已支持多种主流编程语言...]]></title>
+            <description><![CDATA[《Hello 算法》是一本被清华计算机系教授和亚马逊科学家推荐过的数据结构与算法书。全书采用动画图解，源代码可一键运行，目前开源免费，已支持多种主流编程语言，适合算法初学者学习。🔗 https://www.hello-algo.com<br><img src="https://cdnv2.ruguoapp.com/Fu7d4WPKWCuDnZcxhIqKpdDyAO68v3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FtJY5VhG7U7rL3uvUb80kcAc3KUDv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 19 Oct 2023 02:32:34 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/653095425110e254554ff457</guid>
+            <link>https://m.okjike.com/originalPosts/653095425110e254554ff457</link>
+            
+            
+            
+            <author><![CDATA[BigYe程普]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[如何让 ChatGPT 更好地思考，以获得更佳的输出效果，有几个比较成熟的实践和技巧，背后都有对应的论文。 1）CoT，思维链提示，https://arxiv.org/abs/2205.10625...]]></title>
@@ -66,22 +82,6 @@
             
             
             <author><![CDATA[帽子霖轩]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[看到个很好玩的开源项目，OpenAgents，地址在这里：https://github.com/xlang-ai/OpenAgents，主要提供了3个能力： 1、DataAgent：主要提供数据分析能力。 2、Pl...]]></title>
-            <description><![CDATA[看到个很好玩的开源项目，OpenAgents，地址在这里：https://github.com/xlang-ai/OpenAgents，主要提供了3个能力：<br>1、DataAgent：主要提供数据分析能力。<br>2、PluginsAgent：插件集成能力，可以调用外部工具做些事。<br>3、WebAgent：可以在聊天对话框中针对用户需求做些操作。<br>我对WebAgent比较感兴趣，简单挖了一下，官方demo的使用文档在这里：https://docs.xlang.ai/user-manual/web-agent-setup，官方demo地址在这里：https://chat.xlang.ai<br>感兴趣的可以体验玩玩，自己定制扩展<br><img src="https://cdnv2.ruguoapp.com/FsMnsNWFwT0l3jxbYhb3oqlCnOjMv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 18 Oct 2023 01:00:15 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/652f2e1faf95215b835c6938</guid>
-            <link>https://m.okjike.com/originalPosts/652f2e1faf95215b835c6938</link>
-            
-            
-            
-            <author><![CDATA[田自在Free]]></author>
             
                 
             
