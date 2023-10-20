@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Fri, 20 Oct 2023 09:37:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Oct 2023 15:58:01 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[之前有人悬赏 $2500 把 Apple Notes 里所有的数据转成 Markdown 然后导入 Obsidian，过去了一个月，刚看到已经解决了，而且开源了出来。 原理就是直接读 sqlite...]]></title>
+            <description><![CDATA[之前有人悬赏 $2500 把 Apple Notes 里所有的数据转成 Markdown 然后导入 Obsidian，过去了一个月，刚看到已经解决了，而且开源了出来。<br><br>原理就是直接读 sqlite，实现的还是挺完美的，基本所有格式都可以导出。代码看上去确实难度还是不低。如果要开发笔记软件也可以直接用这个代码，MIT 开源的。<br><br>https://github.com/obsidianmd/obsidian-importer/tree/master/src/formats/apple-notes]]></description>
+            <pubDate>Fri, 20 Oct 2023 10:13:58 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/653252e65110e2545578d231</guid>
+            <link>https://m.okjike.com/originalPosts/653252e65110e2545578d231</link>
+            
+            
+            
+            <author><![CDATA[ourongxing]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[怎样找外企/远程的工作 前几天写了篇短文聊了一些 35 岁赚 500 w 的想法，这本来是一个程序员朋友的个人诉求，没想到梳理出来的一些方法和思路受到大家广泛的讨...]]></title>
@@ -66,22 +82,6 @@
             
             
             <author><![CDATA[Barret李靖]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[这公司破解了几万个个人开发者的小程序，然后批量上架 数据和bug都跟别人一模一样， 靠刷关键词优化挤压个人开发者生存空间。]]></title>
-            <description><![CDATA[<img src="https://res.wx.qq.com/a/wx_fed/wechat_search_common_assets/res/developers/3x/developers-8630de9303.png" referrerpolicy="no-referrer"><br>                    <a href="https://developers.weixin.qq.com/community/develop/doc/00048c03f907002ccc7027a926b800?page=3#comment-list">破解了上万个小程序，并上架的服务商-笨淘淘。以及背后的公司武汉寻源举报侵权居然没有用？ | 微信开放社区</a><br>                <br>这公司破解了几万个个人开发者的小程序，然后批量上架 数据和bug都跟别人一模一样， 靠刷关键词优化挤压个人开发者生存空间。]]></description>
-            <pubDate>Wed, 18 Oct 2023 09:19:53 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/652fa33997aae411eb8976e6</guid>
-            <link>https://m.okjike.com/originalPosts/652fa33997aae411eb8976e6</link>
-            
-            
-            
-            <author><![CDATA[写代码的奥特曼]]></author>
             
                 
             
