@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Fri, 20 Oct 2023 22:12:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Oct 2023 02:21:16 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -34,6 +34,22 @@
             
             
             <author><![CDATA[ourongxing]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[用cloudflare worker 开发了一个私人邮件api 服务。 已经开源了，按照文档部署下开箱即用。 特性和说明： 1. 通过简单的api 调用发邮件 2. 需要有一个域名绑定到...]]></title>
+            <description><![CDATA[<img src="https://cdnv2.ruguoapp.com/icons/link.png" referrerpolicy="no-referrer"><br>                    <a href="https://github.com/maojindao55/cf-send-email-worker">https://github.com/maojindao55/cf-send-email-worker</a><br>                <br>用cloudflare worker 开发了一个私人邮件api 服务。<br>已经开源了，按照文档部署下开箱即用。<br>特性和说明：<br>1. 通过简单的api 调用发邮件<br>2. 需要有一个域名绑定到cloudflare<br>3. 仅支持给绑定的目标邮件列表发送，最大支持200个，中小型团队够用了。邮件不能用于营销场景等泛发送需求。<br>4. 完全免费！<br><br>开源地址如下：]]></description>
+            <pubDate>Fri, 20 Oct 2023 06:52:03 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65322393d5f9a5727f81f02c</guid>
+            <link>https://m.okjike.com/originalPosts/65322393d5f9a5727f81f02c</link>
+            
+            
+            
+            <author><![CDATA[nginx.eth]]></author>
             
                 
             
@@ -82,22 +98,6 @@
             
             
             <author><![CDATA[Barret李靖]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[这篇文章全面系统的介绍了独立开发者的个人系统架构，非常值得参考。还有一人公司方法论的Repo详细全面介绍了一人公司运营中的要解决的各种问题👇 https://git...]]></title>
-            <description><![CDATA[<img src="https://anthonynsimon.com/img/content/one-man-saas-architecture-og.png" referrerpolicy="no-referrer"><br>                    <a href="https://anthonynsimon.com/blog/one-man-saas-architecture/">The Architecture Behind A One-Person Tech Startup</a><br>                <br>这篇文章全面系统的介绍了独立开发者的个人系统架构，非常值得参考。还有一人公司方法论的Repo详细全面介绍了一人公司运营中的要解决的各种问题👇<br>https://github.com/easychen/one-person-businesses-methodology]]></description>
-            <pubDate>Mon, 16 Oct 2023 23:29:36 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/652dc760af95215b833cf79a</guid>
-            <link>https://m.okjike.com/originalPosts/652dc760af95215b833cf79a</link>
-            
-            
-            
-            <author><![CDATA[DaweiMa]]></author>
             
                 
             
