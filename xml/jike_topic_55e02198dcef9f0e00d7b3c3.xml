@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sun, 22 Oct 2023 15:18:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Oct 2023 19:21:40 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[内网穿透远程桌面对服务器带宽的要求，比我想象的要高一点，测试使用的服务器是5M带宽，软件为nps。 以下是我个人的测试结果，仅供参考。 首先我认为正常办公想...]]></title>
+            <description><![CDATA[内网穿透远程桌面对服务器带宽的要求，比我想象的要高一点，测试使用的服务器是5M带宽，软件为nps。<br>以下是我个人的测试结果，仅供参考。<br><br>首先我认为正常办公想要流畅使用应该是3M入门，最好是可以达到5M及以上。<br><br>影响流畅程度的原因大概可以分为两个。<br><br>一个是被控主机的带宽占用，当我直接使用speedtest跑满带宽时的延迟大概在1s，这个延迟已经是无法忍受的了。<br><br>另一个则是被控主机的画面变化速率，我玩了一把植物大战僵尸进行测试，总结就是僵尸多的时候延迟高。这个延迟应该不到0.5s，或许调低分辨率可以改善，但办公的话这个因素应该影响不大。<br><br>延迟是我大概测试出来的，方法为在控制计算机和被控制计算机上面都打开time.is，肉眼观察延迟🌚<br><br>文件传输方面可以使用nps的p2p连接，这个应该不会占用服务器带宽，具体我还没有实际感受。<br><br>有这方面经验的欢迎交流。<br>（出门背个笨重的游戏本谁懂啊🙏）<br><img src="https://cdnv2.ruguoapp.com/Fk5MbsbDtKQj1DCtA2UJE6YBaoaiv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sat, 21 Oct 2023 11:11:42 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6533b1eeaa7d4f2b301c5b28</guid>
+            <link>https://m.okjike.com/originalPosts/6533b1eeaa7d4f2b301c5b28</link>
+            
+            
+            
+            <author><![CDATA[袋装小白兔]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[Indie Hacker 三宝书。]]></title>
@@ -34,22 +50,6 @@
             
             
             <author><![CDATA[某小A]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[大家好，我是哥飞。 网站养老系列，哥飞已经更新了7篇了： ①、养网站防老：网站可以做成一生的事业 ②、养网站防老第1步，挖掘出第1个需求 ③、养网站防老第2步...]]></title>
-            <description><![CDATA[<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/LBrX00GQeictH7no4jU2gUUAZZVLJDyRY14KXV3XH9ZD0PKAtRP1biawHM48ascN120P1FMmibtUooU3C8bjPFiaSg/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>                    <a href="https://mp.weixin.qq.com/s/b3_lY793bgiVcuZ2TREF2w">【6000字详解】养网站防老第6步：利用ChatGPT给网站增加多语言支持</a><br>                <br>大家好，我是哥飞。<br>网站养老系列，哥飞已经更新了7篇了：<br>①、养网站防老：网站可以做成一生的事业<br>②、养网站防老第1步，挖掘出第1个需求<br>③、养网站防老第2步：分析搜索意图<br>④、养网站防老第1.5步：用一个公式来判断关键词是否值得做，让你选择关键词不再犹豫<br>⑤、养网站防老第3步：根据搜索意图使用ChatGPT的GPT4生成网页<br>⑥、养网站防老第4步：手动调整布局和样式<br>⑦、养网站防老第5步：内页和内链建设<br><br>在此前的步骤中，我们把首页和内页都做好了，但是只有英文一种语言，今天我们借助ChatGPT给网站增加多语言支持。<br><br>大家可能会发现，哥飞在一些步骤中推荐大家使用ChatGPT，这是因为这次网站养老系列教程，更主要的读者是初学者。<br><br>哥飞希望通过这个教程，让完全不懂海外网站开发，甚至有一点技术基础但是对于前端不太熟悉的同学，也能够顺利地跟着教程学会如何开发海外网站。<br><br>所以使用ChatGPT，不仅仅可以提高效率，还可以让初学者也能做出及格线以上水平的网站。<br><br>具体如何做呢？请看链接文章]]></description>
-            <pubDate>Sat, 21 Oct 2023 01:43:39 GMT</pubDate>
-            <guid isPermaLink="false">https://mp.weixin.qq.com/s/b3_lY793bgiVcuZ2TREF2w</guid>
-            <link>https://mp.weixin.qq.com/s/b3_lY793bgiVcuZ2TREF2w</link>
-            
-            
-            
-            <author><![CDATA[哥飞]]></author>
             
                 
             
