@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sat, 21 Oct 2023 23:24:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Oct 2023 03:30:06 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[Indie Hacker 三宝书。]]></title>
+            <description><![CDATA[Indie Hacker 三宝书。<br><img src="https://cdnv2.ruguoapp.com/Fhl8ChL7eblvTPv5rfg8mVNBpGWmv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sat, 21 Oct 2023 05:29:34 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/653361be96604483148c4480</guid>
+            <link>https://m.okjike.com/originalPosts/653361be96604483148c4480</link>
+            
+            
+            
+            <author><![CDATA[某小A]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[大家好，我是哥飞。 网站养老系列，哥飞已经更新了7篇了： ①、养网站防老：网站可以做成一生的事业 ②、养网站防老第1步，挖掘出第1个需求 ③、养网站防老第2步...]]></title>
@@ -50,22 +66,6 @@
             
             
             <author><![CDATA[ourongxing]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[用cloudflare worker 开发了一个私人邮件api 服务。 已经开源了，按照文档部署下开箱即用。 特性和说明： 1. 通过简单的api 调用发邮件 2. 需要有一个域名绑定到...]]></title>
-            <description><![CDATA[<img src="https://cdnv2.ruguoapp.com/icons/link.png" referrerpolicy="no-referrer"><br>                    <a href="https://github.com/maojindao55/cf-send-email-worker">https://github.com/maojindao55/cf-send-email-worker</a><br>                <br>用cloudflare worker 开发了一个私人邮件api 服务。<br>已经开源了，按照文档部署下开箱即用。<br>特性和说明：<br>1. 通过简单的api 调用发邮件<br>2. 需要有一个域名绑定到cloudflare<br>3. 仅支持给绑定的目标邮件列表发送，最大支持200个，中小型团队够用了。邮件不能用于营销场景等泛发送需求。<br>4. 完全免费！<br><br>开源地址如下：]]></description>
-            <pubDate>Fri, 20 Oct 2023 06:52:03 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65322393d5f9a5727f81f02c</guid>
-            <link>https://m.okjike.com/originalPosts/65322393d5f9a5727f81f02c</link>
-            
-            
-            
-            <author><![CDATA[nginx.eth]]></author>
             
                 
             
