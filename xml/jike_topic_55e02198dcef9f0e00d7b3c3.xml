@@ -21,19 +21,19 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 24 Oct 2023 00:01:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Oct 2023 02:02:08 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
-            <title><![CDATA[内网穿透远程桌面对服务器带宽的要求，比我想象的要高一点，测试使用的服务器是5M带宽，软件为nps。 以下是我个人的测试结果，仅供参考。 首先我认为正常办公想...]]></title>
-            <description><![CDATA[内网穿透远程桌面对服务器带宽的要求，比我想象的要高一点，测试使用的服务器是5M带宽，软件为nps。<br>以下是我个人的测试结果，仅供参考。<br><br>首先我认为正常办公想要流畅使用应该是3M入门，最好是可以达到5M及以上。<br><br>影响流畅程度的原因大概可以分为两个。<br><br>一个是被控主机的带宽占用，当我直接使用speedtest跑满带宽时的延迟大概在1s，这个延迟已经是无法忍受的了。<br><br>另一个则是被控主机的画面变化速率，我玩了一把植物大战僵尸进行测试，总结就是僵尸多的时候延迟高。这个延迟应该不到0.5s，或许调低分辨率可以改善，但办公的话这个因素应该影响不大。<br><br>延迟是我大概测试出来的，方法为在控制计算机和被控制计算机上面都打开time.is，肉眼观察延迟🌚<br><br>文件传输方面可以使用nps的p2p连接，这个应该不会占用服务器带宽，具体我还没有实际感受。<br><br>有这方面经验的欢迎交流。<br>（出门背个笨重的游戏本谁懂啊🙏）<br><img src="https://cdnv2.ruguoapp.com/Fk5MbsbDtKQj1DCtA2UJE6YBaoaiv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 21 Oct 2023 11:11:42 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6533b1eeaa7d4f2b301c5b28</guid>
-            <link>https://m.okjike.com/originalPosts/6533b1eeaa7d4f2b301c5b28</link>
+            <title><![CDATA[分享最近发现的几个免费小工具（都是Ahrefs家的）： [关键词难度检查器]：https://ahrefs.com/keyword-difficulty [网站流量检查器]：https://ahrefs.com/traffi...]]></title>
+            <description><![CDATA[分享最近发现的几个免费小工具（都是Ahrefs家的）：<br><br>[关键词难度检查器]：https://ahrefs.com/keyword-difficulty<br><br>[网站流量检查器]：https://ahrefs.com/traffic-checker<br><br>[关键词排名检查器]：https://ahrefs.com/keyword-rank-checker<br><br>[反向链接检查器]：https://ahrefs.com/backlink-checker<br><br>[AI段落重写器]：https://ahrefs.com/writing-tools/paragraph-rewriter<br><br>[AI句子重写工具]：https://ahrefs.com/writing-tools/sentence-rewriter]]></description>
+            <pubDate>Mon, 23 Oct 2023 11:53:11 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65365ea7aa7d4f2b30538b92</guid>
+            <link>https://m.okjike.com/originalPosts/65365ea7aa7d4f2b30538b92</link>
             
             
             
-            <author><![CDATA[袋装小白兔]]></author>
+            <author><![CDATA[aimomomo]]></author>
             
                 
             
