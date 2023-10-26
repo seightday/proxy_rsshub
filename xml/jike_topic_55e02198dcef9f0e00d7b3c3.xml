@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 26 Oct 2023 02:44:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Oct 2023 06:47:34 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[分享两个小工具，可以把家里没用的手机、平板利用起来，当做性能监视器或者拓展屏幕 1.AIAD64。可以获取计算机的所有参数信息，然后提供可视化页面，用同一个局...]]></title>
+            <description><![CDATA[分享两个小工具，可以把家里没用的手机、平板利用起来，当做性能监视器或者拓展屏幕<br><br>1.AIAD64。可以获取计算机的所有参数信息，然后提供可视化页面，用同一个局域网下的手机浏览器打开一个网页就可以实时查看性能参数报告<br><br>2.spacedesk。可以通过无线或者usb连接，把安卓/ios设备拓展为设备副屏。尤其是家里用不上的百元安卓平板，用来专门挂个窗口聊微信再合适不过了<br><img src="https://cdnv2.ruguoapp.com/FtZudfhO3Y-D3UK3mPwp6AIIJpuLv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 25 Oct 2023 15:28:37 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6539342597aae411eb58252e</guid>
+            <link>https://m.okjike.com/originalPosts/6539342597aae411eb58252e</link>
+            
+            
+            
+            <author><![CDATA[魔力猫]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[项目停更咯，有缘再见！ 今晚12.评论区抽三个新的key，国内也可直接使用哦！ 关注+点赞+评论，抽！]]></title>
@@ -98,22 +114,6 @@
             
             
             <author><![CDATA[BigYe程普]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[如何让 ChatGPT 更好地思考，以获得更佳的输出效果，有几个比较成熟的实践和技巧，背后都有对应的论文。 1）CoT，思维链提示，https://arxiv.org/abs/2205.10625...]]></title>
-            <description><![CDATA[如何让 ChatGPT 更好地思考，以获得更佳的输出效果，有几个比较成熟的实践和技巧，背后都有对应的论文。<br><br>1）CoT，思维链提示，https://arxiv.org/abs/2205.10625，将思考过程打印出来或者提供 one-shot/few-shot，输出的准确性会更高；例如你可以在提示词后追加：“Let's think step by step”，效果就要好一些。<br><br>对于决策推理性的问题，CoT 的效果都比较不错，事实上这个涌现效果是被发现而不是被设计出来的，后来它的有效性在这篇论文（https://arxiv.org/abs/2205.10625）中得到了证明。<br><br>2）Self-Consistency，自洽性，https://arxiv.org/abs/2203.11171，在多次输出中找到投票最高的那条，例如你可以这么跟 ChatGPT 说：<br><br>“对于每一个问题，你会思考 5 种不同的思路，然后将它们结合起来，输出最佳的措辞、最全面和最准确的答案。”（图一）<br><br>3）Least to Most prompting，本质是规划+逐步执行，https://arxiv.org/abs/2205.10625，对于复杂的任务，单纯使用 CoT + SC 效果依然不会太好，可以让 ChatGPT 先自己去拆解问题再回答：<br><br>"对于每一个问题，你首先需要回答是否将问题分解为子问题，若否，直接给出答案；若是，则将问题拆解为子问题，然后将它们结合起来，输出最佳的措辞、最全面和最准确的答案。"<br><br>“To solve {problem}, we need to……”，让大模型开启这种思维模式，不断细化问题，结果会更好。（图二）<br><br>4）Multi-Persona Self-Collaboration，多角色扮演，https://arxiv.org/abs/2307.05300，这个有点类似之前提到的 AutoGen，让多个代理相互对话来解决问题，只不过 AutoGen 是从工程层面真正做到了多 Agents 交互，而这里提到的，是让 ChatGPT 扮演多重人格/角色，例如：<br><br>“你可以扮演任何角色，针对我给出的问题，请提供三个最相关的角色，对问题进行两轮讨论，然后你综合讨论结果总结最佳方案。请打印三个角色的讨论过程以及最后的方案。”（图三）<br><br>以上，这些技巧的运用并不复杂，但是思想比较重要，掌握了之后，稍微修改下 Prompt，便可以得到更加符合预期的结果。#AI学习#<br><img src="https://cdnv2.ruguoapp.com/Fre5jgJ7vXoX5nLdvGRUgPWTyo2bv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fri5ghFIDQwYXQzT-BxA_E3_4iS1v3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FuxHXNCBzHxcnJGyoR7wJp6J30TCv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 18 Oct 2023 09:49:16 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/652faa1cbb3e3660e8041b7b</guid>
-            <link>https://m.okjike.com/originalPosts/652faa1cbb3e3660e8041b7b</link>
-            
-            
-            
-            <author><![CDATA[Barret李靖]]></author>
             
                 
             
