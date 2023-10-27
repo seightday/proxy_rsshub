@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 26 Oct 2023 19:16:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Oct 2023 23:32:01 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[推荐几个我在开发【KnowU】时候经常用到的工具 1. Dribbble（https://dribbble.com/following）：最近好多朋友问KnowU的设计是不是外包的，其实不是的，我自己的...]]></title>
+            <description><![CDATA[推荐几个我在开发【KnowU】时候经常用到的工具<br><br>1. Dribbble（https://dribbble.com/following）：最近好多朋友问KnowU的设计是不是外包的，其实不是的，我自己的设计灵感主要来自dribbble，里面有很多很有设计感的UI界面，我没事会多逛一逛，再用figma练习把网站复现出来，这样练的多了就有设计灵感啦<br><br>2. FlowGPT（https://flowgpt.com/）：里面有很多prompt，灵感枯竭的时候可以看一看。<br><br>这里插一句，在构建KnowU的时候，我利用了结构化prompt的编写思路，这里感谢@云中江树 还有 @李继刚 的经验分享！<br><br>3. Midjourney官方的showcase（https://www.midjourney.com/showcase/recent/）：KnowU很多插图都是用mj直接画的，我自己会总结官方showcase的prompt的思路，有利于调教mj<br><br>4. https://www.bejson.com/：在开发KnowU的时候经常需要将AI的output转换为JSON格式，用这个网站可以快速方便的检验输出内容是否是JSON格式<br><img src="https://cdnv2.ruguoapp.com/FlnBhlr4Nrf2pe8nHtMJ4l9RZdczv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FnnE9bPpQZ_dhYBWv28VKYEQGiAUv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FkhwlSOygnsGfAuXbYV_JS_idTQMv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FiTsRGRwM_SuEbFI5EDomIH0MhPEv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 26 Oct 2023 14:54:51 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/653a7dbb9a83b06c46295145</guid>
+            <link>https://m.okjike.com/originalPosts/653a7dbb9a83b06c46295145</link>
+            
+            
+            
+            <author><![CDATA[Luke的AI整活日记]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[总结一下 ahrefs 的 seo 初学者教程第一章搜索引擎是如何工作的这篇文章中的谷歌关键排名因素。 1、反链 反链是谷歌最重要的排名因素之一，具有极强的相关性，且...]]></title>
@@ -66,22 +82,6 @@
             
             
             <author><![CDATA[戴以沫]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[一个思路：将 Arc 浏览器的优秀功能移植到 Chrome 扩展，并优化到接近 Arc 的体验。]]></title>
-            <description><![CDATA[一个思路：将 Arc 浏览器的优秀功能移植到 Chrome 扩展，并优化到接近 Arc 的体验。<br><img src="https://cdnv2.ruguoapp.com/FnmcFFMP7EzSElRUrrAO7oAchLYXv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 25 Oct 2023 10:10:13 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6538e98593a38e1c5592e8b6</guid>
-            <link>https://m.okjike.com/originalPosts/6538e98593a38e1c5592e8b6</link>
-            
-            
-            
-            <author><![CDATA[赖嘉伟Gary]]></author>
             
                 
             
