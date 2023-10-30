@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 30 Oct 2023 14:55:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Oct 2023 19:02:06 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -41,8 +41,24 @@
         </item>
         
         <item>
+            <title><![CDATA[小黄鸭调试法（Rubber Duck Debugging），是一种常用的调试方法。当你遇到问题无法解决时，尝试对着一只橡皮鸭子逐步讲解，通常在讲解问题的过程中，你会得到解...]]></title>
+            <description><![CDATA[小黄鸭调试法（Rubber Duck Debugging），是一种常用的调试方法。当你遇到问题无法解决时，尝试对着一只橡皮鸭子逐步讲解，通常在讲解问题的过程中，你会得到解决方案🐶]]></description>
+            <pubDate>Mon, 30 Oct 2023 06:16:03 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/653f4a23bb3e3660e84e9cbf</guid>
+            <link>https://m.okjike.com/originalPosts/653f4a23bb3e3660e84e9cbf</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[这个电工Debug过程值得所有程序员学习，思路清晰，不断排除问题，找到问题。 【严重的电路故障往往都有含金量较高的原因-哔哩哔哩】 https://b23.tv/k31lcVY]]></title>
-            <description><![CDATA[这个电工Debug过程值得所有程序员学习，思路清晰，不断排除问题，找到问题。<br>【严重的电路故障往往都有含金量较高的原因-哔哩哔哩】 https://b23.tv/k31lcVY<br><video src="https://videocdn.jellow.site/luIBBvhJ1u4DoRe-NflSRhkhVV69.mp4?sign=a2eddb83f22b119d4ed6c42de24c5c07&amp;t=653fc8d9" controls=""></video>]]></description>
+            <description><![CDATA[这个电工Debug过程值得所有程序员学习，思路清晰，不断排除问题，找到问题。<br>【严重的电路故障往往都有含金量较高的原因-哔哩哔哩】 https://b23.tv/k31lcVY<br><video src="https://videocdn.jellow.site/luIBBvhJ1u4DoRe-NflSRhkhVV69.mp4?sign=c84e13544d4a70ae80db67904bb39c3e&amp;t=65400445" controls=""></video>]]></description>
             <pubDate>Mon, 30 Oct 2023 04:22:22 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/653f2f7e9a83b06c46868c61</guid>
             <link>https://m.okjike.com/originalPosts/653f2f7e9a83b06c46868c61</link>
@@ -58,7 +74,7 @@
         
         <item>
             <title><![CDATA[一个开源的 2D 物理引擎库，适用于 Web 开发者和游戏设计师。它包含了强大的功能，能够模拟真实世界的物理现象，如重力、碰撞和摩擦。能够轻松创建富有动感和交...]]></title>
-            <description><![CDATA[一个开源的 2D 物理引擎库，适用于 Web 开发者和游戏设计师。它包含了强大的功能，能够模拟真实世界的物理现象，如重力、碰撞和摩擦。能够轻松创建富有动感和交互性的应用程序和游戏<br><br>传送门👉 https://brm.io/matter-js/<br><video src="https://videocdn.jellow.site/FnIDzlg9c6i12BOkBAtmO6vQz9ei.mp4?sign=27f902773804ee62dde2ac200c6157f0&amp;t=653fc9d9" controls=""></video>]]></description>
+            <description><![CDATA[一个开源的 2D 物理引擎库，适用于 Web 开发者和游戏设计师。它包含了强大的功能，能够模拟真实世界的物理现象，如重力、碰撞和摩擦。能够轻松创建富有动感和交互性的应用程序和游戏<br><br>传送门👉 https://brm.io/matter-js/<br><video src="https://videocdn.jellow.site/FnIDzlg9c6i12BOkBAtmO6vQz9ei.mp4?sign=b98fa699fbf08dfa69698d681754d846&amp;t=65400445" controls=""></video>]]></description>
             <pubDate>Sun, 29 Oct 2023 01:25:27 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/653db48793a38e1c55f563f1</guid>
             <link>https://m.okjike.com/originalPosts/653db48793a38e1c55f563f1</link>
@@ -98,22 +114,6 @@
             
             
             <author><![CDATA[asong_]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[分享一个gmail注册的“漏洞”。 为了鼓励用户分享和拉新，我们经常会在业务上设计相关的奖励机制，如果稍有不慎，就容易引来羊毛党，甚至带来损失。 gmail邮箱地...]]></title>
-            <description><![CDATA[分享一个gmail注册的“漏洞”。<br><br>为了鼓励用户分享和拉新，我们经常会在业务上设计相关的奖励机制，如果稍有不慎，就容易引来羊毛党，甚至带来损失。<br><br>gmail邮箱地址里面任意加.和后面带+号，就可以衍生出无数个邮箱，但它们实际是同一个邮箱。<br><br>比如：daxia@gmail.com，da.xia@gmail.com和daxia+1@gmail.com，实际都会发到第一个邮箱地址。<br><br>gmail的这个设计很妙，但却可能给用邮箱注册的网站带来了麻烦，甚至有人利用这个原理做起了生意（估计有一堆网站app是没有注意这个问题的）。<br><br>比如我就是被薅了几次羊毛后，才懂得了这其中的奥妙！😂<br><img src="https://cdnv2.ruguoapp.com/FnAWq_KO6b7DfDOHK_1SeHLVd99Jv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fm90FXnx-joj9znsmkaiukkHBa4Fv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 27 Oct 2023 03:29:18 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/653b2e8e38c9be7186c76427</guid>
-            <link>https://m.okjike.com/originalPosts/653b2e8e38c9be7186c76427</link>
-            
-            
-            
-            <author><![CDATA[叶大侠]]></author>
             
                 
             
