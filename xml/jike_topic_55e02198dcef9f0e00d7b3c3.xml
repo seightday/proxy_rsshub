@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 31 Oct 2023 03:25:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Oct 2023 07:40:23 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[在进行软件架构设计的时候，“C4 模型”可以很好地辅助表达一系列的分层图表，https://c4model.com，它按照上下文（Context）、容器（Container）、组件（Compon...]]></title>
+            <description><![CDATA[在进行软件架构设计的时候，“C4 模型”可以很好地辅助表达一系列的分层图表，https://c4model.com，它按照上下文（Context）、容器（Container）、组件（Component）和代码（Code）四个维度对软件架构的层级做了定义。<br><br>之前一直是徒手画框，看到 PlantUML 已经内置了 C4 元素，使用简单的 DSL 就可以完成架构图的绘制，实在是太方便了！C4 还内置了一些主题，也可以通过 PlantUML 提供的语法对界面样式进行自定义，不过，一般也不用特别追求好看，内置的主题基本就够用了。<br><br>另外，VSCode 上的插件名就是 PlantUML，它提供了一个包含大量示例的参考仓库：https://github.com/plantuml-stdlib/C4-PlantUML<br><img src="https://cdnv2.ruguoapp.com/FmGyX5Out1PRvPuUIX-CRcpUUyh4v3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 31 Oct 2023 03:54:38 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65407a7e99f2123c74a4cd43</guid>
+            <link>https://m.okjike.com/originalPosts/65407a7e99f2123c74a4cd43</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[目前用过最好的OCR软件，Github上已经快10k star了 1.免费开源。 2.离线使用，速度超快。 3.支持批量识别。 4.还可以指定识别区域。 https://github.com/hiroi-s...]]></title>
@@ -41,24 +57,8 @@
         </item>
         
         <item>
-            <title><![CDATA[小黄鸭调试法（Rubber Duck Debugging），是一种常用的调试方法。当你遇到问题无法解决时，尝试对着一只橡皮鸭子逐步讲解，通常在讲解问题的过程中，你会得到解...]]></title>
-            <description><![CDATA[小黄鸭调试法（Rubber Duck Debugging），是一种常用的调试方法。当你遇到问题无法解决时，尝试对着一只橡皮鸭子逐步讲解，通常在讲解问题的过程中，你会得到解决方案🐶]]></description>
-            <pubDate>Mon, 30 Oct 2023 06:16:03 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/653f4a23bb3e3660e84e9cbf</guid>
-            <link>https://m.okjike.com/originalPosts/653f4a23bb3e3660e84e9cbf</link>
-            
-            
-            
-            <author><![CDATA[Barret李靖]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[这个电工Debug过程值得所有程序员学习，思路清晰，不断排除问题，找到问题。 【严重的电路故障往往都有含金量较高的原因-哔哩哔哩】 https://b23.tv/k31lcVY]]></title>
-            <description><![CDATA[这个电工Debug过程值得所有程序员学习，思路清晰，不断排除问题，找到问题。<br>【严重的电路故障往往都有含金量较高的原因-哔哩哔哩】 https://b23.tv/k31lcVY<br><video src="https://videocdn.jellow.site/luIBBvhJ1u4DoRe-NflSRhkhVV69.mp4?sign=76418b4d20e44d65cde08e9f90a7d189&amp;t=65407930" controls=""></video>]]></description>
+            <description><![CDATA[这个电工Debug过程值得所有程序员学习，思路清晰，不断排除问题，找到问题。<br>【严重的电路故障往往都有含金量较高的原因-哔哩哔哩】 https://b23.tv/k31lcVY<br><video src="https://videocdn.jellow.site/luIBBvhJ1u4DoRe-NflSRhkhVV69.mp4?sign=1b809da7e343e912e0b5e90e7a13a153&amp;t=6540b472" controls=""></video>]]></description>
             <pubDate>Mon, 30 Oct 2023 04:22:22 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/653f2f7e9a83b06c46868c61</guid>
             <link>https://m.okjike.com/originalPosts/653f2f7e9a83b06c46868c61</link>
@@ -74,7 +74,7 @@
         
         <item>
             <title><![CDATA[一个开源的 2D 物理引擎库，适用于 Web 开发者和游戏设计师。它包含了强大的功能，能够模拟真实世界的物理现象，如重力、碰撞和摩擦。能够轻松创建富有动感和交...]]></title>
-            <description><![CDATA[一个开源的 2D 物理引擎库，适用于 Web 开发者和游戏设计师。它包含了强大的功能，能够模拟真实世界的物理现象，如重力、碰撞和摩擦。能够轻松创建富有动感和交互性的应用程序和游戏<br><br>传送门👉 https://brm.io/matter-js/<br><video src="https://videocdn.jellow.site/FnIDzlg9c6i12BOkBAtmO6vQz9ei.mp4?sign=1c5f46582ecb91da95a04c08773e63a7&amp;t=654079cf" controls=""></video>]]></description>
+            <description><![CDATA[一个开源的 2D 物理引擎库，适用于 Web 开发者和游戏设计师。它包含了强大的功能，能够模拟真实世界的物理现象，如重力、碰撞和摩擦。能够轻松创建富有动感和交互性的应用程序和游戏<br><br>传送门👉 https://brm.io/matter-js/<br><video src="https://videocdn.jellow.site/FnIDzlg9c6i12BOkBAtmO6vQz9ei.mp4?sign=547d5d7919389238ca644cbe4b5304cf&amp;t=6540b52e" controls=""></video>]]></description>
             <pubDate>Sun, 29 Oct 2023 01:25:27 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/653db48793a38e1c55f563f1</guid>
             <link>https://m.okjike.com/originalPosts/653db48793a38e1c55f563f1</link>
