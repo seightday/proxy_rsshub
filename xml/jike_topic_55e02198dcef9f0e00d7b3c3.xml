@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 31 Oct 2023 11:44:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Oct 2023 16:07:56 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -73,24 +73,8 @@
         </item>
         
         <item>
-            <title><![CDATA[这个电工Debug过程值得所有程序员学习，思路清晰，不断排除问题，找到问题。 【严重的电路故障往往都有含金量较高的原因-哔哩哔哩】 https://b23.tv/k31lcVY]]></title>
-            <description><![CDATA[这个电工Debug过程值得所有程序员学习，思路清晰，不断排除问题，找到问题。<br>【严重的电路故障往往都有含金量较高的原因-哔哩哔哩】 https://b23.tv/k31lcVY<br><video src="https://videocdn.jellow.site/luIBBvhJ1u4DoRe-NflSRhkhVV69.mp4?sign=55d562cc629c7c038e86235f6d6fbcf9&amp;t=6540ef13" controls=""></video>]]></description>
-            <pubDate>Mon, 30 Oct 2023 04:22:22 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/653f2f7e9a83b06c46868c61</guid>
-            <link>https://m.okjike.com/originalPosts/653f2f7e9a83b06c46868c61</link>
-            
-            
-            
-            <author><![CDATA[哥飞]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[一个开源的 2D 物理引擎库，适用于 Web 开发者和游戏设计师。它包含了强大的功能，能够模拟真实世界的物理现象，如重力、碰撞和摩擦。能够轻松创建富有动感和交...]]></title>
-            <description><![CDATA[一个开源的 2D 物理引擎库，适用于 Web 开发者和游戏设计师。它包含了强大的功能，能够模拟真实世界的物理现象，如重力、碰撞和摩擦。能够轻松创建富有动感和交互性的应用程序和游戏<br><br>传送门👉 https://brm.io/matter-js/<br><video src="https://videocdn.jellow.site/FnIDzlg9c6i12BOkBAtmO6vQz9ei.mp4?sign=7aac01b644665cc7758b7c14b4a6e11d&amp;t=6540efbb" controls=""></video>]]></description>
+            <description><![CDATA[一个开源的 2D 物理引擎库，适用于 Web 开发者和游戏设计师。它包含了强大的功能，能够模拟真实世界的物理现象，如重力、碰撞和摩擦。能够轻松创建富有动感和交互性的应用程序和游戏<br><br>传送门👉 https://brm.io/matter-js/<br><video src="https://videocdn.jellow.site/FnIDzlg9c6i12BOkBAtmO6vQz9ei.mp4?sign=129e0137ab91a9a6f8191cdff2fc71fe&amp;t=65412d64" controls=""></video>]]></description>
             <pubDate>Sun, 29 Oct 2023 01:25:27 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/653db48793a38e1c55f563f1</guid>
             <link>https://m.okjike.com/originalPosts/653db48793a38e1c55f563f1</link>
@@ -114,6 +98,22 @@
             
             
             <author><![CDATA[哥飞]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[一个保持更新的国家行政区域数据（json 和 csv）。 最新数据为：2023-09-11 中华人民共和国行政区划（五级）：省级、地级、县级、乡级和村级。 项目地址：https:...]]></title>
+            <description><![CDATA[一个保持更新的国家行政区域数据（json 和 csv）。<br><br>最新数据为：2023-09-11<br><br>中华人民共和国行政区划（五级）：省级、地级、县级、乡级和村级。<br><br>项目地址：https://github.com/modood/Administrative-divisions-of-China<br><img src="https://cdnv2.ruguoapp.com/FjffvML0lieCzxKn5f2T8BeXyZsiv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 27 Oct 2023 14:28:11 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/653bc8fb38c9be7186d70f36</guid>
+            <link>https://m.okjike.com/originalPosts/653bc8fb38c9be7186d70f36</link>
+            
+            
+            
+            <author><![CDATA[asong_]]></author>
             
                 
             
