@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 01 Nov 2023 19:30:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Nov 2023 23:40:55 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[浏览器已经支持通过 JavaScript 对内容进行高亮操作了，从此网页上可以告别使用 mark/span 作为搜索高亮标签了。 1）定义一个 ::highlight 的 CSS 样式，当前仅...]]></title>
+            <description><![CDATA[浏览器已经支持通过 JavaScript 对内容进行高亮操作了，从此网页上可以告别使用 mark/span 作为搜索高亮标签了。<br><br>1）定义一个 ::highlight 的 CSS 样式，当前仅支持 background 和 color<br>2）使用 Range API 获取到文本的起始位置<br>3）通过 CSS.highlights 将高亮样式赋值给（多个）选中的文本<br><br>浏览器提供了 set/get/delete/clear 等 API，方便对高亮区域做调整。<br><img src="https://cdnv2.ruguoapp.com/FnZobc2QR8JEICZl3IYCR0608aIAv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FqXgLEbbU9ChK7jeHT073g1Sg9fiv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 01 Nov 2023 01:18:36 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6541a76c5110e25455ba6104</guid>
+            <link>https://m.okjike.com/originalPosts/6541a76c5110e25455ba6104</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[月薪戒断总结（10月篇） 文章流量： 1w+ 焦虑指数：70% 收入情况：-2704 落地页那篇文章带来了 1w+ 的独立访客，感谢大家捧场。顺带着我的落地页定制服务也有客...]]></title>
@@ -82,22 +98,6 @@
             
             
             <author><![CDATA[monsoona]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[一个开源的 2D 物理引擎库，适用于 Web 开发者和游戏设计师。它包含了强大的功能，能够模拟真实世界的物理现象，如重力、碰撞和摩擦。能够轻松创建富有动感和交...]]></title>
-            <description><![CDATA[一个开源的 2D 物理引擎库，适用于 Web 开发者和游戏设计师。它包含了强大的功能，能够模拟真实世界的物理现象，如重力、碰撞和摩擦。能够轻松创建富有动感和交互性的应用程序和游戏<br><br>传送门👉 https://brm.io/matter-js/<br><video src="https://videocdn.jellow.site/FnIDzlg9c6i12BOkBAtmO6vQz9ei.mp4?sign=46e8bb47efa92301f713749abe539861&amp;t=6542abf5" controls=""></video>]]></description>
-            <pubDate>Sun, 29 Oct 2023 01:25:27 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/653db48793a38e1c55f563f1</guid>
-            <link>https://m.okjike.com/originalPosts/653db48793a38e1c55f563f1</link>
-            
-            
-            
-            <author><![CDATA[张小吉]]></author>
             
                 
             
