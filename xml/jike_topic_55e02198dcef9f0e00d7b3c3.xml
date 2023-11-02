@@ -21,12 +21,28 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 02 Nov 2023 11:58:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Nov 2023 16:13:09 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
+            <title><![CDATA[clash for windows 停更，不是 clash。cfw 其实就是个 clash 套壳，而且之前一直没开源，github 仓库里只有 readme。 怎么搞得像个轰动大事件一样。 现在有个 cl...]]></title>
+            <description><![CDATA[clash for windows 停更，不是 clash。cfw 其实就是个 clash 套壳，而且之前一直没开源，github 仓库里只有 readme。 怎么搞得像个轰动大事件一样。<br><br>现在有个 clash verge，是开源的，用的 tauri ，体积小很多，cfw 用的 electron，体积是真的大。]]></description>
+            <pubDate>Thu, 02 Nov 2023 11:21:39 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6543864397aae411eb30e45b</guid>
+            <link>https://m.okjike.com/originalPosts/6543864397aae411eb30e45b</link>
+            
+            
+            
+            <author><![CDATA[ourongxing]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Midjourney、DALL•E 3 和 GPT-4 的组合，开启了无限可能。 一名外国程序员使用 AI 做了一个万圣节版本的“愤怒的小鸟”，ChatGPT-4 用来码代码，Midjourney 和 ...]]></title>
-            <description><![CDATA[Midjourney、DALL•E 3 和 GPT-4 的组合，开启了无限可能。<br><br>一名外国程序员使用 AI 做了一个万圣节版本的“愤怒的小鸟”，ChatGPT-4 用来码代码，Midjourney 和 DALL•E 3 用来绘图，全程 AI 副驾驶，遇到报错就让 AI 来处理，遇到不满意就优化 prompts 调整，耗时大概十个小时。<br><br>在线试玩地址：https://bestaiprompts.art/angry-pumpkins/index.html<br><video src="https://videocdn.jellow.site/ls7VcOeyRytG0vWjPextFWdtkDPt.mp4?sign=c88982a61a8365982ab61e87fc7d14da&amp;t=6543955c" controls=""></video>]]></description>
+            <description><![CDATA[Midjourney、DALL•E 3 和 GPT-4 的组合，开启了无限可能。<br><br>一名外国程序员使用 AI 做了一个万圣节版本的“愤怒的小鸟”，ChatGPT-4 用来码代码，Midjourney 和 DALL•E 3 用来绘图，全程 AI 副驾驶，遇到报错就让 AI 来处理，遇到不满意就优化 prompts 调整，耗时大概十个小时。<br><br>在线试玩地址：https://bestaiprompts.art/angry-pumpkins/index.html<br><video src="https://videocdn.jellow.site/ls7VcOeyRytG0vWjPextFWdtkDPt.mp4?sign=3e17e3a8bbf95ce42ad7999e5a1f8671&amp;t=6543d086" controls=""></video>]]></description>
             <pubDate>Wed, 01 Nov 2023 23:36:23 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6542e0f7aa7d4f2b305ba5b1</guid>
             <link>https://m.okjike.com/originalPosts/6542e0f7aa7d4f2b305ba5b1</link>
@@ -114,22 +130,6 @@
             
             
             <author><![CDATA[哥飞]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[推荐几个我在开发【KnowU】时候经常用到的工具 1. Dribbble（https://dribbble.com/following）：最近好多朋友问KnowU的设计是不是外包的，其实不是的，我自己的...]]></title>
-            <description><![CDATA[推荐几个我在开发【KnowU】时候经常用到的工具<br><br>1. Dribbble（https://dribbble.com/following）：最近好多朋友问KnowU的设计是不是外包的，其实不是的，我自己的设计灵感主要来自dribbble，里面有很多很有设计感的UI界面，我没事会多逛一逛，再用figma练习把网站复现出来，这样练的多了就有设计灵感啦<br><br>2. FlowGPT（https://flowgpt.com/）：里面有很多prompt，灵感枯竭的时候可以看一看。<br><br>这里插一句，在构建KnowU的时候，我利用了结构化prompt的编写思路，这里感谢@云中江树 还有 @李继刚 的经验分享！<br><br>3. Midjourney官方的showcase（https://www.midjourney.com/showcase/recent/）：KnowU很多插图都是用mj直接画的，我自己会总结官方showcase的prompt的思路，有利于调教mj<br><br>4. https://www.bejson.com/：在开发KnowU的时候经常需要将AI的output转换为JSON格式，用这个网站可以快速方便的检验输出内容是否是JSON格式<br><img src="https://cdnv2.ruguoapp.com/FlnBhlr4Nrf2pe8nHtMJ4l9RZdczv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FnnE9bPpQZ_dhYBWv28VKYEQGiAUv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FkhwlSOygnsGfAuXbYV_JS_idTQMv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FiTsRGRwM_SuEbFI5EDomIH0MhPEv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 26 Oct 2023 14:54:51 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/653a7dbb9a83b06c46295145</guid>
-            <link>https://m.okjike.com/originalPosts/653a7dbb9a83b06c46295145</link>
-            
-            
-            
-            <author><![CDATA[Luke的AI整活日记]]></author>
             
                 
             
