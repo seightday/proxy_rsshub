@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sun, 05 Nov 2023 19:14:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Nov 2023 23:25:02 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[🔥分享一个整理了大量免费开发者服务的网站👇 直达👉 https://free-for.dev 🆓前几天看到有人整理免费的开发者服务（或者叫穷鬼套餐），其实有网站已经...]]></title>
+            <description><![CDATA[🔥分享一个整理了大量免费开发者服务的网站👇<br><br>直达👉 https://free-for.dev<br><br>🆓前几天看到有人整理免费的开发者服务（或者叫穷鬼套餐），其实有网站已经全部整理好啦！<br><br>🤔以后需要测试什么服务，先到这里看看，说不定就不需要额外花钱买台服务器或者数据库做测试了，轻松完成0-1的启动阶段！<br>🥹大家还有什么免费的服务可以推荐吗？<br><img src="https://cdnv2.ruguoapp.com/FqWEkiFmPeKwESWFgHxvW46WqAsYv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sun, 05 Nov 2023 03:42:02 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65470f0a5110e2545529a4c8</guid>
+            <link>https://m.okjike.com/originalPosts/65470f0a5110e2545529a4c8</link>
+            
+            
+            
+            <author><![CDATA[唐唐同学]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[初入编程，软件开发行业的同学们，这个工具资源社区一定的用起来：程序员盒子网，已经有超过100万+的计算机专业同学在使用了。免费，高质量，优质内容，大厂同学...]]></title>
@@ -74,26 +90,10 @@
         
         <item>
             <title><![CDATA[Midjourney、DALL•E 3 和 GPT-4 的组合，开启了无限可能。 一名外国程序员使用 AI 做了一个万圣节版本的“愤怒的小鸟”，ChatGPT-4 用来码代码，Midjourney 和 ...]]></title>
-            <description><![CDATA[Midjourney、DALL•E 3 和 GPT-4 的组合，开启了无限可能。<br><br>一名外国程序员使用 AI 做了一个万圣节版本的“愤怒的小鸟”，ChatGPT-4 用来码代码，Midjourney 和 DALL•E 3 用来绘图，全程 AI 副驾驶，遇到报错就让 AI 来处理，遇到不满意就优化 prompts 调整，耗时大概十个小时。<br><br>在线试玩地址：https://bestaiprompts.art/angry-pumpkins/index.html<br><video src="https://videocdn.jellow.site/ls7VcOeyRytG0vWjPextFWdtkDPt.mp4?sign=e687d7116426b42e3ef57c838529dcc8&amp;t=6547eeba" controls=""></video>]]></description>
+            <description><![CDATA[Midjourney、DALL•E 3 和 GPT-4 的组合，开启了无限可能。<br><br>一名外国程序员使用 AI 做了一个万圣节版本的“愤怒的小鸟”，ChatGPT-4 用来码代码，Midjourney 和 DALL•E 3 用来绘图，全程 AI 副驾驶，遇到报错就让 AI 来处理，遇到不满意就优化 prompts 调整，耗时大概十个小时。<br><br>在线试玩地址：https://bestaiprompts.art/angry-pumpkins/index.html<br><video src="https://videocdn.jellow.site/ls7VcOeyRytG0vWjPextFWdtkDPt.mp4?sign=8420a03ffc8e7be6616a626994a1d0d1&amp;t=654829c4" controls=""></video>]]></description>
             <pubDate>Wed, 01 Nov 2023 23:36:23 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6542e0f7aa7d4f2b305ba5b1</guid>
             <link>https://m.okjike.com/originalPosts/6542e0f7aa7d4f2b305ba5b1</link>
-            
-            
-            
-            <author><![CDATA[Barret李靖]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[在进行软件架构设计的时候，“C4 模型”可以很好地辅助表达一系列的分层图表，https://c4model.com，它按照上下文（Context）、容器（Container）、组件（Compon...]]></title>
-            <description><![CDATA[在进行软件架构设计的时候，“C4 模型”可以很好地辅助表达一系列的分层图表，https://c4model.com，它按照上下文（Context）、容器（Container）、组件（Component）和代码（Code）四个维度对软件架构的层级做了定义。<br><br>之前一直是徒手画框，看到 PlantUML 已经内置了 C4 元素，使用简单的 DSL 就可以完成架构图的绘制，实在是太方便了！C4 还内置了一些主题，也可以通过 PlantUML 提供的语法对界面样式进行自定义，不过，一般也不用特别追求好看，内置的主题基本就够用了。<br><br>另外，VSCode 上的插件名就是 PlantUML，它提供了一个包含大量示例的参考仓库：https://github.com/plantuml-stdlib/C4-PlantUML<br><img src="https://cdnv2.ruguoapp.com/FmGyX5Out1PRvPuUIX-CRcpUUyh4v3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 31 Oct 2023 03:54:38 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65407a7e99f2123c74a4cd43</guid>
-            <link>https://m.okjike.com/originalPosts/65407a7e99f2123c74a4cd43</link>
             
             
             
