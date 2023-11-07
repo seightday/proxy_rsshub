@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
-
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
 
 >
     <channel>
         <title><![CDATA[JitHub程序员 - 即刻圈子]]></title>
         <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
-        <atom:link href="https://rsshub.app/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
         <description><![CDATA[开发者们分享，问答，也可以交友的地方。欢迎所有工程师！ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -21,19 +20,20 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 07 Nov 2023 04:12:48 GMT</lastBuildDate>
-        <ttl>120</ttl>
+        <lastBuildDate>Tue, 07 Nov 2023 08:16:33 GMT</lastBuildDate>
+        <ttl>1</ttl>
         
         <item>
-            <title><![CDATA[使用 Cloudflare CDN 后，后端无法用传统方式获取用户的真实 IP。要让 Cloudflare 发送真实用户 IP（True-Client-IP Header）的话，需要购买最贵的企业套餐。 然...]]></title>
-            <description><![CDATA[使用 Cloudflare CDN 后，后端无法用传统方式获取用户的真实 IP。要让 Cloudflare 发送真实用户 IP（True-Client-IP Header）的话，需要购买最贵的企业套餐。<br>然而 90% 的人不知道的是：实际上 Cloudflare 还提供了完全免费的 CF-Connecting-IP 表头，作用和企业版是完全一样的。🤔<br><img src="https://cdnv2.ruguoapp.com/Fp1FQa6R1qcRbWmmUe-0QXwhpMiAv3.png" referrerpolicy="no-referrer">]]></description>
+            <title><![CDATA[使用 Cloudflare CDN 后，后端无法用传统方式获取用户的真实 IP。要让 Cloudflare 发送真实用户 IP（True-Client-IP Header）的话，需要购买最贵的企业套餐。
+然...]]></title>
+            <description><![CDATA[<br>使用 Cloudflare CDN 后，后端无法用传统方式获取用户的真实 IP。要让 Cloudflare 发送真实用户 IP（True-Client-IP Header）的话，需要购买最贵的企业套餐。<br>然而 90% 的人不知道的是：实际上 Cloudflare 还提供了完全免费的 CF-Connecting-IP 表头，作用和企业版是完全一样的。🤔<br><picture><source srcset="https://cdnv2.ruguoapp.com/Fp1FQa6R1qcRbWmmUe-0QXwhpMiAv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/Fp1FQa6R1qcRbWmmUe-0QXwhpMiAv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/Fp1FQa6R1qcRbWmmUe-0QXwhpMiAv3.png"></picture>]]></description>
             <pubDate>Mon, 06 Nov 2023 10:33:52 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6548c11097aae411eb9a0a6b</guid>
             <link>https://m.okjike.com/originalPosts/6548c11097aae411eb9a0a6b</link>
             
             
             
-            <author><![CDATA[benn]]></author>
+            
             
                 
             
@@ -41,15 +41,19 @@
         </item>
         
         <item>
-            <title><![CDATA[🔥分享一个整理了大量免费开发者服务的网站👇 直达👉 https://free-for.dev 🆓前几天看到有人整理免费的开发者服务（或者叫穷鬼套餐），其实有网站已经...]]></title>
-            <description><![CDATA[🔥分享一个整理了大量免费开发者服务的网站👇<br><br>直达👉 https://free-for.dev<br><br>🆓前几天看到有人整理免费的开发者服务（或者叫穷鬼套餐），其实有网站已经全部整理好啦！<br><br>🤔以后需要测试什么服务，先到这里看看，说不定就不需要额外花钱买台服务器或者数据库做测试了，轻松完成0-1的启动阶段！<br>🥹大家还有什么免费的服务可以推荐吗？<br><img src="https://cdnv2.ruguoapp.com/FqWEkiFmPeKwESWFgHxvW46WqAsYv3.png" referrerpolicy="no-referrer">]]></description>
+            <title><![CDATA[🔥分享一个整理了大量免费开发者服务的网站👇
+
+直达👉 https://free-for.dev
+
+🆓前几天看到有人整理免费的开发者服务（或者叫穷鬼套餐），其实有网站已...]]></title>
+            <description><![CDATA[<br>🔥分享一个整理了大量免费开发者服务的网站👇<br><br>直达👉 https://free-for.dev<br><br>🆓前几天看到有人整理免费的开发者服务（或者叫穷鬼套餐），其实有网站已经全部整理好啦！<br><br>🤔以后需要测试什么服务，先到这里看看，说不定就不需要额外花钱买台服务器或者数据库做测试了，轻松完成0-1的启动阶段！<br>🥹大家还有什么免费的服务可以推荐吗？<br><picture><source srcset="https://cdnv2.ruguoapp.com/FqWEkiFmPeKwESWFgHxvW46WqAsYv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/FqWEkiFmPeKwESWFgHxvW46WqAsYv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/FqWEkiFmPeKwESWFgHxvW46WqAsYv3.png"></picture>]]></description>
             <pubDate>Sun, 05 Nov 2023 03:42:02 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/65470f0a5110e2545529a4c8</guid>
             <link>https://m.okjike.com/originalPosts/65470f0a5110e2545529a4c8</link>
             
             
             
-            <author><![CDATA[唐唐同学]]></author>
+            
             
                 
             
@@ -58,14 +62,14 @@
         
         <item>
             <title><![CDATA[初入编程，软件开发行业的同学们，这个工具资源社区一定的用起来：程序员盒子网，已经有超过100万+的计算机专业同学在使用了。免费，高质量，优质内容，大厂同学...]]></title>
-            <description><![CDATA[初入编程，软件开发行业的同学们，这个工具资源社区一定的用起来：程序员盒子网，已经有超过100万+的计算机专业同学在使用了。免费，高质量，优质内容，大厂同学，技术大佬，技术分享。<br><img src="https://cdnv2.ruguoapp.com/FjGONI_lKcZCI85fxPRrFF3JGvUav3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FmeY4mPnaMKY61hXg2VsLDCRDQeKv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FvfgftcbJIVYiUrivS-mhrtg1KdMv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FsaseWeytgan1nvpVbrkrkU35a7Lv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FpNxlo41qc-TSePXfDBJS9VmNe0Rv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fn_lr2DHDfl84gmDOtWYYEe2hBXNv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[<br>初入编程，软件开发行业的同学们，这个工具资源社区一定的用起来：程序员盒子网，已经有超过100万+的计算机专业同学在使用了。免费，高质量，优质内容，大厂同学，技术大佬，技术分享。<br><picture><source srcset="https://cdnv2.ruguoapp.com/FjGONI_lKcZCI85fxPRrFF3JGvUav3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/FjGONI_lKcZCI85fxPRrFF3JGvUav3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/FjGONI_lKcZCI85fxPRrFF3JGvUav3.png"></picture><br><picture><source srcset="https://cdnv2.ruguoapp.com/FmeY4mPnaMKY61hXg2VsLDCRDQeKv3.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/FmeY4mPnaMKY61hXg2VsLDCRDQeKv3.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/FmeY4mPnaMKY61hXg2VsLDCRDQeKv3.jpg"></picture><br><picture><source srcset="https://cdnv2.ruguoapp.com/FvfgftcbJIVYiUrivS-mhrtg1KdMv3.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/FvfgftcbJIVYiUrivS-mhrtg1KdMv3.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/FvfgftcbJIVYiUrivS-mhrtg1KdMv3.jpg"></picture><br><picture><source srcset="https://cdnv2.ruguoapp.com/FsaseWeytgan1nvpVbrkrkU35a7Lv3.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/FsaseWeytgan1nvpVbrkrkU35a7Lv3.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/FsaseWeytgan1nvpVbrkrkU35a7Lv3.jpg"></picture><br><picture><source srcset="https://cdnv2.ruguoapp.com/FpNxlo41qc-TSePXfDBJS9VmNe0Rv3.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/FpNxlo41qc-TSePXfDBJS9VmNe0Rv3.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/FpNxlo41qc-TSePXfDBJS9VmNe0Rv3.jpg"></picture><br><picture><source srcset="https://cdnv2.ruguoapp.com/Fn_lr2DHDfl84gmDOtWYYEe2hBXNv3.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/Fn_lr2DHDfl84gmDOtWYYEe2hBXNv3.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/Fn_lr2DHDfl84gmDOtWYYEe2hBXNv3.jpg"></picture>]]></description>
             <pubDate>Fri, 03 Nov 2023 04:50:49 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/65447c29aa7d4f2b307f6abb</guid>
             <link>https://m.okjike.com/originalPosts/65447c29aa7d4f2b307f6abb</link>
             
             
             
-            <author><![CDATA[程序员盒子网站作者七七]]></author>
+            
             
                 
             
@@ -73,15 +77,17 @@
         </item>
         
         <item>
-            <title><![CDATA[clash for windows 停更，不是 clash。cfw 其实就是个 clash 套壳，而且之前一直没开源，github 仓库里只有 readme。 怎么搞得像个轰动大事件一样。 现在有个 cl...]]></title>
-            <description><![CDATA[clash for windows 停更，不是 clash。cfw 其实就是个 clash 套壳，而且之前一直没开源，github 仓库里只有 readme。 怎么搞得像个轰动大事件一样。<br><br>现在有个 clash verge，是开源的，用的 tauri ，体积小很多，cfw 用的 electron，体积是真的大。]]></description>
+            <title><![CDATA[clash for windows 停更，不是 clash。cfw 其实就是个 clash 套壳，而且之前一直没开源，github 仓库里只有 readme。 怎么搞得像个轰动大事件一样。
+
+现在有个 c...]]></title>
+            <description><![CDATA[<br>clash for windows 停更，不是 clash。cfw 其实就是个 clash 套壳，而且之前一直没开源，github 仓库里只有 readme。 怎么搞得像个轰动大事件一样。<br><br>现在有个 clash verge，是开源的，用的 tauri ，体积小很多，cfw 用的 electron，体积是真的大。]]></description>
             <pubDate>Thu, 02 Nov 2023 11:21:39 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6543864397aae411eb30e45b</guid>
             <link>https://m.okjike.com/originalPosts/6543864397aae411eb30e45b</link>
             
             
             
-            <author><![CDATA[ourongxing]]></author>
+            
             
                 
             
@@ -89,15 +95,17 @@
         </item>
         
         <item>
-            <title><![CDATA[Midjourney、DALL•E 3 和 GPT-4 的组合，开启了无限可能。 一名外国程序员使用 AI 做了一个万圣节版本的“愤怒的小鸟”，ChatGPT-4 用来码代码，Midjourney 和 ...]]></title>
-            <description><![CDATA[Midjourney、DALL•E 3 和 GPT-4 的组合，开启了无限可能。<br><br>一名外国程序员使用 AI 做了一个万圣节版本的“愤怒的小鸟”，ChatGPT-4 用来码代码，Midjourney 和 DALL•E 3 用来绘图，全程 AI 副驾驶，遇到报错就让 AI 来处理，遇到不满意就优化 prompts 调整，耗时大概十个小时。<br><br>在线试玩地址：https://bestaiprompts.art/angry-pumpkins/index.html<br><video src="https://videocdn.jellow.site/ls7VcOeyRytG0vWjPextFWdtkDPt.mp4?sign=14eb7584a6c0d5207be28427fdfae521&amp;t=6549c048" controls=""></video>]]></description>
+            <title><![CDATA[Midjourney、DALL•E 3 和 GPT-4 的组合，开启了无限可能。
+
+一名外国程序员使用 AI 做了一个万圣节版本的“愤怒的小鸟”，ChatGPT-4 用来码代码，Midjourney 和...]]></title>
+            <description><![CDATA[<br>Midjourney、DALL•E 3 和 GPT-4 的组合，开启了无限可能。<br><br>一名外国程序员使用 AI 做了一个万圣节版本的“愤怒的小鸟”，ChatGPT-4 用来码代码，Midjourney 和 DALL•E 3 用来绘图，全程 AI 副驾驶，遇到报错就让 AI 来处理，遇到不满意就优化 prompts 调整，耗时大概十个小时。<br><br>在线试玩地址：https://bestaiprompts.art/angry-pumpkins/index.html]]></description>
             <pubDate>Wed, 01 Nov 2023 23:36:23 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6542e0f7aa7d4f2b305ba5b1</guid>
             <link>https://m.okjike.com/originalPosts/6542e0f7aa7d4f2b305ba5b1</link>
             
             
             
-            <author><![CDATA[Barret李靖]]></author>
+            
             
                 
             
@@ -105,15 +113,22 @@
         </item>
         
         <item>
-            <title><![CDATA[目前用过最好的OCR软件，Github上已经快10k star了 1.免费开源。 2.离线使用，速度超快。 3.支持批量识别。 4.还可以指定识别区域。 https://github.com/hiroi-s...]]></title>
-            <description><![CDATA[目前用过最好的OCR软件，Github上已经快10k star了<br><br>1.免费开源。<br>2.离线使用，速度超快。<br>3.支持批量识别。<br>4.还可以指定识别区域。<br><br>https://github.com/hiroi-sora/Umi-OCR<br><img src="https://cdnv2.ruguoapp.com/FmTkAjonjTssdjUgEIEenkdZYn9sv3.png" referrerpolicy="no-referrer">]]></description>
+            <title><![CDATA[目前用过最好的OCR软件，Github上已经快10k star了
+
+1.免费开源。
+2.离线使用，速度超快。
+3.支持批量识别。
+4.还可以指定识别区域。
+
+https://github.com/hiroi...]]></title>
+            <description><![CDATA[<br>目前用过最好的OCR软件，Github上已经快10k star了<br><br>1.免费开源。<br>2.离线使用，速度超快。<br>3.支持批量识别。<br>4.还可以指定识别区域。<br><br>https://github.com/hiroi-sora/Umi-OCR<br><picture><source srcset="https://cdnv2.ruguoapp.com/FmTkAjonjTssdjUgEIEenkdZYn9sv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/FmTkAjonjTssdjUgEIEenkdZYn9sv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/FmTkAjonjTssdjUgEIEenkdZYn9sv3.png"></picture>]]></description>
             <pubDate>Mon, 30 Oct 2023 06:35:19 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/653f4ea7d5f9a5727f96dad3</guid>
             <link>https://m.okjike.com/originalPosts/653f4ea7d5f9a5727f96dad3</link>
             
             
             
-            <author><![CDATA[monsoona]]></author>
+            
             
                 
             
@@ -121,15 +136,16 @@
         </item>
         
         <item>
-            <title><![CDATA[到今天，养网站防老入门系列建站部分算是连载完了，总共12篇文章，适合零基础入门： 开篇：网站可以做成一生的事业 https://mp.weixin.qq.com/s/URcdE3VaoYoAx0c...]]></title>
-            <description><![CDATA[到今天，养网站防老入门系列建站部分算是连载完了，总共12篇文章，适合零基础入门：<br>开篇：网站可以做成一生的事业 https://mp.weixin.qq.com/s/URcdE3VaoYoAx0cOcll8_g<br><br>第0步：如果你没有编程基础，如果你不会前端开发，那么推荐跟着这个免费视频教程学习 https://mp.weixin.qq.com/s/mtJY6TKCVjZQRmeFkWPAfQ<br><br>第1步：挖掘出第1个需求 https://mp.weixin.qq.com/s/V35KGuSqMHhhgr4x1Bzw6Q<br><br>第1.5步：用一个公式来判断关键词是否值得做，让你选择关键词不再犹豫 https://mp.weixin.qq.com/s/CJNigdIt8VkfQDangR8Bcg<br><br>第2步：分析搜索意图 https://mp.weixin.qq.com/s/0l-1EVPJWAJK6z9w8Bn-FQ<br><br>第3步：根据搜索意图使用ChatGPT的GPT4生成网页养网站 https://mp.weixin.qq.com/s/Mg5utkp0iD_b0RGMbCvA4A<br><br>第4步：手动调整布局和样式 https://mp.weixin.qq.com/s/2T8u9QsGEKIv7c6ObSwYpw<br><br>第5步：内页和内链建设 https://mp.weixin.qq.com/s/X95UZmPEKHZZ4rNoBcaoJg<br><br>第6步：利用ChatGPT给网站增加多语言支持 https://mp.weixin.qq.com/s/b3_lY793bgiVcuZ2TREF2w<br><br>第7步：注册域名，解析域名，部署上线 https://mp.weixin.qq.com/s/B-boMGJsI3bxB8Ih10duRw<br><br>第8步：添加统计代码，提交到 Google Search Console，增加外链，等待被收录 https://mp.weixin.qq.com/s/lCy2pWnFuP2riO9H0mJbIg<br><br>第9步：谷歌对于AI生成内容的态度及如何让AI生成高质量内容 https://mp.weixin.qq.com/s/pIQznxcsTV38kq9Ms5sxPA<br><br>学完上面这些文章，就可以接上哥飞之前写的文章了：<br>需求有了，网站也做好了，流量从哪来？ https://mp.weixin.qq.com/s/jtZwh-pDx_xS1BzXyJdJjg<br><br>养成好习惯，看到任何一个网站都去看看流量和流量来源分布，再看看搜索流量来自于哪些词 https://mp.weixin.qq.com/s/hhxh3pufHxp619sIiwmkwA<br><br>我如何通过SEO和Adsense优化，把一个网站广告收入从每月八百多美元提升到每月两千多美元，经验全分享 https://mp.weixin.qq.com/s/YLi38TLLM936bDsILGUtuA<br><br>从7月开始到现在，哥飞写了122篇相关文章，除了2篇是收费文章，其它120篇全都免费公开，人人都能学习。<br><br>希望能够带动更多人学习。<br><img src="https://cdnv2.ruguoapp.com/FvIPBRaliyTNOhmY_kckdBV1LqAFv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fm8zf5JVeQWEHvH0xMypslaGUP-Lv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <title><![CDATA[到今天，养网站防老入门系列建站部分算是连载完了，总共12篇文章，适合零基础入门：
+开篇：网站可以做成一生的事业 https://mp.weixin.qq.com/s/URcdE3VaoYoAx0c...]]></title>
+            <description><![CDATA[<br>到今天，养网站防老入门系列建站部分算是连载完了，总共12篇文章，适合零基础入门：<br>开篇：网站可以做成一生的事业 https://mp.weixin.qq.com/s/URcdE3VaoYoAx0cOcll8_g<br><br>第0步：如果你没有编程基础，如果你不会前端开发，那么推荐跟着这个免费视频教程学习 https://mp.weixin.qq.com/s/mtJY6TKCVjZQRmeFkWPAfQ<br><br>第1步：挖掘出第1个需求 https://mp.weixin.qq.com/s/V35KGuSqMHhhgr4x1Bzw6Q<br><br>第1.5步：用一个公式来判断关键词是否值得做，让你选择关键词不再犹豫 https://mp.weixin.qq.com/s/CJNigdIt8VkfQDangR8Bcg<br><br>第2步：分析搜索意图 https://mp.weixin.qq.com/s/0l-1EVPJWAJK6z9w8Bn-FQ<br><br>第3步：根据搜索意图使用ChatGPT的GPT4生成网页养网站 https://mp.weixin.qq.com/s/Mg5utkp0iD_b0RGMbCvA4A<br><br>第4步：手动调整布局和样式 https://mp.weixin.qq.com/s/2T8u9QsGEKIv7c6ObSwYpw<br><br>第5步：内页和内链建设 https://mp.weixin.qq.com/s/X95UZmPEKHZZ4rNoBcaoJg<br><br>第6步：利用ChatGPT给网站增加多语言支持 https://mp.weixin.qq.com/s/b3_lY793bgiVcuZ2TREF2w<br><br>第7步：注册域名，解析域名，部署上线 https://mp.weixin.qq.com/s/B-boMGJsI3bxB8Ih10duRw<br><br>第8步：添加统计代码，提交到 Google Search Console，增加外链，等待被收录 https://mp.weixin.qq.com/s/lCy2pWnFuP2riO9H0mJbIg<br><br>第9步：谷歌对于AI生成内容的态度及如何让AI生成高质量内容 https://mp.weixin.qq.com/s/pIQznxcsTV38kq9Ms5sxPA<br><br>学完上面这些文章，就可以接上哥飞之前写的文章了：<br>需求有了，网站也做好了，流量从哪来？ https://mp.weixin.qq.com/s/jtZwh-pDx_xS1BzXyJdJjg<br><br>养成好习惯，看到任何一个网站都去看看流量和流量来源分布，再看看搜索流量来自于哪些词 https://mp.weixin.qq.com/s/hhxh3pufHxp619sIiwmkwA<br><br>我如何通过SEO和Adsense优化，把一个网站广告收入从每月八百多美元提升到每月两千多美元，经验全分享 https://mp.weixin.qq.com/s/YLi38TLLM936bDsILGUtuA<br><br>从7月开始到现在，哥飞写了122篇相关文章，除了2篇是收费文章，其它120篇全都免费公开，人人都能学习。<br><br>希望能够带动更多人学习。<br><picture><source srcset="https://cdnv2.ruguoapp.com/FvIPBRaliyTNOhmY_kckdBV1LqAFv3.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/FvIPBRaliyTNOhmY_kckdBV1LqAFv3.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/FvIPBRaliyTNOhmY_kckdBV1LqAFv3.jpg"></picture><br><picture><source srcset="https://cdnv2.ruguoapp.com/Fm8zf5JVeQWEHvH0xMypslaGUP-Lv3.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/Fm8zf5JVeQWEHvH0xMypslaGUP-Lv3.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/Fm8zf5JVeQWEHvH0xMypslaGUP-Lv3.jpg"></picture>]]></description>
             <pubDate>Sat, 28 Oct 2023 01:37:56 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/653c65f499f2123c74514cf4</guid>
             <link>https://m.okjike.com/originalPosts/653c65f499f2123c74514cf4</link>
             
             
             
-            <author><![CDATA[哥飞]]></author>
+            
             
                 
             
@@ -137,15 +153,17 @@
         </item>
         
         <item>
-            <title><![CDATA[海外产品开发套件（不定期更新） 做海外产品的开发会让人感到幸福，因为有许多优秀的开发套件——从代码部署到谷歌登录，从订阅收款到分销联盟，都能直接组装使...]]></title>
-            <description><![CDATA[海外产品开发套件（不定期更新）<br><br>做海外产品的开发会让人感到幸福，因为有许多优秀的开发套件——从代码部署到谷歌登录，从订阅收款到分销联盟，都能直接组装使用。<br><br>我们可以像搭积木一样，形成一套趁手的研发模板，快速进入业务开发，解决真正的问题。<br><br>以下是我正在或计划使用的服务，欢迎推荐补充。<br><br>Cloudflare 推荐过无数次了，我的海外项目都接入了他们的服务：DNS、SSL、CDN、缓存、防火墙、统计、Workers……最近还发布了 Workers AI。Cloudflare 后台每个子菜单都值得花时间去了解一下具体应用场景，比如还有蛮多人不知道 Worker 是可以运行 Puppeteer 的。<br><br>Vercel 是一个从 Next.js 发展而来的部署平台，也有数据存储、Edge Functions。官方支持的框架语言以 JavaScript 为主，但实际上也可以运行 PHP、Python 等等。开发者社区非常活跃，官方模板是一个找现成轮子的好地方。类似服务：https://render.com、https://railway.app、https://fly.io<br><br>一般我们做项目会先看看有没开源项目参考，更进一步还可以去找现成的 API：https://rapidapi.com <br><br>AI 模型、GPU 相关服务：https://replicate.com、https://huggingface.co、https://runpod.io、https://vast.ai<br><br>Supabase 主打 PostgreSQL 数据库服务，并且集成了用户登录验证，换句话说，前端登录界面都不用自己写了。Supabase 同样也有数据存储、Edge Functions，近期还上线了向量数据库。类似服务：https://clerk.com、https://planetscale.com、https://neon.tech、https://mongodb.com、https://upstash.com<br><br>Stripe 是海外收款的首选，几乎能想到与收款相关的服务，他们都有相应产品。接入也不难，Vercel 还有一个 Stripe 订阅模板，第一次见如此详尽的开发文档。类似服务：https://paddle.com、https://lemonsqueezy.com<br><br>Affiliate 分销联盟是一个不可忽略的推广方式。https://rewardful.com 用的人比较多，它能跟 Stripe 关联，用户注册的体验也很流畅。类似服务：https://tapfiliate.com、https://tolt.io<br><br>邮件服务就非常多了，免费的可以用 Amazon SES，邮件营销还是建议选择成熟的付费服务。我的项目在用 https://mailjet.com，体验下来足够简单，也便宜。类似服务：https://mailgun.com、https://resend.com、https://postmarkapp.com、https://brevo.com<br><br>域名邮箱可以使用 https://zoho.com，最便宜 $1/月，还要什么自行车。类似服务：https://mymangomail.com<br><br>数据统计已经受够了 Google Analytics，于是换成了 https://plausible.io，也有开源版本。类似服务：https://beamanalytics.io<br><br>错误跟踪可以使用 https://sentry.io，只要代码写得不太烂，免费额度应该是够用的，同样也有开源版本。类似服务：https://rollbar.com、https://newrelic.com<br><br>本列表会不定期更新，欢迎转发、收藏。]]></description>
+            <title><![CDATA[海外产品开发套件（不定期更新）
+
+做海外产品的开发会让人感到幸福，因为有许多优秀的开发套件——从代码部署到谷歌登录，从订阅收款到分销联盟，都能直接组装使...]]></title>
+            <description><![CDATA[<br>海外产品开发套件（不定期更新）<br><br>做海外产品的开发会让人感到幸福，因为有许多优秀的开发套件——从代码部署到谷歌登录，从订阅收款到分销联盟，都能直接组装使用。<br><br>我们可以像搭积木一样，形成一套趁手的研发模板，快速进入业务开发，解决真正的问题。<br><br>以下是我正在或计划使用的服务，欢迎推荐补充。<br><br>Cloudflare 推荐过无数次了，我的海外项目都接入了他们的服务：DNS、SSL、CDN、缓存、防火墙、统计、Workers……最近还发布了 Workers AI。Cloudflare 后台每个子菜单都值得花时间去了解一下具体应用场景，比如还有蛮多人不知道 Worker 是可以运行 Puppeteer 的。<br><br>Vercel 是一个从 Next.js 发展而来的部署平台，也有数据存储、Edge Functions。官方支持的框架语言以 JavaScript 为主，但实际上也可以运行 PHP、Python 等等。开发者社区非常活跃，官方模板是一个找现成轮子的好地方。类似服务：https://render.com、https://railway.app、https://fly.io<br><br>一般我们做项目会先看看有没开源项目参考，更进一步还可以去找现成的 API：https://rapidapi.com <br><br>AI 模型、GPU 相关服务：https://replicate.com、https://huggingface.co、https://runpod.io、https://vast.ai<br><br>Supabase 主打 PostgreSQL 数据库服务，并且集成了用户登录验证，换句话说，前端登录界面都不用自己写了。Supabase 同样也有数据存储、Edge Functions，近期还上线了向量数据库。类似服务：https://clerk.com、https://planetscale.com、https://neon.tech、https://mongodb.com、https://upstash.com<br><br>Stripe 是海外收款的首选，几乎能想到与收款相关的服务，他们都有相应产品。接入也不难，Vercel 还有一个 Stripe 订阅模板，第一次见如此详尽的开发文档。类似服务：https://paddle.com、https://lemonsqueezy.com<br><br>Affiliate 分销联盟是一个不可忽略的推广方式。https://rewardful.com 用的人比较多，它能跟 Stripe 关联，用户注册的体验也很流畅。类似服务：https://tapfiliate.com、https://tolt.io<br><br>邮件服务就非常多了，免费的可以用 Amazon SES，邮件营销还是建议选择成熟的付费服务。我的项目在用 https://mailjet.com，体验下来足够简单，也便宜。类似服务：https://mailgun.com、https://resend.com、https://postmarkapp.com、https://brevo.com<br><br>域名邮箱可以使用 https://zoho.com，最便宜 $1/月，还要什么自行车。类似服务：https://mymangomail.com<br><br>数据统计已经受够了 Google Analytics，于是换成了 https://plausible.io，也有开源版本。类似服务：https://beamanalytics.io<br><br>错误跟踪可以使用 https://sentry.io，只要代码写得不太烂，免费额度应该是够用的，同样也有开源版本。类似服务：https://rollbar.com、https://newrelic.com<br><br>本列表会不定期更新，欢迎转发、收藏。]]></description>
             <pubDate>Mon, 16 Oct 2023 12:08:44 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/652d27cc99f2123c740acfda</guid>
             <link>https://m.okjike.com/originalPosts/652d27cc99f2123c740acfda</link>
             
             
             
-            <author><![CDATA[赖嘉伟Gary]]></author>
+            
             
                 
             
@@ -154,14 +172,14 @@
         
         <item>
             <title><![CDATA[我最近搞了个小工具站 word-to-vector.com, 旨在轻松将你的文本和词汇转换成NLP和AI能识别的格式。作为一名独立开发者，我知道处理文本数据有时候会让人头疼，所...]]></title>
-            <description><![CDATA[我最近搞了个小工具站 word-to-vector.com, 旨在轻松将你的文本和词汇转换成NLP和AI能识别的格式。作为一名独立开发者，我知道处理文本数据有时候会让人头疼，所以我希望这个小工具能为你节省些时间和精力。<br><br>无论你是在搞机器学习、数据分析，或是单纯喜欢折腾文字，这个站点都可能会有些用处。它简单、快捷，不需要任何复杂的设置。你只需几下点击，即可将你的文本转换成向量，然后投入到你的项目中。<br><br>快来试试吧！http://word-to-vector.com #WordToVector #文本处理 #AI工作流 #NLP]]></description>
+            <description><![CDATA[<br>我最近搞了个小工具站 word-to-vector.com, 旨在轻松将你的文本和词汇转换成NLP和AI能识别的格式。作为一名独立开发者，我知道处理文本数据有时候会让人头疼，所以我希望这个小工具能为你节省些时间和精力。<br><br>无论你是在搞机器学习、数据分析，或是单纯喜欢折腾文字，这个站点都可能会有些用处。它简单、快捷，不需要任何复杂的设置。你只需几下点击，即可将你的文本转换成向量，然后投入到你的项目中。<br><br>快来试试吧！http://word-to-vector.com #WordToVector #文本处理 #AI工作流 #NLP ]]></description>
             <pubDate>Wed, 11 Oct 2023 02:39:04 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/65260ac8d5f9a5727f796318</guid>
             <link>https://m.okjike.com/originalPosts/65260ac8d5f9a5727f796318</link>
             
             
             
-            <author><![CDATA[nginx.eth]]></author>
+            
             
                 
             
@@ -169,15 +187,21 @@
         </item>
         
         <item>
-            <title><![CDATA[养网站防老：网站可以做成一生的事业 大家好，我是哥飞。 昨天给大家分享了《做网站没灵感？来看看别人的优秀案例之前端工具站 》，里边第2个案例如下： 2、脑力...]]></title>
-            <description><![CDATA[养网站防老：网站可以做成一生的事业<br><br>大家好，我是哥飞。<br><br>昨天给大家分享了《做网站没灵感？来看看别人的优秀案例之前端工具站 》，里边第2个案例如下：<br><br>2、脑力训练小游戏 humanbenchmark.com 这个网站提供了一系列的脑力小游戏给大家玩，月访问量190万，平均停留时间217秒。域名注册于2006年，archive 中能够查到第一版时间是2007年的2月6日。<br><br>有个即友评论说“07年的网站太牛了”，哥飞看到后，有感而发说“自己做的网站，努力推广，有了用户之后，就是一棵摇钱树，每年每月都会开花结果能赚钱。”<br><br>后来哥飞在社群里给大家分享一个国外团队做的网站矩阵，有了如下思考：<br><br>1、他这个矩阵里只做工具类网站，有很多域名，一个功能用一个域名来做站，随便找几个域一下，都有几百万月访问量；<br><br>2、其中两个域名又长还带横杠，一个390万月访问量，一个540万月访问量，从这可以看出来，其实域名长一点或者带横杠都没关系；<br><br>3、老带新，只要做出来了一个有一定流量的网站，就可以不断地做新网站，做矩阵。靠老网站给新网站增加外链和访问量，来提升新网站的权重和排名；<br><br>4、只要搜索引擎能够源源不断的带来新用户，总会有一部分用户记住网址或者把网址加入到书签栏或者保存到别的地方，能够二次访问，这样新用户就变成了老用户；<br><br>5、谷歌首页有10个位置，虽然有人已经占据了第一名，也不代表在这个需求我们不能做了。赢家通常不会通吃，我们在后几名也没关系，也能拿到一些流量；<br><br>6、做网站就像是种树一样，先种下第一棵树，再种下第二棵树，慢慢你就有了一个小果园，收成会越来越好；<br><br>7、尽量多种几种不同品种的果树，既可以使得一年四季都有水果吃，又可以防止“病虫害”导致同种果树死亡；<br><br>8、网站可以做成一生的事业，只要碳基生命还存在，就还会有网站的需求，我们就还能靠网站来赚钱；<br><br>9、养儿防老不如养网站防老。<br><br>其实之前哥飞也聊过这个话题《2023年了，为什么还要做网站？为的是可控的流量，可控的用户，可控的收入。》<br><br>今天有感而发，就再次跟大家聊聊。<br><br>最后给大家留一个课后作业，请根据下图，找出哥飞前面说的那个矩阵网站，如果你找出来了，请加哥飞微信 qiayue，哥飞会给你发一个随机金额小红包。<br><img src="https://cdnv2.ruguoapp.com/FkjwdrRp4LrTUb2MfFnyso9qK4LUv3.png" referrerpolicy="no-referrer">]]></description>
+            <title><![CDATA[养网站防老：网站可以做成一生的事业
+
+大家好，我是哥飞。
+
+昨天给大家分享了《做网站没灵感？来看看别人的优秀案例之前端工具站 》，里边第2个案例如下：
+
+2、...]]></title>
+            <description><![CDATA[<br>养网站防老：网站可以做成一生的事业<br><br>大家好，我是哥飞。<br><br>昨天给大家分享了《做网站没灵感？来看看别人的优秀案例之前端工具站 》，里边第2个案例如下：<br><br>2、脑力训练小游戏 humanbenchmark.com 这个网站提供了一系列的脑力小游戏给大家玩，月访问量190万，平均停留时间217秒。域名注册于2006年，archive 中能够查到第一版时间是2007年的2月6日。<br><br>有个即友评论说“07年的网站太牛了”，哥飞看到后，有感而发说“自己做的网站，努力推广，有了用户之后，就是一棵摇钱树，每年每月都会开花结果能赚钱。”<br><br>后来哥飞在社群里给大家分享一个国外团队做的网站矩阵，有了如下思考：<br><br>1、他这个矩阵里只做工具类网站，有很多域名，一个功能用一个域名来做站，随便找几个域一下，都有几百万月访问量；<br><br>2、其中两个域名又长还带横杠，一个390万月访问量，一个540万月访问量，从这可以看出来，其实域名长一点或者带横杠都没关系；<br><br>3、老带新，只要做出来了一个有一定流量的网站，就可以不断地做新网站，做矩阵。靠老网站给新网站增加外链和访问量，来提升新网站的权重和排名；<br><br>4、只要搜索引擎能够源源不断的带来新用户，总会有一部分用户记住网址或者把网址加入到书签栏或者保存到别的地方，能够二次访问，这样新用户就变成了老用户；<br><br>5、谷歌首页有10个位置，虽然有人已经占据了第一名，也不代表在这个需求我们不能做了。赢家通常不会通吃，我们在后几名也没关系，也能拿到一些流量；<br><br>6、做网站就像是种树一样，先种下第一棵树，再种下第二棵树，慢慢你就有了一个小果园，收成会越来越好；<br><br>7、尽量多种几种不同品种的果树，既可以使得一年四季都有水果吃，又可以防止“病虫害”导致同种果树死亡；<br><br>8、网站可以做成一生的事业，只要碳基生命还存在，就还会有网站的需求，我们就还能靠网站来赚钱；<br><br>9、养儿防老不如养网站防老。<br><br>其实之前哥飞也聊过这个话题《2023年了，为什么还要做网站？为的是可控的流量，可控的用户，可控的收入。》<br><br>今天有感而发，就再次跟大家聊聊。<br><br>最后给大家留一个课后作业，请根据下图，找出哥飞前面说的那个矩阵网站，如果你找出来了，请加哥飞微信 qiayue，哥飞会给你发一个随机金额小红包。<br><picture><source srcset="https://cdnv2.ruguoapp.com/FkjwdrRp4LrTUb2MfFnyso9qK4LUv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/FkjwdrRp4LrTUb2MfFnyso9qK4LUv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/FkjwdrRp4LrTUb2MfFnyso9qK4LUv3.png"></picture>]]></description>
             <pubDate>Mon, 09 Oct 2023 02:12:29 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6523618d2a0c03ca13605bcc</guid>
             <link>https://m.okjike.com/originalPosts/6523618d2a0c03ca13605bcc</link>
             
             
             
-            <author><![CDATA[哥飞]]></author>
+            
             
                 
             
