@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 08 Nov 2023 14:51:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Nov 2023 16:52:30 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[@Airyland 今天上线的这个网站 https://GPTsHunter.com/?gefei ，到现在13个小时，UV快4000了，因为是单页网站，所以PV五千多。 怎么做到的？ 热，GPTs目前是热...]]></title>
+            <description><![CDATA[@Airyland 今天上线的这个网站 https://GPTsHunter.com/?gefei ，到现在13个小时，UV快4000了，因为是单页网站，所以PV五千多。<br>怎么做到的？<br>热，GPTs目前是热点。<br>快，比别人更快上线。<br>简，直接用 html+css+json生成静态页面，简化开发。<br>热点，所以大家好奇心强，自带传播性，能够让很多人帮忙传播。<br><img src="https://cdnv2.ruguoapp.com/FoceSmoVRSgdg9ue6viytvYB-rNZv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FsSO-2Q7o8I_ZYlvLSuxW30I_fr7v3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 08 Nov 2023 12:59:51 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/654b8647834e87e36f986dc0</guid>
+            <link>https://m.okjike.com/originalPosts/654b8647834e87e36f986dc0</link>
+            
+            
+            
+            <author><![CDATA[哥飞]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[https://www.gptshunter.com 基本是用 AI 糊出来的，没有数据库，只有一个 data.json 文件作为数据用来构建静态页面，数据增删是读 json 往里面写。UI 是让 AI ...]]></title>
@@ -42,7 +58,7 @@
         
         <item>
             <title><![CDATA[现在基于 Loro CRDTs 可以让应用轻松做到实时协作 + 历史回放了]]></title>
-            <description><![CDATA[现在基于 Loro CRDTs 可以让应用轻松做到实时协作 + 历史回放了<br><video src="https://videocdn.jellow.site/FgR8xFDh0Dskc_j1zDHnDq7veQ0r.mp4?sign=9299be753ffe5b23a44e341c58a72d3e&amp;t=654ba72d" controls=""></video>]]></description>
+            <description><![CDATA[现在基于 Loro CRDTs 可以让应用轻松做到实时协作 + 历史回放了<br><video src="https://videocdn.jellow.site/FgR8xFDh0Dskc_j1zDHnDq7veQ0r.mp4?sign=f58d17d3eefd3c11634bc5b511b0c560&amp;t=654bc32b" controls=""></video>]]></description>
             <pubDate>Tue, 07 Nov 2023 14:41:23 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/654a4c93834e87e36f7e4b5d</guid>
             <link>https://m.okjike.com/originalPosts/654a4c93834e87e36f7e4b5d</link>
@@ -50,22 +66,6 @@
             
             
             <author><![CDATA[zxch3n]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[gpt-4-1106-preview 一分钟最多20次请求，一天最多100个请求，完全不够用]]></title>
-            <description><![CDATA[gpt-4-1106-preview<br>一分钟最多20次请求，一天最多100个请求，完全不够用<br><img src="https://cdnv2.ruguoapp.com/FrUZwUPCbKP7tKQw_3YxvJ83ryDwv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 07 Nov 2023 09:22:25 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/654a01d184bcbc4a46ae8c80</guid>
-            <link>https://m.okjike.com/originalPosts/654a01d184bcbc4a46ae8c80</link>
-            
-            
-            
-            <author><![CDATA[哥飞]]></author>
             
                 
             
