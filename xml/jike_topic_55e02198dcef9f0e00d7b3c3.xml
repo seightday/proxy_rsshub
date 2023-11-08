@@ -21,12 +21,12 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 08 Nov 2023 06:47:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Nov 2023 10:49:14 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
             <title><![CDATA[现在基于 Loro CRDTs 可以让应用轻松做到实时协作 + 历史回放了]]></title>
-            <description><![CDATA[现在基于 Loro CRDTs 可以让应用轻松做到实时协作 + 历史回放了<br><video src="https://videocdn.jellow.site/FgR8xFDh0Dskc_j1zDHnDq7veQ0r.mp4?sign=ff80fddcd304f2ec68f993537530cbd4&amp;t=654b361b" controls=""></video>]]></description>
+            <description><![CDATA[现在基于 Loro CRDTs 可以让应用轻松做到实时协作 + 历史回放了<br><video src="https://videocdn.jellow.site/FgR8xFDh0Dskc_j1zDHnDq7veQ0r.mp4?sign=83107889094ad9375d539c574f881f09&amp;t=654b6e18" controls=""></video>]]></description>
             <pubDate>Tue, 07 Nov 2023 14:41:23 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/654a4c93834e87e36f7e4b5d</guid>
             <link>https://m.okjike.com/originalPosts/654a4c93834e87e36f7e4b5d</link>
@@ -89,6 +89,22 @@
         </item>
         
         <item>
+            <title><![CDATA[基本已经完成了独立开发，在这个过程中使用到了很多好用的工具，在这里记录一下： # 后端工具 网站： - cloudflare：DNS，域名管理，CDN，结合国外服务器+nginx...]]></title>
+            <description><![CDATA[基本已经完成了独立开发，在这个过程中使用到了很多好用的工具，在这里记录一下：<br># 后端工具<br><br>网站：<br><br>- cloudflare：DNS，域名管理，CDN，结合国外服务器+nginx反向代理可以绕开某些限制<br>- 搬瓦工：海外服务器（反向代理回国内服务器、前端页面）购买<br>- supabase：主要是用户管理服务，用户管理功能很完善，还提供如基础数据库服务<br><br>后端服务、组件：<br><br>- http服务：nest，ts的服务框架，也可以魔改成定时任务、监听器<br><br># 前端工具<br><br>- vite：脚手架<br>- react：前端框架<br>- tailwind：插件，自动生成css文件，避免自己写css<br>- save all resources：浏览器插件，可以下载前端源码，可以自己魔改，特别是针对tailwind架构的网站，无敌]]></description>
+            <pubDate>Sun, 05 Nov 2023 13:22:50 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6547972a99f2123c743913ea</guid>
+            <link>https://m.okjike.com/originalPosts/6547972a99f2123c743913ea</link>
+            
+            
+            
+            <author><![CDATA[拉普拉斯kamisama]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[🔥分享一个整理了大量免费开发者服务的网站👇 直达👉 https://free-for.dev 🆓前几天看到有人整理免费的开发者服务（或者叫穷鬼套餐），其实有网站已经...]]></title>
             <description><![CDATA[🔥分享一个整理了大量免费开发者服务的网站👇<br><br>直达👉 https://free-for.dev<br><br>🆓前几天看到有人整理免费的开发者服务（或者叫穷鬼套餐），其实有网站已经全部整理好啦！<br><br>🤔以后需要测试什么服务，先到这里看看，说不定就不需要额外花钱买台服务器或者数据库做测试了，轻松完成0-1的启动阶段！<br>🥹大家还有什么免费的服务可以推荐吗？<br><img src="https://cdnv2.ruguoapp.com/FqWEkiFmPeKwESWFgHxvW46WqAsYv3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Sun, 05 Nov 2023 03:42:02 GMT</pubDate>
@@ -98,22 +114,6 @@
             
             
             <author><![CDATA[唐唐同学]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[clash for windows 停更，不是 clash。cfw 其实就是个 clash 套壳，而且之前一直没开源，github 仓库里只有 readme。 怎么搞得像个轰动大事件一样。 现在有个 cl...]]></title>
-            <description><![CDATA[clash for windows 停更，不是 clash。cfw 其实就是个 clash 套壳，而且之前一直没开源，github 仓库里只有 readme。 怎么搞得像个轰动大事件一样。<br><br>现在有个 clash verge，是开源的，用的 tauri ，体积小很多，cfw 用的 electron，体积是真的大。]]></description>
-            <pubDate>Thu, 02 Nov 2023 11:21:39 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6543864397aae411eb30e45b</guid>
-            <link>https://m.okjike.com/originalPosts/6543864397aae411eb30e45b</link>
-            
-            
-            
-            <author><![CDATA[ourongxing]]></author>
             
                 
             
