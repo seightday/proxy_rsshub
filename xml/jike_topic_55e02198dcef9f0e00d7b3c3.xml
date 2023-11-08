@@ -21,12 +21,28 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 08 Nov 2023 10:49:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Nov 2023 14:51:27 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
+            <title><![CDATA[https://www.gptshunter.com 基本是用 AI 糊出来的，没有数据库，只有一个 data.json 文件作为数据用来构建静态页面，数据增删是读 json 往里面写。UI 是让 AI ...]]></title>
+            <description><![CDATA[https://www.gptshunter.com <br><br>基本是用 AI 糊出来的，没有数据库，只有一个 data.json 文件作为数据用来构建静态页面，数据增删是读 json 往里面写。UI 是让 AI 写的 Tailwind 代码，链接筛选处理逻辑也是 AI 写的，没有做搜索和分类。<br><br>代码很乱，不过没关系，it works。<br><br>如果想验证、想实现一个想法，就不要考虑技术，数据纯人工编辑也可以，最佳实践是“快”。<br><img src="https://cdnv2.ruguoapp.com/Fu6YlWJxD60ppW7zjZbTbe8R8FkFv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 08 Nov 2023 12:52:54 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/654b84a6190f2acb895c5bfc</guid>
+            <link>https://m.okjike.com/originalPosts/654b84a6190f2acb895c5bfc</link>
+            
+            
+            
+            <author><![CDATA[Airyland]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[现在基于 Loro CRDTs 可以让应用轻松做到实时协作 + 历史回放了]]></title>
-            <description><![CDATA[现在基于 Loro CRDTs 可以让应用轻松做到实时协作 + 历史回放了<br><video src="https://videocdn.jellow.site/FgR8xFDh0Dskc_j1zDHnDq7veQ0r.mp4?sign=83107889094ad9375d539c574f881f09&amp;t=654b6e18" controls=""></video>]]></description>
+            <description><![CDATA[现在基于 Loro CRDTs 可以让应用轻松做到实时协作 + 历史回放了<br><video src="https://videocdn.jellow.site/FgR8xFDh0Dskc_j1zDHnDq7veQ0r.mp4?sign=9299be753ffe5b23a44e341c58a72d3e&amp;t=654ba72d" controls=""></video>]]></description>
             <pubDate>Tue, 07 Nov 2023 14:41:23 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/654a4c93834e87e36f7e4b5d</guid>
             <link>https://m.okjike.com/originalPosts/654a4c93834e87e36f7e4b5d</link>
@@ -66,22 +82,6 @@
             
             
             <author><![CDATA[Kaiyi]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[使用 Cloudflare CDN 后，后端无法用传统方式获取用户的真实 IP。要让 Cloudflare 发送真实用户 IP（True-Client-IP Header）的话，需要购买最贵的企业套餐。 然...]]></title>
-            <description><![CDATA[使用 Cloudflare CDN 后，后端无法用传统方式获取用户的真实 IP。要让 Cloudflare 发送真实用户 IP（True-Client-IP Header）的话，需要购买最贵的企业套餐。<br>然而 90% 的人不知道的是：实际上 Cloudflare 还提供了完全免费的 CF-Connecting-IP 表头，作用和企业版是完全一样的。🤔<br><img src="https://cdnv2.ruguoapp.com/Fp1FQa6R1qcRbWmmUe-0QXwhpMiAv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 06 Nov 2023 10:33:52 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6548c11097aae411eb9a0a6b</guid>
-            <link>https://m.okjike.com/originalPosts/6548c11097aae411eb9a0a6b</link>
-            
-            
-            
-            <author><![CDATA[benn]]></author>
             
                 
             
