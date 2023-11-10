@@ -21,8 +21,40 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Fri, 10 Nov 2023 11:44:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Nov 2023 15:44:31 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[刚才学习了一下OpenAI 官方GPTs data analysis 的prompt ，并没有太复杂，模型的质量决定性更大。 刚才花了10分钟创建一个专属机器人，把所有AB实验相关的历史材...]]></title>
+            <description><![CDATA[<img src="https://cdnv2.ruguoapp.com/icons/link.png" referrerpolicy="no-referrer"><br>                    <a href="https://chat.openai.com/share/1b6b0735-8852-4fb4-8ba0-d21e79965bfc">https://chat.openai.com/share/1b6b0735-8852-4fb4-8ba0-d21e79965bfc</a><br>                <br>刚才学习了一下OpenAI 官方GPTs data analysis 的prompt ，并没有太复杂，模型的质量决定性更大。<br><br>刚才花了10分钟创建一个专属机器人，把所有AB实验相关的历史材料和一本统计学教材丢进去，已经可以完成基础的知识对话了。可以说对学习来说很有帮助。]]></description>
+            <pubDate>Fri, 10 Nov 2023 12:12:02 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/654e1e12b754c3dc3c23687a</guid>
+            <link>https://m.okjike.com/originalPosts/654e1e12b754c3dc3c23687a</link>
+            
+            
+            
+            <author><![CDATA[Liko]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[信哥飞，得流量]]></title>
+            <description><![CDATA[信哥飞，得流量<br><img src="https://cdnv2.ruguoapp.com/FlsW-opuU6d3ZtyZf9LAPua-Brkrv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 10 Nov 2023 12:03:25 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/654e1c0d834e87e36fcf049a</guid>
+            <link>https://m.okjike.com/originalPosts/654e1c0d834e87e36fcf049a</link>
+            
+            
+            
+            <author><![CDATA[哥飞]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[搞AI真快乐啊🥹 搞了几个月了还有这么多好玩的]]></title>
@@ -50,22 +82,6 @@
             
             
             <author><![CDATA[ourongxing]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[我们是开源的软件，应该不存在破解吧🥲🥲]]></title>
-            <description><![CDATA[我们是开源的软件，应该不存在破解吧🥲🥲<br><img src="https://cdnv2.ruguoapp.com/Fmlv4iiVeXdAdcD2Ld1A1dZs2_2Av3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 09 Nov 2023 05:06:49 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/654c68e9dc2460410c71f156</guid>
-            <link>https://m.okjike.com/originalPosts/654c68e9dc2460410c71f156</link>
-            
-            
-            
-            <author><![CDATA[御勤Jerry]]></author>
             
                 
             
@@ -130,22 +146,6 @@
             
             
             <author><![CDATA[Airyland]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[基本已经完成了独立开发，在这个过程中使用到了很多好用的工具，在这里记录一下： # 后端工具 网站： - cloudflare：DNS，域名管理，CDN，结合国外服务器+nginx...]]></title>
-            <description><![CDATA[基本已经完成了独立开发，在这个过程中使用到了很多好用的工具，在这里记录一下：<br># 后端工具<br><br>网站：<br><br>- cloudflare：DNS，域名管理，CDN，结合国外服务器+nginx反向代理可以绕开某些限制<br>- 搬瓦工：海外服务器（反向代理回国内服务器、前端页面）购买<br>- supabase：主要是用户管理服务，用户管理功能很完善，还提供如基础数据库服务<br><br>后端服务、组件：<br><br>- http服务：nest，ts的服务框架，也可以魔改成定时任务、监听器<br><br># 前端工具<br><br>- vite：脚手架<br>- react：前端框架<br>- tailwind：插件，自动生成css文件，避免自己写css<br>- save all resources：浏览器插件，可以下载前端源码，可以自己魔改，特别是针对tailwind架构的网站，无敌]]></description>
-            <pubDate>Sun, 05 Nov 2023 13:22:50 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6547972a99f2123c743913ea</guid>
-            <link>https://m.okjike.com/originalPosts/6547972a99f2123c743913ea</link>
-            
-            
-            
-            <author><![CDATA[拉普拉斯kamisama]]></author>
             
                 
             
