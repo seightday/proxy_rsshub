@@ -21,19 +21,67 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sun, 12 Nov 2023 10:20:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Nov 2023 14:39:40 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
-            <title><![CDATA[看到程序员赚钱的一种方式，在b站工房卖源码，而且看起来是自动发货的]]></title>
-            <description><![CDATA[看到程序员赚钱的一种方式，在b站工房卖源码，而且看起来是自动发货的<br><img src="https://cdnv2.ruguoapp.com/Fp3WA0LT1UGOJDC05c7x3SpVQ8Jtv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FlyGGH78dNbQYglfYoLWHAXLZQXjv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FriIl1vtv0BFT4w6YNwxJJXk6Ykev3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sun, 12 Nov 2023 02:38:05 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65503a8d190f2acb89b91b16</guid>
-            <link>https://m.okjike.com/originalPosts/65503a8d190f2acb89b91b16</link>
+            <title><![CDATA[如何让小模型的推理效果在某些领域比 ChatGPT 这样的大模型还要更强？这篇论文提供了一个思路：https://arxiv.org/abs/2212.10071，借助思维链（CoT）逐步解决复...]]></title>
+            <description><![CDATA[如何让小模型的推理效果在某些领域比 ChatGPT 这样的大模型还要更强？这篇论文提供了一个思路：https://arxiv.org/abs/2212.10071，借助思维链（CoT）逐步解决复杂推理任务的能力，可以使用大模型作为推理教师，针对一批数据集，让大模型给出详尽的解答思路，然后把问题和解题过程交给学生模型进行 Fine-tuning。<br><br>这个解决思路也有一个专有名词，叫做“模型蒸馏”，其效果还是非常亮眼的，在保持同样的推理能力，甚至超越大模型的情况下，模型的大小降低到原来的 1/500~1/25。这可以帮助很多特定场景降低成本，例如使用自建的蒸馏小模型替代直接调用 ChatGPT，很多简单场景都适用，如果蒸馏出来的模型足够小，还可以直接在端侧（移动设备或嵌入式系统）部署，在用户本地完成推理，进一步降低服务成本。<br><br>这个 Github 项目演示了如何利用大模型进行蒸馏来构建小模型：https://github.com/itsnamgyu/reasoning-teacher<br><img src="https://cdnv2.ruguoapp.com/Fq7sGUElvWOLZq6yeH8S1Ln7bc5zv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sun, 12 Nov 2023 13:58:48 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6550da18834e87e36f0259df</guid>
+            <link>https://m.okjike.com/originalPosts/6550da18834e87e36f0259df</link>
             
             
             
-            <author><![CDATA[理想是自由]]></author>
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[论阿里云重要性]]></title>
+            <description><![CDATA[论阿里云重要性<br><img src="https://cdnv2.ruguoapp.com/FusLsJY3xmxWkaefQB_8gxOCjqZav3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sun, 12 Nov 2023 12:18:37 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6550c29d859fc596df62b91d</guid>
+            <link>https://m.okjike.com/originalPosts/6550c29d859fc596df62b91d</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[阿里云后台崩了，语雀崩了。。。APP全部命中。。。]]></title>
+            <description><![CDATA[阿里云后台崩了，语雀崩了。。。APP全部命中。。。]]></description>
+            <pubDate>Sun, 12 Nov 2023 10:28:01 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6550a8b1f59114ac239afa38</guid>
+            <link>https://m.okjike.com/originalPosts/6550a8b1f59114ac239afa38</link>
+            
+            
+            
+            <author><![CDATA[开发者山石]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[最近怎么这么多 GPTs Hub，又开始卷了，看上去不如直接用 Notion Database 攒一个，飞书多维表格也可以。 ps. 没事了，这俩还真有人用。https://aiweaver.feishu...]]></title>
+            <description><![CDATA[最近怎么这么多 GPTs Hub，又开始卷了，看上去不如直接用 Notion Database 攒一个，飞书多维表格也可以。<br><br>ps. 没事了，这俩还真有人用。https://aiweaver.feishu.cn/wiki/Nr20wfev0iH9oWkhxkVcFhQsn7g?table=tblIuot5sFDXcKqX&amp;view=vewZgF9Ol5<br>看上去飞书多维表格做的真不错，还能直接问卷收集。<br><img src="https://cdnv2.ruguoapp.com/Ft9qt0CnzqL5pxPPSPNZImK6OlFVv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FoWw6Mpu9ot6k9nJyM5iTt6I6Onhv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sun, 12 Nov 2023 05:49:05 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65506751b754c3dc3c4cf033</guid>
+            <link>https://m.okjike.com/originalPosts/65506751b754c3dc3c4cf033</link>
+            
+            
+            
+            <author><![CDATA[ourongxing]]></author>
             
                 
             
@@ -105,22 +153,6 @@
         </item>
         
         <item>
-            <title><![CDATA[网易有道开源EmotiVoice——一个强大的开源TTS引擎，支持中英文双语，包含2000多种不同的音色，以及特色的情感合成功能，支持合成包含快乐、兴奋、悲伤、愤怒等...]]></title>
-            <description><![CDATA[<img src="https://opengraph.githubassets.com/2e1f85c386ffe50e6ce9f911ab7b925a6bfb4cc2a289b337611e22fff21f8635/netease-youdao/EmotiVoice" referrerpolicy="no-referrer"><br>                    <a href="https://github.com/netease-youdao/EmotiVoice">GitHub - netease-youdao/EmotiVoice: EmotiVoice 😊: a Multi-Voice and Prompt-Controlled TTS Engine</a><br>                <br>网易有道开源EmotiVoice——一个强大的开源TTS引擎，支持中英文双语，包含2000多种不同的音色，以及特色的情感合成功能，支持合成包含快乐、兴奋、悲伤、愤怒等广泛情感的语音。<br><br>真良心。]]></description>
-            <pubDate>Fri, 10 Nov 2023 12:34:39 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/654e235f834e87e36fcfa40f</guid>
-            <link>https://m.okjike.com/originalPosts/654e235f834e87e36fcfa40f</link>
-            
-            
-            
-            <author><![CDATA[北邻]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[@哥飞 飞哥群里的小伙伴执行力都太强了，氛围太好了，跟着大家一起上站。最近在写落地页时，TDK/FAQs/Features整理起来比较耗时，于是制作了AITDK工具可以快速生...]]></title>
             <description><![CDATA[<img src="https://cdnv2.ruguoapp.com/icons/link.png" referrerpolicy="no-referrer"><br>                    <a href="https://aitdk.com/?utm_source=okjike">AITDK.com - AI Title, Description, Keywords Generator</a><br>                <br>@哥飞 飞哥群里的小伙伴执行力都太强了，氛围太好了，跟着大家一起上站。最近在写落地页时，TDK/FAQs/Features整理起来比较耗时，于是制作了AITDK工具可以快速生成SEO友好的TDK/FAQs/Features等信息，欢迎大家试用。]]></description>
             <pubDate>Thu, 09 Nov 2023 01:12:05 GMT</pubDate>
@@ -130,38 +162,6 @@
             
             
             <author><![CDATA[blank2023]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[https://www.gptshunter.com 基本是用 AI 糊出来的，没有数据库，只有一个 data.json 文件作为数据用来构建静态页面，数据增删是读 json 往里面写。UI 是让 AI ...]]></title>
-            <description><![CDATA[https://www.gptshunter.com <br><br>基本是用 AI 糊出来的，没有数据库，只有一个 data.json 文件作为数据用来构建静态页面，数据增删是读 json 往里面写。UI 是让 AI 写的 Tailwind 代码，链接筛选处理逻辑也是 AI 写的，没有做搜索和分类。<br><br>代码很乱，不过没关系，it works。<br><br>如果想验证、想实现一个想法，就不要考虑技术，数据纯人工编辑也可以，最佳实践是“快”。<br><img src="https://cdnv2.ruguoapp.com/Fu6YlWJxD60ppW7zjZbTbe8R8FkFv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 08 Nov 2023 12:52:54 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/654b84a6190f2acb895c5bfc</guid>
-            <link>https://m.okjike.com/originalPosts/654b84a6190f2acb895c5bfc</link>
-            
-            
-            
-            <author><![CDATA[Airyland]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[🔥分享一个整理了大量免费开发者服务的网站👇 直达👉 https://free-for.dev 🆓前几天看到有人整理免费的开发者服务（或者叫穷鬼套餐），其实有网站已经...]]></title>
-            <description><![CDATA[🔥分享一个整理了大量免费开发者服务的网站👇<br><br>直达👉 https://free-for.dev<br><br>🆓前几天看到有人整理免费的开发者服务（或者叫穷鬼套餐），其实有网站已经全部整理好啦！<br><br>🤔以后需要测试什么服务，先到这里看看，说不定就不需要额外花钱买台服务器或者数据库做测试了，轻松完成0-1的启动阶段！<br>🥹大家还有什么免费的服务可以推荐吗？<br><img src="https://cdnv2.ruguoapp.com/FqWEkiFmPeKwESWFgHxvW46WqAsYv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sun, 05 Nov 2023 03:42:02 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65470f0a5110e2545529a4c8</guid>
-            <link>https://m.okjike.com/originalPosts/65470f0a5110e2545529a4c8</link>
-            
-            
-            
-            <author><![CDATA[唐唐同学]]></author>
             
                 
             
