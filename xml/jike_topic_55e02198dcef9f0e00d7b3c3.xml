@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sun, 12 Nov 2023 14:39:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Nov 2023 19:01:09 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[《是时候放弃云计算了吗？》https://mp.weixin.qq.com/s/CicctyvV1xk5B-AsKfzPjw “我们认为，公有云有其存在意义 —— 对于那些非常早期、或两年后不复存在的公...]]></title>
+            <description><![CDATA[《是时候放弃云计算了吗？》https://mp.weixin.qq.com/s/CicctyvV1xk5B-AsKfzPjw<br><br>“我们认为，公有云有其存在意义 —— 对于那些非常早期、或两年后不复存在的公司，对于那些完全不在乎花钱、或者真正有着极端大起大落的不规则负载的公司来说，对于那些需要出海合规，CDN等服务的公司来说，公有云仍然是非常值得考虑的服务选项。<br><br>然而对绝大多数已经发展起来，有一定规模的公司来说，如果能在几年内摊销资产，你真的应该认真重新审视一下这股云热潮。好处被大大夸张了 —— 在云上跑东西通常和你自己弄一样复杂，却贵得离谱，我真诚建议您好好算一下账。”<br><br>现在 DHH 已省下了近百万美元云支出，未来的五年还能省下上千万美元。]]></description>
+            <pubDate>Sun, 12 Nov 2023 15:33:10 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6550f036859fc596df66a699</guid>
+            <link>https://m.okjike.com/originalPosts/6550f036859fc596df66a699</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[如何让小模型的推理效果在某些领域比 ChatGPT 这样的大模型还要更强？这篇论文提供了一个思路：https://arxiv.org/abs/2212.10071，借助思维链（CoT）逐步解决复...]]></title>
@@ -126,22 +142,6 @@
             <pubDate>Sat, 11 Nov 2023 00:54:24 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/654ed0c084bcbc4a46117a88</guid>
             <link>https://m.okjike.com/originalPosts/654ed0c084bcbc4a46117a88</link>
-            
-            
-            
-            <author><![CDATA[哥飞]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[最近小伙伴做的两个网站， 一个3天拿下13K的UV， 一个9天拿下10K的UV， 就是用的哥飞9月7号这篇文章介绍的4种获取流量的方法 https://mp.weixin.qq.com/s/lxJoGK...]]></title>
-            <description><![CDATA[最近小伙伴做的两个网站，<br>一个3天拿下13K的UV，<br>一个9天拿下10K的UV，<br>就是用的哥飞9月7号这篇文章介绍的4种获取流量的方法<br>https://mp.weixin.qq.com/s/lxJoGKRbjjd2AbOUNGgvjw<br><img src="https://cdnv2.ruguoapp.com/FoXGc2CvJyk6Kpqy6z5pl3OqLoDgv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 10 Nov 2023 15:48:21 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/654e50c5190f2acb8997de2f</guid>
-            <link>https://m.okjike.com/originalPosts/654e50c5190f2acb8997de2f</link>
             
             
             
