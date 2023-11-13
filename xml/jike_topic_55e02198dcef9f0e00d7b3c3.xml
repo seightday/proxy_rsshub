@@ -21,8 +21,40 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 13 Nov 2023 07:44:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Nov 2023 11:54:52 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[使用检索增强（Retrieval-Augmented Generation，RAG）可以缓解大模型的幻觉问题，从而避免大模型胡说八道，但传统的 RAG 存在一个很大的弊端——无论内容跟输入...]]></title>
+            <description><![CDATA[使用检索增强（Retrieval-Augmented Generation，RAG）可以缓解大模型的幻觉问题，从而避免大模型胡说八道，但传统的 RAG 存在一个很大的弊端——无论内容跟输入是否有足够的关联、对事实是否有足够的支撑，搜索模块都会不加区分地将内容召回，然后交给大模型来进行推理，这会很大程度降低大模型的多功能性，并导致生成质量不佳。<br><br>Self-RAG，https://selfrag.github.io，在一定程度上解决了这个问题。它设计了一个算法，将内容召回过程与大模型的推理过程进行了深度结合，大致思路如下：<br><br>1）设计了一些标签，包括「是否检索」（Retrieve）、「内容是否相关」（ISREL）、「内容是否支撑事实」（ISSUP）、「内容是否可用」（ISUSE）等，可以理解它们是对检索内容进行评分的工具<br><br>2）循环「推理-&gt;检索-&gt;过滤-&gt;评分」这个流程，在推理过程中，结合已有的信息和 LLM 的反馈，来判断要不要继续检索，过程中会获得足够多的包含了评分的内容<br><br>3）根据已获得的信息的权重进行重新整理，将与内容相关、能够支撑事实以及高可用的内容保留下来<br><br>4）可以进行全局设定，对于事实性要求高的推理任务，增加检索频次；对于创造性要求高的推理任务，减少检索频次<br><br>这个算法思路的表现非常良好，只不过在过程中需要跟大模型进行多次交互，与 ToT（Tree of Thought） 类似，比较消耗资源。<br><br>它有一个工程上的完整实现，可以戳这个项目：https://github.com/AkariAsai/self-rag<br><img src="https://cdnv2.ruguoapp.com/FgUA_WMG5Ea-LqVGHNKlm45cxX-hv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 13 Nov 2023 10:57:03 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/655200ffde31fdaa4ed21976</guid>
+            <link>https://m.okjike.com/originalPosts/655200ffde31fdaa4ed21976</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[现代软件架构的真实写照😂]]></title>
+            <description><![CDATA[现代软件架构的真实写照😂<br><img src="https://cdnv2.ruguoapp.com/Fgm9uHk79OE0cl4Q819ZwIl1Hitgv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 13 Nov 2023 06:56:18 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6551c892b754c3dc3c67f577</guid>
+            <link>https://m.okjike.com/originalPosts/6551c892b754c3dc3c67f577</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[有什么礼物建议可以送程序员🧑‍💻]]></title>
@@ -89,22 +121,6 @@
         </item>
         
         <item>
-            <title><![CDATA[《是时候放弃云计算了吗？》https://mp.weixin.qq.com/s/CicctyvV1xk5B-AsKfzPjw “我们认为，公有云有其存在意义 —— 对于那些非常早期、或两年后不复存在的公...]]></title>
-            <description><![CDATA[《是时候放弃云计算了吗？》https://mp.weixin.qq.com/s/CicctyvV1xk5B-AsKfzPjw<br><br>“我们认为，公有云有其存在意义 —— 对于那些非常早期、或两年后不复存在的公司，对于那些完全不在乎花钱、或者真正有着极端大起大落的不规则负载的公司来说，对于那些需要出海合规，CDN等服务的公司来说，公有云仍然是非常值得考虑的服务选项。<br><br>然而对绝大多数已经发展起来，有一定规模的公司来说，如果能在几年内摊销资产，你真的应该认真重新审视一下这股云热潮。好处被大大夸张了 —— 在云上跑东西通常和你自己弄一样复杂，却贵得离谱，我真诚建议您好好算一下账。”<br><br>现在 DHH 已省下了近百万美元云支出，未来的五年还能省下上千万美元。]]></description>
-            <pubDate>Sun, 12 Nov 2023 15:33:10 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6550f036859fc596df66a699</guid>
-            <link>https://m.okjike.com/originalPosts/6550f036859fc596df66a699</link>
-            
-            
-            
-            <author><![CDATA[Barret李靖]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[如何让小模型的推理效果在某些领域比 ChatGPT 这样的大模型还要更强？这篇论文提供了一个思路：https://arxiv.org/abs/2212.10071，借助思维链（CoT）逐步解决复...]]></title>
             <description><![CDATA[如何让小模型的推理效果在某些领域比 ChatGPT 这样的大模型还要更强？这篇论文提供了一个思路：https://arxiv.org/abs/2212.10071，借助思维链（CoT）逐步解决复杂推理任务的能力，可以使用大模型作为推理教师，针对一批数据集，让大模型给出详尽的解答思路，然后把问题和解题过程交给学生模型进行 Fine-tuning。<br><br>这个解决思路也有一个专有名词，叫做“模型蒸馏”，其效果还是非常亮眼的，在保持同样的推理能力，甚至超越大模型的情况下，模型的大小降低到原来的 1/500~1/25。这可以帮助很多特定场景降低成本，例如使用自建的蒸馏小模型替代直接调用 ChatGPT，很多简单场景都适用，如果蒸馏出来的模型足够小，还可以直接在端侧（移动设备或嵌入式系统）部署，在用户本地完成推理，进一步降低服务成本。<br><br>这个 Github 项目演示了如何利用大模型进行蒸馏来构建小模型：https://github.com/itsnamgyu/reasoning-teacher<br><img src="https://cdnv2.ruguoapp.com/Fq7sGUElvWOLZq6yeH8S1Ln7bc5zv3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Sun, 12 Nov 2023 13:58:48 GMT</pubDate>
@@ -130,22 +146,6 @@
             
             
             <author><![CDATA[Barret李靖]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[阿里云炸了？]]></title>
-            <description><![CDATA[阿里云炸了？]]></description>
-            <pubDate>Sun, 12 Nov 2023 10:56:43 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6550af6b84bcbc4a4635f042</guid>
-            <link>https://m.okjike.com/originalPosts/6550af6b84bcbc4a4635f042</link>
-            
-            
-            
-            <author><![CDATA[有次元袋的tiger]]></author>
             
                 
             
