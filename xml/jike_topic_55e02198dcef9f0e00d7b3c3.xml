@@ -21,15 +21,15 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 13 Nov 2023 22:18:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Nov 2023 02:28:51 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
-            <title><![CDATA[使用检索增强（Retrieval-Augmented Generation，RAG）可以缓解大模型的幻觉问题，从而避免大模型胡说八道，但传统的 RAG 存在一个很大的弊端——无论内容跟输入...]]></title>
-            <description><![CDATA[使用检索增强（Retrieval-Augmented Generation，RAG）可以缓解大模型的幻觉问题，从而避免大模型胡说八道，但传统的 RAG 存在一个很大的弊端——无论内容跟输入是否有足够的关联、对事实是否有足够的支撑，搜索模块都会不加区分地将内容召回，然后交给大模型来进行推理，这会很大程度降低大模型的多功能性，并导致生成质量不佳。<br><br>Self-RAG，https://selfrag.github.io，在一定程度上解决了这个问题。它设计了一个算法，将内容召回过程与大模型的推理过程进行了深度结合，大致思路如下：<br><br>1）设计了一些标签，包括「是否检索」（Retrieve）、「内容是否相关」（ISREL）、「内容是否支撑事实」（ISSUP）、「内容是否可用」（ISUSE）等，可以理解它们是对检索内容进行评分的工具<br><br>2）循环「推理-&gt;检索-&gt;过滤-&gt;评分」这个流程，在推理过程中，结合已有的信息和 LLM 的反馈，来判断要不要继续检索，过程中会获得足够多的包含了评分的内容<br><br>3）根据已获得的信息的权重进行重新整理，将与内容相关、能够支撑事实以及高可用的内容保留下来<br><br>4）可以进行全局设定，对于事实性要求高的推理任务，增加检索频次；对于创造性要求高的推理任务，减少检索频次<br><br>这个算法思路的表现非常良好，只不过在过程中需要跟大模型进行多次交互，与 ToT（Tree of Thought） 类似，比较消耗资源。<br><br>它有一个工程上的完整实现，可以戳这个项目：https://github.com/AkariAsai/self-rag<br><img src="https://cdnv2.ruguoapp.com/FgUA_WMG5Ea-LqVGHNKlm45cxX-hv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 13 Nov 2023 10:57:03 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/655200ffde31fdaa4ed21976</guid>
-            <link>https://m.okjike.com/originalPosts/655200ffde31fdaa4ed21976</link>
+            <title><![CDATA[推荐一个在线免费专题：《高并发系统设计 40 问》，https://zq99299.github.io/note-architect/hc/，内容较为详实。涵盖了数据库、缓存、消息队列、分布式服务等...]]></title>
+            <description><![CDATA[推荐一个在线免费专题：《高并发系统设计 40 问》，https://zq99299.github.io/note-architect/hc/，内容较为详实。涵盖了数据库、缓存、消息队列、分布式服务等，还包括性能管理、压测、控流、熔断等运维实战，看完还是有不少收获的。<br><img src="https://cdnv2.ruguoapp.com/FkkIen_z1YJXnCpuuEkdjbgx7-3Yv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 14 Nov 2023 01:31:34 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6552cdf6f59114ac23c40414</guid>
+            <link>https://m.okjike.com/originalPosts/6552cdf6f59114ac23c40414</link>
             
             
             
@@ -41,11 +41,59 @@
         </item>
         
         <item>
-            <title><![CDATA[现代软件架构的真实写照😂]]></title>
-            <description><![CDATA[现代软件架构的真实写照😂<br><img src="https://cdnv2.ruguoapp.com/Fgm9uHk79OE0cl4Q819ZwIl1Hitgv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 13 Nov 2023 06:56:18 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6551c892b754c3dc3c67f577</guid>
-            <link>https://m.okjike.com/originalPosts/6551c892b754c3dc3c67f577</link>
+            <title><![CDATA[GPTs Works 项目开源了👇 仓库代码包含三部分内容： 1. Website GPTs 导航主站，可展示 GPTs 应用，可通过对话的方式检索应用 技术栈：next.js + postgres + v...]]></title>
+            <description><![CDATA[GPTs Works 项目开源了👇<br><br>仓库代码包含三部分内容：<br><br>1. Website<br><br>GPTs 导航主站，可展示 GPTs 应用，可通过对话的方式检索应用<br><br>技术栈：next.js + postgres + vercel<br><br>2. Index System<br><br>向量存储与索引系统，提供 GPTs 语意化检索接口<br><br>技术栈：fastapi + ponyorm + zilliz cloud<br><br>3. Browser Extension<br><br>浏览器插件，可在 ChatGPT Explore 页面侧边栏展示第三方 GPTs 应用<br><br>技术栈：plasmo<br><br>网站地址： https://gpts.works/<br><br>开源地址： https://github.com/all-in-aigc/gpts-works<br><br>欢迎 fork ，感谢 star 🫶<br><img src="https://cdnv2.ruguoapp.com/Fol0U2HCsUocKGIbqCAekYg5wbfFv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 14 Nov 2023 01:28:21 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6552cd3584bcbc4a465e5f97</guid>
+            <link>https://m.okjike.com/originalPosts/6552cd3584bcbc4a465e5f97</link>
+            
+            
+            
+            <author><![CDATA[艾逗笔]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[一个朋友出去找工作，我问他算法面的多不多，他说有的公司比较多，但是大部分公司尤其是小创团队不怎么考算法，面到的算法基本都是 easy 或者 medium 的。 我说...]]></title>
+            <description><![CDATA[一个朋友出去找工作，我问他算法面的多不多，他说有的公司比较多，但是大部分公司尤其是小创团队不怎么考算法，面到的算法基本都是 easy 或者 medium 的。<br><br>我说算法刷了很容易忘记，你是怎么做的。他说，很简单，就是边学习边做笔记，刷题的时候把要点都记录下来，然后经常拿出来复习。<br><br>这看起来像是一个“笨办法”，不过确实也是一个行之有效的好办法。回想学生时代，不都是这么做的么，理科类的公式理论就那么几个，每天靠做题训练养成肌肉记忆，有的同学还会建立一个错题本，每周回顾，纠正错误的肌肉记忆，刷算法也是同理。]]></description>
+            <pubDate>Tue, 14 Nov 2023 00:59:30 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6552c672834e87e36f268ab9</guid>
+            <link>https://m.okjike.com/originalPosts/6552c672834e87e36f268ab9</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[一张有趣的耗时对比图。另外再补充几个栽过跟头的数据知识。 同机房内调用的 RT 是 100µs，上次正好遇到了一个监控告警，redis 平均时延从 100µs+ 飙升到了 50...]]></title>
+            <description><![CDATA[一张有趣的耗时对比图。另外再补充几个栽过跟头的数据知识。<br><br>同机房内调用的 RT 是 100µs，上次正好遇到了一个监控告警，redis 平均时延从 100µs+ 飙升到了 500µs+，原因是一个数据分区的有硬件故障，自动切换到了另外一个可用区，导致所有 proxy 节点与这个 data 节点变成了跨可用区调用，也就是变成了 1ms+，拉高平均耗时。<br><br>同城跨可用区（AZ）调用一般在 1.9ms 以内，距离是 20~80km，这是标准要求；在光纤光缆中，每公里会造成 4.9µs 的延迟，电缆中的每个弯曲或缺陷都会降低网络速度；跨城调用，例如杭州到上海，时延会在 3.8ms~10.8ms 不等，主要看两个可用区之间的分布距离；在做异地灾备的时候，10ms 的时延基本就挺难接受了，因此异地灾备一般都是冷备，如果要做异地多活，就得考虑数据单元化，做水平 sharding，或者考虑做应用层做，数据弱一致。<br><br>洲际时延是 100ms 以上，在不走专线的情况下，ping 一台海外机器，时延 100ms+ 都是很正常的，走专线会快很多，例如电信的 CN2（AS4809），联通的 CHI­NA169（AS4837）等，专线的价格会贵很多很多；可以使用 ping.pe 这个在线工具进行测试，它提供的 traceroute 包含了 AS 信息，可以确认自己走的是什么线路，也可以根据线路来判断服务商提供的主机网络是不是真的靠谱。<br><img src="https://cdnv2.ruguoapp.com/Ftt1hsXBVNehXBTH9yrUTXumpXsTv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 13 Nov 2023 23:09:37 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6552acb105c1e66933bb349f</guid>
+            <link>https://m.okjike.com/originalPosts/6552acb105c1e66933bb349f</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[使用检索增强（Retrieval-Augmented Generation，RAG）可以缓解大模型的幻觉问题，从而避免大模型胡说八道，但传统的 RAG 存在一个很大的弊端——无论内容跟输入...]]></title>
+            <description><![CDATA[使用检索增强（Retrieval-Augmented Generation，RAG）可以缓解大模型的幻觉问题，从而避免大模型胡说八道，但传统的 RAG 存在一个很大的弊端——无论内容跟输入是否有足够的关联、对事实是否有足够的支撑，搜索模块都会不加区分地将内容召回，然后交给大模型来进行推理，这会很大程度降低大模型的多功能性，并导致生成质量不佳。<br><br>Self-RAG，https://selfrag.github.io，在一定程度上解决了这个问题。它设计了一个算法，将内容召回过程与大模型的推理过程进行了深度结合，大致思路如下：<br><br>1）设计了一些标签，包括「是否检索」（Retrieve）、「内容是否相关」（ISREL）、「内容是否支撑事实」（ISSUP）、「内容是否可用」（ISUSE）等，可以理解它们是对检索内容进行评分的工具<br><br>2）循环「推理-&gt;检索-&gt;过滤-&gt;评分」这个流程，在推理过程中，结合已有的信息和 LLM 的反馈，来判断要不要继续检索，过程中会获得足够多的包含了评分的内容<br><br>3）根据已获得的信息的权重进行重新整理，将与内容相关、能够支撑事实以及高可用的内容保留下来<br><br>4）可以进行全局设定，对于事实性要求高的推理任务，增加检索频次；对于创造性要求高的推理任务，减少检索频次<br><br>这个算法思路的表现非常良好，只不过在过程中需要跟大模型进行多次交互，与 ToT（Tree of Thought） 类似，比较消耗资源。<br><br>它有一个工程上的完整实现，可以戳这个项目：https://github.com/AkariAsai/self-rag<br><img src="https://cdnv2.ruguoapp.com/FgUA_WMG5Ea-LqVGHNKlm45cxX-hv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 13 Nov 2023 10:57:03 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/655200ffde31fdaa4ed21976</guid>
+            <link>https://m.okjike.com/originalPosts/655200ffde31fdaa4ed21976</link>
             
             
             
@@ -66,54 +114,6 @@
             
             
             <author><![CDATA[-mingyan-]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[咱也是上过 GitHub Trending 的人了 😆]]></title>
-            <description><![CDATA[咱也是上过 GitHub Trending 的人了 😆<br><img src="https://cdnv2.ruguoapp.com/FhHVZw7KUFALJ4W_jbvtnjHXTBgKv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 13 Nov 2023 03:38:12 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65519a2405c1e66933a6268a</guid>
-            <link>https://m.okjike.com/originalPosts/65519a2405c1e66933a6268a</link>
-            
-            
-            
-            <author><![CDATA[MichaelYuhe]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[诚聘开源项目包装师傅， 最好能够自如出入Github小区， 最好能够寻找有潜力项目， 最好能够懂宣传推广， 最好能够开单，有提成。]]></title>
-            <description><![CDATA[诚聘开源项目包装师傅，<br>最好能够自如出入Github小区，<br>最好能够寻找有潜力项目，<br>最好能够懂宣传推广，<br>最好能够开单，有提成。<br><img src="https://cdnv2.ruguoapp.com/Ft2bhBeClYQpJw4RnCrN9Volh2Fpv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 13 Nov 2023 02:26:24 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6551895084bcbc4a4644bfca</guid>
-            <link>https://m.okjike.com/originalPosts/6551895084bcbc4a4644bfca</link>
-            
-            
-            
-            <author><![CDATA[哥飞]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[作者实践下来，算上 DBA、运维等成本，价格仍然比云要低很多，一千万的云成本，最高可以节省五百万。 对于成熟的中大型公司，面向未来三到五年做预算，（部分）...]]></title>
-            <description><![CDATA[作者实践下来，算上 DBA、运维等成本，价格仍然比云要低很多，一千万的云成本，最高可以节省五百万。<br><br>对于成熟的中大型公司，面向未来三到五年做预算，（部分）自建机房会是一个很大的优化点，在全面降本增效的大背景下，也是一个必然趋势吧。<br><br>https://web.okjike.com/originalPost/65517c9fde31fdaa4ec50b61<br><img src="https://cdnv2.ruguoapp.com/Fq8HT-swS_r_r7mP8pESAtIzGlY7v3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 13 Nov 2023 01:48:46 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6551807e05c1e66933a3b083</guid>
-            <link>https://m.okjike.com/originalPosts/6551807e05c1e66933a3b083</link>
-            
-            
-            
-            <author><![CDATA[Barret李靖]]></author>
             
                 
             
