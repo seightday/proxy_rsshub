@@ -21,12 +21,12 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 15 Nov 2023 16:08:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Nov 2023 18:10:04 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
             <title><![CDATA[推荐一个视频翻译工具，pyvideotrans，https://github.com/jianchang512/pyvideotrans，产品界面比较简洁，选择原语言和目标语言后，就会快速给视频生成新的字幕...]]></title>
-            <description><![CDATA[推荐一个视频翻译工具，pyvideotrans，https://github.com/jianchang512/pyvideotrans，产品界面比较简洁，选择原语言和目标语言后，就会快速给视频生成新的字幕。<br><br>作者在生成过程中做了一个优化，首先对视频和音频进行截断分片，然后并行生成内容，如果你的机器性能比较高，理论上可以设置更大的并发度，不过作者没有把这个参数给透出来。<br><br>语音识别基于 openai-whisper 离线模型，文字翻译支持 Google/Baidu/ChatGPT/DeepL 等翻译接口，文字合成语音用的是 Microsoft Edge tts。<br><br>实现这样一个工具比较考验工程能力，而 AI 应用层的建设也很依赖这种能力，可以尝试着多动手，玩一玩。<br><video src="https://videocdn.jellow.site/ltqBezcbSBsB5AJhYCurmtgVoiw_.mp4?sign=ef2a16af35ca38e4b26a59609ad8d70c&amp;t=6554f404" controls=""></video>]]></description>
+            <description><![CDATA[推荐一个视频翻译工具，pyvideotrans，https://github.com/jianchang512/pyvideotrans，产品界面比较简洁，选择原语言和目标语言后，就会快速给视频生成新的字幕。<br><br>作者在生成过程中做了一个优化，首先对视频和音频进行截断分片，然后并行生成内容，如果你的机器性能比较高，理论上可以设置更大的并发度，不过作者没有把这个参数给透出来。<br><br>语音识别基于 openai-whisper 离线模型，文字翻译支持 Google/Baidu/ChatGPT/DeepL 等翻译接口，文字合成语音用的是 Microsoft Edge tts。<br><br>实现这样一个工具比较考验工程能力，而 AI 应用层的建设也很依赖这种能力，可以尝试着多动手，玩一玩。<br><video src="https://videocdn.jellow.site/ltqBezcbSBsB5AJhYCurmtgVoiw_.mp4?sign=37912f983c9a34c53c4097e2b7d5e0cb&amp;t=65551084" controls=""></video>]]></description>
             <pubDate>Wed, 15 Nov 2023 01:47:09 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6554231d859fc596dfa5981a</guid>
             <link>https://m.okjike.com/originalPosts/6554231d859fc596dfa5981a</link>
@@ -90,7 +90,7 @@
         
         <item>
             <title><![CDATA[如何让 AI 根据使用者意图自动化控制网页？CopilotKit，https://github.com/RecursivelyAI/CopilotKit，给出了一个较为通用的解决方案，它的思路比较简单，大致...]]></title>
-            <description><![CDATA[如何让 AI 根据使用者意图自动化控制网页？CopilotKit，https://github.com/RecursivelyAI/CopilotKit，给出了一个较为通用的解决方案，它的思路比较简单，大致如下：<br><br>1）让 AI 结构化理解网页上的内容<br>2）告诉 AI 可以对网页进行哪类操作，例如点击按钮、选择元素、删除模块等<br>3）通过聊天窗口/语音控制等方式，告诉 AI 你期望它做什么事情<br><br>下面这个视频就演示了，如何让 AI 帮助我们选择旅行目的地，通过对话的方式完成筛选。<br><br>CopilotKit 项目作者对这类能力进行了前端程序化封装，通过 useMakeCopilotReadable 和 useMakeCopilotActionable 等函数，可以让程序快速实现 1 和 2 的操作，调用起来十分简单，几行代码就能搞定。<br><br>详细文档：https://docs.copilotkit.ai/getting-started/quickstart-chatbot<br><video src="https://videocdn.jellow.site/FrzC4JM9dm9TqayCSW3paa9kWOjq.mp4?sign=8511119b59040947cd1daa4b779ceb7f&amp;t=6554f404" controls=""></video>]]></description>
+            <description><![CDATA[如何让 AI 根据使用者意图自动化控制网页？CopilotKit，https://github.com/RecursivelyAI/CopilotKit，给出了一个较为通用的解决方案，它的思路比较简单，大致如下：<br><br>1）让 AI 结构化理解网页上的内容<br>2）告诉 AI 可以对网页进行哪类操作，例如点击按钮、选择元素、删除模块等<br>3）通过聊天窗口/语音控制等方式，告诉 AI 你期望它做什么事情<br><br>下面这个视频就演示了，如何让 AI 帮助我们选择旅行目的地，通过对话的方式完成筛选。<br><br>CopilotKit 项目作者对这类能力进行了前端程序化封装，通过 useMakeCopilotReadable 和 useMakeCopilotActionable 等函数，可以让程序快速实现 1 和 2 的操作，调用起来十分简单，几行代码就能搞定。<br><br>详细文档：https://docs.copilotkit.ai/getting-started/quickstart-chatbot<br><video src="https://videocdn.jellow.site/FrzC4JM9dm9TqayCSW3paa9kWOjq.mp4?sign=36f4592869ee5b7e791b7de58fe9d669&amp;t=65551084" controls=""></video>]]></description>
             <pubDate>Tue, 14 Nov 2023 15:16:04 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/65538f34834e87e36f3a4cae</guid>
             <link>https://m.okjike.com/originalPosts/65538f34834e87e36f3a4cae</link>
