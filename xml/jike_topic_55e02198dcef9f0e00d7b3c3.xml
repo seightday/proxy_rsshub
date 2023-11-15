@@ -21,8 +21,56 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 14 Nov 2023 21:06:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Nov 2023 03:29:00 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[感觉还是得找一个技术伙伴，找流量、写代码、想产品，分身乏术了。]]></title>
+            <description><![CDATA[感觉还是得找一个技术伙伴，找流量、写代码、想产品，分身乏术了。]]></description>
+            <pubDate>Tue, 14 Nov 2023 18:25:48 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6553bbac834e87e36f3d31f3</guid>
+            <link>https://m.okjike.com/originalPosts/6553bbac834e87e36f3d31f3</link>
+            
+            
+            
+            <author><![CDATA[赖嘉伟Gary]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[出海第三天，接到了第一笔商业赞助，真神奇。😂 https://gpts.works]]></title>
+            <description><![CDATA[出海第三天，接到了第一笔商业赞助，真神奇。😂<br><br>https://gpts.works<br><img src="https://cdnv2.ruguoapp.com/FrXEz-er4uEId7KDnW6KuMsT5ea8v3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FgIMbCjel3DKhTZvcdX5R_t4Pc8Iv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 14 Nov 2023 16:01:34 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/655399dedc2460410c038814</guid>
+            <link>https://m.okjike.com/originalPosts/655399dedc2460410c038814</link>
+            
+            
+            
+            <author><![CDATA[艾逗笔]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[如何让 AI 根据使用者意图自动化控制网页？CopilotKit，https://github.com/RecursivelyAI/CopilotKit，给出了一个较为通用的解决方案，它的思路比较简单，大致...]]></title>
+            <description><![CDATA[如何让 AI 根据使用者意图自动化控制网页？CopilotKit，https://github.com/RecursivelyAI/CopilotKit，给出了一个较为通用的解决方案，它的思路比较简单，大致如下：<br><br>1）让 AI 结构化理解网页上的内容<br>2）告诉 AI 可以对网页进行哪类操作，例如点击按钮、选择元素、删除模块等<br>3）通过聊天窗口/语音控制等方式，告诉 AI 你期望它做什么事情<br><br>下面这个视频就演示了，如何让 AI 帮助我们选择旅行目的地，通过对话的方式完成筛选。<br><br>CopilotKit 项目作者对这类能力进行了前端程序化封装，通过 useMakeCopilotReadable 和 useMakeCopilotActionable 等函数，可以让程序快速实现 1 和 2 的操作，调用起来十分简单，几行代码就能搞定。<br><br>详细文档：https://docs.copilotkit.ai/getting-started/quickstart-chatbot<br><video src="https://videocdn.jellow.site/FrzC4JM9dm9TqayCSW3paa9kWOjq.mp4?sign=93191836ae24ef06d90bd44b5abc8b0f&amp;t=65543ff1" controls=""></video>]]></description>
+            <pubDate>Tue, 14 Nov 2023 15:16:04 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65538f34834e87e36f3a4cae</guid>
+            <link>https://m.okjike.com/originalPosts/65538f34834e87e36f3a4cae</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[推荐一个价值几万块钱的开源 GPTs 导航，做得很精致，作者是前腾讯高级工程师@艾逗笔 ，之前在微信做后端开发。 演示网站：https://gpts.works/?gefei 开源代码...]]></title>
@@ -73,22 +121,6 @@
         </item>
         
         <item>
-            <title><![CDATA[一个朋友出去找工作，我问他算法面的多不多，他说有的公司比较多，但是大部分公司尤其是小创团队不怎么考算法，面到的算法基本都是 easy 或者 medium 的。 我说...]]></title>
-            <description><![CDATA[一个朋友出去找工作，我问他算法面的多不多，他说有的公司比较多，但是大部分公司尤其是小创团队不怎么考算法，面到的算法基本都是 easy 或者 medium 的。<br><br>我说算法刷了很容易忘记，你是怎么做的。他说，很简单，就是边学习边做笔记，刷题的时候把要点都记录下来，然后经常拿出来复习。<br><br>这看起来像是一个“笨办法”，不过确实也是一个行之有效的好办法。回想学生时代，不都是这么做的么，理科类的公式理论就那么几个，每天靠做题训练养成肌肉记忆，有的同学还会建立一个错题本，每周回顾，纠正错误的肌肉记忆，刷算法也是同理。]]></description>
-            <pubDate>Tue, 14 Nov 2023 00:59:30 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6552c672834e87e36f268ab9</guid>
-            <link>https://m.okjike.com/originalPosts/6552c672834e87e36f268ab9</link>
-            
-            
-            
-            <author><![CDATA[Barret李靖]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[一张有趣的耗时对比图。另外再补充几个栽过跟头的数据知识。 同机房内调用的 RT 是 100µs，上次正好遇到了一个监控告警，redis 平均时延从 100µs+ 飙升到了 50...]]></title>
             <description><![CDATA[一张有趣的耗时对比图。另外再补充几个栽过跟头的数据知识。<br><br>同机房内调用的 RT 是 100µs，上次正好遇到了一个监控告警，redis 平均时延从 100µs+ 飙升到了 500µs+，原因是一个数据分区的有硬件故障，自动切换到了另外一个可用区，导致所有 proxy 节点与这个 data 节点变成了跨可用区调用，也就是变成了 1ms+，拉高平均耗时。<br><br>同城跨可用区（AZ）调用一般在 1.9ms 以内，距离是 20~80km，这是标准要求；在光纤光缆中，每公里会造成 4.9µs 的延迟，电缆中的每个弯曲或缺陷都会降低网络速度；跨城调用，例如杭州到上海，时延会在 3.8ms~10.8ms 不等，主要看两个可用区之间的分布距离；在做异地灾备的时候，10ms 的时延基本就挺难接受了，因此异地灾备一般都是冷备，如果要做异地多活，就得考虑数据单元化，做水平 sharding，或者考虑做应用层做，数据弱一致。<br><br>洲际时延是 100ms 以上，在不走专线的情况下，ping 一台海外机器，时延 100ms+ 都是很正常的，走专线会快很多，例如电信的 CN2（AS4809），联通的 CHI­NA169（AS4837）等，专线的价格会贵很多很多；可以使用 ping.pe 这个在线工具进行测试，它提供的 traceroute 包含了 AS 信息，可以确认自己走的是什么线路，也可以根据线路来判断服务商提供的主机网络是不是真的靠谱。<br><img src="https://cdnv2.ruguoapp.com/Ftt1hsXBVNehXBTH9yrUTXumpXsTv3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Mon, 13 Nov 2023 23:09:37 GMT</pubDate>
@@ -114,38 +146,6 @@
             
             
             <author><![CDATA[Barret李靖]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[有什么礼物建议可以送程序员🧑‍💻]]></title>
-            <description><![CDATA[有什么礼物建议可以送程序员🧑‍💻]]></description>
-            <pubDate>Mon, 13 Nov 2023 05:32:26 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6551b4eaf59114ac23aeb146</guid>
-            <link>https://m.okjike.com/originalPosts/6551b4eaf59114ac23aeb146</link>
-            
-            
-            
-            <author><![CDATA[-mingyan-]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Github Profile 组件收集网站 https://bubble-awesome-profile.vercel.app/?gefei ​界面挺好看的，还是开源的 https://github.com/LHRUN/bubble?gefei]]></title>
-            <description><![CDATA[Github Profile 组件收集网站<br>https://bubble-awesome-profile.vercel.app/?gefei<br>​界面挺好看的，还是开源的<br>https://github.com/LHRUN/bubble?gefei<br><img src="https://cdnv2.ruguoapp.com/FqOiv44I3658tWGIZtUXB_F5ycMav3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 13 Nov 2023 00:23:17 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65516c75859fc596df6d0f56</guid>
-            <link>https://m.okjike.com/originalPosts/65516c75859fc596df6d0f56</link>
-            
-            
-            
-            <author><![CDATA[哥飞]]></author>
             
                 
             
