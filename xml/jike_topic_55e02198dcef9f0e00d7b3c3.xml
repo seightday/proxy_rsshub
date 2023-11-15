@@ -21,8 +21,40 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 15 Nov 2023 03:29:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Nov 2023 07:40:09 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[推荐一个视频翻译工具，pyvideotrans，https://github.com/jianchang512/pyvideotrans，产品界面比较简洁，选择原语言和目标语言后，就会快速给视频生成新的字幕...]]></title>
+            <description><![CDATA[推荐一个视频翻译工具，pyvideotrans，https://github.com/jianchang512/pyvideotrans，产品界面比较简洁，选择原语言和目标语言后，就会快速给视频生成新的字幕。<br><br>作者在生成过程中做了一个优化，首先对视频和音频进行截断分片，然后并行生成内容，如果你的机器性能比较高，理论上可以设置更大的并发度，不过作者没有把这个参数给透出来。<br><br>语音识别基于 openai-whisper 离线模型，文字翻译支持 Google/Baidu/ChatGPT/DeepL 等翻译接口，文字合成语音用的是 Microsoft Edge tts。<br><br>实现这样一个工具比较考验工程能力，而 AI 应用层的建设也很依赖这种能力，可以尝试着多动手，玩一玩。<br><video src="https://videocdn.jellow.site/ltqBezcbSBsB5AJhYCurmtgVoiw_.mp4?sign=52e6ff83fc6b44bb933a08556f903fe0&amp;t=65547c02" controls=""></video>]]></description>
+            <pubDate>Wed, 15 Nov 2023 01:47:09 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6554231d859fc596dfa5981a</guid>
+            <link>https://m.okjike.com/originalPosts/6554231d859fc596dfa5981a</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[我搞了一个命题作文，由@Airyland 给大家提供同一份GPTs数据，看看大家能怎么玩出花来。 现在大家在这份数据基础上做了二十多个网站了，大部分是常规的导航，但...]]></title>
+            <description><![CDATA[我搞了一个命题作文，由@Airyland 给大家提供同一份GPTs数据，看看大家能怎么玩出花来。<br>现在大家在这份数据基础上做了二十多个网站了，大部分是常规的导航，但是也在界面上花了心思，如 https://GPTsToday.com/?gefei 颜值就挺高。<br>也有人在交互上花心思，如 https://SurpriseGpts.com/?gefei 不一次性把全部 GPTs 显示给大家，而是根据你输入的不同内容，给你惊喜推荐。<br>如 https://GPTsMap.xyz/?gefei 让用户可以创建收藏夹，按照主题来收藏 GPTs 。<br>如 https://GPTs.works/?gefei 做了向量化处理，能够用自然语言语义化搜索 GPTs 。<br>谁说中国人没有创造力，你看，上面这些不就是吗？<br>我建议大家平时自己多多练手，做做网站，等到真的机会来临时，才能快速抓住机会。<br><img src="https://cdnv2.ruguoapp.com/FsFzC3TltDdyfdZ6o4m9P0-jPVUkv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fn_e6_HqM4J_uhTUOb4f255CE_qkv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fti9jo2YQBt6ps6UCcPARYtgxaADv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FtLPnV-hTNhNpk8Mm7bRIQ1tjDb8v3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 15 Nov 2023 00:17:22 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65540e12f59114ac23ddc467</guid>
+            <link>https://m.okjike.com/originalPosts/65540e12f59114ac23ddc467</link>
+            
+            
+            
+            <author><![CDATA[哥飞]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[感觉还是得找一个技术伙伴，找流量、写代码、想产品，分身乏术了。]]></title>
@@ -58,7 +90,7 @@
         
         <item>
             <title><![CDATA[如何让 AI 根据使用者意图自动化控制网页？CopilotKit，https://github.com/RecursivelyAI/CopilotKit，给出了一个较为通用的解决方案，它的思路比较简单，大致...]]></title>
-            <description><![CDATA[如何让 AI 根据使用者意图自动化控制网页？CopilotKit，https://github.com/RecursivelyAI/CopilotKit，给出了一个较为通用的解决方案，它的思路比较简单，大致如下：<br><br>1）让 AI 结构化理解网页上的内容<br>2）告诉 AI 可以对网页进行哪类操作，例如点击按钮、选择元素、删除模块等<br>3）通过聊天窗口/语音控制等方式，告诉 AI 你期望它做什么事情<br><br>下面这个视频就演示了，如何让 AI 帮助我们选择旅行目的地，通过对话的方式完成筛选。<br><br>CopilotKit 项目作者对这类能力进行了前端程序化封装，通过 useMakeCopilotReadable 和 useMakeCopilotActionable 等函数，可以让程序快速实现 1 和 2 的操作，调用起来十分简单，几行代码就能搞定。<br><br>详细文档：https://docs.copilotkit.ai/getting-started/quickstart-chatbot<br><video src="https://videocdn.jellow.site/FrzC4JM9dm9TqayCSW3paa9kWOjq.mp4?sign=93191836ae24ef06d90bd44b5abc8b0f&amp;t=65543ff1" controls=""></video>]]></description>
+            <description><![CDATA[如何让 AI 根据使用者意图自动化控制网页？CopilotKit，https://github.com/RecursivelyAI/CopilotKit，给出了一个较为通用的解决方案，它的思路比较简单，大致如下：<br><br>1）让 AI 结构化理解网页上的内容<br>2）告诉 AI 可以对网页进行哪类操作，例如点击按钮、选择元素、删除模块等<br>3）通过聊天窗口/语音控制等方式，告诉 AI 你期望它做什么事情<br><br>下面这个视频就演示了，如何让 AI 帮助我们选择旅行目的地，通过对话的方式完成筛选。<br><br>CopilotKit 项目作者对这类能力进行了前端程序化封装，通过 useMakeCopilotReadable 和 useMakeCopilotActionable 等函数，可以让程序快速实现 1 和 2 的操作，调用起来十分简单，几行代码就能搞定。<br><br>详细文档：https://docs.copilotkit.ai/getting-started/quickstart-chatbot<br><video src="https://videocdn.jellow.site/FrzC4JM9dm9TqayCSW3paa9kWOjq.mp4?sign=b580bdda71a8c7bfc5af297f11a8b930&amp;t=65547c53" controls=""></video>]]></description>
             <pubDate>Tue, 14 Nov 2023 15:16:04 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/65538f34834e87e36f3a4cae</guid>
             <link>https://m.okjike.com/originalPosts/65538f34834e87e36f3a4cae</link>
@@ -126,38 +158,6 @@
             <pubDate>Mon, 13 Nov 2023 23:09:37 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6552acb105c1e66933bb349f</guid>
             <link>https://m.okjike.com/originalPosts/6552acb105c1e66933bb349f</link>
-            
-            
-            
-            <author><![CDATA[Barret李靖]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[使用检索增强（Retrieval-Augmented Generation，RAG）可以缓解大模型的幻觉问题，从而避免大模型胡说八道，但传统的 RAG 存在一个很大的弊端——无论内容跟输入...]]></title>
-            <description><![CDATA[使用检索增强（Retrieval-Augmented Generation，RAG）可以缓解大模型的幻觉问题，从而避免大模型胡说八道，但传统的 RAG 存在一个很大的弊端——无论内容跟输入是否有足够的关联、对事实是否有足够的支撑，搜索模块都会不加区分地将内容召回，然后交给大模型来进行推理，这会很大程度降低大模型的多功能性，并导致生成质量不佳。<br><br>Self-RAG，https://selfrag.github.io，在一定程度上解决了这个问题。它设计了一个算法，将内容召回过程与大模型的推理过程进行了深度结合，大致思路如下：<br><br>1）设计了一些标签，包括「是否检索」（Retrieve）、「内容是否相关」（ISREL）、「内容是否支撑事实」（ISSUP）、「内容是否可用」（ISUSE）等，可以理解它们是对检索内容进行评分的工具<br><br>2）循环「推理-&gt;检索-&gt;过滤-&gt;评分」这个流程，在推理过程中，结合已有的信息和 LLM 的反馈，来判断要不要继续检索，过程中会获得足够多的包含了评分的内容<br><br>3）根据已获得的信息的权重进行重新整理，将与内容相关、能够支撑事实以及高可用的内容保留下来<br><br>4）可以进行全局设定，对于事实性要求高的推理任务，增加检索频次；对于创造性要求高的推理任务，减少检索频次<br><br>这个算法思路的表现非常良好，只不过在过程中需要跟大模型进行多次交互，与 ToT（Tree of Thought） 类似，比较消耗资源。<br><br>它有一个工程上的完整实现，可以戳这个项目：https://github.com/AkariAsai/self-rag<br><img src="https://cdnv2.ruguoapp.com/FgUA_WMG5Ea-LqVGHNKlm45cxX-hv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 13 Nov 2023 10:57:03 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/655200ffde31fdaa4ed21976</guid>
-            <link>https://m.okjike.com/originalPosts/655200ffde31fdaa4ed21976</link>
-            
-            
-            
-            <author><![CDATA[Barret李靖]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[如何让小模型的推理效果在某些领域比 ChatGPT 这样的大模型还要更强？这篇论文提供了一个思路：https://arxiv.org/abs/2212.10071，借助思维链（CoT）逐步解决复...]]></title>
-            <description><![CDATA[如何让小模型的推理效果在某些领域比 ChatGPT 这样的大模型还要更强？这篇论文提供了一个思路：https://arxiv.org/abs/2212.10071，借助思维链（CoT）逐步解决复杂推理任务的能力，可以使用大模型作为推理教师，针对一批数据集，让大模型给出详尽的解答思路，然后把问题和解题过程交给学生模型进行 Fine-tuning。<br><br>这个解决思路也有一个专有名词，叫做“模型蒸馏”，其效果还是非常亮眼的，在保持同样的推理能力，甚至超越大模型的情况下，模型的大小降低到原来的 1/500~1/25。这可以帮助很多特定场景降低成本，例如使用自建的蒸馏小模型替代直接调用 ChatGPT，很多简单场景都适用，如果蒸馏出来的模型足够小，还可以直接在端侧（移动设备或嵌入式系统）部署，在用户本地完成推理，进一步降低服务成本。<br><br>这个 Github 项目演示了如何利用大模型进行蒸馏来构建小模型：https://github.com/itsnamgyu/reasoning-teacher<br><img src="https://cdnv2.ruguoapp.com/Fq7sGUElvWOLZq6yeH8S1Ln7bc5zv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sun, 12 Nov 2023 13:58:48 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6550da18834e87e36f0259df</guid>
-            <link>https://m.okjike.com/originalPosts/6550da18834e87e36f0259df</link>
             
             
             
