@@ -21,12 +21,12 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 15 Nov 2023 11:52:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Nov 2023 16:08:29 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
             <title><![CDATA[推荐一个视频翻译工具，pyvideotrans，https://github.com/jianchang512/pyvideotrans，产品界面比较简洁，选择原语言和目标语言后，就会快速给视频生成新的字幕...]]></title>
-            <description><![CDATA[推荐一个视频翻译工具，pyvideotrans，https://github.com/jianchang512/pyvideotrans，产品界面比较简洁，选择原语言和目标语言后，就会快速给视频生成新的字幕。<br><br>作者在生成过程中做了一个优化，首先对视频和音频进行截断分片，然后并行生成内容，如果你的机器性能比较高，理论上可以设置更大的并发度，不过作者没有把这个参数给透出来。<br><br>语音识别基于 openai-whisper 离线模型，文字翻译支持 Google/Baidu/ChatGPT/DeepL 等翻译接口，文字合成语音用的是 Microsoft Edge tts。<br><br>实现这样一个工具比较考验工程能力，而 AI 应用层的建设也很依赖这种能力，可以尝试着多动手，玩一玩。<br><video src="https://videocdn.jellow.site/ltqBezcbSBsB5AJhYCurmtgVoiw_.mp4?sign=ee05b7b47a0f52f39b6154a128b199a4&amp;t=6554b6d4" controls=""></video>]]></description>
+            <description><![CDATA[推荐一个视频翻译工具，pyvideotrans，https://github.com/jianchang512/pyvideotrans，产品界面比较简洁，选择原语言和目标语言后，就会快速给视频生成新的字幕。<br><br>作者在生成过程中做了一个优化，首先对视频和音频进行截断分片，然后并行生成内容，如果你的机器性能比较高，理论上可以设置更大的并发度，不过作者没有把这个参数给透出来。<br><br>语音识别基于 openai-whisper 离线模型，文字翻译支持 Google/Baidu/ChatGPT/DeepL 等翻译接口，文字合成语音用的是 Microsoft Edge tts。<br><br>实现这样一个工具比较考验工程能力，而 AI 应用层的建设也很依赖这种能力，可以尝试着多动手，玩一玩。<br><video src="https://videocdn.jellow.site/ltqBezcbSBsB5AJhYCurmtgVoiw_.mp4?sign=ef2a16af35ca38e4b26a59609ad8d70c&amp;t=6554f404" controls=""></video>]]></description>
             <pubDate>Wed, 15 Nov 2023 01:47:09 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6554231d859fc596dfa5981a</guid>
             <link>https://m.okjike.com/originalPosts/6554231d859fc596dfa5981a</link>
@@ -90,7 +90,7 @@
         
         <item>
             <title><![CDATA[如何让 AI 根据使用者意图自动化控制网页？CopilotKit，https://github.com/RecursivelyAI/CopilotKit，给出了一个较为通用的解决方案，它的思路比较简单，大致...]]></title>
-            <description><![CDATA[如何让 AI 根据使用者意图自动化控制网页？CopilotKit，https://github.com/RecursivelyAI/CopilotKit，给出了一个较为通用的解决方案，它的思路比较简单，大致如下：<br><br>1）让 AI 结构化理解网页上的内容<br>2）告诉 AI 可以对网页进行哪类操作，例如点击按钮、选择元素、删除模块等<br>3）通过聊天窗口/语音控制等方式，告诉 AI 你期望它做什么事情<br><br>下面这个视频就演示了，如何让 AI 帮助我们选择旅行目的地，通过对话的方式完成筛选。<br><br>CopilotKit 项目作者对这类能力进行了前端程序化封装，通过 useMakeCopilotReadable 和 useMakeCopilotActionable 等函数，可以让程序快速实现 1 和 2 的操作，调用起来十分简单，几行代码就能搞定。<br><br>详细文档：https://docs.copilotkit.ai/getting-started/quickstart-chatbot<br><video src="https://videocdn.jellow.site/FrzC4JM9dm9TqayCSW3paa9kWOjq.mp4?sign=4e159ba71fdc7f83104cebe701499427&amp;t=6554b7ea" controls=""></video>]]></description>
+            <description><![CDATA[如何让 AI 根据使用者意图自动化控制网页？CopilotKit，https://github.com/RecursivelyAI/CopilotKit，给出了一个较为通用的解决方案，它的思路比较简单，大致如下：<br><br>1）让 AI 结构化理解网页上的内容<br>2）告诉 AI 可以对网页进行哪类操作，例如点击按钮、选择元素、删除模块等<br>3）通过聊天窗口/语音控制等方式，告诉 AI 你期望它做什么事情<br><br>下面这个视频就演示了，如何让 AI 帮助我们选择旅行目的地，通过对话的方式完成筛选。<br><br>CopilotKit 项目作者对这类能力进行了前端程序化封装，通过 useMakeCopilotReadable 和 useMakeCopilotActionable 等函数，可以让程序快速实现 1 和 2 的操作，调用起来十分简单，几行代码就能搞定。<br><br>详细文档：https://docs.copilotkit.ai/getting-started/quickstart-chatbot<br><video src="https://videocdn.jellow.site/FrzC4JM9dm9TqayCSW3paa9kWOjq.mp4?sign=8511119b59040947cd1daa4b779ceb7f&amp;t=6554f404" controls=""></video>]]></description>
             <pubDate>Tue, 14 Nov 2023 15:16:04 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/65538f34834e87e36f3a4cae</guid>
             <link>https://m.okjike.com/originalPosts/65538f34834e87e36f3a4cae</link>
@@ -169,15 +169,15 @@
         </item>
         
         <item>
-            <title><![CDATA[海外产品开发套件（不定期更新） 做海外产品的开发会让人感到幸福，因为有许多优秀的开发套件——从代码部署到谷歌登录，从订阅收款到分销联盟，都能直接组装使...]]></title>
-            <description><![CDATA[海外产品开发套件（不定期更新）<br><br>做海外产品的开发会让人感到幸福，因为有许多优秀的开发套件——从代码部署到谷歌登录，从订阅收款到分销联盟，都能直接组装使用。<br><br>我们可以像搭积木一样，形成一套趁手的研发模板，快速进入业务开发，解决真正的问题。<br><br>以下是我正在或计划使用的服务，欢迎推荐补充。<br><br>Cloudflare 推荐过无数次了，我的海外项目都接入了他们的服务：DNS、SSL、CDN、缓存、防火墙、统计、Workers……最近还发布了 Workers AI。Cloudflare 后台每个子菜单都值得花时间去了解一下具体应用场景，比如还有蛮多人不知道 Worker 是可以运行 Puppeteer 的。<br><br>Vercel 是一个从 Next.js 发展而来的部署平台，也有数据存储、Edge Functions。官方支持的框架语言以 JavaScript 为主，但实际上也可以运行 PHP、Python 等等。开发者社区非常活跃，官方模板是一个找现成轮子的好地方。类似服务：https://render.com、https://railway.app、https://fly.io<br><br>一般我们做项目会先看看有没开源项目参考，更进一步还可以去找现成的 API：https://rapidapi.com <br><br>AI 模型、GPU 相关服务：https://replicate.com、https://huggingface.co、https://runpod.io、https://vast.ai<br><br>Supabase 主打 PostgreSQL 数据库服务，并且集成了用户登录验证，换句话说，前端登录界面都不用自己写了。Supabase 同样也有数据存储、Edge Functions，近期还上线了向量数据库。类似服务：https://clerk.com、https://planetscale.com、https://neon.tech、https://mongodb.com、https://upstash.com<br><br>Stripe 是海外收款的首选，几乎能想到与收款相关的服务，他们都有相应产品。接入也不难，Vercel 还有一个 Stripe 订阅模板，第一次见如此详尽的开发文档。类似服务：https://paddle.com、https://lemonsqueezy.com<br><br>Affiliate 分销联盟是一个不可忽略的推广方式。https://rewardful.com 用的人比较多，它能跟 Stripe 关联，用户注册的体验也很流畅。类似服务：https://tapfiliate.com、https://tolt.io<br><br>邮件服务就非常多了，免费的可以用 Amazon SES，邮件营销还是建议选择成熟的付费服务。我的项目在用 https://mailjet.com，体验下来足够简单，也便宜。类似服务：https://mailgun.com、https://resend.com、https://postmarkapp.com、https://brevo.com<br><br>域名邮箱可以使用 https://zoho.com，最便宜 $1/月，还要什么自行车。类似服务：https://mymangomail.com<br><br>数据统计已经受够了 Google Analytics，于是换成了 https://plausible.io，也有开源版本。类似服务：https://beamanalytics.io<br><br>错误跟踪可以使用 https://sentry.io，只要代码写得不太烂，免费额度应该是够用的，同样也有开源版本。类似服务：https://rollbar.com、https://newrelic.com<br><br>本列表会不定期更新，欢迎转发、收藏。]]></description>
-            <pubDate>Mon, 16 Oct 2023 12:08:44 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/652d27cc99f2123c740acfda</guid>
-            <link>https://m.okjike.com/originalPosts/652d27cc99f2123c740acfda</link>
+            <title><![CDATA[使用检索增强（Retrieval-Augmented Generation，RAG）可以缓解大模型的幻觉问题，从而避免大模型胡说八道，但传统的 RAG 存在一个很大的弊端——无论内容跟输入...]]></title>
+            <description><![CDATA[使用检索增强（Retrieval-Augmented Generation，RAG）可以缓解大模型的幻觉问题，从而避免大模型胡说八道，但传统的 RAG 存在一个很大的弊端——无论内容跟输入是否有足够的关联、对事实是否有足够的支撑，搜索模块都会不加区分地将内容召回，然后交给大模型来进行推理，这会很大程度降低大模型的多功能性，并导致生成质量不佳。<br><br>Self-RAG，https://selfrag.github.io，在一定程度上解决了这个问题。它设计了一个算法，将内容召回过程与大模型的推理过程进行了深度结合，大致思路如下：<br><br>1）设计了一些标签，包括「是否检索」（Retrieve）、「内容是否相关」（ISREL）、「内容是否支撑事实」（ISSUP）、「内容是否可用」（ISUSE）等，可以理解它们是对检索内容进行评分的工具<br><br>2）循环「推理-&gt;检索-&gt;过滤-&gt;评分」这个流程，在推理过程中，结合已有的信息和 LLM 的反馈，来判断要不要继续检索，过程中会获得足够多的包含了评分的内容<br><br>3）根据已获得的信息的权重进行重新整理，将与内容相关、能够支撑事实以及高可用的内容保留下来<br><br>4）可以进行全局设定，对于事实性要求高的推理任务，增加检索频次；对于创造性要求高的推理任务，减少检索频次<br><br>这个算法思路的表现非常良好，只不过在过程中需要跟大模型进行多次交互，与 ToT（Tree of Thought） 类似，比较消耗资源。<br><br>它有一个工程上的完整实现，可以戳这个项目：https://github.com/AkariAsai/self-rag<br><img src="https://cdnv2.ruguoapp.com/FgUA_WMG5Ea-LqVGHNKlm45cxX-hv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 13 Nov 2023 10:57:03 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/655200ffde31fdaa4ed21976</guid>
+            <link>https://m.okjike.com/originalPosts/655200ffde31fdaa4ed21976</link>
             
             
             
-            <author><![CDATA[赖嘉伟Gary]]></author>
+            <author><![CDATA[Barret李靖]]></author>
             
                 
             
