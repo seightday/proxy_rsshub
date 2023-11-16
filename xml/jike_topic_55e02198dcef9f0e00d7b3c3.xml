@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 16 Nov 2023 06:53:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Nov 2023 10:55:58 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[AI 相关的论文多到看不过来，即便是切进去一个小的领域，内容量也非常庞大，为了可以提升效率，我的研究方法大概是这样的： 1）先确认论文是不是提出了一种新的...]]></title>
+            <description><![CDATA[AI 相关的论文多到看不过来，即便是切进去一个小的领域，内容量也非常庞大，为了可以提升效率，我的研究方法大概是这样的：<br><br>1）先确认论文是不是提出了一种新的思路和方向，如果只是旧方法的略微加强版，研究起来就没啥意思了，看 Title + Summary 就可以大致判断，这一道可以过滤一大部分论文<br><br>2）使用 Monica 帮我先读一遍，它每次总结的时候都会自动提出三个我可能感兴趣的问题，基本上问完这三个问题就能知道论文的概貌了<br><br>3）找到对应的 Github 仓库，直接看实现，有些论文描述思路的时候复杂的要命，提出了一堆新概念，回到代码层面，其实也就是一百多行，看代码的效率会更高<br><br>4）去 Google Colab 执行程序，由于涉及到大模型和各种依赖的下载，一般下载流量都在 10Gb 以上，而 Colab 可以在一分钟内完成项目的初始化，相比本地执行要高效几十倍<br><br>另外一个小 Tip：去寻找 The Rise and Potential of Large Language Model Based Agents: A Survey 这种行业概述性的论文或者文章，可以从大纲上帮助自己捋清探索和研究的方向。我平时是在 arXiv 上检索论文，不知道大家还有没有其他推荐的信息渠道？]]></description>
+            <pubDate>Thu, 16 Nov 2023 05:38:55 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6555aaef87a8e03bd1b65d62</guid>
+            <link>https://m.okjike.com/originalPosts/6555aaef87a8e03bd1b65d62</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[多次看到有人推荐，可以跳过付费墙直接免费查看各大网站内容的 Chrome 插件，把源码 down 下来研究了下，原来核心代码只有一句： h++ps://webcache.googleuserco...]]></title>
@@ -74,7 +90,7 @@
         
         <item>
             <title><![CDATA[推荐一个视频翻译工具，pyvideotrans，https://github.com/jianchang512/pyvideotrans，产品界面比较简洁，选择原语言和目标语言后，就会快速给视频生成新的字幕...]]></title>
-            <description><![CDATA[推荐一个视频翻译工具，pyvideotrans，https://github.com/jianchang512/pyvideotrans，产品界面比较简洁，选择原语言和目标语言后，就会快速给视频生成新的字幕。<br><br>作者在生成过程中做了一个优化，首先对视频和音频进行截断分片，然后并行生成内容，如果你的机器性能比较高，理论上可以设置更大的并发度，不过作者没有把这个参数给透出来。<br><br>语音识别基于 openai-whisper 离线模型，文字翻译支持 Google/Baidu/ChatGPT/DeepL 等翻译接口，文字合成语音用的是 Microsoft Edge tts。<br><br>实现这样一个工具比较考验工程能力，而 AI 应用层的建设也很依赖这种能力，可以尝试着多动手，玩一玩。<br><video src="https://videocdn.jellow.site/ltqBezcbSBsB5AJhYCurmtgVoiw_.mp4?sign=9c5f619042db2808db85e2cd0eee86d2&amp;t=6555c386" controls=""></video>]]></description>
+            <description><![CDATA[推荐一个视频翻译工具，pyvideotrans，https://github.com/jianchang512/pyvideotrans，产品界面比较简洁，选择原语言和目标语言后，就会快速给视频生成新的字幕。<br><br>作者在生成过程中做了一个优化，首先对视频和音频进行截断分片，然后并行生成内容，如果你的机器性能比较高，理论上可以设置更大的并发度，不过作者没有把这个参数给透出来。<br><br>语音识别基于 openai-whisper 离线模型，文字翻译支持 Google/Baidu/ChatGPT/DeepL 等翻译接口，文字合成语音用的是 Microsoft Edge tts。<br><br>实现这样一个工具比较考验工程能力，而 AI 应用层的建设也很依赖这种能力，可以尝试着多动手，玩一玩。<br><video src="https://videocdn.jellow.site/ltqBezcbSBsB5AJhYCurmtgVoiw_.mp4?sign=2be0a6350e0d9c3a23ac46b0c4063a54&amp;t=6555fb2c" controls=""></video>]]></description>
             <pubDate>Wed, 15 Nov 2023 01:47:09 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6554231d859fc596dfa5981a</guid>
             <link>https://m.okjike.com/originalPosts/6554231d859fc596dfa5981a</link>
@@ -114,22 +130,6 @@
             
             
             <author><![CDATA[赖嘉伟Gary]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[如何让 AI 根据使用者意图自动化控制网页？CopilotKit，https://github.com/RecursivelyAI/CopilotKit，给出了一个较为通用的解决方案，它的思路比较简单，大致...]]></title>
-            <description><![CDATA[如何让 AI 根据使用者意图自动化控制网页？CopilotKit，https://github.com/RecursivelyAI/CopilotKit，给出了一个较为通用的解决方案，它的思路比较简单，大致如下：<br><br>1）让 AI 结构化理解网页上的内容<br>2）告诉 AI 可以对网页进行哪类操作，例如点击按钮、选择元素、删除模块等<br>3）通过聊天窗口/语音控制等方式，告诉 AI 你期望它做什么事情<br><br>下面这个视频就演示了，如何让 AI 帮助我们选择旅行目的地，通过对话的方式完成筛选。<br><br>CopilotKit 项目作者对这类能力进行了前端程序化封装，通过 useMakeCopilotReadable 和 useMakeCopilotActionable 等函数，可以让程序快速实现 1 和 2 的操作，调用起来十分简单，几行代码就能搞定。<br><br>详细文档：https://docs.copilotkit.ai/getting-started/quickstart-chatbot<br><video src="https://videocdn.jellow.site/FrzC4JM9dm9TqayCSW3paa9kWOjq.mp4?sign=a70568042ad5c6856e7a520419eec7ab&amp;t=6555c381" controls=""></video>]]></description>
-            <pubDate>Tue, 14 Nov 2023 15:16:04 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65538f34834e87e36f3a4cae</guid>
-            <link>https://m.okjike.com/originalPosts/65538f34834e87e36f3a4cae</link>
-            
-            
-            
-            <author><![CDATA[Barret李靖]]></author>
             
                 
             
