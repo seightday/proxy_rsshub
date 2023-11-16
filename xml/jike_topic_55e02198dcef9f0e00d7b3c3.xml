@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 16 Nov 2023 10:55:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Nov 2023 15:08:57 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[推荐一个检索和学习论文的强大工具，Aminer，https://www.aminer.cn，它是由清华大学计算机系研发的学术信息挖掘平台，可以很大程度帮助我们降低检索和学习论文...]]></title>
+            <description><![CDATA[推荐一个检索和学习论文的强大工具，Aminer，https://www.aminer.cn，它是由清华大学计算机系研发的学术信息挖掘平台，可以很大程度帮助我们降低检索和学习论文的门槛，十分有用。<br><br>如果你有一个明确的研究方向，可以在它的「必读论文」模块中找到对应的优质论文集（如图一），这些内容都是由 AI 初筛 + 学者复核后呈现出来的，可以为自己省去海量的信息挖掘时间。<br><br>你也可以使用它的检索工具，根据具体的关键词找到最新、最热或者最高引用的论文（如图二），在左侧可以根据不同的期刊、顶会对查询结果进行二次过滤；如果 SCI / CCF 的分类不能满足你的需求，你还可以下载一个叫做 easyScholar 的 Chrome 插件，它可以在搜索结果中增加更多的期刊分级（如图三），分级信息可以让我们一眼看出论文的含金量。<br><br>Google Scholar 是数据更新效率最高的学术信息挖掘工具，如果你对实时性要求比较高，可以结合 Google 学术工具一起看，也可以直接去各个顶会的官网查看最新 accept paper，非专业研究一般也用不上。<br><br>Aminer 还提供了一个 ChatBot 工具（如图四），支持全库对话和单篇对话，全库精选了 600w+ 的优质论文，单篇对话支持在平台论文详情页直接发起，也支持上传 PDF 后跟它交流，背后应该是对接了一个 LLM，理解能力还不错。<br><br>另外，关于 AI 的研究，还推荐订阅 Hugging Face 的 Daily Papers，https://huggingface.co/papers，它也是通过 AI + 人工复核的方式，结合平台热度给用户每日推荐最热/最佳内容，你可以注册一个账号，订阅到自己的邮箱。<br><img src="https://cdnv2.ruguoapp.com/FuqGydNBznI4cHSpYTdy3iqqQrKnv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FkgZg32vzstkSdMK20o6ahwjKnU4v3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FoV8xSoH8dSs19Pg15ZCF6rsqZFEv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fp8tKQDwaH3Dmeqlf2tF8M0H3X9mv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FrCwScqLFTPGNr2gkCNdL5wUXwELv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 16 Nov 2023 14:31:06 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/655627aaee2e07f7acc17bb1</guid>
+            <link>https://m.okjike.com/originalPosts/655627aaee2e07f7acc17bb1</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[AI 相关的论文多到看不过来，即便是切进去一个小的领域，内容量也非常庞大，为了可以提升效率，我的研究方法大概是这样的： 1）先确认论文是不是提出了一种新的...]]></title>
@@ -90,7 +106,7 @@
         
         <item>
             <title><![CDATA[推荐一个视频翻译工具，pyvideotrans，https://github.com/jianchang512/pyvideotrans，产品界面比较简洁，选择原语言和目标语言后，就会快速给视频生成新的字幕...]]></title>
-            <description><![CDATA[推荐一个视频翻译工具，pyvideotrans，https://github.com/jianchang512/pyvideotrans，产品界面比较简洁，选择原语言和目标语言后，就会快速给视频生成新的字幕。<br><br>作者在生成过程中做了一个优化，首先对视频和音频进行截断分片，然后并行生成内容，如果你的机器性能比较高，理论上可以设置更大的并发度，不过作者没有把这个参数给透出来。<br><br>语音识别基于 openai-whisper 离线模型，文字翻译支持 Google/Baidu/ChatGPT/DeepL 等翻译接口，文字合成语音用的是 Microsoft Edge tts。<br><br>实现这样一个工具比较考验工程能力，而 AI 应用层的建设也很依赖这种能力，可以尝试着多动手，玩一玩。<br><video src="https://videocdn.jellow.site/ltqBezcbSBsB5AJhYCurmtgVoiw_.mp4?sign=2be0a6350e0d9c3a23ac46b0c4063a54&amp;t=6555fb2c" controls=""></video>]]></description>
+            <description><![CDATA[推荐一个视频翻译工具，pyvideotrans，https://github.com/jianchang512/pyvideotrans，产品界面比较简洁，选择原语言和目标语言后，就会快速给视频生成新的字幕。<br><br>作者在生成过程中做了一个优化，首先对视频和音频进行截断分片，然后并行生成内容，如果你的机器性能比较高，理论上可以设置更大的并发度，不过作者没有把这个参数给透出来。<br><br>语音识别基于 openai-whisper 离线模型，文字翻译支持 Google/Baidu/ChatGPT/DeepL 等翻译接口，文字合成语音用的是 Microsoft Edge tts。<br><br>实现这样一个工具比较考验工程能力，而 AI 应用层的建设也很依赖这种能力，可以尝试着多动手，玩一玩。<br><video src="https://videocdn.jellow.site/ltqBezcbSBsB5AJhYCurmtgVoiw_.mp4?sign=0da227185886362d907c1d1da822e4b9&amp;t=65563790" controls=""></video>]]></description>
             <pubDate>Wed, 15 Nov 2023 01:47:09 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6554231d859fc596dfa5981a</guid>
             <link>https://m.okjike.com/originalPosts/6554231d859fc596dfa5981a</link>
@@ -98,22 +114,6 @@
             
             
             <author><![CDATA[Barret李靖]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[我搞了一个命题作文，由@Airyland 给大家提供同一份GPTs数据，看看大家能怎么玩出花来。 现在大家在这份数据基础上做了二十多个网站了，大部分是常规的导航，但...]]></title>
-            <description><![CDATA[我搞了一个命题作文，由@Airyland 给大家提供同一份GPTs数据，看看大家能怎么玩出花来。<br>现在大家在这份数据基础上做了二十多个网站了，大部分是常规的导航，但是也在界面上花了心思，如 https://GPTsToday.com/?gefei 颜值就挺高。<br>也有人在交互上花心思，如 https://SurpriseGpts.com/?gefei 不一次性把全部 GPTs 显示给大家，而是根据你输入的不同内容，给你惊喜推荐。<br>如 https://GPTsMap.xyz/?gefei 让用户可以创建收藏夹，按照主题来收藏 GPTs 。<br>如 https://GPTs.works/?gefei 做了向量化处理，能够用自然语言语义化搜索 GPTs 。<br>谁说中国人没有创造力，你看，上面这些不就是吗？<br>我建议大家平时自己多多练手，做做网站，等到真的机会来临时，才能快速抓住机会。<br><img src="https://cdnv2.ruguoapp.com/FsFzC3TltDdyfdZ6o4m9P0-jPVUkv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fn_e6_HqM4J_uhTUOb4f255CE_qkv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fti9jo2YQBt6ps6UCcPARYtgxaADv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FtLPnV-hTNhNpk8Mm7bRIQ1tjDb8v3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 15 Nov 2023 00:17:22 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65540e12f59114ac23ddc467</guid>
-            <link>https://m.okjike.com/originalPosts/65540e12f59114ac23ddc467</link>
-            
-            
-            
-            <author><![CDATA[哥飞]]></author>
             
                 
             
