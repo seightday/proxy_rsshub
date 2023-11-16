@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 16 Nov 2023 02:25:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Nov 2023 06:53:50 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[多次看到有人推荐，可以跳过付费墙直接免费查看各大网站内容的 Chrome 插件，把源码 down 下来研究了下，原来核心代码只有一句： h++ps://webcache.googleuserco...]]></title>
+            <description><![CDATA[多次看到有人推荐，可以跳过付费墙直接免费查看各大网站内容的 Chrome 插件，把源码 down 下来研究了下，原来核心代码只有一句：<br><br>h++ps://webcache.googleusercontent.com/search?q=cache:${window.location.href}<br><br>这些付费内容平台为了可以获得更多的流量，针对搜索引擎的爬虫是输出全文的，因此只需要通过 Google Cache Page 打开对应的网页，或者通过 Achieve 网站打开，就可以看到全文了。<br><img src="https://cdnv2.ruguoapp.com/FsxIGqJLbZ25AIs3UzPLgJ0ETJ2fv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 16 Nov 2023 02:30:16 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65557eb8f59114ac23fcea1f</guid>
+            <link>https://m.okjike.com/originalPosts/65557eb8f59114ac23fcea1f</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[最近研究 AI Agents 的论文比较多，看到一个宝藏知识库，LLM-Agent-Paper-List，https://github.com/WooooDyy/LLM-Agent-Paper-List，它对基于大模型的 Agents ...]]></title>
@@ -41,8 +57,24 @@
         </item>
         
         <item>
+            <title><![CDATA[昨天跟一位美国回来的朋友吃饭，我问她美国程序员有没有 35 岁焦虑，她说感受不到，近期他们组里就来了一位超过 35 岁的程序员，之前是一名药剂师，中途转行，当...]]></title>
+            <description><![CDATA[昨天跟一位美国回来的朋友吃饭，我问她美国程序员有没有 35 岁焦虑，她说感受不到，近期他们组里就来了一位超过 35 岁的程序员，之前是一名药剂师，中途转行，当前还处于比较初级的水平，她很佩服这位同事的勇气。<br><br>我说，这种简历，在中国很可能连一个面试机会都拿不到，她很诧异，为什么拿不到面试机会呢？这种情况还蛮多的。嗯，为什么呢？]]></description>
+            <pubDate>Thu, 16 Nov 2023 01:19:23 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65556e1b7a3d420a1cbf8046</guid>
+            <link>https://m.okjike.com/originalPosts/65556e1b7a3d420a1cbf8046</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[推荐一个视频翻译工具，pyvideotrans，https://github.com/jianchang512/pyvideotrans，产品界面比较简洁，选择原语言和目标语言后，就会快速给视频生成新的字幕...]]></title>
-            <description><![CDATA[推荐一个视频翻译工具，pyvideotrans，https://github.com/jianchang512/pyvideotrans，产品界面比较简洁，选择原语言和目标语言后，就会快速给视频生成新的字幕。<br><br>作者在生成过程中做了一个优化，首先对视频和音频进行截断分片，然后并行生成内容，如果你的机器性能比较高，理论上可以设置更大的并发度，不过作者没有把这个参数给透出来。<br><br>语音识别基于 openai-whisper 离线模型，文字翻译支持 Google/Baidu/ChatGPT/DeepL 等翻译接口，文字合成语音用的是 Microsoft Edge tts。<br><br>实现这样一个工具比较考验工程能力，而 AI 应用层的建设也很依赖这种能力，可以尝试着多动手，玩一玩。<br><video src="https://videocdn.jellow.site/ltqBezcbSBsB5AJhYCurmtgVoiw_.mp4?sign=ba490d083b84675bad5564ff9401d000&amp;t=65558361" controls=""></video>]]></description>
+            <description><![CDATA[推荐一个视频翻译工具，pyvideotrans，https://github.com/jianchang512/pyvideotrans，产品界面比较简洁，选择原语言和目标语言后，就会快速给视频生成新的字幕。<br><br>作者在生成过程中做了一个优化，首先对视频和音频进行截断分片，然后并行生成内容，如果你的机器性能比较高，理论上可以设置更大的并发度，不过作者没有把这个参数给透出来。<br><br>语音识别基于 openai-whisper 离线模型，文字翻译支持 Google/Baidu/ChatGPT/DeepL 等翻译接口，文字合成语音用的是 Microsoft Edge tts。<br><br>实现这样一个工具比较考验工程能力，而 AI 应用层的建设也很依赖这种能力，可以尝试着多动手，玩一玩。<br><video src="https://videocdn.jellow.site/ltqBezcbSBsB5AJhYCurmtgVoiw_.mp4?sign=9c5f619042db2808db85e2cd0eee86d2&amp;t=6555c386" controls=""></video>]]></description>
             <pubDate>Wed, 15 Nov 2023 01:47:09 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6554231d859fc596dfa5981a</guid>
             <link>https://m.okjike.com/originalPosts/6554231d859fc596dfa5981a</link>
@@ -89,24 +121,8 @@
         </item>
         
         <item>
-            <title><![CDATA[出海第三天，接到了第一笔商业赞助，真神奇。😂 https://gpts.works]]></title>
-            <description><![CDATA[出海第三天，接到了第一笔商业赞助，真神奇。😂<br><br>https://gpts.works<br><img src="https://cdnv2.ruguoapp.com/FrXEz-er4uEId7KDnW6KuMsT5ea8v3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FgIMbCjel3DKhTZvcdX5R_t4Pc8Iv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 14 Nov 2023 16:01:34 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/655399dedc2460410c038814</guid>
-            <link>https://m.okjike.com/originalPosts/655399dedc2460410c038814</link>
-            
-            
-            
-            <author><![CDATA[艾逗笔]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[如何让 AI 根据使用者意图自动化控制网页？CopilotKit，https://github.com/RecursivelyAI/CopilotKit，给出了一个较为通用的解决方案，它的思路比较简单，大致...]]></title>
-            <description><![CDATA[如何让 AI 根据使用者意图自动化控制网页？CopilotKit，https://github.com/RecursivelyAI/CopilotKit，给出了一个较为通用的解决方案，它的思路比较简单，大致如下：<br><br>1）让 AI 结构化理解网页上的内容<br>2）告诉 AI 可以对网页进行哪类操作，例如点击按钮、选择元素、删除模块等<br>3）通过聊天窗口/语音控制等方式，告诉 AI 你期望它做什么事情<br><br>下面这个视频就演示了，如何让 AI 帮助我们选择旅行目的地，通过对话的方式完成筛选。<br><br>CopilotKit 项目作者对这类能力进行了前端程序化封装，通过 useMakeCopilotReadable 和 useMakeCopilotActionable 等函数，可以让程序快速实现 1 和 2 的操作，调用起来十分简单，几行代码就能搞定。<br><br>详细文档：https://docs.copilotkit.ai/getting-started/quickstart-chatbot<br><video src="https://videocdn.jellow.site/FrzC4JM9dm9TqayCSW3paa9kWOjq.mp4?sign=29c44bba655299ba8e1130516b5fb0e6&amp;t=65558360" controls=""></video>]]></description>
+            <description><![CDATA[如何让 AI 根据使用者意图自动化控制网页？CopilotKit，https://github.com/RecursivelyAI/CopilotKit，给出了一个较为通用的解决方案，它的思路比较简单，大致如下：<br><br>1）让 AI 结构化理解网页上的内容<br>2）告诉 AI 可以对网页进行哪类操作，例如点击按钮、选择元素、删除模块等<br>3）通过聊天窗口/语音控制等方式，告诉 AI 你期望它做什么事情<br><br>下面这个视频就演示了，如何让 AI 帮助我们选择旅行目的地，通过对话的方式完成筛选。<br><br>CopilotKit 项目作者对这类能力进行了前端程序化封装，通过 useMakeCopilotReadable 和 useMakeCopilotActionable 等函数，可以让程序快速实现 1 和 2 的操作，调用起来十分简单，几行代码就能搞定。<br><br>详细文档：https://docs.copilotkit.ai/getting-started/quickstart-chatbot<br><video src="https://videocdn.jellow.site/FrzC4JM9dm9TqayCSW3paa9kWOjq.mp4?sign=a70568042ad5c6856e7a520419eec7ab&amp;t=6555c381" controls=""></video>]]></description>
             <pubDate>Tue, 14 Nov 2023 15:16:04 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/65538f34834e87e36f3a4cae</guid>
             <link>https://m.okjike.com/originalPosts/65538f34834e87e36f3a4cae</link>
@@ -162,22 +178,6 @@
             
             
             <author><![CDATA[艾逗笔]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[一张有趣的耗时对比图。另外再补充几个栽过跟头的数据知识。 同机房内调用的 RT 是 100µs，上次正好遇到了一个监控告警，redis 平均时延从 100µs+ 飙升到了 50...]]></title>
-            <description><![CDATA[一张有趣的耗时对比图。另外再补充几个栽过跟头的数据知识。<br><br>同机房内调用的 RT 是 100µs，上次正好遇到了一个监控告警，redis 平均时延从 100µs+ 飙升到了 500µs+，原因是一个数据分区的有硬件故障，自动切换到了另外一个可用区，导致所有 proxy 节点与这个 data 节点变成了跨可用区调用，也就是变成了 1ms+，拉高平均耗时。<br><br>同城跨可用区（AZ）调用一般在 1.9ms 以内，距离是 20~80km，这是标准要求；在光纤光缆中，每公里会造成 4.9µs 的延迟，电缆中的每个弯曲或缺陷都会降低网络速度；跨城调用，例如杭州到上海，时延会在 3.8ms~10.8ms 不等，主要看两个可用区之间的分布距离；在做异地灾备的时候，10ms 的时延基本就挺难接受了，因此异地灾备一般都是冷备，如果要做异地多活，就得考虑数据单元化，做水平 sharding，或者考虑做应用层做，数据弱一致。<br><br>洲际时延是 100ms 以上，在不走专线的情况下，ping 一台海外机器，时延 100ms+ 都是很正常的，走专线会快很多，例如电信的 CN2（AS4809），联通的 CHI­NA169（AS4837）等，专线的价格会贵很多很多；可以使用 ping.pe 这个在线工具进行测试，它提供的 traceroute 包含了 AS 信息，可以确认自己走的是什么线路，也可以根据线路来判断服务商提供的主机网络是不是真的靠谱。<br><img src="https://cdnv2.ruguoapp.com/Ftt1hsXBVNehXBTH9yrUTXumpXsTv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 13 Nov 2023 23:09:37 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6552acb105c1e66933bb349f</guid>
-            <link>https://m.okjike.com/originalPosts/6552acb105c1e66933bb349f</link>
-            
-            
-            
-            <author><![CDATA[Barret李靖]]></author>
             
                 
             
