@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Fri, 17 Nov 2023 10:01:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Nov 2023 14:08:01 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[我的Office 突然提示要激活，激活又提示找不到许可证，现在完全无法编辑和使用。 1⃣️终身版，不需要续费 2⃣️昨天晚上还正常使用，今天突然不行了 客服说微软...]]></title>
+            <description><![CDATA[我的Office 突然提示要激活，激活又提示找不到许可证，现在完全无法编辑和使用。<br><br>1⃣️终身版，不需要续费<br>2⃣️昨天晚上还正常使用，今天突然不行了<br><br>客服说微软已经停止了对mac 的技术支持，现在只能去论坛寻找帮助<br><br>简直离了个大谱<br><img src="https://cdnv2.ruguoapp.com/Fo2tJPjqn08d0QZjnvhTta9zXG3ov3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FqnJYbEIqkdPXrQmfjz02Ox9IM6pv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 17 Nov 2023 04:17:55 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6556e973f9a492630bbdf8c4</guid>
+            <link>https://m.okjike.com/originalPosts/6556e973f9a492630bbdf8c4</link>
+            
+            
+            
+            <author><![CDATA[_Osako_]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[推荐一个检索和学习论文的强大工具，Aminer，https://www.aminer.cn，它是由清华大学计算机系研发的学术信息挖掘平台，可以很大程度帮助我们降低检索和学习论文...]]></title>
@@ -114,22 +130,6 @@
             
             
             <author><![CDATA[同藩]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[推荐一个视频翻译工具，pyvideotrans，https://github.com/jianchang512/pyvideotrans，产品界面比较简洁，选择原语言和目标语言后，就会快速给视频生成新的字幕...]]></title>
-            <description><![CDATA[推荐一个视频翻译工具，pyvideotrans，https://github.com/jianchang512/pyvideotrans，产品界面比较简洁，选择原语言和目标语言后，就会快速给视频生成新的字幕。<br><br>作者在生成过程中做了一个优化，首先对视频和音频进行截断分片，然后并行生成内容，如果你的机器性能比较高，理论上可以设置更大的并发度，不过作者没有把这个参数给透出来。<br><br>语音识别基于 openai-whisper 离线模型，文字翻译支持 Google/Baidu/ChatGPT/DeepL 等翻译接口，文字合成语音用的是 Microsoft Edge tts。<br><br>实现这样一个工具比较考验工程能力，而 AI 应用层的建设也很依赖这种能力，可以尝试着多动手，玩一玩。<br><video src="https://videocdn.jellow.site/ltqBezcbSBsB5AJhYCurmtgVoiw_.mp4?sign=6f45ec62ce894787851e60aede3da371&amp;t=6557403a" controls=""></video>]]></description>
-            <pubDate>Wed, 15 Nov 2023 01:47:09 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6554231d859fc596dfa5981a</guid>
-            <link>https://m.okjike.com/originalPosts/6554231d859fc596dfa5981a</link>
-            
-            
-            
-            <author><![CDATA[Barret李靖]]></author>
             
                 
             
