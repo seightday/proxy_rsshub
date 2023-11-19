@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss  xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
+
 
 >
     <channel>
         <title><![CDATA[JitHub程序员 - 即刻圈子]]></title>
         <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
-        <atom:link href="https://rsshub/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub.app/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
         <description><![CDATA[开发者们分享，问答，也可以交友的地方。欢迎所有工程师！ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -20,19 +21,19 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sun, 19 Nov 2023 12:22:24 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Sun, 19 Nov 2023 14:24:23 GMT</lastBuildDate>
+        <ttl>120</ttl>
         
         <item>
             <title><![CDATA[请问一下各位NLP届高手，现在中文分词技术有什么大的进展吗？目前最好用的开源中文分词是哪个？]]></title>
-            <description><![CDATA[<br>请问一下各位NLP届高手，现在中文分词技术有什么大的进展吗？目前最好用的开源中文分词是哪个？]]></description>
+            <description><![CDATA[请问一下各位NLP届高手，现在中文分词技术有什么大的进展吗？目前最好用的开源中文分词是哪个？]]></description>
             <pubDate>Fri, 17 Nov 2023 13:28:41 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/65576a89c0f0b2f92db0a3d7</guid>
             <link>https://m.okjike.com/originalPosts/65576a89c0f0b2f92db0a3d7</link>
             
             
             
-            
+            <author><![CDATA[哥飞]]></author>
             
                 
             
@@ -41,14 +42,14 @@
         
         <item>
             <title><![CDATA[推荐一个检索和学习论文的强大工具，Aminer，https://www.aminer.cn，它是由清华大学计算机系研发的学术信息挖掘平台，可以很大程度帮助我们降低检索和学习论文...]]></title>
-            <description><![CDATA[<br>推荐一个检索和学习论文的强大工具，Aminer，https://www.aminer.cn，它是由清华大学计算机系研发的学术信息挖掘平台，可以很大程度帮助我们降低检索和学习论文的门槛，十分有用。<br><br>如果你有一个明确的研究方向，可以在它的「必读论文」模块中找到对应的优质论文集（如图一），这些内容都是由 AI 初筛 + 学者复核后呈现出来的，可以为自己省去海量的信息挖掘时间。<br><br>你也可以使用它的检索工具，根据具体的关键词找到最新、最热或者最高引用的论文（如图二），在左侧可以根据不同的期刊、顶会对查询结果进行二次过滤；如果 SCI / CCF 的分类不能满足你的需求，你还可以下载一个叫做 easyScholar 的 Chrome 插件，它可以在搜索结果中增加更多的期刊分级（如图三），分级信息可以让我们一眼看出论文的含金量。<br><br>Google Scholar 是数据更新效率最高的学术信息挖掘工具，如果你对实时性要求比较高，可以结合 Google 学术工具一起看，也可以直接去各个顶会的官网查看最新 accept paper，非专业研究一般也用不上。<br><br>Aminer 还提供了一个 ChatBot 工具（如图四），支持全库对话和单篇对话，全库精选了 600w+ 的优质论文，单篇对话支持在平台论文详情页直接发起，也支持上传 PDF 后跟它交流，背后应该是对接了一个 LLM，理解能力还不错。<br><br>另外，关于 AI 的研究，还推荐订阅 Hugging Face 的 Daily Papers，https://huggingface.co/papers，它也是通过 AI + 人工复核的方式，结合平台热度给用户每日推荐最热/最佳内容，你可以注册一个账号，订阅到自己的邮箱。<br><picture><source srcset="https://cdnv2.ruguoapp.com/FuqGydNBznI4cHSpYTdy3iqqQrKnv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/FuqGydNBznI4cHSpYTdy3iqqQrKnv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/FuqGydNBznI4cHSpYTdy3iqqQrKnv3.png"></picture><br><picture><source srcset="https://cdnv2.ruguoapp.com/FkgZg32vzstkSdMK20o6ahwjKnU4v3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/FkgZg32vzstkSdMK20o6ahwjKnU4v3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/FkgZg32vzstkSdMK20o6ahwjKnU4v3.png"></picture><br><picture><source srcset="https://cdnv2.ruguoapp.com/FoV8xSoH8dSs19Pg15ZCF6rsqZFEv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/FoV8xSoH8dSs19Pg15ZCF6rsqZFEv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/FoV8xSoH8dSs19Pg15ZCF6rsqZFEv3.png"></picture><br><picture><source srcset="https://cdnv2.ruguoapp.com/Fp8tKQDwaH3Dmeqlf2tF8M0H3X9mv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/Fp8tKQDwaH3Dmeqlf2tF8M0H3X9mv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/Fp8tKQDwaH3Dmeqlf2tF8M0H3X9mv3.png"></picture><br><picture><source srcset="https://cdnv2.ruguoapp.com/FrCwScqLFTPGNr2gkCNdL5wUXwELv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/FrCwScqLFTPGNr2gkCNdL5wUXwELv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/FrCwScqLFTPGNr2gkCNdL5wUXwELv3.png"></picture>]]></description>
+            <description><![CDATA[推荐一个检索和学习论文的强大工具，Aminer，https://www.aminer.cn，它是由清华大学计算机系研发的学术信息挖掘平台，可以很大程度帮助我们降低检索和学习论文的门槛，十分有用。<br><br>如果你有一个明确的研究方向，可以在它的「必读论文」模块中找到对应的优质论文集（如图一），这些内容都是由 AI 初筛 + 学者复核后呈现出来的，可以为自己省去海量的信息挖掘时间。<br><br>你也可以使用它的检索工具，根据具体的关键词找到最新、最热或者最高引用的论文（如图二），在左侧可以根据不同的期刊、顶会对查询结果进行二次过滤；如果 SCI / CCF 的分类不能满足你的需求，你还可以下载一个叫做 easyScholar 的 Chrome 插件，它可以在搜索结果中增加更多的期刊分级（如图三），分级信息可以让我们一眼看出论文的含金量。<br><br>Google Scholar 是数据更新效率最高的学术信息挖掘工具，如果你对实时性要求比较高，可以结合 Google 学术工具一起看，也可以直接去各个顶会的官网查看最新 accept paper，非专业研究一般也用不上。<br><br>Aminer 还提供了一个 ChatBot 工具（如图四），支持全库对话和单篇对话，全库精选了 600w+ 的优质论文，单篇对话支持在平台论文详情页直接发起，也支持上传 PDF 后跟它交流，背后应该是对接了一个 LLM，理解能力还不错。<br><br>另外，关于 AI 的研究，还推荐订阅 Hugging Face 的 Daily Papers，https://huggingface.co/papers，它也是通过 AI + 人工复核的方式，结合平台热度给用户每日推荐最热/最佳内容，你可以注册一个账号，订阅到自己的邮箱。<br><img src="https://cdnv2.ruguoapp.com/FuqGydNBznI4cHSpYTdy3iqqQrKnv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FkgZg32vzstkSdMK20o6ahwjKnU4v3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FoV8xSoH8dSs19Pg15ZCF6rsqZFEv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fp8tKQDwaH3Dmeqlf2tF8M0H3X9mv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FrCwScqLFTPGNr2gkCNdL5wUXwELv3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Thu, 16 Nov 2023 14:31:06 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/655627aaee2e07f7acc17bb1</guid>
             <link>https://m.okjike.com/originalPosts/655627aaee2e07f7acc17bb1</link>
             
             
             
-            
+            <author><![CDATA[Barret李靖]]></author>
             
                 
             
@@ -56,17 +57,15 @@
         </item>
         
         <item>
-            <title><![CDATA[AI 相关的论文多到看不过来，即便是切进去一个小的领域，内容量也非常庞大，为了可以提升效率，我的研究方法大概是这样的：
-
-1）先确认论文是不是提出了一种新的...]]></title>
-            <description><![CDATA[<br>AI 相关的论文多到看不过来，即便是切进去一个小的领域，内容量也非常庞大，为了可以提升效率，我的研究方法大概是这样的：<br><br>1）先确认论文是不是提出了一种新的思路和方向，如果只是旧方法的略微加强版，研究起来就没啥意思了，看 Title + Summary 就可以大致判断，这一道可以过滤一大部分论文<br><br>2）使用 Monica 帮我先读一遍，它每次总结的时候都会自动提出三个我可能感兴趣的问题，基本上问完这三个问题就能知道论文的概貌了<br><br>3）找到对应的 Github 仓库，直接看实现，有些论文描述思路的时候复杂的要命，提出了一堆新概念，回到代码层面，其实也就是一百多行，看代码的效率会更高<br><br>4）去 Google Colab 执行程序，由于涉及到大模型和各种依赖的下载，一般下载流量都在 10Gb 以上，而 Colab 可以在一分钟内完成项目的初始化，相比本地执行要高效几十倍<br><br>另外一个小 Tip：去寻找 The Rise and Potential of Large Language Model Based Agents: A Survey 这种行业概述性的论文或者文章，可以从大纲上帮助自己捋清探索和研究的方向。我平时是在 arXiv 上检索论文，不知道大家还有没有其他推荐的信息渠道？]]></description>
+            <title><![CDATA[AI 相关的论文多到看不过来，即便是切进去一个小的领域，内容量也非常庞大，为了可以提升效率，我的研究方法大概是这样的： 1）先确认论文是不是提出了一种新的...]]></title>
+            <description><![CDATA[AI 相关的论文多到看不过来，即便是切进去一个小的领域，内容量也非常庞大，为了可以提升效率，我的研究方法大概是这样的：<br><br>1）先确认论文是不是提出了一种新的思路和方向，如果只是旧方法的略微加强版，研究起来就没啥意思了，看 Title + Summary 就可以大致判断，这一道可以过滤一大部分论文<br><br>2）使用 Monica 帮我先读一遍，它每次总结的时候都会自动提出三个我可能感兴趣的问题，基本上问完这三个问题就能知道论文的概貌了<br><br>3）找到对应的 Github 仓库，直接看实现，有些论文描述思路的时候复杂的要命，提出了一堆新概念，回到代码层面，其实也就是一百多行，看代码的效率会更高<br><br>4）去 Google Colab 执行程序，由于涉及到大模型和各种依赖的下载，一般下载流量都在 10Gb 以上，而 Colab 可以在一分钟内完成项目的初始化，相比本地执行要高效几十倍<br><br>另外一个小 Tip：去寻找 The Rise and Potential of Large Language Model Based Agents: A Survey 这种行业概述性的论文或者文章，可以从大纲上帮助自己捋清探索和研究的方向。我平时是在 arXiv 上检索论文，不知道大家还有没有其他推荐的信息渠道？]]></description>
             <pubDate>Thu, 16 Nov 2023 05:38:55 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6555aaef87a8e03bd1b65d62</guid>
             <link>https://m.okjike.com/originalPosts/6555aaef87a8e03bd1b65d62</link>
             
             
             
-            
+            <author><![CDATA[Barret李靖]]></author>
             
                 
             
@@ -74,17 +73,15 @@
         </item>
         
         <item>
-            <title><![CDATA[多次看到有人推荐，可以跳过付费墙直接免费查看各大网站内容的 Chrome 插件，把源码 down 下来研究了下，原来核心代码只有一句：
-
-h++ps://webcache.googleuserc...]]></title>
-            <description><![CDATA[<br>多次看到有人推荐，可以跳过付费墙直接免费查看各大网站内容的 Chrome 插件，把源码 down 下来研究了下，原来核心代码只有一句：<br><br>h++ps://webcache.googleusercontent.com/search?q=cache:${window.location.href}<br><br>这些付费内容平台为了可以获得更多的流量，针对搜索引擎的爬虫是输出全文的，因此只需要通过 Google Cache Page 打开对应的网页，或者通过 Achieve 网站打开，就可以看到全文了。<br><picture><source srcset="https://cdnv2.ruguoapp.com/FsxIGqJLbZ25AIs3UzPLgJ0ETJ2fv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/FsxIGqJLbZ25AIs3UzPLgJ0ETJ2fv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/FsxIGqJLbZ25AIs3UzPLgJ0ETJ2fv3.png"></picture>]]></description>
+            <title><![CDATA[多次看到有人推荐，可以跳过付费墙直接免费查看各大网站内容的 Chrome 插件，把源码 down 下来研究了下，原来核心代码只有一句： h++ps://webcache.googleuserco...]]></title>
+            <description><![CDATA[多次看到有人推荐，可以跳过付费墙直接免费查看各大网站内容的 Chrome 插件，把源码 down 下来研究了下，原来核心代码只有一句：<br><br>h++ps://webcache.googleusercontent.com/search?q=cache:${window.location.href}<br><br>这些付费内容平台为了可以获得更多的流量，针对搜索引擎的爬虫是输出全文的，因此只需要通过 Google Cache Page 打开对应的网页，或者通过 Achieve 网站打开，就可以看到全文了。<br><img src="https://cdnv2.ruguoapp.com/FsxIGqJLbZ25AIs3UzPLgJ0ETJ2fv3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Thu, 16 Nov 2023 02:30:16 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/65557eb8f59114ac23fcea1f</guid>
             <link>https://m.okjike.com/originalPosts/65557eb8f59114ac23fcea1f</link>
             
             
             
-            
+            <author><![CDATA[Barret李靖]]></author>
             
                 
             
@@ -93,14 +90,14 @@ h++ps://webcache.googleuserc...]]></title>
         
         <item>
             <title><![CDATA[最近研究 AI Agents 的论文比较多，看到一个宝藏知识库，LLM-Agent-Paper-List，https://github.com/WooooDyy/LLM-Agent-Paper-List，它对基于大模型的 Agents ...]]></title>
-            <description><![CDATA[<br>最近研究 AI Agents 的论文比较多，看到一个宝藏知识库，LLM-Agent-Paper-List，https://github.com/WooooDyy/LLM-Agent-Paper-List，它对基于大模型的 Agents 进行了系统且全面的调查，列出了一些必读论文。内容主要包含三个部分：<br><br>1）AI Agents 是感知环境、做出决策并采取行动的人造实体，因此详细阐述了这三个组件：大脑、感知和行动，包括知识、内存、推理和规划、可迁移性和泛化等等<br>2）针对 Single-Agent / Multi-Agent / Human-Agent cooperation 列举了系列论文，讨论面向任务和生命周期的部署<br>3）基于 Agents 的行为和个性，从个体性研究到社会性，最具代表的就是对“西部世界”的还原<br><br>大部分论文都是 2023 年 3 月之后发表的，内容比较靠前，看到很多应用也在陆续尝试中，感兴趣的朋友可以花点时间研究一下。其中一小半我都看过，很有帮助。<br><picture><source srcset="https://cdnv2.ruguoapp.com/FmOLpGiQ1aQcREWvTajmVYUrLNQqv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/FmOLpGiQ1aQcREWvTajmVYUrLNQqv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/FmOLpGiQ1aQcREWvTajmVYUrLNQqv3.png"></picture>]]></description>
+            <description><![CDATA[最近研究 AI Agents 的论文比较多，看到一个宝藏知识库，LLM-Agent-Paper-List，https://github.com/WooooDyy/LLM-Agent-Paper-List，它对基于大模型的 Agents 进行了系统且全面的调查，列出了一些必读论文。内容主要包含三个部分：<br><br>1）AI Agents 是感知环境、做出决策并采取行动的人造实体，因此详细阐述了这三个组件：大脑、感知和行动，包括知识、内存、推理和规划、可迁移性和泛化等等<br>2）针对 Single-Agent / Multi-Agent / Human-Agent cooperation 列举了系列论文，讨论面向任务和生命周期的部署<br>3）基于 Agents 的行为和个性，从个体性研究到社会性，最具代表的就是对“西部世界”的还原<br><br>大部分论文都是 2023 年 3 月之后发表的，内容比较靠前，看到很多应用也在陆续尝试中，感兴趣的朋友可以花点时间研究一下。其中一小半我都看过，很有帮助。<br><img src="https://cdnv2.ruguoapp.com/FmOLpGiQ1aQcREWvTajmVYUrLNQqv3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Thu, 16 Nov 2023 01:48:25 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/655574e9834e87e36f5f315f</guid>
             <link>https://m.okjike.com/originalPosts/655574e9834e87e36f5f315f</link>
             
             
             
-            
+            <author><![CDATA[Barret李靖]]></author>
             
                 
             
@@ -109,14 +106,14 @@ h++ps://webcache.googleuserc...]]></title>
         
         <item>
             <title><![CDATA[昨天跟一位美国回来的朋友吃饭，我问她美国程序员有没有 35 岁焦虑，她说感受不到，近期他们组里就来了一位超过 35 岁的程序员，之前是一名药剂师，中途转行，当...]]></title>
-            <description><![CDATA[<br>昨天跟一位美国回来的朋友吃饭，我问她美国程序员有没有 35 岁焦虑，她说感受不到，近期他们组里就来了一位超过 35 岁的程序员，之前是一名药剂师，中途转行，当前还处于比较初级的水平，她很佩服这位同事的勇气。<br><br>我说，这种简历，在中国很可能连一个面试机会都拿不到，她很诧异，为什么拿不到面试机会呢？这种情况还蛮多的。嗯，为什么呢？]]></description>
+            <description><![CDATA[昨天跟一位美国回来的朋友吃饭，我问她美国程序员有没有 35 岁焦虑，她说感受不到，近期他们组里就来了一位超过 35 岁的程序员，之前是一名药剂师，中途转行，当前还处于比较初级的水平，她很佩服这位同事的勇气。<br><br>我说，这种简历，在中国很可能连一个面试机会都拿不到，她很诧异，为什么拿不到面试机会呢？这种情况还蛮多的。嗯，为什么呢？]]></description>
             <pubDate>Thu, 16 Nov 2023 01:19:23 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/65556e1b7a3d420a1cbf8046</guid>
             <link>https://m.okjike.com/originalPosts/65556e1b7a3d420a1cbf8046</link>
             
             
             
-            
+            <author><![CDATA[Barret李靖]]></author>
             
                 
             
@@ -125,14 +122,14 @@ h++ps://webcache.googleuserc...]]></title>
         
         <item>
             <title><![CDATA[每过段时间就尝试把 VS Code 外观改得像原生 macOS app 一样。最新一次尝试用了 `drcika.apc-extension` 这个插件，简单无痛 🙏。]]></title>
-            <description><![CDATA[<br>每过段时间就尝试把 VS Code 外观改得像原生 macOS app 一样。最新一次尝试用了 `drcika.apc-extension` 这个插件，简单无痛 🙏。<br><picture><source srcset="https://cdnv2.ruguoapp.com/FgG_bHqyPrA02pmJdQpdH2dSAQtIv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/FgG_bHqyPrA02pmJdQpdH2dSAQtIv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/FgG_bHqyPrA02pmJdQpdH2dSAQtIv3.png"></picture>]]></description>
+            <description><![CDATA[每过段时间就尝试把 VS Code 外观改得像原生 macOS app 一样。最新一次尝试用了 `drcika.apc-extension` 这个插件，简单无痛 🙏。<br><img src="https://cdnv2.ruguoapp.com/FgG_bHqyPrA02pmJdQpdH2dSAQtIv3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Thu, 16 Nov 2023 00:10:29 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/65555df5f59114ac23f98d2f</guid>
             <link>https://m.okjike.com/originalPosts/65555df5f59114ac23f98d2f</link>
             
             
             
-            
+            <author><![CDATA[同藩]]></author>
             
                 
             
@@ -140,18 +137,15 @@ h++ps://webcache.googleuserc...]]></title>
         </item>
         
         <item>
-            <title><![CDATA[推荐一个价值几万块钱的开源 GPTs 导航，做得很精致，作者是前腾讯高级工程师@艾逗笔 ，之前在微信做后端开发。
-
-演示网站：https://gpts.works/?gefei
-开源代码...]]></title>
-            <description><![CDATA[<br>推荐一个价值几万块钱的开源 GPTs 导航，做得很精致，作者是前腾讯高级工程师@艾逗笔 ，之前在微信做后端开发。<br><br>演示网站：https://gpts.works/?gefei<br>开源代码：https://github.com/all-in-aigc/gpts-works<br><br>这份代码不是静态导航页面，而是动态的，直接从数据库获取数据的，也就是说其实你不仅仅可以用于做 GPTs 导航，你可以用来做通用导航站，替换一下数据，你可以做任何导航。<br><br>最关键的是，这份代码还集成了向量化处理，也就是说用户可以用自然语言语义化来搜索，而不仅仅靠关键词匹配。<br><br>最最关键的是，居然还开源了一个Chrome浏览器插件。<br><br>所以，这是一份如果你要找人开发，至少价值几万块钱的源码。<br><picture><source srcset="https://cdnv2.ruguoapp.com/Fvf1-zhPXoMIiC6RNsRpmVALP6jQv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/Fvf1-zhPXoMIiC6RNsRpmVALP6jQv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/Fvf1-zhPXoMIiC6RNsRpmVALP6jQv3.png"></picture>]]></description>
+            <title><![CDATA[推荐一个价值几万块钱的开源 GPTs 导航，做得很精致，作者是前腾讯高级工程师@艾逗笔 ，之前在微信做后端开发。 演示网站：https://gpts.works/?gefei 开源代码...]]></title>
+            <description><![CDATA[推荐一个价值几万块钱的开源 GPTs 导航，做得很精致，作者是前腾讯高级工程师@艾逗笔 ，之前在微信做后端开发。<br><br>演示网站：https://gpts.works/?gefei<br>开源代码：https://github.com/all-in-aigc/gpts-works<br><br>这份代码不是静态导航页面，而是动态的，直接从数据库获取数据的，也就是说其实你不仅仅可以用于做 GPTs 导航，你可以用来做通用导航站，替换一下数据，你可以做任何导航。<br><br>最关键的是，这份代码还集成了向量化处理，也就是说用户可以用自然语言语义化来搜索，而不仅仅靠关键词匹配。<br><br>最最关键的是，居然还开源了一个Chrome浏览器插件。<br><br>所以，这是一份如果你要找人开发，至少价值几万块钱的源码。<br><img src="https://cdnv2.ruguoapp.com/Fvf1-zhPXoMIiC6RNsRpmVALP6jQv3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Tue, 14 Nov 2023 03:13:24 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6552e5d4834e87e36f299bc6</guid>
             <link>https://m.okjike.com/originalPosts/6552e5d4834e87e36f299bc6</link>
             
             
             
-            
+            <author><![CDATA[哥飞]]></author>
             
                 
             
@@ -160,14 +154,14 @@ h++ps://webcache.googleuserc...]]></title>
         
         <item>
             <title><![CDATA[推荐一个在线免费专题：《高并发系统设计 40 问》，https://zq99299.github.io/note-architect/hc/，内容较为详实。涵盖了数据库、缓存、消息队列、分布式服务等...]]></title>
-            <description><![CDATA[<br>推荐一个在线免费专题：《高并发系统设计 40 问》，https://zq99299.github.io/note-architect/hc/，内容较为详实。涵盖了数据库、缓存、消息队列、分布式服务等，还包括性能管理、压测、控流、熔断等运维实战，看完还是有不少收获的。<br><picture><source srcset="https://cdnv2.ruguoapp.com/FkkIen_z1YJXnCpuuEkdjbgx7-3Yv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/FkkIen_z1YJXnCpuuEkdjbgx7-3Yv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/FkkIen_z1YJXnCpuuEkdjbgx7-3Yv3.png"></picture>]]></description>
+            <description><![CDATA[推荐一个在线免费专题：《高并发系统设计 40 问》，https://zq99299.github.io/note-architect/hc/，内容较为详实。涵盖了数据库、缓存、消息队列、分布式服务等，还包括性能管理、压测、控流、熔断等运维实战，看完还是有不少收获的。<br><img src="https://cdnv2.ruguoapp.com/FkkIen_z1YJXnCpuuEkdjbgx7-3Yv3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Tue, 14 Nov 2023 01:31:34 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6552cdf6f59114ac23c40414</guid>
             <link>https://m.okjike.com/originalPosts/6552cdf6f59114ac23c40414</link>
             
             
             
-            
+            <author><![CDATA[Barret李靖]]></author>
             
                 
             
@@ -175,23 +169,15 @@ h++ps://webcache.googleuserc...]]></title>
         </item>
         
         <item>
-            <title><![CDATA[GPTs Works 项目开源了👇
-
-仓库代码包含三部分内容：
-
-1. Website
-
-GPTs 导航主站，可展示 GPTs 应用，可通过对话的方式检索应用
-
-技术栈：next.js + postgres...]]></title>
-            <description><![CDATA[<br>GPTs Works 项目开源了👇<br><br>仓库代码包含三部分内容：<br><br>1. Website<br><br>GPTs 导航主站，可展示 GPTs 应用，可通过对话的方式检索应用<br><br>技术栈：next.js + postgres + vercel<br><br>2. Index System<br><br>向量存储与索引系统，提供 GPTs 语意化检索接口<br><br>技术栈：fastapi + ponyorm + zilliz cloud<br><br>3. Browser Extension<br><br>浏览器插件，可在 ChatGPT Explore 页面侧边栏展示第三方 GPTs 应用<br><br>技术栈：plasmo<br><br>网站地址： https://gpts.works/<br><br>开源地址： https://github.com/all-in-aigc/gpts-works<br><br>欢迎 fork ，感谢 star 🫶<br><picture><source srcset="https://cdnv2.ruguoapp.com/Fol0U2HCsUocKGIbqCAekYg5wbfFv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/Fol0U2HCsUocKGIbqCAekYg5wbfFv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/Fol0U2HCsUocKGIbqCAekYg5wbfFv3.png"></picture>]]></description>
+            <title><![CDATA[GPTs Works 项目开源了👇 仓库代码包含三部分内容： 1. Website GPTs 导航主站，可展示 GPTs 应用，可通过对话的方式检索应用 技术栈：next.js + postgres + v...]]></title>
+            <description><![CDATA[GPTs Works 项目开源了👇<br><br>仓库代码包含三部分内容：<br><br>1. Website<br><br>GPTs 导航主站，可展示 GPTs 应用，可通过对话的方式检索应用<br><br>技术栈：next.js + postgres + vercel<br><br>2. Index System<br><br>向量存储与索引系统，提供 GPTs 语意化检索接口<br><br>技术栈：fastapi + ponyorm + zilliz cloud<br><br>3. Browser Extension<br><br>浏览器插件，可在 ChatGPT Explore 页面侧边栏展示第三方 GPTs 应用<br><br>技术栈：plasmo<br><br>网站地址： https://gpts.works/<br><br>开源地址： https://github.com/all-in-aigc/gpts-works<br><br>欢迎 fork ，感谢 star 🫶<br><img src="https://cdnv2.ruguoapp.com/Fol0U2HCsUocKGIbqCAekYg5wbfFv3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Tue, 14 Nov 2023 01:28:21 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6552cd3584bcbc4a465e5f97</guid>
             <link>https://m.okjike.com/originalPosts/6552cd3584bcbc4a465e5f97</link>
             
             
             
-            
+            <author><![CDATA[艾逗笔]]></author>
             
                 
             
