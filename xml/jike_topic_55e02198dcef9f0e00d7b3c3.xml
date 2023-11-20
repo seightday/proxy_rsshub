@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 20 Nov 2023 10:58:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Nov 2023 14:59:13 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[screenshot-to-code， https://github.com/abi/screenshot-to-code，这个项目演示了，如何使用 GPT-4 Vision 和 DALL-E 3 将设计稿/网页截图转换成源码（HTML + ...]]></title>
+            <description><![CDATA[screenshot-to-code， https://github.com/abi/screenshot-to-code，这个项目演示了，如何使用 GPT-4 Vision 和 DALL-E 3 将设计稿/网页截图转换成源码（HTML + Tailwind CSS），还原度非常高。<br><br>本来以为项目做了很多工程化的工作来优化生成结果，扒了下源码，没想到 Prompt 如此简单（如图二）。也就是说，使用 ChatGPT 已经可以完全胜任切图工作了，效率提升 1000x。<br><br>为了让大家可以直接玩耍，作者还开发了一个网页，填写自己的 OpenAI Key，就可以体验“截图转代码”的整个过程了：https://picoapps.xyz/free-tools/screenshot-to-code<br><img src="https://cdnv2.ruguoapp.com/FqvUcm8ag_8gxhK5K5cF9c-tXrYYv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fpl10SDOVWWaOcd4O-JTtw0JopMUv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 20 Nov 2023 10:50:42 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/655b3a0228560066731d66a9</guid>
+            <link>https://m.okjike.com/originalPosts/655b3a0228560066731d66a9</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[抖音的拉新也是够生猛的，连楼下的大爷大妈都已经行动起来了。 昨天带孩子出门溜达，看到一个需要付费的小型旋转木马，大叔说，一次20块钱，如果没有下载抖音的...]]></title>
@@ -66,22 +82,6 @@
             
             
             <author><![CDATA[哥飞]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[前端追星➕1 跟尤雨溪和其他大佬们聊了近三个小时，学到非常多有价值的观点，可以期待一下成片 啦٩(๑^o^๑)۶ （忽略我宅家两天的胡子和头发😵）]]></title>
-            <description><![CDATA[前端追星➕1<br>跟尤雨溪和其他大佬们聊了近三个小时，学到非常多有价值的观点，可以期待一下成片 啦٩(๑^o^๑)۶<br><br>（忽略我宅家两天的胡子和头发😵）<br><img src="https://cdnv2.ruguoapp.com/FsbEeU4pDqXNSsE-U60F2qTMRegGv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sun, 19 Nov 2023 15:33:27 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/655a2ac75682fbc62e30a48f</guid>
-            <link>https://m.okjike.com/originalPosts/655a2ac75682fbc62e30a48f</link>
-            
-            
-            
-            <author><![CDATA[Kaiyi]]></author>
             
                 
             
