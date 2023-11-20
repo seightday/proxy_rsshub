@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 20 Nov 2023 06:58:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Nov 2023 10:58:27 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -73,15 +73,15 @@
         </item>
         
         <item>
-            <title><![CDATA[推荐一个检索和学习论文的强大工具，Aminer，https://www.aminer.cn，它是由清华大学计算机系研发的学术信息挖掘平台，可以很大程度帮助我们降低检索和学习论文...]]></title>
-            <description><![CDATA[推荐一个检索和学习论文的强大工具，Aminer，https://www.aminer.cn，它是由清华大学计算机系研发的学术信息挖掘平台，可以很大程度帮助我们降低检索和学习论文的门槛，十分有用。<br><br>如果你有一个明确的研究方向，可以在它的「必读论文」模块中找到对应的优质论文集（如图一），这些内容都是由 AI 初筛 + 学者复核后呈现出来的，可以为自己省去海量的信息挖掘时间。<br><br>你也可以使用它的检索工具，根据具体的关键词找到最新、最热或者最高引用的论文（如图二），在左侧可以根据不同的期刊、顶会对查询结果进行二次过滤；如果 SCI / CCF 的分类不能满足你的需求，你还可以下载一个叫做 easyScholar 的 Chrome 插件，它可以在搜索结果中增加更多的期刊分级（如图三），分级信息可以让我们一眼看出论文的含金量。<br><br>Google Scholar 是数据更新效率最高的学术信息挖掘工具，如果你对实时性要求比较高，可以结合 Google 学术工具一起看，也可以直接去各个顶会的官网查看最新 accept paper，非专业研究一般也用不上。<br><br>Aminer 还提供了一个 ChatBot 工具（如图四），支持全库对话和单篇对话，全库精选了 600w+ 的优质论文，单篇对话支持在平台论文详情页直接发起，也支持上传 PDF 后跟它交流，背后应该是对接了一个 LLM，理解能力还不错。<br><br>另外，关于 AI 的研究，还推荐订阅 Hugging Face 的 Daily Papers，https://huggingface.co/papers，它也是通过 AI + 人工复核的方式，结合平台热度给用户每日推荐最热/最佳内容，你可以注册一个账号，订阅到自己的邮箱。<br><img src="https://cdnv2.ruguoapp.com/FuqGydNBznI4cHSpYTdy3iqqQrKnv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FkgZg32vzstkSdMK20o6ahwjKnU4v3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FoV8xSoH8dSs19Pg15ZCF6rsqZFEv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fp8tKQDwaH3Dmeqlf2tF8M0H3X9mv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FrCwScqLFTPGNr2gkCNdL5wUXwELv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 16 Nov 2023 14:31:06 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/655627aaee2e07f7acc17bb1</guid>
-            <link>https://m.okjike.com/originalPosts/655627aaee2e07f7acc17bb1</link>
+            <title><![CDATA[前端追星➕1 跟尤雨溪和其他大佬们聊了近三个小时，学到非常多有价值的观点，可以期待一下成片 啦٩(๑^o^๑)۶ （忽略我宅家两天的胡子和头发😵）]]></title>
+            <description><![CDATA[前端追星➕1<br>跟尤雨溪和其他大佬们聊了近三个小时，学到非常多有价值的观点，可以期待一下成片 啦٩(๑^o^๑)۶<br><br>（忽略我宅家两天的胡子和头发😵）<br><img src="https://cdnv2.ruguoapp.com/FsbEeU4pDqXNSsE-U60F2qTMRegGv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sun, 19 Nov 2023 15:33:27 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/655a2ac75682fbc62e30a48f</guid>
+            <link>https://m.okjike.com/originalPosts/655a2ac75682fbc62e30a48f</link>
             
             
             
-            <author><![CDATA[Barret李靖]]></author>
+            <author><![CDATA[Kaiyi]]></author>
             
                 
             
@@ -89,11 +89,11 @@
         </item>
         
         <item>
-            <title><![CDATA[AI 相关的论文多到看不过来，即便是切进去一个小的领域，内容量也非常庞大，为了可以提升效率，我的研究方法大概是这样的： 1）先确认论文是不是提出了一种新的...]]></title>
-            <description><![CDATA[AI 相关的论文多到看不过来，即便是切进去一个小的领域，内容量也非常庞大，为了可以提升效率，我的研究方法大概是这样的：<br><br>1）先确认论文是不是提出了一种新的思路和方向，如果只是旧方法的略微加强版，研究起来就没啥意思了，看 Title + Summary 就可以大致判断，这一道可以过滤一大部分论文<br><br>2）使用 Monica 帮我先读一遍，它每次总结的时候都会自动提出三个我可能感兴趣的问题，基本上问完这三个问题就能知道论文的概貌了<br><br>3）找到对应的 Github 仓库，直接看实现，有些论文描述思路的时候复杂的要命，提出了一堆新概念，回到代码层面，其实也就是一百多行，看代码的效率会更高<br><br>4）去 Google Colab 执行程序，由于涉及到大模型和各种依赖的下载，一般下载流量都在 10Gb 以上，而 Colab 可以在一分钟内完成项目的初始化，相比本地执行要高效几十倍<br><br>另外一个小 Tip：去寻找 The Rise and Potential of Large Language Model Based Agents: A Survey 这种行业概述性的论文或者文章，可以从大纲上帮助自己捋清探索和研究的方向。我平时是在 arXiv 上检索论文，不知道大家还有没有其他推荐的信息渠道？]]></description>
-            <pubDate>Thu, 16 Nov 2023 05:38:55 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6555aaef87a8e03bd1b65d62</guid>
-            <link>https://m.okjike.com/originalPosts/6555aaef87a8e03bd1b65d62</link>
+            <title><![CDATA[推荐一个检索和学习论文的强大工具，Aminer，https://www.aminer.cn，它是由清华大学计算机系研发的学术信息挖掘平台，可以很大程度帮助我们降低检索和学习论文...]]></title>
+            <description><![CDATA[推荐一个检索和学习论文的强大工具，Aminer，https://www.aminer.cn，它是由清华大学计算机系研发的学术信息挖掘平台，可以很大程度帮助我们降低检索和学习论文的门槛，十分有用。<br><br>如果你有一个明确的研究方向，可以在它的「必读论文」模块中找到对应的优质论文集（如图一），这些内容都是由 AI 初筛 + 学者复核后呈现出来的，可以为自己省去海量的信息挖掘时间。<br><br>你也可以使用它的检索工具，根据具体的关键词找到最新、最热或者最高引用的论文（如图二），在左侧可以根据不同的期刊、顶会对查询结果进行二次过滤；如果 SCI / CCF 的分类不能满足你的需求，你还可以下载一个叫做 easyScholar 的 Chrome 插件，它可以在搜索结果中增加更多的期刊分级（如图三），分级信息可以让我们一眼看出论文的含金量。<br><br>Google Scholar 是数据更新效率最高的学术信息挖掘工具，如果你对实时性要求比较高，可以结合 Google 学术工具一起看，也可以直接去各个顶会的官网查看最新 accept paper，非专业研究一般也用不上。<br><br>Aminer 还提供了一个 ChatBot 工具（如图四），支持全库对话和单篇对话，全库精选了 600w+ 的优质论文，单篇对话支持在平台论文详情页直接发起，也支持上传 PDF 后跟它交流，背后应该是对接了一个 LLM，理解能力还不错。<br><br>另外，关于 AI 的研究，还推荐订阅 Hugging Face 的 Daily Papers，https://huggingface.co/papers，它也是通过 AI + 人工复核的方式，结合平台热度给用户每日推荐最热/最佳内容，你可以注册一个账号，订阅到自己的邮箱。<br><img src="https://cdnv2.ruguoapp.com/FuqGydNBznI4cHSpYTdy3iqqQrKnv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FkgZg32vzstkSdMK20o6ahwjKnU4v3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FoV8xSoH8dSs19Pg15ZCF6rsqZFEv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fp8tKQDwaH3Dmeqlf2tF8M0H3X9mv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FrCwScqLFTPGNr2gkCNdL5wUXwELv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 16 Nov 2023 14:31:06 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/655627aaee2e07f7acc17bb1</guid>
+            <link>https://m.okjike.com/originalPosts/655627aaee2e07f7acc17bb1</link>
             
             
             
