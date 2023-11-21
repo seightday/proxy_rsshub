@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 21 Nov 2023 07:18:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Nov 2023 11:26:08 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[推荐 B 站上的一个合集《AI 论文精读系列》，https://www.bilibili.com/video/BV1H44y1t75x，主讲人是亚马逊资深首席科学家李沐，讲的比较清晰，目前内容还在持...]]></title>
+            <description><![CDATA[推荐 B 站上的一个合集《AI 论文精读系列》，https://www.bilibili.com/video/BV1H44y1t75x，主讲人是亚马逊资深首席科学家李沐，讲的比较清晰，目前内容还在持续更新中。<br><br>当前这个视频聊的是“如何读论文”，我总结下来是这么个「三遍阅读法」：<br><br>1）扫一眼：看标题、摘要、结论，确认研究方向是否与自己的研究方向匹配<br>2）圈重点：理出重要的图、表，圈出相关文献，读不懂，先去读引用的文献<br>3）问问题：论文提出了什么问题？用什么方法来解决这个问题？实验是怎么做的？<br><br>我的思路跟他还有一些差异，除了上面三个步骤，还会将我消化的内容整理好，然后输出给 ChatGPT，让 AI 结合论文来评价我理解的对不对。如果觉得有价值，还会分享到社交媒体，跟大家交流，确实也能收到不少优质的反馈。<br><img src="https://cdnv2.ruguoapp.com/Fr5stRVExRqZz6YR3M1P754SSnSlv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 21 Nov 2023 08:48:40 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/655c6ee834ae48b9be7ec63c</guid>
+            <link>https://m.okjike.com/originalPosts/655c6ee834ae48b9be7ec63c</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[如果你想对站点内容进行爬虫，还有一条最简洁的系统原生命令可以搞定： wget --random-wait -r -p -e robots=off -U mozilla Website_URL ​​​ 加上 -nv 或 --...]]></title>
@@ -82,22 +98,6 @@
             
             
             <author><![CDATA[Barret李靖]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[办公室停电，开发人员大眼瞪小眼😆]]></title>
-            <description><![CDATA[办公室停电，开发人员大眼瞪小眼😆]]></description>
-            <pubDate>Mon, 20 Nov 2023 00:40:07 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/655aaae7552e503d7cae844b</guid>
-            <link>https://m.okjike.com/originalPosts/655aaae7552e503d7cae844b</link>
-            
-            
-            
-            <author><![CDATA[_海色灏茫]]></author>
             
                 
             
