@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 21 Nov 2023 15:44:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Nov 2023 20:10:05 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[OpenAI 开源的 Whisper 大模型，https://github.com/openai/whisper，基本上解决了 ASR （Automatic Speech Recognition）的问题，包括语音识别、翻译、VAD 检测...]]></title>
+            <description><![CDATA[OpenAI 开源的 Whisper 大模型，https://github.com/openai/whisper，基本上解决了 ASR （Automatic Speech Recognition）的问题，包括语音识别、翻译、VAD 检测等，其效果与各大厂收费的产品相比，不相上下，也算是作为一个搅局者加入到了整个市场。<br><br>云厂商识别 1 小时的语音，标价大概在 1~3 元（参考国内云厂商计费），而 Whisper，最大的模型也就是 1.5B 参数（tiny 仅 39M，大小 ~1Gb），本地部署也就消耗下电费。<br><br>关于 Whisper 模型，《Robust Speech Recognition via Large-Scale Weak Supervision》，https://arxiv.org/pdf/2212.04356.pdf，这篇论文给出了详细的分析，从架构设计来看，它是一个标准的 Transformer encoder-decoder 架构，没有增加大的创新，之所以效果如此好，主打一个“大力出奇迹”。<br><br>它从互联网抓取了 68w 小时的数据进行训练，甚至都没有经历微调阶段和增强学习阶段，预训练模型默认好用。之前之所以没人这么干，是因为音视频数据一般都存在版权问题，要抓取 68w 小时如此庞大规模的数据量，很可能会涉及到了版权纠纷，另外，作者在论文也没有透露数据来源。当然，它公开了代码、训练过程和数据等情况，其有效性和价值是不可否认的。<br><br>这篇论文中提到，当前任务处理效果最好的是英语，基本上已经接近人类的水平（词错率 5.8%），但是在韩语、中文上，效果还是要差一些，仍有优化空间。更多详情可以听一听李沐在 B 站的《OpenAI Whisper 精读》，聊得比较有意思，https://www.bilibili.com/video/BV1VG4y1t74x<br><img src="https://cdnv2.ruguoapp.com/FhYIT6goBgXy9iDtAZ1Lz21k8QcYv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 21 Nov 2023 15:41:43 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/655ccfb7f9a492630b37ab5f</guid>
+            <link>https://m.okjike.com/originalPosts/655ccfb7f9a492630b37ab5f</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[推特很流行这种帖子结构，我也学着发一个]]></title>
@@ -94,22 +110,6 @@
             <pubDate>Mon, 20 Nov 2023 10:50:42 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/655b3a0228560066731d66a9</guid>
             <link>https://m.okjike.com/originalPosts/655b3a0228560066731d66a9</link>
-            
-            
-            
-            <author><![CDATA[Barret李靖]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[抖音的拉新也是够生猛的，连楼下的大爷大妈都已经行动起来了。 昨天带孩子出门溜达，看到一个需要付费的小型旋转木马，大叔说，一次20块钱，如果没有下载抖音的...]]></title>
-            <description><![CDATA[抖音的拉新也是够生猛的，连楼下的大爷大妈都已经行动起来了。<br><br>昨天带孩子出门溜达，看到一个需要付费的小型旋转木马，大叔说，一次20块钱，如果没有下载抖音的话，可以免费玩。<br><br>我很好奇，说没装过抖音，于是大叔从口袋里掏出了两个手机，指导我一路下载、注册、配置、扫码激活，遇到异常以后教我切换网络、退出登录、重启应用，再次异常后他更换了新的手机让我重新扫码，最后还是异常，他皱了皱眉头说，“抖音还有一个新人PK活动，只有16块，这个少，不想挣这个钱”，可能因为我是新注册的用户，连用户名都没有设置，一顿操作后，还是失败了，大叔让我明天下楼再尝试下。于是，白嫖了一次大叔的旋转木马🎠<br><br>把 Affiliate Marketing 渗透到大叔大妈人群（拉新28元），连程序员 debug 的精髓都掌握了，做到这个程度，我给抖音跪下了🧎‍♂️]]></description>
-            <pubDate>Mon, 20 Nov 2023 01:06:35 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/655ab11b7c074abd87209618</guid>
-            <link>https://m.okjike.com/originalPosts/655ab11b7c074abd87209618</link>
             
             
             
