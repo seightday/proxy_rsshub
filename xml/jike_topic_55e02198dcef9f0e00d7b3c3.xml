@@ -21,8 +21,40 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 20 Nov 2023 22:59:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Nov 2023 03:10:05 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[如果你想对站点内容进行爬虫，还有一条最简洁的系统原生命令可以搞定： wget --random-wait -r -p -e robots=off -U mozilla Website_URL ​​​ 加上 -nv 或 --...]]></title>
+            <description><![CDATA[如果你想对站点内容进行爬虫，还有一条最简洁的系统原生命令可以搞定：<br><br>wget --random-wait -r -p -e robots=off -U mozilla Website_URL ​​​<br><br>加上 -nv 或 --no-verbose 参数后，输出的内容会变得更加简洁；加上 --accept-regex 参数后，你可以根据正则来过滤你需要的 uri。<br><br>下面是爬取 babel 站点文档的一个演示：<img src="https://cdnv2.ruguoapp.com/lqA3kw4pR0-fylIokmpAvcS2pEmVv3.gif" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 21 Nov 2023 01:39:50 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/655c0a6687a8e03bd135f951</guid>
+            <link>https://m.okjike.com/originalPosts/655c0a6687a8e03bd135f951</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[gpt-crawler，https://github.com/BuilderIO/gpt-crawler，一款可以将网站内容全部爬取下来，并转换成可以作为 GPTs 学习的结构化知识的工具。 例如你想制作一个...]]></title>
+            <description><![CDATA[gpt-crawler，https://github.com/BuilderIO/gpt-crawler，一款可以将网站内容全部爬取下来，并转换成可以作为 GPTs 学习的结构化知识的工具。<br><br>例如你想制作一个数字人分身，不妨把自己在社交媒体或者个人博客的内容先抓取下来，提交给 ChatGPT 作为储备知识。<br><br>顺便推荐下它背后使用的技术框架，crawlee，https://crawlee.dev，它是一个网络爬虫工具，也是一款浏览器自动化工具，在实现上，它提供了 DOM 解析能力、无头浏览器模式、异常状态码处理、队列和存储，以及大量的配置项来增强爬虫。它也是一款开源产品：https://github.com/apify/crawlee<img src="https://cdnv2.ruguoapp.com/FpATiglKql7vm4Hqt6mYhn7y_Dp_v3.gif" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 20 Nov 2023 23:45:04 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/655bef80285600667329a859</guid>
+            <link>https://m.okjike.com/originalPosts/655bef80285600667329a859</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[screenshot-to-code， https://github.com/abi/screenshot-to-code，这个项目演示了，如何使用 GPT-4 Vision 和 DALL-E 3 将设计稿/网页截图转换成源码（HTML + ...]]></title>
@@ -121,22 +153,6 @@
         </item>
         
         <item>
-            <title><![CDATA[最近研究 AI Agents 的论文比较多，看到一个宝藏知识库，LLM-Agent-Paper-List，https://github.com/WooooDyy/LLM-Agent-Paper-List，它对基于大模型的 Agents ...]]></title>
-            <description><![CDATA[最近研究 AI Agents 的论文比较多，看到一个宝藏知识库，LLM-Agent-Paper-List，https://github.com/WooooDyy/LLM-Agent-Paper-List，它对基于大模型的 Agents 进行了系统且全面的调查，列出了一些必读论文。内容主要包含三个部分：<br><br>1）AI Agents 是感知环境、做出决策并采取行动的人造实体，因此详细阐述了这三个组件：大脑、感知和行动，包括知识、内存、推理和规划、可迁移性和泛化等等<br>2）针对 Single-Agent / Multi-Agent / Human-Agent cooperation 列举了系列论文，讨论面向任务和生命周期的部署<br>3）基于 Agents 的行为和个性，从个体性研究到社会性，最具代表的就是对“西部世界”的还原<br><br>大部分论文都是 2023 年 3 月之后发表的，内容比较靠前，看到很多应用也在陆续尝试中，感兴趣的朋友可以花点时间研究一下。其中一小半我都看过，很有帮助。<br><img src="https://cdnv2.ruguoapp.com/FmOLpGiQ1aQcREWvTajmVYUrLNQqv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 16 Nov 2023 01:48:25 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/655574e9834e87e36f5f315f</guid>
-            <link>https://m.okjike.com/originalPosts/655574e9834e87e36f5f315f</link>
-            
-            
-            
-            <author><![CDATA[Barret李靖]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[每过段时间就尝试把 VS Code 外观改得像原生 macOS app 一样。最新一次尝试用了 `drcika.apc-extension` 这个插件，简单无痛 🙏。]]></title>
             <description><![CDATA[每过段时间就尝试把 VS Code 外观改得像原生 macOS app 一样。最新一次尝试用了 `drcika.apc-extension` 这个插件，简单无痛 🙏。<br><img src="https://cdnv2.ruguoapp.com/FgG_bHqyPrA02pmJdQpdH2dSAQtIv3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Thu, 16 Nov 2023 00:10:29 GMT</pubDate>
@@ -162,22 +178,6 @@
             
             
             <author><![CDATA[哥飞]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[GPTs Works 项目开源了👇 仓库代码包含三部分内容： 1. Website GPTs 导航主站，可展示 GPTs 应用，可通过对话的方式检索应用 技术栈：next.js + postgres + v...]]></title>
-            <description><![CDATA[GPTs Works 项目开源了👇<br><br>仓库代码包含三部分内容：<br><br>1. Website<br><br>GPTs 导航主站，可展示 GPTs 应用，可通过对话的方式检索应用<br><br>技术栈：next.js + postgres + vercel<br><br>2. Index System<br><br>向量存储与索引系统，提供 GPTs 语意化检索接口<br><br>技术栈：fastapi + ponyorm + zilliz cloud<br><br>3. Browser Extension<br><br>浏览器插件，可在 ChatGPT Explore 页面侧边栏展示第三方 GPTs 应用<br><br>技术栈：plasmo<br><br>网站地址： https://gpts.works/<br><br>开源地址： https://github.com/all-in-aigc/gpts-works<br><br>欢迎 fork ，感谢 star 🫶<br><img src="https://cdnv2.ruguoapp.com/Fol0U2HCsUocKGIbqCAekYg5wbfFv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 14 Nov 2023 01:28:21 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6552cd3584bcbc4a465e5f97</guid>
-            <link>https://m.okjike.com/originalPosts/6552cd3584bcbc4a465e5f97</link>
-            
-            
-            
-            <author><![CDATA[艾逗笔]]></author>
             
                 
             
