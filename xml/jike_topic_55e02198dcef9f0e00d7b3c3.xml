@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 22 Nov 2023 14:50:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Nov 2023 16:54:02 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -34,6 +34,22 @@
             
             
             <author><![CDATA[rainy.]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Distil-Whisper：让语音识别的速度提高 5.8 倍，参数减少 51%，准确度保持在 99%。 Whisper 在语音识别方面表现卓著，但是它有一个明显的缺点：训练出来的小模型...]]></title>
+            <description><![CDATA[Distil-Whisper：让语音识别的速度提高 5.8 倍，参数减少 51%，准确度保持在 99%。<br><br>Whisper 在语音识别方面表现卓著，但是它有一个明显的缺点：训练出来的小模型支持的语言比较少，而大模型推理速度又很慢。如果你有海量的数据需要处理，或者对实时性要求略高，那使用 Whisper 可能会让你比较头疼。<br><br>你可以使用工程手段来加速推理，例如将语音分片后并发处理然后合并结果，但这里涉及到本地计算资源瓶颈的问题，以及合并分片时容错处理的问题，工程复杂度比较高。<br><br>《Distil-Whisper: Robust Knowledge Distillation via Large-Scale Pseudo Labelling<br>》，https://arxiv.org/abs/2311.00430，这篇文论提到了一个优化方案，它使用 Whisper 的 Large-v2 model 生成了一系列的 soft targets（也就是概率分布），然后复制 Whisper 网络的第一层和最后一层解码器，最后生成了一个更小、更快效果更好的蒸馏模型 Distil-Whisper。论文数据写的是：速度提高了 5.8 倍，参数减少了 51%，准确度保持在 99%。<br><br>这个模型的效果之所以不错，主要还是得益于训练数据的完备，它结合了九个公开可用的语音识别数据集，合并后包含 21170 小时的语音数据，涵盖超过 18260 名说话者和 10 个不同的领域；自从 Whisper 大力出奇迹（它从互联网爬取了 68w 小时的数据，未公开）以后，相信后续语音领域的论文都会配置更庞大的数据集。<br><br>Distil-Whisper 目前开源在 Hugging Face 上，模型地址：https://huggingface.co/distil-whisper/distil-large-v2，同时还提供了一个可在线测试的 Demo：https://huggingface.co/spaces/Xenova/distil-whisper-web，这个 Demo 会把模型下载到本地，然后通过 WebGPU 直接在网页上跑起来，测试了下效果，还是挺不错的。<br><br>目前仅支持英文，如果想让它支持中文，需要使用同样海量的中文语料数据，重新做一次知识蒸馏，但我觉得即便是这样做，效果也不一定好，因为 Whisper 本身对中文、韩语等支持就不太优秀，这个信息可以从 Whisper 的论文中找到数据支撑。<br><br>下面这个视频是 Whisper 和 Distil-Whisper 的对比效果：<br><video src="https://videocdn.jellow.site/Fotel5te95P2TNVwYbh6sf1iKajZ.mp4?sign=91bd64c55a6fb98a28e991304c9616ea&amp;t=655e3932" controls=""></video>]]></description>
+            <pubDate>Wed, 22 Nov 2023 02:01:10 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/655d60e6c185872f7fc87f7c</guid>
+            <link>https://m.okjike.com/originalPosts/655d60e6c185872f7fc87f7c</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
             
                 
             
@@ -162,22 +178,6 @@
             
             
             <author><![CDATA[Barret李靖]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[推荐一个价值几万块钱的开源 GPTs 导航，做得很精致，作者是前腾讯高级工程师@艾逗笔 ，之前在微信做后端开发。 演示网站：https://gpts.works/?gefei 开源代码...]]></title>
-            <description><![CDATA[推荐一个价值几万块钱的开源 GPTs 导航，做得很精致，作者是前腾讯高级工程师@艾逗笔 ，之前在微信做后端开发。<br><br>演示网站：https://gpts.works/?gefei<br>开源代码：https://github.com/all-in-aigc/gpts-works<br><br>这份代码不是静态导航页面，而是动态的，直接从数据库获取数据的，也就是说其实你不仅仅可以用于做 GPTs 导航，你可以用来做通用导航站，替换一下数据，你可以做任何导航。<br><br>最关键的是，这份代码还集成了向量化处理，也就是说用户可以用自然语言语义化来搜索，而不仅仅靠关键词匹配。<br><br>最最关键的是，居然还开源了一个Chrome浏览器插件。<br><br>所以，这是一份如果你要找人开发，至少价值几万块钱的源码。<br><img src="https://cdnv2.ruguoapp.com/Fvf1-zhPXoMIiC6RNsRpmVALP6jQv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 14 Nov 2023 03:13:24 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6552e5d4834e87e36f299bc6</guid>
-            <link>https://m.okjike.com/originalPosts/6552e5d4834e87e36f299bc6</link>
-            
-            
-            
-            <author><![CDATA[哥飞]]></author>
             
                 
             
