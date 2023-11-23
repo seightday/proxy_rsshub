@@ -21,8 +21,40 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 23 Nov 2023 03:16:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Nov 2023 05:33:12 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[《向量数据库》，https://guangzhengli.com/blog/zh/vector-database/，这是一篇值得阅读的长文，它介绍了向量数据库的方方面面，包括 Vector Embeddings、Simil...]]></title>
+            <description><![CDATA[《向量数据库》，https://guangzhengli.com/blog/zh/vector-database/，这是一篇值得阅读的长文，它介绍了向量数据库的方方面面，包括 Vector Embeddings、Similarity Search、Similarity Measurement、Filtering 等等，单纯从实现角度来看，技术复杂度并不高。<br><br>短短几个月，各大数据库厂商也增加了对向量的支持，https://github.com/openai/openai-cookbook/tree/main/examples/vector_databases，可以在这篇 OpenAI 写的文档里找到各自对应的代码参考。<br><br>但随着 LLM 底层能力的提升，如今的 ChatGPT 已经支持了 128k 的上下文，而且在 GPTs 中也默认提供了检索能力，这波操作，针对大部分需求场景来说，可以直接免除对向量数据库的调用了。随之而来的，也是向量数据库风投的“降温”。<br><br>《向量数据库凉了吗？》，https://mp.weixin.qq.com/s/0eBZ4zyX6XjBQO0GqlANnw，这篇文章给出了一个观点：“专用向量数据库陷入了一个死局之中：小需求 OpenAI 亲自下场解决了，标准需求被加装向量扩展的现有成熟数据库抢占，超大需求也几乎没什么实现的门槛。留给专用向量数据库的生态位也许能足以支持一家专用向量数据库内核厂商活下来，但想做成一个产业是不可能了。”，感兴趣的也可以读一读。<br><img src="https://cdnv2.ruguoapp.com/Fn9liHBMQPF3N4FBIWh-OTvXS-XTv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 23 Nov 2023 03:38:12 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/655ec924c0f0b2f92d45308f</guid>
+            <link>https://m.okjike.com/originalPosts/655ec924c0f0b2f92d45308f</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[看到一个超炫酷的量子纠缠实现效果，其原理是通过 window.getScreenDetails() 获取窗口详细位置，然后通过 LocalStorage 共享窗口信息来实现的，这个创意太赞了...]]></title>
+            <description><![CDATA[看到一个超炫酷的量子纠缠实现效果，其原理是通过 window.getScreenDetails() 获取窗口详细位置，然后通过 LocalStorage 共享窗口信息来实现的，这个创意太赞了。作者是 x.com/_nonfigurativ_<br><video src="https://videocdn.jellow.site/lg4CjeIBHW5cIJqCaWswzkDA2d7w.mp4?sign=21189fc0fb979b8a42ed4b330b5bdce3&amp;t=655ee96f" controls=""></video>]]></description>
+            <pubDate>Thu, 23 Nov 2023 02:44:01 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/655ebc71f9a492630b5db374</guid>
+            <link>https://m.okjike.com/originalPosts/655ebc71f9a492630b5db374</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[《如何阅读一篇论文》，https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf，看到 Srinivasan Keshav 教授在很多年前就写了一篇文献，给研究人...]]></title>
@@ -50,22 +82,6 @@
             
             
             <author><![CDATA[哥飞]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[刚知道 ... mac上嘎好用的API测试工具，比PostMan好用很多的Paw，被RapidAPI收购了 全免费了 ... 资本家做慈善了吗 ...之前要50多刀]]></title>
-            <description><![CDATA[刚知道 ...<br>mac上嘎好用的API测试工具，比PostMan好用很多的Paw，被RapidAPI收购了<br>全免费了 ...<br>资本家做慈善了吗 ...之前要50多刀<br><img src="https://cdnv2.ruguoapp.com/FrWs_gH4JgJkaqdtYhwkayUQFvBAv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 22 Nov 2023 02:54:03 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/655d6d4b28560066734a1065</guid>
-            <link>https://m.okjike.com/originalPosts/655d6d4b28560066734a1065</link>
-            
-            
-            
-            <author><![CDATA[rainy.]]></author>
             
                 
             
@@ -142,22 +158,6 @@
             <pubDate>Mon, 20 Nov 2023 23:45:04 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/655bef80285600667329a859</guid>
             <link>https://m.okjike.com/originalPosts/655bef80285600667329a859</link>
-            
-            
-            
-            <author><![CDATA[Barret李靖]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[screenshot-to-code， https://github.com/abi/screenshot-to-code，这个项目演示了，如何使用 GPT-4 Vision 和 DALL-E 3 将设计稿/网页截图转换成源码（HTML + ...]]></title>
-            <description><![CDATA[screenshot-to-code， https://github.com/abi/screenshot-to-code，这个项目演示了，如何使用 GPT-4 Vision 和 DALL-E 3 将设计稿/网页截图转换成源码（HTML + Tailwind CSS），还原度非常高。<br><br>本来以为项目做了很多工程化的工作来优化生成结果，扒了下源码，没想到 Prompt 如此简单（如图二）。也就是说，使用 ChatGPT 已经可以完全胜任切图工作了，效率提升 1000x。<br><br>为了让大家可以直接玩耍，作者还开发了一个网页，填写自己的 OpenAI Key，就可以体验“截图转代码”的整个过程了：https://picoapps.xyz/free-tools/screenshot-to-code<br><img src="https://cdnv2.ruguoapp.com/FqvUcm8ag_8gxhK5K5cF9c-tXrYYv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fpl10SDOVWWaOcd4O-JTtw0JopMUv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 20 Nov 2023 10:50:42 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/655b3a0228560066731d66a9</guid>
-            <link>https://m.okjike.com/originalPosts/655b3a0228560066731d66a9</link>
             
             
             

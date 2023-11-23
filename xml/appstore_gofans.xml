@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[最新限免 / 促销应用]]></title>
         <link>https://gofans.cn/</link>
-        <atom:link href="http://rsshub.app/appstore/gofans" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub.app/appstore/gofans" rel="self" type="application/rss+xml" />
         <description><![CDATA[GoFans：最新限免 / 促销应用 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -15,8 +15,37 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Thu, 23 Nov 2023 01:51:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Nov 2023 08:00:22 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[「降价」-「iOS」歌曲音量调节器Audio Normalizer]]></title>
+            <description><![CDATA[<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/28/49/5f/28495f47-cbeb-d61b-fa1b-8b23f91c9e2a/Icon.png/256x256bb.png" referrerpolicy="no-referrer">
+          <br>
+          原价：¥38.00 -&gt; 现价：¥28.00
+          <br>
+          平台：macOS
+          <br>
+          Audio Normalizer 是一款简单易用的音量调节软件，智能统一音量大小，一键批量调整所有音乐或音频文件为大小一致的音量，避免了忽高忽低的声音效果给听众带来不好的体验。常见的音频格式都支持，如MP3, M4A, WAV, AAC, FLAC, WMA, AIFF, AMR, AC3, MP2, OGG, M4R, AU. 
+
+功能：
+ 1 调整单一的音频文件的音量。
+ 2 统一多首音乐文件的音量。
+3直接无损调节MP3、M4A、WAV文件的音量。
+4支持众多流行音频格式：MP3, M4A, WAV, AAC, FLAC, WMA, AIFF, AMR, AC3, MP2, OGG, M
+        ]]></description>
+            <pubDate>Thu, 23 Nov 2023 01:58:57 GMT</pubDate>
+            <guid isPermaLink="false">https://gofans.cn/app/a3a7feb9-1914-4b1a-9709-9b086c030efc</guid>
+            <link>https://gofans.cn/app/a3a7feb9-1914-4b1a-9709-9b086c030efc</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[「免费」-「iOS」超级艺术家DeepStyle]]></title>
@@ -525,35 +554,6 @@ Features
             <pubDate>Wed, 22 Nov 2023 15:18:25 GMT</pubDate>
             <guid isPermaLink="false">https://gofans.cn/app/eca311b5-4443-4f87-b7cd-5b6d5ffcae59</guid>
             <link>https://gofans.cn/app/eca311b5-4443-4f87-b7cd-5b6d5ffcae59</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[「降价」-「iOS」Tap Forms Organizer 5 Database]]></title>
-            <description><![CDATA[<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/09/51/65/095165dd-36b9-c531-9d06-68dc896cabfe/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/256x256bb.png" referrerpolicy="no-referrer">
-          <br>
-          原价：¥328.00 -&gt; 现价：¥198.00
-          <br>
-          平台：macOS
-          <br>
-          Tap Forms 5 是生活中分散琐事的数字档案柜。
-
-账户、食谱、支出、存货 —— 生活中充满了那些我们不想忘记或丢失的东西。Tap Forms 5帮助你把各种事物组织在一个地方 —— 安全、可搜索，可以在你的Mac（iOS + Apple Watch应用单独出售） 上访问。
-
-一个应用程序如何组织一切？因为你不仅可以使用和自定义内置的 33 个模板，还可以输入任何信息来创建自己的“表格”，即使这些信息包含图片、涂鸦、录音、计算、文件附件、评分、甚至是指向其他表格的链接。这使得它几乎像建立你自己自定义的组织应用一样。
-
-+++ 《Mac Format》杂志（2014年3月）- 比较Tap 
-        ]]></description>
-            <pubDate>Wed, 22 Nov 2023 15:18:22 GMT</pubDate>
-            <guid isPermaLink="false">https://gofans.cn/app/157b5b12-4e37-462a-b489-899aa644ac5d</guid>
-            <link>https://gofans.cn/app/157b5b12-4e37-462a-b489-899aa644ac5d</link>
             
             
             
