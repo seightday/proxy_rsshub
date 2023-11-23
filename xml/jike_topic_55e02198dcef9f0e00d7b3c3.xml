@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 23 Nov 2023 05:33:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Nov 2023 12:02:07 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[推荐一个超实用的网站，Papers with code，https://paperswithcode.com，它是一个论文和对应工程实现（含代码、数据集、测试方法等）的索引工具，下次你看到别人...]]></title>
+            <description><![CDATA[推荐一个超实用的网站，Papers with code，https://paperswithcode.com，它是一个论文和对应工程实现（含代码、数据集、测试方法等）的索引工具，下次你看到别人推荐优质论文时，可以直接用它去找代码实现。<br><br>有些论文价值很大，会被多次实现（如图二），但工程质量有高有低，你可以在这个网站详情页看到不同实现的 star 数量，择优学习；详情页还包含了数据集、测试方法、关联论文等等，你甚至还可以通过数据集去反查关联论文，简直是研究神器。<br><br>之前我都是去 Google 检索或者去 Aminer 上查看，有了这个工具就方便多了。<br><img src="https://cdnv2.ruguoapp.com/Fm_sY8ms05u4KNC_p1QbP-uvIxACv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FuaV0qWVAJAf7Jp7v66gbhyYXgphv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 23 Nov 2023 08:27:26 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/655f0cee5682fbc62e976a40</guid>
+            <link>https://m.okjike.com/originalPosts/655f0cee5682fbc62e976a40</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[《向量数据库》，https://guangzhengli.com/blog/zh/vector-database/，这是一篇值得阅读的长文，它介绍了向量数据库的方方面面，包括 Vector Embeddings、Simil...]]></title>
@@ -42,7 +58,7 @@
         
         <item>
             <title><![CDATA[看到一个超炫酷的量子纠缠实现效果，其原理是通过 window.getScreenDetails() 获取窗口详细位置，然后通过 LocalStorage 共享窗口信息来实现的，这个创意太赞了...]]></title>
-            <description><![CDATA[看到一个超炫酷的量子纠缠实现效果，其原理是通过 window.getScreenDetails() 获取窗口详细位置，然后通过 LocalStorage 共享窗口信息来实现的，这个创意太赞了。作者是 x.com/_nonfigurativ_<br><video src="https://videocdn.jellow.site/lg4CjeIBHW5cIJqCaWswzkDA2d7w.mp4?sign=21189fc0fb979b8a42ed4b330b5bdce3&amp;t=655ee96f" controls=""></video>]]></description>
+            <description><![CDATA[看到一个超炫酷的量子纠缠实现效果，其原理是通过 window.getScreenDetails() 获取窗口详细位置，然后通过 LocalStorage 共享窗口信息来实现的，这个创意太赞了。作者是 x.com/_nonfigurativ_<br><video src="https://videocdn.jellow.site/lg4CjeIBHW5cIJqCaWswzkDA2d7w.mp4?sign=8d9482b15bea848576ea43961895a0e7&amp;t=655f4576" controls=""></video>]]></description>
             <pubDate>Thu, 23 Nov 2023 02:44:01 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/655ebc71f9a492630b5db374</guid>
             <link>https://m.okjike.com/originalPosts/655ebc71f9a492630b5db374</link>
@@ -126,22 +142,6 @@
             <pubDate>Tue, 21 Nov 2023 08:48:40 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/655c6ee834ae48b9be7ec63c</guid>
             <link>https://m.okjike.com/originalPosts/655c6ee834ae48b9be7ec63c</link>
-            
-            
-            
-            <author><![CDATA[Barret李靖]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[如果你想对站点内容进行爬虫，还有一条最简洁的系统原生命令可以搞定： wget --random-wait -r -p -e robots=off -U mozilla Website_URL ​​​ 加上 -nv 或 --...]]></title>
-            <description><![CDATA[如果你想对站点内容进行爬虫，还有一条最简洁的系统原生命令可以搞定：<br><br>wget --random-wait -r -p -e robots=off -U mozilla Website_URL ​​​<br><br>加上 -nv 或 --no-verbose 参数后，输出的内容会变得更加简洁；加上 --accept-regex 参数后，你可以根据正则来过滤你需要的 uri。<br><br>下面是爬取 babel 站点文档的一个演示：<img src="https://cdnv2.ruguoapp.com/lqA3kw4pR0-fylIokmpAvcS2pEmVv3.gif" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 21 Nov 2023 01:39:50 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/655c0a6687a8e03bd135f951</guid>
-            <link>https://m.okjike.com/originalPosts/655c0a6687a8e03bd135f951</link>
             
             
             
