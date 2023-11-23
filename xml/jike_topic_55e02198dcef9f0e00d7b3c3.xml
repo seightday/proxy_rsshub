@@ -21,8 +21,40 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 22 Nov 2023 23:05:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Nov 2023 03:16:13 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[《如何阅读一篇论文》，https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf，看到 Srinivasan Keshav 教授在很多年前就写了一篇文献，给研究人...]]></title>
+            <description><![CDATA[《如何阅读一篇论文》，https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf，看到 Srinivasan Keshav 教授在很多年前就写了一篇文献，给研究人员和论文审稿人提出了一些建议，也是“三遍法”，更为系统和详细：<br><br>1）5~10min，鸟瞰纸张，回答五个问题：类别/上下文/正确性/贡献点/明晰性<br><br>2）最多 1h，看图表和参考文献，确认准确性，事实依据是否充分；善用划词评论，跟论文作者对话<br><br>3）初学者 5h，老手 1h，假设自己是创作者，以同样的命题重新实现论文，对比本篇论文的创新性，审视细节、挑战内容<br><br>也有人说还有第 0 步，那就是上社交媒体看看，有多少人赞同/不赞同这篇论文🐶<br><img src="https://cdnv2.ruguoapp.com/FiobHpVZoscUam70TjSfoup4eIsuv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 23 Nov 2023 01:58:44 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/655eb1d4f9a492630b5c7da2</guid>
+            <link>https://m.okjike.com/originalPosts/655eb1d4f9a492630b5c7da2</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[@Airyland 真的格局很大，把 https://GPTsHunter.com 的 GPTs 数据共享出来，于是出现了 https://GPTsToday.com https://GPTs.works 等优秀的网站。]]></title>
+            <description><![CDATA[@Airyland 真的格局很大，把 https://GPTsHunter.com 的 GPTs 数据共享出来，于是出现了 https://GPTsToday.com https://GPTs.works 等优秀的网站。<br><img src="https://cdnv2.ruguoapp.com/FuMzcfb0f3TCX9LhkGdK2P22QZh6v3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 23 Nov 2023 00:33:23 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/655e9dd3d027b7ac8c5bb06f</guid>
+            <link>https://m.okjike.com/originalPosts/655e9dd3d027b7ac8c5bb06f</link>
+            
+            
+            
+            <author><![CDATA[哥飞]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[刚知道 ... mac上嘎好用的API测试工具，比PostMan好用很多的Paw，被RapidAPI收购了 全免费了 ... 资本家做慈善了吗 ...之前要50多刀]]></title>
@@ -34,22 +66,6 @@
             
             
             <author><![CDATA[rainy.]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Distil-Whisper：让语音识别的速度提高 5.8 倍，参数减少 51%，准确度保持在 99%。 Whisper 在语音识别方面表现卓著，但是它有一个明显的缺点：训练出来的小模型...]]></title>
-            <description><![CDATA[Distil-Whisper：让语音识别的速度提高 5.8 倍，参数减少 51%，准确度保持在 99%。<br><br>Whisper 在语音识别方面表现卓著，但是它有一个明显的缺点：训练出来的小模型支持的语言比较少，而大模型推理速度又很慢。如果你有海量的数据需要处理，或者对实时性要求略高，那使用 Whisper 可能会让你比较头疼。<br><br>你可以使用工程手段来加速推理，例如将语音分片后并发处理然后合并结果，但这里涉及到本地计算资源瓶颈的问题，以及合并分片时容错处理的问题，工程复杂度比较高。<br><br>《Distil-Whisper: Robust Knowledge Distillation via Large-Scale Pseudo Labelling<br>》，https://arxiv.org/abs/2311.00430，这篇文论提到了一个优化方案，它使用 Whisper 的 Large-v2 model 生成了一系列的 soft targets（也就是概率分布），然后复制 Whisper 网络的第一层和最后一层解码器，最后生成了一个更小、更快效果更好的蒸馏模型 Distil-Whisper。论文数据写的是：速度提高了 5.8 倍，参数减少了 51%，准确度保持在 99%。<br><br>这个模型的效果之所以不错，主要还是得益于训练数据的完备，它结合了九个公开可用的语音识别数据集，合并后包含 21170 小时的语音数据，涵盖超过 18260 名说话者和 10 个不同的领域；自从 Whisper 大力出奇迹（它从互联网爬取了 68w 小时的数据，未公开）以后，相信后续语音领域的论文都会配置更庞大的数据集。<br><br>Distil-Whisper 目前开源在 Hugging Face 上，模型地址：https://huggingface.co/distil-whisper/distil-large-v2，同时还提供了一个可在线测试的 Demo：https://huggingface.co/spaces/Xenova/distil-whisper-web，这个 Demo 会把模型下载到本地，然后通过 WebGPU 直接在网页上跑起来，测试了下效果，还是挺不错的。<br><br>目前仅支持英文，如果想让它支持中文，需要使用同样海量的中文语料数据，重新做一次知识蒸馏，但我觉得即便是这样做，效果也不一定好，因为 Whisper 本身对中文、韩语等支持就不太优秀，这个信息可以从 Whisper 的论文中找到数据支撑。<br><br>下面这个视频是 Whisper 和 Distil-Whisper 的对比效果：<br><video src="https://videocdn.jellow.site/Fotel5te95P2TNVwYbh6sf1iKajZ.mp4?sign=9beb8a2cf238c932b2950a8b48434985&amp;t=655e8f10" controls=""></video>]]></description>
-            <pubDate>Wed, 22 Nov 2023 02:01:10 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/655d60e6c185872f7fc87f7c</guid>
-            <link>https://m.okjike.com/originalPosts/655d60e6c185872f7fc87f7c</link>
-            
-            
-            
-            <author><![CDATA[Barret李靖]]></author>
             
                 
             
@@ -158,22 +174,6 @@
             <pubDate>Thu, 16 Nov 2023 14:31:06 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/655627aaee2e07f7acc17bb1</guid>
             <link>https://m.okjike.com/originalPosts/655627aaee2e07f7acc17bb1</link>
-            
-            
-            
-            <author><![CDATA[Barret李靖]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[多次看到有人推荐，可以跳过付费墙直接免费查看各大网站内容的 Chrome 插件，把源码 down 下来研究了下，原来核心代码只有一句： h++ps://webcache.googleuserco...]]></title>
-            <description><![CDATA[多次看到有人推荐，可以跳过付费墙直接免费查看各大网站内容的 Chrome 插件，把源码 down 下来研究了下，原来核心代码只有一句：<br><br>h++ps://webcache.googleusercontent.com/search?q=cache:${window.location.href}<br><br>这些付费内容平台为了可以获得更多的流量，针对搜索引擎的爬虫是输出全文的，因此只需要通过 Google Cache Page 打开对应的网页，或者通过 Achieve 网站打开，就可以看到全文了。<br><img src="https://cdnv2.ruguoapp.com/FsxIGqJLbZ25AIs3UzPLgJ0ETJ2fv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 16 Nov 2023 02:30:16 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65557eb8f59114ac23fcea1f</guid>
-            <link>https://m.okjike.com/originalPosts/65557eb8f59114ac23fcea1f</link>
             
             
             
