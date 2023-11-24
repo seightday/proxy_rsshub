@@ -21,15 +21,31 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Fri, 24 Nov 2023 11:20:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Nov 2023 15:38:29 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
-            <title><![CDATA[浏览器快要被玩坏了，哈哈哈哈，https://github.com/chigozienri/browser-bounce/]]></title>
-            <description><![CDATA[浏览器快要被玩坏了，哈哈哈哈，https://github.com/chigozienri/browser-bounce/<br><video src="https://videocdn.jellow.site/Fl_JkVARFvcy4Mx8Nztk_canHEAv.mp4?sign=98699597a75baa02bdea2c5da6f171cb&amp;t=65608d73" controls=""></video>]]></description>
-            <pubDate>Fri, 24 Nov 2023 01:46:27 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65600073ee2e07f7ac887e6e</guid>
-            <link>https://m.okjike.com/originalPosts/65600073ee2e07f7ac887e6e</link>
+            <title><![CDATA[@加元.Jiayuan 做的 https://devv.ai/?gefei ，我用了一下，效果很好，是程序员会需要的，有用的产品。 如搜索一个函数，会直接给出函数的介绍、语法、使用示例...]]></title>
+            <description><![CDATA[@加元.Jiayuan 做的 https://devv.ai/?gefei ，我用了一下，效果很好，是程序员会需要的，有用的产品。<br>如搜索一个函数，会直接给出函数的介绍、语法、使用示例。<br><img src="https://cdnv2.ruguoapp.com/FqkzKfVbtm9uJK70iYFn0_vy1Go_v3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 24 Nov 2023 11:14:22 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6560858eee2e07f7ac960b25</guid>
+            <link>https://m.okjike.com/originalPosts/6560858eee2e07f7ac960b25</link>
+            
+            
+            
+            <author><![CDATA[哥飞]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[《揭秘 VPN 背后的黑灰产组织》，https://paper.seebug.org/3062/，这篇文章介绍了如何通过网络空间“行为测绘”和”交叉测绘”锁定攻击者身份和网络分布，进而...]]></title>
+            <description><![CDATA[《揭秘 VPN 背后的黑灰产组织》，https://paper.seebug.org/3062/，这篇文章介绍了如何通过网络空间“行为测绘”和”交叉测绘”锁定攻击者身份和网络分布，进而分析攻击对象和攻击手法，找到了活跃在中国大陆的两个黑客组织。文章中提到几个有趣的点：<br><br>1）攻击者比较喜欢控制家用路由器和摄像头，存在攻击行为的 16582 个 IP 节点中，一小半都属于这类<br>2）控制了家用设备后，会进行“网络资产”拓展，通过端口扫描、漏洞识别、后门注入等一系列方式拓展更多受控终端<br>3）攻击行为集中在网络信息收集（爬虫、SQL 注入等）和恶意扫描，恶意扫描的目的是拓展资产；而信息收集，大概率是为了出售数据，以此牟利<br>4）整个空间测绘的关键围绕 IP 危险性定级、证书收敛（识别核心攻击源）、攻击手法识别（攻击意图分析）等操作，经验可复用性还是比较强的<br><br>传统的网络攻击行为分析，依赖恶意样本和攻击现场，因此会部署超大量的网络蜜罐抓取特征，这篇文章算是提出了一个更开阔的思路，使用空间测绘从网络分布上定位源头，不过这比较依赖丰富的样本库，例如需要对海量的网络 IP 做标记、对各类攻击手法有深入了解，并且要求掌握攻击流量。<br><br>我特别好奇攻击流量是如何掌握的，难道是在 BGP 节点上部署了流量侦测模块？<br><img src="https://cdnv2.ruguoapp.com/FmeFEujAsu3hPqu0DEk2LRfjHDAEv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 24 Nov 2023 07:48:43 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6560555b87a8e03bd192731d</guid>
+            <link>https://m.okjike.com/originalPosts/6560555b87a8e03bd192731d</link>
             
             
             
@@ -74,7 +90,7 @@
         
         <item>
             <title><![CDATA[看到一个超炫酷的量子纠缠实现效果，其原理是通过 window.getScreenDetails() 获取窗口详细位置，然后通过 LocalStorage 共享窗口信息来实现的，这个创意太赞了...]]></title>
-            <description><![CDATA[看到一个超炫酷的量子纠缠实现效果，其原理是通过 window.getScreenDetails() 获取窗口详细位置，然后通过 LocalStorage 共享窗口信息来实现的，这个创意太赞了。作者是 x.com/_nonfigurativ_<br><video src="https://videocdn.jellow.site/lg4CjeIBHW5cIJqCaWswzkDA2d7w.mp4?sign=0cbbad1ec149a7608e54d981aec5607e&amp;t=65608ce4" controls=""></video>]]></description>
+            <description><![CDATA[看到一个超炫酷的量子纠缠实现效果，其原理是通过 window.getScreenDetails() 获取窗口详细位置，然后通过 LocalStorage 共享窗口信息来实现的，这个创意太赞了。作者是 x.com/_nonfigurativ_<br><video src="https://videocdn.jellow.site/lg4CjeIBHW5cIJqCaWswzkDA2d7w.mp4?sign=5698df3f158c24c999a69318b0f03f3b&amp;t=6560c972" controls=""></video>]]></description>
             <pubDate>Thu, 23 Nov 2023 02:44:01 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/655ebc71f9a492630b5db374</guid>
             <link>https://m.okjike.com/originalPosts/655ebc71f9a492630b5db374</link>
@@ -158,22 +174,6 @@
             <pubDate>Mon, 20 Nov 2023 23:45:04 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/655bef80285600667329a859</guid>
             <link>https://m.okjike.com/originalPosts/655bef80285600667329a859</link>
-            
-            
-            
-            <author><![CDATA[Barret李靖]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[推荐一个检索和学习论文的强大工具，Aminer，https://www.aminer.cn，它是由清华大学计算机系研发的学术信息挖掘平台，可以很大程度帮助我们降低检索和学习论文...]]></title>
-            <description><![CDATA[推荐一个检索和学习论文的强大工具，Aminer，https://www.aminer.cn，它是由清华大学计算机系研发的学术信息挖掘平台，可以很大程度帮助我们降低检索和学习论文的门槛，十分有用。<br><br>如果你有一个明确的研究方向，可以在它的「必读论文」模块中找到对应的优质论文集（如图一），这些内容都是由 AI 初筛 + 学者复核后呈现出来的，可以为自己省去海量的信息挖掘时间。<br><br>你也可以使用它的检索工具，根据具体的关键词找到最新、最热或者最高引用的论文（如图二），在左侧可以根据不同的期刊、顶会对查询结果进行二次过滤；如果 SCI / CCF 的分类不能满足你的需求，你还可以下载一个叫做 easyScholar 的 Chrome 插件，它可以在搜索结果中增加更多的期刊分级（如图三），分级信息可以让我们一眼看出论文的含金量。<br><br>Google Scholar 是数据更新效率最高的学术信息挖掘工具，如果你对实时性要求比较高，可以结合 Google 学术工具一起看，也可以直接去各个顶会的官网查看最新 accept paper，非专业研究一般也用不上。<br><br>Aminer 还提供了一个 ChatBot 工具（如图四），支持全库对话和单篇对话，全库精选了 600w+ 的优质论文，单篇对话支持在平台论文详情页直接发起，也支持上传 PDF 后跟它交流，背后应该是对接了一个 LLM，理解能力还不错。<br><br>另外，关于 AI 的研究，还推荐订阅 Hugging Face 的 Daily Papers，https://huggingface.co/papers，它也是通过 AI + 人工复核的方式，结合平台热度给用户每日推荐最热/最佳内容，你可以注册一个账号，订阅到自己的邮箱。<br><img src="https://cdnv2.ruguoapp.com/FuqGydNBznI4cHSpYTdy3iqqQrKnv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FkgZg32vzstkSdMK20o6ahwjKnU4v3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FoV8xSoH8dSs19Pg15ZCF6rsqZFEv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fp8tKQDwaH3Dmeqlf2tF8M0H3X9mv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FrCwScqLFTPGNr2gkCNdL5wUXwELv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 16 Nov 2023 14:31:06 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/655627aaee2e07f7acc17bb1</guid>
-            <link>https://m.okjike.com/originalPosts/655627aaee2e07f7acc17bb1</link>
             
             
             
