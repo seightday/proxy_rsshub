@@ -21,19 +21,35 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Fri, 24 Nov 2023 21:44:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Nov 2023 04:06:35 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
-            <title><![CDATA[@加元.Jiayuan 做的 https://devv.ai/?gefei ，我用了一下，效果很好，是程序员会需要的，有用的产品。 如搜索一个函数，会直接给出函数的介绍、语法、使用示例...]]></title>
-            <description><![CDATA[@加元.Jiayuan 做的 https://devv.ai/?gefei ，我用了一下，效果很好，是程序员会需要的，有用的产品。<br>如搜索一个函数，会直接给出函数的介绍、语法、使用示例。<br><img src="https://cdnv2.ruguoapp.com/FqkzKfVbtm9uJK70iYFn0_vy1Go_v3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 24 Nov 2023 11:14:22 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6560858eee2e07f7ac960b25</guid>
-            <link>https://m.okjike.com/originalPosts/6560858eee2e07f7ac960b25</link>
+            <title><![CDATA[花一天时间写的总结，致敬过往的职业经历。🫡]]></title>
+            <description><![CDATA[<img src="https://mmbiz.qpic.cn/mmbiz_jpg/RwxY4xJSwr76flvoBFibRQuCbNR2xXyFs2icCqEwf9DGtnsQnwXh7NBuHNzW6AuXTgrib4f39NBNJ4p9gWa8NX01w/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>                    <a href="https://mp.weixin.qq.com/s/EDsQ7SwaMUAQdVfuWSsfiw">1024，我从腾讯裸辞了</a><br>                <br>花一天时间写的总结，致敬过往的职业经历。🫡]]></description>
+            <pubDate>Fri, 24 Nov 2023 23:10:43 GMT</pubDate>
+            <guid isPermaLink="false">https://mp.weixin.qq.com/s/EDsQ7SwaMUAQdVfuWSsfiw</guid>
+            <link>https://mp.weixin.qq.com/s/EDsQ7SwaMUAQdVfuWSsfiw</link>
             
             
             
-            <author><![CDATA[哥飞]]></author>
+            <author><![CDATA[艾逗笔]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[十多年前刚接触 Web 开发时，能做的事情比较简单，唯一的网络交互工具只有 XMLHttpRequest，当时互联网的代表作是 Gmail 网页版，把 AJAX 用到了巅峰。 现在可以...]]></title>
+            <description><![CDATA[十多年前刚接触 Web 开发时，能做的事情比较简单，唯一的网络交互工具只有 XMLHttpRequest，当时互联网的代表作是 Gmail 网页版，把 AJAX 用到了巅峰。<br><br>现在可以做的事情就比较多了，Websocket 解决了实时双向通信的问题，使得浏览器和服务器之间的通信更加高效；WebTransport 允许使用 HTTP/3 协议进行交互，提供了更好的性能和安全性，尤其是在高延迟和不可靠的网络环境下，表现也很出色；WebRTC 使得浏览器之间可以进行点对点的音视频通信，而且无需通过服务器进行中转，这让实时通信变得更加高效和低延迟。<br><br>而最新的提案 Direct Sockets 终于也被搬到了台面上，https://github.com/WICG/direct-sockets/blob/main/docs/explainer.md，它可以创建  TCP/UDP 套接字，直接拼齐了 Web 协议的最后一块版图，未来浏览器即服务器😅<br><br>当然，考虑到一些安全原因，目前它只能被用在 Isolated Web Apps 中，IWA 不像网页，并非直接托管在实时的 Web 服务器上，而是以 Web Bundle 的形式被分发到浏览器，需要经过开发人员签名才能被分发和使用。关于 IWA，这里有一个演示：https://github.com/GoogleChromeLabs/telnet-client<br><br>浏览器未来可以做的事情将越来越多，结合 WebAssembly 跨语言编译，以后任意语言的程序员都可以在 Web 上分发自己的 IWA 程序了。<br><img src="https://cdnv2.ruguoapp.com/FttgLeT-X-cPAAdkqOk58L-bEoAVv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fq34FC6NbQJTT8Qfw0QUaFGUIS3Jv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 24 Nov 2023 13:58:11 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6560abf3ee2e07f7ac996ee9</guid>
+            <link>https://m.okjike.com/originalPosts/6560abf3ee2e07f7ac996ee9</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
             
                 
             
@@ -90,7 +106,7 @@
         
         <item>
             <title><![CDATA[看到一个超炫酷的量子纠缠实现效果，其原理是通过 window.getScreenDetails() 获取窗口详细位置，然后通过 LocalStorage 共享窗口信息来实现的，这个创意太赞了...]]></title>
-            <description><![CDATA[看到一个超炫酷的量子纠缠实现效果，其原理是通过 window.getScreenDetails() 获取窗口详细位置，然后通过 LocalStorage 共享窗口信息来实现的，这个创意太赞了。作者是 x.com/_nonfigurativ_<br><video src="https://videocdn.jellow.site/lg4CjeIBHW5cIJqCaWswzkDA2d7w.mp4?sign=8f957493351192d2a0ad442ff1664179&amp;t=65611f61" controls=""></video>]]></description>
+            <description><![CDATA[看到一个超炫酷的量子纠缠实现效果，其原理是通过 window.getScreenDetails() 获取窗口详细位置，然后通过 LocalStorage 共享窗口信息来实现的，这个创意太赞了。作者是 x.com/_nonfigurativ_<br><video src="https://videocdn.jellow.site/lg4CjeIBHW5cIJqCaWswzkDA2d7w.mp4?sign=4a641ba10490c49b5b14d212a4dde8fe&amp;t=65617854" controls=""></video>]]></description>
             <pubDate>Thu, 23 Nov 2023 02:44:01 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/655ebc71f9a492630b5db374</guid>
             <link>https://m.okjike.com/originalPosts/655ebc71f9a492630b5db374</link>
@@ -130,22 +146,6 @@
             
             
             <author><![CDATA[哥飞]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[OpenAI 开源的 Whisper 大模型，https://github.com/openai/whisper，基本上解决了 ASR （Automatic Speech Recognition）的问题，包括语音识别、翻译、VAD 检测...]]></title>
-            <description><![CDATA[OpenAI 开源的 Whisper 大模型，https://github.com/openai/whisper，基本上解决了 ASR （Automatic Speech Recognition）的问题，包括语音识别、翻译、VAD 检测等，其效果与各大厂收费的产品相比，不相上下，也算是作为一个搅局者加入到了整个市场。<br><br>云厂商识别 1 小时的语音，标价大概在 1~3 元（参考国内云厂商计费），而 Whisper，最大的模型也就是 1.5B 参数（tiny 仅 39M，大小 ~1Gb），本地部署也就消耗下电费。<br><br>关于 Whisper 模型，《Robust Speech Recognition via Large-Scale Weak Supervision》，https://arxiv.org/pdf/2212.04356.pdf，这篇论文给出了详细的分析，从架构设计来看，它是一个标准的 Transformer encoder-decoder 架构，没有增加大的创新，之所以效果如此好，主打一个“大力出奇迹”。<br><br>它从互联网抓取了 68w 小时的数据进行训练，甚至都没有经历微调阶段和增强学习阶段，预训练模型默认好用。之前之所以没人这么干，是因为音视频数据一般都存在版权问题，要抓取 68w 小时如此庞大规模的数据量，很可能会涉及到了版权纠纷，另外，作者在论文也没有透露数据来源。当然，它公开了代码、训练过程和数据等情况，其有效性和价值是不可否认的。<br><br>这篇论文中提到，当前任务处理效果最好的是英语，基本上已经接近人类的水平（词错率 5.8%），但是在韩语、中文上，效果还是要差一些，仍有优化空间。更多详情可以听一听李沐在 B 站的《OpenAI Whisper 精读》，聊得比较有意思，https://www.bilibili.com/video/BV1VG4y1t74x<br><img src="https://cdnv2.ruguoapp.com/FhYIT6goBgXy9iDtAZ1Lz21k8QcYv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 21 Nov 2023 15:41:43 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/655ccfb7f9a492630b37ab5f</guid>
-            <link>https://m.okjike.com/originalPosts/655ccfb7f9a492630b37ab5f</link>
-            
-            
-            
-            <author><![CDATA[Barret李靖]]></author>
             
                 
             
