@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[分享白菜达人的微博]]></title>
         <link>https://weibo.com/5609361977/</link>
-        <atom:link href="https://rsshub.rssforever.com/weibo/user/5609361977" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub.app/weibo/user/5609361977" rel="self" type="application/rss+xml" />
         <description><![CDATA[跟着博主抢红包，薅羊毛！撸免单！买超优惠商品！ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -16,13 +16,13 @@
         <language>zh-cn</language>
         
         <image>
-            <url>https://tvax4.sinaimg.cn/crop.0.0.1080.1080.180/0067Cjihly8hjrnhq4fb1j30u00u1gnk.jpg?KID=imgbed,tva&#38;Expires=1701026103&#38;ssig=s1Bv%2FqUEcN</url>
+            <url>https://tvax4.sinaimg.cn/crop.0.0.1080.1080.180/0067Cjihly8hjrnhq4fb1j30u00u1gnk.jpg?KID=imgbed,tva&#38;Expires=1701040360&#38;ssig=nHX2dIYRKP</url>
             <title><![CDATA[分享白菜达人的微博]]></title>
             <link>https://weibo.com/5609361977/</link>
         </image>
         
-        <lastBuildDate>Sun, 26 Nov 2023 16:15:04 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Sun, 26 Nov 2023 20:12:43 GMT</lastBuildDate>
+        <ttl>120</ttl>
         
         <item>
             <title><![CDATA[网页链接【JD】晓筱农场 广西武鸣沃柑5斤【19.9】 [图片]]]></title>
