@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 27 Nov 2023 04:03:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Nov 2023 08:06:02 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -73,6 +73,22 @@
         </item>
         
         <item>
+            <title><![CDATA[APIOPEN，一个超级适用于个人开发者的API开放平台上线啦，归属程序员盒子网站旗下。]]></title>
+            <description><![CDATA[APIOPEN，一个超级适用于个人开发者的API开放平台上线啦，归属程序员盒子网站旗下。<br><img src="https://cdnv2.ruguoapp.com/FrTeIn8GW8uZBChsj6sasQ-0z7XJv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 24 Nov 2023 01:46:46 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6560008628560066738029b7</guid>
+            <link>https://m.okjike.com/originalPosts/6560008628560066738029b7</link>
+            
+            
+            
+            <author><![CDATA[程序员盒子网作者]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[推荐一个超实用的网站，Papers with code，https://paperswithcode.com，它是一个论文和对应工程实现（含代码、数据集、测试方法等）的索引工具，下次你看到别人...]]></title>
             <description><![CDATA[推荐一个超实用的网站，Papers with code，https://paperswithcode.com，它是一个论文和对应工程实现（含代码、数据集、测试方法等）的索引工具，下次你看到别人推荐优质论文时，可以直接用它去找代码实现。<br><br>有些论文价值很大，会被多次实现（如图二），但工程质量有高有低，你可以在这个网站详情页看到不同实现的 star 数量，择优学习；详情页还包含了数据集、测试方法、关联论文等等，你甚至还可以通过数据集去反查关联论文，简直是研究神器。<br><br>之前我都是去 Google 检索或者去 Aminer 上查看，有了这个工具就方便多了。<br><img src="https://cdnv2.ruguoapp.com/Fm_sY8ms05u4KNC_p1QbP-uvIxACv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FuaV0qWVAJAf7Jp7v66gbhyYXgphv3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Thu, 23 Nov 2023 08:27:26 GMT</pubDate>
@@ -106,26 +122,10 @@
         
         <item>
             <title><![CDATA[看到一个超炫酷的量子纠缠实现效果，其原理是通过 window.getScreenDetails() 获取窗口详细位置，然后通过 LocalStorage 共享窗口信息来实现的，这个创意太赞了...]]></title>
-            <description><![CDATA[看到一个超炫酷的量子纠缠实现效果，其原理是通过 window.getScreenDetails() 获取窗口详细位置，然后通过 LocalStorage 共享窗口信息来实现的，这个创意太赞了。作者是 x.com/_nonfigurativ_<br><video src="https://videocdn.jellow.site/lg4CjeIBHW5cIJqCaWswzkDA2d7w.mp4?sign=c2adfd84786ed4538bddb6cccf72f838&amp;t=65641b4c" controls=""></video>]]></description>
+            <description><![CDATA[看到一个超炫酷的量子纠缠实现效果，其原理是通过 window.getScreenDetails() 获取窗口详细位置，然后通过 LocalStorage 共享窗口信息来实现的，这个创意太赞了。作者是 x.com/_nonfigurativ_<br><video src="https://videocdn.jellow.site/lg4CjeIBHW5cIJqCaWswzkDA2d7w.mp4?sign=0e9e29555288f815aad776769b4ccd9c&amp;t=656454f2" controls=""></video>]]></description>
             <pubDate>Thu, 23 Nov 2023 02:44:01 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/655ebc71f9a492630b5db374</guid>
             <link>https://m.okjike.com/originalPosts/655ebc71f9a492630b5db374</link>
-            
-            
-            
-            <author><![CDATA[Barret李靖]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[《如何阅读一篇论文》，https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf，看到 Srinivasan Keshav 教授在很多年前就写了一篇文献，给研究人...]]></title>
-            <description><![CDATA[《如何阅读一篇论文》，https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf，看到 Srinivasan Keshav 教授在很多年前就写了一篇文献，给研究人员和论文审稿人提出了一些建议，也是“三遍法”，更为系统和详细：<br><br>1）5~10min，鸟瞰纸张，回答五个问题：类别/上下文/正确性/贡献点/明晰性<br><br>2）最多 1h，看图表和参考文献，确认准确性，事实依据是否充分；善用划词评论，跟论文作者对话<br><br>3）初学者 5h，老手 1h，假设自己是创作者，以同样的命题重新实现论文，对比本篇论文的创新性，审视细节、挑战内容<br><br>也有人说还有第 0 步，那就是上社交媒体看看，有多少人赞同/不赞同这篇论文🐶<br><img src="https://cdnv2.ruguoapp.com/FiobHpVZoscUam70TjSfoup4eIsuv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 23 Nov 2023 01:58:44 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/655eb1d4f9a492630b5c7da2</guid>
-            <link>https://m.okjike.com/originalPosts/655eb1d4f9a492630b5c7da2</link>
             
             
             
