@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 28 Nov 2023 02:24:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Nov 2023 06:34:15 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[想让浏览器网址栏支持站内检索，例如输入「twitter + tab 键」就可以直接开始 Twitter 的站内搜索： 站长可以使用 OpenSearch 协议在站点内增加一个 XML 描述文...]]></title>
+            <description><![CDATA[想让浏览器网址栏支持站内检索，例如输入「twitter + tab 键」就可以直接开始 Twitter 的站内搜索：<br><br>站长可以使用 OpenSearch 协议在站点内增加一个 XML 描述文件，通过 type 为 search 的 rel  link 标签告诉浏览器即可：<br><br><link rel="search" type="application/opensearchdescription+xml" title="Devv" href="path/to/opensearch.xml"><br><br>这个效果与在 Chrome 配置项增加搜索引擎是一样的。<br><img src="https://cdnv2.ruguoapp.com/FkNv8R-rps2tQHMn1E07FcaEfz16v3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fvoq496VBrj_P6YbNSvjSWMHZp8Mv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 28 Nov 2023 01:56:09 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/656548b9c306429d192415f2</guid>
+            <link>https://m.okjike.com/originalPosts/656548b9c306429d192415f2</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[阿里云… 没有对比就没有伤害，逍遥子强啊…]]></title>
@@ -41,6 +57,22 @@
         </item>
         
         <item>
+            <title><![CDATA[昨天上站今天收录，SEO有点意思。继续跟进，继续学习~ https://stablevideoonline.com 不得不说高质量社群是能学到东西的。@哥飞]]></title>
+            <description><![CDATA[昨天上站今天收录，SEO有点意思。继续跟进，继续学习~<br><br>https://stablevideoonline.com<br><br>不得不说高质量社群是能学到东西的。@哥飞 <br><img src="https://cdnv2.ruguoapp.com/Fo3BYrn42BxeIRPPB0pK3obU5L3gv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 27 Nov 2023 01:43:12 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6563f43034ae48b9be16bf9f</guid>
+            <link>https://m.okjike.com/originalPosts/6563f43034ae48b9be16bf9f</link>
+            
+            
+            
+            <author><![CDATA[本山德彪]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[花一天时间写的总结，致敬过往的职业经历。🫡]]></title>
             <description><![CDATA[<img src="https://mmbiz.qpic.cn/mmbiz_jpg/RwxY4xJSwr76flvoBFibRQuCbNR2xXyFs2icCqEwf9DGtnsQnwXh7NBuHNzW6AuXTgrib4f39NBNJ4p9gWa8NX01w/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>                    <a href="https://mp.weixin.qq.com/s/EDsQ7SwaMUAQdVfuWSsfiw">1024，我从腾讯裸辞了</a><br>                <br>花一天时间写的总结，致敬过往的职业经历。🫡]]></description>
             <pubDate>Fri, 24 Nov 2023 23:10:43 GMT</pubDate>
@@ -50,22 +82,6 @@
             
             
             <author><![CDATA[艾逗笔]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[十多年前刚接触 Web 开发时，能做的事情比较简单，唯一的网络交互工具只有 XMLHttpRequest，当时互联网的代表作是 Gmail 网页版，把 AJAX 用到了巅峰。 现在可以...]]></title>
-            <description><![CDATA[十多年前刚接触 Web 开发时，能做的事情比较简单，唯一的网络交互工具只有 XMLHttpRequest，当时互联网的代表作是 Gmail 网页版，把 AJAX 用到了巅峰。<br><br>现在可以做的事情就比较多了，Websocket 解决了实时双向通信的问题，使得浏览器和服务器之间的通信更加高效；WebTransport 允许使用 HTTP/3 协议进行交互，提供了更好的性能和安全性，尤其是在高延迟和不可靠的网络环境下，表现也很出色；WebRTC 使得浏览器之间可以进行点对点的音视频通信，而且无需通过服务器进行中转，这让实时通信变得更加高效和低延迟。<br><br>而最新的提案 Direct Sockets 终于也被搬到了台面上，https://github.com/WICG/direct-sockets/blob/main/docs/explainer.md，它可以创建  TCP/UDP 套接字，直接拼齐了 Web 协议的最后一块版图，未来浏览器即服务器😅<br><br>当然，考虑到一些安全原因，目前它只能被用在 Isolated Web Apps 中，IWA 不像网页，并非直接托管在实时的 Web 服务器上，而是以 Web Bundle 的形式被分发到浏览器，需要经过开发人员签名才能被分发和使用。关于 IWA，这里有一个演示：https://github.com/GoogleChromeLabs/telnet-client<br><br>浏览器未来可以做的事情将越来越多，结合 WebAssembly 跨语言编译，以后任意语言的程序员都可以在 Web 上分发自己的 IWA 程序了。<br><img src="https://cdnv2.ruguoapp.com/FttgLeT-X-cPAAdkqOk58L-bEoAVv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fq34FC6NbQJTT8Qfw0QUaFGUIS3Jv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 24 Nov 2023 13:58:11 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6560abf3ee2e07f7ac996ee9</guid>
-            <link>https://m.okjike.com/originalPosts/6560abf3ee2e07f7ac996ee9</link>
-            
-            
-            
-            <author><![CDATA[Barret李靖]]></author>
             
                 
             
@@ -138,7 +154,7 @@
         
         <item>
             <title><![CDATA[看到一个超炫酷的量子纠缠实现效果，其原理是通过 window.getScreenDetails() 获取窗口详细位置，然后通过 LocalStorage 共享窗口信息来实现的，这个创意太赞了...]]></title>
-            <description><![CDATA[看到一个超炫酷的量子纠缠实现效果，其原理是通过 window.getScreenDetails() 获取窗口详细位置，然后通过 LocalStorage 共享窗口信息来实现的，这个创意太赞了。作者是 x.com/_nonfigurativ_<br><video src="https://videocdn.jellow.site/lg4CjeIBHW5cIJqCaWswzkDA2d7w.mp4?sign=2bb3143afc1e19c96d77d37459eccc64&amp;t=656555ef" controls=""></video>]]></description>
+            <description><![CDATA[看到一个超炫酷的量子纠缠实现效果，其原理是通过 window.getScreenDetails() 获取窗口详细位置，然后通过 LocalStorage 共享窗口信息来实现的，这个创意太赞了。作者是 x.com/_nonfigurativ_<br><video src="https://videocdn.jellow.site/lg4CjeIBHW5cIJqCaWswzkDA2d7w.mp4?sign=96653337a2e931ce6f357a9563cdecf9&amp;t=65659005" controls=""></video>]]></description>
             <pubDate>Thu, 23 Nov 2023 02:44:01 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/655ebc71f9a492630b5db374</guid>
             <link>https://m.okjike.com/originalPosts/655ebc71f9a492630b5db374</link>
@@ -146,22 +162,6 @@
             
             
             <author><![CDATA[Barret李靖]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[@Airyland 真的格局很大，把 https://GPTsHunter.com 的 GPTs 数据共享出来，于是出现了 https://GPTsToday.com https://GPTs.works 等优秀的网站。]]></title>
-            <description><![CDATA[@Airyland 真的格局很大，把 https://GPTsHunter.com 的 GPTs 数据共享出来，于是出现了 https://GPTsToday.com https://GPTs.works 等优秀的网站。<br><img src="https://cdnv2.ruguoapp.com/FuMzcfb0f3TCX9LhkGdK2P22QZh6v3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 23 Nov 2023 00:33:23 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/655e9dd3d027b7ac8c5bb06f</guid>
-            <link>https://m.okjike.com/originalPosts/655e9dd3d027b7ac8c5bb06f</link>
-            
-            
-            
-            <author><![CDATA[哥飞]]></author>
             
                 
             
