@@ -21,19 +21,19 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 29 Nov 2023 15:57:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Nov 2023 18:14:17 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
-            <title><![CDATA[翻了内部的自定义通信协议后，我真想给 HTTP 规范制定者磕两个响头：以前骂你们是我年少无知，真狗屎还是得看公司]]></title>
-            <description><![CDATA[翻了内部的自定义通信协议后，我真想给 HTTP 规范制定者磕两个响头：以前骂你们是我年少无知，真狗屎还是得看公司]]></description>
-            <pubDate>Wed, 29 Nov 2023 08:46:24 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6566fa60f9a492630b08dd92</guid>
-            <link>https://m.okjike.com/originalPosts/6566fa60f9a492630b08dd92</link>
+            <title><![CDATA[AI 辅助阅读并自动总结网页概要的工具多如牛毛，但把这件事情做好却并不容易，因为网页上存在太多乱七八糟的 DOM，包括导航菜单、广告和推荐模块等等，如果不抓...]]></title>
+            <description><![CDATA[AI 辅助阅读并自动总结网页概要的工具多如牛毛，但把这件事情做好却并不容易，因为网页上存在太多乱七八糟的 DOM，包括导航菜单、广告和推荐模块等等，如果不抓核心内容直接无脑扔给 AI 处理，那效果一定是不佳的，尤其是杂乱内容占比过高时。<br><br>做了一些技术调研，找到如下几个工具/库，它们均可以辅助提取网页概要，不过各自的思路存在一些差异：<br><br>1）Readability，https://github.com/mozilla/readability，是一种基于规则的方法，被 Mozilla Firefox 浏览器的阅读模式使用，它通过检查 HTML 元素的标签名称、文本数量、链接密度以及满足主要内容标准的文本模式来提取主要内容<br><br>2）DOM Distiller，https://github.com/chromium/dom-distiller，是 Google Chrome 浏览器的阅读模式，它是一种混合方法，使用了 Boilerpipe 分类器和一些规则，有点类似于 Readability<br><br>3）Web2Text，https://github.com/dalab/web2text，是基于深度神经网络的分类器，使用了 CNN 模型和包括单词计数、标点符号存在和停用词数量等 128 个结构和文本特征来确定每个文本块是否属于主要内容<br><br>4）Boilernet，https://github.com/mrjleo/boilernet，是基于深度神经网络的分类器，使用 LSTM 将网页的文本节点视为由单词和 DOM 树根路径组成的文本块序列<br><br>这些方法在不同的数据集和语言环境下会表现出不同的性能。https://arxiv.org/abs/2110.14164，这篇论文给出了一个新的思路：通过使用视觉特征从网页中提取主要内容，算法分为三个步骤：网格化、居中和扩展：<br><br>1）首先，算法创建一个类似棋盘的网格，用于近似用户首次浏览网页的区域<br>2）然后，从浏览器窗口、网页文档和网格的中心点确定三个中心点；这些中心点被认为与主要内容接近，它们最近的文本节点很可能是主要内容的后代叶节点<br>3）最后，算法通过从叶节点开始沿着 DOM 树向上遍历来提取主要内容<br><br>通过使用这些通用的特征，该算法在多语言环境下表现都还不错，并在实验中优于现有的主要内容提取方法：在最长公共子序列（LCS）F1 得分方面，该方法的平均性能比现有方法提高了 14%；特别是在英语数据集中，性能提高了 25%，在非英语数据集中提高了 16%。<br><br>这篇论文没有找到对应的代码实现，感兴趣的同学可以撸一个出来，价值还挺大的。<br><img src="https://cdnv2.ruguoapp.com/FiGVTwYkq3rSlmda2Ocjj7ej6oQ7v3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Ft_FQXj7o_7sho7Wiff8yO4o4F7Wv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FuQwNqTtRFJpuYVcBkOpIHmwpl7gv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 29 Nov 2023 15:45:25 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65675c9587a8e03bd123c9de</guid>
+            <link>https://m.okjike.com/originalPosts/65675c9587a8e03bd123c9de</link>
             
             
             
-            <author><![CDATA[卤代烃]]></author>
+            <author><![CDATA[Barret李靖]]></author>
             
                 
             
@@ -154,7 +154,7 @@
         
         <item>
             <title><![CDATA[看到一个超炫酷的量子纠缠实现效果，其原理是通过 window.getScreenDetails() 获取窗口详细位置，然后通过 LocalStorage 共享窗口信息来实现的，这个创意太赞了...]]></title>
-            <description><![CDATA[看到一个超炫酷的量子纠缠实现效果，其原理是通过 window.getScreenDetails() 获取窗口详细位置，然后通过 LocalStorage 共享窗口信息来实现的，这个创意太赞了。作者是 x.com/_nonfigurativ_<br><video src="https://videocdn.jellow.site/lg4CjeIBHW5cIJqCaWswzkDA2d7w.mp4?sign=021e410420e7cebbfe007484534cb37d&amp;t=65676618" controls=""></video>]]></description>
+            <description><![CDATA[看到一个超炫酷的量子纠缠实现效果，其原理是通过 window.getScreenDetails() 获取窗口详细位置，然后通过 LocalStorage 共享窗口信息来实现的，这个创意太赞了。作者是 x.com/_nonfigurativ_<br><video src="https://videocdn.jellow.site/lg4CjeIBHW5cIJqCaWswzkDA2d7w.mp4?sign=f0d676134b1938627e3835aad5f7b2e0&amp;t=65678592" controls=""></video>]]></description>
             <pubDate>Thu, 23 Nov 2023 02:44:01 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/655ebc71f9a492630b5db374</guid>
             <link>https://m.okjike.com/originalPosts/655ebc71f9a492630b5db374</link>
