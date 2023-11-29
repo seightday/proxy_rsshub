@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 28 Nov 2023 23:08:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Nov 2023 01:17:03 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -89,6 +89,22 @@
         </item>
         
         <item>
+            <title><![CDATA[阿里云… 没有对比就没有伤害，逍遥子强啊…]]></title>
+            <description><![CDATA[阿里云… <br>没有对比就没有伤害，逍遥子强啊…<br><img src="https://cdnv2.ruguoapp.com/Fhcn4mYHrtbew6vhG6I_eqjJiv3ov3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 27 Nov 2023 11:02:38 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6564774e2856006673dbd6de</guid>
+            <link>https://m.okjike.com/originalPosts/6564774e2856006673dbd6de</link>
+            
+            
+            
+            <author><![CDATA[Exquisite]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[花一天时间写的总结，致敬过往的职业经历。🫡]]></title>
             <description><![CDATA[<img src="https://mmbiz.qpic.cn/mmbiz_jpg/RwxY4xJSwr76flvoBFibRQuCbNR2xXyFs2icCqEwf9DGtnsQnwXh7NBuHNzW6AuXTgrib4f39NBNJ4p9gWa8NX01w/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>                    <a href="https://mp.weixin.qq.com/s/EDsQ7SwaMUAQdVfuWSsfiw">1024，我从腾讯裸辞了</a><br>                <br>花一天时间写的总结，致敬过往的职业经历。🫡]]></description>
             <pubDate>Fri, 24 Nov 2023 23:10:43 GMT</pubDate>
@@ -98,22 +114,6 @@
             
             
             <author><![CDATA[艾逗笔]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[《揭秘 VPN 背后的黑灰产组织》，https://paper.seebug.org/3062/，这篇文章介绍了如何通过网络空间“行为测绘”和”交叉测绘”锁定攻击者身份和网络分布，进而...]]></title>
-            <description><![CDATA[《揭秘 VPN 背后的黑灰产组织》，https://paper.seebug.org/3062/，这篇文章介绍了如何通过网络空间“行为测绘”和”交叉测绘”锁定攻击者身份和网络分布，进而分析攻击对象和攻击手法，找到了活跃在中国大陆的两个黑客组织。文章中提到几个有趣的点：<br><br>1）攻击者比较喜欢控制家用路由器和摄像头，存在攻击行为的 16582 个 IP 节点中，一小半都属于这类<br>2）控制了家用设备后，会进行“网络资产”拓展，通过端口扫描、漏洞识别、后门注入等一系列方式拓展更多受控终端<br>3）攻击行为集中在网络信息收集（爬虫、SQL 注入等）和恶意扫描，恶意扫描的目的是拓展资产；而信息收集，大概率是为了出售数据，以此牟利<br>4）整个空间测绘的关键围绕 IP 危险性定级、证书收敛（识别核心攻击源）、攻击手法识别（攻击意图分析）等操作，经验可复用性还是比较强的<br><br>传统的网络攻击行为分析，依赖恶意样本和攻击现场，因此会部署超大量的网络蜜罐抓取特征，这篇文章算是提出了一个更开阔的思路，使用空间测绘从网络分布上定位源头，不过这比较依赖丰富的样本库，例如需要对海量的网络 IP 做标记、对各类攻击手法有深入了解，并且要求掌握攻击流量。<br><br>我特别好奇攻击流量是如何掌握的，难道是在 BGP 节点上部署了流量侦测模块？<br><img src="https://cdnv2.ruguoapp.com/FmeFEujAsu3hPqu0DEk2LRfjHDAEv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 24 Nov 2023 07:48:43 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6560555b87a8e03bd192731d</guid>
-            <link>https://m.okjike.com/originalPosts/6560555b87a8e03bd192731d</link>
-            
-            
-            
-            <author><![CDATA[Barret李靖]]></author>
             
                 
             
@@ -154,7 +154,7 @@
         
         <item>
             <title><![CDATA[看到一个超炫酷的量子纠缠实现效果，其原理是通过 window.getScreenDetails() 获取窗口详细位置，然后通过 LocalStorage 共享窗口信息来实现的，这个创意太赞了...]]></title>
-            <description><![CDATA[看到一个超炫酷的量子纠缠实现效果，其原理是通过 window.getScreenDetails() 获取窗口详细位置，然后通过 LocalStorage 共享窗口信息来实现的，这个创意太赞了。作者是 x.com/_nonfigurativ_<br><video src="https://videocdn.jellow.site/lg4CjeIBHW5cIJqCaWswzkDA2d7w.mp4?sign=6b5b3e6d8a94d47aeb3cebee74f8a102&amp;t=65667800" controls=""></video>]]></description>
+            <description><![CDATA[看到一个超炫酷的量子纠缠实现效果，其原理是通过 window.getScreenDetails() 获取窗口详细位置，然后通过 LocalStorage 共享窗口信息来实现的，这个创意太赞了。作者是 x.com/_nonfigurativ_<br><video src="https://videocdn.jellow.site/lg4CjeIBHW5cIJqCaWswzkDA2d7w.mp4?sign=cc4fda874784f595da1c495112bb3b4a&amp;t=656697ad" controls=""></video>]]></description>
             <pubDate>Thu, 23 Nov 2023 02:44:01 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/655ebc71f9a492630b5db374</guid>
             <link>https://m.okjike.com/originalPosts/655ebc71f9a492630b5db374</link>
