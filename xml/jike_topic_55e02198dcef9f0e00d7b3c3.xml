@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 30 Nov 2023 02:59:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Nov 2023 05:06:08 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[AI套壳产品，不会改变世界，但可以成为一个生意，养活一个小团队。 https://bensbites.beehiiv.com/p/ai-wrappers-get-bad-wrap 文中举了三个例子： 1. Formula ...]]></title>
+            <description><![CDATA[AI套壳产品，不会改变世界，但可以成为一个生意，养活一个小团队。<br>https://bensbites.beehiiv.com/p/ai-wrappers-get-bad-wrap<br><br>文中举了三个例子：<br>1. Formula Bot<br>年收入20～30万美元，最开始只是一个单页工具，后来在 Reddit 火了，发展起来了<br><br>2. Photo AI<br>月收入8万美元，最开始只是特别简单的页面，用户上传照片并付费后，创始人Levels手动生成照片后发邮件给用户，后来发展成完整的产品，有了网页端和手机端。<br><br>3. PDF.ai <br>年收入50万美元左右，最开始是创始人看到 ChatPDF 爆火后，收购了一个类似产品，换了新域名 pdf.ai 来运营。]]></description>
+            <pubDate>Thu, 30 Nov 2023 02:42:50 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6567f6aaf9a492630b1bd88e</guid>
+            <link>https://m.okjike.com/originalPosts/6567f6aaf9a492630b1bd88e</link>
+            
+            
+            
+            <author><![CDATA[哥飞]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[AI 辅助阅读并自动总结网页概要的工具多如牛毛，但把这件事情做好却并不容易，因为网页上存在太多乱七八糟的 DOM，包括导航菜单、广告和推荐模块等等，如果不抓...]]></title>
@@ -66,22 +82,6 @@
             
             
             <author><![CDATA[Sailing-轻舟]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[心理陪伴类的产品，难免要对声音进行分析。 之前的经历都在 NLP，LLMs 上，搞了声音才发现，声音的数据分析更有空间。 推荐一个软件：Praat，是开源的。功能强大...]]></title>
-            <description><![CDATA[心理陪伴类的产品，难免要对声音进行分析。<br>之前的经历都在 NLP，LLMs 上，搞了声音才发现，声音的数据分析更有空间。<br><br>推荐一个软件：Praat，是开源的。功能强大，且得研究。<br><br>链接：https://github.com/praat/praat<br><img src="https://cdnv2.ruguoapp.com/FmUsdl6rr2W6PBtR4swVJrp9m9B4v3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 28 Nov 2023 07:25:17 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/656595ddee2e07f7acfa5adb</guid>
-            <link>https://m.okjike.com/originalPosts/656595ddee2e07f7acfa5adb</link>
-            
-            
-            
-            <author><![CDATA[北邻]]></author>
             
                 
             
@@ -154,7 +154,7 @@
         
         <item>
             <title><![CDATA[看到一个超炫酷的量子纠缠实现效果，其原理是通过 window.getScreenDetails() 获取窗口详细位置，然后通过 LocalStorage 共享窗口信息来实现的，这个创意太赞了...]]></title>
-            <description><![CDATA[看到一个超炫酷的量子纠缠实现效果，其原理是通过 window.getScreenDetails() 获取窗口详细位置，然后通过 LocalStorage 共享窗口信息来实现的，这个创意太赞了。作者是 x.com/_nonfigurativ_<br><video src="https://videocdn.jellow.site/lg4CjeIBHW5cIJqCaWswzkDA2d7w.mp4?sign=4c6b5dca1a6a4e1799e30e7cf90290bc&amp;t=65680026" controls=""></video>]]></description>
+            <description><![CDATA[看到一个超炫酷的量子纠缠实现效果，其原理是通过 window.getScreenDetails() 获取窗口详细位置，然后通过 LocalStorage 共享窗口信息来实现的，这个创意太赞了。作者是 x.com/_nonfigurativ_<br><video src="https://videocdn.jellow.site/lg4CjeIBHW5cIJqCaWswzkDA2d7w.mp4?sign=3b751dece93d91a4cc3b562fa7288883&amp;t=65681ded" controls=""></video>]]></description>
             <pubDate>Thu, 23 Nov 2023 02:44:01 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/655ebc71f9a492630b5db374</guid>
             <link>https://m.okjike.com/originalPosts/655ebc71f9a492630b5db374</link>
