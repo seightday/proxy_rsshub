@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 30 Nov 2023 13:37:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Nov 2023 19:54:04 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[Agently Show Case：自然语言→SQL 作为一个商业分析师或者数据科学家，你是否经常遇到你的老板、同事在不停地问你一些数据报表中根本没有预处理的数据？作为一...]]></title>
+            <description><![CDATA[Agently Show Case：自然语言→SQL<br><br>作为一个商业分析师或者数据科学家，你是否经常遇到你的老板、同事在不停地问你一些数据报表中根本没有预处理的数据？作为一个分析研究的专家，你当然想把时间花在“分析”而不是“提数”上，而且总是处理“提数”这件事可能把你深度思考的时间切得粉碎。但你能怎么办呢？你的老板、同事又不会写SQL，他们只能找你这个“专家”。<br><br>如果有一个Agent，能够帮你把自然语言问题转换成SQL，是不是就帮了大忙了？看看下面这个案例是如何使用Agently框架，写几行简单的代码解决这个问题的。<br><br>案例地址：https://github.com/Maplemx/Agently/blob/main/playground/sql_generator.ipynb<br><img src="https://cdnv2.ruguoapp.com/FuU6pmDHtyRtEUMZmGWVGNUdPIBnv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 30 Nov 2023 12:40:43 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/656882cb87a8e03bd13b7d4a</guid>
+            <link>https://m.okjike.com/originalPosts/656882cb87a8e03bd13b7d4a</link>
+            
+            
+            
+            <author><![CDATA[莫欣-光耀之枫]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[pdf2htmlEX 是一个值得推荐的 PDF 转 HTML 工具，https://github.com/pdf2htmlEX/pdf2htmlEX，它生成的内容还原度非常高，几乎与原 PDF 一致。 我去扒了下这个项...]]></title>
@@ -50,22 +66,6 @@
             
             
             <author><![CDATA[哥飞]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Cloudflare Worker 已经支持了 Puppeteer 无头浏览器渲染了，它可以用于创建屏幕截图、抓取页面和测试 Web 应用程序等任务，https://developers.cloudflare.com/...]]></title>
-            <description><![CDATA[Cloudflare Worker 已经支持了 Puppeteer 无头浏览器渲染了，它可以用于创建屏幕截图、抓取页面和测试 Web 应用程序等任务，https://developers.cloudflare.com/browser-rendering/<br><br>略有不同的是，Cloudflare fork 了 Puppeteer 代码做了一些修改，关键代码在这里：https://github.com/cloudflare/puppeteer/blob/main/src/puppeteer-core.ts#L65，看完逻辑大概能 get 到他们优化的策略：<br><br>1）首先在云端预热一批 Chrome/Chromium 会话窗口，有点类似 Serverless Function 的冷启动<br>2）每次发起 Puppeteer 任务的时候，会通过 API 从会话池中获取一个 ws 连接地址，这块工作在框架和工具层面做了完善的处理（网页上配置不了，需要走 CLI）<br>3）云端对回话窗口池进行自动伸缩容管理，同时也会对获取 ws 连接的任务做队列管理<br><br>这样的架构设计可以很好地保障整体服务的稳定。目前一个账户 1min 内可以启动 2 个实例，并发数也只有 2，而且超过 60s 任务没结束被 kill。为了避免长时间占用资源，还是做了比较多的限制。<br><br>当前这个能力还在 beta 阶段，可以通过官网加入到 waitlist，不过我发现，直接进 discord 找他们的运营可以快速获取权限。<br><img src="https://cdnv2.ruguoapp.com/FtUyYge-fqIOnoNqfQ9nIK2FAhbkv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FkUMj3mgUQKGG0CsSAjv3xL-LBXRv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 30 Nov 2023 02:14:50 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6567f01a5682fbc62e4c6537</guid>
-            <link>https://m.okjike.com/originalPosts/6567f01a5682fbc62e4c6537</link>
-            
-            
-            
-            <author><![CDATA[Barret李靖]]></author>
             
                 
             
@@ -154,7 +154,7 @@
         
         <item>
             <title><![CDATA[看到一个超炫酷的量子纠缠实现效果，其原理是通过 window.getScreenDetails() 获取窗口详细位置，然后通过 LocalStorage 共享窗口信息来实现的，这个创意太赞了...]]></title>
-            <description><![CDATA[看到一个超炫酷的量子纠缠实现效果，其原理是通过 window.getScreenDetails() 获取窗口详细位置，然后通过 LocalStorage 共享窗口信息来实现的，这个创意太赞了。作者是 x.com/_nonfigurativ_<br><video src="https://videocdn.jellow.site/lg4CjeIBHW5cIJqCaWswzkDA2d7w.mp4?sign=8ca6f5c42c973b1bcd4ed35fc8f20894&amp;t=656895ae" controls=""></video>]]></description>
+            <description><![CDATA[看到一个超炫酷的量子纠缠实现效果，其原理是通过 window.getScreenDetails() 获取窗口详细位置，然后通过 LocalStorage 共享窗口信息来实现的，这个创意太赞了。作者是 x.com/_nonfigurativ_<br><video src="https://videocdn.jellow.site/lg4CjeIBHW5cIJqCaWswzkDA2d7w.mp4?sign=975029cc6491a33c8478d5c111c4dc67&amp;t=6568ed54" controls=""></video>]]></description>
             <pubDate>Thu, 23 Nov 2023 02:44:01 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/655ebc71f9a492630b5db374</guid>
             <link>https://m.okjike.com/originalPosts/655ebc71f9a492630b5db374</link>
