@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 30 Nov 2023 09:20:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Nov 2023 13:37:03 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -50,6 +50,22 @@
             
             
             <author><![CDATA[哥飞]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Cloudflare Worker 已经支持了 Puppeteer 无头浏览器渲染了，它可以用于创建屏幕截图、抓取页面和测试 Web 应用程序等任务，https://developers.cloudflare.com/...]]></title>
+            <description><![CDATA[Cloudflare Worker 已经支持了 Puppeteer 无头浏览器渲染了，它可以用于创建屏幕截图、抓取页面和测试 Web 应用程序等任务，https://developers.cloudflare.com/browser-rendering/<br><br>略有不同的是，Cloudflare fork 了 Puppeteer 代码做了一些修改，关键代码在这里：https://github.com/cloudflare/puppeteer/blob/main/src/puppeteer-core.ts#L65，看完逻辑大概能 get 到他们优化的策略：<br><br>1）首先在云端预热一批 Chrome/Chromium 会话窗口，有点类似 Serverless Function 的冷启动<br>2）每次发起 Puppeteer 任务的时候，会通过 API 从会话池中获取一个 ws 连接地址，这块工作在框架和工具层面做了完善的处理（网页上配置不了，需要走 CLI）<br>3）云端对回话窗口池进行自动伸缩容管理，同时也会对获取 ws 连接的任务做队列管理<br><br>这样的架构设计可以很好地保障整体服务的稳定。目前一个账户 1min 内可以启动 2 个实例，并发数也只有 2，而且超过 60s 任务没结束被 kill。为了避免长时间占用资源，还是做了比较多的限制。<br><br>当前这个能力还在 beta 阶段，可以通过官网加入到 waitlist，不过我发现，直接进 discord 找他们的运营可以快速获取权限。<br><img src="https://cdnv2.ruguoapp.com/FtUyYge-fqIOnoNqfQ9nIK2FAhbkv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FkUMj3mgUQKGG0CsSAjv3xL-LBXRv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 30 Nov 2023 02:14:50 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6567f01a5682fbc62e4c6537</guid>
+            <link>https://m.okjike.com/originalPosts/6567f01a5682fbc62e4c6537</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
             
                 
             
@@ -137,24 +153,8 @@
         </item>
         
         <item>
-            <title><![CDATA[推荐一个超实用的网站，Papers with code，https://paperswithcode.com，它是一个论文和对应工程实现（含代码、数据集、测试方法等）的索引工具，下次你看到别人...]]></title>
-            <description><![CDATA[推荐一个超实用的网站，Papers with code，https://paperswithcode.com，它是一个论文和对应工程实现（含代码、数据集、测试方法等）的索引工具，下次你看到别人推荐优质论文时，可以直接用它去找代码实现。<br><br>有些论文价值很大，会被多次实现（如图二），但工程质量有高有低，你可以在这个网站详情页看到不同实现的 star 数量，择优学习；详情页还包含了数据集、测试方法、关联论文等等，你甚至还可以通过数据集去反查关联论文，简直是研究神器。<br><br>之前我都是去 Google 检索或者去 Aminer 上查看，有了这个工具就方便多了。<br><img src="https://cdnv2.ruguoapp.com/Fm_sY8ms05u4KNC_p1QbP-uvIxACv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FuaV0qWVAJAf7Jp7v66gbhyYXgphv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 23 Nov 2023 08:27:26 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/655f0cee5682fbc62e976a40</guid>
-            <link>https://m.okjike.com/originalPosts/655f0cee5682fbc62e976a40</link>
-            
-            
-            
-            <author><![CDATA[Barret李靖]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[看到一个超炫酷的量子纠缠实现效果，其原理是通过 window.getScreenDetails() 获取窗口详细位置，然后通过 LocalStorage 共享窗口信息来实现的，这个创意太赞了...]]></title>
-            <description><![CDATA[看到一个超炫酷的量子纠缠实现效果，其原理是通过 window.getScreenDetails() 获取窗口详细位置，然后通过 LocalStorage 共享窗口信息来实现的，这个创意太赞了。作者是 x.com/_nonfigurativ_<br><video src="https://videocdn.jellow.site/lg4CjeIBHW5cIJqCaWswzkDA2d7w.mp4?sign=a725f313869afad57321f9d2a81c948a&amp;t=65685927" controls=""></video>]]></description>
+            <description><![CDATA[看到一个超炫酷的量子纠缠实现效果，其原理是通过 window.getScreenDetails() 获取窗口详细位置，然后通过 LocalStorage 共享窗口信息来实现的，这个创意太赞了。作者是 x.com/_nonfigurativ_<br><video src="https://videocdn.jellow.site/lg4CjeIBHW5cIJqCaWswzkDA2d7w.mp4?sign=8ca6f5c42c973b1bcd4ed35fc8f20894&amp;t=656895ae" controls=""></video>]]></description>
             <pubDate>Thu, 23 Nov 2023 02:44:01 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/655ebc71f9a492630b5db374</guid>
             <link>https://m.okjike.com/originalPosts/655ebc71f9a492630b5db374</link>
