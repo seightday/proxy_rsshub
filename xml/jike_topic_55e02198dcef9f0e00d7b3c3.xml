@@ -21,8 +21,40 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Fri, 01 Dec 2023 14:37:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Dec 2023 18:53:48 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[一个塔防（塔攻）游戏的玩法演示。 和@沼蛙奥诺维奇 开发了一个月。 自己玩起来觉得很好玩，争取元旦前做完所有设计和实现。]]></title>
+            <description><![CDATA[<img src="https://i1.hdslb.com/bfs/archive/9144adfd356f1d6d19421ddb7a0eb64519eeee9e.jpg@100w_100h_1c.png" referrerpolicy="no-referrer"><br>                    <a href="https://www.bilibili.com/video/BV1cu4y1L7Ao/?buvid=ZB4D94BC04D26C3B4694A88F38D45919259D&amp;is_story_h5=false&amp;mid=cdmgSlC73SgrOWd0EOcBlg%3D%3D&amp;plat_id=147&amp;share_from=ugc&amp;share_medium=iphone&amp;share_plat=ios&amp;share_session_id=023DBAA7-92CB-4BB8-B21A-0DC67E87E4FE&amp;share_source=COPY&amp;share_tag=s_i&amp;timestamp=1701448513&amp;unique_k=x6LKxw2&amp;up_id=8911717">【独立游戏开发】村庄塔防 v0.1.0 - 开发者演示_单机游戏热门视频</a><br>                <br>一个塔防（塔攻）游戏的玩法演示。<br>和@沼蛙奥诺维奇 开发了一个月。<br><br>自己玩起来觉得很好玩，争取元旦前做完所有设计和实现。]]></description>
+            <pubDate>Fri, 01 Dec 2023 16:37:59 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/656a0be7c9ed8caff02ab5f4</guid>
+            <link>https://m.okjike.com/originalPosts/656a0be7c9ed8caff02ab5f4</link>
+            
+            
+            
+            <author><![CDATA[杰克有茶]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[参加 Founder Park 举办的GPTs Demoshow 效率工具专场，GPTs Works 成绩不错，很开心。😊 https://vkymyy8fxf.feishu.cn/docx/SxYedcRrbomFJZxiH2DccNMWnga]]></title>
+            <description><![CDATA[参加 Founder Park 举办的GPTs Demoshow 效率工具专场，GPTs Works 成绩不错，很开心。😊<br><br>https://vkymyy8fxf.feishu.cn/docx/SxYedcRrbomFJZxiH2DccNMWnga<br><img src="https://cdnv2.ruguoapp.com/Fr61ILj80ZJpisyO-gal0luy1s8zv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FtB2D-Lv0UHWhqN89VwL-nlWBZ_Lv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FglkkixN67CYf8Hxhgov-qY4tLIuv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 01 Dec 2023 14:16:27 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6569eabb5682fbc62e782770</guid>
+            <link>https://m.okjike.com/originalPosts/6569eabb5682fbc62e782770</link>
+            
+            
+            
+            <author><![CDATA[艾逗笔]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[谷歌官方出的图片优化指南《Google 图片 SEO 最佳实践》很值得学习。 https://developers.google.com/search/docs/appearance/google-images?hl=zh-cn]]></title>
@@ -89,22 +121,6 @@
         </item>
         
         <item>
-            <title><![CDATA[Agently Show Case：自然语言→SQL 作为一个商业分析师或者数据科学家，你是否经常遇到你的老板、同事在不停地问你一些数据报表中根本没有预处理的数据？作为一...]]></title>
-            <description><![CDATA[Agently Show Case：自然语言→SQL<br><br>作为一个商业分析师或者数据科学家，你是否经常遇到你的老板、同事在不停地问你一些数据报表中根本没有预处理的数据？作为一个分析研究的专家，你当然想把时间花在“分析”而不是“提数”上，而且总是处理“提数”这件事可能把你深度思考的时间切得粉碎。但你能怎么办呢？你的老板、同事又不会写SQL，他们只能找你这个“专家”。<br><br>如果有一个Agent，能够帮你把自然语言问题转换成SQL，是不是就帮了大忙了？看看下面这个案例是如何使用Agently框架，写几行简单的代码解决这个问题的。<br><br>案例地址：https://github.com/Maplemx/Agently/blob/main/playground/sql_generator.ipynb<br><img src="https://cdnv2.ruguoapp.com/FuU6pmDHtyRtEUMZmGWVGNUdPIBnv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 30 Nov 2023 12:40:43 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/656882cb87a8e03bd13b7d4a</guid>
-            <link>https://m.okjike.com/originalPosts/656882cb87a8e03bd13b7d4a</link>
-            
-            
-            
-            <author><![CDATA[莫欣-光耀之枫]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[pdf2htmlEX 是一个值得推荐的 PDF 转 HTML 工具，https://github.com/pdf2htmlEX/pdf2htmlEX，它生成的内容还原度非常高，几乎与原 PDF 一致。 我去扒了下这个项...]]></title>
             <description><![CDATA[pdf2htmlEX 是一个值得推荐的 PDF 转 HTML 工具，https://github.com/pdf2htmlEX/pdf2htmlEX，它生成的内容还原度非常高，几乎与原 PDF 一致。<br><br>我去扒了下这个项目的历史，https://github.com/coolwanglu/pdf2htmlEX/wiki/Author%27s-Words，作者因朋友抱怨没有一个在线 PDF viewer，于是他就撸了一个将 PDF 转成 HTML 的“玩具”，时间是 2013 年，也有十年历史了。<br><br>pdf2htmlEX 背后使用的是 poppler 这个渲染库，而 poppler 背后使用的是  xpdf-3.0，它是一个免费的 PDF 查看器和工具包，包括文本提取器、图像转换器、HTML 转换器等。Chrome 自家也撸了一个 PDF 渲染引擎，叫做 pdfium，项目地址在这里：https://pdfium.googlesource.com/pdfium<br><br>项目在 2018 年就被作者归档了，为了可以让社区更好地贡献代码，新开了一个 repo 延续，在这个 repo 中，作者对打包过程做了封装，并且锁定了两个重要依赖的版本（poppler 和 Fontforge）。<br><br>我在 Mac 下一直没有成功安装，看到有人提了一个兼容的 PR，状态还是 work in progress：https://github.com/pdf2htmlEX/pdf2htmlEX/pull/18，都五年了，应该是没有下文了😂<br><img src="https://cdnv2.ruguoapp.com/FoOxF-r_StpSAUGMX5gRLl1jd-cQv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FiZte6dXRBhdT6slOypJCqXtG3yVv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fk2SPCSvUW0sXdUjhZCWH6xI9cmmv3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Thu, 30 Nov 2023 05:26:28 GMT</pubDate>
@@ -146,22 +162,6 @@
             
             
             <author><![CDATA[Barret李靖]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[这个开发者很有意思，上架了几十款app全部都开源了，下载量大多在百万级别，对应的项目star数多的也有几千。通过Google play下载的用户看到是开源的可能会去gith...]]></title>
-            <description><![CDATA[这个开发者很有意思，上架了几十款app全部都开源了，下载量大多在百万级别，对应的项目star数多的也有几千。通过Google play下载的用户看到是开源的可能会去github点个star，在github搜索相关项目的时候他排的比较靠前，也可以导一部分用户去下载，这样形成了双侧的引流效果<br><img src="https://cdnv2.ruguoapp.com/Fm-dFfMxT9tnmJzEoE3HsnkXzOl5v3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 28 Nov 2023 12:27:45 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6565dcc15682fbc62e22edf5</guid>
-            <link>https://m.okjike.com/originalPosts/6565dcc15682fbc62e22edf5</link>
-            
-            
-            
-            <author><![CDATA[Sailing-轻舟]]></author>
             
                 
             
