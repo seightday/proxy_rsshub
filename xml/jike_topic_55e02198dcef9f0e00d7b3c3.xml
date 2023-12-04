@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 04 Dec 2023 16:10:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Dec 2023 20:12:57 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -34,6 +34,22 @@
             
             
             <author><![CDATA[流川风]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RestGPT，https://restgpt.github.io，让大模型连接真实世界的 Restful API 在构建 AI Agent 时，检索增强（Retrieval-Augmented Generation，RAG）是提的比较多...]]></title>
+            <description><![CDATA[RestGPT，https://restgpt.github.io，让大模型连接真实世界的 Restful API<br><br>在构建 AI Agent 时，检索增强（Retrieval-Augmented Generation，RAG）是提的比较多的，它可以缓解大模型的幻觉问题，还有一点也十分重要，那就是工具增强（Tools-Augmented），让大模型可以正确地选择工具，并依次执行任务，最后达到期望的效果。<br><br>RestGPT 采用迭代式从粗到精的在线规划框架，让 LLM 逐步找到合适的 API，并在它设定的程序执行器中完成程序执行；整个过程有点类似广度优先算法，先找到 API 集合再找到详细的 API，然后利用 LLM 的推理能力，将多个 API 组合成调用链。<br><br>框架要求输入 API 文档和 Response Schema 信息，其效果相比 ReAct、Reflexion 等框架，包括对比 ChatGPT，都要好出 10%~160%。<br><br>我详细看了论文对应的项目代码，https://github.com/Yifan-Song793/RestGPT，主要依靠 Prompt 以及循环执行来完成任务规划，实现过程较为简单，而 Prompt 写的过于复杂。这个思路是值得借鉴的，实际使用过程还是建议自己重新撸一份代码。<br><br>视频演示了使用 TMDB 电影数据库搜索 Sofia Coppola 导演的电影总量：<br><video src="https://videocdn.jellow.site/FoDXprQVT96K_rAj9g0YZD0sDARA.mp4?sign=2f37da55e1fb66e934224537e85b6c56&amp;t=656e39d1" controls=""></video>]]></description>
+            <pubDate>Mon, 04 Dec 2023 11:47:45 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/656dbc61c9ed8caff06f0b31</guid>
+            <link>https://m.okjike.com/originalPosts/656dbc61c9ed8caff06f0b31</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
             
                 
             
@@ -146,22 +162,6 @@
             
             
             <author><![CDATA[BigYe程普]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[兄弟们，自己的服务器一定要把ssh登录保护打开啊 不看不知道，一看吓一跳 6千多次暴力破解]]></title>
-            <description><![CDATA[兄弟们，自己的服务器一定要把ssh登录保护打开啊<br>不看不知道，一看吓一跳<br>6千多次暴力破解<br><img src="https://cdnv2.ruguoapp.com/Fph7vlJ_LNgaQK9PZDO7WktTnK1Wv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 30 Nov 2023 15:32:47 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6568ab1f552e503d7cd61d52</guid>
-            <link>https://m.okjike.com/originalPosts/6568ab1f552e503d7cd61d52</link>
-            
-            
-            
-            <author><![CDATA[real张三]]></author>
             
                 
             
