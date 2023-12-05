@@ -21,8 +21,40 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 05 Dec 2023 00:45:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Dec 2023 02:50:07 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[知了阅读 iOS App 开始内测了，优先邀请充值过的用户体验，后面再开放给所有用户。🥳 BTW，我们启用了新的 Logo。🥹]]></title>
+            <description><![CDATA[知了阅读 iOS App 开始内测了，优先邀请充值过的用户体验，后面再开放给所有用户。🥳<br><br>BTW，我们启用了新的 Logo。🥹<br><img src="https://cdnv2.ruguoapp.com/FjeiM37ohVRAr2Xf04jCdmh9BZ4Jv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fs5FJaxRgeLlcoUB6j5mbQrkcSRhv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FlAEjN5Cs9WmPQNnCqwLua9evpoGv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FjAfZROLHF2jvfw1_81aSKWb0-dzv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fj_DesDcvhs1CVLPh68SVPIrpSORv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fqw6F33AeQW3S--YszIO6YNWijo9v3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 05 Dec 2023 01:54:44 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/656e82e4c9ed8caff07bda24</guid>
+            <link>https://m.okjike.com/originalPosts/656e82e4c9ed8caff07bda24</link>
+            
+            
+            
+            <author><![CDATA[艾逗笔]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[过去一个月，收到了非常多的用户反馈，表示已经把 https://devv.ai 作为了默认的搜索引擎。 https://devv.ai 是专门面向开发者的 AI 搜索引擎，目标是替代开发者...]]></title>
+            <description><![CDATA[过去一个月，收到了非常多的用户反馈，表示已经把 https://devv.ai 作为了默认的搜索引擎。<br><br>https://devv.ai 是专门面向开发者的 AI 搜索引擎，目标是替代开发者日常使用 Google / StackOverflow / 文档查询的场景。<br><br>免费、快速、准确。<br><img src="https://cdnv2.ruguoapp.com/FlEvn1tUPCNsh93EFmjoA7NEq1v5v3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 05 Dec 2023 01:21:23 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/656e7b1387a8e03bd1abc344</guid>
+            <link>https://m.okjike.com/originalPosts/656e7b1387a8e03bd1abc344</link>
+            
+            
+            
+            <author><![CDATA[加元.Jiayuan]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[那些“小小的也很可爱”的软件 1. SQLite 数据库 https://www.sqlite.org/index.html 2. foobar2000 音频播放器 https://www.foobar2000.org/ 3. vim 文本编辑器...]]></title>
@@ -42,7 +74,7 @@
         
         <item>
             <title><![CDATA[RestGPT，https://restgpt.github.io，让大模型连接真实世界的 Restful API 在构建 AI Agent 时，检索增强（Retrieval-Augmented Generation，RAG）是提的比较多...]]></title>
-            <description><![CDATA[RestGPT，https://restgpt.github.io，让大模型连接真实世界的 Restful API<br><br>在构建 AI Agent 时，检索增强（Retrieval-Augmented Generation，RAG）是提的比较多的，它可以缓解大模型的幻觉问题，还有一点也十分重要，那就是工具增强（Tools-Augmented），让大模型可以正确地选择工具，并依次执行任务，最后达到期望的效果。<br><br>RestGPT 采用迭代式从粗到精的在线规划框架，让 LLM 逐步找到合适的 API，并在它设定的程序执行器中完成程序执行；整个过程有点类似广度优先算法，先找到 API 集合再找到详细的 API，然后利用 LLM 的推理能力，将多个 API 组合成调用链。<br><br>框架要求输入 API 文档和 Response Schema 信息，其效果相比 ReAct、Reflexion 等框架，包括对比 ChatGPT，都要好出 10%~160%。<br><br>我详细看了论文对应的项目代码，https://github.com/Yifan-Song793/RestGPT，主要依靠 Prompt 以及循环执行来完成任务规划，实现过程较为简单，而 Prompt 写的过于复杂。这个思路是值得借鉴的，实际使用过程还是建议自己重新撸一份代码。<br><br>视频演示了使用 TMDB 电影数据库搜索 Sofia Coppola 导演的电影总量：<br><video src="https://videocdn.jellow.site/FoDXprQVT96K_rAj9g0YZD0sDARA.mp4?sign=04759debb18bb103eaf7cda33bbcd8bf&amp;t=656e79c0" controls=""></video>]]></description>
+            <description><![CDATA[RestGPT，https://restgpt.github.io，让大模型连接真实世界的 Restful API<br><br>在构建 AI Agent 时，检索增强（Retrieval-Augmented Generation，RAG）是提的比较多的，它可以缓解大模型的幻觉问题，还有一点也十分重要，那就是工具增强（Tools-Augmented），让大模型可以正确地选择工具，并依次执行任务，最后达到期望的效果。<br><br>RestGPT 采用迭代式从粗到精的在线规划框架，让 LLM 逐步找到合适的 API，并在它设定的程序执行器中完成程序执行；整个过程有点类似广度优先算法，先找到 API 集合再找到详细的 API，然后利用 LLM 的推理能力，将多个 API 组合成调用链。<br><br>框架要求输入 API 文档和 Response Schema 信息，其效果相比 ReAct、Reflexion 等框架，包括对比 ChatGPT，都要好出 10%~160%。<br><br>我详细看了论文对应的项目代码，https://github.com/Yifan-Song793/RestGPT，主要依靠 Prompt 以及循环执行来完成任务规划，实现过程较为简单，而 Prompt 写的过于复杂。这个思路是值得借鉴的，实际使用过程还是建议自己重新撸一份代码。<br><br>视频演示了使用 TMDB 电影数据库搜索 Sofia Coppola 导演的电影总量：<br><video src="https://videocdn.jellow.site/FoDXprQVT96K_rAj9g0YZD0sDARA.mp4?sign=746508279fb1f64bade899a0deb2fa98&amp;t=656e9565" controls=""></video>]]></description>
             <pubDate>Mon, 04 Dec 2023 11:47:45 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/656dbc61c9ed8caff06f0b31</guid>
             <link>https://m.okjike.com/originalPosts/656dbc61c9ed8caff06f0b31</link>
@@ -137,22 +169,6 @@
         </item>
         
         <item>
-            <title><![CDATA[谷歌官方出的图片优化指南《Google 图片 SEO 最佳实践》很值得学习。 https://developers.google.com/search/docs/appearance/google-images?hl=zh-cn]]></title>
-            <description><![CDATA[谷歌官方出的图片优化指南《Google 图片 SEO 最佳实践》很值得学习。<br>https://developers.google.com/search/docs/appearance/google-images?hl=zh-cn<br><img src="https://cdnv2.ruguoapp.com/Frs4OqC7hPAb-qVeCc0lyVdnDCyQv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 01 Dec 2023 10:48:31 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6569b9ff552e503d7ceb1577</guid>
-            <link>https://m.okjike.com/originalPosts/6569b9ff552e503d7ceb1577</link>
-            
-            
-            
-            <author><![CDATA[哥飞]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[推荐一个学习编程的宝藏：https://roadmap.sh 这个网站旨在创建编程技术路线图、指南等，帮助引导开发人员选择路径并指导他们学习。]]></title>
             <description><![CDATA[推荐一个学习编程的宝藏：https://roadmap.sh<br>这个网站旨在创建编程技术路线图、指南等，帮助引导开发人员选择路径并指导他们学习。<br><img src="https://cdnv2.ruguoapp.com/FgZrprDokUAC4vACtWQ2Pg4tO_juv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FgPjfEPsnxb5hHNTOpM4n7b18me7v3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FhSqq_FeJqtJhCiZ9YjsB5eZ7yXDv3.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Fri, 01 Dec 2023 08:12:48 GMT</pubDate>
@@ -162,22 +178,6 @@
             
             
             <author><![CDATA[BigYe程普]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[pdf2htmlEX 是一个值得推荐的 PDF 转 HTML 工具，https://github.com/pdf2htmlEX/pdf2htmlEX，它生成的内容还原度非常高，几乎与原 PDF 一致。 我去扒了下这个项...]]></title>
-            <description><![CDATA[pdf2htmlEX 是一个值得推荐的 PDF 转 HTML 工具，https://github.com/pdf2htmlEX/pdf2htmlEX，它生成的内容还原度非常高，几乎与原 PDF 一致。<br><br>我去扒了下这个项目的历史，https://github.com/coolwanglu/pdf2htmlEX/wiki/Author%27s-Words，作者因朋友抱怨没有一个在线 PDF viewer，于是他就撸了一个将 PDF 转成 HTML 的“玩具”，时间是 2013 年，也有十年历史了。<br><br>pdf2htmlEX 背后使用的是 poppler 这个渲染库，而 poppler 背后使用的是  xpdf-3.0，它是一个免费的 PDF 查看器和工具包，包括文本提取器、图像转换器、HTML 转换器等。Chrome 自家也撸了一个 PDF 渲染引擎，叫做 pdfium，项目地址在这里：https://pdfium.googlesource.com/pdfium<br><br>项目在 2018 年就被作者归档了，为了可以让社区更好地贡献代码，新开了一个 repo 延续，在这个 repo 中，作者对打包过程做了封装，并且锁定了两个重要依赖的版本（poppler 和 Fontforge）。<br><br>我在 Mac 下一直没有成功安装，看到有人提了一个兼容的 PR，状态还是 work in progress：https://github.com/pdf2htmlEX/pdf2htmlEX/pull/18，都五年了，应该是没有下文了😂<br><img src="https://cdnv2.ruguoapp.com/FoOxF-r_StpSAUGMX5gRLl1jd-cQv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FiZte6dXRBhdT6slOypJCqXtG3yVv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fk2SPCSvUW0sXdUjhZCWH6xI9cmmv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 30 Nov 2023 05:26:28 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65681d04c9ed8caff000ff02</guid>
-            <link>https://m.okjike.com/originalPosts/65681d04c9ed8caff000ff02</link>
-            
-            
-            
-            <author><![CDATA[Barret李靖]]></author>
             
                 
             
