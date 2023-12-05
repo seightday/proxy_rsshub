@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 05 Dec 2023 15:06:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Dec 2023 19:09:33 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[GPT-4V-Act，https://github.com/ddupont808/GPT-4V-Act，这个项目演示了让 GPT-4V 来控制自己的浏览器，例如执行任务“随机播放一首音乐”，浏览器会自己进入搜...]]></title>
+            <description><![CDATA[GPT-4V-Act，https://github.com/ddupont808/GPT-4V-Act，这个项目演示了让 GPT-4V 来控制自己的浏览器，例如执行任务“随机播放一首音乐”，浏览器会自己进入搜索引擎，完成输入、搜索、点击、选择等操作，整个思考（Observe）过程都由 AI 来完成。<br><br>与之前分享的 self-operation-computer 实现上存在一些差异，之前项目会把任务目标、上一步结果和当前的截图扔给 GPT-4V，而这个项目会先对截图进行一次预处理，叫做 labeling，给网页上的元素标号——实现原理很简单，就是遍历元素，获取元素的网页布局位置，然后为其增加一个边框和标号。<br><br>有了 labeling 操作，GPT-4V 在理解网页的时候可以做到更加聚焦和准确，而且返回指令的时候，也可以明确告知浏览器去操作哪个元素。<br><br>- 实现 labeling 的操作，在这里：https://github.com/ddupont808/GPT-4V-Act/blob/main/preload-view.js#L154 <br>- Prompt 有点 TS 风格，十分简洁：https://github.com/ddupont808/GPT-4V-Act/blob/main/main.js#L13 <br><video src="https://videocdn.jellow.site/Fivy61Aolm7twR8TYzdti-wcJKiQ.mp4?sign=d7cc4595b40d09879b227525b092ba80&amp;t=656f7c74" controls=""></video>]]></description>
+            <pubDate>Tue, 05 Dec 2023 09:42:22 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/656ef07ed027b7ac8ca79bf1</guid>
+            <link>https://m.okjike.com/originalPosts/656ef07ed027b7ac8ca79bf1</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[#2023技术播客节 🎁评论有奖 📆 12月5日节目合集 🎧 🚀 这是我们技术播客节的第二天，技术播客节集结了众多技术播客和技术社区用声音来表达，今天的主题...]]></title>
@@ -162,22 +178,6 @@
             
             
             <author><![CDATA[哥飞]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[推荐一个学习编程的宝藏：https://roadmap.sh 这个网站旨在创建编程技术路线图、指南等，帮助引导开发人员选择路径并指导他们学习。]]></title>
-            <description><![CDATA[推荐一个学习编程的宝藏：https://roadmap.sh<br>这个网站旨在创建编程技术路线图、指南等，帮助引导开发人员选择路径并指导他们学习。<br><img src="https://cdnv2.ruguoapp.com/FgZrprDokUAC4vACtWQ2Pg4tO_juv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FgPjfEPsnxb5hHNTOpM4n7b18me7v3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FhSqq_FeJqtJhCiZ9YjsB5eZ7yXDv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 01 Dec 2023 08:12:48 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65699580ee2e07f7ac4f2625</guid>
-            <link>https://m.okjike.com/originalPosts/65699580ee2e07f7ac4f2625</link>
-            
-            
-            
-            <author><![CDATA[BigYe程普]]></author>
             
                 
             
