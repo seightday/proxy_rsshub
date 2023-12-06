@@ -21,12 +21,60 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 06 Dec 2023 03:35:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Dec 2023 07:50:12 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
+            <title><![CDATA[防御性编程？🤔]]></title>
+            <description><![CDATA[防御性编程？🤔<br><img src="https://cdnv2.ruguoapp.com/FgLp09pun9LDMt1N51W9e98uoFAev3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 06 Dec 2023 05:06:52 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6570016c552e503d7c62a581</guid>
+            <link>https://m.okjike.com/originalPosts/6570016c552e503d7c62a581</link>
+            
+            
+            
+            <author><![CDATA[阿法兔]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[复旦大学张奇教授团队写了一本在线免费的电子书，《大规模语言模型：从理论到实践》，https://intro-llm.github.io，大概有 300 页篇幅，将大模型从理论到实战的...]]></title>
+            <description><![CDATA[复旦大学张奇教授团队写了一本在线免费的电子书，《大规模语言模型：从理论到实践》，https://intro-llm.github.io，大概有 300 页篇幅，将大模型从理论到实战的每个阶段都描述的较为清楚。<br><br>全文在线阅读地址：https://intro-llm.github.io/chapter/LLM-TAP.pdf<br><img src="https://cdnv2.ruguoapp.com/FjV7XqDTBIdUhRCDzxlhNeu86DO1v3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FoR2rnk0Xkw_jwQo4_WO8fLB3MHhv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 06 Dec 2023 03:55:16 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/656ff0a4278f95df6fef70bb</guid>
+            <link>https://m.okjike.com/originalPosts/656ff0a4278f95df6fef70bb</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[一个前端大佬的数字花园， 里面有非常多交互、css 实现等的 case study，建议收藏细细看 👀 👉 https://garden.bradwoods.io/]]></title>
+            <description><![CDATA[一个前端大佬的数字花园， 里面有非常多交互、css 实现等的 case study，建议收藏细细看 👀<br><br>👉 https://garden.bradwoods.io/<br><img src="https://cdnv2.ruguoapp.com/lqJOwHR5SmoSNgJFYj9hEyfnPx3bv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 06 Dec 2023 02:50:48 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/656fe188d027b7ac8cb82b70</guid>
+            <link>https://m.okjike.com/originalPosts/656fe188d027b7ac8cb82b70</link>
+            
+            
+            
+            <author><![CDATA[张小吉]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[GPT-4V-Act，https://github.com/ddupont808/GPT-4V-Act，这个项目演示了让 GPT-4V 来控制自己的浏览器，例如执行任务“随机播放一首音乐”，浏览器会自己进入搜...]]></title>
-            <description><![CDATA[GPT-4V-Act，https://github.com/ddupont808/GPT-4V-Act，这个项目演示了让 GPT-4V 来控制自己的浏览器，例如执行任务“随机播放一首音乐”，浏览器会自己进入搜索引擎，完成输入、搜索、点击、选择等操作，整个思考（Observe）过程都由 AI 来完成。<br><br>与之前分享的 self-operation-computer 实现上存在一些差异，之前项目会把任务目标、上一步结果和当前的截图扔给 GPT-4V，而这个项目会先对截图进行一次预处理，叫做 labeling，给网页上的元素标号——实现原理很简单，就是遍历元素，获取元素的网页布局位置，然后为其增加一个边框和标号。<br><br>有了 labeling 操作，GPT-4V 在理解网页的时候可以做到更加聚焦和准确，而且返回指令的时候，也可以明确告知浏览器去操作哪个元素。<br><br>- 实现 labeling 的操作，在这里：https://github.com/ddupont808/GPT-4V-Act/blob/main/preload-view.js#L154 <br>- Prompt 有点 TS 风格，十分简洁：https://github.com/ddupont808/GPT-4V-Act/blob/main/main.js#L13 <br><video src="https://videocdn.jellow.site/Fivy61Aolm7twR8TYzdti-wcJKiQ.mp4?sign=4384e94060c183095ba6febc0f21f84f&amp;t=656ff0d0" controls=""></video>]]></description>
+            <description><![CDATA[GPT-4V-Act，https://github.com/ddupont808/GPT-4V-Act，这个项目演示了让 GPT-4V 来控制自己的浏览器，例如执行任务“随机播放一首音乐”，浏览器会自己进入搜索引擎，完成输入、搜索、点击、选择等操作，整个思考（Observe）过程都由 AI 来完成。<br><br>与之前分享的 self-operation-computer 实现上存在一些差异，之前项目会把任务目标、上一步结果和当前的截图扔给 GPT-4V，而这个项目会先对截图进行一次预处理，叫做 labeling，给网页上的元素标号——实现原理很简单，就是遍历元素，获取元素的网页布局位置，然后为其增加一个边框和标号。<br><br>有了 labeling 操作，GPT-4V 在理解网页的时候可以做到更加聚焦和准确，而且返回指令的时候，也可以明确告知浏览器去操作哪个元素。<br><br>- 实现 labeling 的操作，在这里：https://github.com/ddupont808/GPT-4V-Act/blob/main/preload-view.js#L154 <br>- Prompt 有点 TS 风格，十分简洁：https://github.com/ddupont808/GPT-4V-Act/blob/main/main.js#L13 <br><video src="https://videocdn.jellow.site/Fivy61Aolm7twR8TYzdti-wcJKiQ.mp4?sign=bf748ab9b8abc99af1251de2abf13585&amp;t=65702d8f" controls=""></video>]]></description>
             <pubDate>Tue, 05 Dec 2023 09:42:22 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/656ef07ed027b7ac8ca79bf1</guid>
             <link>https://m.okjike.com/originalPosts/656ef07ed027b7ac8ca79bf1</link>
@@ -66,22 +114,6 @@
             
             
             <author><![CDATA[Barret李靖]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[知了阅读 iOS App 开始内测了，优先邀请充值过的用户体验，后面再开放给所有用户。🥳 BTW，我们启用了新的 Logo。🥹]]></title>
-            <description><![CDATA[知了阅读 iOS App 开始内测了，优先邀请充值过的用户体验，后面再开放给所有用户。🥳<br><br>BTW，我们启用了新的 Logo。🥹<br><img src="https://cdnv2.ruguoapp.com/FjeiM37ohVRAr2Xf04jCdmh9BZ4Jv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fs5FJaxRgeLlcoUB6j5mbQrkcSRhv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FlAEjN5Cs9WmPQNnCqwLua9evpoGv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FjAfZROLHF2jvfw1_81aSKWb0-dzv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fj_DesDcvhs1CVLPh68SVPIrpSORv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fqw6F33AeQW3S--YszIO6YNWijo9v3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 05 Dec 2023 01:54:44 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/656e82e4c9ed8caff07bda24</guid>
-            <link>https://m.okjike.com/originalPosts/656e82e4c9ed8caff07bda24</link>
-            
-            
-            
-            <author><![CDATA[艾逗笔]]></author>
             
                 
             
@@ -137,43 +169,11 @@
         </item>
         
         <item>
-            <title><![CDATA[就这个我之前说价值几万块钱的开源导航，部署起来有一点技术门槛，所以我请@艾逗笔 给大家直播分享一下搭建过程。 完全免费的，人人可看。]]></title>
-            <description><![CDATA[就这个我之前说价值几万块钱的开源导航，部署起来有一点技术门槛，所以我请@艾逗笔 给大家直播分享一下搭建过程。<br>完全免费的，人人可看。<br><img src="https://cdnv2.ruguoapp.com/FvTVvb5il6C_8b1aH3D5z9v9nWXdv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FjukBTvFuqmfXkukeX0tuHx47WYZv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sun, 03 Dec 2023 05:23:57 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/656c10ed278f95df6fa2edeb</guid>
-            <link>https://m.okjike.com/originalPosts/656c10ed278f95df6fa2edeb</link>
-            
-            
-            
-            <author><![CDATA[哥飞]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[哥飞免费提供 API 给新手一个练习在 Vercel 编写和部署项目的机会 大家好，我是哥飞。 这么多朋友已经看了哥飞的文章这么久了，但还有很多朋友一个网站都还没上...]]></title>
             <description><![CDATA[哥飞免费提供 API 给新手一个练习在 Vercel 编写和部署项目的机会<br><br>大家好，我是哥飞。<br><br>这么多朋友已经看了哥飞的文章这么久了，但还有很多朋友一个网站都还没上线。<br><br>大家是不想赚美元了吗？<br><br>所以，今天哥飞给大家布置一个小练习项目。需求给你，API也免费由哥飞提供给你。<br><br>你只需要去学习 Vercel 上面的教程，按照需求把代码写出来，就可以完成人生中第一个网站的开发上线。<br><br>你不需要购买域名，不需要购买服务器，只需要在 Vercel 注册一个账号，然后开始写代码并且部署上线就行。<br><br>所以这是一个没有任何成本的练习项目，唯一需要付出的就是你的时间和精力。<br><br>大家都知道，哥飞在2012年就上线了一个域名工具网站，名叫秋玉米，到现在已经运行11年了。<br><br>中间没有改过代码，也就是一套代码运行了11年，给哥飞赚了几万块钱，这真的是《养网站防老：网站可以做成一生的事业》。<br><br>现在这个练习项目，相当于让你实现秋玉米的 Whois 查询功能，不同的是，秋玉米后端用的是 PHP ，需要购买一个服务器。<br><br>而今天哥飞给你的这个练习项目，需要用到 Vercel 来存放和运行前后端代码，也就是不需要购买服务器了，可以免费启动。<br><br>如果你想参与这个练习，请查看哥飞之前写的《不用开发，如何 10 分钟上线一个 AI 产品》，跟着这个教程去注册 Github ，然后用 Github 账号注册 Vercel 。<br><br>注意，用全新注册的 Github 账号去注册 Vercel 很有可能会被当场封号，所以要么是用的常用 Github 账号去注册，要么是注册新的 Github 账号后先正常使用一段时间，然后再去注册 Vercel 。<br><br>当然也可以在被封之后，找 Vercel 客服，证明你是真人，让客服给你解封。<br><br>哥飞会给你免费提供一个 whois 信息查询接口，你需要去实现一个域名注册时间查询小工具。<br><br>目前这个接口暂时支持 com,net,org,me,xyz,info,io,co,ai,biz,us 等后缀域名。<br><br>你需要做一个前端页面，用户可以输入域名，之后点击查询按钮，向 nodejs 后端发一个查询请求，后端校验格式，拆分域名 name 和 suffix ，向 whois 接口发送请求，获取返回的 json 信息，返回给前端，前端解析后，显示域名未注册，或者已注册，及注册时间，whois原始信息等。<br><br>哥飞希望你分成几个版本来开发，因为真实的需求也是这样，先做一个最简单的具有核心功能的版本给用户使用，之后再来完善。<br><br>第一版本，实现用户输入域名，能够显示是否注册，以及注册时间等信息就可以。这一版本可以先不实现后端渲染。<br><br>第二版本，改成每次点击查询后，打开一个查询结果页面，来显示结果，这就需要使用 next.js 框架实现后端渲染。<br><br>第三版本，可以加上缓存处理，一个已经注册的域名，那么到期之前，其实都不需要再去查询接口。不过这个接口暂时没有到期时间，那么你可以设置成，每次查询之后的24小时内都不需要查询接口。<br><br>第四版本，加上数据库存储，再在首页查询框下方显示最近查询的20个已注册域名，注意，这里依然需要后端渲染。<br><br>第五版本，可以支持一次查询N个后缀的结果，扫描未注册的域名。<br><br>第六版本，可以支持用户输入之后，你调用GPT接口，给出N个域名建议，之后查询这些域名是否注册。<br><br>要想拿到哥飞给你提供的这个免费 whois 接口，有一点点小门槛，你需要先去注册 Vercel 账号，部署一个静态页面，显示“GeFei”几个字母，之后链接发给哥飞查看。<br><br>如果你给了链接，说明你把准备工作都做好了，也就是把 Vercel 和 Github 账号都注册好了，并且也新建了项目，写了一个静态 html ，还运行起来了，可以正确显示文字。<br><br>这一步很重要，做完这些准备工作，理论上你可以开始任意网站的开发。<br><br>所以哥飞把这个步骤当作一个门槛。<br><br>如果你准备好了链接，请加哥飞微信 qiayue ，哥飞会给你发 Whois 接口，让你可以开始进行接下来的开发步骤。]]></description>
             <pubDate>Sat, 02 Dec 2023 10:57:16 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/656b0d8c278f95df6f923716</guid>
             <link>https://m.okjike.com/originalPosts/656b0d8c278f95df6f923716</link>
-            
-            
-            
-            <author><![CDATA[哥飞]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[今天是12月2日，5个月前，命运的齿轮开始转动…… 当时我完全想不到，5个月后，有800+人加入了我的社群。 感谢所有支持我的朋友们。]]></title>
-            <description><![CDATA[今天是12月2日，5个月前，命运的齿轮开始转动……<br>当时我完全想不到，5个月后，有800+人加入了我的社群。<br>感谢所有支持我的朋友们。<br><img src="https://cdnv2.ruguoapp.com/Fjn92XxUvpaMyp0nysjXOMb1RBn5v3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 02 Dec 2023 01:44:31 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/656a8bff34ae48b9be9ffe23</guid>
-            <link>https://m.okjike.com/originalPosts/656a8bff34ae48b9be9ffe23</link>
             
             
             
