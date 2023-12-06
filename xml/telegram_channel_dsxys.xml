@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
 
   xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
 
-
 >
     <channel>
-        <title><![CDATA[大师兄影视官方频道 - Telegram Channel]]></title>
+        <title><![CDATA[大师兄影视官方频道 - Telegram 频道]]></title>
         <link>https://t.me/s/dsxys</link>
-        <atom:link href="https://rsshub.app/telegram/channel/dsxys" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub/telegram/channel/dsxys" rel="self" type="application/rss+xml" />
         <description><![CDATA[官网https://dsxys.pro - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -19,16 +18,16 @@
         
         <image>
             <url>https://cdn5.cdn-telegram.org/file/k7J1FNgLZSV0WrheTZHFGh7-Wzc9JqMKRGj0FSh0mu054Y0Dmwvp4ZXOWvOdoeWTEPBKJtrLD2deHL16B157k-AsGzRoHByimayEDOkl2CGJa0aXW0CX724x7cYthnT_RCe-G9AcP1oZI37vE42vhiDMeHzY62-kzGCZfs9gyGFGBE2xtqSIOW-yIPbuKzwMA2UJUL4r1uNlZCWt9qPfJUs26pKn8Sr45z1DfKgx_Hck0-bQQEinjhxZkQ4oiaizIyRQr54V8wU8laiEm5IPVdeoFrvS43mNFmMwxoF3c7_nDU0HkeYiEVE1Rdelc5M5cP4bQFmhHoeA6BAGE9fn5A.jpg</url>
-            <title><![CDATA[大师兄影视官方频道 - Telegram Channel]]></title>
+            <title><![CDATA[大师兄影视官方频道 - Telegram 频道]]></title>
             <link>https://t.me/s/dsxys</link>
         </image>
         
-        <lastBuildDate>Wed, 06 Dec 2023 08:16:21 GMT</lastBuildDate>
-        <ttl>120</ttl>
+        <lastBuildDate>Wed, 06 Dec 2023 12:25:01 GMT</lastBuildDate>
+        <ttl>1</ttl>
         
         <item>
-            <title><![CDATA[📄 大师兄影视-3.3.3+3303.apk - 56.6 MB]]></title>
-            <description><![CDATA[<blockquote><p><b>大师兄影视-3.3.3+3303.apk</b></p><p><small>56.6 MB</small></p></blockquote><p>系统:安卓<br>版本号:3.3.3+3303<br>是否需要更新:必须更新<br>是否可以覆盖更新:是<br>软件名:大师兄影视<br>更新内容:<br>1.优化及修复功能<br>注意事项:<br>尽快更新，如部分提示风险请自行加白,</p>]]></description>
+            <title><![CDATA[📎大师兄影视-3.3.3+3303.apk / 56.6 MB]]></title>
+            <description><![CDATA[<p>系统:安卓<br>版本号:3.3.3+3303<br>是否需要更新:必须更新<br>是否可以覆盖更新:是<br>软件名:大师兄影视<br>更新内容:<br>1.优化及修复功能<br>注意事项:<br>尽快更新，如部分提示风险请自行加白,</p>]]></description>
             <pubDate>Tue, 24 Oct 2023 15:12:14 GMT</pubDate>
             <guid isPermaLink="false">https://t.me/dsxys/1054</guid>
             <link>https://t.me/dsxys/1054</link>
@@ -59,8 +58,8 @@
         </item>
         
         <item>
-            <title><![CDATA[📄 dsxtv1.0.7.apk - 28.3 MB]]></title>
-            <description><![CDATA[<blockquote><p><b>dsxtv1.0.7.apk</b></p><p><small>28.3 MB</small></p></blockquote><p>最近有反应电视端1.0.8版本出现未知错误后一直无法打开.我们排查了下没找到原因所在（可能抽风了）.新版本在构架中可先用1.0.7版本临时代替下未知错误版本.</p>]]></description>
+            <title><![CDATA[📎dsxtv1.0.7.apk / 28.3 MB]]></title>
+            <description><![CDATA[<p>最近有反应电视端1.0.8版本出现未知错误后一直无法打开.我们排查了下没找到原因所在（可能抽风了）.新版本在构架中可先用1.0.7版本临时代替下未知错误版本.</p>]]></description>
             <pubDate>Fri, 09 Dec 2022 03:18:01 GMT</pubDate>
             <guid isPermaLink="false">https://t.me/dsxys/899</guid>
             <link>https://t.me/dsxys/899</link>
@@ -75,8 +74,8 @@
         </item>
         
         <item>
-            <title><![CDATA[📄 dsxtv1.0.8+1010.apk - 29.8 MB]]></title>
-            <description><![CDATA[<blockquote><p><b>dsxtv1.0.8+1010.apk</b></p><p><small>29.8 MB</small></p></blockquote><p>系统:电视、盒子版本<br>版本号:1.0.8+1010<br>是否需要更新:必须更新<br>是否可以覆盖更新:是<br>软件名:大师兄影视<br>更新内容:<br>1:修改一大堆bug<br>2:优化逻辑功能<br>3:新增软解硬解设置<br>4:新增搜索可通过首字母及全拼方式共同使用<br>5:修复播放问题<br>6:修复兼容性<br>注意事项:<br>没有应该<br><br><br><br>哦哦哦忘了送...一会在评论里面哦~~~</p>]]></description>
+            <title><![CDATA[📎dsxtv1.0.8+1010.apk / 29.8 MB]]></title>
+            <description><![CDATA[<p>系统:电视、盒子版本<br>版本号:1.0.8+1010<br>是否需要更新:必须更新<br>是否可以覆盖更新:是<br>软件名:大师兄影视<br>更新内容:<br>1:修改一大堆bug<br>2:优化逻辑功能<br>3:新增软解硬解设置<br>4:新增搜索可通过首字母及全拼方式共同使用<br>5:修复播放问题<br>6:修复兼容性<br>注意事项:<br>没有应该<br><br><br><br>哦哦哦忘了送...一会在评论里面哦~~~</p>]]></description>
             <pubDate>Mon, 19 Sep 2022 14:22:24 GMT</pubDate>
             <guid isPermaLink="false">https://t.me/dsxys/783</guid>
             <link>https://t.me/dsxys/783</link>
@@ -91,7 +90,7 @@
         </item>
         
         <item>
-            <title><![CDATA[🔧 Channel created]]></title>
+            <title><![CDATA[Channel created]]></title>
             <description><![CDATA[<p>Channel created</p>]]></description>
             <pubDate>Tue, 19 Jan 2021 10:47:32 GMT</pubDate>
             <guid isPermaLink="false">https://t.me/dsxys/1</guid>
