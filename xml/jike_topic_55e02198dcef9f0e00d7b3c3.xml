@@ -21,12 +21,12 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 05 Dec 2023 23:16:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Dec 2023 03:35:24 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
             <title><![CDATA[GPT-4V-Act，https://github.com/ddupont808/GPT-4V-Act，这个项目演示了让 GPT-4V 来控制自己的浏览器，例如执行任务“随机播放一首音乐”，浏览器会自己进入搜...]]></title>
-            <description><![CDATA[GPT-4V-Act，https://github.com/ddupont808/GPT-4V-Act，这个项目演示了让 GPT-4V 来控制自己的浏览器，例如执行任务“随机播放一首音乐”，浏览器会自己进入搜索引擎，完成输入、搜索、点击、选择等操作，整个思考（Observe）过程都由 AI 来完成。<br><br>与之前分享的 self-operation-computer 实现上存在一些差异，之前项目会把任务目标、上一步结果和当前的截图扔给 GPT-4V，而这个项目会先对截图进行一次预处理，叫做 labeling，给网页上的元素标号——实现原理很简单，就是遍历元素，获取元素的网页布局位置，然后为其增加一个边框和标号。<br><br>有了 labeling 操作，GPT-4V 在理解网页的时候可以做到更加聚焦和准确，而且返回指令的时候，也可以明确告知浏览器去操作哪个元素。<br><br>- 实现 labeling 的操作，在这里：https://github.com/ddupont808/GPT-4V-Act/blob/main/preload-view.js#L154 <br>- Prompt 有点 TS 风格，十分简洁：https://github.com/ddupont808/GPT-4V-Act/blob/main/main.js#L13 <br><video src="https://videocdn.jellow.site/Fivy61Aolm7twR8TYzdti-wcJKiQ.mp4?sign=f446e96c99b50f6665b56cb376d4745a&amp;t=656fb66a" controls=""></video>]]></description>
+            <description><![CDATA[GPT-4V-Act，https://github.com/ddupont808/GPT-4V-Act，这个项目演示了让 GPT-4V 来控制自己的浏览器，例如执行任务“随机播放一首音乐”，浏览器会自己进入搜索引擎，完成输入、搜索、点击、选择等操作，整个思考（Observe）过程都由 AI 来完成。<br><br>与之前分享的 self-operation-computer 实现上存在一些差异，之前项目会把任务目标、上一步结果和当前的截图扔给 GPT-4V，而这个项目会先对截图进行一次预处理，叫做 labeling，给网页上的元素标号——实现原理很简单，就是遍历元素，获取元素的网页布局位置，然后为其增加一个边框和标号。<br><br>有了 labeling 操作，GPT-4V 在理解网页的时候可以做到更加聚焦和准确，而且返回指令的时候，也可以明确告知浏览器去操作哪个元素。<br><br>- 实现 labeling 的操作，在这里：https://github.com/ddupont808/GPT-4V-Act/blob/main/preload-view.js#L154 <br>- Prompt 有点 TS 风格，十分简洁：https://github.com/ddupont808/GPT-4V-Act/blob/main/main.js#L13 <br><video src="https://videocdn.jellow.site/Fivy61Aolm7twR8TYzdti-wcJKiQ.mp4?sign=4384e94060c183095ba6febc0f21f84f&amp;t=656ff0d0" controls=""></video>]]></description>
             <pubDate>Tue, 05 Dec 2023 09:42:22 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/656ef07ed027b7ac8ca79bf1</guid>
             <link>https://m.okjike.com/originalPosts/656ef07ed027b7ac8ca79bf1</link>
@@ -73,6 +73,22 @@
         </item>
         
         <item>
+            <title><![CDATA[知了阅读 iOS App 开始内测了，优先邀请充值过的用户体验，后面再开放给所有用户。🥳 BTW，我们启用了新的 Logo。🥹]]></title>
+            <description><![CDATA[知了阅读 iOS App 开始内测了，优先邀请充值过的用户体验，后面再开放给所有用户。🥳<br><br>BTW，我们启用了新的 Logo。🥹<br><img src="https://cdnv2.ruguoapp.com/FjeiM37ohVRAr2Xf04jCdmh9BZ4Jv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fs5FJaxRgeLlcoUB6j5mbQrkcSRhv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FlAEjN5Cs9WmPQNnCqwLua9evpoGv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FjAfZROLHF2jvfw1_81aSKWb0-dzv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fj_DesDcvhs1CVLPh68SVPIrpSORv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fqw6F33AeQW3S--YszIO6YNWijo9v3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 05 Dec 2023 01:54:44 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/656e82e4c9ed8caff07bda24</guid>
+            <link>https://m.okjike.com/originalPosts/656e82e4c9ed8caff07bda24</link>
+            
+            
+            
+            <author><![CDATA[艾逗笔]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[过去一个月，收到了非常多的用户反馈，表示已经把 https://devv.ai 作为了默认的搜索引擎。 https://devv.ai 是专门面向开发者的 AI 搜索引擎，目标是替代开发者...]]></title>
             <description><![CDATA[过去一个月，收到了非常多的用户反馈，表示已经把 https://devv.ai 作为了默认的搜索引擎。<br><br>https://devv.ai 是专门面向开发者的 AI 搜索引擎，目标是替代开发者日常使用 Google / StackOverflow / 文档查询的场景。<br><br>免费、快速、准确。<br><img src="https://cdnv2.ruguoapp.com/FlEvn1tUPCNsh93EFmjoA7NEq1v5v3.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Tue, 05 Dec 2023 01:21:23 GMT</pubDate>
@@ -82,22 +98,6 @@
             
             
             <author><![CDATA[加元.Jiayuan]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[那些“小小的也很可爱”的软件 1. SQLite 数据库 https://www.sqlite.org/index.html 2. foobar2000 音频播放器 https://www.foobar2000.org/ 3. vim 文本编辑器...]]></title>
-            <description><![CDATA[那些“小小的也很可爱”的软件<br>1. SQLite 数据库 https://www.sqlite.org/index.html<br>2. foobar2000 音频播放器 https://www.foobar2000.org/<br>3. vim 文本编辑器 https://www.vim.org/<br>4. Blender 三维编辑器 https://www.blender.org/<br>5. ImageMagick 图像编辑工具 https://imagemagick.org/<br>6. FFmpeg 音视频编辑工具 https://ffmpeg.org/<br><br>未完待续]]></description>
-            <pubDate>Mon, 04 Dec 2023 12:05:18 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/656dc07e278f95df6fc5b7e1</guid>
-            <link>https://m.okjike.com/originalPosts/656dc07e278f95df6fc5b7e1</link>
-            
-            
-            
-            <author><![CDATA[流川风]]></author>
             
                 
             
