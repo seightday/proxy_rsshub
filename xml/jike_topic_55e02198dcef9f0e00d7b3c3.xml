@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Fri, 08 Dec 2023 03:34:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Dec 2023 07:37:36 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[刚才帮即友诊断了一个网站，说全站有100多个页面，但是谷歌只收录了4个。 我一看，网页界面挺精美的，结果内容是前端渲染出来的。 有点意思的是，后端返回html代...]]></title>
+            <description><![CDATA[刚才帮即友诊断了一个网站，说全站有100多个页面，但是谷歌只收录了4个。<br><br>我一看，网页界面挺精美的，结果内容是前端渲染出来的。<br><br>有点意思的是，后端返回html代码的同时，其实已经把数据放在 json 中返回了😅😅😅。<br><br>那为什么不进一步，直接在后端把html渲染好返回呢？<br><br>其实就是开发没有SEO意识，团队其他人也没有，所以没人提这个需求。<br><br>谷歌默认抓取页面时，只抓取 html 的 body 内部内容，那么放在 script 标签里的 json 当然就不会被抓取了。<br><br>当然你会说，谷歌会去执行 js 代码。但是执行js是需要多花费算力的，谷歌凭什么给你的新网站这种待遇呢？<br><br>所以，各位请注意，如果你的网站想要从谷歌获得流量，请一定后端渲染。]]></description>
+            <pubDate>Fri, 08 Dec 2023 03:37:07 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65728f63e4abacf08ed9946d</guid>
+            <link>https://m.okjike.com/originalPosts/65728f63e4abacf08ed9946d</link>
+            
+            
+            
+            <author><![CDATA[哥飞]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[下面是我正在写的推文的标题： 某个月访问量3000多万的网站里有个月访问量100万的页面，有人基于这个页面的需求做了个月收入12万+美金的AI App 是的，标题就这么...]]></title>
@@ -82,22 +98,6 @@
             
             
             <author><![CDATA[2023技术播客节]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[防御性编程？🤔]]></title>
-            <description><![CDATA[防御性编程？🤔<br><img src="https://cdnv2.ruguoapp.com/FgLp09pun9LDMt1N51W9e98uoFAev3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 06 Dec 2023 05:06:52 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6570016c552e503d7c62a581</guid>
-            <link>https://m.okjike.com/originalPosts/6570016c552e503d7c62a581</link>
-            
-            
-            
-            <author><![CDATA[阿法兔]]></author>
             
                 
             
