@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sat, 09 Dec 2023 11:08:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Dec 2023 15:13:03 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -30,6 +30,22 @@
             <pubDate>Sat, 09 Dec 2023 09:05:32 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/65742ddc34cced9e31f35696</guid>
             <link>https://m.okjike.com/originalPosts/65742ddc34cced9e31f35696</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[《Hello 算法》，https://www.hello-algo.com，这是一个适合新手的在线免费电子书，提供了丰富的图文解说，把常见的数据结构和算法都讲清楚了，而且每一种算法都...]]></title>
+            <description><![CDATA[《Hello 算法》，https://www.hello-algo.com，这是一个适合新手的在线免费电子书，提供了丰富的图文解说，把常见的数据结构和算法都讲清楚了，而且每一种算法都提供了十多种语言的实现，包括 Python/Java/JS/Go/Rust/C/Swift 等等。<br><br>另外再推荐一下《代码随想录》，https://programmercarl.com，我第一次刷算法时看的是这个网站，它算是一个完整的刷题计划，每个专题下都索引了 Leetcode 的常见题，这个作者算法能力挺不错的，把算法的思路和解题的方法都讲的十分清楚。<br><br>还看到过一个算法高频题的汇总网站：https://codetop.cc，它针对国内互联网企业，可按照按岗位、部门进行热度分类，也给有需要的朋友推荐下。<br><img src="https://cdnv2.ruguoapp.com/FqNGAk0LklR_iCF074h-DX-m8YaNv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FiBc7uKCoQYWFRc6LlyVNazU2PMFv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FnTTIgWHhrVEa5bMqGSRuwpMSC_Iv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sat, 09 Dec 2023 08:48:23 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/657429d779cb2b9f35c31179</guid>
+            <link>https://m.okjike.com/originalPosts/657429d779cb2b9f35c31179</link>
             
             
             
@@ -74,7 +90,7 @@
         
         <item>
             <title><![CDATA[如果你的浏览器经常开大几十个 Tab，然后找不到目标页，给你推荐一个 Chrome 插件：AI Group Tabs，https://github.com/MichaelYuhe/ai-group-tabs 它会利用 Chr...]]></title>
-            <description><![CDATA[如果你的浏览器经常开大几十个 Tab，然后找不到目标页，给你推荐一个 Chrome 插件：AI Group Tabs，https://github.com/MichaelYuhe/ai-group-tabs<br><br>它会利用 Chrome 的 Tab Group API 帮你一键搞定所有 Tab 的分类和命名，超级实用。目前项目还在持续迭代中，你可以过去给作者提更多需求，或者直接贡献你的代码。<br><video src="https://videocdn.jellow.site/FiMFZ-gYk4SUoe47d0dsueOHclXV.mp4?sign=579a513b2815db667f92f971c44197f5&amp;t=65745082" controls=""></video>]]></description>
+            <description><![CDATA[如果你的浏览器经常开大几十个 Tab，然后找不到目标页，给你推荐一个 Chrome 插件：AI Group Tabs，https://github.com/MichaelYuhe/ai-group-tabs<br><br>它会利用 Chrome 的 Tab Group API 帮你一键搞定所有 Tab 的分类和命名，超级实用。目前项目还在持续迭代中，你可以过去给作者提更多需求，或者直接贡献你的代码。<br><video src="https://videocdn.jellow.site/FiMFZ-gYk4SUoe47d0dsueOHclXV.mp4?sign=c8ede588c7e7e8616dc44d8e94f926bc&amp;t=65748b06" controls=""></video>]]></description>
             <pubDate>Fri, 08 Dec 2023 10:46:50 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6572f41a79cb2b9f35ae16b1</guid>
             <link>https://m.okjike.com/originalPosts/6572f41a79cb2b9f35ae16b1</link>
@@ -146,22 +162,6 @@
             
             
             <author><![CDATA[2023技术播客节]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[能够让大模型推理结果变得更好的基础优化手段已经非常多了，我梳理了常见的技术手段和对应的论文： - Zero-shot：https://arxiv.org/abs/2109.01652 - Few-shot...]]></title>
-            <description><![CDATA[能够让大模型推理结果变得更好的基础优化手段已经非常多了，我梳理了常见的技术手段和对应的论文：<br><br>- Zero-shot：https://arxiv.org/abs/2109.01652<br>- Few-shot：https://arxiv.org/abs/2005.14165<br>- CoT：https://arxiv.org/abs/2201.11903<br>- ToT：https://arxiv.org/abs/2305.10601<br>- GoT：https://arxiv.org/abs/2308.09687<br>- SC：https://arxiv.org/abs/2203.11171<br>- Multi Persona：https://arxiv.org/abs/2307.05300<br>- Least to Most：https://arxiv.org/abs/2205.10625<br>- Step Back：https://arxiv.org/abs/2310.06117<br>- ART：https://arxiv.org/abs/2303.09014<br>- ReAct：https://arxiv.org/abs/2210.03629<br>- Reflection：https://arxiv.org/abs/2303.11366<br>- RAG：https://arxiv.org/abs/2005.11401<br><br>以上内容在之前的分享中均详细提到过，有一些只需要在 Prompt 上做简单优化便可看到效果；有一些则需要进行框架设计，如对任务进行规划、分解、组合等，包括与外界环境的交互、让人参与交互，存在一定的设计成本，市面上很多 XXXGPT 也是对这些基础手段组合后的工程实践。<br><br>学习这些知识的原理有助于帮助我们打开 LLM 推理黑盒，感兴趣的朋友不妨花点时间研究下，也欢迎留言补充更多有趣的技术和论文。]]></description>
-            <pubDate>Tue, 05 Dec 2023 07:29:27 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/656ed157c306429d19e52978</guid>
-            <link>https://m.okjike.com/originalPosts/656ed157c306429d19e52978</link>
-            
-            
-            
-            <author><![CDATA[Barret李靖]]></author>
             
                 
             
