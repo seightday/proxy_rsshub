@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sat, 09 Dec 2023 00:32:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Dec 2023 02:38:41 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[《Attention is All You Need》，https://arxiv.org/abs/1706.03762，这篇论文的引用量都已经快 10w 次了，它是深度学习里面最重要的文章之一，目前市面上流行的...]]></title>
+            <description><![CDATA[《Attention is All You Need》，https://arxiv.org/abs/1706.03762，这篇论文的引用量都已经快 10w 次了，它是深度学习里面最重要的文章之一，目前市面上流行的大部分大模型，包括 ChatGPT/Claude/Bard 等等都是以 Transformer 模型为理论基础发展起来的。<br><br>推荐李沐的这集科普《Transformer 论文逐段精读》，https://www.bilibili.com/video/BV1pu411o7BE，花了一个半小时，一段一段带着阅读这篇论文，讲的非常好。<br><img src="https://cdnv2.ruguoapp.com/FuxsUEerdl7WP2E_2foh9wNlLyZMv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sat, 09 Dec 2023 01:00:35 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6573bc33e4abacf08ef04143</guid>
+            <link>https://m.okjike.com/originalPosts/6573bc33e4abacf08ef04143</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[这是一个 GPTs 的 Prompt 泄露合集：https://github.com/linexjlin/GPTs，包含了几百个泄露的 prompts 和文件。 GPTs 包含了一个预置的 prompt，能够帮助大模型...]]></title>
@@ -42,7 +58,7 @@
         
         <item>
             <title><![CDATA[如果你的浏览器经常开大几十个 Tab，然后找不到目标页，给你推荐一个 Chrome 插件：AI Group Tabs，https://github.com/MichaelYuhe/ai-group-tabs 它会利用 Chr...]]></title>
-            <description><![CDATA[如果你的浏览器经常开大几十个 Tab，然后找不到目标页，给你推荐一个 Chrome 插件：AI Group Tabs，https://github.com/MichaelYuhe/ai-group-tabs<br><br>它会利用 Chrome 的 Tab Group API 帮你一键搞定所有 Tab 的分类和命名，超级实用。目前项目还在持续迭代中，你可以过去给作者提更多需求，或者直接贡献你的代码。<br><video src="https://videocdn.jellow.site/FiMFZ-gYk4SUoe47d0dsueOHclXV.mp4?sign=bf17a0c08e8319679afc476a00b176af&amp;t=6573bc86" controls=""></video>]]></description>
+            <description><![CDATA[如果你的浏览器经常开大几十个 Tab，然后找不到目标页，给你推荐一个 Chrome 插件：AI Group Tabs，https://github.com/MichaelYuhe/ai-group-tabs<br><br>它会利用 Chrome 的 Tab Group API 帮你一键搞定所有 Tab 的分类和命名，超级实用。目前项目还在持续迭代中，你可以过去给作者提更多需求，或者直接贡献你的代码。<br><video src="https://videocdn.jellow.site/FiMFZ-gYk4SUoe47d0dsueOHclXV.mp4?sign=8b65d79555b5178eb389e3dc474362b4&amp;t=6573d9fd" controls=""></video>]]></description>
             <pubDate>Fri, 08 Dec 2023 10:46:50 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6572f41a79cb2b9f35ae16b1</guid>
             <link>https://m.okjike.com/originalPosts/6572f41a79cb2b9f35ae16b1</link>
@@ -62,22 +78,6 @@
             <pubDate>Fri, 08 Dec 2023 03:37:07 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/65728f63e4abacf08ed9946d</guid>
             <link>https://m.okjike.com/originalPosts/65728f63e4abacf08ed9946d</link>
-            
-            
-            
-            <author><![CDATA[哥飞]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[下面是我正在写的推文的标题： 某个月访问量3000多万的网站里有个月访问量100万的页面，有人基于这个页面的需求做了个月收入12万+美金的AI App 是的，标题就这么...]]></title>
-            <description><![CDATA[下面是我正在写的推文的标题：<br>某个月访问量3000多万的网站里有个月访问量100万的页面，有人基于这个页面的需求做了个月收入12万+美金的AI App<br><br>是的，标题就这么长，学日本轻小说的标题套路。<br><br>想要看文章的，留言评论，我会在文章写完之后给你的评论点赞通知你可以看文章了。]]></description>
-            <pubDate>Thu, 07 Dec 2023 09:54:29 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65719655ee2e07f7aceb8076</guid>
-            <link>https://m.okjike.com/originalPosts/65719655ee2e07f7aceb8076</link>
             
             
             
