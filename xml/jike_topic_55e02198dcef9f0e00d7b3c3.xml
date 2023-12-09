@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sat, 09 Dec 2023 06:55:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Dec 2023 11:08:21 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[看 AI 的项目，不可避免要使用 Python 编程，看到了一个内容完善易懂的 Python 学习资料，Python-100-Days，https://github.com/jackfrued/Python-100-Days，讲...]]></title>
+            <description><![CDATA[看 AI 的项目，不可避免要使用 Python 编程，看到了一个内容完善易懂的 Python 学习资料，Python-100-Days，https://github.com/jackfrued/Python-100-Days，讲的很详细，也很全面。<br><br>为了照顾新手，作者还把这个教程中的基础部分单拎了出来，整理了一个 Python-Core-50-Courses，https://github.com/jackfrued/Python-Core-50-Courses，并且给它配备了一百多集的视频教程，放在 B 站上：https://www.bilibili.com/video/BV1FT4y1R7sz，实属良心博主。<br><img src="https://cdnv2.ruguoapp.com/Fi8_zA6SVIx_xKqGuADIkxfrRoqnv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FtiUtdzaMpBhaZQizJcgR0s7cqxRv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FtPMObi1U8TI7ehOaXUNz0XNma87v3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sat, 09 Dec 2023 09:05:32 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65742ddc34cced9e31f35696</guid>
+            <link>https://m.okjike.com/originalPosts/65742ddc34cced9e31f35696</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[《Attention is All You Need》，https://arxiv.org/abs/1706.03762，这篇论文的引用量都已经快 10w 次了，它是深度学习里面最重要的文章之一，目前市面上流行的...]]></title>
@@ -58,7 +74,7 @@
         
         <item>
             <title><![CDATA[如果你的浏览器经常开大几十个 Tab，然后找不到目标页，给你推荐一个 Chrome 插件：AI Group Tabs，https://github.com/MichaelYuhe/ai-group-tabs 它会利用 Chr...]]></title>
-            <description><![CDATA[如果你的浏览器经常开大几十个 Tab，然后找不到目标页，给你推荐一个 Chrome 插件：AI Group Tabs，https://github.com/MichaelYuhe/ai-group-tabs<br><br>它会利用 Chrome 的 Tab Group API 帮你一键搞定所有 Tab 的分类和命名，超级实用。目前项目还在持续迭代中，你可以过去给作者提更多需求，或者直接贡献你的代码。<br><video src="https://videocdn.jellow.site/FiMFZ-gYk4SUoe47d0dsueOHclXV.mp4?sign=83b6321d9e56adefc180c6f98f138679&amp;t=65741528" controls=""></video>]]></description>
+            <description><![CDATA[如果你的浏览器经常开大几十个 Tab，然后找不到目标页，给你推荐一个 Chrome 插件：AI Group Tabs，https://github.com/MichaelYuhe/ai-group-tabs<br><br>它会利用 Chrome 的 Tab Group API 帮你一键搞定所有 Tab 的分类和命名，超级实用。目前项目还在持续迭代中，你可以过去给作者提更多需求，或者直接贡献你的代码。<br><video src="https://videocdn.jellow.site/FiMFZ-gYk4SUoe47d0dsueOHclXV.mp4?sign=579a513b2815db667f92f971c44197f5&amp;t=65745082" controls=""></video>]]></description>
             <pubDate>Fri, 08 Dec 2023 10:46:50 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6572f41a79cb2b9f35ae16b1</guid>
             <link>https://m.okjike.com/originalPosts/6572f41a79cb2b9f35ae16b1</link>
@@ -146,22 +162,6 @@
             
             
             <author><![CDATA[Barret李靖]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[过去一个月，收到了非常多的用户反馈，表示已经把 https://devv.ai 作为了默认的搜索引擎。 https://devv.ai 是专门面向开发者的 AI 搜索引擎，目标是替代开发者...]]></title>
-            <description><![CDATA[过去一个月，收到了非常多的用户反馈，表示已经把 https://devv.ai 作为了默认的搜索引擎。<br><br>https://devv.ai 是专门面向开发者的 AI 搜索引擎，目标是替代开发者日常使用 Google / StackOverflow / 文档查询的场景。<br><br>免费、快速、准确。<br><img src="https://cdnv2.ruguoapp.com/FlEvn1tUPCNsh93EFmjoA7NEq1v5v3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 05 Dec 2023 01:21:23 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/656e7b1387a8e03bd1abc344</guid>
-            <link>https://m.okjike.com/originalPosts/656e7b1387a8e03bd1abc344</link>
-            
-            
-            
-            <author><![CDATA[加元.Jiayuan]]></author>
             
                 
             
