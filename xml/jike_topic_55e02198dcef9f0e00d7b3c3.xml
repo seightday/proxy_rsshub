@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sun, 10 Dec 2023 23:13:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Dec 2023 03:14:03 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -105,6 +105,22 @@
         </item>
         
         <item>
+            <title><![CDATA[如果你的浏览器经常开大几十个 Tab，然后找不到目标页，给你推荐一个 Chrome 插件：AI Group Tabs，https://github.com/MichaelYuhe/ai-group-tabs 它会利用 Chr...]]></title>
+            <description><![CDATA[如果你的浏览器经常开大几十个 Tab，然后找不到目标页，给你推荐一个 Chrome 插件：AI Group Tabs，https://github.com/MichaelYuhe/ai-group-tabs<br><br>它会利用 Chrome 的 Tab Group API 帮你一键搞定所有 Tab 的分类和命名，超级实用。目前项目还在持续迭代中，你可以过去给作者提更多需求，或者直接贡献你的代码。<br><video src="https://videocdn.jellow.site/FiMFZ-gYk4SUoe47d0dsueOHclXV.mp4?sign=e81f525c7ec749996e7f0acbaabf53d1&amp;t=65768582" controls=""></video>]]></description>
+            <pubDate>Fri, 08 Dec 2023 10:46:50 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6572f41a79cb2b9f35ae16b1</guid>
+            <link>https://m.okjike.com/originalPosts/6572f41a79cb2b9f35ae16b1</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[刚才帮即友诊断了一个网站，说全站有100多个页面，但是谷歌只收录了4个。 我一看，网页界面挺精美的，结果内容是前端渲染出来的。 有点意思的是，后端返回html代...]]></title>
             <description><![CDATA[刚才帮即友诊断了一个网站，说全站有100多个页面，但是谷歌只收录了4个。<br><br>我一看，网页界面挺精美的，结果内容是前端渲染出来的。<br><br>有点意思的是，后端返回html代码的同时，其实已经把数据放在 json 中返回了😅😅😅。<br><br>那为什么不进一步，直接在后端把html渲染好返回呢？<br><br>其实就是开发没有SEO意识，团队其他人也没有，所以没人提这个需求。<br><br>谷歌默认抓取页面时，只抓取 html 的 body 内部内容，那么放在 script 标签里的 json 当然就不会被抓取了。<br><br>当然你会说，谷歌会去执行 js 代码。但是执行js是需要多花费算力的，谷歌凭什么给你的新网站这种待遇呢？<br><br>所以，各位请注意，如果你的网站想要从谷歌获得流量，请一定后端渲染。]]></description>
             <pubDate>Fri, 08 Dec 2023 03:37:07 GMT</pubDate>
@@ -162,22 +178,6 @@
             
             
             <author><![CDATA[2023技术播客节]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Github上一个270k星标的项目：提供超过 1500 个免费的公共API🔥 涉及天文、地理、交通、生活、学习等等领域，要啥有啥而且还免费！ https://github.com/public...]]></title>
-            <description><![CDATA[Github上一个270k星标的项目：提供超过 1500 个免费的公共API🔥<br><br>涉及天文、地理、交通、生活、学习等等领域，要啥有啥而且还免费！<br><br>https://github.com/public-apis/public-apis<br><img src="https://cdnv2.ruguoapp.com/Frl4mT0JMlXEekbrZeVcEFUXRHy9v3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 04 Dec 2023 07:22:51 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/656d7e4bc9ed8caff0690090</guid>
-            <link>https://m.okjike.com/originalPosts/656d7e4bc9ed8caff0690090</link>
-            
-            
-            
-            <author><![CDATA[欧sir-weir]]></author>
             
                 
             
