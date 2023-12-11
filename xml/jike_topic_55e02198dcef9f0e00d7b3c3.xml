@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sun, 10 Dec 2023 19:00:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Dec 2023 23:13:51 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -57,6 +57,22 @@
         </item>
         
         <item>
+            <title><![CDATA[paper-reading，https://github.com/mli/paper-reading，这个知识库梳理了过去十年里深度学习领域最有影响力的 67 篇论文，涵盖了计算机视觉（Transformer/CNN/O...]]></title>
+            <description><![CDATA[paper-reading，https://github.com/mli/paper-reading，这个知识库梳理了过去十年里深度学习领域最有影响力的 67 篇论文，涵盖了计算机视觉（Transformer/CNN/Object Detection/对比学习）、生成模型、多模态学习、自然语言处理、图神经网络、新领域应用等子领域，其中 32 篇已经完成了论文精读视频的录制，视频总时长超过 50 小时。<br><img src="https://cdnv2.ruguoapp.com/FlXBvkG9cytOa54qjXQ0q0ZG70y7v3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sat, 09 Dec 2023 01:44:43 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6573c68b34cced9e31eafeff</guid>
+            <link>https://m.okjike.com/originalPosts/6573c68b34cced9e31eafeff</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[《Attention is All You Need》，https://arxiv.org/abs/1706.03762，这篇论文的引用量都已经快 10w 次了，它是深度学习里面最重要的文章之一，目前市面上流行的...]]></title>
             <description><![CDATA[《Attention is All You Need》，https://arxiv.org/abs/1706.03762，这篇论文的引用量都已经快 10w 次了，它是深度学习里面最重要的文章之一，目前市面上流行的大部分大模型，包括 ChatGPT/Claude/Bard 等等都是以 Transformer 模型为理论基础发展起来的。<br><br>推荐李沐的这集科普《Transformer 论文逐段精读》，https://www.bilibili.com/video/BV1pu411o7BE，花了一个半小时，一段一段带着阅读这篇论文，讲的非常好。<br><img src="https://cdnv2.ruguoapp.com/FuxsUEerdl7WP2E_2foh9wNlLyZMv3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Sat, 09 Dec 2023 01:00:35 GMT</pubDate>
@@ -78,22 +94,6 @@
             <pubDate>Fri, 08 Dec 2023 11:54:24 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/657303f034cced9e31df7b5d</guid>
             <link>https://m.okjike.com/originalPosts/657303f034cced9e31df7b5d</link>
-            
-            
-            
-            <author><![CDATA[Barret李靖]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[如果你的浏览器经常开大几十个 Tab，然后找不到目标页，给你推荐一个 Chrome 插件：AI Group Tabs，https://github.com/MichaelYuhe/ai-group-tabs 它会利用 Chr...]]></title>
-            <description><![CDATA[如果你的浏览器经常开大几十个 Tab，然后找不到目标页，给你推荐一个 Chrome 插件：AI Group Tabs，https://github.com/MichaelYuhe/ai-group-tabs<br><br>它会利用 Chrome 的 Tab Group API 帮你一键搞定所有 Tab 的分类和命名，超级实用。目前项目还在持续迭代中，你可以过去给作者提更多需求，或者直接贡献你的代码。<br><video src="https://videocdn.jellow.site/FiMFZ-gYk4SUoe47d0dsueOHclXV.mp4?sign=fc4a8a69fe10ce0d0d0847ab7cdf0453&amp;t=65761110" controls=""></video>]]></description>
-            <pubDate>Fri, 08 Dec 2023 10:46:50 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6572f41a79cb2b9f35ae16b1</guid>
-            <link>https://m.okjike.com/originalPosts/6572f41a79cb2b9f35ae16b1</link>
             
             
             
