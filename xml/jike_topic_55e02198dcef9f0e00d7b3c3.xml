@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 11 Dec 2023 07:14:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Dec 2023 11:49:01 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[大模型已经可以理解视频了，三个小时的电影也无压力。 当前的多模态大模型，包括 GPT-4V，基本只支持对图片的理解，对于视频（尤其是长视频）的理解完全不在行，...]]></title>
+            <description><![CDATA[大模型已经可以理解视频了，三个小时的电影也无压力。<br><br>当前的多模态大模型，包括 GPT-4V，基本只支持对图片的理解，对于视频（尤其是长视频）的理解完全不在行，主要原因是在处理视频时，对每一帧图片的视觉标记过多，很容易导致计算容量溢出。<br><br>香港中文大学的贾佳亚团队提出了一个新颖的方法解决了这个问题，《LLaMA-VID: An Image is Worth 2 Tokens in Large Language Models》，https://arxiv.org/abs/2311.17043，LLaMA-VID 通过用两个不同的标记（即上下文标记和内容标记）表示每个帧来解决此问题；上下文标记根据用户输入对整个图像上下文进行编码，而内容标记则封装每个帧中的视觉提示；这种双令牌策略显着减少了长视频的过载，同时保留了关键信息。<br><br>https://llama-vid.github.io，项目还提供了一个线上演示地址，背后用的是一张 3090 GPU，不过我估计随着后续项目的火爆，这个演示地址也会由于扛不住测试流量而下线，目前模型已经发布到了 Hugging Face，可以下载到本地把玩。<br><br>我测试了一个一分钟的视频，它可以很好地理解视频内容，不过在询问细节时，回答就不行了，看来 LLaMA-VID 可以从宏观上把握视频的内容，细节层面的信息丢失还是很严重的。<br><img src="https://cdnv2.ruguoapp.com/FoZzKF7RLxKym6-ZVrfTswoZl1uuv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FttraaJ6o5_xk4VRcZfC__NILwpnv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sun, 10 Dec 2023 14:01:16 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6575c4ac60830f16aef6d64d</guid>
+            <link>https://m.okjike.com/originalPosts/6575c4ac60830f16aef6d64d</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[看 AI 的项目，不可避免要使用 Python 编程，看到了一个内容完善易懂的 Python 学习资料，Python-100-Days，https://github.com/jackfrued/Python-100-Days，讲...]]></title>
@@ -94,22 +110,6 @@
             <pubDate>Fri, 08 Dec 2023 11:54:24 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/657303f034cced9e31df7b5d</guid>
             <link>https://m.okjike.com/originalPosts/657303f034cced9e31df7b5d</link>
-            
-            
-            
-            <author><![CDATA[Barret李靖]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[如果你的浏览器经常开大几十个 Tab，然后找不到目标页，给你推荐一个 Chrome 插件：AI Group Tabs，https://github.com/MichaelYuhe/ai-group-tabs 它会利用 Chr...]]></title>
-            <description><![CDATA[如果你的浏览器经常开大几十个 Tab，然后找不到目标页，给你推荐一个 Chrome 插件：AI Group Tabs，https://github.com/MichaelYuhe/ai-group-tabs<br><br>它会利用 Chrome 的 Tab Group API 帮你一键搞定所有 Tab 的分类和命名，超级实用。目前项目还在持续迭代中，你可以过去给作者提更多需求，或者直接贡献你的代码。<br><video src="https://videocdn.jellow.site/FiMFZ-gYk4SUoe47d0dsueOHclXV.mp4?sign=6dba16f905fd6dadc069d303aa233ec9&amp;t=6576bdd0" controls=""></video>]]></description>
-            <pubDate>Fri, 08 Dec 2023 10:46:50 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6572f41a79cb2b9f35ae16b1</guid>
-            <link>https://m.okjike.com/originalPosts/6572f41a79cb2b9f35ae16b1</link>
             
             
             
