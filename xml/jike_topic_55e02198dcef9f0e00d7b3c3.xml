@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 12 Dec 2023 02:39:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Dec 2023 04:41:42 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -41,8 +41,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Github 花了一年多的时间，将他们的 1200 台 MySQL 集群从 v5.6 升级到了 v8.0，https://github.blog/2023-12-07-upgrading-github-com-to-mysql-8-0/，过程中需...]]></title>
+            <description><![CDATA[Github 花了一年多的时间，将他们的 1200 台 MySQL 集群从 v5.6 升级到了 v8.0，https://github.blog/2023-12-07-upgrading-github-com-to-mysql-8-0/，过程中需要遵循服务的 SLO 和 SLA，做了非常多的工作，值得借鉴阅读。<br><br>过去几年，随着业务规模的增长，我也实践了多次数据库的运维和变更，首先从 MySQL v5.6 迁移到 OceanBase-MySQL，在早期版本的 OB 中挣扎了一年多，建设大量的监控和应急措施来应对执行计划淘汰不及时和处理一些兼容性的问题；后来随着业务的增长，数据库体量增加，数据规模超过了 2Tb，又经历了一次数据库的扩容和版本升级，这个阶段数据的各种问题都暴露出来了，例如主从流量分配不均、单表超过一亿性能异常、热点库 CPU 暴涨、业务扩容带来的连接池不够等等，解决问题的同时，也在规范团队对数据库的使用，趣味性比较强；再后来随着业务的继续增长，又开始建设异地灾备，实现数据的异地同步和容灾切换，学到了不少。<br><br>但相比 Github 这个规模，解决的问题，还是小巫见大巫，它的 QPS 达到了 550w，极其恐怖。Github 采用的是分库分表的设计，在数据库调用这一层上，做的相对比较复杂，架构的复杂自然也带来了工具和工程的复杂度，从而增加了大量的运维成本，这篇文章提到了一些对抗软件复杂度的方法和细节，包括回滚机制的设计、混合版本提供服务等，比较有意思。只不过对细节的描述偏少，估计是不方便对外。<br><img src="https://cdnv2.ruguoapp.com/Fhe21pyFrQhHfnTP-P9Vuet-R4e7v3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 11 Dec 2023 08:46:53 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6576cc7d60830f16ae0ad962</guid>
+            <link>https://m.okjike.com/originalPosts/6576cc7d60830f16ae0ad962</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[推荐一个可以远程调试任意 Web 网页的工具包，page-spy-web，https://github.com/HuolalaTech/page-spy-web，你可以像使用 Chrome Devtools 一样，查看一个远程...]]></title>
-            <description><![CDATA[推荐一个可以远程调试任意 Web 网页的工具包，page-spy-web，https://github.com/HuolalaTech/page-spy-web，你可以像使用 Chrome Devtools 一样，查看一个远程网页的控制台输出、网络请求、缓存信息以及页面内容，也可以直接下发 JS 指令，对网页进行控制。<br><br>它的使用场景还是比较丰富的，例如用户页面白屏，更换无数姿势都无法复现的时候，例如线下门店安装前端应用，需要跑到人家店里去的时候，都可以考虑使用这个工具，它能够实时查看用户侧的网页异常，了解端侧详细信息，也可以远程控制或调试前端应用。当然，这些操作都需要考虑到隐私问题，获得用户授权。<br><br>这个项目的部署十分简单，一句命令就可以搞定，部署之后，所有放置了 SDK 的网页都会使用  Websocket 与 Server 维持长链接，调试过程涉及到的通讯协议在这个仓库：https://github.com/HuolalaTech/page-spy，感兴趣的可以看一下。<br><video src="https://videocdn.jellow.site/FjPkFqHtYpvhpKYcwH-isKhhr2tt.mp4?sign=ee0953f2e25bd20a8bb3c00fa6a22d30&amp;t=6577ce66" controls=""></video>]]></description>
+            <description><![CDATA[推荐一个可以远程调试任意 Web 网页的工具包，page-spy-web，https://github.com/HuolalaTech/page-spy-web，你可以像使用 Chrome Devtools 一样，查看一个远程网页的控制台输出、网络请求、缓存信息以及页面内容，也可以直接下发 JS 指令，对网页进行控制。<br><br>它的使用场景还是比较丰富的，例如用户页面白屏，更换无数姿势都无法复现的时候，例如线下门店安装前端应用，需要跑到人家店里去的时候，都可以考虑使用这个工具，它能够实时查看用户侧的网页异常，了解端侧详细信息，也可以远程控制或调试前端应用。当然，这些操作都需要考虑到隐私问题，获得用户授权。<br><br>这个项目的部署十分简单，一句命令就可以搞定，部署之后，所有放置了 SDK 的网页都会使用  Websocket 与 Server 维持长链接，调试过程涉及到的通讯协议在这个仓库：https://github.com/HuolalaTech/page-spy，感兴趣的可以看一下。<br><video src="https://videocdn.jellow.site/FjPkFqHtYpvhpKYcwH-isKhhr2tt.mp4?sign=81b1b747c63000c72fe59b3eddcc0150&amp;t=6577ea82" controls=""></video>]]></description>
             <pubDate>Mon, 11 Dec 2023 06:43:51 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6576afa7ec195a00b7a1ac5c</guid>
             <link>https://m.okjike.com/originalPosts/6576afa7ec195a00b7a1ac5c</link>
@@ -114,22 +130,6 @@
             
             
             <author><![CDATA[Barret李靖]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[刚才帮即友诊断了一个网站，说全站有100多个页面，但是谷歌只收录了4个。 我一看，网页界面挺精美的，结果内容是前端渲染出来的。 有点意思的是，后端返回html代...]]></title>
-            <description><![CDATA[刚才帮即友诊断了一个网站，说全站有100多个页面，但是谷歌只收录了4个。<br><br>我一看，网页界面挺精美的，结果内容是前端渲染出来的。<br><br>有点意思的是，后端返回html代码的同时，其实已经把数据放在 json 中返回了😅😅😅。<br><br>那为什么不进一步，直接在后端把html渲染好返回呢？<br><br>其实就是开发没有SEO意识，团队其他人也没有，所以没人提这个需求。<br><br>谷歌默认抓取页面时，只抓取 html 的 body 内部内容，那么放在 script 标签里的 json 当然就不会被抓取了。<br><br>当然你会说，谷歌会去执行 js 代码。但是执行js是需要多花费算力的，谷歌凭什么给你的新网站这种待遇呢？<br><br>所以，各位请注意，如果你的网站想要从谷歌获得流量，请一定后端渲染。]]></description>
-            <pubDate>Fri, 08 Dec 2023 03:37:07 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65728f63e4abacf08ed9946d</guid>
-            <link>https://m.okjike.com/originalPosts/65728f63e4abacf08ed9946d</link>
-            
-            
-            
-            <author><![CDATA[哥飞]]></author>
             
                 
             
