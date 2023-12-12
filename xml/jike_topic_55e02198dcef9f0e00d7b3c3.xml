@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 12 Dec 2023 15:08:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Dec 2023 19:20:07 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -58,7 +58,7 @@
         
         <item>
             <title><![CDATA[推荐一个可以远程调试任意 Web 网页的工具包，page-spy-web，https://github.com/HuolalaTech/page-spy-web，你可以像使用 Chrome Devtools 一样，查看一个远程...]]></title>
-            <description><![CDATA[推荐一个可以远程调试任意 Web 网页的工具包，page-spy-web，https://github.com/HuolalaTech/page-spy-web，你可以像使用 Chrome Devtools 一样，查看一个远程网页的控制台输出、网络请求、缓存信息以及页面内容，也可以直接下发 JS 指令，对网页进行控制。<br><br>它的使用场景还是比较丰富的，例如用户页面白屏，更换无数姿势都无法复现的时候，例如线下门店安装前端应用，需要跑到人家店里去的时候，都可以考虑使用这个工具，它能够实时查看用户侧的网页异常，了解端侧详细信息，也可以远程控制或调试前端应用。当然，这些操作都需要考虑到隐私问题，获得用户授权。<br><br>这个项目的部署十分简单，一句命令就可以搞定，部署之后，所有放置了 SDK 的网页都会使用  Websocket 与 Server 维持长链接，调试过程涉及到的通讯协议在这个仓库：https://github.com/HuolalaTech/page-spy，感兴趣的可以看一下。<br><video src="https://videocdn.jellow.site/FjPkFqHtYpvhpKYcwH-isKhhr2tt.mp4?sign=797cbbf99b70b46adf56cc1213011b8e&amp;t=65787c8e" controls=""></video>]]></description>
+            <description><![CDATA[推荐一个可以远程调试任意 Web 网页的工具包，page-spy-web，https://github.com/HuolalaTech/page-spy-web，你可以像使用 Chrome Devtools 一样，查看一个远程网页的控制台输出、网络请求、缓存信息以及页面内容，也可以直接下发 JS 指令，对网页进行控制。<br><br>它的使用场景还是比较丰富的，例如用户页面白屏，更换无数姿势都无法复现的时候，例如线下门店安装前端应用，需要跑到人家店里去的时候，都可以考虑使用这个工具，它能够实时查看用户侧的网页异常，了解端侧详细信息，也可以远程控制或调试前端应用。当然，这些操作都需要考虑到隐私问题，获得用户授权。<br><br>这个项目的部署十分简单，一句命令就可以搞定，部署之后，所有放置了 SDK 的网页都会使用  Websocket 与 Server 维持长链接，调试过程涉及到的通讯协议在这个仓库：https://github.com/HuolalaTech/page-spy，感兴趣的可以看一下。<br><video src="https://videocdn.jellow.site/FjPkFqHtYpvhpKYcwH-isKhhr2tt.mp4?sign=c34c62642d97791b97f794e0149cfe5b&amp;t=6578b87a" controls=""></video>]]></description>
             <pubDate>Mon, 11 Dec 2023 06:43:51 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6576afa7ec195a00b7a1ac5c</guid>
             <link>https://m.okjike.com/originalPosts/6576afa7ec195a00b7a1ac5c</link>
