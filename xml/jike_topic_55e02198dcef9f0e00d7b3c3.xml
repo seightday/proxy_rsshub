@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 14 Dec 2023 06:50:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Dec 2023 09:12:55 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -58,7 +58,7 @@
         
         <item>
             <title><![CDATA[曾经的PM 210 同学@你好我是210 ，从零开始学编程，2天时间做了一个大小写转换前端小工具。 特色是边输入边转换，而且一次性把所有的大小写格式都给你展示出来，...]]></title>
-            <description><![CDATA[曾经的PM 210 同学@你好我是210 ，从零开始学编程，2天时间做了一个大小写转换前端小工具。<br>特色是边输入边转换，而且一次性把所有的大小写格式都给你展示出来，你可以按需复制。<br>而别的竞品的做法是放出一排按钮，让你输入完成后点击按钮，选择想要的格式。<br>点这里体验：https://casesconvert.com<br>这个需求其实在国外并不小，有个站每个月靠这个小工具能够从搜索引擎获取15万的访问量。<br>更详细的需求分析和项目文档学习过程等看这里 https://m.okjike.com/originalPosts/6579a1e0492ec2e1bb31b0a6?s=eyJ1IjoiNTY3YTUwZDQ2ZWY4OWMxMjAwOGE3NTc1In0%3D<br><video src="https://videocdn.jellow.site/FoOj1HpKXgadEoFhpuICfoy_RkuI.mp4?sign=d5d780a91f8b3a9cc00f9fb7f417e5b3&amp;t=657aaa6a" controls=""></video>]]></description>
+            <description><![CDATA[曾经的PM 210 同学@你好我是210 ，从零开始学编程，2天时间做了一个大小写转换前端小工具。<br>特色是边输入边转换，而且一次性把所有的大小写格式都给你展示出来，你可以按需复制。<br>而别的竞品的做法是放出一排按钮，让你输入完成后点击按钮，选择想要的格式。<br>点这里体验：https://casesconvert.com<br>这个需求其实在国外并不小，有个站每个月靠这个小工具能够从搜索引擎获取15万的访问量。<br>更详细的需求分析和项目文档学习过程等看这里 https://m.okjike.com/originalPosts/6579a1e0492ec2e1bb31b0a6?s=eyJ1IjoiNTY3YTUwZDQ2ZWY4OWMxMjAwOGE3NTc1In0%3D<br><video src="https://videocdn.jellow.site/FoOj1HpKXgadEoFhpuICfoy_RkuI.mp4?sign=a964baf65c64d5c4bf0f887dbc25a9a4&amp;t=657accff" controls=""></video>]]></description>
             <pubDate>Wed, 13 Dec 2023 13:02:32 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6579ab680972668b3e1222af</guid>
             <link>https://m.okjike.com/originalPosts/6579ab680972668b3e1222af</link>
@@ -106,7 +106,7 @@
         
         <item>
             <title><![CDATA[推荐一个可以远程调试任意 Web 网页的工具包，page-spy-web，https://github.com/HuolalaTech/page-spy-web，你可以像使用 Chrome Devtools 一样，查看一个远程...]]></title>
-            <description><![CDATA[推荐一个可以远程调试任意 Web 网页的工具包，page-spy-web，https://github.com/HuolalaTech/page-spy-web，你可以像使用 Chrome Devtools 一样，查看一个远程网页的控制台输出、网络请求、缓存信息以及页面内容，也可以直接下发 JS 指令，对网页进行控制。<br><br>它的使用场景还是比较丰富的，例如用户页面白屏，更换无数姿势都无法复现的时候，例如线下门店安装前端应用，需要跑到人家店里去的时候，都可以考虑使用这个工具，它能够实时查看用户侧的网页异常，了解端侧详细信息，也可以远程控制或调试前端应用。当然，这些操作都需要考虑到隐私问题，获得用户授权。<br><br>这个项目的部署十分简单，一句命令就可以搞定，部署之后，所有放置了 SDK 的网页都会使用  Websocket 与 Server 维持长链接，调试过程涉及到的通讯协议在这个仓库：https://github.com/HuolalaTech/page-spy，感兴趣的可以看一下。<br><video src="https://videocdn.jellow.site/FjPkFqHtYpvhpKYcwH-isKhhr2tt.mp4?sign=6b2a2a3e2e171abef0388f5c41d3a43b&amp;t=657aabaa" controls=""></video>]]></description>
+            <description><![CDATA[推荐一个可以远程调试任意 Web 网页的工具包，page-spy-web，https://github.com/HuolalaTech/page-spy-web，你可以像使用 Chrome Devtools 一样，查看一个远程网页的控制台输出、网络请求、缓存信息以及页面内容，也可以直接下发 JS 指令，对网页进行控制。<br><br>它的使用场景还是比较丰富的，例如用户页面白屏，更换无数姿势都无法复现的时候，例如线下门店安装前端应用，需要跑到人家店里去的时候，都可以考虑使用这个工具，它能够实时查看用户侧的网页异常，了解端侧详细信息，也可以远程控制或调试前端应用。当然，这些操作都需要考虑到隐私问题，获得用户授权。<br><br>这个项目的部署十分简单，一句命令就可以搞定，部署之后，所有放置了 SDK 的网页都会使用  Websocket 与 Server 维持长链接，调试过程涉及到的通讯协议在这个仓库：https://github.com/HuolalaTech/page-spy，感兴趣的可以看一下。<br><video src="https://videocdn.jellow.site/FjPkFqHtYpvhpKYcwH-isKhhr2tt.mp4?sign=e85c479cafd25b9a6383a3f708290081&amp;t=657acd78" controls=""></video>]]></description>
             <pubDate>Mon, 11 Dec 2023 06:43:51 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6576afa7ec195a00b7a1ac5c</guid>
             <link>https://m.okjike.com/originalPosts/6576afa7ec195a00b7a1ac5c</link>
