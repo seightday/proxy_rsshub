@@ -21,8 +21,40 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sat, 16 Dec 2023 02:29:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Dec 2023 06:52:52 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[谷歌在官网宣布，免费开放Gemini Pro和Gemini Pro Vision的API，支持中文。每分钟可发出60个请求，将比其他免费产品高20倍。 免费API地址：https://makersuite.g...]]></title>
+            <description><![CDATA[谷歌在官网宣布，免费开放Gemini Pro和Gemini Pro Vision的API，支持中文。每分钟可发出60个请求，将比其他免费产品高20倍。<br><br>免费API地址：https://makersuite.google.com/app/apikey<br><br>Bard免费体验地址：https://bard.google.com/]]></description>
+            <pubDate>Fri, 15 Dec 2023 15:26:14 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/657c701679cb2b9f35679a41</guid>
+            <link>https://m.okjike.com/originalPosts/657c701679cb2b9f35679a41</link>
+            
+            
+            
+            <author><![CDATA[子鱼Ryan]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[ByteBase 团队真是技术界最会画图的。 https://github.com/bytebase/bytebase]]></title>
+            <description><![CDATA[ByteBase 团队真是技术界最会画图的。 https://github.com/bytebase/bytebase<br><img src="https://cdnv2.ruguoapp.com/FkIzDHch64hNhhh10FVHlUaibHPWv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 15 Dec 2023 11:30:23 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/657c38cf492ec2e1bb660b1c</guid>
+            <link>https://m.okjike.com/originalPosts/657c38cf492ec2e1bb660b1c</link>
+            
+            
+            
+            <author><![CDATA[alswl]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[独立开发之新增驱动开发 以下是上周六我参加 @哥飞 深圳线下分享会的演讲内容。 一、独立开发做产品的经典误区 在进入今天的正题之前，我想先聊一下新手做产品的...]]></title>
@@ -114,38 +146,6 @@
             
             
             <author><![CDATA[子鱼Ryan]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[这本 Go 语言的书，算是把并发编程给讲透了，四百多页，推荐阅读。 现在使用 Go 的公司是不是越来越多了？好几个去创业的朋友，都用的这门语言。]]></title>
-            <description><![CDATA[这本 Go 语言的书，算是把并发编程给讲透了，四百多页，推荐阅读。<br><br>现在使用 Go 的公司是不是越来越多了？好几个去创业的朋友，都用的这门语言。<br><img src="https://cdnv2.ruguoapp.com/FvayJxONgVVZcyF-0z0wuowtPvEhv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FgYNVCMOqzjPGK_3xqsRLSh4hDQZv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 11 Dec 2023 11:03:51 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6576ec9760830f16ae0e10ad</guid>
-            <link>https://m.okjike.com/originalPosts/6576ec9760830f16ae0e10ad</link>
-            
-            
-            
-            <author><![CDATA[Barret李靖]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[看 AI 的项目，不可避免要使用 Python 编程，看到了一个内容完善易懂的 Python 学习资料，Python-100-Days，https://github.com/jackfrued/Python-100-Days，讲...]]></title>
-            <description><![CDATA[看 AI 的项目，不可避免要使用 Python 编程，看到了一个内容完善易懂的 Python 学习资料，Python-100-Days，https://github.com/jackfrued/Python-100-Days，讲的很详细，也很全面。<br><br>为了照顾新手，作者还把这个教程中的基础部分单拎了出来，整理了一个 Python-Core-50-Courses，https://github.com/jackfrued/Python-Core-50-Courses，并且给它配备了一百多集的视频教程，放在 B 站上：https://www.bilibili.com/video/BV1FT4y1R7sz，实属良心博主。<br><img src="https://cdnv2.ruguoapp.com/Fi8_zA6SVIx_xKqGuADIkxfrRoqnv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FtiUtdzaMpBhaZQizJcgR0s7cqxRv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FtPMObi1U8TI7ehOaXUNz0XNma87v3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 09 Dec 2023 09:05:32 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65742ddc34cced9e31f35696</guid>
-            <link>https://m.okjike.com/originalPosts/65742ddc34cced9e31f35696</link>
-            
-            
-            
-            <author><![CDATA[Barret李靖]]></author>
             
                 
             
