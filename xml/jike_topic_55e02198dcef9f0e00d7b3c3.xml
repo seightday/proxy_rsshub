@@ -21,8 +21,40 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sat, 16 Dec 2023 06:52:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Dec 2023 11:10:30 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[推荐一个有趣又有用的 Python 学习资料，《Python为什么》，https://github.com/chinesehuazhou/python-whydo，它是一系列文章的合集，主要关注 Python 的语法、...]]></title>
+            <description><![CDATA[推荐一个有趣又有用的 Python 学习资料，《Python为什么》，https://github.com/chinesehuazhou/python-whydo，它是一系列文章的合集，主要关注 Python 的语法、设计、发展、与其它语言的差别等话题，以一个个“为什么”式的问题为切入点，试着展现 Python 的迷人魅力。<br><br>另外也推荐阅读 Python 官方文档的 FAQ 系列，https://docs.python.org/zh-cn/3/faq/index.html，涉及到编程、设计、代码块、插件、扩展等几百个高频问题，值得花时间读一读。<br><img src="https://cdnv2.ruguoapp.com/FqJgUPhhYMB3u89CaNRDJq08IhDlv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FgDDosJqq9uC59Uy8Sgc-ie66UAQv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sat, 16 Dec 2023 10:18:08 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/657d7960492ec2e1bb7cbe30</guid>
+            <link>https://m.okjike.com/originalPosts/657d7960492ec2e1bb7cbe30</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[树哥语录：需求藏在竞品评论区的用户抱怨里]]></title>
+            <description><![CDATA[树哥语录：需求藏在竞品评论区的用户抱怨里]]></description>
+            <pubDate>Sat, 16 Dec 2023 06:57:15 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/657d4a4b79cb2b9f3575b4e0</guid>
+            <link>https://m.okjike.com/originalPosts/657d4a4b79cb2b9f3575b4e0</link>
+            
+            
+            
+            <author><![CDATA[哥飞]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[谷歌在官网宣布，免费开放Gemini Pro和Gemini Pro Vision的API，支持中文。每分钟可发出60个请求，将比其他免费产品高20倍。 免费API地址：https://makersuite.g...]]></title>
@@ -34,22 +66,6 @@
             
             
             <author><![CDATA[子鱼Ryan]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[ByteBase 团队真是技术界最会画图的。 https://github.com/bytebase/bytebase]]></title>
-            <description><![CDATA[ByteBase 团队真是技术界最会画图的。 https://github.com/bytebase/bytebase<br><img src="https://cdnv2.ruguoapp.com/FkIzDHch64hNhhh10FVHlUaibHPWv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 15 Dec 2023 11:30:23 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/657c38cf492ec2e1bb660b1c</guid>
-            <link>https://m.okjike.com/originalPosts/657c38cf492ec2e1bb660b1c</link>
-            
-            
-            
-            <author><![CDATA[alswl]]></author>
             
                 
             
@@ -130,22 +146,6 @@
             
             
             <author><![CDATA[哥飞]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[AnythingLLM：一个可打造成企业内部知识库的私人专属 GPT！ 它不仅是一个高效、可定制的开源企业级文档聊天机器人解决方案，同时也是一个全能的应用。 可以将任...]]></title>
-            <description><![CDATA[AnythingLLM：一个可打造成企业内部知识库的私人专属 GPT！<br><br>它不仅是一个高效、可定制的开源企业级文档聊天机器人解决方案，同时也是一个全能的应用。<br><br>可以将任何文档、资源或内容转换为大语言模型（LLM）知识库，使得在对话过程中可引用到里面的内容。<br><br>GitHub：github.com/Mintplex-Labs/anything-llm<br><br>具有如下特点：<br><br>- 支持多用户实例和权限管理；<br>- 支持多种文档类型，如 PDF、TXT、DOCX 等等；<br>- 提供简易的 UI 界面管理向量数据库中的文档；<br>- 提供两种聊天模式：对话模式可以保留之前的问题和回答，而查询模式可基于你的文档进行简单的问答；<br>- 聊天中内容可引用链接到原始文档的来源和文本；<br>- 项目使用到的技术栈简单，可快速迭代开发；<br>- 支持在本地运行，也支持 100% 云部署；<br>- 提供 “自带大语言模型” 的模式，支持任何开源 llama.cpp 兼容模型、OpenAI、Claude 等；<br>- 具有高效节约成本的措施，不需要支付多次 Embedding 大量文档的费用，这点比其他类似解决方案节省 90% 成本；<br>- 提供完整的开发者 API，可方便自定义集成。]]></description>
-            <pubDate>Tue, 12 Dec 2023 13:06:37 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65785add0972668b3ef76833</guid>
-            <link>https://m.okjike.com/originalPosts/65785add0972668b3ef76833</link>
-            
-            
-            
-            <author><![CDATA[子鱼Ryan]]></author>
             
                 
             
