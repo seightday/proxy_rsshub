@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sun, 17 Dec 2023 13:53:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Dec 2023 20:13:08 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[有人在看完 Jeremy 教授的 “fast.ai” 深度学习课程后，把他每节课提到的学习建议和忠告都总结了下来：https://forums.fast.ai/t/things-jeremy-says-to-do/366...]]></title>
+            <description><![CDATA[有人在看完 Jeremy 教授的 “fast.ai” 深度学习课程后，把他每节课提到的学习建议和忠告都总结了下来：https://forums.fast.ai/t/things-jeremy-says-to-do/36682/1，这些内容（或称之为原则）对研究 AI 的很多人来说，都很有价值，可以少走弯路，我摘录了几句：<br><br>- 不要试图停下来理解所有知识点<br>- 请运行代码，真正运行代码。不要深入理论。玩转代码，看看输入什么、输出什么。<br>- 多数公司花费太多时间收集数据。先拿少量，看看效果如何。<br>- 如果使用数据集，最好引用创建者并给予感谢<br>- 习惯使用术语（参数 parameters、层 layers、激活 activations 等）并准确使用它们。<br>- 对于“我应该尝试一下吗？”这个问题的答案是，尝试一下看看。<br>- 始终确保验证集和训练集以相同方式标准化。<br>- Python 中的协程值得学习，我们将大量使用它们。<br>- 在神经网络数据预处理时，经验法则是尽可能保留原始数据。<br><br>在学习之前，这位学习者向已经通过课程的人询问建议，得到的回答有两个：<br><br>1. “最好认真倾听 Jeremy 的意见，并按照他的建议安排自己的时间”<br>2. “后悔没有听 Jeremy 的建议，刚开始不要花大量时间在理论上，不要尝试立即理解一切”<br><img src="https://cdnv2.ruguoapp.com/Fpkj3X9vqu5c6D1YUiYnwo9XJNW6v3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sun, 17 Dec 2023 07:28:23 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/657ea31734cced9e31bef61d</guid>
+            <link>https://m.okjike.com/originalPosts/657ea31734cced9e31bef61d</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[“fast.ai” 是一门关于深度学习的免费在线课程，由 Jeremy Howard 教授团队录制，Jeremy 在 30 年前就开始使用和教授机器学习，绝对是这个领域的泰山人物。组织...]]></title>
@@ -130,22 +146,6 @@
             
             
             <author><![CDATA[Barret李靖]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[一个免费的SEO优化建议网站，打开网站，不用登录注册，输入你的网站域名即可使用。 如截图就是我输入了 https://gptshunter.com 后的效果 https://www.seoptimer...]]></title>
-            <description><![CDATA[一个免费的SEO优化建议网站，打开网站，不用登录注册，输入你的网站域名即可使用。<br>如截图就是我输入了 https://gptshunter.com 后的效果<br>https://www.seoptimer.com/gptshunter.com<br><img src="https://cdnv2.ruguoapp.com/FmRSI0LmQN4VypKOczu8xN_6SQ4Lv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 13 Dec 2023 14:39:38 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6579c22a60830f16ae487460</guid>
-            <link>https://m.okjike.com/originalPosts/6579c22a60830f16ae487460</link>
-            
-            
-            
-            <author><![CDATA[哥飞]]></author>
             
                 
             
