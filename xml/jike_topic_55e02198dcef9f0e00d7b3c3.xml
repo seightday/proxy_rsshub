@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 19 Dec 2023 16:10:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Dec 2023 18:12:54 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[推荐一个内容比较全面的 Python 免费在线学习资料，《Python Cookbook in Chinese》 3rd Edition，https://python3-cookbook.readthedocs.io/zh-cn/latest/index...]]></title>
+            <description><![CDATA[推荐一个内容比较全面的 Python 免费在线学习资料，《Python Cookbook in Chinese》 3rd Edition，https://python3-cookbook.readthedocs.io/zh-cn/latest/index.html，它的受众是想深入理解 Python 语言机制和现代编程风格的有经验的 Python 程序员；原作者是 David Beazley ，https://www.dabeaz.com，有着接近 40 年的开发经验。<br><br>这本书大部分内容集中于标准库、框架和应用程序中广泛使用的高级技术，包括元编程、并发编程、测试和调试、C语言拓展等等（如图一）。<br><br>你也可以把它的项目代码克隆下来，https://github.com/yidao620c/python3-cookbook，直接进入到 notebook/ipynb 目录，在 VSCode 上一边看书，一边执行代码，Jupyter notebook 的学习体验做的还是非常不错的（如图二）。<br><br>如果你对 Python 基础知识还不够了解，推荐先看看《Python 语言基础 50 课》，https://github.com/jackfrued/Python-Core-50-Courses，跟着文档或视频把代码敲一遍，差不多也就入门了（如图三）。<br><br>我陆陆续续学习了一周，内容差不多都看完了。对有足够编程经验的人来说，Python 的学习门槛并不高。<br><br>在探索了一圈后发现，Python 社区的建设是真的相当完善，尤其是文档，内容丰富且质量非常高，我觉得这跟 Python 之父 Guido 有着莫大的关系，Python 的发展基本都围绕高质量的文档和讨论进行的（如图四）。<br><br>如果有对 Python 的发展做贡献的想法，可以关注 Python Enhancement Proposals (PEPs)，https://peps.python.org/，这里列举了 Python 社区从 2000 年至今的所有新特性、变更和改进的标准文档，参与 PEP 的讨论和实现，可以对 Python 语言的发展产生实质性的影响。<br><img src="https://cdnv2.ruguoapp.com/FkCl3RfHo0HgR-W9EbBenFjTD95Jv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FnJMguVd-CaJkRGCpJ25BvNg1vuev3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fk_3J6C1Axr6MMSfGnOg8SqeHMMNv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FjTkzEfaQI0QFbllypM_tmnSAbZTv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 19 Dec 2023 14:44:40 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6581ac58f0da80ccb5921893</guid>
+            <link>https://m.okjike.com/originalPosts/6581ac58f0da80ccb5921893</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[关于如何判断一个域名是否被注册了，其实很简单的，我去年12月就公布了。]]></title>
@@ -50,22 +66,6 @@
             
             
             <author><![CDATA[豌豆花下猫]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[有人在看完 Jeremy 教授的 “fast.ai” 深度学习课程后，把他每节课提到的学习建议和忠告都总结了下来：https://forums.fast.ai/t/things-jeremy-says-to-do/366...]]></title>
-            <description><![CDATA[有人在看完 Jeremy 教授的 “fast.ai” 深度学习课程后，把他每节课提到的学习建议和忠告都总结了下来：https://forums.fast.ai/t/things-jeremy-says-to-do/36682/1，这些内容（或称之为原则）对研究 AI 的很多人来说，都很有价值，可以少走弯路，我摘录了几句：<br><br>- 不要试图停下来理解所有知识点<br>- 请运行代码，真正运行代码。不要深入理论。玩转代码，看看输入什么、输出什么。<br>- 多数公司花费太多时间收集数据。先拿少量，看看效果如何。<br>- 如果使用数据集，最好引用创建者并给予感谢<br>- 习惯使用术语（参数 parameters、层 layers、激活 activations 等）并准确使用它们。<br>- 对于“我应该尝试一下吗？”这个问题的答案是，尝试一下看看。<br>- 始终确保验证集和训练集以相同方式标准化。<br>- Python 中的协程值得学习，我们将大量使用它们。<br>- 在神经网络数据预处理时，经验法则是尽可能保留原始数据。<br><br>在学习之前，这位学习者向已经通过课程的人询问建议，得到的回答有两个：<br><br>1. “最好认真倾听 Jeremy 的意见，并按照他的建议安排自己的时间”<br>2. “后悔没有听 Jeremy 的建议，刚开始不要花大量时间在理论上，不要尝试立即理解一切”<br><img src="https://cdnv2.ruguoapp.com/Fpkj3X9vqu5c6D1YUiYnwo9XJNW6v3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sun, 17 Dec 2023 07:28:23 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/657ea31734cced9e31bef61d</guid>
-            <link>https://m.okjike.com/originalPosts/657ea31734cced9e31bef61d</link>
-            
-            
-            
-            <author><![CDATA[Barret李靖]]></author>
             
                 
             
