@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 20 Dec 2023 10:41:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Dec 2023 14:48:02 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[强烈推荐这本在线免费的电子书，《动手学深度学习》，https://zh.d2l.ai，上线一年多时间，已经更新到了第二版，光看作者阵容就已经十分强大了，这本书也被上百...]]></title>
+            <description><![CDATA[强烈推荐这本在线免费的电子书，《动手学深度学习》，https://zh.d2l.ai，上线一年多时间，已经更新到了第二版，光看作者阵容就已经十分强大了，这本书也被上百所名校列为教材或参考书，当前也出版了实体书。<br><br>本书的每个章节都是可以直接运行的 Jupyter 记事本，你可以在本地直接跑，也可以克隆到 Google Colab 在云端跑；讲解的时候，不仅结合文字、公式和图示来阐明深度学习里常用的模型和算法，还提供代码来演示如何从零开始实现它们，并使用真实数据来提供一个交互式的学习体验。<br><br>第二版的内容是 2023 年更新的，手把手教你搭建 Bert/Transformer，各种语言框架都有，包括 Pytorch/Tensorflow/JAX 等，而且还支持中英文对照，英文域名是 https://d2l.ai，它对于初学者和有经验的深度学习从业者都是一份宝贵的资源。<br><img src="https://cdnv2.ruguoapp.com/FqieJGE9ZxmmGASrnFniyW_03hOXv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 20 Dec 2023 12:48:03 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6582e28379cb2b9f35e70ff4</guid>
+            <link>https://m.okjike.com/originalPosts/6582e28379cb2b9f35e70ff4</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[GitHub Copilot 的开源替代 CodeGPT 已经支持 Google Gemini Pro 的 API 了，现在Gemini Pro是免费的，也就是你不用花每月 $10 也能享受代码辅助完成等服务了！ ...]]></title>
@@ -66,22 +82,6 @@
             
             
             <author><![CDATA[豌豆花下猫]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[“fast.ai” 是一门关于深度学习的免费在线课程，由 Jeremy Howard 教授团队录制，Jeremy 在 30 年前就开始使用和教授机器学习，绝对是这个领域的泰山人物。组织...]]></title>
-            <description><![CDATA[“fast.ai” 是一门关于深度学习的免费在线课程，由 Jeremy Howard 教授团队录制，Jeremy 在 30 年前就开始使用和教授机器学习，绝对是这个领域的泰山人物。组织这门课程的目的，是为了让具备一定编程经验的人，学会使用机器学习和深度学习，并以此来解决问题，因此内容重实践和应用。<br><br>它的课程分为两部分，第一部分是基础教学，8 节课差不多 15 个小时，https://course.fast.ai/Lessons/lesson1.html，对神经网络基础、自然语言、随机森林、协同过滤等知识做了详细阐述。<br><br>这门课程还有一本配套的在线免费电子书，《Deep Learning for Coders with Fastai and PyTorch: AI Applications Without a PhD》，https://course.fast.ai/Resources/book.html，Google 的研究总监 Peter Norvig 评价说：“这本书在涵盖深度学习在计算机视觉、自然语言处理和表格数据处理中的关键应用方面做得令人印象深刻，而且还涵盖了其他一些书所遗漏的数据伦理等关键主题。总而言之，这是程序员精通深度学习的最佳来源之一。”<br><br>第二部分适合更有经验的学生学习，https://course.fast.ai/Lessons/part2.html，内容超过 30 小时，课程建议先完成基础教学部分再开始这部分的学习，否则可能会一头雾水，内容包括矩阵乘法、均值漂移聚类、反向传播和 MLP、自动解码器等等。<br><br>每个章节都有对应的视频教学、归纳总结和相关链接，体验做的非常不错。<br><br>如果你正尝试深入了解 AI 的原理，不妨从这个课程开始。当然，还有一点非常重要，你得懂 Python，过去一段时间，我在博文里也分享了一些 Python 相关的学习资料，可以跟着一起学起来~<br><img src="https://cdnv2.ruguoapp.com/Fj79xDgnQmEOcftYyO5bW96VoiXHv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fnaid9MxmeEN7WEylcisTU-kROCIv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FpaIWQeT95lHwTEK70kQ_MT0WwjZv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FjuOo2WiY0l5M2FwdBCVdljeULdZv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 16 Dec 2023 15:03:46 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/657dbc528a7c5ba8aee0df9d</guid>
-            <link>https://m.okjike.com/originalPosts/657dbc528a7c5ba8aee0df9d</link>
-            
-            
-            
-            <author><![CDATA[Barret李靖]]></author>
             
                 
             
