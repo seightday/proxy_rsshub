@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 21 Dec 2023 03:20:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Dec 2023 05:21:18 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -57,15 +57,15 @@
         </item>
         
         <item>
-            <title><![CDATA[想学一下react怎么上手，搜了两个项目，分别用react ts tailwindcss 写了一个仿mac os 界面的前端。 ps：图一图二是网页。 大佬就是大佬，代码整洁干练，不拖泥...]]></title>
-            <description><![CDATA[想学一下react怎么上手，搜了两个项目，分别用react ts tailwindcss 写了一个仿mac os 界面的前端。<br><br>ps：图一图二是网页。<br><br>大佬就是大佬，代码整洁干练，不拖泥带水，还完全开源。<br><br>https://portfolio.zxh.io/<br><br>https://macos-preact.vercel.app/8<br><img src="https://cdnv2.ruguoapp.com/Fgh1BXNxpOn8nf5SRF3TgHr9Ow1wv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FtTT-y4ZW4pG2lGlOgnmeoacncjRv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 20 Dec 2023 04:01:33 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6582671df0da80ccb59ecdee</guid>
-            <link>https://m.okjike.com/originalPosts/6582671df0da80ccb59ecdee</link>
+            <title><![CDATA[电子书：动手学大模型应用开发 地址：datawhalechina.github.io/llm-universe/ datawhale出品。 本项目是一个面向小白开发者的大模型应用开发教程，旨在结合个人...]]></title>
+            <description><![CDATA[电子书：动手学大模型应用开发<br>地址：datawhalechina.github.io/llm-universe/<br>datawhale出品。<br>本项目是一个面向小白开发者的大模型应用开发教程，旨在结合个人知识库助手项目，通过一个课程完成大模型开发的重点入门，主要内容包括：<br>----大模型简介，何为大模型、大模型特点是什么、LangChain 是什么，针对小白开发者的简单介绍；<br>----如何调用大模型 API，本节介绍了国内外知名大模型产品 API 的多种调用方式，包括调用原生 API、封装为 LangChain LLM、封装为 Fastapi 等调用方式，同时将包括百度文心、讯飞星火、智谱AI等多种大模型 API 进行了统一形式封装；<br>----大模型开发流程及架构，大模型应用开发的基本流程、一般思想和本项目的架构分析；<br>----数据库搭建，不同类型知识库文档的加载、处理，向量数据库的搭建；<br>----Prompt 设计，如何设计 Prompt 来让大模型完成特定任务，Prompt Engineering 的原则和技巧有哪些；<br>----验证迭代，大模型开发如何实现验证迭代，一般的评估方法有什么；<br>----前后端开发，如何使用 Gradio、FastAPI 等框架快速开发大模型 Demo，展示应用能力。<br><img src="https://cdnv2.ruguoapp.com/Fifk1SV5acwwPDYau5pRIrT-goMBv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 20 Dec 2023 05:40:39 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65827e57979083134a78b0b5</guid>
+            <link>https://m.okjike.com/originalPosts/65827e57979083134a78b0b5</link>
             
             
             
-            <author><![CDATA[EasyPlux]]></author>
+            <author><![CDATA[通义千问]]></author>
             
                 
             
