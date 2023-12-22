@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 21 Dec 2023 22:25:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Dec 2023 02:41:41 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[10 个帮助你更好入门编程的网站和工具--很全面！ 1）devv AI 是一款专门面向于开发者的搜索引擎，目的是代替开发者日常使用 Google / StackOverflow / 文档的场...]]></title>
+            <description><![CDATA[10 个帮助你更好入门编程的网站和工具--很全面！<br><br>1）devv AI<br>是一款专门面向于开发者的搜索引擎，目的是代替开发者日常使用 Google / StackOverflow / 文档的场景。<br>http://devv.ai <br><br>2）Immersive Translate（沉浸式翻译） <br>这个插件基本上已经成为了日常使用次数最多工具之一，支持沉浸式翻译网页，并且背后可以选择多个翻译引擎（日常使用最多的是 DeepL 和 ChatGPT）。 因为后面推荐的大部分内容均为英文内容，可以借助这个工具来进行翻译对照学习。<br>https://immersivetranslate.com/?force=1<br><br>3）Python Tutor <br>这个网站可以非常直观地把 Python / Java / C / C++ / JavaScript 等语言的运行过程以可视化的方式展示出来，方便初学者理解整个程序的每一步状态。 图为快速排序的运行流程。 <br>https://pythontutor.com<br><br>4）freeCodeCamp freeCodeCamp <br>应该是最大的编程教程网站，上面几乎有你想要了解的任何编程资源，从编程语言到各种从零到一的 Project，有接近 10000 篇教程。 对于一门技术不熟悉就可以先到这里搜索一下。 <br>https://freecodecamp.org/chinese/<br><br>5）Replit Replit <br>是一个在线的 IDE 和代码社区，可以直接在线运行多种语言的代码。 并且社区中拥有大量的开源项目，可以在其他人的项目上进行二次开发，并直接在线上编译运行发布。 <br>https://replit.com<br><br>6）GitHub <br>聊到开发就可能绕过世界上最大的开源项目平台 GitHub。在使用这个网站之前可以先学习一下 git 这个版本控制系统的使用。 熟悉了 GitHub 之后可以每天了解 trending 项目，并且也可以参与到其他人的开源项目中去。<br>https://github.com<br><br>7）Awesome First PR Opportunities 熟悉了 git 和 GitHub 之后就可以开始你的第一个开源项目贡献了。想象一下，如果在求职的时候，简历中有过 Python, React, k8s 等知名开源项目的经验，肯定会脱颖而出。 <br>https://github.com/MunGell/awesome-for-beginners<br><br>8）计算机自学指南 <br>很多同学可能并不是科班出生，但是没有关系，计算机和编程是最不需要在学校里学习的一门专业了。 这个网站列出了几乎 CS 所有领域的网上课程，并且每个课程都包含相关介绍。 <br>https://csdiy.wiki<br><br>9）Build Your Own X <br>有了一定的编程基础之后，是时候来写一些大型的项目了。 <br>比如： - 实现一个虚拟机（Docker） - 实现一个操作系统 - 实现一个 3D 渲染器<br>https://github.com/codecrafters-io/build-your-own-x<br><br>10）Hacker News &amp; /r/programming <br>有了编程技能还不够，编程是一门发展非常快速的行业，所以如果需要了解最新的技术咨询、行业动态，查看最一手的资讯是最重要的。<br> 只看这两个信息源就足够了：<br>Hacker News: https://news.ycombinator.com <br>Reddit Programming: https://reddit.com/r/programming/]]></description>
+            <pubDate>Thu, 21 Dec 2023 16:17:41 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6584652534cced9e3135a5fe</guid>
+            <link>https://m.okjike.com/originalPosts/6584652534cced9e3135a5fe</link>
+            
+            
+            
+            <author><![CDATA[欧sir-weir]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[开源推荐-局域网传输工具 filebrowser 图片视频百兆秒传、本地网页管理，不限设备端，不用联网，支持简体中文 https://filebrowser.org/]]></title>
@@ -82,22 +98,6 @@
             
             
             <author><![CDATA[通义千问]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[想学一下react怎么上手，搜了两个项目，分别用react ts tailwindcss 写了一个仿mac os 界面的前端。 ps：图一图二是网页。 大佬就是大佬，代码整洁干练，不拖泥...]]></title>
-            <description><![CDATA[想学一下react怎么上手，搜了两个项目，分别用react ts tailwindcss 写了一个仿mac os 界面的前端。<br><br>ps：图一图二是网页。<br><br>大佬就是大佬，代码整洁干练，不拖泥带水，还完全开源。<br><br>https://portfolio.zxh.io/<br><br>https://macos-preact.vercel.app/8<br><img src="https://cdnv2.ruguoapp.com/Fgh1BXNxpOn8nf5SRF3TgHr9Ow1wv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FtTT-y4ZW4pG2lGlOgnmeoacncjRv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 20 Dec 2023 04:01:33 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6582671df0da80ccb59ecdee</guid>
-            <link>https://m.okjike.com/originalPosts/6582671df0da80ccb59ecdee</link>
-            
-            
-            
-            <author><![CDATA[EasyPlux]]></author>
             
                 
             
