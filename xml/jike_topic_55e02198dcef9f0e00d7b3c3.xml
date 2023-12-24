@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sun, 24 Dec 2023 10:54:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Dec 2023 15:10:02 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[推荐一个免费微信推送服务 Server 酱：https://sct.ftqq.com 。虽然每天只有免费 5 条，但完全够我使用了。 我使用 Uptime Kuma 监控个人的服务，但之前没接监控...]]></title>
+            <description><![CDATA[推荐一个免费微信推送服务 Server 酱：https://sct.ftqq.com 。虽然每天只有免费 5 条，但完全够我使用了。<br><br>我使用 Uptime Kuma 监控个人的服务，但之前没接监控。有段时间偷懒没查看，服务挂了两周不知道，导致微信小程序被用户一星评价。<br><br>珍惜免费服务，这年头好人不多了啊。<br><img src="https://cdnv2.ruguoapp.com/FvYvEsBMjQy0k-4QcH6TG6Yx9qm0v3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sat, 23 Dec 2023 09:44:53 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6586ac158a7c5ba8ae91af77</guid>
+            <link>https://m.okjike.com/originalPosts/6586ac158a7c5ba8ae91af77</link>
+            
+            
+            
+            <author><![CDATA[alswl]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[google Android团队出的rust教程，规划了4天的学习时间，有中文版。 🔗https://google.github.io/comprehensive-rust/welcome.html]]></title>
@@ -42,7 +58,7 @@
         
         <item>
             <title><![CDATA[免费开源抓包软件，支持全平台系统 手机版可以一键扫码连接电脑端。 尊重您的隐私,不会和服务端有交互 GitHub：https://github.com/wanghongenpin/network_proxy...]]></title>
-            <description><![CDATA[免费开源抓包软件，支持全平台系统<br>手机版可以一键扫码连接电脑端。<br>尊重您的隐私,不会和服务端有交互<br>GitHub：https://github.com/wanghongenpin/network_proxy_flutter<br><br>国内下载地址：https://gitee.com/wanghongenpin/network-proxy-flutter/releases<br><br>ios下载地址： https://testflight.apple.com/join/gURGH6B4 <br>ios只能使用TestFlight提交测试版，国内个人账号用到VPN没法上架AppStore。<br><br>欢迎大家试用和提意见[呲牙]<br><video src="https://videocdn.jellow.site/lhHfts1FOsuXLZDj7Ba1987g-Lnj.mp4?sign=f46ce1a7236a5355bd6af6a60ea5121d&amp;t=658814b5" controls=""></video>]]></description>
+            <description><![CDATA[免费开源抓包软件，支持全平台系统<br>手机版可以一键扫码连接电脑端。<br>尊重您的隐私,不会和服务端有交互<br>GitHub：https://github.com/wanghongenpin/network_proxy_flutter<br><br>国内下载地址：https://gitee.com/wanghongenpin/network-proxy-flutter/releases<br><br>ios下载地址： https://testflight.apple.com/join/gURGH6B4 <br>ios只能使用TestFlight提交测试版，国内个人账号用到VPN没法上架AppStore。<br><br>欢迎大家试用和提意见[呲牙]<br><video src="https://videocdn.jellow.site/lhHfts1FOsuXLZDj7Ba1987g-Lnj.mp4?sign=5ca5ccb21628c8ac9f2dc8f8fa003491&amp;t=658850d1" controls=""></video>]]></description>
             <pubDate>Thu, 21 Dec 2023 18:35:33 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/65848575979083134aa34122</guid>
             <link>https://m.okjike.com/originalPosts/65848575979083134aa34122</link>
@@ -114,22 +130,6 @@
             
             
             <author><![CDATA[Barret李靖]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[电子书：动手学大模型应用开发 地址：datawhalechina.github.io/llm-universe/ datawhale出品。 本项目是一个面向小白开发者的大模型应用开发教程，旨在结合个人...]]></title>
-            <description><![CDATA[电子书：动手学大模型应用开发<br>地址：datawhalechina.github.io/llm-universe/<br>datawhale出品。<br>本项目是一个面向小白开发者的大模型应用开发教程，旨在结合个人知识库助手项目，通过一个课程完成大模型开发的重点入门，主要内容包括：<br>----大模型简介，何为大模型、大模型特点是什么、LangChain 是什么，针对小白开发者的简单介绍；<br>----如何调用大模型 API，本节介绍了国内外知名大模型产品 API 的多种调用方式，包括调用原生 API、封装为 LangChain LLM、封装为 Fastapi 等调用方式，同时将包括百度文心、讯飞星火、智谱AI等多种大模型 API 进行了统一形式封装；<br>----大模型开发流程及架构，大模型应用开发的基本流程、一般思想和本项目的架构分析；<br>----数据库搭建，不同类型知识库文档的加载、处理，向量数据库的搭建；<br>----Prompt 设计，如何设计 Prompt 来让大模型完成特定任务，Prompt Engineering 的原则和技巧有哪些；<br>----验证迭代，大模型开发如何实现验证迭代，一般的评估方法有什么；<br>----前后端开发，如何使用 Gradio、FastAPI 等框架快速开发大模型 Demo，展示应用能力。<br><img src="https://cdnv2.ruguoapp.com/Fifk1SV5acwwPDYau5pRIrT-goMBv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 20 Dec 2023 05:40:39 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65827e57979083134a78b0b5</guid>
-            <link>https://m.okjike.com/originalPosts/65827e57979083134a78b0b5</link>
-            
-            
-            
-            <author><![CDATA[通义千问]]></author>
             
                 
             
