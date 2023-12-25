@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 25 Dec 2023 03:25:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Dec 2023 07:25:49 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[推荐一个帮助你学习各类编程语言的在线交互式教学工具，https://www.learnpython.org/，它背后使用的是 Sphere Engine，支持直接编译和运行各类语言代码，省却了...]]></title>
+            <description><![CDATA[推荐一个帮助你学习各类编程语言的在线交互式教学工具，https://www.learnpython.org/，它背后使用的是 Sphere Engine，支持直接编译和运行各类语言代码，省却了本地安装环境的麻烦。<br><br>看项目热度内容仍在保持更新中，网站代码也可以直接克隆到本地运行：https://github.com/ronreiter/interactive-tutorials<br><img src="https://cdnv2.ruguoapp.com/FgnLMnyBe4jBNYng7Xbbcnqa_-qev3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fi90z6zycDJYpjDpIhbuLf4-KCmSv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 25 Dec 2023 01:45:04 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6588dea0979083134af31c0e</guid>
+            <link>https://m.okjike.com/originalPosts/6588dea0979083134af31c0e</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[写了十多年 JavaScript，多次想好好学习下 Go/Python/Rust 等语言，但最后都没有实施下去。最近为了搞 AI，硬着头皮扎扎实实地把 Python 学了一遍，弥补了很多之...]]></title>
@@ -82,22 +98,6 @@
             
             
             <author><![CDATA[欧sir-weir]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[开源推荐-局域网传输工具 filebrowser 图片视频百兆秒传、本地网页管理，不限设备端，不用联网，支持简体中文 https://filebrowser.org/]]></title>
-            <description><![CDATA[开源推荐-局域网传输工具 <br>filebrowser<br>图片视频百兆秒传、本地网页管理，不限设备端，不用联网，支持简体中文<br><br>https://filebrowser.org/<img src="https://cdnv2.ruguoapp.com/Fh5XMEWNrbSDWb0IQXQRveKhUtGNv3.gif" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 21 Dec 2023 02:39:13 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6583a55179cb2b9f35f3d54c</guid>
-            <link>https://m.okjike.com/originalPosts/6583a55179cb2b9f35f3d54c</link>
-            
-            
-            
-            <author><![CDATA[李不多]]></author>
             
                 
             
