@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 25 Dec 2023 13:26:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Dec 2023 19:26:22 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[圣诞节快乐]]></title>
+            <description><![CDATA[圣诞节快乐<br><video src="https://videocdn.jellow.site/Fp9Mc5kOHbFOzxg8f3HXSP7sT1J3.mp4?sign=a282c5632de9c1a949c737eb31c177e9&amp;t=6589de48" controls=""></video>]]></description>
+            <pubDate>Mon, 25 Dec 2023 13:18:51 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6589813b3af12f55ba3edca0</guid>
+            <link>https://m.okjike.com/originalPosts/6589813b3af12f55ba3edca0</link>
+            
+            
+            
+            <author><![CDATA[迟到兔]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[推荐一个帮助你学习各类编程语言的在线交互式教学工具，https://www.learnpython.org/，它背后使用的是 Sphere Engine，支持直接编译和运行各类语言代码，省却了...]]></title>
@@ -98,22 +114,6 @@
             
             
             <author><![CDATA[欧sir-weir]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[局域网文件互传，推荐 ShareDrop， https://sharedrop.io，这款产品是基于 WebRTC 实现的 P2P 传输，局域网内文件互传的效率非常高。 使用方式很简单，电脑和手...]]></title>
-            <description><![CDATA[局域网文件互传，推荐 ShareDrop， https://sharedrop.io，这款产品是基于 WebRTC 实现的 P2P 传输，局域网内文件互传的效率非常高。<br><br>使用方式很简单，电脑和手机（或其他终端）同时打开这个网址就行了，它会通过STUN（Session Traversal Utilities for NAT）服务器来获取本地网络地址和端口，然后在局域网内建立点对点连接，安全性也很高。<br><img src="https://cdnv2.ruguoapp.com/FmsPyPGrW9wswEGT6FIiB61QqHYjv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 20 Dec 2023 13:58:53 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6582f31d71cfacf6097f57fb</guid>
-            <link>https://m.okjike.com/originalPosts/6582f31d71cfacf6097f57fb</link>
-            
-            
-            
-            <author><![CDATA[Barret李靖]]></author>
             
                 
             
