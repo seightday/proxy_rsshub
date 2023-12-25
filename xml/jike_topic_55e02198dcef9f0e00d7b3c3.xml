@@ -21,19 +21,35 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sun, 24 Dec 2023 23:21:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Dec 2023 03:25:43 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
-            <title><![CDATA[推荐一个免费微信推送服务 Server 酱：https://sct.ftqq.com 。虽然每天只有免费 5 条，但完全够我使用了。 我使用 Uptime Kuma 监控个人的服务，但之前没接监控...]]></title>
-            <description><![CDATA[推荐一个免费微信推送服务 Server 酱：https://sct.ftqq.com 。虽然每天只有免费 5 条，但完全够我使用了。<br><br>我使用 Uptime Kuma 监控个人的服务，但之前没接监控。有段时间偷懒没查看，服务挂了两周不知道，导致微信小程序被用户一星评价。<br><br>珍惜免费服务，这年头好人不多了啊。<br><img src="https://cdnv2.ruguoapp.com/FvYvEsBMjQy0k-4QcH6TG6Yx9qm0v3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 23 Dec 2023 09:44:53 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6586ac158a7c5ba8ae91af77</guid>
-            <link>https://m.okjike.com/originalPosts/6586ac158a7c5ba8ae91af77</link>
+            <title><![CDATA[写了十多年 JavaScript，多次想好好学习下 Go/Python/Rust 等语言，但最后都没有实施下去。最近为了搞 AI，硬着头皮扎扎实实地把 Python 学了一遍，弥补了很多之...]]></title>
+            <description><![CDATA[写了十多年 JavaScript，多次想好好学习下 Go/Python/Rust 等语言，但最后都没有实施下去。最近为了搞 AI，硬着头皮扎扎实实地把 Python 学了一遍，弥补了很多之前掌握不足的知识点，还是挺有收获的，有两点感想：<br><br>1）很有必要多学习一门语言，在对比中学习，可以了解不同语言的强项和弱点，也可以看到更多底层的优秀设计；JS 和 Python 都是弱语言类型，虽然也写了好几年的 TS，对强语言类型接触还是不够，未来计划好好再学一学 Go；当然，也得先有一个非常强的内驱力，就跟搞 AI 一样愿意学 Python。<br><br>2）系统性学习一门语言，知识量非常庞杂，但不外乎语法、编程范式、工程、辅助工具、框架、中间件等几块，再深入一点可以去看看元编程、内存管理、设计模式、性能调优、安全设计和质量保障等，想研究细节的话可以去翻一番历史 issues，看看这门语言的发展以及版本演进，追一追标准化和社区讨论。<br><br>当然，学习不是目的，学习是为了更好的解决实际问题，所以也非常建议多动手，把脑子里的想法用代码实现出来。<br><br>---<br><br>网友纠正：Python 是强类型，可以先赋值整数再赋值字符串，类型检测没报错，是因为底层都是 PyObject；字符串可以隐式转换是因为有  __repr__() 和 __str__() 俩方法；Python 有原生的类型标注，可以使用MyPy 跑类型检查。]]></description>
+            <pubDate>Sun, 24 Dec 2023 14:57:05 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/658846c18a7c5ba8aeaf8bdc</guid>
+            <link>https://m.okjike.com/originalPosts/658846c18a7c5ba8aeaf8bdc</link>
             
             
             
-            <author><![CDATA[alswl]]></author>
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[推荐几个可以生成渐变背景的开源工具, 原来渐变不仅有线性渐变，径向渐变，圆锥渐变，还有网格渐变(mesh gradient) 和颗粒感渐变(grainy gradient) ，后者是给原...]]></title>
+            <description><![CDATA[推荐几个可以生成渐变背景的开源工具, 原来渐变不仅有线性渐变，径向渐变，圆锥渐变，还有网格渐变(mesh gradient) 和颗粒感渐变(grainy gradient) ，后者是给原来的渐变增加了噪点颗粒背景<br><br>https://meshgradient.in/<br><br>https://hypercolor.dev/mesh<br><br>https://fffuel.co/gggrain/<br><img src="https://cdnv2.ruguoapp.com/FkNPqletGsPtK6oDWS10gTg0W7HLv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FkmACnNja0FyhYSaIUCRReQ_yhV7v3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sun, 24 Dec 2023 06:18:05 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6587cd1d71cfacf609db2024</guid>
+            <link>https://m.okjike.com/originalPosts/6587cd1d71cfacf609db2024</link>
+            
+            
+            
+            <author><![CDATA[Flarewand]]></author>
             
                 
             
@@ -50,22 +66,6 @@
             
             
             <author><![CDATA[BigYe程普]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[免费开源抓包软件，支持全平台系统 手机版可以一键扫码连接电脑端。 尊重您的隐私,不会和服务端有交互 GitHub：https://github.com/wanghongenpin/network_proxy...]]></title>
-            <description><![CDATA[免费开源抓包软件，支持全平台系统<br>手机版可以一键扫码连接电脑端。<br>尊重您的隐私,不会和服务端有交互<br>GitHub：https://github.com/wanghongenpin/network_proxy_flutter<br><br>国内下载地址：https://gitee.com/wanghongenpin/network-proxy-flutter/releases<br><br>ios下载地址： https://testflight.apple.com/join/gURGH6B4 <br>ios只能使用TestFlight提交测试版，国内个人账号用到VPN没法上架AppStore。<br><br>欢迎大家试用和提意见[呲牙]<br><video src="https://videocdn.jellow.site/lhHfts1FOsuXLZDj7Ba1987g-Lnj.mp4?sign=5e7e7b008db71e60bf62dcfb95e58bf3&amp;t=6588c251" controls=""></video>]]></description>
-            <pubDate>Thu, 21 Dec 2023 18:35:33 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65848575979083134aa34122</guid>
-            <link>https://m.okjike.com/originalPosts/65848575979083134aa34122</link>
-            
-            
-            
-            <author><![CDATA[婉拒富婆69次]]></author>
             
                 
             
