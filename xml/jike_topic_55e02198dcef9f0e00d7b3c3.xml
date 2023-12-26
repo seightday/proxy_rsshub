@@ -21,12 +21,28 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 26 Dec 2023 05:26:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Dec 2023 09:27:02 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
+            <title><![CDATA[无题]]></title>
+            <description><![CDATA[<br><img src="https://cdnv2.ruguoapp.com/FpMVlWF0A-esg_nPp-hPNkxE1o3Qv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 26 Dec 2023 03:03:00 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/658a4264a922aa28d00f551d</guid>
+            <link>https://m.okjike.com/originalPosts/658a4264a922aa28d00f551d</link>
+            
+            
+            
+            <author><![CDATA[不与天斗]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[圣诞节快乐]]></title>
-            <description><![CDATA[圣诞节快乐<br><video src="https://videocdn.jellow.site/Fp9Mc5kOHbFOzxg8f3HXSP7sT1J3.mp4?sign=9ba3297b0abe4f42379db5a3ad8d30da&amp;t=658a6994" controls=""></video>]]></description>
+            <description><![CDATA[圣诞节快乐<br><video src="https://videocdn.jellow.site/Fp9Mc5kOHbFOzxg8f3HXSP7sT1J3.mp4?sign=584a50c9a594cae985712e1e9c7b5ac1&amp;t=658aa2ab" controls=""></video>]]></description>
             <pubDate>Mon, 25 Dec 2023 13:18:51 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6589813b3af12f55ba3edca0</guid>
             <link>https://m.okjike.com/originalPosts/6589813b3af12f55ba3edca0</link>
@@ -46,22 +62,6 @@
             <pubDate>Mon, 25 Dec 2023 01:45:04 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6588dea0979083134af31c0e</guid>
             <link>https://m.okjike.com/originalPosts/6588dea0979083134af31c0e</link>
-            
-            
-            
-            <author><![CDATA[Barret李靖]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[写了十多年 JavaScript，多次想好好学习下 Go/Python/Rust 等语言，但最后都没有实施下去。最近为了搞 AI，硬着头皮扎扎实实地把 Python 学了一遍，弥补了很多之...]]></title>
-            <description><![CDATA[写了十多年 JavaScript，多次想好好学习下 Go/Python/Rust 等语言，但最后都没有实施下去。最近为了搞 AI，硬着头皮扎扎实实地把 Python 学了一遍，弥补了很多之前掌握不足的知识点，还是挺有收获的，有两点感想：<br><br>1）很有必要多学习一门语言，在对比中学习，可以了解不同语言的强项和弱点，也可以看到更多底层的优秀设计；JS 和 Python 都是弱语言类型，虽然也写了好几年的 TS，对强语言类型接触还是不够，未来计划好好再学一学 Go；当然，也得先有一个非常强的内驱力，就跟搞 AI 一样愿意学 Python。<br><br>2）系统性学习一门语言，知识量非常庞杂，但不外乎语法、编程范式、工程、辅助工具、框架、中间件等几块，再深入一点可以去看看元编程、内存管理、设计模式、性能调优、安全设计和质量保障等，想研究细节的话可以去翻一番历史 issues，看看这门语言的发展以及版本演进，追一追标准化和社区讨论。<br><br>当然，学习不是目的，学习是为了更好的解决实际问题，所以也非常建议多动手，把脑子里的想法用代码实现出来。<br><br>---<br><br>网友纠正：Python 是强类型，可以先赋值整数再赋值字符串，类型检测没报错，是因为底层都是 PyObject；字符串可以隐式转换是因为有  __repr__() 和 __str__() 俩方法；Python 有原生的类型标注，可以使用MyPy 跑类型检查。]]></description>
-            <pubDate>Sun, 24 Dec 2023 14:57:05 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/658846c18a7c5ba8aeaf8bdc</guid>
-            <link>https://m.okjike.com/originalPosts/658846c18a7c5ba8aeaf8bdc</link>
             
             
             
