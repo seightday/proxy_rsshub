@@ -14,7 +14,7 @@
         <webMaster>i@diygod.me (DIYgod)</webMaster>
         <itunes:author>大师兄影视官方频道</itunes:author>
         
-        <itunes:explicit>clean</itunes:explicit>
+        <itunes:explicit>false</itunes:explicit>
         <language>zh-cn</language>
         
         <image>
@@ -23,7 +23,7 @@
             <link>https://t.me/s/dsxys</link>
         </image>
         
-        <lastBuildDate>Wed, 27 Dec 2023 11:48:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Dec 2023 16:15:44 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
