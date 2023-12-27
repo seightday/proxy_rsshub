@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 27 Dec 2023 01:28:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Dec 2023 07:44:58 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[打算重新恢复独立博客了，现在托管在 Github Pages 上，域名是 xdash.me。 正逐渐将 2008 以来的博文、公众号、杂志专栏、好书推荐、自制播客视频 shownotes 等...]]></title>
+            <description><![CDATA[打算重新恢复独立博客了，现在托管在 Github Pages 上，域名是 xdash.me。<br><br>正逐渐将 2008 以来的博文、公众号、杂志专栏、好书推荐、自制播客视频 shownotes 等迁移过来。<br><br>为何恢复独立博客 &amp; 从 WordPress 搬迁到 Github Pages：<br><br>- 从「椒盐豆豉」这篇博文获得启发：https://blog.douchi.space/static-blog-half-year/#gsc.tab=0 <br><br>- 遵循「Setup and Forget」原则，希望在博客这件事上减少折腾，提升动力。避免每年空间续费、时不时被动迁移 IP、需要打开浏览器誊写博文等麻烦；以后可在任意设备 Markdown 写 + Git 提交 + Github Actions 完成 hugo 渲染生成。<br><br>- 静态，既加速读者访问，也让我自己不要动辄去想装插件、widget 的花活了。<br><br>- Github backed by Microsoft，稳定可靠。<br><br>- 简单，专注在输出，尤其是输出文字之美本身。<br><br>- 本地 repo 的草稿，可以直接在 Obsidian 方便地编辑；Obsidian 又是买了 Sync 同步的。所以可以移动状态下随时写，回到电脑前整理妥帖再 commit 发布。<br><br>- 没有阅读计数，不被商业裹挟，写自己想写的文，交自己想交的人。<br><br>- 部分回归初心，重拾 Geek 人格。]]></description>
+            <pubDate>Wed, 27 Dec 2023 02:21:23 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/658b8a2312ed2fda68a474d7</guid>
+            <link>https://m.okjike.com/originalPosts/658b8a2312ed2fda68a474d7</link>
+            
+            
+            
+            <author><![CDATA[范冰]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[数据库技术体系的宝典，真是太值得一看再看了！ https://github.com/pingcap/awesome-database-learning?tab=readme-ov-file#subquery-optimization 无论是文档...]]></title>
@@ -34,6 +50,22 @@
             
             
             <author><![CDATA[子鱼Ryan]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[NAS是个伪需求 以前总是按捺不住想买个NAS放在家里，折腾点自己的东西，才显得自己够极客。现在回想，其实NAS根本就是个伪需求，他只适合很少一部分人。 梳理一...]]></title>
+            <description><![CDATA[NAS是个伪需求<br><br>以前总是按捺不住想买个NAS放在家里，折腾点自己的东西，才显得自己够极客。现在回想，其实NAS根本就是个伪需求，他只适合很少一部分人。<br>梳理一下NAS的缺点吧，记录一下跟NAS做个了结。<br><br>1、费用高<br>一台基本功能的NAS也得2000块以上的价格，而一个阿里网盘或百度网盘的年会员费用也就158元左右，这么算下来，一台NAS可以买10几年的网盘会员了。并且NAS还需要买多块硬盘构成磁盘阵列，这也是一笔不少的费用。<br><br>2、替代方案多<br>NAS大部分功能可以使用主流网盘、移动硬盘、私有云或公有云服务器替代，体验也都很不错。<br><br>3、安全性并不高<br>这是NAS的商家一直主打的卖点，但是真相并不是，首先不说天灾不可抗力，楼塌屋倒的情况，NAS提供商为了操作易用，会损失一定的安全等级。其次，如果被黑客攻击，自己并不一定能搞得了，一旦文件丢失，那真的天价的损失。<br><br>4、维护难度大<br>全家就自己会搞，如果自己不在家（或者人没了），NAS出现点问题，基本歇菜。<br><br>5、更新迭代快<br>容易过时，硬件跟不上软件升级的速度，更何况NAS有倒闭的风险，以前自己买的极路由不再提供网络服务就是一个活生生的例子。<br><br>6、电费<br>买了NAS就不可能不开，长远下来电费问题不可忽视。<br><br> 如果上面这些都不在乎，或都有方法解决，搞台NAS的体验还是非常不错的。<br><img src="https://cdnv2.ruguoapp.com/FjTGMkqOzQSGgmg6-Mtazq2dzGurv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 26 Dec 2023 03:21:57 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/658a46d5164d89e60132204b</guid>
+            <link>https://m.okjike.com/originalPosts/658a46d5164d89e60132204b</link>
+            
+            
+            
+            <author><![CDATA[极客老王]]></author>
             
                 
             
@@ -57,24 +89,8 @@
         </item>
         
         <item>
-            <title><![CDATA[ddrun 后端采用 midway3.0，后台采用 nuxt2.x，小程序采用 uniapp 实现的一套跑腿下单接单系统。适用于校园、社区、城市等场景，可提供打印服务、跑腿服务、搬家...]]></title>
-            <description><![CDATA[ddrun<br><br>后端采用 midway3.0，后台采用 nuxt2.x，小程序采用 uniapp 实现的一套跑腿下单接单系统。适用于校园、社区、城市等场景，可提供打印服务、跑腿服务、搬家服务、清洁服务、维修服务、活动组织、快递代取、代买代送、软件安装、陪玩陪练等服务。<br><br>https://gitee.com/landalfyao/ddrun<br><img src="https://cdnv2.ruguoapp.com/FrOLzVfIN5zpE3BiFJM1RK0GRO2Uv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 25 Dec 2023 13:55:41 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/658989ddde5f28734845c932</guid>
-            <link>https://m.okjike.com/originalPosts/658989ddde5f28734845c932</link>
-            
-            
-            
-            <author><![CDATA[村雨遥]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[圣诞节快乐]]></title>
-            <description><![CDATA[圣诞节快乐<br><video src="https://videocdn.jellow.site/Fp9Mc5kOHbFOzxg8f3HXSP7sT1J3.mp4?sign=1930b75713dc4c7dae76d1374392afec&amp;t=658b82cf" controls=""></video>]]></description>
+            <description><![CDATA[圣诞节快乐<br><video src="https://videocdn.jellow.site/Fp9Mc5kOHbFOzxg8f3HXSP7sT1J3.mp4?sign=7191a8f056e622255d88504eeed5ff28&amp;t=658bdb56" controls=""></video>]]></description>
             <pubDate>Mon, 25 Dec 2023 13:18:51 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6589813b3af12f55ba3edca0</guid>
             <link>https://m.okjike.com/originalPosts/6589813b3af12f55ba3edca0</link>
@@ -98,22 +114,6 @@
             
             
             <author><![CDATA[Barret李靖]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[推荐几个可以生成渐变背景的开源工具, 原来渐变不仅有线性渐变，径向渐变，圆锥渐变，还有网格渐变(mesh gradient) 和颗粒感渐变(grainy gradient) ，后者是给原...]]></title>
-            <description><![CDATA[推荐几个可以生成渐变背景的开源工具, 原来渐变不仅有线性渐变，径向渐变，圆锥渐变，还有网格渐变(mesh gradient) 和颗粒感渐变(grainy gradient) ，后者是给原来的渐变增加了噪点颗粒背景<br><br>https://meshgradient.in/<br><br>https://hypercolor.dev/mesh<br><br>https://fffuel.co/gggrain/<br><img src="https://cdnv2.ruguoapp.com/FkNPqletGsPtK6oDWS10gTg0W7HLv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FkmACnNja0FyhYSaIUCRReQ_yhV7v3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sun, 24 Dec 2023 06:18:05 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6587cd1d71cfacf609db2024</guid>
-            <link>https://m.okjike.com/originalPosts/6587cd1d71cfacf609db2024</link>
-            
-            
-            
-            <author><![CDATA[Flarewand]]></author>
             
                 
             
