@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
-
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
 
 >
     <channel>
         <title><![CDATA[最新限免 / 促销应用]]></title>
         <link>https://gofans.cn/</link>
-        <atom:link href="https://rsshub.app/appstore/gofans" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub/appstore/gofans" rel="self" type="application/rss+xml" />
         <description><![CDATA[GoFans：最新限免 / 促销应用 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -15,33 +14,22 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Thu, 30 Nov 2023 02:16:46 GMT</lastBuildDate>
-        <ttl>120</ttl>
+        <lastBuildDate>Thu, 28 Dec 2023 04:15:45 GMT</lastBuildDate>
+        <ttl>1</ttl>
         
         <item>
-            <title><![CDATA[「免费」-「iOS」懒猫记账Pro-无广告、1秒启动]]></title>
-            <description><![CDATA[<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/01/0b/c7/010bc7fc-c605-85c6-cd52-cc795f9986f0/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/256x256bb.jpg" referrerpolicy="no-referrer">
+            <title><![CDATA[「降价」-「iOS」Kauldron Synthesizer]]></title>
+            <description><![CDATA[<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/57/f9/8f/57f98f0c-76d1-f852-cbed-89da33dcd559/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/256x256bb.jpg" referrerpolicy="no-referrer">
           <br>
-          原价：¥298.00 -&gt; 现价：¥0.00
+          原价：¥68.00 -> 现价：¥38.00
           <br>
           平台：iOS
           <br>
-          懒猫记账Pro是一款实用便捷的记账App。
-可以记日常收支、生意流水、旅行开支、家庭收支等多种账目，您可以添加多个账本，来记不同的账。
-这是一个可以帮您养成记账习惯的记账APP，记账流程简单流畅。
-还有分类流水折线图等，可以很方便的帮你做财务分析。
-
-【数据超安全】
--我们会为您将您的数据自动备份到您的iCloud账户中，无需登录，每天为您自动备份！即使卸载App也能轻松恢复数据！再也不怕数据丢失！
-
-【账本市场，应有尽有】
- 10多种场景账本，以及无限多的自定义账本，满足你不同时期的需要：
-- 旅游账本：旅游预算、旅行清单…满足你天南地北的旅行需求
-- 娱乐账本：周六看电影，周末海底捞美味大
+          Kauldron is our warmest sounding, punchiest synth yet! A completely new modeling technology, combined with carefully designed features help you create aggressive synth sounds full of rich analog textures with the fewest knob tweaks. The result is a pure, head-on tone that requires little or no FX or
         ]]></description>
-            <pubDate>Thu, 30 Nov 2023 01:17:12 GMT</pubDate>
-            <guid isPermaLink="false">https://gofans.cn/app/8fdef88d-a195-42c8-9e2b-0515aab9455c</guid>
-            <link>https://gofans.cn/app/8fdef88d-a195-42c8-9e2b-0515aab9455c</link>
+            <pubDate>Thu, 28 Dec 2023 04:15:20 GMT</pubDate>
+            <guid isPermaLink="false">https://gofans.cn/app/c83c8834-9670-49a2-a41e-2b800a8f6bbd</guid>
+            <link>https://gofans.cn/app/c83c8834-9670-49a2-a41e-2b800a8f6bbd</link>
             
             
             
@@ -53,25 +41,28 @@
         </item>
         
         <item>
-            <title><![CDATA[「降价」-「iOS」Notes Writer Pro: 备忘录]]></title>
-            <description><![CDATA[<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/5e/e2/14/5ee21409-3d56-13ad-143a-0d0d492748d1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/256x256bb.jpg" referrerpolicy="no-referrer">
+            <title><![CDATA[「降价」-「iOS」艾希 - ICEY]]></title>
+            <description><![CDATA[<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/42/e4/0b/42e40bed-ba27-1450-9463-da43e44010d3/AppIcon-1x_U007emarketing-0-9-85-220.png/256x256bb.jpg" referrerpolicy="no-referrer">
           <br>
-          原价：¥38.00 -&gt; 现价：¥28.00
+          原价：¥18.00 -> 现价：¥12.00
           <br>
           平台：iOS
           <br>
-          键盘录入，手写，注释，绘制，高亮标注，扫描和记录注释和文档。 注释PDF文档，填写表格和签署文件。 创建笔记本和树状项目。 用你喜欢的方式实现完全无纸化。
+          [游戏说明]
 
-主要针对专注于生产力和商务的专业人士，学生，教师，作家，医生，记者，学者等，更轻松使用Notes Writer Pro来保存和创建笔记，注释，备忘录，签名PDF文档，论文，高亮标注显PDF文本书籍，以及录制的讲座等。
+由幻刃网络研发，心动网络发行的《ICEY》是一款2D横版动作游戏，跟随旁白的指示，你将会通过ICEY的眼睛去看，去战斗并发掘在游戏中世界的真相。但其实，这也根本不是一款2D横版动作游戏，你也不会通过ICEY的眼睛去看，你也不会去探寻这个世界的真相。
 
-使用Notes Writer Pro，您可以:
+本质上说《ICEY》是一款Meta游戏，玩家需要通过对抗旁白的指示，思考何为游戏、何为真相等等命题。在《ICEY》中，你扮演的是ICEY，而非“你自己”。当然你也可以扮演“你自己”，而非ICEY。这是一个包裹着动作游戏外衣的陷阱。
 
-+ 做笔记，写文件，随手画草图，记录瞬间灵感, 让他们发挥更重要的作用。
-你可能需要随时手写笔记，分享的商业备忘录，记录喷涌的文采，录制要讲的故事，编辑文章，记录讲座……无
+现在，就是你发掘其真正故事的时刻。
+
+[游戏特色]
+
+·高速战斗： 高速移动，将敌人玩弄于股掌之中
         ]]></description>
-            <pubDate>Wed, 29 Nov 2023 23:02:48 GMT</pubDate>
-            <guid isPermaLink="false">https://gofans.cn/app/9f7d2032-986b-4727-99ea-30cc0d0102cd</guid>
-            <link>https://gofans.cn/app/9f7d2032-986b-4727-99ea-30cc0d0102cd</link>
+            <pubDate>Thu, 28 Dec 2023 04:15:11 GMT</pubDate>
+            <guid isPermaLink="false">https://gofans.cn/app/97eb2834-91f5-4575-ad06-239d440c3b83</guid>
+            <link>https://gofans.cn/app/97eb2834-91f5-4575-ad06-239d440c3b83</link>
             
             
             
@@ -83,26 +74,26 @@
         </item>
         
         <item>
-            <title><![CDATA[「免费」-「iOS」AirDisk Pro]]></title>
-            <description><![CDATA[<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1a/20/3b/1a203b30-f521-6ab3-987b-01a5ba152ed6/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/256x256bb.jpg" referrerpolicy="no-referrer">
+            <title><![CDATA[「免费」-「iOS」记住圆周率 - 3.14π]]></title>
+            <description><![CDATA[<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/9a/5a/b2/9a5ab2c6-2fd9-fe12-938e-7d2f5f66ebb4/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/256x256bb.jpg" referrerpolicy="no-referrer">
           <br>
-          原价：¥22.00 -&gt; 现价：¥0.00
+          原价：¥22.00 -> 现价：¥0.00
           <br>
           平台：iOS
           <br>
-          介绍AirDisk Pro，一款可让您在iPhone、iPad或iPod touch上存储、查看和管理文件的终极解决方案。您可以通过Wi-Fi网络从任何Mac或PC连接到AirDisk Pro，并通过从Finder或Windows资源管理器中直接拖放文件进行传输。
+          圆周率，定义为圆的周长（即圆周）与直径的比值。一般以π来表示，是一个在数学及物理学普遍存在的数学常数，是精确计算圆周、圆面积、球体积等几何量的关键值。
 
-AirDisk Pro具备强大的文档查看器、PDF阅读器、音乐播放器、图片查看器、录音机、文本编辑器、文件管理器，并支持大多数文件操作，如删除、移动、复制、电子邮件、共享、压缩、解压等。
+世界记录是100,000位，由日本人原口证于2006年10月3日背诵。
 
+普通话用谐音记忆的有“山巅一寺一壶酒，尔乐苦煞吾，把酒吃，酒杀尔，杀不死，乐而乐”，就是3.1415926535897932384626。 另一谐音为：“山巅一石一壶酒，二妞舞扇舞，把酒沏酒搧又搧，饱死啰”，就是3.14159265358979323846。
 
-主要功能：
+这应用能帮助你快速学习背诵圆周率。
 
-1. 支持云存储：
-支持iCloud Drive、Google Drive、Dropbox和OneDrive存储账户的多重链接
+添加网络对战模式，如果所有设备都连接在同一的区域网络上。你可以发起多达5
         ]]></description>
-            <pubDate>Wed, 29 Nov 2023 15:14:53 GMT</pubDate>
-            <guid isPermaLink="false">https://gofans.cn/app/80b562bc-3938-4653-9506-8911f4740d39</guid>
-            <link>https://gofans.cn/app/80b562bc-3938-4653-9506-8911f4740d39</link>
+            <pubDate>Thu, 28 Dec 2023 04:15:08 GMT</pubDate>
+            <guid isPermaLink="false">https://gofans.cn/app/7a652fbf-4657-4313-a841-3c8c3467035a</guid>
+            <link>https://gofans.cn/app/7a652fbf-4657-4313-a841-3c8c3467035a</link>
             
             
             
@@ -114,174 +105,30 @@ AirDisk Pro具备强大的文档查看器、PDF阅读器、音乐播放器、图
         </item>
         
         <item>
-            <title><![CDATA[「免费」-「iOS」数字幂的高级计算专业的]]></title>
-            <description><![CDATA[<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/74/7a/5e/747a5e10-1d4d-1b11-ffbd-1ff60b99e2e9/AppIcon-APC-PRO-1x_U007emarketing-0-7-0-85-220.png/256x256bb.jpg" referrerpolicy="no-referrer">
+            <title><![CDATA[「免费」-「iOS」超级艺术家DeepStyle]]></title>
+            <description><![CDATA[<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/29/0f/a4/290fa444-1616-998a-fbeb-64e4b51fa6da/AppIcon-85-220-4-2x.png/256x256bb.png" referrerpolicy="no-referrer">
           <br>
-          原价：¥22.00 -&gt; 现价：¥0.00
-          <br>
-          平台：iOS
-          <br>
-          指数定律和一个数字的幂的计算不再是一个问题。通过5种不同的模式，你可以计算出不同的公式组合。这些组合是最常见的幂计算的使用情况。你只需要输入你的指数就可以开始计算。也可以输入常数和基数的值，但这是可选的。根的计算也是这个应用程序的一部分。如果你需要一个关于指数规律的概述--请下载这个应用程序
-
-支持小数、分数和负值。解决方案会一步步显示出来。所有的计算结果都储存在历史记录中。最后的解决方案可以共享。
-
-[ 内容 ]
-- 5种不同的公式组成，用于功率计算
-- 可以输入指数、基数和常数
-- 如果缺少基数，则用变量x或y进行计算。
-- 计算和简化结果
-- 根的计算和倒数被考虑在内
-- 指数定律的列表
-        ]]></description>
-            <pubDate>Wed, 29 Nov 2023 15:13:52 GMT</pubDate>
-            <guid isPermaLink="false">https://gofans.cn/app/3dc1ac56-f08e-4fb0-9b7e-e7978b1f0f91</guid>
-            <link>https://gofans.cn/app/3dc1ac56-f08e-4fb0-9b7e-e7978b1f0f91</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[「免费」-「iOS」任意三角形 专业的]]></title>
-            <description><![CDATA[<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a3/1e/63/a31e6337-d389-7189-9f7c-09e204400647/AppIcon-AT-PRO-1x_U007emarketing-0-7-0-85-220.png/256x256bb.jpg" referrerpolicy="no-referrer">
-          <br>
-          原价：¥22.00 -&gt; 现价：¥0.00
-          <br>
-          平台：iOS
-          <br>
-          计算任意三角形的所有数量的最佳应用。你必须输入一些数量，如两个角和一个长度。该算法搜索所缺数量的公式，显示它们并计算出结果。
-
-小数位的长度可以改变。当四舍五入或错误的数值导致反对意见时，该算法会显示。
-
-支持小数和分数。解决方案会一步步显示出来。所有的计算结果都存储在历史记录中。最终的解决方案可以被分享。
-
-[ 内容 ]
-- 任意三角形的所有重要数量
-- 任意三角形的所有重要量的计算公式
-- 说明该主题的信息图
-- 寻找所需数量的搜索栏
-- 保存输入的历史功能
-- 详细的解决方案
-- 支持正数、小数和分数
-- 无广告！
-
-[使用方法］
-- 有一些字段可以使用特殊键盘输入数值
-- 按右下角的复
-        ]]></description>
-            <pubDate>Wed, 29 Nov 2023 15:13:49 GMT</pubDate>
-            <guid isPermaLink="false">https://gofans.cn/app/f351a18e-6b14-4f19-9144-25c1920ba0bd</guid>
-            <link>https://gofans.cn/app/f351a18e-6b14-4f19-9144-25c1920ba0bd</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[「免费」-「iOS」直角三角形 专业的]]></title>
-            <description><![CDATA[<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a0/dd/76/a0dd768b-de60-1ccb-3a61-b3a59aacf1e6/AppIcon-RT-PRO-1x_U007emarketing-0-7-0-85-220.png/256x256bb.jpg" referrerpolicy="no-referrer">
-          <br>
-          原价：¥22.00 -&gt; 现价：¥0.00
-          <br>
-          平台：iOS
-          <br>
-          计算直角三角形的所有数量的最好的应用程序。你必须输入一些数量，如一个角度和一个长度。该算法搜索所缺数量的公式，显示它们并计算出结果。
-
-小数位的长度可以改变。当四舍五入或错误的数值导致反对意见时，该算法会显示。
-
-支持小数和分数。解决方案会一步步显示出来。所有的计算结果都存储在历史记录中。最终的解决方案可以被分享。
-
-[ 内容 ]
-- 直角三角形的所有重要量
-- 直角三角形的所有重要量的计算公式
-- 说明该主题的信息图
-- 搜索栏查找所需数量
-- 保存输入的历史功能
-- 详细的解决方案
-- 支持正数、小数和分数
-- 可更改的小数位
-- 无广告！
-
-[ 用法 ]
-- 有几个区域可以使用特殊键盘输
-        ]]></description>
-            <pubDate>Wed, 29 Nov 2023 15:13:41 GMT</pubDate>
-            <guid isPermaLink="false">https://gofans.cn/app/b70bae1a-70ba-4aa0-a022-9570fa4d332c</guid>
-            <link>https://gofans.cn/app/b70bae1a-70ba-4aa0-a022-9570fa4d332c</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[「降价」-「iOS」Incredibox - 好玩的音乐盒]]></title>
-            <description><![CDATA[<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/80/0b/96/800b9662-5239-b47b-ea9c-88898d4dc846/AppIcon-1x_U007epad-85-220.png/256x256bb.jpg" referrerpolicy="no-referrer">
-          <br>
-          原价：¥38.00 -&gt; 现价：¥8.00
-          <br>
-          平台：iOS
-          <br>
-          Incredibox是一款让你在简单几步操作之下就能够成为beatbox嘻哈大师的混音模拟器。
-只需将不同颜色的装饰物拖动到人物身上便可以混合出属于你自己的节奏感超强的各种音乐！找到正确的音乐节奏组合即可解锁不同的动画奖励来帮助你提高混音技巧。
-
-随意在7个版本之间切换，个性化的制作，创作属于你自己节奏乐感的Hip-hop，pop，电音或者巴西音。
-
-录制并和全世界玩家分享你的创作！如果获得足够的票数，你的混音作品就会出现在Incredibox Top 50排行榜里。
-缺乏灵感？没问题，选择自动模式来帮你创作音乐 :-)
-
-最嘻哈的Bbox达人就是你！
-打出你的节拍High起来 :)
-
----
-        ]]></description>
-            <pubDate>Wed, 29 Nov 2023 15:13:35 GMT</pubDate>
-            <guid isPermaLink="false">https://gofans.cn/app/565b2d8b-c861-4a88-a011-20bb47dc3650</guid>
-            <link>https://gofans.cn/app/565b2d8b-c861-4a88-a011-20bb47dc3650</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[「免费」-「iOS」Movie Recorder]]></title>
-            <description><![CDATA[<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/83/5e/48/835e48e7-92c0-6846-6872-78f2a0b450e2/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-P3-0-0-0-0-0.png/256x256bb.png" referrerpolicy="no-referrer">
-          <br>
-          原价：¥38.00 -&gt; 现价：¥0.00
+          原价：¥38.00 -> 现价：¥0.00
           <br>
           平台：macOS
           <br>
-          Movie Recorder is a camera recording application, making it easy to record videos using your camera and convert recorded videos into GIFs.
+          ＊不要错过“超级抠图”，一键抠图工具，从此告别PS的蜗牛抠图。现正半价促销。需要的快下手！
 
-Advantages:
-Simple operation, one-click recording.
-Supports exporting videos in multiple dimensions.
-Compatible with external audio and camera devices.
+DeepStyle 是一款将人工智能（AI）与神经网络相结合的革命性图像编辑工具。它可以将照片瞬间转化为艺术作品。这套系统不是简单地模仿艺术大师，而是要创造出全新的艺术品。
 
-Additio
+软件内置了多种多样的滤镜和风格样式，包括中国画，古典，动漫，漫画，现代，传统，抽象，卡通等等。您还可以创建自己的风格。然而， DeepStyle远比别的滤镜软件有创造力。它可以做地更多，更多……不只是绘画，它可以创造出奇特又不失美感的艺术效果。
+
+独特的功能：
+***多样化的滤镜和样式供选择：
+古典，
+动漫，
+漫画，
+抽象，
+动
         ]]></description>
-            <pubDate>Wed, 29 Nov 2023 14:36:57 GMT</pubDate>
-            <guid isPermaLink="false">https://gofans.cn/app/9fb61b13-0433-470b-9a13-590777db6832</guid>
-            <link>https://gofans.cn/app/9fb61b13-0433-470b-9a13-590777db6832</link>
+            <pubDate>Thu, 28 Dec 2023 04:15:05 GMT</pubDate>
+            <guid isPermaLink="false">https://gofans.cn/app/bc6912de-3e0c-41f9-bdd0-9145d0a9c882</guid>
+            <link>https://gofans.cn/app/bc6912de-3e0c-41f9-bdd0-9145d0a9c882</link>
             
             
             
@@ -293,28 +140,24 @@ Additio
         </item>
         
         <item>
-            <title><![CDATA[「降价」-「iOS」完美影音工厂: 格式转换,电影剪辑和录屏]]></title>
-            <description><![CDATA[<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/22/9f/07/229f0751-fea0-9a48-7a9f-f03340d57b4e/logo.png/256x256bb.png" referrerpolicy="no-referrer">
+            <title><![CDATA[「降价」-「iOS」EasyMap2]]></title>
+            <description><![CDATA[<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d4/ca/b8/d4cab809-0fc0-bbaa-4815-107142e9847e/AppIcon-85-220-0-4-2x.png/256x256bb.png" referrerpolicy="no-referrer">
           <br>
-          原价：¥38.00 -&gt; 现价：¥8.00
+          原价：¥38.00 -> 现价：¥22.00
           <br>
           平台：macOS
           <br>
-          完美影音工厂是一款易用的，多功能的视频和音频格式转换器和播放器，支持几乎所有的视频和音频格式。 还可以播放高清影音，剪辑音视频（视频倒放，合并，分割，旋转，剪切，文本，倍速特效，提取音频，视频压缩）及录屏等等。
+          Easy Map display multiples map world on your screen
+Each map have own transparency level!
+Support all types of map (standard, hybrid, satellite)
+You can add multiples pins, print, made a screenshoot, export all pins
+data on cvs format.
 
-完美影音工厂功能特色：
-1 快速音视频格式转换
-• 支持苹果Apple Silicon Arm64 (M1/M2) .
-• 全面支持最新硬件加速优化技术,批量转换200+种影音格式,30倍速高速转换！
-• 转换超高清4K影音格式（H.265, H.264等）,提升影像质量,带来最清晰观赏体验。
-• 预置输出设备的最佳输出格式和分辨率。
-
-2 高清多媒体播放器
-• 可以播放200+种多
+application translated into American, French, Spanish, German, 
         ]]></description>
-            <pubDate>Wed, 29 Nov 2023 12:18:51 GMT</pubDate>
-            <guid isPermaLink="false">https://gofans.cn/app/287f43a3-14cf-4ed4-b944-d110daa24604</guid>
-            <link>https://gofans.cn/app/287f43a3-14cf-4ed4-b944-d110daa24604</link>
+            <pubDate>Thu, 28 Dec 2023 04:14:44 GMT</pubDate>
+            <guid isPermaLink="false">https://gofans.cn/app/f98fd104-b51f-4cf2-9a52-8be86b66df04</guid>
+            <link>https://gofans.cn/app/f98fd104-b51f-4cf2-9a52-8be86b66df04</link>
             
             
             
@@ -326,37 +169,159 @@ Additio
         </item>
         
         <item>
-            <title><![CDATA[「免费」-「iOS」超级坦克大战 R - Type X]]></title>
-            <description><![CDATA[<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a9/b0/ef/a9b0efa7-3b6e-45b5-d8da-47e0a530426e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/256x256bb.jpg" referrerpolicy="no-referrer">
+            <title><![CDATA[「降价」-「iOS」Unlimited Math Problems]]></title>
+            <description><![CDATA[<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/cf/49/35/cf4935ee-e9cc-f196-959e-85a7fa103a93/AppIcon-0-0-1x_U007epad-0-85-220.png/256x256bb.jpg" referrerpolicy="no-referrer">
           <br>
-          原价：¥68.00 -&gt; 现价：¥0.00
+          原价：¥22.00 -> 现价：¥15.00
           <br>
           平台：iOS
           <br>
-          经典的红白机坦克, 超级坦克大战发布已经超过九年。现在是时候一下改善它了。
+          Unlimited Math Problems is an app that helps you master your mathematical skills.
 
-我们称这个版本为“R”是指：
+This app takes a different approach by generating an infinite number of math problems instead of using a limited problem set, so you won't get bored.
+It contains different interactions, such as keyboard input, multipl
+        ]]></description>
+            <pubDate>Thu, 28 Dec 2023 04:14:41 GMT</pubDate>
+            <guid isPermaLink="false">https://gofans.cn/app/678cc2b6-8b30-4175-a721-4504751753d2</guid>
+            <link>https://gofans.cn/app/678cc2b6-8b30-4175-a721-4504751753d2</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[「降价」-「iOS」Zeeon synth]]></title>
+            <description><![CDATA[<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/7f/23/4f/7f234f99-31fd-b637-68aa-74177321b775/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/256x256bb.jpg" referrerpolicy="no-referrer">
+          <br>
+          原价：¥98.00 -> 现价：¥48.00
+          <br>
+          平台：iOS
+          <br>
+          Zeeon is a virtual analog synthesizer, powered by an advanced analog circuit modelling engine. We spent a lot of time analysing iconic analog synths, both vintage and modern, to find out which parts of the circuit contribute most to their specific character. We used this knowledge to create a unique
+        ]]></description>
+            <pubDate>Thu, 28 Dec 2023 04:14:34 GMT</pubDate>
+            <guid isPermaLink="false">https://gofans.cn/app/74af5acf-25dd-4ee5-afcf-462c7c9644db</guid>
+            <link>https://gofans.cn/app/74af5acf-25dd-4ee5-afcf-462c7c9644db</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[「免费」-「iOS」Unique for iPad - Analog Synth]]></title>
+            <description><![CDATA[<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/39/9a/65/399a6564-43cb-8859-ac0a-d63c6588568f/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/256x256bb.jpg" referrerpolicy="no-referrer">
+          <br>
+          原价：¥58.00 -> 现价：¥0.00
+          <br>
+          平台：iOS
+          <br>
+          “Unique sounds like syrup with dirt kicked into it. If Bootsy Collins, Roger Troutman and Daft Punk would have met up in Studio 54 to create a soft-synth, for sure something like Unique would have come out of it…” Sound & Recording Mag
 
-Redesign - 有些不受人欢迎的设计被删除了
-Renew - 一些旧的东西被删除了
-Reduce - 游戏体积减小了
-Random - 地图是随机的
-Remaster - 改良了一些画面
-Recall - 令你回想起自己的童年小霸王记忆
+Unique was made for fun and vibes: Analogue sound, intense modu
+        ]]></description>
+            <pubDate>Thu, 28 Dec 2023 04:14:25 GMT</pubDate>
+            <guid isPermaLink="false">https://gofans.cn/app/f6f3f872-0b3d-4d1d-b2f9-5145a7acca4a</guid>
+            <link>https://gofans.cn/app/f6f3f872-0b3d-4d1d-b2f9-5145a7acca4a</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[「免费」-「iOS」QR Creator Mini]]></title>
+            <description><![CDATA[<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/01/3b/81/013b8140-ee2c-8fd9-54e6-eac431c1b6bf/AppIcon-85-220-4-2x.png/256x256bb.png" referrerpolicy="no-referrer">
+          <br>
+          原价：¥8.00 -> 现价：¥0.00
+          <br>
+          平台：macOS
+          <br>
+          QR Creator Mini – is a quick and effective solution to create QR-Codes.
 
-经典游戏规则：
-- 防御你的基地，并销毁所有敌人的坦克
-- 如果你的坦克或基地被摧毁，游戏就结束
-- 每张地图有20个敌方坦克
+Features:
+– Live creation QR-Codes;
+– Save to image file;
+– Resolution setting.
+        ]]></description>
+            <pubDate>Thu, 28 Dec 2023 04:14:11 GMT</pubDate>
+            <guid isPermaLink="false">https://gofans.cn/app/854734de-bde3-4cb1-b312-9834362f5670</guid>
+            <link>https://gofans.cn/app/854734de-bde3-4cb1-b312-9834362f5670</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[「降价」-「iOS」圣诞雪 (Xmas snow)]]></title>
+            <description><![CDATA[<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/2b/f9/8b/2bf98b45-efac-eaa7-399b-66a371759146/app.png/256x256bb.png" referrerpolicy="no-referrer">
+          <br>
+          原价：¥22.00 -> 现价：¥8.00
+          <br>
+          平台：macOS
+          <br>
+          冬天来了。 你准备好了吗？Xmas snow将为冬天做准备。
+Xmas snow会为您的桌面添加动画的snow，而使用Xmas snow，您将永远知道圣诞节或新年的天数。
+
+Xmas snow可以在您的桌面上显示圣诞树和花环。
+您还可以每小时聆听圣诞节的曲调。
+
+Xmas snow具有友好的用户界面，窗口级别设置，固定窗口位置，在登录时启动。
+        ]]></description>
+            <pubDate>Thu, 28 Dec 2023 04:14:07 GMT</pubDate>
+            <guid isPermaLink="false">https://gofans.cn/app/59521177-3eb1-4819-88c5-ae9af59def05</guid>
+            <link>https://gofans.cn/app/59521177-3eb1-4819-88c5-ae9af59def05</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[「降价」-「iOS」Magic Hider]]></title>
+            <description><![CDATA[<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/52/2b/25/522b2565-46e1-0888-11cd-b704b83ce68d/AppIcon-85-220-0-4-2x.png/256x256bb.png" referrerpolicy="no-referrer">
+          <br>
+          原价：¥22.00 -> 现价：¥15.00
+          <br>
+          平台：macOS
+          <br>
+          新的隐藏图像的任何部分的水平，这个“智能”应用程序将自动找到面部和文本。
+只需选择你需要过滤 - 面或文本*，拖放图像，它会一次完成。
+此外，您可以手动添加，删除和编辑区域。
 
 特征：
-- 500张地图完全解锁
-
-我们希望“超级坦克大战R”会是你手机中，必装的游戏之一
+- 自动检测面部和文字*，适用于多张照片自动处理
+- 可定制的过滤器
+- 输出图像的质量和检测精度的设置
+- 处理照片组
+- 魔法
+*文本检测需要OS X 10.11或更高版本
         ]]></description>
-            <pubDate>Wed, 29 Nov 2023 06:41:50 GMT</pubDate>
-            <guid isPermaLink="false">https://gofans.cn/app/521fe21f-bc08-433d-a80d-47bb22f5733a</guid>
-            <link>https://gofans.cn/app/521fe21f-bc08-433d-a80d-47bb22f5733a</link>
+            <pubDate>Thu, 28 Dec 2023 04:14:01 GMT</pubDate>
+            <guid isPermaLink="false">https://gofans.cn/app/13df1054-1f76-48f3-8a52-380b267f36e0</guid>
+            <link>https://gofans.cn/app/13df1054-1f76-48f3-8a52-380b267f36e0</link>
             
             
             
@@ -368,33 +333,23 @@ Recall - 令你回想起自己的童年小霸王记忆
         </item>
         
         <item>
-            <title><![CDATA[「免费」-「iOS」时光进度 - 进度管理&待办计划]]></title>
-            <description><![CDATA[<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/21/47/68/21476879-364d-3a16-b6e1-00a80ed75d36/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/256x256bb.jpg" referrerpolicy="no-referrer">
+            <title><![CDATA[「降价」-「iOS」去月球-To the Moon]]></title>
+            <description><![CDATA[<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/b4/70/9a/b4709aac-55d1-21e8-89d4-ccdeccf04a1f/AppIcon-1x_U007emarketing-0-7-0-85-220.png/256x256bb.jpg" referrerpolicy="no-referrer">
           <br>
-          原价：¥8.00 -&gt; 现价：¥0.00
+          原价：¥30.00 -> 现价：¥12.00
           <br>
           平台：iOS
           <br>
-          【时光进度】是一款将进度管理、日程规划相结合的生产力工具，用轻便的记录形式带给用户舒适的体验。
+          To the Moon简体中文版全新上架。这是一个像素画微型游戏，全程只有几个小时，且没有战斗，但是其凭借巧妙细腻的叙事方式，打动人心的音乐以及发人深思的主题获得了全球玩家的共鸣，同时收获了诸多好评。其中就包括了权威媒体Gamespot最佳剧本，Metacritic最佳游戏及WIRED最佳游戏等重要大奖，还获得了今年Steam“我没有哭，只是眼睛里进了点沙子”的奖项提名。
 
-※ 功能介绍
-- 屏幕小组件
+游戏是由心动网络获得授权，并负责在手机上高清重制，是一款经典剧情向RPG游戏。原作PC版由加拿大华裔制作人Kan Gao和他的独立游戏开发团队 Freebird Games 于6年前发售，好评如潮。
 
-- 灵感笔记，随时记录自己的想法，标签归类，方便整理
+[关于手机重制版]
 
--  创建目标进度，立下自己的 Flag，以数字、百分比、进度条的形式量化目标，并且支持归档（恢复）目标，支持分组
-
-- 目标进度支持【里程碑】功能，可以用来记录重要时刻、重大突破等信息
-    
-- 每日待办事项列表（根据优先级），支持重复任务和提醒，帮助用户更快捷地管理自己的工作
-
-- 时间轴（Timeline），提供添加每日计划的便捷方式，直接点击时间块即可添加指定时间的任务
-
-- 通知中心扩展组件（To
         ]]></description>
-            <pubDate>Wed, 29 Nov 2023 04:26:22 GMT</pubDate>
-            <guid isPermaLink="false">https://gofans.cn/app/d5db879a-e00d-432a-bcc2-e9375de9e761</guid>
-            <link>https://gofans.cn/app/d5db879a-e00d-432a-bcc2-e9375de9e761</link>
+            <pubDate>Thu, 28 Dec 2023 04:13:58 GMT</pubDate>
+            <guid isPermaLink="false">https://gofans.cn/app/df8acc7f-e8d3-4cba-9ab7-f1da03408f38</guid>
+            <link>https://gofans.cn/app/df8acc7f-e8d3-4cba-9ab7-f1da03408f38</link>
             
             
             
@@ -406,24 +361,39 @@ Recall - 令你回想起自己的童年小霸王记忆
         </item>
         
         <item>
-            <title><![CDATA[「降价」-「iOS」BusyCal: 日历和计划应用]]></title>
-            <description><![CDATA[<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b1/9c/b5/b19cb5ab-20e4-0447-090f-73f6be5d66ff/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/256x256bb.jpg" referrerpolicy="no-referrer">
+            <title><![CDATA[「降价」-「iOS」双子 Gemini]]></title>
+            <description><![CDATA[<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/d4/4b/36/d44b36e0-485f-1806-ea9e-f48787bb549f/AppIcon-1x_U007emarketing-0-7-0-85-220.png/256x256bb.jpg" referrerpolicy="no-referrer">
           <br>
-          原价：¥68.00 -&gt; 现价：¥38.00
+          原价：¥6.00 -> 现价：¥3.00
           <br>
           平台：iOS
           <br>
-          BusyCal 是一款功能强大、灵活的日历应用，用于管理繁忙的行程、活动和待办事项。
+          游戏是由回音石工作室Echostone Games 独立开发并由心动网络 XD.com 发行的一款情感体验类游戏
 
-BusyCal 的独特功能包括可自定义的日历视图、集成的待办事项、会议安排、出行时间、地图集成、自然语言输入、标签、提醒、搜索、天气、月相、生日、纪念日、图形等。
+无需联网无内购，一次购买畅玩不尽
 
-BusyCal 为 iCloud、Google 日历、Exchange、Outlook、Office 365 及其他 CalDAV 服务器提供可靠的支持，使您能够与运行 BusyCal 或内置日历应用的其他 Mac 和 iOS 设备同步和共享日历。
+[简介]
+在《双子 Gemini》中，没有语言与文字，也没有手把手的指南，学会飞翔，探索未知世界，都是游戏体验的一部分。
 
-iOS 版 BusyCal 是 macOS 版 BusyCal 的功能全面的移动伴侣，是 ma
+黑暗吞噬星空，孤星降临大地；
+蓦然回首，一缕熟悉的光芒；
+新的生命，守望一段美丽的旅途；
+他们将如何划过天宇，点亮世界？
+
+两颗星星的旅程，
+彼此心灵的羁绊，
+在一起，
+我们就能飞翔……
+
+[操控方法]
+操纵一颗小星，靠近同伴，一起在空中飞舞，克服困难，点亮世界。
+
+[媒体评价]
+”这是一款需要静下心来细细聆听与品味的禅式
         ]]></description>
-            <pubDate>Tue, 28 Nov 2023 18:54:52 GMT</pubDate>
-            <guid isPermaLink="false">https://gofans.cn/app/cd2934e8-d7f3-4f9d-8bb3-15ab618c2b39</guid>
-            <link>https://gofans.cn/app/cd2934e8-d7f3-4f9d-8bb3-15ab618c2b39</link>
+            <pubDate>Thu, 28 Dec 2023 04:13:55 GMT</pubDate>
+            <guid isPermaLink="false">https://gofans.cn/app/87c786c4-32d7-406a-8bce-d103dae3a516</guid>
+            <link>https://gofans.cn/app/87c786c4-32d7-406a-8bce-d103dae3a516</link>
             
             
             
@@ -435,41 +405,25 @@ iOS 版 BusyCal 是 macOS 版 BusyCal 的功能全面的移动伴侣，是 ma
         </item>
         
         <item>
-            <title><![CDATA[「免费」-「iOS」My PaintBrush Pro: 画画和照片编辑]]></title>
-            <description><![CDATA[<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/f3/4d/df/f34ddf77-fc0d-4d78-a1b0-52064403c94b/logo_pro.png/256x256bb.png" referrerpolicy="no-referrer">
+            <title><![CDATA[「降价」-「iOS」Desktop Lens]]></title>
+            <description><![CDATA[<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b4/52/39/b4523998-f3f2-8bbf-540c-a0ad94ccd4ec/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/256x256bb.png" referrerpolicy="no-referrer">
           <br>
-          原价：¥38.00 -&gt; 现价：¥0.00
+          原价：¥22.00 -> 现价：¥15.00
           <br>
           平台：macOS
           <br>
-          My PaintBrush Pro是一款多层处理的绘图软件, 它利用丰富的工具和画笔来绘制你流畅的图像效果。  
+          You need zoom? We got some! Desktop Lens is a simple application to work with small fonts and hi-res images.
 
-My PaintBrush Pro的功能特色：
-  √ 拥有超过100种类型的画笔: 
-• 铅笔：6种 
-• 画笔：16种 
-• 笔刷：25种 &nbsp;
-• 喷枪：11种 &nbsp;
-• 装饰笔：25种 &nbsp;
-• 特效笔：19种 &nbsp;
-• 橡皮擦：​​4种类型 &nbsp; 
-
-√ 可以调整笔刷的
- • 透明度 
-• 压感 
-• 半径 
-• 硬度  
-
-√ 建立多层及多层处理：
- • 合并图层。 
-• 设置单独的层的alpha值。 
-• 自定义图层是可见或不可见。 
-• 随意更改图层的顺序。
- • 删除不需
+Features: 
+– Scalable zoom;
+– Smooting;
+– Always on Top;
+– Change Colorscheme;
+– Show/Hide.
         ]]></description>
-            <pubDate>Tue, 28 Nov 2023 15:34:35 GMT</pubDate>
-            <guid isPermaLink="false">https://gofans.cn/app/c40cf085-88ca-4fc5-a578-0b61f460088b</guid>
-            <link>https://gofans.cn/app/c40cf085-88ca-4fc5-a578-0b61f460088b</link>
+            <pubDate>Thu, 28 Dec 2023 04:13:52 GMT</pubDate>
+            <guid isPermaLink="false">https://gofans.cn/app/4a292c19-65fe-4086-a216-fce57d119dd8</guid>
+            <link>https://gofans.cn/app/4a292c19-65fe-4086-a216-fce57d119dd8</link>
             
             
             
@@ -481,30 +435,27 @@ My PaintBrush Pro的功能特色：
         </item>
         
         <item>
-            <title><![CDATA[「免费」-「iOS」安全笔记+ Pro]]></title>
-            <description><![CDATA[<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d2/73/12/d27312db-8a82-0870-809f-8229cdc61ad8/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/256x256bb.jpg" referrerpolicy="no-referrer">
+            <title><![CDATA[「降价」-「iOS」泰拉瑞亚]]></title>
+            <description><![CDATA[<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/54/4d/9b/544d9b2b-4a44-f782-288f-b53d14f6ae8b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/256x256bb.jpg" referrerpolicy="no-referrer">
           <br>
-          原价：¥28.00 -&gt; 现价：¥0.00
+          原价：¥18.00 -> 现价：¥12.00
           <br>
           平台：iOS
           <br>
-          介绍安全笔记+：保护您最私密的笔记
+          挖掘，战斗，探索，建造！在这个动感十足的冒险游戏里没有什么是不可能的。世界是你的画布，地面是你的油漆。
 
-您有没有遇到过这样的情况？您把手机借给别人，他们却像自己的一样翻阅您的信息。您是否讨厌这样的事情？如果您有一些不希望其他人访问的笔记，那么您需要安全笔记+。通过这款应用，您可以快速、轻松地设置密码保护您最私密或敏感的笔记，以便只有您自己能够找到它们。
+拿起你的工具出发！制造武器和各种各样的敌人作战。前往地下寻找配件，金钱，以及其他有用的东西。收集资源创造你的世界所需要的一切。建造一栋房子，一个堡垒，甚至是一座城堡。人们会搬到那里居住，而或许他们还会卖给你不同的商品来协助你完成旅程。
 
-主要功能：
+但要注意，那有很多挑战在等着你……你能完成任务吗？
 
-• 使用触摸ID或面容ID支持的生物识别来解锁应用程序
-• 入侵者报告：当入侵者试图访问您的应用程序时，应用程序将捕捉其照片
-• 伪装密码以保护您的真实隐私
-• 对个别文件夹进行密码锁定
-• 提供更高安全性的点图案锁定样式
-• 密码锁定样式（组合锁、键盘锁）
-• 可选择的时尚主题，界面易于使用
+【拥有完整体验的移动版】
+- 加入最新 1.4.4版本“爱的付出”的全部内容！ (无氪金要素)
+- 支持8人联机（联机功能终于能还给大家了）
+- 国内官方服务器加持 & 匹配功能 （没有朋友555也能找
         ]]></description>
-            <pubDate>Tue, 28 Nov 2023 15:33:40 GMT</pubDate>
-            <guid isPermaLink="false">https://gofans.cn/app/8b98757a-1a89-4867-93ba-554f9121a638</guid>
-            <link>https://gofans.cn/app/8b98757a-1a89-4867-93ba-554f9121a638</link>
+            <pubDate>Thu, 28 Dec 2023 04:13:49 GMT</pubDate>
+            <guid isPermaLink="false">https://gofans.cn/app/3294ad48-a6e6-469f-8762-581cda9bdb55</guid>
+            <link>https://gofans.cn/app/3294ad48-a6e6-469f-8762-581cda9bdb55</link>
             
             
             
@@ -516,171 +467,22 @@ My PaintBrush Pro的功能特色：
         </item>
         
         <item>
-            <title><![CDATA[「免费」-「iOS」Juice Watch]]></title>
-            <description><![CDATA[<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/7b/91/85/7b9185d9-69d5-f33c-d184-62d67f58ac3b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/256x256bb.jpg" referrerpolicy="no-referrer">
+            <title><![CDATA[「降价」-「iOS」JPEG Jackal]]></title>
+            <description><![CDATA[<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/7d/8c/0e/7d8c0e15-baf8-0806-b2ce-2b96ba38c181/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/256x256bb.png" referrerpolicy="no-referrer">
           <br>
-          原价：¥48.00 -&gt; 现价：¥0.00
-          <br>
-          平台：iOS
-          <br>
-          从手腕上监控你的iPhone电池电量。
-
-Juice Watch 是一个简单的应用程序，旨在做好两件事：
-
-•在Apple Watch上显示配对iPhone的电池电量
-
-•当你的 Apple Watch 正在充电，电量超过 90 %（或者你选择的任何范围，从 50 %到 100 %）时，在你的iPhone 上发送通知提醒
-
-只需要看一眼你的手腕，就可以全天监控iPhone的电量情况。或者，当你的iPhone在另一个房间充电时，你可以密切关注它的电池电量。
-
-你可以同时看到iPhone和Apple Watch的电池电量。
-
-当配对的iPhone正在充电，并且电量至少达到 80 %（或者你选择的任
-        ]]></description>
-            <pubDate>Tue, 28 Nov 2023 15:32:33 GMT</pubDate>
-            <guid isPermaLink="false">https://gofans.cn/app/1e12e92a-6bff-4548-9a73-c618a27bb3f2</guid>
-            <link>https://gofans.cn/app/1e12e92a-6bff-4548-9a73-c618a27bb3f2</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[「降价」-「iOS」System Activity Monitors]]></title>
-            <description><![CDATA[<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/3a/c8/ba/3ac8ba84-08e5-b1f8-a0d9-729ee65f5c2b/AppIcon-0-0-1x_U007emarketing-0-9-0-0-85-220.jpeg/256x256bb.jpg" referrerpolicy="no-referrer">
-          <br>
-          原价：¥38.00 -&gt; 现价：¥15.00
-          <br>
-          平台：iOS
-          <br>
-          The System Activity Monitor stands out as the most inclusive health check application available on the App Store. It diligently tracks memory usage, battery performance, device details such as IP address and hardware address, provides battery tips, furnishes comprehensive system information, and ind
-        ]]></description>
-            <pubDate>Tue, 28 Nov 2023 05:51:01 GMT</pubDate>
-            <guid isPermaLink="false">https://gofans.cn/app/78a4aea0-49d8-4429-8006-53e379d74789</guid>
-            <link>https://gofans.cn/app/78a4aea0-49d8-4429-8006-53e379d74789</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[「降价」-「iOS」BusyCal: 日历和计划应用]]></title>
-            <description><![CDATA[<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b1/9c/b5/b19cb5ab-20e4-0447-090f-73f6be5d66ff/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/256x256bb.jpg" referrerpolicy="no-referrer">
-          <br>
-          原价：¥68.00 -&gt; 现价：¥38.00
-          <br>
-          平台：iOS
-          <br>
-          BusyCal 是一款功能强大、灵活的日历应用，用于管理繁忙的行程、活动和待办事项。
-
-BusyCal 的独特功能包括可自定义的日历视图、集成的待办事项、会议安排、出行时间、地图集成、自然语言输入、标签、提醒、搜索、天气、月相、生日、纪念日、图形等。
-
-BusyCal 为 iCloud、Google 日历、Exchange、Outlook、Office 365 及其他 CalDAV 服务器提供可靠的支持，使您能够与运行 BusyCal 或内置日历应用的其他 Mac 和 iOS 设备同步和共享日历。
-
-iOS 版 BusyCal 是 macOS 版 BusyCal 的功能全面的移动伴侣，是 ma
-        ]]></description>
-            <pubDate>Mon, 27 Nov 2023 21:55:54 GMT</pubDate>
-            <guid isPermaLink="false">https://gofans.cn/app/cd2934e8-d7f3-4f9d-8bb3-15ab618c2b39</guid>
-            <link>https://gofans.cn/app/cd2934e8-d7f3-4f9d-8bb3-15ab618c2b39</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[「降价」-「iOS」Goodak 复古胶片相机 - 拍立得旅行摄影，拍照水印滤镜]]></title>
-            <description><![CDATA[<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/6e/12/e2/6e12e20d-cbb9-c638-e2e0-9c298420bb4a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/256x256bb.jpg" referrerpolicy="no-referrer">
-          <br>
-          原价：¥22.00 -&gt; 现价：¥8.00
-          <br>
-          平台：iOS
-          <br>
-          世界的美好很多，只是容易擦肩而过。
-有些事物之所以美好，是因为只出现在我们的回忆里。
-现在您可以使用 Goodak 拍立得胶片相机来重温旧梦。
-让您的每一张照片独一无二，充满韵味与感动。
-
-—
-尽情体验，层次满点的胶卷相机
-
-+ 拍立得胶片相机，重温旧梦
-+ 无需久候，即拍即冲免等待
-+ 尽情拍摄，无底片数量限制
-+ 相册模式，可翻拍手机照片
-+ 自定义日期格式，重温旧梦
-+ 取景器缩放切换，大小皆宜
-+ 拍立得相纸模式，文青最爱
-+ 多款相机，多样底片与水印
-+ 黑白摄影底片机，层次满点
-+ 自动保存模式，存档免烦恼
-+ 随机底片，独一无二的美感
-
-—
-错过也好，留下也罢，都是我们生命中最美
-        ]]></description>
-            <pubDate>Mon, 27 Nov 2023 15:11:42 GMT</pubDate>
-            <guid isPermaLink="false">https://gofans.cn/app/015f7bd5-cf40-4fe1-9325-d4867049cf57</guid>
-            <link>https://gofans.cn/app/015f7bd5-cf40-4fe1-9325-d4867049cf57</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[「免费」-「iOS」My PaintBrush: 绘画和照片编辑器]]></title>
-            <description><![CDATA[<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d8/1d/b6/d81db64e-6218-9132-eaf5-478d7c59aa48/logo.png/256x256bb.png" referrerpolicy="no-referrer">
-          <br>
-          原价：¥22.00 -&gt; 现价：¥0.00
+          原价：¥15.00 -> 现价：¥8.00
           <br>
           平台：macOS
           <br>
-          My PaintBrush是一款多层处理的绘图软件。利用丰富的工具和画笔来绘制你所需的图像。
+          隆重推出 JPEG Jackal，这是优化照片库的终极解决方案！ 无论您是专业摄影师还是只是喜欢拍照的人，JPEG Jackal 都是您快速轻松地压缩 JPEG 图像、节省磁盘空间和减少互联网流量所需的工具。
 
-My PaintBrush的功能亮点：
-1 建立多层及多层处理：
-• 合并图层。
-• 设置单独的层的alpha值。
-• 自定义图层是可见或不可见。
-• 随意更改图层的顺序。
-• 删除不需要的图层。
+凭借其强大的压缩算法，JPEG Jackal 可以在不牺牲质量的情况下优化您的图片。 只需拖放包含您需要优化的图片的文件或文件夹，即可看到特殊算法使用 Mac 的所有功能来提供闪电般快速的结果。
 
-2 每一层的操作：
-• 10次撤消/重做。
-• 水平翻转和垂直方向。
-• 移动选中的区域。
-
-3 拥有众多熟悉的工具
-• 擦除器，填充工具，拾色器，放大。
-• 直线，曲线，矩形，圆角矩形，椭圆形。
-• 文本：可自定义字体，大小，颜色。
-• 调色板：设置前景和背景色工具。
-
-4 导出到：
-• PNG，JP
+但这还不是全部 - JPEG Jackal 还非常安全可靠。 它仅在合理的情况下根据您的需要压缩文件，这可确保您避免任何质量损失。 如果您有任何疑问，只需将图片保存到测试文件夹并在将其应用于
         ]]></description>
-            <pubDate>Mon, 27 Nov 2023 14:38:45 GMT</pubDate>
-            <guid isPermaLink="false">https://gofans.cn/app/076b79ca-bb2b-45a2-80ba-e9ed88dbbae0</guid>
-            <link>https://gofans.cn/app/076b79ca-bb2b-45a2-80ba-e9ed88dbbae0</link>
+            <pubDate>Thu, 28 Dec 2023 04:13:38 GMT</pubDate>
+            <guid isPermaLink="false">https://gofans.cn/app/86a766ee-e0a6-40ea-aa5b-5c4718effb54</guid>
+            <link>https://gofans.cn/app/86a766ee-e0a6-40ea-aa5b-5c4718effb54</link>
             
             
             
@@ -692,24 +494,96 @@ My PaintBrush的功能亮点：
         </item>
         
         <item>
-            <title><![CDATA[「降价」-「iOS」解剖和生理学]]></title>
-            <description><![CDATA[<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/d9/b6/0f/d9b60fb3-2bb3-520b-a688-00741b740c18/PlayerIcon.png/256x256bb.png" referrerpolicy="no-referrer">
+            <title><![CDATA[「免费」-「iOS」GifViewer]]></title>
+            <description><![CDATA[<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/04/b8/92/04b89249-f929-d364-58eb-9f2764242cbc/AppIcon.png/256x256bb.png" referrerpolicy="no-referrer">
           <br>
-          原价：¥228.00 -&gt; 现价：¥118.00
+          原价：¥22.00 -> 现价：¥0.00
           <br>
           平台：macOS
           <br>
-          征服那些难学的解剖主题！ 抛开课本、实验室标本或塑料三维模型，跳转到身临其境式三维体验。
-- 放大后即可用真正的3D模式查看神经如何离开脊髓以及神经与椎骨的关系。&nbsp;
-- 旋转即可研究颅神经的分支或从各个角度研究对眼睛的显微解剖。
-- 观看一段50秒钟的三维动画，其中解释说明肌肉收缩的生理机能。
-- 自定义该应用程序并跟踪您的学习进度。 创建一个包含三维模型、插图、动画和您需要查看的笔记的收藏夹库。 访问一项对您的测验成绩进行的逐题评估来跟踪您对概念的理解。
-
-此应用程序包括12个单元，有50个章节/模块，它们使用超过500幅3D模型预设视图、超过150幅插图和动画、数十个组织学幻灯片以及数以百
+          Gif动画PNG图像查看器和转换器。 支持BMP / PNG / JPG / GIF和其他媒体类型。
         ]]></description>
-            <pubDate>Mon, 27 Nov 2023 14:04:48 GMT</pubDate>
-            <guid isPermaLink="false">https://gofans.cn/app/c5fd122a-554a-4dd3-aa27-2edfc3178462</guid>
-            <link>https://gofans.cn/app/c5fd122a-554a-4dd3-aa27-2edfc3178462</link>
+            <pubDate>Thu, 28 Dec 2023 04:13:35 GMT</pubDate>
+            <guid isPermaLink="false">https://gofans.cn/app/2027e631-f6be-4945-9122-192cc469865b</guid>
+            <link>https://gofans.cn/app/2027e631-f6be-4945-9122-192cc469865b</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[「降价」-「iOS」Poison-202 Vintage Synthesizer]]></title>
+            <description><![CDATA[<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/48/30/a2/4830a2f0-3a4c-34b6-a092-30b4d321dd77/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/256x256bb.jpg" referrerpolicy="no-referrer">
+          <br>
+          原价：¥68.00 -> 现价：¥38.00
+          <br>
+          平台：iOS
+          <br>
+          What reviewers and users say:
+
+"This is a very solid virtual synth that, sonically, punches well above its asking price" - musicappblog
+
+"Man this sounds good, full of rich goodness from the days of analog yore" - thesoundtestroom
+
+"I've not beed this 'exited' about a synth app in a very, very long 
+        ]]></description>
+            <pubDate>Thu, 28 Dec 2023 04:13:21 GMT</pubDate>
+            <guid isPermaLink="false">https://gofans.cn/app/4344c0b4-d3bf-4906-b73e-eb58236f0b07</guid>
+            <link>https://gofans.cn/app/4344c0b4-d3bf-4906-b73e-eb58236f0b07</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[「免费」-「iOS」Week Calendar Pro]]></title>
+            <description><![CDATA[<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/4c/07/27/4c072762-28d4-075a-f702-7f29f873b472/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/256x256bb.jpg" referrerpolicy="no-referrer">
+          <br>
+          原价：¥15.00 -> 现价：¥0.00
+          <br>
+          平台：iOS
+          <br>
+          Introducing Week Calendar Pro - the ultimate calendar app that lets you take control of your schedule like never before! Say goodbye to the limitations of traditional calendars and embrace a fully customizable week calendar that links all your calendars in one place.
+
+With Week Calendar Pro, you hav
+        ]]></description>
+            <pubDate>Thu, 28 Dec 2023 04:13:01 GMT</pubDate>
+            <guid isPermaLink="false">https://gofans.cn/app/c7d1a9dd-70a5-40a6-803a-dd81baf0685c</guid>
+            <link>https://gofans.cn/app/c7d1a9dd-70a5-40a6-803a-dd81baf0685c</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[「降价」-「iOS」iFiles 2]]></title>
+            <description><![CDATA[<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/7c/01/5c/7c015c8e-e521-5562-36bc-32bd30e56dca/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/256x256bb.jpg" referrerpolicy="no-referrer">
+          <br>
+          原价：¥48.00 -> 现价：¥22.00
+          <br>
+          平台：iOS
+          <br>
+          Most intuitive, feature loaded and dependable file manager in the App Store!
+Whether you are looking for just a PDF Viewer with annotations and search, connectivity to many file cloud services, sharing file between your computer, voice recorder, web downloader or text editor, iFiles 2 is the only fi
+        ]]></description>
+            <pubDate>Thu, 28 Dec 2023 04:12:56 GMT</pubDate>
+            <guid isPermaLink="false">https://gofans.cn/app/25982c16-6295-4ad9-9923-a57bfd100305</guid>
+            <link>https://gofans.cn/app/25982c16-6295-4ad9-9923-a57bfd100305</link>
             
             
             
