@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Fri, 29 Dec 2023 14:34:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Dec 2023 18:50:10 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -73,6 +73,22 @@
         </item>
         
         <item>
+            <title><![CDATA[GPT-Pilot：AI开发者伴侣 GPT Pilot 一个真正的AI程序员，它可以从零开始构建整个应用程序，它能自己编写代码、配置开发环境、管理开发任务、调试代码，可以随时...]]></title>
+            <description><![CDATA[GPT-Pilot：AI开发者伴侣<br><br>GPT Pilot 一个真正的AI程序员，它可以从零开始构建整个应用程序，它能自己编写代码、配置开发环境、管理开发任务、调试代码，可以随时和它聊天提问帮助你解决开发难题。<br>地址：https://github.com/Pythagora-io/gpt-pilot<br><img src="https://cdnv2.ruguoapp.com/FsD2D03YGUisHHwLmtp-Jf7F46cdv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 27 Dec 2023 21:02:33 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/658c90e96da5fb4742964e79</guid>
+            <link>https://m.okjike.com/originalPosts/658c90e96da5fb4742964e79</link>
+            
+            
+            
+            <author><![CDATA[Jackmeng]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[大学有一门选修课叫做情报检索，我现在印象最深刻的在 Google 检索时添加一些高级语法，例如使用 type:/site: 等语法，就可以过滤出更精确的结果，很有用，我用...]]></title>
             <description><![CDATA[大学有一门选修课叫做情报检索，我现在印象最深刻的在 Google 检索时添加一些高级语法，例如使用 type:/site: 等语法，就可以过滤出更精确的结果，很有用，我用了十几年，但那门课带给我的影响远不止于此。<br><br>老师一直在帮助学生训练“如何提一个好问题”的思维习惯，不是传统意义的好问题，而是提一个能够让搜索引擎更容易理解的好问题，因此我需要去理解机器背后做了什么，去了解 page rank 这类排序算法；同时，为了让机器可以更好地呈现内容，让别人搜索关键词的时候能够将我写的内容放在前排，我又去学习了 SEO。<br><br>相当于从系统视角和用户视角，两次钻研了什么样的问题对机器来说是一个好问题，得益于此，我也经常能够在搜索引擎里找到别人找不到的内容。<br><br>ChatGPT 的出现，相比传统的 Google 检索，其实就是换了一种机器思维，它接受指令的方式更接近人类语言的表达，使用者如果不具备“提一个好问题”的能力，照样无法从 ChatGPT 嘴里获得多少有价值的情报。<br><br>互联网已经汇聚了人类无数知识的结晶，你想到过的、没想到过的问题，都曾经有人提过甚至解决过，只是，它被藏到了互联网的某个犄角旮旯。情报检索是一门很有用的科学，希望它未来可以成为大学的一门必修课。]]></description>
             <pubDate>Wed, 27 Dec 2023 16:22:28 GMT</pubDate>
@@ -98,22 +114,6 @@
             
             
             <author><![CDATA[Barret李靖]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[打算重新恢复独立博客了，现在托管在 Github Pages 上，域名是 xdash.me。 正逐渐将 2008 以来的博文、公众号、杂志专栏、好书推荐、自制播客视频 shownotes 等...]]></title>
-            <description><![CDATA[打算重新恢复独立博客了，现在托管在 Github Pages 上，域名是 xdash.me。<br><br>正逐渐将 2008 以来的博文、公众号、杂志专栏、好书推荐、自制播客视频 shownotes 等迁移过来。<br><br>为何恢复独立博客 &amp; 从 WordPress 搬迁到 Github Pages：<br><br>- 从「椒盐豆豉」这篇博文获得启发：https://blog.douchi.space/static-blog-half-year/#gsc.tab=0 <br><br>- 遵循「Setup and Forget」原则，希望在博客这件事上减少折腾，提升动力。避免每年空间续费、时不时被动迁移 IP、需要打开浏览器誊写博文等麻烦；以后可在任意设备 Markdown 写 + Git 提交 + Github Actions 完成 hugo 渲染生成。<br><br>- 静态，既加速读者访问，也让我自己不要动辄去想装插件、widget 的花活了。<br><br>- Github backed by Microsoft，稳定可靠。<br><br>- 简单，专注在输出，尤其是输出文字之美本身。<br><br>- 本地 repo 的草稿，可以直接在 Obsidian 方便地编辑；Obsidian 又是买了 Sync 同步的。所以可以移动状态下随时写，回到电脑前整理妥帖再 commit 发布。<br><br>- 没有阅读计数，不被商业裹挟，写自己想写的文，交自己想交的人。<br><br>- 部分回归初心，重拾 Geek 人格。]]></description>
-            <pubDate>Wed, 27 Dec 2023 02:21:23 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/658b8a2312ed2fda68a474d7</guid>
-            <link>https://m.okjike.com/originalPosts/658b8a2312ed2fda68a474d7</link>
-            
-            
-            
-            <author><![CDATA[范冰]]></author>
             
                 
             
