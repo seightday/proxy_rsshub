@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Fri, 29 Dec 2023 00:15:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Dec 2023 02:20:04 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[Paperless-ngx ：一个无纸化开源文档管理系统，我计划将家中的所有说明书、票据、发票、合同、重要档案、人情记账本和账单等一概电子化备份存档。更棒的是它还支...]]></title>
+            <description><![CDATA[Paperless-ngx ：一个无纸化开源文档管理系统，我计划将家中的所有说明书、票据、发票、合同、重要档案、人情记账本和账单等一概电子化备份存档。更棒的是它还支持 OCR 文本识别，不用再到处找纸质文档而烦恼了。NAS 应用 + 1👏🏻<br>地址：github.com/paperless-ngx/paperless-ngx<br><img src="https://cdnv2.ruguoapp.com/FpuwvdFOL-vTeAadzkZfkiwyEHILv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 28 Dec 2023 23:03:23 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/658dfebbf60303d656074209</guid>
+            <link>https://m.okjike.com/originalPosts/658dfebbf60303d656074209</link>
+            
+            
+            
+            <author><![CDATA[Jackmeng]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[方糖全栈路线图：https://github.com/easychen/stack-roadmap 方糖全栈路线图聚焦于「如何将一个想法做成产品，将其商业化并获得收益」这一问题，并从大量的学习...]]></title>
@@ -98,22 +114,6 @@
             
             
             <author><![CDATA[子鱼Ryan]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[NAS是个伪需求 以前总是按捺不住想买个NAS放在家里，折腾点自己的东西，才显得自己够极客。现在回想，其实NAS根本就是个伪需求，他只适合很少一部分人。 梳理一...]]></title>
-            <description><![CDATA[NAS是个伪需求<br><br>以前总是按捺不住想买个NAS放在家里，折腾点自己的东西，才显得自己够极客。现在回想，其实NAS根本就是个伪需求，他只适合很少一部分人。<br>梳理一下NAS的缺点吧，记录一下跟NAS做个了结。<br><br>1、费用高<br>一台基本功能的NAS也得2000块以上的价格，而一个阿里网盘或百度网盘的年会员费用也就158元左右，这么算下来，一台NAS可以买10几年的网盘会员了。并且NAS还需要买多块硬盘构成磁盘阵列，这也是一笔不少的费用。<br><br>2、替代方案多<br>NAS大部分功能可以使用主流网盘、移动硬盘、私有云或公有云服务器替代，体验也都很不错。<br><br>3、安全性并不高<br>这是NAS的商家一直主打的卖点，但是真相并不是，首先不说天灾不可抗力，楼塌屋倒的情况，NAS提供商为了操作易用，会损失一定的安全等级。其次，如果被黑客攻击，自己并不一定能搞得了，一旦文件丢失，那真的天价的损失。<br><br>4、维护难度大<br>全家就自己会搞，如果自己不在家（或者人没了），NAS出现点问题，基本歇菜。<br><br>5、更新迭代快<br>容易过时，硬件跟不上软件升级的速度，更何况NAS有倒闭的风险，以前自己买的极路由不再提供网络服务就是一个活生生的例子。<br><br>6、电费<br>买了NAS就不可能不开，长远下来电费问题不可忽视。<br><br> 如果上面这些都不在乎，或都有方法解决，搞台NAS的体验还是非常不错的。<br><img src="https://cdnv2.ruguoapp.com/FjTGMkqOzQSGgmg6-Mtazq2dzGurv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 26 Dec 2023 03:21:57 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/658a46d5164d89e60132204b</guid>
-            <link>https://m.okjike.com/originalPosts/658a46d5164d89e60132204b</link>
-            
-            
-            
-            <author><![CDATA[极客老王]]></author>
             
                 
             
