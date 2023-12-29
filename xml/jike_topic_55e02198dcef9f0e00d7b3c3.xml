@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Fri, 29 Dec 2023 10:32:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Dec 2023 14:34:40 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[发布 https://devv.ai 桌面端版本 🖥️ 基于 Pake 开源项目进行打包，做了很多兼容性的优化，也感谢 HiTw93 这几天提供的帮助。 整体体积非常小，只有不到 10M...]]></title>
+            <description><![CDATA[发布 https://devv.ai 桌面端版本 🖥️<br><br>基于 Pake 开源项目进行打包，做了很多兼容性的优化，也感谢 HiTw93 这几天提供的帮助。<br><br>整体体积非常小，只有不到 10M，未来桌面端版本会增加很多原生的功能。<br><br>可以直接在 GitHub Release 下载 👇<br>https://github.com/devv-ai/devv/releases/tag/v0.1.0<br><img src="https://cdnv2.ruguoapp.com/Ftg0_qSNpGfVbzAkbRyMi7yMKV_wv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 29 Dec 2023 02:29:45 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/658e2f19c7c69d5a9fe8f8f4</guid>
+            <link>https://m.okjike.com/originalPosts/658e2f19c7c69d5a9fe8f8f4</link>
+            
+            
+            
+            <author><![CDATA[加元.Jiayuan]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[Paperless-ngx ：一个无纸化开源文档管理系统，我计划将家中的所有说明书、票据、发票、合同、重要档案、人情记账本和账单等一概电子化备份存档。更棒的是它还支...]]></title>
@@ -50,22 +66,6 @@
             
             
             <author><![CDATA[千古壹号]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[GPT-Pilot：AI开发者伴侣 GPT Pilot 一个真正的AI程序员，它可以从零开始构建整个应用程序，它能自己编写代码、配置开发环境、管理开发任务、调试代码，可以随时...]]></title>
-            <description><![CDATA[GPT-Pilot：AI开发者伴侣<br><br>GPT Pilot 一个真正的AI程序员，它可以从零开始构建整个应用程序，它能自己编写代码、配置开发环境、管理开发任务、调试代码，可以随时和它聊天提问帮助你解决开发难题。<br>地址：https://github.com/Pythagora-io/gpt-pilot<br><img src="https://cdnv2.ruguoapp.com/FsD2D03YGUisHHwLmtp-Jf7F46cdv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 27 Dec 2023 21:02:33 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/658c90e96da5fb4742964e79</guid>
-            <link>https://m.okjike.com/originalPosts/658c90e96da5fb4742964e79</link>
-            
-            
-            
-            <author><![CDATA[Jackmeng]]></author>
             
                 
             
