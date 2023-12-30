@@ -21,24 +21,8 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sat, 30 Dec 2023 03:18:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Dec 2023 07:20:16 GMT</lastBuildDate>
         <ttl>120</ttl>
-        
-        <item>
-            <title><![CDATA[业余独立开发者的年终总结 我是 HamsterBase 的开发者，这是一款以本地优先的稍后读工具。目前正处于免费内测阶段，欢迎下载体验。 又活了一年，在 2023 年，一...]]></title>
-            <description><![CDATA[业余独立开发者的年终总结<br><br>我是 HamsterBase 的开发者，这是一款以本地优先的稍后读工具。目前正处于免费内测阶段，欢迎下载体验。 <br><br>又活了一年，在 2023 年，一共发布了 14 个版本，从年初的 Docker 扩展到了 iOS、安卓、Windows、Linux、Mac 及 Docker 这六个平台。 明年，我计划深入研究本地离线的 AI ，然后在 HamsterBase 中部署离线 embedding 服务，并接入 chatgpt API。这将在确保隐私的同时，大幅提高信息搜索的能力。<br><br>2023 年的收入<br><br>国内销售：14 份订单 , 收入：￥4960 元<br>国外销售：7 份订单, 收入：$400 USD （约等于￥2830.80）<br><br>2023 年的支出<br><br>苹果开发者年费:   ￥688<br>域名费用：           ￥60<br>设计师费用：        ￥3000 , 合作了一位优秀的设计师 @元否 ，一起合作彻底重构了项目的交互设计，花费了三个月时间重写与 UI 相关的逻辑。<br>服务器费用：       ￥400 , 目前用于备案，暂未部署服务，感觉有些亏。<br><br>使用（白嫖）的服务<br><br>Linear：作为主要项目管理工具，因为问题总数未超过 250 条，所以是免费的。<br>Obsidian：用来保存所有的项目设计文档，由于只有我一个人使用，因此也是免费的。<br>Lark：国际版飞书，主要用于域名邮箱。因为我只有一个人，未使用聊天、会议和知识库等功能。<br>兔小巢：主要用于收集中文用户的反馈，使其更加便捷。<br>Render：用于部署官网和文档，无需支付任何费用。<br>Github：用于分发项目成果，并接收用户提交的问题。项目也托管在 GitHub 的私有库中。<br>Paddle：处理海外用户的购买订单。<br>面包多：处理国内用户购买订单，支持微信和支付宝支付。<br><br>最后附上一张 8 折优惠码 ELSHJN ，可以在官网 （面包多）购买时使用。]]></description>
-            <pubDate>Fri, 29 Dec 2023 12:51:40 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/658ec0dc9185c305d160cbbe</guid>
-            <link>https://m.okjike.com/originalPosts/658ec0dc9185c305d160cbbe</link>
-            
-            
-            
-            <author><![CDATA[HamsterBase]]></author>
-            
-                
-            
-            
-        </item>
         
         <item>
             <title><![CDATA[Chrome 在 2024.01.04 也就是下周四，会开启 1% 的全球灰度，限制（默认禁止）Chrome 浏览器访问第三方 cookies，https://blog.google/products/chrome/privacy-...]]></title>
@@ -50,6 +34,22 @@
             
             
             <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[发布 https://devv.ai 桌面端版本 🖥️ 基于 Pake 开源项目进行打包，做了很多兼容性的优化，也感谢 HiTw93 这几天提供的帮助。 整体体积非常小，只有不到 10M...]]></title>
+            <description><![CDATA[发布 https://devv.ai 桌面端版本 🖥️<br><br>基于 Pake 开源项目进行打包，做了很多兼容性的优化，也感谢 HiTw93 这几天提供的帮助。<br><br>整体体积非常小，只有不到 10M，未来桌面端版本会增加很多原生的功能。<br><br>可以直接在 GitHub Release 下载 👇<br>https://github.com/devv-ai/devv/releases/tag/v0.1.0<br><img src="https://cdnv2.ruguoapp.com/Ftg0_qSNpGfVbzAkbRyMi7yMKV_wv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 29 Dec 2023 02:29:45 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/658e2f19c7c69d5a9fe8f8f4</guid>
+            <link>https://m.okjike.com/originalPosts/658e2f19c7c69d5a9fe8f8f4</link>
+            
+            
+            
+            <author><![CDATA[加元.Jiayuan]]></author>
             
                 
             
