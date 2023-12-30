@@ -21,19 +21,19 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Fri, 29 Dec 2023 18:50:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Dec 2023 23:07:18 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
-            <title><![CDATA[发布 https://devv.ai 桌面端版本 🖥️ 基于 Pake 开源项目进行打包，做了很多兼容性的优化，也感谢 HiTw93 这几天提供的帮助。 整体体积非常小，只有不到 10M...]]></title>
-            <description><![CDATA[发布 https://devv.ai 桌面端版本 🖥️<br><br>基于 Pake 开源项目进行打包，做了很多兼容性的优化，也感谢 HiTw93 这几天提供的帮助。<br><br>整体体积非常小，只有不到 10M，未来桌面端版本会增加很多原生的功能。<br><br>可以直接在 GitHub Release 下载 👇<br>https://github.com/devv-ai/devv/releases/tag/v0.1.0<br><img src="https://cdnv2.ruguoapp.com/Ftg0_qSNpGfVbzAkbRyMi7yMKV_wv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 29 Dec 2023 02:29:45 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/658e2f19c7c69d5a9fe8f8f4</guid>
-            <link>https://m.okjike.com/originalPosts/658e2f19c7c69d5a9fe8f8f4</link>
+            <title><![CDATA[Chrome 在 2024.01.04 也就是下周四，会开启 1% 的全球灰度，限制（默认禁止）Chrome 浏览器访问第三方 cookies，https://blog.google/products/chrome/privacy-...]]></title>
+            <description><![CDATA[Chrome 在 2024.01.04 也就是下周四，会开启 1% 的全球灰度，限制（默认禁止）Chrome 浏览器访问第三方 cookies，https://blog.google/products/chrome/privacy-sandbox-tracking-protection/，其目的是通过限制网站对第三方 cookie 的访问来限制跨站点跟踪，同时也可以防范大量 CSRF 攻击问题，影响的网站会比较多（如图一）。<br><br>会存在哪些影响呢？主要包括两类场景：<br><br>1）A 站点下如果 iframe 内嵌了 B 站点，当 iframe 中的 B 站点发起请求时，它当前域下的 cookie 会禁止被携带。举个栗子，如果要求 B 站点必须是登录态，那么即便 B 站点刚在独立 Tab 页登录过，它在 iframe 下仍然会是未登录态，因为这种情况不允许它获取 B 站点下的 cookies 了。很多公司的内部系统都是各种 iframe 相互穿插，需要引起注意<br><br>2）A 站点通过 ajax 请求 B 站点的接口，此时 B 站点下的 cookies 在请求时会禁止被携带。也就是说，广告类、推荐类业务等都会直接受到影响，请求是可以发出去的，但是丢失了当前用户身份信息，无法进行身份识别和内容推荐<br><br>其实这个 Privacy-Sandbox 隐私保护 Chrome 在 19 年就开始推了，当初是第一阶段，增加了一个叫做 SameSite 的 cookie 配置，设置为 None 即可；当前的策略则更强，不管你是否有设置 SameSite=None，默认禁止访问第三方 cookies。<br><br>当然，它也提供了几个规避策略，允许网站自主修复这个问题：<br><br>1）在 cookies 中增加 partitioned 属性（如图二），例如 key=value; SameSite=None; Secure; Partitioned; 注意这里多了一个 Partitioned，它的作用是允许在 A 站点下新写一份 cookies，这份 cookies 跟独立打开 A 站点写下的 cookies 是两个储存空间，互不干扰，详情可以看这里：https://developers.google.com/privacy-sandbox/3pcd/chips?hl=zh-cn<br><br>2）Chrome 提供了一个 Related Website Sets 的白名单机制（如图三），允许你通过提交配置的方式给浏览器增加白名单，配置的作用是明确 A 站点与 B 站点存在关联关系，详情可以看这里：https://github.com/GoogleChrome/related-website-sets/blob/main/RWS-Submission_Guidelines.md<br><br>3）通过 Storage Access API 向用户获得授权（如图四），跟网页要打开摄像头要求授权一样，只不过有效期只有 30 天。详情可以看这里：https://developers.google.com/privacy-sandbox/3pcd/storage-access-api?hl=zh-cn<br><br>Chrome 计划在 2024 年底完成全量发布，下周只开启 1% 的灰度，现在修改还来得及，哈哈😄<br><img src="https://cdnv2.ruguoapp.com/FuX0usNIhgr9toYtILvwP4L0yAVsv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FtGS4xWvsi9GfwawgyPGKrEm1nV7v3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FiU8FVZnMX0DWrYfwycsD6QN_hyFv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FgVlX5i8VYrMa_zVMRB5Uaeied0bv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 29 Dec 2023 09:28:58 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/658e915a164d89e601890799</guid>
+            <link>https://m.okjike.com/originalPosts/658e915a164d89e601890799</link>
             
             
             
-            <author><![CDATA[加元.Jiayuan]]></author>
+            <author><![CDATA[Barret李靖]]></author>
             
                 
             
