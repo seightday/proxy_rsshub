@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sun, 31 Dec 2023 18:53:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Dec 2023 23:19:01 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -34,6 +34,22 @@
             
             
             <author><![CDATA[Jackmeng]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[业余独立开发者的年终总结 我是 HamsterBase 的开发者，这是一款以本地优先的稍后读工具。目前正处于免费内测阶段，欢迎下载体验。 又活了一年，在 2023 年，一...]]></title>
+            <description><![CDATA[业余独立开发者的年终总结<br><br>我是 HamsterBase 的开发者，这是一款以本地优先的稍后读工具。目前正处于免费内测阶段，欢迎下载体验。 <br><br>又活了一年，在 2023 年，一共发布了 14 个版本，从年初的 Docker 扩展到了 iOS、安卓、Windows、Linux、Mac 及 Docker 这六个平台。 明年，我计划深入研究本地离线的 AI ，然后在 HamsterBase 中部署离线 embedding 服务，并接入 chatgpt API。这将在确保隐私的同时，大幅提高信息搜索的能力。<br><br>2023 年的收入<br><br>国内销售：14 份订单 , 收入：￥4960 元<br>国外销售：7 份订单, 收入：$400 USD （约等于￥2830.80）<br><br>2023 年的支出<br><br>苹果开发者年费:   ￥688<br>域名费用：           ￥60<br>设计师费用：        ￥3000 , 合作了一位优秀的设计师 @元否 ，一起合作彻底重构了项目的交互设计，花费了三个月时间重写与 UI 相关的逻辑。<br>服务器费用：       ￥400 , 目前用于备案，暂未部署服务，感觉有些亏。<br><br>使用（白嫖）的服务<br><br>Linear：作为主要项目管理工具，因为问题总数未超过 250 条，所以是免费的。<br>Obsidian：用来保存所有的项目设计文档，由于只有我一个人使用，因此也是免费的。<br>Lark：国际版飞书，主要用于域名邮箱。因为我只有一个人，未使用聊天、会议和知识库等功能。<br>兔小巢：主要用于收集中文用户的反馈，使其更加便捷。<br>Render：用于部署官网和文档，无需支付任何费用。<br>Github：用于分发项目成果，并接收用户提交的问题。项目也托管在 GitHub 的私有库中。<br>Paddle：处理海外用户的购买订单。<br>面包多：处理国内用户购买订单，支持微信和支付宝支付。<br><br>最后附上一张 8 折优惠码 ELSHJN ，可以在官网 （面包多）购买时使用。]]></description>
+            <pubDate>Fri, 29 Dec 2023 12:51:40 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/658ec0dc9185c305d160cbbe</guid>
+            <link>https://m.okjike.com/originalPosts/658ec0dc9185c305d160cbbe</link>
+            
+            
+            
+            <author><![CDATA[HamsterBase]]></author>
             
                 
             
@@ -66,22 +82,6 @@
             
             
             <author><![CDATA[Jackmeng]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[方糖全栈路线图：https://github.com/easychen/stack-roadmap 方糖全栈路线图聚焦于「如何将一个想法做成产品，将其商业化并获得收益」这一问题，并从大量的学习...]]></title>
-            <description><![CDATA[方糖全栈路线图：https://github.com/easychen/stack-roadmap<br><br>方糖全栈路线图聚焦于「如何将一个想法做成产品，将其商业化并获得收益」这一问题，并从大量的学习内容中进行精选，尝试让读者在短时间内补全包括商业模式、设计、开发、运营、增长在内的「最小可行技能栈」，帮助读者完成「从螺丝钉到一人企业」的蜕变。<br><br>在经济下行的周期中，无论是更多选择的职业发展，还是更安全的副业主业双线收入都是极为重要的。这也正是路线图期望带来的价值。<br><img src="https://cdnv2.ruguoapp.com/FtXgMwTXuxYwfJ_WihbPfFN9kMKCv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 28 Dec 2023 03:11:18 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/658ce75612ed2fda68bf7d3d</guid>
-            <link>https://m.okjike.com/originalPosts/658ce75612ed2fda68bf7d3d</link>
-            
-            
-            
-            <author><![CDATA[千古壹号]]></author>
             
                 
             
