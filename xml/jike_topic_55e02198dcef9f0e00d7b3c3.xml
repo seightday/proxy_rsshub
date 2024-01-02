@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 02 Jan 2024 02:40:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jan 2024 04:50:05 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[李笑来写的《人人都能用英语》，https://github.com/xiaolai/everyone-can-use-english，Everyone can use English，总共八个章节，花几个小时就可以阅读完，“...]]></title>
+            <description><![CDATA[李笑来写的《人人都能用英语》，https://github.com/xiaolai/everyone-can-use-english，Everyone can use English，总共八个章节，花几个小时就可以阅读完，“想明白之后，就该干嘛干嘛了”，这本书会带着读者一起把语言学习这件事情看清楚、想明白，让读者找到该有的自信，掌握一些有效的学习技巧，很受启发。<br><br>第一章花了很长的篇幅，论证了“大脑是可塑的”，以及“语言能力是后天习得的”，作者试图让读者先选择相信自己可以去完成某项似乎不适合在当前年龄段完成的任务，这种“自我催眠”很有用，不仅仅适用于语言学习，跨领域的知识学习也很参考价值。<br><img src="https://cdnv2.ruguoapp.com/Fmx1Es-yt0T5MT_2U2ViD0zHkx0cv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 02 Jan 2024 03:53:24 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/659388b4164d89e601e08f71</guid>
+            <link>https://m.okjike.com/originalPosts/659388b4164d89e601e08f71</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[花了六个小时翻完了前五章，作者一气呵成，把复杂的问题用简单轻便的逻辑呈现出来，抽丝剥茧，深入浅出，代码实现也很基础，是一本入门好书，值得推荐。]]></title>
@@ -66,22 +82,6 @@
             
             
             <author><![CDATA[哥飞]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[🧑🏻‍💻 Github All Repos Monthly Trending (2023.12.01-2023.12.31) 📦 LC044/WeChatMsg 🔗 https://github.com/LC044/WeChatMsg 📄 提取微信聊...]]></title>
-            <description><![CDATA[🧑🏻‍💻 Github All Repos Monthly Trending (2023.12.01-2023.12.31)<br><br>📦 LC044/WeChatMsg<br>🔗 https://github.com/LC044/WeChatMsg<br>📄 提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告<br>🛠 Python<br>⭐️ 17,397 stars this month<br><br>📦 lobehub/lobe-chat<br>🔗 https://github.com/lobehub/lobe-chat<br>📄 🤖 Lobe Chat - an open-source, high-performance chatbot framework that supports speech synthesis, multimodal, and extensible Function Call plugin system. Supports one-click free deployment of your private ChatGPT/LLM web application.<br>🇨🇳 🤖 Lobe Chat - 一个开源、高性能的聊天机器人框架，支持语音合成、多模态和可扩展的功能调用插件系统。支持一键式免费部署您的私人 ChatGPT/LLM 网络应用程序。<br>🛠 TypeScript<br>⭐️ 10,856 stars this month<br><br>📦 practical-tutorials/project-based-learning<br>🔗 https://github.com/practical-tutorials/project-based-learning<br>📄 Curated list of project-based tutorials<br>🇨🇳 基于项目的教程精选列表<br>⭐️ 23,070 stars this month<br><br>📦 Stirling-Tools/Stirling-PDF<br>🔗 https://github.com/Stirling-Tools/Stirling-PDF<br>📄 locally hosted web application that allows you to perform various operations on PDF files<br>🇨🇳 本地托管的网络应用程序，允许您对 PDF 文件执行各种操作<br>🛠 Java<br>⭐️ 8,592 stars this month<br><br>📦 Mintplex-Labs/anything-llm<br>🔗 https://github.com/Mintplex-Labs/anything-llm<br>📄 Open-source ChatGPT experience for both open and closed source LLMs, embedders, and vector databases. Unlimited documents, messages, and concurrent users with permission management in one app.<br>🇨🇳 开源 ChatGPT 体验，适用于开源和闭源 LLM、嵌入式和矢量数据库。在一个应用程序中实现无限制的文档、消息和并发用户权限管理。<br>🛠 JavaScript<br>⭐️ 3,746 stars this month<br><br>📦 pandora-next/deploy<br>🔗 https://github.com/pandora-next/deploy<br>📄 Pandora Cloud + Pandora Server + Shared Chat + BackendAPI Proxy + Chat2API + Signup Free = PandoraNext. New GPTs(Gizmo) UI, All in one!<br>🇨🇳 Pandora Cloud + Pandora Server + Shared Chat + BackendAPI Proxy + Chat2API + Signup Free = PandoraNext。全新 GPTs（Gizmo）用户界面，一网打尽！<br>🛠 PHP<br>⭐️ 5,075 stars this month<br><br>📦 linexjlin/GPTs<br>🔗 https://github.com/linexjlin/GPTs<br>📄 leaked prompts of GPTs<br>🇨🇳 泄露的 GPT 提示<br>⭐️ 16,388 stars this month<br><br>📦 Mozilla-Ocho/llamafile<br>🔗 https://github.com/Mozilla-Ocho/llamafile<br>📄 Distribute and run LLMs with a single file.<br>🇨🇳 使用单个文件分发和运行 LLM。<br>🛠 C++<br>⭐️ 7,881 stars this month<br><br>📦 jmorganca/ollama<br>🔗 https://github.com/jmorganca/ollama<br>📄 Get up and running with Llama 2 and other large language models locally<br>🇨🇳 在本地启动并运行 Llama 2 和其他大型语言模型<br>🛠 Go<br>⭐️ 9,543 stars this month<br><br>📦 facebookresearch/seamless_communication<br>🔗 https://github.com/facebookresearch/seamless_communication<br>📄 Foundational Models for State-of-the-Art Speech and Text Translation<br>🇨🇳 最新语音和文本翻译的基础模型<br>🛠 Jupyter Notebook<br>⭐️ 3,463 stars this month]]></description>
-            <pubDate>Sun, 31 Dec 2023 15:37:09 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65918aa5f60303d6564ad068</guid>
-            <link>https://m.okjike.com/originalPosts/65918aa5f60303d6564ad068</link>
-            
-            
-            
-            <author><![CDATA[Almighty]]></author>
             
                 
             
