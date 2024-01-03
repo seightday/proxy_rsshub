@@ -14,8 +14,87 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Wed, 03 Jan 2024 00:57:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jan 2024 04:15:25 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[「降价」-「iOS」Sifter - 垃圾短信拦截过滤]]></title>
+            <description><![CDATA[<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e2/4e/0e/e24e0e53-6b86-c103-0a22-6d7c8204da27/AppIcon-0-1x_U007epad-0-85-220.png/256x256bb.jpg" referrerpolicy="no-referrer">
+          <br>
+          原价：¥8.00 -> 现价：¥3.00
+          <br>
+          平台：iOS
+          <br>
+          基于用户设计的规则过滤短信。完全在本地运行，保证用户的隐私。
+
+◆ 支持的规则类型：
+- 白名单用户
+- 黑名单用户
+- 白名单（支持词组组合）
+- 黑名单（支持词组组合）
+- 正则白名单用户
+- 正则黑名单用户
+- 正则白名单
+- 正则黑名单
+
+*使用后4种规则需要对正则表达式有一定的了解。
+
+◆ 支持云规则（下载/更新第三方规则）
+◆ 规则快速编辑/添加（规则在一个单独的文本文件中）
+◆ 支持全部规则导入导出
+◆ 支持 iCloud 同步规则
+◆ 规则本地测试
+◆ 3D Touch 快捷键
+
+◆ URL Schemes：
+sifter://whitelist_users
+sifter://
+        ]]></description>
+            <pubDate>Wed, 03 Jan 2024 02:42:23 GMT</pubDate>
+            <guid isPermaLink="false">https://gofans.cn/app/acd6a024-88b3-45ea-ae0d-0e45fadeef2f</guid>
+            <link>https://gofans.cn/app/acd6a024-88b3-45ea-ae0d-0e45fadeef2f</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[「降价」-「iOS」完美影音工厂: 格式转换,电影剪辑和录屏]]></title>
+            <description><![CDATA[<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/22/9f/07/229f0751-fea0-9a48-7a9f-f03340d57b4e/logo.png/256x256bb.png" referrerpolicy="no-referrer">
+          <br>
+          原价：¥38.00 -> 现价：¥28.00
+          <br>
+          平台：macOS
+          <br>
+          完美影音工厂是一款易用的，多功能的视频和音频格式转换器和播放器，支持几乎所有的视频和音频格式。 还可以播放高清影音，剪辑音视频（视频倒放，合并，分割，旋转，剪切，文本，倍速特效，提取音频，视频压缩）及录屏等等。
+
+完美影音工厂功能特色：
+1 快速音视频格式转换
+• 支持苹果Apple Silicon Arm64 (M1/M2) .
+• 全面支持最新硬件加速优化技术,批量转换200+种影音格式,30倍速高速转换！
+• 转换超高清4K影音格式（H.265, H.264等）,提升影像质量,带来最清晰观赏体验。
+• 预置输出设备的最佳输出格式和分辨率。
+
+2 高清多媒体播放器
+• 可以播放200+种多
+        ]]></description>
+            <pubDate>Wed, 03 Jan 2024 02:07:55 GMT</pubDate>
+            <guid isPermaLink="false">https://gofans.cn/app/287f43a3-14cf-4ed4-b944-d110daa24604</guid>
+            <link>https://gofans.cn/app/287f43a3-14cf-4ed4-b944-d110daa24604</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[「免费」-「iOS」时间轴-全球历史]]></title>
@@ -548,87 +627,6 @@ Features
             <pubDate>Sat, 30 Dec 2023 15:02:29 GMT</pubDate>
             <guid isPermaLink="false">https://gofans.cn/app/565b2d8b-c861-4a88-a011-20bb47dc3650</guid>
             <link>https://gofans.cn/app/565b2d8b-c861-4a88-a011-20bb47dc3650</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[「免费」-「iOS」我的足迹: GPS 记录仪]]></title>
-            <description><![CDATA[<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d6/78/e7/d678e79f-8cd7-6ea8-7c3a-3e43ab34d31d/AppIcon-0-0-1x_U007emarketing-0-2-85-220.png/256x256bb.jpg" referrerpolicy="no-referrer">
-          <br>
-          原价：¥15.00 -> 现价：¥0.00
-          <br>
-          平台：iOS
-          <br>
-          MyTracks是一款通过使用GPS数据来记录您的位置的应用程序。它非常适合徒步旅行、慢跑、散步、骑行等各种活动。这款应用程序利用先进的技术提供精确的测量和计算。
-
-以下是您可以使用MyTracks做的事情：
-记录您的路线：无论您是徒步旅行、慢跑还是骑行，MyTracks都可以记录您的路径并在地图上显示。
-保存收藏的位置：如果有特定的地点您想要记住，您可以将它们标记为应用程序中的收藏夹。
-导入和导出数据：MyTracks允许您以多种格式导入和导出数据，如CSV、GPX、KML和KMZ。
-提高准确性：您可以进行静态GPS观测，以获得更准确的路标。
-轻松导航：该应用程序在指南针上提供路标指南，让您
-        ]]></description>
-            <pubDate>Sat, 30 Dec 2023 15:02:08 GMT</pubDate>
-            <guid isPermaLink="false">https://gofans.cn/app/e99633aa-35cf-4686-98b1-93d8ea118320</guid>
-            <link>https://gofans.cn/app/e99633aa-35cf-4686-98b1-93d8ea118320</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[「降价」-「iOS」英雄迷宫冒险]]></title>
-            <description><![CDATA[<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/2f/f3/22/2ff32209-a10f-b6d9-a332-5a5c523b008d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/256x256bb.jpg" referrerpolicy="no-referrer">
-          <br>
-          原价：¥38.00 -> 现价：¥15.00
-          <br>
-          平台：iOS
-          <br>
-          这是一款经营类？
-
-这是一款RPG！
-
-也许两者都有！
-
-在这款游戏里
-你打造武器！！！！
-你附魔装备！！！！
-欺负小怪物！！！！
-打不过就跑！！！！
-
-
-200+装备供打造
-200+技能可以随意搭配
-70+怪物包括巨型BOSS
-200+任务
-
-BOSS可以用食物勾引出来
-每把武器绑定自己的独特技能
-属性相克和技能搭配让你事半功倍
-刷刷刷要用脑
-
-第一次通关剧情至少10小时，消灭最终隐藏BOSS需要20小时，完美主义者和强迫症患者游戏时间X10 ！
-有可选择路线的剧情模式（左右国家间的战争），还有关于生命与财富的思考
-
-还有制作人无尽的吐槽
-
-Digdog Studio狗刨游戏
-        ]]></description>
-            <pubDate>Sat, 30 Dec 2023 15:01:36 GMT</pubDate>
-            <guid isPermaLink="false">https://gofans.cn/app/5de6ae43-d8a6-4705-979c-36810d42755b</guid>
-            <link>https://gofans.cn/app/5de6ae43-d8a6-4705-979c-36810d42755b</link>
             
             
             
