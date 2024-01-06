@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sat, 06 Jan 2024 11:41:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Jan 2024 15:42:06 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[Python常用三方库，小编根据工作经验分了下类，仅供参考： 后端框架类、办公类、数据分析类、爬虫类、GIS类、人工智能类等。 一、后端框架类 1、Django Django ...]]></title>
+            <description><![CDATA[Python常用三方库，小编根据工作经验分了下类，仅供参考：<br><br>后端框架类、办公类、数据分析类、爬虫类、GIS类、人工智能类等。<br><br>一、后端框架类<br><br>1、Django<br><br>Django 是Python中最为流行的Web框架之一，它提供了完整的Web开发支持，包括ORM、模板引擎、路由、中间件等功能。<br><br>2、Flask<br><br>Flask 是Python中最为常用的Web框架之一，它提供了轻量级的Web开发支持，同时也支持RESTful API的开发。<br><br>3、FastAPI<br><br>FastAPI是一个用于构建API的现代、快速（高性能）的web框架，使用Python 3.8+并基于标准的Python类型提示。<br><br>二、办公类<br><br>1、openpyxl<br><br>openpyxl 是一个处理 Microsoft Excel 文档的 Python 第三方库，它支持读写的 Excel 的 xls、xlsx、xlsm、xltx、xltm 等格式文件，并进一步处理 Excel 文件中的工作表、表单和数据单元。<br><br>2、xlrd<br><br>xlrd 模块可以用于读取Excel的数据，速度非常快，推荐使用！<br><br>3、xlwt<br><br>xlwt 可以用于写入新的Excel表格或者在原表格基础上进行修改，速度也很快，但是只支持xls格式！<br><br>4、xlutils<br><br>xlutils 可用于拷贝原excel或者在原excel基础上进行修改，并保存。<br><br>三、数据分析类<br><br>1、numpy<br><br>numpy 是 Python 的一种开源数值计算扩展第三方库，用于处理数据类型相同的多维数组（ndarray），简称“数组”。这个库可用来存储和处理大型矩阵，比 Python 语言提供的列表结构要高效的多。<br><br>2、pandas<br><br>pandas是基于numpy扩展的第一个重要的第三方库，它是为解决数据分析任务创建的。提供了一批标准的数据模型和大量快速便捷处理数据的函数和方法，提供了高效地操作大型数据集所需的工具。<br><br>3、scipy<br><br>scipy 是一款方便、易用、转为科学和工程设计的Python工具包，是在numpy库的基础上增加了众多的数学、科学以及工程计算中常用的库函数。<br><br>4、Matplotlib<br><br>Matplotlib 是Python中最常用的绘图库之一，它可以生成各种类型的统计图表，如折线图、散点图、柱状图等，支持各种格式的输出。<br><br>四、爬虫类<br><br>1、Requests<br><br>Requests 是Python中最为常用的HTTP库之一，它提供了简洁的API，使得开发者可以轻松地进行HTTP请求的发送和处理。<br><br>2、Httpx<br><br>Httpx 是 Python 3 的全功能 HTTP 客户端，它提供同步和异步 API，并支持 HTTP/1.1 和 HTTP/2。<br><br>3、Scrapy<br><br>Scrapy 是Python中最为常用的爬虫框架之一，它提供了完整的爬虫开发支持，包括HTTP请求、数据解析、数据存储等功能。<br><br>4、Beautiful Soup<br><br>Beautiful Soup 是Python中最为常用的HTML解析库之一，它可以将HTML文档解析为Python对象，使得开发者可以更加方便地进行数据解析和数据提取。<br><br>5、Playwright<br><br>Playwright 是微软在 2020 年初开源的新一代自动化测试工具，它的功能类似于 Selenium、Pyppeteer 等，都可以驱动浏览器进行各种自动化操作。它的功能也非常强大，对市面上的主流浏览器都提供了支持，API 功能简洁又强大。虽然诞生比较晚，但是现在发展得非常火热。<br><br>6、DrissionPage<br><br>DrissionPage 是基于python的网页自动化工具。既能控制浏览器，也能收发数据包。可兼顾浏览器自动化的便利性和requests的高效率。功能强大，内置无数人性化设计和便捷功能。语法简洁而优雅，代码量少。<br><br>五、GIS类<br><br>1、GDAL<br><br>GDAL 是读写大量的栅格空间数据格式的广泛应用的开源库。<br><br>2、shapefile<br><br>shapefile 是GIS中非常重要的一种数据类型，在ArcGIS中被称为要素类(Feature Class)，主要包括点(point)、线(polyline)和多边形(polygon)。<br><br>3、shapely<br><br>shapely 是专门做图形计算的包，基本上图形线段，点的判断包里都有，实现的几何对象的基本类型是点、曲线和曲面。<br><br>六、人工智能类<br><br>1、TensorFlow<br><br>TensorFlow 提供了深度学习相关的算法和工具，例如神经网络、卷积神经网络、循环神经网络等，是人工智能领域中广泛使用的库。<br><br>2、PyTorch<br><br>PyTorch 是Facebook开发的机器学习框架，它也支持各种深度学习算法的实现和封装，同时也提供了一些高层次的API，使得开发者可以更加轻松地使用PyTorch进行深度学习。]]></description>
+            <pubDate>Sat, 06 Jan 2024 07:55:48 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6599078412ed2fda68a511e3</guid>
+            <link>https://m.okjike.com/originalPosts/6599078412ed2fda68a511e3</link>
+            
+            
+            
+            <author><![CDATA[子鱼Ryan]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[给即友们一些创业思路]]></title>
@@ -110,22 +126,6 @@
             <pubDate>Tue, 02 Jan 2024 03:53:24 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/659388b4164d89e601e08f71</guid>
             <link>https://m.okjike.com/originalPosts/659388b4164d89e601e08f71</link>
-            
-            
-            
-            <author><![CDATA[Barret李靖]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[花了六个小时翻完了前五章，作者一气呵成，把复杂的问题用简单轻便的逻辑呈现出来，抽丝剥茧，深入浅出，代码实现也很基础，是一本入门好书，值得推荐。]]></title>
-            <description><![CDATA[花了六个小时翻完了前五章，作者一气呵成，把复杂的问题用简单轻便的逻辑呈现出来，抽丝剥茧，深入浅出，代码实现也很基础，是一本入门好书，值得推荐。<br><img src="https://cdnv2.ruguoapp.com/Fu8W5zLF5AatooEfiWsl_P-5RYxJv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 01 Jan 2024 16:13:44 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6592e4b8f60303d65663529c</guid>
-            <link>https://m.okjike.com/originalPosts/6592e4b8f60303d65663529c</link>
             
             
             
