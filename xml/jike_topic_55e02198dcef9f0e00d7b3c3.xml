@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 10 Jan 2024 00:08:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jan 2024 02:10:27 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[开始上手搞代码，才意识到为什么有些教程开头就介绍什么是类，什么是对象，什么是方法。能把这些基础概念弄明白，确实就对编程入门儿了，可以更抽象地思考如何用...]]></title>
+            <description><![CDATA[开始上手搞代码，才意识到为什么有些教程开头就介绍什么是类，什么是对象，什么是方法。能把这些基础概念弄明白，确实就对编程入门儿了，可以更抽象地思考如何用代码完成任务。<br><br>但作为初学者对此是很抵触的。为什么一上来就要让我了解这些很抽象的、不知道有什么用的概念？还不如让我学一学if else或者+=，起码很清楚有什么用。突然想起来高中第一次接触代码写了个斐波那契数列巨有成就感，到大学突击c++直接被概念整懵……<br><br>根据这几周的体会，我觉得初学者最应该先了解的是：<br>        写代码并非从头写到尾，一个项目原来是由许多文件和许多小模块勾搭起来的！(勾和搭这俩词真的好形象啊！！)<br>       之前不小心看到过的那些node结尾的、js结尾的奇怪的文件原来真的不能随便删，每个都在很努力参与产品运行！<br>        产品运行起来，就是小模块彼此导入导出，互相调用，互相配合的过程。<br>        在跟着逻辑跳来跳去的过程中，头脑会对整个项目形成一个若有若无的网络体系，有种奇妙的大脑与代码实现同构的感觉😂总之是个特别立体的，特别有空间感的事儿~~<br><br>上手之后，看到页面随着一行行字符变化真是有趣的体验~搭建和创造的感觉真好~~<br>做出东西的感觉真……真踏实！比思考商业逻辑踏实多了😭。<br>似乎在打开新世界的大门？<br>(于是大胆发在这个圈子~)]]></description>
+            <pubDate>Tue, 09 Jan 2024 11:49:38 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/659d32d238849f879f89e6ed</guid>
+            <link>https://m.okjike.com/originalPosts/659d32d238849f879f89e6ed</link>
+            
+            
+            
+            <author><![CDATA[炫酷的ccc]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[一款在线的智能配色平台，支持在线预览，并支持多种配色方案，支持figma，重要的是完全免费，好用！ 地址：https://www.realtimecolors.com]]></title>
@@ -114,22 +130,6 @@
             
             
             <author><![CDATA[小才鸟]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[李笑来写的《人人都能用英语》，https://github.com/xiaolai/everyone-can-use-english，Everyone can use English，总共八个章节，花几个小时就可以阅读完，“...]]></title>
-            <description><![CDATA[李笑来写的《人人都能用英语》，https://github.com/xiaolai/everyone-can-use-english，Everyone can use English，总共八个章节，花几个小时就可以阅读完，“想明白之后，就该干嘛干嘛了”，这本书会带着读者一起把语言学习这件事情看清楚、想明白，让读者找到该有的自信，掌握一些有效的学习技巧，很受启发。<br><br>第一章花了很长的篇幅，论证了“大脑是可塑的”，以及“语言能力是后天习得的”，作者试图让读者先选择相信自己可以去完成某项似乎不适合在当前年龄段完成的任务，这种“自我催眠”很有用，不仅仅适用于语言学习，跨领域的知识学习也很参考价值。<br><img src="https://cdnv2.ruguoapp.com/Fmx1Es-yt0T5MT_2U2ViD0zHkx0cv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 02 Jan 2024 03:53:24 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/659388b4164d89e601e08f71</guid>
-            <link>https://m.okjike.com/originalPosts/659388b4164d89e601e08f71</link>
-            
-            
-            
-            <author><![CDATA[Barret李靖]]></author>
             
                 
             
