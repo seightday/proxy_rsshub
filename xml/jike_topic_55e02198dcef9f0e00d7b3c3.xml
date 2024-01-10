@@ -21,24 +21,8 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 10 Jan 2024 16:10:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jan 2024 20:11:09 GMT</lastBuildDate>
         <ttl>120</ttl>
-        
-        <item>
-            <title><![CDATA[今晚第一次分享 还有要来的吗。😏 是付费课 https://mp.weixin.qq.com/s/4duIpeZkmqlKPa4jrcUdIA 😂]]></title>
-            <description><![CDATA[今晚第一次分享 还有要来的吗。😏<br><br>是付费课 https://mp.weixin.qq.com/s/4duIpeZkmqlKPa4jrcUdIA 😂<br><img src="https://cdnv2.ruguoapp.com/FsRznAF0epN3nrCe22eJ0lDsAvf_v3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 10 Jan 2024 03:57:29 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/659e15a93c5b481f6ee681a9</guid>
-            <link>https://m.okjike.com/originalPosts/659e15a93c5b481f6ee681a9</link>
-            
-            
-            
-            <author><![CDATA[艾逗笔]]></author>
-            
-                
-            
-            
-        </item>
         
         <item>
             <title><![CDATA[这款GPT 学术优化开源项目又有新优化，开源10个月狂揽50.4k star! GitHub：https://github.com/binary-husky/gpt_academic 一键部署：https://template.cloud.se...]]></title>
@@ -50,6 +34,22 @@
             
             
             <author><![CDATA[子鱼Ryan]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[开始上手搞代码，才意识到为什么有些教程开头就介绍什么是类，什么是对象，什么是方法。能把这些基础概念弄明白，确实就对编程入门儿了，可以更抽象地思考如何用...]]></title>
+            <description><![CDATA[开始上手搞代码，才意识到为什么有些教程开头就介绍什么是类，什么是对象，什么是方法。能把这些基础概念弄明白，确实就对编程入门儿了，可以更抽象地思考如何用代码完成任务。<br><br>但作为初学者对此是很抵触的。为什么一上来就要让我了解这些很抽象的、不知道有什么用的概念？还不如让我学一学if else或者+=，起码很清楚有什么用。突然想起来高中第一次接触代码写了个斐波那契数列巨有成就感，到大学突击c++直接被概念整懵……<br><br>根据这几周的体会，我觉得初学者最应该先了解的是：<br>        写代码并非从头写到尾，一个项目原来是由许多文件和许多小模块勾搭起来的！(勾和搭这俩词真的好形象啊！！)<br>       之前不小心看到过的那些node结尾的、js结尾的奇怪的文件原来真的不能随便删，每个都在很努力参与产品运行！<br>        产品运行起来，就是小模块彼此导入导出，互相调用，互相配合的过程。<br>        在跟着逻辑跳来跳去的过程中，头脑会对整个项目形成一个若有若无的网络体系，有种奇妙的大脑与代码实现同构的感觉😂总之是个特别立体的，特别有空间感的事儿~~<br><br>上手之后，看到页面随着一行行字符变化真是有趣的体验~搭建和创造的感觉真好~~<br>做出东西的感觉真……真踏实！比思考商业逻辑踏实多了😭。<br>似乎在打开新世界的大门？<br>(于是大胆发在这个圈子~)]]></description>
+            <pubDate>Tue, 09 Jan 2024 11:49:38 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/659d32d238849f879f89e6ed</guid>
+            <link>https://m.okjike.com/originalPosts/659d32d238849f879f89e6ed</link>
+            
+            
+            
+            <author><![CDATA[炫酷的ccc]]></author>
             
                 
             
