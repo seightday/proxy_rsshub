@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sat, 13 Jan 2024 11:29:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Jan 2024 15:35:43 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -41,6 +41,22 @@
         </item>
         
         <item>
+            <title><![CDATA[前天晚上讲了三小时从零到一开发一个 AI 壁纸网站，昨晚已经有群友复刻出来了，看来我的分享内容还算有价值。😊 欢迎想学全栈开发做自己产品的朋友加入我的 10...]]></title>
+            <description><![CDATA[前天晚上讲了三小时从零到一开发一个 AI 壁纸网站，昨晚已经有群友复刻出来了，看来我的分享内容还算有价值。😊<br><br>欢迎想学全栈开发做自己产品的朋友加入我的 1024 全栈开发社群。除了一次完整的项目课程之外，我会不定期把我做过的一些项目拿出来分享，主打一年的交流陪伴，也会帮助大家实现自己想做的产品。<br><br>详细了解请看👇<br><br>https://mp.weixin.qq.com/s/4duIpeZkmqlKPa4jrcUdIA<br><img src="https://cdnv2.ruguoapp.com/FinYjFWWGLRbaJ_HaT-dPCaz4AIpv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FiUWXHI5_gE3h3_jSLP6ylgIfD79v3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fm_11ZWZCuDDM2edoiyxWLKmH4wRv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fj-DgfFnRHgS2iC-5k70-Woq6bCav3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 12 Jan 2024 09:15:09 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65a1031dc7c69d5a9f4c1555</guid>
+            <link>https://m.okjike.com/originalPosts/65a1031dc7c69d5a9f4c1555</link>
+            
+            
+            
+            <author><![CDATA[艾逗笔]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[最近用的最多的两个 AI 产品，一个是 ChatGPT，另外一个是 Kimi Chat，https://kimi.moonshot.cn?r=ba，后者是国内 Moonshot AI 团队出品的类 Perplexity 产品，...]]></title>
             <description><![CDATA[最近用的最多的两个 AI 产品，一个是 ChatGPT，另外一个是 Kimi Chat，https://kimi.moonshot.cn?r=ba，后者是国内 Moonshot AI 团队出品的类 Perplexity 产品，支持在回答问题之前，先从搜索引擎爬取最新资讯，整合后再给出更精准有效的回答，很大程度解决了大模型推理的幻觉问题，这个实用性还是比较强的。<br><br>ChatGPT 的联网查询能力只在 GPT-4 提供，国内绝大部分用户在付费这一关就被挡住了，而值得一提的是，Kimi Chat 自推出至今一直保持着免费，从它提供的强大能力来看，感觉还是蛮烧钱的，它支持用户在单次 Chat 中上传 50 个小于 100Mb 的文件，而且没有设置文件储存量的上限，简直可以把它当成可对话网盘来用了！😄<br><br>Kimi Chat 最突出的亮点在于长文本处理，它支持在单轮对话中塞入 20w 字，这种长度的上下文，扔给 GPT-4 和 Claude 会直接报错；有用户还做了一个“大海捞针”实验，https://mp.weixin.qq.com/s/IC5-FGLVHzHHYqH6x-aNng，从结果来看，在长文本对话中，Kimi Chat 对失忆问题的优化明显强于 GPT-4 和 Claude，这个价值还是蛮大的。<br><br>在之前体验的各类 AI 产品中，对 PDF 的输入总是有着各种限制，例如页数不能超过 50 页，或者文件大小不能超过 50Mb，稍长一点的论文就没法利用 AI 进行 summarize 了，还得靠自己硬着头皮从长篇论文中找答案；Kimi Chat 解决了这个问题，它的单文件上限是 100Mb，甚至支持一次性扔 50 个文件进行对话，归纳出来的结果也十分精准，第一次体验的时候简直惊呆了，这对有大量数据处理诉求的用户来说算是个福音。<br><br>Kimi Chat 还提供了一个微信小程序，这也是为啥高频使用它的原因，入口做的够通用；它支持将聊天文件导入到 Chat 中进行归纳总结，还是非常方便的。你也可以使用它提供的 API 将它的长文总结能力接入到自己的产品中，https://moonshot.feishu.cn/docx/RnkWdeFo8oQabzxYFVwcNg1Mn9g，它提供了文件上传 API 和 Chat API，支持 10Gb 免费空间进行文件管理，还是很大方的。<br><img src="https://cdnv2.ruguoapp.com/Frd-MfRxTl7x2j-1m0EWU2qSwcjwv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FnIZpzMkm4C8_BHvkm9L3ioPh0JAv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FgOvzyPiepvKQUvzLK4u1LXXqkemv3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Thu, 11 Jan 2024 15:22:48 GMT</pubDate>
@@ -50,22 +66,6 @@
             
             
             <author><![CDATA[Barret李靖]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[DevToys 是一个用于开发者的工具集合，包括各种实用的小工具和辅助功能，旨在提高开发效率和简化开发过程。 GitHub：https://github.com/veler/DevToys 官方网站...]]></title>
-            <description><![CDATA[DevToys 是一个用于开发者的工具集合，包括各种实用的小工具和辅助功能，旨在提高开发效率和简化开发过程。<br><br>GitHub：https://github.com/veler/DevToys<br><br>官方网站：https://devtoys.app/<br><br>该项目涵盖了多个工具和插件，涵盖了不同的开发领域，包括但不限于文本对比、编解码、图像压缩、格式化、转换器及生成器等。它的目标是为开发者提供一个集成了各种实用工具和插件的平台，帮助他们更高效地进行开发工作。<br><br>借助 DevToys 后无需再使用许多不可信的网站来处理您的数据执行简单的任务。<br><br>通过 智能检测，DevToys 可以检测用于复制到 Windows 剪贴板的数据的最佳工具。紧凑的覆盖让您可以保持应用程序较小并位于其他窗口之上。可以同时使用该应用程序的多个实例。<br><img src="https://cdnv2.ruguoapp.com/Fhd3vYqZ1WVDmju3SbpF99kpM65zv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FovdteAvX6-WKrmwyOqdGh1AoU3Vv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FgZfPr-ZvKv0WAaaNt4FfUh2YSkjv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fv9T0p3H18BtpO4EILu0iq8lJweRv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 11 Jan 2024 08:55:38 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/659fad0a164d89e601c927d6</guid>
-            <link>https://m.okjike.com/originalPosts/659fad0a164d89e601c927d6</link>
-            
-            
-            
-            <author><![CDATA[子鱼Ryan]]></author>
             
                 
             
