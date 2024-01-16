@@ -21,12 +21,12 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 16 Jan 2024 06:21:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jan 2024 10:21:14 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
             <title><![CDATA[我的 AI Wallpaper 项目开源了，这是一个流程完整的 AI 应用，可以用来生成高清壁纸。 https://aiwallpaper.shop 开源代码包括 nextjs 全栈开发 API 和 Web / da...]]></title>
-            <description><![CDATA[我的 AI Wallpaper 项目开源了，这是一个流程完整的 AI 应用，可以用来生成高清壁纸。<br><br>https://aiwallpaper.shop<br><br>开源代码包括 nextjs 全栈开发 API 和 Web / dalle-3 绘图对接 / aws s3图片上传 / postgres 数据读写 / 谷歌登录 / stripe 支付几部分内容。<br><br>非常适合参考学习，用来做一些小而美的 AI 应用。<br><br>欢迎 fork，感谢 star。😉<br><br>https://github.com/all-in-aigc/aiwallpaper<br><img src="https://cdnv2.ruguoapp.com/Frh3CzuKOroS6o8rrrryQWzz4LVMv3.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[我的 AI Wallpaper 项目开源了，这是一个流程完整的 AI 应用，可以用来生成高清壁纸。<br><br>https://aiwallpaper.shop<br><br>开源代码包括 nextjs 全栈开发 API 和 Web / dalle-3 绘图对接 / aws s3 图片上传 / postgres 数据读写 / 谷歌登录 / stripe 支付几部分内容。<br><br>非常适合参考学习，用来做一些小而美的 AI 应用。<br><br>欢迎 fork，感谢 star。😉<br><br>https://github.com/all-in-aigc/aiwallpaper<br><img src="https://cdnv2.ruguoapp.com/Frh3CzuKOroS6o8rrrryQWzz4LVMv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FiS_4dCmF08eDPwbUFY_8WODuIXpv3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Tue, 16 Jan 2024 05:30:12 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/65a6146438849f879f2f5a4b</guid>
             <link>https://m.okjike.com/originalPosts/65a6146438849f879f2f5a4b</link>
