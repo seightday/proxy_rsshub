@@ -21,8 +21,40 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 16 Jan 2024 02:20:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jan 2024 06:21:02 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[我的 AI Wallpaper 项目开源了，这是一个流程完整的 AI 应用，可以用来生成高清壁纸。 https://aiwallpaper.shop 开源代码包括 nextjs 全栈开发 API 和 Web / da...]]></title>
+            <description><![CDATA[我的 AI Wallpaper 项目开源了，这是一个流程完整的 AI 应用，可以用来生成高清壁纸。<br><br>https://aiwallpaper.shop<br><br>开源代码包括 nextjs 全栈开发 API 和 Web / dalle-3 绘图对接 / aws s3图片上传 / postgres 数据读写 / 谷歌登录 / stripe 支付几部分内容。<br><br>非常适合参考学习，用来做一些小而美的 AI 应用。<br><br>欢迎 fork，感谢 star。😉<br><br>https://github.com/all-in-aigc/aiwallpaper<br><img src="https://cdnv2.ruguoapp.com/Frh3CzuKOroS6o8rrrryQWzz4LVMv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 16 Jan 2024 05:30:12 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65a6146438849f879f2f5a4b</guid>
+            <link>https://m.okjike.com/originalPosts/65a6146438849f879f2f5a4b</link>
+            
+            
+            
+            <author><![CDATA[艾逗笔]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[推荐一个SEO友好的前端模板，有收费版本，但是免费版足够用了。 为什么说SEO友好呢，哥飞的朋友们这周在做某个词的SEO比赛。看在谷歌搜索这个词，谁的网站能排到...]]></title>
+            <description><![CDATA[推荐一个SEO友好的前端模板，有收费版本，但是免费版足够用了。<br>为什么说SEO友好呢，哥飞的朋友们这周在做某个词的SEO比赛。看在谷歌搜索这个词，谁的网站能排到更前面。目前排名最靠前的那个网站用的就是这个模板。<br>模板地址 https://vercel.com/templates/astro/astroship<br>点进去之后，可以一键部署到 Vercel 。<br><img src="https://cdnv2.ruguoapp.com/Fie4XCuAv-YWWu2xcTGhdXcyXpFMv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FkhcrE5ypCZICW8Uig-5gls5-5VMv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 16 Jan 2024 01:58:36 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65a5e2ccde5f287348595556</guid>
+            <link>https://m.okjike.com/originalPosts/65a5e2ccde5f287348595556</link>
+            
+            
+            
+            <author><![CDATA[哥飞]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[当下到底有哪些AI副业可以让我们日进斗金？ 今天在逛GitHub项目时偶然发现了一款AI信息聚合项目AiMonneyHunter，作者在2023年12月底开源上线，至今不过半个月就...]]></title>
@@ -82,38 +114,6 @@
             
             
             <author><![CDATA[北省闰土]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[五年web前端开发有没有大佬捞一手，求个非外包的正常岗位 base 合肥/青岛/上海/广州/深圳 都可 技能/亮点 1、⾃⼰从 0-1 实现的 vue3-vant4-mobile Github 开源...]]></title>
-            <description><![CDATA[五年web前端开发有没有大佬捞一手，求个非外包的正常岗位 base 合肥/青岛/上海/广州/深圳<br>都可<br><br>技能/亮点 <br>1、⾃⼰从 0-1 实现的 vue3-vant4-mobile Github 开源的项⽬，有 260+ star <br>2、熟练掌握 Vue3 + TS + Vite + Pinia+ Tailwind CSS ，有多年实际项⽬经验，<br>3、参与过社区开源贡献，并提交过相应 PR <br>4、有项目重构、Webpack / Vite 优化经验、组件二次封装经验（ BasicForm ）并产出规范化开发文档（风格指南） <br>5、有Nginx 、Https 证书管理、域名、CDN 网站部署经验 <br>6、熟练掌握 Js 、Vue2 、Vue3 、Vite 、TypeScript 、Es6 等 Web 技术栈 <br>7、熟练掌握 Element Plus 、AntdV 、Vant 、Naive UI 、Echarts 、DataV 等 UI 框架 熟练使用 Less 、Sass 、Tailwind CSS 、UnoCss 、WindiCss 预处理工具 <br>8、熟练使用 Openlayers 、高德、百度等地图 Api 框架 <br>9、熟悉 Java 、C#、Blazor 后端语言，有实际编写经验<br><br>在线简历：aHR0cHM6Ly9yZXN1bWUueGlhbmdzaHUyMzMuY24v wx:eXVtZV9zaHU=]]></description>
-            <pubDate>Sun, 14 Jan 2024 09:39:43 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65a3abdfc7c69d5a9f7af901</guid>
-            <link>https://m.okjike.com/originalPosts/65a3abdfc7c69d5a9f7af901</link>
-            
-            
-            
-            <author><![CDATA[其名理想乡]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[😮‍💨😮‍💨😮‍💨又要给服务器扩容了。（暗示一波）]]></title>
-            <description><![CDATA[😮‍💨😮‍💨😮‍💨又要给服务器扩容了。（暗示一波）<br><img src="https://cdnv2.ruguoapp.com/FgMTehblkNep9ztRLionjzeoWvN1v3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 12 Jan 2024 10:35:18 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65a115e612ed2fda683e0ed6</guid>
-            <link>https://m.okjike.com/originalPosts/65a115e612ed2fda683e0ed6</link>
-            
-            
-            
-            <author><![CDATA[黄即精神股东2.0]]></author>
             
                 
             
