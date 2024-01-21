@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sun, 21 Jan 2024 06:49:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Jan 2024 08:50:08 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[#开源推荐 BewlyBewly 是一个对你的 Bilibili 首页进行美化的脚本插件，帮你去掉了很多首页的干扰信息，而且还挺好看的。 除了浏览器插件，好像还有油猴脚本。推...]]></title>
+            <description><![CDATA[#开源推荐 BewlyBewly 是一个对你的 Bilibili 首页进行美化的脚本插件，帮你去掉了很多首页的干扰信息，而且还挺好看的。<br><br>除了浏览器插件，好像还有油猴脚本。推荐给使用 Bilibili 的同学。<br><br>Chrome: https://chrome.google.com/webstore/detail/bewlybewly/bbbiejemhfihiooipfcjmjmbfdmobobp/related?hl=cn<br>Edge: https://microsoftedge.microsoft.com/addons/detail/bewlybewly/kceadhehfjdiakpiphpjgolbgehjdmja<br><img src="https://cdnv2.ruguoapp.com/lkdxGcpIgxrkdIOy55ZPU9JTUv83v3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sat, 20 Jan 2024 03:56:42 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65ab447ac7c69d5a9f0ec1aa</guid>
+            <link>https://m.okjike.com/originalPosts/65ab447ac7c69d5a9f0ec1aa</link>
+            
+            
+            
+            <author><![CDATA[thewei]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[啊这。。。]]></title>
@@ -82,22 +98,6 @@
             
             
             <author><![CDATA[张小吉]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[对茅台感兴趣的，可以试试，github 开源项目，i 茅台自动预约，解放双手。]]></title>
-            <description><![CDATA[<img src="https://mmbiz.qpic.cn/mmbiz_jpg/OQSOpJdPAR8lRrcCvgYzQ3sEGA0ASTrezlm2bOZ3l6PcLmzfnVyncKF3YedRxxibiacANInFfMP1kLroNu53rKLQ/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>                    <a href="https://mp.weixin.qq.com/s/Y_5g5SzFgrgc_W00_zyfjw">i茅台app自动预约 一键申购（windows版）</a><br>                <br>对茅台感兴趣的，可以试试，github 开源项目，i 茅台自动预约，解放双手。]]></description>
-            <pubDate>Wed, 17 Jan 2024 05:01:13 GMT</pubDate>
-            <guid isPermaLink="false">https://mp.weixin.qq.com/s/Y_5g5SzFgrgc_W00_zyfjw</guid>
-            <link>https://mp.weixin.qq.com/s/Y_5g5SzFgrgc_W00_zyfjw</link>
-            
-            
-            
-            <author><![CDATA[北省闰土]]></author>
             
                 
             
