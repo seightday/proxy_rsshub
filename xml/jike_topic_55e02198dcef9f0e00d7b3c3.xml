@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 30 Jan 2024 06:36:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jan 2024 10:40:45 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -34,6 +34,22 @@
             
             
             <author><![CDATA[哥飞]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[亲爱的 为什么 代码写出来又是黑屏]]></title>
+            <description><![CDATA[亲爱的 为什么<br>代码写出来又是黑屏<br><img src="https://cdnv2.ruguoapp.com/FvmQ4JZuufJtuXGVFWe-PAGlpldjv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 29 Jan 2024 16:42:28 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65b7d5746d9f190631e1b322</guid>
+            <link>https://m.okjike.com/originalPosts/65b7d5746d9f190631e1b322</link>
+            
+            
+            
+            <author><![CDATA[Nepomucky]]></author>
             
                 
             
@@ -121,6 +137,22 @@
         </item>
         
         <item>
+            <title><![CDATA[老师：我教你HTML、CSS3、JavaScript，各种流行框架，以后做个优秀前端。 你：不学，不学。 老师：我教你Java，C#，各种数据库和底层协议，以后做个后端大拿。 ...]]></title>
+            <description><![CDATA[老师：我教你HTML、CSS3、JavaScript，各种流行框架，以后做个优秀前端。<br><br>你：不学，不学。<br><br>老师：我教你Java，C#，各种数据库和底层协议，以后做个后端大拿。 <br><br>你：不学，不学。<br><br>老师：我教你Python，C++，神经网路，机器学习，数据分析和统计，以后做个AI专家。<br><br>你：不学，不学。<br><br>老师怒砸键盘，转身而去。<br><br>半夜，老师把你叫到办公室，小声说：我教你黑客技术、木马投放，病毒设计、解密秘诀，外带赠送各大银行的安全漏洞，保你一毕业就能黑进中央银行。<br><br>你：对对对，我就想学这个。老师，我以后发了大财怎么谢你？<br><br>老师：谢啥呀，你以后出了事，别把我供出来就行。]]></description>
+            <pubDate>Sat, 27 Jan 2024 13:20:08 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65b5030838849f879f4e3a78</guid>
+            <link>https://m.okjike.com/originalPosts/65b5030838849f879f4e3a78</link>
+            
+            
+            
+            <author><![CDATA[机智的程序员小熊]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[一款覆盖了全球范围内的远程工作招聘信息！ 刷到了一个招聘咖啡馆项目站点，是作者通过各种资源并利用GPT API采集了全球1.4万家远程招聘公司的4万多个远程工作职...]]></title>
             <description><![CDATA[一款覆盖了全球范围内的远程工作招聘信息！<br><br>刷到了一个招聘咖啡馆项目站点，是作者通过各种资源并利用GPT API采集了全球1.4万家远程招聘公司的4万多个远程工作职位。<br><br>岗位包括了金融科技、健康医疗、媒体娱乐、人工智能、网络安全、教育等职位。<br><br>并且可以通过国家、职位类型及工作属性等信息进行职位筛选，查找符合自己条件精准定位的岗位<br><br>地址：https://hiring.cafe/]]></description>
             <pubDate>Sat, 27 Jan 2024 08:14:21 GMT</pubDate>
@@ -130,38 +162,6 @@
             
             
             <author><![CDATA[子鱼Ryan]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[神奇的软件：用 ASCII 码来画电路图，适合放在代码的注释段里。 https://github.com/Blokkendoos/AACircuit]]></title>
-            <description><![CDATA[神奇的软件：用 ASCII 码来画电路图，适合放在代码的注释段里。<br><br>https://github.com/Blokkendoos/AACircuit<br><img src="https://cdnv2.ruguoapp.com/Fjt2NgXPxQjA30J_s1HHorFMmSNTv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 26 Jan 2024 03:11:04 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65b322c8a922aa28d0168482</guid>
-            <link>https://m.okjike.com/originalPosts/65b322c8a922aa28d0168482</link>
-            
-            
-            
-            <author><![CDATA[Nozomi]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[以下是一些免费的网站，可以帮助你将 GitHub 代码部署成网站： 1. Netlify（https://www.netlify.com/）：Netlify 支持自动从 GitHub 仓库拉取代码，并提供免费...]]></title>
-            <description><![CDATA[以下是一些免费的网站，可以帮助你将 GitHub 代码部署成网站：<br><br>1. Netlify（https://www.netlify.com/）：Netlify 支持自动从 GitHub 仓库拉取代码，并提供免费的持续集成和部署服务。<br>2. Vercel（https://vercel.com/）：Vercel 也能够自动从 GitHub 获取代码，并提供免费的静态网站托管服务。<br>3. GitHub Pages（https://pages.github.com/）：GitHub Pages 是 GitHub 提供的免费网站托管服务，可以直接将代码部署为静态网站。<br>4. Heroku（https://www.heroku.com/）：Heroku 提供了免费的云应用托管服务，支持各种编程语言和框架。<br>5. Firebase（https://firebase.google.com/）：Firebase 提供了免费的网站托管服务，适用于静态网站和动态网站。<br><br>请注意，虽然这些网站免费提供服务，但可能存在一些限制，如流量限制、占用空间限制等。如果你需要更高级的功能或更大的资源，可能需要选择付费的服务。]]></description>
-            <pubDate>Wed, 24 Jan 2024 13:35:30 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65b1122238849f879f056044</guid>
-            <link>https://m.okjike.com/originalPosts/65b1122238849f879f056044</link>
-            
-            
-            
-            <author><![CDATA[开心一点嘛_自言自语]]></author>
             
                 
             
