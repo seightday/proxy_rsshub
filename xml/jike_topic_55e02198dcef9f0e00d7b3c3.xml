@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 30 Jan 2024 02:34:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jan 2024 06:36:44 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -41,15 +41,15 @@
         </item>
         
         <item>
-            <title><![CDATA[亲爱的 为什么 代码写出来又是黑屏]]></title>
-            <description><![CDATA[亲爱的 为什么<br>代码写出来又是黑屏<br><img src="https://cdnv2.ruguoapp.com/FvmQ4JZuufJtuXGVFWe-PAGlpldjv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 29 Jan 2024 16:42:28 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65b7d5746d9f190631e1b322</guid>
-            <link>https://m.okjike.com/originalPosts/65b7d5746d9f190631e1b322</link>
+            <title><![CDATA[不同领域的程序员会的技能不一样： 比如服务端可以完全不会光栅化算法，写玩法的客户端也可以不会物理穿透恢复算法。 而计算机底层知识是一样的，架构设计知识也...]]></title>
+            <description><![CDATA[不同领域的程序员会的技能不一样：<br>比如服务端可以完全不会光栅化算法，写玩法的客户端也可以不会物理穿透恢复算法。<br><br>而计算机底层知识是一样的，架构设计知识也是一样的。<br><br>程序员不可避免地要接触底层和架构，不如试着主动去接触，比如从发送网络消息/存档功能去接触二进制编码；从嵌套循环去接触层次缓存架构；从无锁并发去接触CPU芯片架构设计；从一句语句去接触C、汇编、指令集、门电路、晶体管......<br><br>不一定能学会或者学完，但何不在能力边界试探试探？要么就学困了睡个好觉，要么就学会了。]]></description>
+            <pubDate>Mon, 29 Jan 2024 16:10:18 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65b7cdea164d89e60190650e</guid>
+            <link>https://m.okjike.com/originalPosts/65b7cdea164d89e60190650e</link>
             
             
             
-            <author><![CDATA[Nepomucky]]></author>
+            <author><![CDATA[杰克有茶]]></author>
             
                 
             
@@ -66,6 +66,22 @@
             
             
             <author><![CDATA[哥飞]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[当分析某个网站的流量/Whois/SEO 等信息时，经常需要打开多个插件或多个网站，非常低效。 最近开发了 AITDK Extension ，可以一键快速查看网站流量/Whois/SEO 等...]]></title>
+            <description><![CDATA[当分析某个网站的流量/Whois/SEO 等信息时，经常需要打开多个插件或多个网站，非常低效。<br>最近开发了 AITDK Extension ，可以一键快速查看网站流量/Whois/SEO 等信息，欢迎大家试用。<br><br>插件地址：<br>https://chromewebstore.google.com/detail/aitdk/hhfkpjffbhledfpkhhcoidplcebgdgbk<br><img src="https://cdnv2.ruguoapp.com/FlEnUZdr2Ka8eS3z3HBZJ3FZx3NFv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 29 Jan 2024 05:24:14 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65b7367ea922aa28d05fbd18</guid>
+            <link>https://m.okjike.com/originalPosts/65b7367ea922aa28d05fbd18</link>
+            
+            
+            
+            <author><![CDATA[blank2023]]></author>
             
                 
             
@@ -98,22 +114,6 @@
             
             
             <author><![CDATA[高司翎]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[老师：我教你HTML、CSS3、JavaScript，各种流行框架，以后做个优秀前端。 你：不学，不学。 老师：我教你Java，C#，各种数据库和底层协议，以后做个后端大拿。 ...]]></title>
-            <description><![CDATA[老师：我教你HTML、CSS3、JavaScript，各种流行框架，以后做个优秀前端。<br><br>你：不学，不学。<br><br>老师：我教你Java，C#，各种数据库和底层协议，以后做个后端大拿。 <br><br>你：不学，不学。<br><br>老师：我教你Python，C++，神经网路，机器学习，数据分析和统计，以后做个AI专家。<br><br>你：不学，不学。<br><br>老师怒砸键盘，转身而去。<br><br>半夜，老师把你叫到办公室，小声说：我教你黑客技术、木马投放，病毒设计、解密秘诀，外带赠送各大银行的安全漏洞，保你一毕业就能黑进中央银行。<br><br>你：对对对，我就想学这个。老师，我以后发了大财怎么谢你？<br><br>老师：谢啥呀，你以后出了事，别把我供出来就行。]]></description>
-            <pubDate>Sat, 27 Jan 2024 13:20:08 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65b5030838849f879f4e3a78</guid>
-            <link>https://m.okjike.com/originalPosts/65b5030838849f879f4e3a78</link>
-            
-            
-            
-            <author><![CDATA[机智的程序员小熊]]></author>
             
                 
             
