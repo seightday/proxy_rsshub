@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 30 Jan 2024 23:14:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jan 2024 03:23:11 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -73,15 +73,31 @@
         </item>
         
         <item>
-            <title><![CDATA[不同领域的程序员会的技能不一样： 比如服务端可以完全不会光栅化算法，写玩法的客户端也可以不会物理穿透恢复算法。 而计算机底层知识是一样的，架构设计知识也...]]></title>
-            <description><![CDATA[不同领域的程序员会的技能不一样：<br>比如服务端可以完全不会光栅化算法，写玩法的客户端也可以不会物理穿透恢复算法。<br><br>而计算机底层知识是一样的，架构设计知识也是一样的。<br><br>程序员不可避免地要接触底层和架构，不如试着主动去接触，比如从发送网络消息/存档功能去接触二进制编码；从嵌套循环去接触层次缓存架构；从无锁并发去接触CPU芯片架构设计；从一句语句去接触C、汇编、指令集、门电路、晶体管......<br><br>不一定能学会或者学完，但何不在能力边界试探试探？要么就学困了睡个好觉，要么就学会了。]]></description>
-            <pubDate>Mon, 29 Jan 2024 16:10:18 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65b7cdea164d89e60190650e</guid>
-            <link>https://m.okjike.com/originalPosts/65b7cdea164d89e60190650e</link>
+            <title><![CDATA[套壳的真义就是套完上线了就不用管了，等着谷歌送流量进来，等着转化为付费即可。 这个站之前是为了演示怎么做SEO，怎么套壳而做的。 第一版花了两个小时，第二...]]></title>
+            <description><![CDATA[套壳的真义就是套完上线了就不用管了，等着谷歌送流量进来，等着转化为付费即可。<br>这个站之前是为了演示怎么做SEO，怎么套壳而做的。<br>第一版花了两个小时，第二版花了几个小时，第三版接入谷歌登录和支付花了一天左右，所以总开发时间两天不到吧。<br>然后放着就不管了，然后就有人付费了。<br><img src="https://cdnv2.ruguoapp.com/FpiRBVlIb1DzwN-NSDDmR9Us5iepv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 29 Jan 2024 10:46:09 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65b781f13b9c66cae42b91e5</guid>
+            <link>https://m.okjike.com/originalPosts/65b781f13b9c66cae42b91e5</link>
             
             
             
-            <author><![CDATA[杰克有茶]]></author>
+            <author><![CDATA[哥飞]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[对不起 我有罪]]></title>
+            <description><![CDATA[对不起 我有罪<br><img src="https://cdnv2.ruguoapp.com/FrjqDVonfrKNCQvbizU-cYyf7Ngov3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 29 Jan 2024 08:01:37 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65b75b613b9c66cae427e1f3</guid>
+            <link>https://m.okjike.com/originalPosts/65b75b613b9c66cae427e1f3</link>
+            
+            
+            
+            <author><![CDATA[酸萝卜不要吃]]></author>
             
                 
             
@@ -130,22 +146,6 @@
             
             
             <author><![CDATA[高司翎]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[老师：我教你HTML、CSS3、JavaScript，各种流行框架，以后做个优秀前端。 你：不学，不学。 老师：我教你Java，C#，各种数据库和底层协议，以后做个后端大拿。 ...]]></title>
-            <description><![CDATA[老师：我教你HTML、CSS3、JavaScript，各种流行框架，以后做个优秀前端。<br><br>你：不学，不学。<br><br>老师：我教你Java，C#，各种数据库和底层协议，以后做个后端大拿。 <br><br>你：不学，不学。<br><br>老师：我教你Python，C++，神经网路，机器学习，数据分析和统计，以后做个AI专家。<br><br>你：不学，不学。<br><br>老师怒砸键盘，转身而去。<br><br>半夜，老师把你叫到办公室，小声说：我教你黑客技术、木马投放，病毒设计、解密秘诀，外带赠送各大银行的安全漏洞，保你一毕业就能黑进中央银行。<br><br>你：对对对，我就想学这个。老师，我以后发了大财怎么谢你？<br><br>老师：谢啥呀，你以后出了事，别把我供出来就行。]]></description>
-            <pubDate>Sat, 27 Jan 2024 13:20:08 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65b5030838849f879f4e3a78</guid>
-            <link>https://m.okjike.com/originalPosts/65b5030838849f879f4e3a78</link>
-            
-            
-            
-            <author><![CDATA[机智的程序员小熊]]></author>
             
                 
             
