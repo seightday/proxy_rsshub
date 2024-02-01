@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 01 Feb 2024 06:17:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Feb 2024 10:24:18 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[信达雅]]></title>
+            <description><![CDATA[信达雅<br><img src="https://cdnv2.ruguoapp.com/FjP0s3FAZrxbSWrMuOIUVjFK6rwiv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 01 Feb 2024 02:21:17 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65bb001d6d9f1906311b957e</guid>
+            <link>https://m.okjike.com/originalPosts/65bb001d6d9f1906311b957e</link>
+            
+            
+            
+            <author><![CDATA[BigYe程普]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[一个专门收集开发者工具的清单网站，支持简单的模糊匹配搜索。 说实话，小吉是被它简洁设计吸引的 🤣 传送门 👉 https://finddev.tools/]]></title>
@@ -34,6 +50,22 @@
             
             
             <author><![CDATA[张小吉]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Git工作流程 1. 工作目录（Working Directory）：这是你本地的文件系统，包含了你的项目文件。 2. 暂存区（Staging Area）：这是一个临时存储区，用于准备提交的...]]></title>
+            <description><![CDATA[Git工作流程<br><br>1. 工作目录（Working Directory）：这是你本地的文件系统，包含了你的项目文件。<br><br>2. 暂存区（Staging Area）：这是一个临时存储区，用于准备提交的更改。<br><br>3. 本地仓库（Local Repo）：这是你的本地Git仓库，包含了项目的完整历史记录。<br><br>4. 远程仓库（Remote Repo）：这是托管在远程服务器上的仓库，通常用于团队协作。<br><br>5. 基本操作：<br>   - git add：将更改添加到暂存区。<br>   - git commit -m "message"：将暂存区的更改提交到本地仓库，并附上提交信息。<br>   - git push：将本地仓库的更改推送到远程仓库。<br><br>6. 其他操作：<br>   - git commit -a -m "message"：自动添加所有更改（包括新文件和已跟踪文件的更改），然后提交。<br>   - git merge：合并两个分支。<br>   - git fetch：从远程仓库获取最新的更改，但不合并到本地仓库。<br>   - git pull：获取远程仓库的更改并自动合并到本地仓库。<br>   - git diff HEAD：查看工作目录与最新提交之间的差异。<br>   - git diff --staged [<commit>]：查看暂存区与指定提交之间的差异。<br>   - git diff --cached [<commit>]：查看暂存区与工作目录之间的差异。<br>   - git diff <commit or="" branch="">：查看工作目录与指定提交或分支之间的差异。<img src="https://cdnv2.ruguoapp.com/lobQBjnM5jRpGGmCjc0CjbfPsYmmv3.gif" referrerpolicy="no-referrer"></commit></commit></commit>]]></description>
+            <pubDate>Wed, 31 Jan 2024 12:50:41 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65ba4221164d89e601bf1030</guid>
+            <link>https://m.okjike.com/originalPosts/65ba4221164d89e601bf1030</link>
+            
+            
+            
+            <author><![CDATA[学趣小才鸟-一起学习分享]]></author>
             
                 
             
@@ -89,22 +121,6 @@
         </item>
         
         <item>
-            <title><![CDATA[写了一篇文章复盘这个在星巴克写了一个小时的产品。☕️(◕‿◕)]]></title>
-            <description><![CDATA[<img src="https://mmbiz.qpic.cn/mmbiz_jpg/RwxY4xJSwr7cQrR3h223fiaCGC8JC6pAEwvzW9xmAbfvbEzObSpic3PoqkbMgYw8zRialglibUIKUbmBoV0yXUHmrg/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>                    <a href="https://mp.weixin.qq.com/s/4AIX8tGxRENukXf1srnRBA">我写了一个 AI 红包封面生成器</a><br>                <br>写了一篇文章复盘这个在星巴克写了一个小时的产品。☕️(◕‿◕)]]></description>
-            <pubDate>Tue, 30 Jan 2024 12:17:41 GMT</pubDate>
-            <guid isPermaLink="false">https://mp.weixin.qq.com/s/4AIX8tGxRENukXf1srnRBA</guid>
-            <link>https://mp.weixin.qq.com/s/4AIX8tGxRENukXf1srnRBA</link>
-            
-            
-            
-            <author><![CDATA[艾逗笔]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[有几个浏览器插件我每天都要用，@blank2023 做的这个插件 All in one ，用一个插件就可以完成这些工作，大大提高了我的效率。]]></title>
             <description><![CDATA[有几个浏览器插件我每天都要用，@blank2023 做的这个插件 All in one ，用一个插件就可以完成这些工作，大大提高了我的效率。<br><img src="https://cdnv2.ruguoapp.com/FsadePDCws7g0-G2GrnZc5d91g3Nv3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Tue, 30 Jan 2024 01:33:53 GMT</pubDate>
@@ -114,22 +130,6 @@
             
             
             <author><![CDATA[哥飞]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[分享个海外API路由网站➡️Inferkit AI inferkit.ai 基本所有openai模型都半价支持，内测期间有不少优惠。 有自己ai项目或者打算开发ai项目的可以看看，我自己测...]]></title>
-            <description><![CDATA[分享个海外API路由网站➡️Inferkit AI<br>inferkit.ai<br><br>基本所有openai模型都半价支持，内测期间有不少优惠。<br><br>有自己ai项目或者打算开发ai项目的可以看看，我自己测试过还不错。<br><img src="https://cdnv2.ruguoapp.com/FuQtMW7I4NXUu_g1gK818u7ZhXx2v3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 29 Jan 2024 11:36:58 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65b78ddade5f287348a9fde9</guid>
-            <link>https://m.okjike.com/originalPosts/65b78ddade5f287348a9fde9</link>
-            
-            
-            
-            <author><![CDATA[墨色mose]]></author>
             
                 
             
