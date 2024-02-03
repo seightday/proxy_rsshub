@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sat, 03 Feb 2024 14:31:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Feb 2024 18:33:37 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -105,6 +105,22 @@
         </item>
         
         <item>
+            <title><![CDATA[怎么更好地白嫖Gemini: 谷歌发布 Gemini 有一段时间了，Gemini Pro 免费1分钟能调用 60 次，个人使用已经非常舒服了。但是国内网络问题，很多人无法很方便地用上...]]></title>
+            <description><![CDATA[怎么更好地白嫖Gemini: <br>谷歌发布 Gemini 有一段时间了，Gemini Pro 免费1分钟能调用 60 次，个人使用已经非常舒服了。但是国内网络问题，很多人无法很方便地用上它<br><br>如果我们有 cloudflare 就好办了，我假设你已经有一个域名托管在 cf<br><br>1. 打开 https://dash.cloudflare.com 在左侧菜单点击Workers 和 Pages<br>2. 点击创建应用程序按钮，然后点击创建 Worker<br>3. 给你的worker起个名字，比如叫 gemini-pro-proxy，点击部署<br>4. 你会看到一个部署成功的页面, 然后点击 编辑代码按钮，修改为以下代码，并点击 保存并部署 按钮<br><br>```<br>export default {<br>  async fetch(request, env) {<br>    const url = new URL(request.url);<br>    url.host = 'generativelanguage.googleapis.com';<br>    return fetch(new Request(url, request))<br>  }<br>}<br>```<br>5. 最后在这个 worker 界面点击触发器，添加自定义域，把你的域名绑定上去，比如 gemini-pro-proxy.abc.com，点击添加就可以了。<br><br>Gemini Pro的api key获取地址：https://makersuite.google.com/app/apikey<br><img src="https://cdnv2.ruguoapp.com/FkRUy19g8kPlDJodPIltqRr9rmgQv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 02 Feb 2024 02:15:01 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65bc50253b9c66cae48576e7</guid>
+            <link>https://m.okjike.com/originalPosts/65bc50253b9c66cae48576e7</link>
+            
+            
+            
+            <author><![CDATA[理想盒子]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[信达雅]]></title>
             <description><![CDATA[信达雅<br><img src="https://cdnv2.ruguoapp.com/FjP0s3FAZrxbSWrMuOIUVjFK6rwiv3.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Thu, 01 Feb 2024 02:21:17 GMT</pubDate>
@@ -114,22 +130,6 @@
             
             
             <author><![CDATA[BigYe程普]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[一个专门收集开发者工具的清单网站，支持简单的模糊匹配搜索。 说实话，小吉是被它简洁设计吸引的 🤣 传送门 👉 https://finddev.tools/]]></title>
-            <description><![CDATA[一个专门收集开发者工具的清单网站，支持简单的模糊匹配搜索。<br><br>说实话，小吉是被它简洁设计吸引的 🤣<br><br>传送门 👉 https://finddev.tools/<br><img src="https://cdnv2.ruguoapp.com/FmvFiJj1l5sVh-aDeLaEAZ5vow8wv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FgyDylkCwyMGMTun1kdR6__FYOvOv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 31 Jan 2024 14:12:10 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65ba553ade5f287348df6a54</guid>
-            <link>https://m.okjike.com/originalPosts/65ba553ade5f287348df6a54</link>
-            
-            
-            
-            <author><![CDATA[张小吉]]></author>
             
                 
             
