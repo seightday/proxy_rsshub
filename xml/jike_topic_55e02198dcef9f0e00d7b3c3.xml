@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sat, 03 Feb 2024 00:02:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Feb 2024 04:12:41 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -42,7 +42,7 @@
         
         <item>
             <title><![CDATA[分享自己写的两个SEO Prompt，使用频率很高，发个帖子方便查找： 1. perplexity写markdown格式的blog perplexity的好处是作为一个搜索引擎，不会胡说八道，写的b...]]></title>
-            <description><![CDATA[分享自己写的两个SEO Prompt，使用频率很高，发个帖子方便查找：<br>1. perplexity写markdown格式的blog<br>perplexity的好处是作为一个搜索引擎，不会胡说八道，写的blog具有时效性，且可以给出参考链接。<br>我一般去https://trends.google.com/trends/ 搜索我的网站相关的关键词，在"相关查询"中直接把搜索量上升快的关键词作为blog的标题，用下面的Prompt生成：<br>I have a blog about [XXX], and I need you to write a post titled '[XXX]' Provide the content in Markdown format, and include the reference URL at the end of the blog post<br>2. i18n多语言翻译（gpt-3.5）<br>以下是我的i18n的json文件，给我翻译为语言 fr（查一下这在i18n中代表什么语言），告诉我这是什么语言(用中文告诉我)，并以json格式返回（不用返回原文）: <br> {   “hello”: “Hello World!” }]]></description>
+            <description><![CDATA[分享自己写的两个SEO Prompt，使用频率很高，发个帖子方便查找：<br>1. perplexity写markdown格式的blog<br>perplexity的好处是作为一个搜索引擎，不会胡说八道，写的blog具有时效性，且可以给出参考链接。<br>我一般去https://trends.google.com/trends/ 搜索我的网站相关的关键词，在"相关查询"中直接把搜索量上升快的关键词作为blog的标题，用下面的Prompt生成：<br>I have a blog about [XXX], and I need you to write a post titled '[XXX]' Provide the content in Markdown code block, and include the reference URL at the end of the blog post<br>2. i18n多语言翻译（gpt-3.5）<br>以下是我的i18n的json文件，给我翻译为语言 fr（查一下这在i18n中代表什么语言），告诉我这是什么语言(用中文告诉我)，并以json格式返回（不用返回原文）: <br> {   “hello”: “Hello World!” }]]></description>
             <pubDate>Fri, 02 Feb 2024 04:49:32 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/65bc745c38849f879fd78adf</guid>
             <link>https://m.okjike.com/originalPosts/65bc745c38849f879fd78adf</link>
@@ -121,22 +121,6 @@
         </item>
         
         <item>
-            <title><![CDATA[aicover 第一次上 GitHub Trending ，Mark 一下。😁]]></title>
-            <description><![CDATA[aicover 第一次上 GitHub Trending ，Mark 一下。😁<br><img src="https://cdnv2.ruguoapp.com/FrTCJAyY6bdhyHEK0xH867yVC_zJv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FmiGmPth-wIF3BZNSQYyOOiNh105v3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 31 Jan 2024 12:17:44 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65ba3a686d9f1906310f3950</guid>
-            <link>https://m.okjike.com/originalPosts/65ba3a686d9f1906310f3950</link>
-            
-            
-            
-            <author><![CDATA[艾逗笔]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[让谷歌 48 小时内收录你的站点 “使用此脚本可在 48 小时内将您的整个网站编入 Google 索引。没有技巧，没有黑客，只有一个简单的脚本和一个 Google API。 您可...]]></title>
             <description><![CDATA[<img src="https://cdnv2.ruguoapp.com/icons/link.png" referrerpolicy="no-referrer"><br>                    <a href="https://github.com/goenning/google-indexing-script">https://github.com/goenning/google-indexing-script</a><br>                <br>让谷歌 48 小时内收录你的站点<br><br>“使用此脚本可在 48 小时内将您的整个网站编入 Google 索引。没有技巧，没有黑客，只有一个简单的脚本和一个 Google API。<br><br>您可以在这篇博文中详细了解其背后的动机及其工作原理 https://seogets.com/blog/google-indexing-script”<br><br>仓库地址：https://github.com/goenning/google-indexing-script]]></description>
             <pubDate>Wed, 31 Jan 2024 11:59:57 GMT</pubDate>
@@ -178,6 +162,22 @@
             
             
             <author><![CDATA[高司翎]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[一款覆盖了全球范围内的远程工作招聘信息！ 刷到了一个招聘咖啡馆项目站点，是作者通过各种资源并利用GPT API采集了全球1.4万家远程招聘公司的4万多个远程工作职...]]></title>
+            <description><![CDATA[一款覆盖了全球范围内的远程工作招聘信息！<br><br>刷到了一个招聘咖啡馆项目站点，是作者通过各种资源并利用GPT API采集了全球1.4万家远程招聘公司的4万多个远程工作职位。<br><br>岗位包括了金融科技、健康医疗、媒体娱乐、人工智能、网络安全、教育等职位。<br><br>并且可以通过国家、职位类型及工作属性等信息进行职位筛选，查找符合自己条件精准定位的岗位<br><br>地址：https://hiring.cafe/]]></description>
+            <pubDate>Sat, 27 Jan 2024 08:14:21 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65b4bb5d6d9f190631a8ec60</guid>
+            <link>https://m.okjike.com/originalPosts/65b4bb5d6d9f190631a8ec60</link>
+            
+            
+            
+            <author><![CDATA[子鱼Ryan]]></author>
             
                 
             
