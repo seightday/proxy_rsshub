@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sun, 04 Feb 2024 07:06:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Feb 2024 11:24:54 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[分享一个可渲染极简风简历的仓库，你只需填写一个配置文件即可生成简历；它的布局不仅支持响应式，还考虑到打印场景，所以这是一个线上线下均适用的简历模板。 ...]]></title>
+            <description><![CDATA[分享一个可渲染极简风简历的仓库，你只需填写一个配置文件即可生成简历；它的布局不仅支持响应式，还考虑到打印场景，所以这是一个线上线下均适用的简历模板。<br>如果你正在做简历项目，可以参考这个项目的设计思路和模板。<br><br>仓库地址：https://github.com/BartoszJarocki/cv<br>技术栈：Next.js 14、React、Typescript、Shadcn/ui 和 TailwindCss<br><img src="https://cdnv2.ruguoapp.com/FpULeemy3U34XQspbyMVQpwpX7Jpv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sun, 04 Feb 2024 03:48:34 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65bf0912de5f287348390cec</guid>
+            <link>https://m.okjike.com/originalPosts/65bf0912de5f287348390cec</link>
+            
+            
+            
+            <author><![CDATA[BigYe程普]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[如果每个人都能尊重别人的劳动成果就好了]]></title>
@@ -34,22 +50,6 @@
             
             
             <author><![CDATA[机智的程序员小熊]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[https://github.com/ldqk/Masuit.Tools]]></title>
-            <description><![CDATA[https://github.com/ldqk/Masuit.Tools<br><img src="https://cdnv2.ruguoapp.com/FsHqW34otlc8zVOmPlJ6qBZKordzv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 03 Feb 2024 05:57:02 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65bdd5ae9185c305d1d7189c</guid>
-            <link>https://m.okjike.com/originalPosts/65bdd5ae9185c305d1d7189c</link>
-            
-            
-            
-            <author><![CDATA[杰克有茶]]></author>
             
                 
             
