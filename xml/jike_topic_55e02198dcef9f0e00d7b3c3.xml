@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 05 Feb 2024 00:13:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Feb 2024 02:17:59 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -105,6 +105,22 @@
         </item>
         
         <item>
+            <title><![CDATA[分享自己写的两个SEO Prompt，使用频率很高，发个帖子方便查找： 1. perplexity写markdown格式的blog perplexity的好处是作为一个搜索引擎，不会胡说八道，写的b...]]></title>
+            <description><![CDATA[分享自己写的两个SEO Prompt，使用频率很高，发个帖子方便查找：<br>1. perplexity写markdown格式的blog<br>perplexity的好处是作为一个搜索引擎，不会胡说八道，写的blog具有时效性，且可以给出参考链接。<br>我一般去https://trends.google.com/trends/ 搜索我的网站相关的关键词，在"相关查询"中直接把搜索量上升快的关键词作为blog的标题，用下面的Prompt生成：<br>I have a blog about [XXX], and I need you to write a post titled '[XXX]' Provide the content in Markdown code block, and include the reference URL at the end of the blog post<br>2. i18n多语言翻译（gpt-3.5）<br>以下是我的i18n的json文件，给我翻译为语言 fr（查一下这在i18n中代表什么语言），告诉我这是什么语言(用中文告诉我)，并以json格式返回（不用返回原文）: <br> {   “hello”: “Hello World!” }]]></description>
+            <pubDate>Fri, 02 Feb 2024 04:49:32 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65bc745c38849f879fd78adf</guid>
+            <link>https://m.okjike.com/originalPosts/65bc745c38849f879fd78adf</link>
+            
+            
+            
+            <author><![CDATA[安小竹]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[一个乌克兰用户联系了我，表示对Folder Hub的喜欢，但是出于战争原因觉得终身价格有些贵（当前是$7.99）。 于是我给了他一个免费的终身兑换码，我给Folder Hub只...]]></title>
             <description><![CDATA[一个乌克兰用户联系了我，表示对Folder Hub的喜欢，但是出于战争原因觉得终身价格有些贵（当前是$7.99）。<br><br>于是我给了他一个免费的终身兑换码，我给Folder Hub只送出过两个终身兑换码，一个是他一个是美国一个学生（他说需要攒一段钱来购买这个软件）恰逢圣诞节，我就直接送给了他，这个学生在App Store给了我一段非常长的好评。<br><br>和平真好！！！<br><img src="https://cdnv2.ruguoapp.com/Ftnm2QaQvZpw8kXhMQOBikNSyZUCv3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Fri, 02 Feb 2024 04:05:28 GMT</pubDate>
@@ -146,22 +162,6 @@
             
             
             <author><![CDATA[BigYe程普]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Git工作流程 1. 工作目录（Working Directory）：这是你本地的文件系统，包含了你的项目文件。 2. 暂存区（Staging Area）：这是一个临时存储区，用于准备提交的...]]></title>
-            <description><![CDATA[Git工作流程<br><br>1. 工作目录（Working Directory）：这是你本地的文件系统，包含了你的项目文件。<br><br>2. 暂存区（Staging Area）：这是一个临时存储区，用于准备提交的更改。<br><br>3. 本地仓库（Local Repo）：这是你的本地Git仓库，包含了项目的完整历史记录。<br><br>4. 远程仓库（Remote Repo）：这是托管在远程服务器上的仓库，通常用于团队协作。<br><br>5. 基本操作：<br>   - git add：将更改添加到暂存区。<br>   - git commit -m "message"：将暂存区的更改提交到本地仓库，并附上提交信息。<br>   - git push：将本地仓库的更改推送到远程仓库。<br><br>6. 其他操作：<br>   - git commit -a -m "message"：自动添加所有更改（包括新文件和已跟踪文件的更改），然后提交。<br>   - git merge：合并两个分支。<br>   - git fetch：从远程仓库获取最新的更改，但不合并到本地仓库。<br>   - git pull：获取远程仓库的更改并自动合并到本地仓库。<br>   - git diff HEAD：查看工作目录与最新提交之间的差异。<br>   - git diff --staged [<commit>]：查看暂存区与指定提交之间的差异。<br>   - git diff --cached [<commit>]：查看暂存区与工作目录之间的差异。<br>   - git diff <commit or="" branch="">：查看工作目录与指定提交或分支之间的差异。<img src="https://cdnv2.ruguoapp.com/lobQBjnM5jRpGGmCjc0CjbfPsYmmv3.gif" referrerpolicy="no-referrer"></commit></commit></commit>]]></description>
-            <pubDate>Wed, 31 Jan 2024 12:50:41 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65ba4221164d89e601bf1030</guid>
-            <link>https://m.okjike.com/originalPosts/65ba4221164d89e601bf1030</link>
-            
-            
-            
-            <author><![CDATA[学趣小才鸟-一起学习分享]]></author>
             
                 
             
