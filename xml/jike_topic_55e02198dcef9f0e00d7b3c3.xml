@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 05 Feb 2024 02:17:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Feb 2024 06:33:41 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -89,22 +89,6 @@
         </item>
         
         <item>
-            <title><![CDATA[几个月前，我跟领导提，电脑配置不太行，我一个开发用商务笔记本，有点难受。 领导表示理解，让我坚持一下，说明天就提申请。 (OA的流程，大家都清楚有多慢) 今...]]></title>
-            <description><![CDATA[几个月前，我跟领导提，电脑配置不太行，我一个开发用商务笔记本，有点难受。<br>领导表示理解，让我坚持一下，说明天就提申请。<br>(OA的流程，大家都清楚有多慢)<br>今天，我的新电脑到了，但还是笔记本，唯一不同的是，特喵的，这是个工作站类型的笔记本啊，至强w处理器+64G内存+2T固态+4K触摸屏，至少有个三四斤，我就是个臭Android，我不配啊！！！]]></description>
-            <pubDate>Fri, 02 Feb 2024 05:09:34 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65bc790e6d9f190631389b3d</guid>
-            <link>https://m.okjike.com/originalPosts/65bc790e6d9f190631389b3d</link>
-            
-            
-            
-            <author><![CDATA[哇哈哈大战爽歪歪]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[分享自己写的两个SEO Prompt，使用频率很高，发个帖子方便查找： 1. perplexity写markdown格式的blog perplexity的好处是作为一个搜索引擎，不会胡说八道，写的b...]]></title>
             <description><![CDATA[分享自己写的两个SEO Prompt，使用频率很高，发个帖子方便查找：<br>1. perplexity写markdown格式的blog<br>perplexity的好处是作为一个搜索引擎，不会胡说八道，写的blog具有时效性，且可以给出参考链接。<br>我一般去https://trends.google.com/trends/ 搜索我的网站相关的关键词，在"相关查询"中直接把搜索量上升快的关键词作为blog的标题，用下面的Prompt生成：<br>I have a blog about [XXX], and I need you to write a post titled '[XXX]' Provide the content in Markdown code block, and include the reference URL at the end of the blog post<br>2. i18n多语言翻译（gpt-3.5）<br>以下是我的i18n的json文件，给我翻译为语言 fr（查一下这在i18n中代表什么语言），告诉我这是什么语言(用中文告诉我)，并以json格式返回（不用返回原文）: <br> {   “hello”: “Hello World!” }]]></description>
             <pubDate>Fri, 02 Feb 2024 04:49:32 GMT</pubDate>
@@ -130,6 +114,22 @@
             
             
             <author><![CDATA[Lessimore]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[🎨 分享一下我第一个达到 1k+ star 的项目。是一个汇聚了多种笔触的创意画板，目前此画板支持多端，无论是移动端还是PC端，都能有较好的交互体验和效果展示，...]]></title>
+            <description><![CDATA[🎨 分享一下我第一个达到 1k+ star 的项目。是一个汇聚了多种笔触的创意画板，目前此画板支持多端，无论是移动端还是PC端，都能有较好的交互体验和效果展示，并且当前主流的画板功能此项目基本都有，我就不一一列出来了，期待你的探索，如果有好的 idea 或者Bug 欢迎轰炸我。<br><br>当然现在的 AI 这么火热。我也会在不久的将来尝试学习接入一些，敬请期待🧐。<br><br>Link: https://songlh.top/paint-board/<br>GitHub: https://github.com/LHRUN/paint-board<br><br>当然如果能点个 star 就是对我最大的支持 thanks。哈哈😘<br><img src="https://cdnv2.ruguoapp.com/FhefXWLRChnlKZlMlW_BFowLRMHMv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 02 Feb 2024 02:25:44 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65bc52a812ed2fda683dfb86</guid>
+            <link>https://m.okjike.com/originalPosts/65bc52a812ed2fda683dfb86</link>
+            
+            
+            
+            <author><![CDATA[leo_song]]></author>
             
                 
             
