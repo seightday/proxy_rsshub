@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 06 Feb 2024 00:35:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Feb 2024 02:35:08 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[在老家书桌的某个犄角旮旯，翻到了十多年前学微积分的笔记，没想到我以前这么爱写，证明题都快被写成了小说📒]]></title>
+            <description><![CDATA[在老家书桌的某个犄角旮旯，翻到了十多年前学微积分的笔记，没想到我以前这么爱写，证明题都快被写成了小说📒<br><img src="https://cdnv2.ruguoapp.com/FtICfY0hZdS_zrngqzp6Ft58BZPCv3.jpeg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FkaB7aRzN3b9_Cokhz2qsytQ2ANEv3.jpeg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fo8mQaQ2DGGMDCktAft2uv3mw4Lzv3.jpeg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 06 Feb 2024 01:44:10 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65c18eeade5f2873486a5b3e</guid>
+            <link>https://m.okjike.com/originalPosts/65c18eeade5f2873486a5b3e</link>
+            
+            
+            
+            <author><![CDATA[Barret李靖]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[我想到visionpro会有一个超级nb的应用场景！！ 程序员一定懂我！！ 就是，可以把项目中的文件排开，把方法变量类之间的调用关系，一键高亮，立体展现出来！！ 一...]]></title>
@@ -146,22 +162,6 @@
             
             
             <author><![CDATA[BigYe程普]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Git工作流程 1. 工作目录（Working Directory）：这是你本地的文件系统，包含了你的项目文件。 2. 暂存区（Staging Area）：这是一个临时存储区，用于准备提交的...]]></title>
-            <description><![CDATA[Git工作流程<br><br>1. 工作目录（Working Directory）：这是你本地的文件系统，包含了你的项目文件。<br><br>2. 暂存区（Staging Area）：这是一个临时存储区，用于准备提交的更改。<br><br>3. 本地仓库（Local Repo）：这是你的本地Git仓库，包含了项目的完整历史记录。<br><br>4. 远程仓库（Remote Repo）：这是托管在远程服务器上的仓库，通常用于团队协作。<br><br>5. 基本操作：<br>   - git add：将更改添加到暂存区。<br>   - git commit -m "message"：将暂存区的更改提交到本地仓库，并附上提交信息。<br>   - git push：将本地仓库的更改推送到远程仓库。<br><br>6. 其他操作：<br>   - git commit -a -m "message"：自动添加所有更改（包括新文件和已跟踪文件的更改），然后提交。<br>   - git merge：合并两个分支。<br>   - git fetch：从远程仓库获取最新的更改，但不合并到本地仓库。<br>   - git pull：获取远程仓库的更改并自动合并到本地仓库。<br>   - git diff HEAD：查看工作目录与最新提交之间的差异。<br>   - git diff --staged [<commit>]：查看暂存区与指定提交之间的差异。<br>   - git diff --cached [<commit>]：查看暂存区与工作目录之间的差异。<br>   - git diff <commit or="" branch="">：查看工作目录与指定提交或分支之间的差异。<img src="https://cdnv2.ruguoapp.com/lobQBjnM5jRpGGmCjc0CjbfPsYmmv3.gif" referrerpolicy="no-referrer"></commit></commit></commit>]]></description>
-            <pubDate>Wed, 31 Jan 2024 12:50:41 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65ba4221164d89e601bf1030</guid>
-            <link>https://m.okjike.com/originalPosts/65ba4221164d89e601bf1030</link>
-            
-            
-            
-            <author><![CDATA[学趣小才鸟-一起学习分享]]></author>
             
                 
             
