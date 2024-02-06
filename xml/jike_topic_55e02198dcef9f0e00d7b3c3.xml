@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 06 Feb 2024 02:35:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Feb 2024 06:40:07 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -169,15 +169,15 @@
         </item>
         
         <item>
-            <title><![CDATA[让谷歌 48 小时内收录你的站点 “使用此脚本可在 48 小时内将您的整个网站编入 Google 索引。没有技巧，没有黑客，只有一个简单的脚本和一个 Google API。 您可...]]></title>
-            <description><![CDATA[<img src="https://cdnv2.ruguoapp.com/icons/link.png" referrerpolicy="no-referrer"><br>                    <a href="https://github.com/goenning/google-indexing-script">https://github.com/goenning/google-indexing-script</a><br>                <br>让谷歌 48 小时内收录你的站点<br><br>“使用此脚本可在 48 小时内将您的整个网站编入 Google 索引。没有技巧，没有黑客，只有一个简单的脚本和一个 Google API。<br><br>您可以在这篇博文中详细了解其背后的动机及其工作原理 https://seogets.com/blog/google-indexing-script”<br><br>仓库地址：https://github.com/goenning/google-indexing-script]]></description>
-            <pubDate>Wed, 31 Jan 2024 11:59:57 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65ba363d6d9f1906310ee03d</guid>
-            <link>https://m.okjike.com/originalPosts/65ba363d6d9f1906310ee03d</link>
+            <title><![CDATA[Git工作流程 1. 工作目录（Working Directory）：这是你本地的文件系统，包含了你的项目文件。 2. 暂存区（Staging Area）：这是一个临时存储区，用于准备提交的...]]></title>
+            <description><![CDATA[Git工作流程<br><br>1. 工作目录（Working Directory）：这是你本地的文件系统，包含了你的项目文件。<br><br>2. 暂存区（Staging Area）：这是一个临时存储区，用于准备提交的更改。<br><br>3. 本地仓库（Local Repo）：这是你的本地Git仓库，包含了项目的完整历史记录。<br><br>4. 远程仓库（Remote Repo）：这是托管在远程服务器上的仓库，通常用于团队协作。<br><br>5. 基本操作：<br>   - git add：将更改添加到暂存区。<br>   - git commit -m "message"：将暂存区的更改提交到本地仓库，并附上提交信息。<br>   - git push：将本地仓库的更改推送到远程仓库。<br><br>6. 其他操作：<br>   - git commit -a -m "message"：自动添加所有更改（包括新文件和已跟踪文件的更改），然后提交。<br>   - git merge：合并两个分支。<br>   - git fetch：从远程仓库获取最新的更改，但不合并到本地仓库。<br>   - git pull：获取远程仓库的更改并自动合并到本地仓库。<br>   - git diff HEAD：查看工作目录与最新提交之间的差异。<br>   - git diff --staged [<commit>]：查看暂存区与指定提交之间的差异。<br>   - git diff --cached [<commit>]：查看暂存区与工作目录之间的差异。<br>   - git diff <commit or="" branch="">：查看工作目录与指定提交或分支之间的差异。<img src="https://cdnv2.ruguoapp.com/lobQBjnM5jRpGGmCjc0CjbfPsYmmv3.gif" referrerpolicy="no-referrer"></commit></commit></commit>]]></description>
+            <pubDate>Wed, 31 Jan 2024 12:50:41 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65ba4221164d89e601bf1030</guid>
+            <link>https://m.okjike.com/originalPosts/65ba4221164d89e601bf1030</link>
             
             
             
-            <author><![CDATA[杨兄]]></author>
+            <author><![CDATA[学趣小才鸟-一起学习分享]]></author>
             
                 
             
