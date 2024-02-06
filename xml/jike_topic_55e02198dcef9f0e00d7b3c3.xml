@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 05 Feb 2024 18:34:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Feb 2024 00:35:02 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[我想到visionpro会有一个超级nb的应用场景！！ 程序员一定懂我！！ 就是，可以把项目中的文件排开，把方法变量类之间的调用关系，一键高亮，立体展现出来！！ 一...]]></title>
+            <description><![CDATA[我想到visionpro会有一个超级nb的应用场景！！<br>程序员一定懂我！！<br>就是，可以把项目中的文件排开，把方法变量类之间的调用关系，一键高亮，立体展现出来！！<br>一定超级方便啊！！！<br><img src="https://cdnv2.ruguoapp.com/Fq7-09ru_uNcF6ig_wTvA22RaRdev3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FoPDsiLc9quGJCuvwvhJROZsQOX4v3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sun, 04 Feb 2024 14:20:13 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65bf9d1dde5f28734846fbe5</guid>
+            <link>https://m.okjike.com/originalPosts/65bf9d1dde5f28734846fbe5</link>
+            
+            
+            
+            <author><![CDATA[炫酷的ccc]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[分享一个可渲染极简风简历的仓库，你只需填写一个配置文件即可生成简历；它的布局不仅支持响应式，还考虑到打印场景，所以这是一个线上线下均适用的简历模板。 ...]]></title>
@@ -66,22 +82,6 @@
             
             
             <author><![CDATA[盖喝水]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[分享自己写的两个SEO Prompt，使用频率很高，发个帖子方便查找： 1. perplexity写markdown格式的blog perplexity的好处是作为一个搜索引擎，不会胡说八道，写的b...]]></title>
-            <description><![CDATA[分享自己写的两个SEO Prompt，使用频率很高，发个帖子方便查找：<br>1. perplexity写markdown格式的blog<br>perplexity的好处是作为一个搜索引擎，不会胡说八道，写的blog具有时效性，且可以给出参考链接。<br>我一般去https://trends.google.com/trends/ 搜索我的网站相关的关键词，在"相关查询"中直接把搜索量上升快的关键词作为blog的标题，用下面的Prompt生成：<br>I have a blog about [XXX], and I need you to write a post titled '[XXX]' Provide the content in Markdown code block, and include the reference URL at the end of the blog post<br>2. i18n多语言翻译（gpt-3.5）<br>以下是我的i18n的json文件，给我翻译为语言 fr（查一下这在i18n中代表什么语言），告诉我这是什么语言(用中文告诉我)，并以json格式返回（不用返回原文）: <br> {   “hello”: “Hello World!” }]]></description>
-            <pubDate>Fri, 02 Feb 2024 04:49:32 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65bc745c38849f879fd78adf</guid>
-            <link>https://m.okjike.com/originalPosts/65bc745c38849f879fd78adf</link>
-            
-            
-            
-            <author><![CDATA[安小竹]]></author>
             
                 
             
