@@ -21,12 +21,28 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 06 Feb 2024 19:26:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Feb 2024 23:31:43 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
+            <title><![CDATA[supabase的免费方案还是蛮香的，不限API请求，500M postgresql数据库+1G文件存储，非常适合启动新项目，搭配vercel使用，已经用起来]]></title>
+            <description><![CDATA[supabase的免费方案还是蛮香的，不限API请求，500M postgresql数据库+1G文件存储，非常适合启动新项目，搭配vercel使用，已经用起来<br><img src="https://cdnv2.ruguoapp.com/FmqEzbW5rWVQl7-aeNY_7WGK9Bssv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 06 Feb 2024 09:35:07 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65c1fd4b164d89e6015639d5</guid>
+            <link>https://m.okjike.com/originalPosts/65c1fd4b164d89e6015639d5</link>
+            
+            
+            
+            <author><![CDATA[rubinshao]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[整了个数据图形生成的小工具 https://chartcraftr.com，用户输入需要生成图形的数据，或者是直接提问想要知道的数据，会直接返回柱状图、饼图和折线图等类型的图...]]></title>
-            <description><![CDATA[整了个数据图形生成的小工具 https://chartcraftr.com，用户输入需要生成图形的数据，或者是直接提问想要知道的数据，会直接返回柱状图、饼图和折线图等类型的图片 。 <br>代码是用了哥飞推荐的开源代码整的@哥飞 <br><video src="https://videocdn.jellow.site/liiHfSAPw_fOoCf5ZLuvDwVKWgmk.mp4?sign=839379a8a5ac65e4889a7b39373e4edd&amp;t=65c28eea" controls=""></video>]]></description>
+            <description><![CDATA[整了个数据图形生成的小工具 https://chartcraftr.com，用户输入需要生成图形的数据，或者是直接提问想要知道的数据，会直接返回柱状图、饼图和折线图等类型的图片 。 <br>代码是用了哥飞推荐的开源代码整的@哥飞 <br><video src="https://videocdn.jellow.site/liiHfSAPw_fOoCf5ZLuvDwVKWgmk.mp4?sign=ab0d1d09762d933edd406e80e01a3fc9&amp;t=65c2c80c" controls=""></video>]]></description>
             <pubDate>Tue, 06 Feb 2024 07:38:58 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/65c1e21237f7165b2125daa6</guid>
             <link>https://m.okjike.com/originalPosts/65c1e21237f7165b2125daa6</link>
@@ -162,22 +178,6 @@
             
             
             <author><![CDATA[BigYe程普]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Git工作流程 1. 工作目录（Working Directory）：这是你本地的文件系统，包含了你的项目文件。 2. 暂存区（Staging Area）：这是一个临时存储区，用于准备提交的...]]></title>
-            <description><![CDATA[Git工作流程<br><br>1. 工作目录（Working Directory）：这是你本地的文件系统，包含了你的项目文件。<br><br>2. 暂存区（Staging Area）：这是一个临时存储区，用于准备提交的更改。<br><br>3. 本地仓库（Local Repo）：这是你的本地Git仓库，包含了项目的完整历史记录。<br><br>4. 远程仓库（Remote Repo）：这是托管在远程服务器上的仓库，通常用于团队协作。<br><br>5. 基本操作：<br>   - git add：将更改添加到暂存区。<br>   - git commit -m "message"：将暂存区的更改提交到本地仓库，并附上提交信息。<br>   - git push：将本地仓库的更改推送到远程仓库。<br><br>6. 其他操作：<br>   - git commit -a -m "message"：自动添加所有更改（包括新文件和已跟踪文件的更改），然后提交。<br>   - git merge：合并两个分支。<br>   - git fetch：从远程仓库获取最新的更改，但不合并到本地仓库。<br>   - git pull：获取远程仓库的更改并自动合并到本地仓库。<br>   - git diff HEAD：查看工作目录与最新提交之间的差异。<br>   - git diff --staged [<commit>]：查看暂存区与指定提交之间的差异。<br>   - git diff --cached [<commit>]：查看暂存区与工作目录之间的差异。<br>   - git diff <commit or="" branch="">：查看工作目录与指定提交或分支之间的差异。<img src="https://cdnv2.ruguoapp.com/lobQBjnM5jRpGGmCjc0CjbfPsYmmv3.gif" referrerpolicy="no-referrer"></commit></commit></commit>]]></description>
-            <pubDate>Wed, 31 Jan 2024 12:50:41 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65ba4221164d89e601bf1030</guid>
-            <link>https://m.okjike.com/originalPosts/65ba4221164d89e601bf1030</link>
-            
-            
-            
-            <author><![CDATA[学趣小才鸟-一起学习分享]]></author>
             
                 
             
