@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 06 Feb 2024 23:31:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Feb 2024 03:37:24 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -42,7 +42,7 @@
         
         <item>
             <title><![CDATA[整了个数据图形生成的小工具 https://chartcraftr.com，用户输入需要生成图形的数据，或者是直接提问想要知道的数据，会直接返回柱状图、饼图和折线图等类型的图...]]></title>
-            <description><![CDATA[整了个数据图形生成的小工具 https://chartcraftr.com，用户输入需要生成图形的数据，或者是直接提问想要知道的数据，会直接返回柱状图、饼图和折线图等类型的图片 。 <br>代码是用了哥飞推荐的开源代码整的@哥飞 <br><video src="https://videocdn.jellow.site/liiHfSAPw_fOoCf5ZLuvDwVKWgmk.mp4?sign=ab0d1d09762d933edd406e80e01a3fc9&amp;t=65c2c80c" controls=""></video>]]></description>
+            <description><![CDATA[整了个数据图形生成的小工具 https://chartcraftr.com，用户输入需要生成图形的数据，或者是直接提问想要知道的数据，会直接返回柱状图、饼图和折线图等类型的图片 。 <br>代码是用了哥飞推荐的开源代码整的@哥飞 <br><video src="https://videocdn.jellow.site/liiHfSAPw_fOoCf5ZLuvDwVKWgmk.mp4?sign=8d885016be01faa2746e84288bf3fadd&amp;t=65c300cc" controls=""></video>]]></description>
             <pubDate>Tue, 06 Feb 2024 07:38:58 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/65c1e21237f7165b2125daa6</guid>
             <link>https://m.okjike.com/originalPosts/65c1e21237f7165b2125daa6</link>
@@ -50,6 +50,22 @@
             
             
             <author><![CDATA[聆木]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[之前跟大家分享了怎么更好地白嫖Gemini Pro，比如使用 Cloudflare Worker 来达到在国内友好使用 Api。 今天再向大家分享最近发现的一个 Gemini Pro 客户端，可以...]]></title>
+            <description><![CDATA[之前跟大家分享了怎么更好地白嫖Gemini Pro，比如使用 Cloudflare Worker 来达到在国内友好使用 Api。 <br><br>今天再向大家分享最近发现的一个 Gemini Pro 客户端，可以使用自定义的 Gemini Pro Api 地址，界面跟 ChatGPT 几乎一模一样，可以说上手没有太大的难度。<br><br>特性：<br>- 操作逻辑同 ChatGPT<br>- 仿 ChatGPT 界面<br>- 支持多轮聊天对话<br>- 支持上传图片进行识别<br>- 逐字输出（ SSE ）回应<br>- 自定义 Gemini API 地址<br>- 对话内容保存至本地<br>- 聊天内容导出（ HTML 和 PDF ）<br><br>GitHub 仓库地址：https://github.com/bclswl0827/ChatGemini<br>体验地址（需要些技术）：https://ibcl.us/ChatGemini<br><br>---<br><br>怎么更好地白嫖Gemini Pro：<br>https://web.okjike.com/originalPost/65bc50253b9c66cae48576e7<br><img src="https://cdnv2.ruguoapp.com/FgzxITv4KoHLKJ6FmYfA5k-L_NmWv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 06 Feb 2024 04:08:16 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65c1b0b0a922aa28d02b7fe1</guid>
+            <link>https://m.okjike.com/originalPosts/65c1b0b0a922aa28d02b7fe1</link>
+            
+            
+            
+            <author><![CDATA[理想盒子]]></author>
             
                 
             
@@ -98,22 +114,6 @@
             
             
             <author><![CDATA[机智的程序员小熊]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[两个小时终于搞清楚为啥我自己搭的美国节点也不能访问ChatGPT的问题，原来不一样的节点，有的是支持gpt客户端请求，有的就不成。我这两个节点正好一个支持一个不...]]></title>
-            <description><![CDATA[两个小时终于搞清楚为啥我自己搭的美国节点也不能访问ChatGPT的问题，原来不一样的节点，有的是支持gpt客户端请求，有的就不成。我这两个节点正好一个支持一个不支持，这一通切换节点+切换脚本，半天才搞清楚，好在结果是好的...<br>推荐这篇https://blog.gujiakai.top/2023/10/chatgpt-android-error-disallowed-isp-solution，这位博主写明明白白👍<br><img src="https://cdnv2.ruguoapp.com/FrnMdYSo80ce8vtyIYH7VWD_R_4sv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 02 Feb 2024 19:15:40 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65bd3f5c3b9c66cae499d929</guid>
-            <link>https://m.okjike.com/originalPosts/65bd3f5c3b9c66cae499d929</link>
-            
-            
-            
-            <author><![CDATA[盖喝水]]></author>
             
                 
             
