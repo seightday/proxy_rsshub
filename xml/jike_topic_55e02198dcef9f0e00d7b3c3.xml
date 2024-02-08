@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 08 Feb 2024 06:36:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Feb 2024 10:38:44 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -41,6 +41,22 @@
         </item>
         
         <item>
+            <title><![CDATA[zed 编辑器真的有点儿东西。各位用 vscode 碰到性能问题的可以试试。 我现在维护的项目超过 180 万行代码，用 vscode 写贼卡，而且 language server 经常自己挂...]]></title>
+            <description><![CDATA[zed 编辑器真的有点儿东西。各位用 vscode 碰到性能问题的可以试试。<br>我现在维护的项目超过 180 万行代码，用 vscode 写贼卡，而且 language server 经常自己挂了。这两天偶然尝试了 zed 性能确实跟得上。]]></description>
+            <pubDate>Wed, 07 Feb 2024 15:28:23 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65c3a197de5f28734895dad2</guid>
+            <link>https://m.okjike.com/originalPosts/65c3a197de5f28734895dad2</link>
+            
+            
+            
+            <author><![CDATA[AnnatarHe]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[不太理解，211本+爱丁堡的硕，愿意为了进字节做审核岗。]]></title>
             <description><![CDATA[不太理解，211本+爱丁堡的硕，愿意为了进字节做审核岗。]]></description>
             <pubDate>Wed, 07 Feb 2024 04:32:34 GMT</pubDate>
@@ -50,22 +66,6 @@
             
             
             <author><![CDATA[花无缺0x]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[What the f... #独立开发的日常]]></title>
-            <description><![CDATA[What the f...<br>#独立开发的日常 <br><img src="https://cdnv2.ruguoapp.com/FktSd47k1DiPQLIcz_03onEaqz3Pv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 07 Feb 2024 02:01:35 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65c2e47f37f7165b2137ee9d</guid>
-            <link>https://m.okjike.com/originalPosts/65c2e47f37f7165b2137ee9d</link>
-            
-            
-            
-            <author><![CDATA[道哥vulgur]]></author>
             
                 
             
@@ -90,7 +90,7 @@
         
         <item>
             <title><![CDATA[整了个数据图形生成的小工具 https://chartcraftr.com，用户输入需要生成图形的数据，或者是直接提问想要知道的数据，会直接返回柱状图、饼图和折线图等类型的图...]]></title>
-            <description><![CDATA[整了个数据图形生成的小工具 https://chartcraftr.com，用户输入需要生成图形的数据，或者是直接提问想要知道的数据，会直接返回柱状图、饼图和折线图等类型的图片 。 <br>代码是用了哥飞推荐的开源代码整的@哥飞 <br><video src="https://videocdn.jellow.site/liiHfSAPw_fOoCf5ZLuvDwVKWgmk.mp4?sign=de52537716a8cb467b13fe24349f0295&amp;t=65c47d7e" controls=""></video>]]></description>
+            <description><![CDATA[整了个数据图形生成的小工具 https://chartcraftr.com，用户输入需要生成图形的数据，或者是直接提问想要知道的数据，会直接返回柱状图、饼图和折线图等类型的图片 。 <br>代码是用了哥飞推荐的开源代码整的@哥飞 <br><video src="https://videocdn.jellow.site/liiHfSAPw_fOoCf5ZLuvDwVKWgmk.mp4?sign=a172f9b5973f0fb645b6b82dc038a9a1&amp;t=65c4b443" controls=""></video>]]></description>
             <pubDate>Tue, 06 Feb 2024 07:38:58 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/65c1e21237f7165b2125daa6</guid>
             <link>https://m.okjike.com/originalPosts/65c1e21237f7165b2125daa6</link>
