@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 08 Feb 2024 10:38:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Feb 2024 15:10:05 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -34,22 +34,6 @@
             
             
             <author><![CDATA[哥飞]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[zed 编辑器真的有点儿东西。各位用 vscode 碰到性能问题的可以试试。 我现在维护的项目超过 180 万行代码，用 vscode 写贼卡，而且 language server 经常自己挂...]]></title>
-            <description><![CDATA[zed 编辑器真的有点儿东西。各位用 vscode 碰到性能问题的可以试试。<br>我现在维护的项目超过 180 万行代码，用 vscode 写贼卡，而且 language server 经常自己挂了。这两天偶然尝试了 zed 性能确实跟得上。]]></description>
-            <pubDate>Wed, 07 Feb 2024 15:28:23 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65c3a197de5f28734895dad2</guid>
-            <link>https://m.okjike.com/originalPosts/65c3a197de5f28734895dad2</link>
-            
-            
-            
-            <author><![CDATA[AnnatarHe]]></author>
             
                 
             
@@ -90,7 +74,7 @@
         
         <item>
             <title><![CDATA[整了个数据图形生成的小工具 https://chartcraftr.com，用户输入需要生成图形的数据，或者是直接提问想要知道的数据，会直接返回柱状图、饼图和折线图等类型的图...]]></title>
-            <description><![CDATA[整了个数据图形生成的小工具 https://chartcraftr.com，用户输入需要生成图形的数据，或者是直接提问想要知道的数据，会直接返回柱状图、饼图和折线图等类型的图片 。 <br>代码是用了哥飞推荐的开源代码整的@哥飞 <br><video src="https://videocdn.jellow.site/liiHfSAPw_fOoCf5ZLuvDwVKWgmk.mp4?sign=a172f9b5973f0fb645b6b82dc038a9a1&amp;t=65c4b443" controls=""></video>]]></description>
+            <description><![CDATA[整了个数据图形生成的小工具 https://chartcraftr.com，用户输入需要生成图形的数据，或者是直接提问想要知道的数据，会直接返回柱状图、饼图和折线图等类型的图片 。 <br>代码是用了哥飞推荐的开源代码整的@哥飞 <br><video src="https://videocdn.jellow.site/liiHfSAPw_fOoCf5ZLuvDwVKWgmk.mp4?sign=c7b2f389bc2a7b30528ce4530bf4ac17&amp;t=65c4f3a1" controls=""></video>]]></description>
             <pubDate>Tue, 06 Feb 2024 07:38:58 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/65c1e21237f7165b2125daa6</guid>
             <link>https://m.okjike.com/originalPosts/65c1e21237f7165b2125daa6</link>
@@ -146,6 +130,22 @@
             
             
             <author><![CDATA[BigYe程普]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[分享自己写的两个SEO Prompt，使用频率很高，发个帖子方便查找： 1. perplexity写markdown格式的blog perplexity的好处是作为一个搜索引擎，不会胡说八道，写的b...]]></title>
+            <description><![CDATA[分享自己写的两个SEO Prompt，使用频率很高，发个帖子方便查找：<br>1. perplexity写markdown格式的blog<br>perplexity的好处是作为一个搜索引擎，不会胡说八道，写的blog具有时效性，且可以给出参考链接。<br>我一般去https://trends.google.com/trends/ 搜索我的网站相关的关键词，在"相关查询"中直接把搜索量上升快的关键词作为blog的标题，用下面的Prompt生成：<br>I have a blog about [XXX], and I need you to write a post titled '[XXX]' Provide the content in Markdown code block, and include the reference URL at the end of the blog post<br>2. i18n多语言翻译（gpt-3.5）<br>以下是我的i18n的json文件，给我翻译为语言 fr（查一下这在i18n中代表什么语言），告诉我这是什么语言(用中文告诉我)，并以json格式返回（不用返回原文）: <br> {   “hello”: “Hello World!” }]]></description>
+            <pubDate>Fri, 02 Feb 2024 04:49:32 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65bc745c38849f879fd78adf</guid>
+            <link>https://m.okjike.com/originalPosts/65bc745c38849f879fd78adf</link>
+            
+            
+            
+            <author><![CDATA[安小竹]]></author>
             
                 
             
