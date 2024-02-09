@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Fri, 09 Feb 2024 03:32:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Feb 2024 07:52:38 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[写代码太酷啦！玩Alba：野生动物冒险 遇到bug ，头被卡在自己修建的楼梯里，动不了，普通玩家，阿喂！破游戏要重开了。 我哥：可以用程序员的方式解决。 拯救阿...]]></title>
+            <description><![CDATA[写代码太酷啦！玩Alba：野生动物冒险 遇到bug ，头被卡在自己修建的楼梯里，动不了，普通玩家，阿喂！破游戏要重开了。<br>我哥：可以用程序员的方式解决。<br>拯救阿尔芭成功！<br>又可以愉快的拯救自然保护区～救治小动物～愉快捡垃圾啦！<br><img src="https://cdnv2.ruguoapp.com/FiQFN5xMajixSUyPAlkawjUY6Qmfv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FobKrWUGGMHvTQvJ63R2WJQfmDPCv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FrTZxekuVg2__nDKIZJfwGxv5nYjv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 09 Feb 2024 05:34:29 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65c5b96537f7165b216d5cfb</guid>
+            <link>https://m.okjike.com/originalPosts/65c5b96537f7165b216d5cfb</link>
+            
+            
+            
+            <author><![CDATA[这样可还行]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[近期想做一个基于notion的文章分发工具，想问一下大家是否有相同的需求，或者给一些建议和意见。 适用人群： notion用户 有写作习惯 有多平台文章发布需求 功能...]]></title>
@@ -50,6 +66,22 @@
             
             
             <author><![CDATA[哥飞]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[原来真的有500行的函数]]></title>
+            <description><![CDATA[原来真的有500行的函数<br><img src="https://cdnv2.ruguoapp.com/FhMrRjtpzHpoR7UtOr5xX218M2iav3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 07 Feb 2024 20:05:35 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65c3e28fde5f28734899453d</guid>
+            <link>https://m.okjike.com/originalPosts/65c3e28fde5f28734899453d</link>
+            
+            
+            
+            <author><![CDATA[瓦灯]]></author>
             
                 
             
@@ -105,22 +137,6 @@
         </item>
         
         <item>
-            <title><![CDATA[在老家书桌的某个犄角旮旯，翻到了十多年前学微积分的笔记，没想到我以前这么爱写，证明题都快被写成了小说📒]]></title>
-            <description><![CDATA[在老家书桌的某个犄角旮旯，翻到了十多年前学微积分的笔记，没想到我以前这么爱写，证明题都快被写成了小说📒<br><img src="https://cdnv2.ruguoapp.com/FtICfY0hZdS_zrngqzp6Ft58BZPCv3.jpeg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FkaB7aRzN3b9_Cokhz2qsytQ2ANEv3.jpeg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fo8mQaQ2DGGMDCktAft2uv3mw4Lzv3.jpeg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 06 Feb 2024 01:44:10 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65c18eeade5f2873486a5b3e</guid>
-            <link>https://m.okjike.com/originalPosts/65c18eeade5f2873486a5b3e</link>
-            
-            
-            
-            <author><![CDATA[Barret李靖]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[分享一个可渲染极简风简历的仓库，你只需填写一个配置文件即可生成简历；它的布局不仅支持响应式，还考虑到打印场景，所以这是一个线上线下均适用的简历模板。 ...]]></title>
             <description><![CDATA[分享一个可渲染极简风简历的仓库，你只需填写一个配置文件即可生成简历；它的布局不仅支持响应式，还考虑到打印场景，所以这是一个线上线下均适用的简历模板。<br>如果你正在做简历项目，可以参考这个项目的设计思路和模板。<br><br>仓库地址：https://github.com/BartoszJarocki/cv<br>技术栈：Next.js 14、React、Typescript、Shadcn/ui 和 TailwindCss<br><img src="https://cdnv2.ruguoapp.com/FpULeemy3U34XQspbyMVQpwpX7Jpv3.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Sun, 04 Feb 2024 03:48:34 GMT</pubDate>
@@ -162,22 +178,6 @@
             
             
             <author><![CDATA[leo_song]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[怎么更好地白嫖Gemini: 谷歌发布 Gemini 有一段时间了，Gemini Pro 免费1分钟能调用 60 次，个人使用已经非常舒服了。但是国内网络问题，很多人无法很方便地用上...]]></title>
-            <description><![CDATA[怎么更好地白嫖Gemini: <br>谷歌发布 Gemini 有一段时间了，Gemini Pro 免费1分钟能调用 60 次，个人使用已经非常舒服了。但是国内网络问题，很多人无法很方便地用上它<br><br>如果我们有 cloudflare 就好办了，我假设你已经有一个域名托管在 cf<br><br>1. 打开 https://dash.cloudflare.com 在左侧菜单点击Workers 和 Pages<br>2. 点击创建应用程序按钮，然后点击创建 Worker<br>3. 给你的worker起个名字，比如叫 gemini-pro-proxy，点击部署<br>4. 你会看到一个部署成功的页面, 然后点击 编辑代码按钮，修改为以下代码，并点击 保存并部署 按钮<br><br>```<br>export default {<br>  async fetch(request, env) {<br>    const url = new URL(request.url);<br>    url.host = 'generativelanguage.googleapis.com';<br>    return fetch(new Request(url, request))<br>  }<br>}<br>```<br>5. 最后在这个 worker 界面点击触发器，添加自定义域，把你的域名绑定上去，比如 gemini-pro-proxy.abc.com，点击添加就可以了。<br><br>Gemini Pro的api key获取地址：https://makersuite.google.com/app/apikey<br><img src="https://cdnv2.ruguoapp.com/FkRUy19g8kPlDJodPIltqRr9rmgQv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 02 Feb 2024 02:15:01 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65bc50253b9c66cae48576e7</guid>
-            <link>https://m.okjike.com/originalPosts/65bc50253b9c66cae48576e7</link>
-            
-            
-            
-            <author><![CDATA[理想盒子]]></author>
             
                 
             
