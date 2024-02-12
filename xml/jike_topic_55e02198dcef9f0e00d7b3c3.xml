@@ -21,19 +21,19 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 12 Feb 2024 14:39:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Feb 2024 18:39:30 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
-            <title><![CDATA[在 UNIQLO 看到一件短袖，仔细读了一下发现是 golang，搜了一下在 GitHub 上还有对应的 repo https://github.com/GL-Kageyama/UNIQLO_Akamai_T-shirt_Code 。]]></title>
-            <description><![CDATA[在 UNIQLO 看到一件短袖，仔细读了一下发现是 golang，搜了一下在 GitHub 上还有对应的 repo https://github.com/GL-Kageyama/UNIQLO_Akamai_T-shirt_Code 。<br><img src="https://cdnv2.ruguoapp.com/FkmJy1N6CtlWkHMrZ28L5_7ZLdTkv3.heic" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sun, 11 Feb 2024 11:48:31 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65c8b40f3b9c66cae474461c</guid>
-            <link>https://m.okjike.com/originalPosts/65c8b40f3b9c66cae474461c</link>
+            <title><![CDATA[在写代码上让我最大弯路的还是来自于一个概念:写代码要亲自动手去写。这个概念本身是完全正确的，但因为我理解错误，就导致怎么做也做不下去。正确的理解是你当...]]></title>
+            <description><![CDATA[在写代码上让我最大弯路的还是来自于一个概念:写代码要亲自动手去写。这个概念本身是完全正确的，但因为我理解错误，就导致怎么做也做不下去。正确的理解是你当然要通过亲自写程序才能提升自己的水平，但是在具体写的过程一定是先思考再写，甚至要超过一半的时间都用来思考，英文中有一句俗语叫:think hard,code easy。有几条目前我总结的方法:<br>1.在你找到最终的编写方法的正确方法，愿意从头开始重新写。<br>2.所以之前的思考、想象、规划、编码、调试都是为了找到最终的编写方法。<br>3.在编码之前先思考一半的结构，比如整体架构。在编码的过程中，想明白另外一半结构。<br>4.另一半结构的一半可以在纸上先写好伪代码。<br>5.最后引用费曼的话:第一步写下问题是什么，第二步思考问题，第三步写下答案<br>总结下来就是先思考清楚问题是什么思考清楚架构，然后开始写代码，再写的过程中会让问题更清楚架构更清楚同时想清楚另一部分结构。最后当你发现了最终编写的正确方法，你要有全部删掉重写的信心和勇气。]]></description>
+            <pubDate>Mon, 12 Feb 2024 07:28:09 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65c9c8896d9f19063135f355</guid>
+            <link>https://m.okjike.com/originalPosts/65c9c8896d9f19063135f355</link>
             
             
             
-            <author><![CDATA[Tefnut]]></author>
+            <author><![CDATA[芃闳爱动手]]></author>
             
                 
             
@@ -41,15 +41,15 @@
         </item>
         
         <item>
-            <title><![CDATA[一个国外用户看到我开发的app问我愿不愿意给他们开发Mac软件，以合同工的形式🤔️。]]></title>
-            <description><![CDATA[一个国外用户看到我开发的app问我愿不愿意给他们开发Mac软件，以合同工的形式🤔️。]]></description>
-            <pubDate>Sun, 11 Feb 2024 04:38:33 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65c84f49a922aa28d0a70b04</guid>
-            <link>https://m.okjike.com/originalPosts/65c84f49a922aa28d0a70b04</link>
+            <title><![CDATA[细分领域的竞争压力比较小，更适合闷声发大财。 这个作者开发了几个细分领域的全栈开源作品，有细分领域资源的开发者可以参考，可能就能找到自己的副业突破口了...]]></title>
+            <description><![CDATA[细分领域的竞争压力比较小，更适合闷声发大财。<br>这个作者开发了几个细分领域的全栈开源作品，有细分领域资源的开发者可以参考，可能就能找到自己的副业突破口了👇<br><br>理发店预约系统：https://github.com/felipemotarocha/fullstackweek-barber<br>旅游服务：https://github.com/felipemotarocha/fullstackweek-trips<br>商店：https://github.com/felipemotarocha/fullstackweek-store<br><img src="https://cdnv2.ruguoapp.com/FjFZcRru3jUgc6MfG4rjpoV7yro_v3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FszwGFpa84v3sqOH0tIN_GI2iS7Nv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FspyIXkpeObLoap4W9Kj_wgqbnkDv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 12 Feb 2024 04:23:22 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65c99d3a38849f879fd1a83d</guid>
+            <link>https://m.okjike.com/originalPosts/65c99d3a38849f879fd1a83d</link>
             
             
             
-            <author><![CDATA[Lessimore]]></author>
+            <author><![CDATA[BigYe程普]]></author>
             
                 
             
