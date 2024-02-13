@@ -21,19 +21,19 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 13 Feb 2024 08:48:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Feb 2024 15:07:13 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
-            <title><![CDATA[Github 每日趋势 2024-02-13 1. /awslabs/llrt: LLRT是一个轻量级JavaScript运行时，旨在提供快速高效的无服务器应用程序，其可快速启动并减少成本，相比其他Jav...]]></title>
-            <description><![CDATA[Github 每日趋势 2024-02-13<br><br>1. /awslabs/llrt: LLRT是一个轻量级JavaScript运行时，旨在提供快速高效的无服务器应用程序，其可快速启动并减少成本，相比其他JavaScript运行时在AWS Lambda上可获得超过10倍的速度提升。<br>https://github.com/awslabs/llrt [⭐️ 5,082]<br><br>2. /apple/pkl: 一种具有丰富验证和工具的配置即代码语言。<br>https://github.com/apple/pkl [⭐️ 6,102]<br><br>3. /uclaml/SPIN: 这是一个关于自我对抗微调（SPIN）的项目，通过自我对抗机制，能够使语言模型（LLM）在不需要额外人工标注数据的情况下，显著提高性能，旨在将弱语言模型转化为强语言模型。<br>https://github.com/uclaml/SPIN [⭐️ 383]<br><br>4. /donnemartin/system-design-primer: 学习如何设计大规模系统。为系统设计面试做好准备。包括Anki记忆卡。<br>https://github.com/donnemartin/system-design-primer [⭐️ 246,178]<br><br>5. /bitcoin/bitcoin: 比特币核心是一个与比特币网络相连、下载和完全验证区块和交易的软件，具有钱包和图形用户界面，并采用MIT许可证发布。<br>https://github.com/bitcoin/bitcoin [⭐️ 73,919]<br><br>6. /AdguardTeam/AdGuardHome: 这是一个网络广告和跟踪屏蔽的免费开源 DNS 服务器软件，覆盖家中所有设备，无需客户端软件。<br>https://github.com/AdguardTeam/AdGuardHome [⭐️ 21,327]<br><br>7. /immich-app/immich: Immich 是一个高性能自托管的照片和视频备份解决方案，支持多种功能。<br>https://github.com/immich-app/immich [⭐️ 25,687]<br><br>8. /skiff-org/skiff-apps: Skiff 是一个重视隐私的端到端加密工作空间，包括邮件、日历、文档和云盘等功能，提供完全私密的使用体验，支持匿名支付升级账户。<br>https://github.com/skiff-org/skiff-apps [⭐️ 293]<br><br>9. /bepass-org/oblivion: Oblivion是一个安全的Android Warp客户端，提供优化的互联网访问体验，拥有自定义的WireGuard实现和简洁易用的界面。<br>https://github.com/bepass-org/oblivion [⭐️ 564]<br><br>10. /cyberus-technology/virtualbox-kvm: VirtualBox KVM 是一个使用 Linux KVM 作为底层 hypervisor 的虚拟化工具，可在现有 VirtualBox 配置中运行客户虚拟机，提供更多现代虚拟化功能，并无需  vboxdrv 。<br>https://github.com/cyberus-technology/virtualbox-kvm [⭐️ 708]<br><img src="https://cdnv2.ruguoapp.com/Fs-HG90hb8JRDCNifse4uNqqfbAPv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 13 Feb 2024 02:30:23 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65cad43f6d9f19063147f2c2</guid>
-            <link>https://m.okjike.com/originalPosts/65cad43f6d9f19063147f2c2</link>
+            <title><![CDATA[写了个 24 点计算器 🤪 https://github.com/zxch3n/twenty-four]]></title>
+            <description><![CDATA[写了个 24 点计算器 🤪<br><br>https://github.com/zxch3n/twenty-four<br><img src="https://cdnv2.ruguoapp.com/FjSbaNpeNbu5PWepNDVWspoKfgvnv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 13 Feb 2024 09:14:26 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65cb32f23b9c66cae4a0f2d4</guid>
+            <link>https://m.okjike.com/originalPosts/65cb32f23b9c66cae4a0f2d4</link>
             
             
             
-            <author><![CDATA[apvia.bot]]></author>
+            <author><![CDATA[zxch3n]]></author>
             
                 
             
