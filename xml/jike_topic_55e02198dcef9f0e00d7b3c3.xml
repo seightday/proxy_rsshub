@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 14 Feb 2024 03:32:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Feb 2024 07:38:40 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -57,6 +57,22 @@
         </item>
         
         <item>
+            <title><![CDATA[观感 * 书是一个在北美大厂的 staff engineer 写的，里面的很多建议只适用于作者写作的环境（北美软件行业技术岗） * 书中很多观点大家都听过，但是作者给出了一...]]></title>
+            <description><![CDATA[观感<br>* 书是一个在北美大厂的 staff engineer 写的，里面的很多建议只适用于作者写作的环境（北美软件行业技术岗）<br>* 书中很多观点大家都听过，但是作者给出了一些解释（为什么要或不要这么做）<br>* 有一些观点或者说法有些武断，作者一般给出了解释，或为了写作理解的简介，或为了打工人的身心健康<br>* 内容是好的，但真的很像技术文档 … 读起来很干<br><br>Takeaways<br>* 员工和公司永远都是雇佣关系。公司所做的一切都是跟生意相关，不要上升到个人<br>* 如果在工作上犯了技术性的错误，第一时间承认错误，越早越好，不要隐藏<br>* 不用太在意职称，钱和自己的能力比较重要 （例外：Senior Engineer 比较重要，是个门槛）<br>* hybrid 的办公状态下，及时回消息对于自己的 personal reputation 很重要，换位思考一下<br>* 如果要给同事反馈意见，尽量私聊，不要在公开会议上说<br>* 不要 overpromise，能做十分就说自己能做八分<br>* 跟 HR 聊薪酬，人事问题的时候，一定要把邮件在自己的 perosnal email 留备份！（血泪）<br>* 在发长邮件和写技术文档的时候，最好有 TLDR，真的没什么人读长邮件<br>* 不要在周五下午 deploy to production! <br>* …<br><img src="https://cdnv2.ruguoapp.com/FsxmI66kOhZBA9mkoF5nNEiStD3Nv3.heic" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FvEEYBYMAsc7nQlPBGpa0e3RuV1Hv3.heic" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 13 Feb 2024 01:56:54 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65cacc66a922aa28d0d35c8e</guid>
+            <link>https://m.okjike.com/originalPosts/65cacc66a922aa28d0d35c8e</link>
+            
+            
+            
+            <author><![CDATA[不好好干活]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[无题]]></title>
             <description><![CDATA[<img src="https://cdnv2.ruguoapp.com/FsDP_jzunf0sHighsrVsxRX-pjXcv3.gif" referrerpolicy="no-referrer">]]></description>
             <pubDate>Mon, 12 Feb 2024 22:54:29 GMT</pubDate>
@@ -82,22 +98,6 @@
             
             
             <author><![CDATA[芃闳爱动手]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[细分领域的竞争压力比较小，更适合闷声发大财。 这个作者开发了几个细分领域的全栈开源作品，有细分领域资源的开发者可以参考，可能就能找到自己的副业突破口了...]]></title>
-            <description><![CDATA[细分领域的竞争压力比较小，更适合闷声发大财。<br>这个作者开发了几个细分领域的全栈开源作品，有细分领域资源的开发者可以参考，可能就能找到自己的副业突破口了👇<br><br>理发店预约系统：https://github.com/felipemotarocha/fullstackweek-barber<br>旅游服务：https://github.com/felipemotarocha/fullstackweek-trips<br>商店：https://github.com/felipemotarocha/fullstackweek-store<br><img src="https://cdnv2.ruguoapp.com/FjFZcRru3jUgc6MfG4rjpoV7yro_v3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FszwGFpa84v3sqOH0tIN_GI2iS7Nv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FspyIXkpeObLoap4W9Kj_wgqbnkDv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 12 Feb 2024 04:23:22 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65c99d3a38849f879fd1a83d</guid>
-            <link>https://m.okjike.com/originalPosts/65c99d3a38849f879fd1a83d</link>
-            
-            
-            
-            <author><![CDATA[BigYe程普]]></author>
             
                 
             
