@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 14 Feb 2024 13:56:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Feb 2024 20:10:04 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[高性能短链平台永远都有市场，分享一个短链开源项目：https://github.com/dubinc/dub 项目特性： 1、数据分析：为链接提供强大的数据分析，包括地理位置、设备、...]]></title>
+            <description><![CDATA[高性能短链平台永远都有市场，分享一个短链开源项目：https://github.com/dubinc/dub<br><br>项目特性：<br>1、数据分析：为链接提供强大的数据分析，包括地理位置、设备、浏览器和推荐人信息。<br>2、支持自定义域名：提供免费和无限的自定义域名，让你的品牌链接被用户看到。<br>3、二维码：为每个短链接提供免费二维码。<br>4、团队协作：拥有团队协作功能。<br><br>技术栈：<br>Next.js – 前后端<br>Tailwind – CSS<br>Upstash – Redis<br>Tinybird – 分析<br>PlanetScale – 数据库<br>NextAuth.js – 身份校验<br>Turborepo – monorepo<br>Stripe – 支付<br>Resend – 邮件<br>Vercel – 托管<br><img src="https://cdnv2.ruguoapp.com/FukBS1zWr2bitSR8RCeMrBwbcJ2Ev3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 14 Feb 2024 11:16:33 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65cca1113b9c66cae4bbbef3</guid>
+            <link>https://m.okjike.com/originalPosts/65cca1113b9c66cae4bbbef3</link>
+            
+            
+            
+            <author><![CDATA[BigYe程普]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[稚辉君的嵌入式AI入坑经历 ▌ 想必稚辉君是大多数心目中的偶像吧，下面是他前几年的采访记录，我觉得放在当下仍然很有意义，趁着假期在家，大家可以再次回顾下。...]]></title>
@@ -50,22 +66,6 @@
             
             
             <author><![CDATA[Ryan.eth]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[写了个 24 点计算器 🤪 https://github.com/zxch3n/twenty-four]]></title>
-            <description><![CDATA[写了个 24 点计算器 🤪<br><br>https://github.com/zxch3n/twenty-four<br><img src="https://cdnv2.ruguoapp.com/FjSbaNpeNbu5PWepNDVWspoKfgvnv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 13 Feb 2024 09:14:26 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65cb32f23b9c66cae4a0f2d4</guid>
-            <link>https://m.okjike.com/originalPosts/65cb32f23b9c66cae4a0f2d4</link>
-            
-            
-            
-            <author><![CDATA[zxch3n]]></author>
             
                 
             
