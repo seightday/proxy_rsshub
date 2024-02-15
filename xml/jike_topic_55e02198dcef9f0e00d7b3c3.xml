@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 15 Feb 2024 02:34:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Feb 2024 06:39:29 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[SQL zero to hero]]></title>
+            <description><![CDATA[SQL zero to hero<br><img src="https://cdnv2.ruguoapp.com/FnoYImWxmNiXjuHZ4kFsLS5CQO7-v3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 14 Feb 2024 16:28:11 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65ccea1bde5f2873483f729c</guid>
+            <link>https://m.okjike.com/originalPosts/65ccea1bde5f2873483f729c</link>
+            
+            
+            
+            <author><![CDATA[学趣小才鸟-一起学习分享]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[高性能短链平台永远都有市场，分享一个短链开源项目：https://github.com/dubinc/dub 项目特性： 1、数据分析：为链接提供强大的数据分析，包括地理位置、设备、...]]></title>
@@ -73,6 +89,22 @@
         </item>
         
         <item>
+            <title><![CDATA[刚刚在纳闷一个页面怎么加载要三秒，然后看到下面这个代码]]></title>
+            <description><![CDATA[刚刚在纳闷一个页面怎么加载要三秒，然后看到下面这个代码<br><img src="https://cdnv2.ruguoapp.com/FqHW8X_MDVbue4iRw9YQvsKHaazYv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 13 Feb 2024 03:56:26 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65cae86a12ed2fda6853656e</guid>
+            <link>https://m.okjike.com/originalPosts/65cae86a12ed2fda6853656e</link>
+            
+            
+            
+            <author><![CDATA[黄健楸]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[观感 * 书是一个在北美大厂的 staff engineer 写的，里面的很多建议只适用于作者写作的环境（北美软件行业技术岗） * 书中很多观点大家都听过，但是作者给出了一...]]></title>
             <description><![CDATA[观感<br>* 书是一个在北美大厂的 staff engineer 写的，里面的很多建议只适用于作者写作的环境（北美软件行业技术岗）<br>* 书中很多观点大家都听过，但是作者给出了一些解释（为什么要或不要这么做）<br>* 有一些观点或者说法有些武断，作者一般给出了解释，或为了写作理解的简介，或为了打工人的身心健康<br>* 内容是好的，但真的很像技术文档 … 读起来很干<br><br>Takeaways<br>* 员工和公司永远都是雇佣关系。公司所做的一切都是跟生意相关，不要上升到个人<br>* 如果在工作上犯了技术性的错误，第一时间承认错误，越早越好，不要隐藏<br>* 不用太在意职称，钱和自己的能力比较重要 （例外：Senior Engineer 比较重要，是个门槛）<br>* hybrid 的办公状态下，及时回消息对于自己的 personal reputation 很重要，换位思考一下<br>* 如果要给同事反馈意见，尽量私聊，不要在公开会议上说<br>* 不要 overpromise，能做十分就说自己能做八分<br>* 跟 HR 聊薪酬，人事问题的时候，一定要把邮件在自己的 perosnal email 留备份！（血泪）<br>* 在发长邮件和写技术文档的时候，最好有 TLDR，真的没什么人读长邮件<br>* 不要在周五下午 deploy to production! <br>* …<br><img src="https://cdnv2.ruguoapp.com/FsxmI66kOhZBA9mkoF5nNEiStD3Nv3.heic" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FvEEYBYMAsc7nQlPBGpa0e3RuV1Hv3.heic" referrerpolicy="no-referrer">]]></description>
             <pubDate>Tue, 13 Feb 2024 01:56:54 GMT</pubDate>
@@ -114,38 +146,6 @@
             
             
             <author><![CDATA[芃闳爱动手]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[刚刚发布了《霞鹜文楷》全系列字体 v1.320 版本更新。在此次更新中，《霞鹜文楷 GB》已补全 CJK 统一表意文字基本区 20902 字和扩展 A 区 6592 字，在收字范围上...]]></title>
-            <description><![CDATA[刚刚发布了《霞鹜文楷》全系列字体 v1.320 版本更新。在此次更新中，《霞鹜文楷 GB》已补全 CJK 统一表意文字基本区 20902 字和扩展 A 区 6592 字，在收字范围上达到 GB 18030-2000 和 GB 18030-2022 实现级别 2。<br><br>玉兔辞岁，金龙迎春，祝大家「龙行龘龘，前程朤朤」！<br><br>原风格完整版：https://github.com/lxgw/LxgwWenKai/releases/tag/v1.320<br>原风格轻便版：https://github.com/lxgw/LXGWWenKai-Lite/releases/tag/v1.320<br>ＧＢ形完整版：https://github.com/lxgw/LxgwWenkaiGB/releases/tag/v1.320<br>ＧＢ形轻便版：https://github.com/lxgw/LxgwWenkaiGB-Lite/releases/tag/v1.320<br>传承旧字形版：https://github.com/lxgw/LxgwWenkaiTC/releases/tag/v1.320<br><img src="https://cdnv2.ruguoapp.com/FvLDY3jgpl8vAzi6lSF1B5y_6mwUv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 09 Feb 2024 16:18:17 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65c65049de5f287348c716dc</guid>
-            <link>https://m.okjike.com/originalPosts/65c65049de5f287348c716dc</link>
-            
-            
-            
-            <author><![CDATA[落霞孤鹜lxgw]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[冒泡排序，选择排序，插入排序，快速排序，堆排序，归并排序，希尔排序，桶排序，基数排序新年帮您排忧解难。 有向图，无向图，有环图，无环图，完全图，稠密图...]]></title>
-            <description><![CDATA[冒泡排序，选择排序，插入排序，快速排序，堆排序，归并排序，希尔排序，桶排序，基数排序新年帮您排忧解难。<br><br>有向图，无向图，有环图，无环图，完全图，稠密图，稀疏图，拓扑图祝您新年宏图大展。<br><br>最长路，最短路，单源路径，所有节点对路径祝您新年路路通畅。<br><br>二叉树，红黑树，van Emde Boas树，最小生成树祝您新年好运枝繁叶茂。<br><br>最大流，网络流，标准输入流，标准输出流，文件输入流，文件输出流祝您新年顺顺流流。<br><br>线性动规，区间动规，坐标动规，背包动规，树型动归为您的新年规划精彩。<br><br>散列表，哈希表，邻接表，双向链表，循环链表帮您在新年表达喜悦。<br><br>O(1), O(log n), O(n), O(nlog n), O(n^2), O(n^3), O(2^n), O(n!)祝您龙年渐进步步高。]]></description>
-            <pubDate>Fri, 09 Feb 2024 13:50:44 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65c62db4362466632422f6cc</guid>
-            <link>https://m.okjike.com/originalPosts/65c62db4362466632422f6cc</link>
-            
-            
-            
-            <author><![CDATA[阿法兔]]></author>
             
                 
             
