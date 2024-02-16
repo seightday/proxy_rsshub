@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Fri, 16 Feb 2024 14:10:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Feb 2024 18:22:32 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[GPT 出来挺久了，但也就最近几周我才开始高频用起来。先是帮我解决了一个音频对齐的算法问题，然后帮我入门了 python，接着帮我学会了折腾 docker 并部署了一个 ...]]></title>
+            <description><![CDATA[GPT 出来挺久了，但也就最近几周我才开始高频用起来。先是帮我解决了一个音频对齐的算法问题，然后帮我入门了 python，接着帮我学会了折腾 docker 并部署了一个 GPU worker，现在正在教我写 iOS……<br><br>虽然我不是零基础吧，但也就是非科班野路子会写点 js 而已，既然连我都能这么浪了，说明编程这个事情真的是没啥门槛了]]></description>
+            <pubDate>Fri, 16 Feb 2024 16:01:44 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65cf86e812ed2fda68ab5786</guid>
+            <link>https://m.okjike.com/originalPosts/65cf86e812ed2fda68ab5786</link>
+            
+            
+            
+            <author><![CDATA[Wz__]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[新年第一次写代码 感觉真好❤️]]></title>
@@ -98,22 +114,6 @@
             
             
             <author><![CDATA[BigYe程普]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[由于docker本身的特性、 如果非要解决去年的centos issue 要在里面chroot了 想想就很爽啊 如果不行再套个虚拟机chroot😵‍💫😵‍💫]]></title>
-            <description><![CDATA[由于docker本身的特性、<br><br>如果非要解决去年的centos issue<br><br>要在里面chroot了<br><br>想想就很爽啊<br><br>如果不行再套个虚拟机chroot😵‍💫😵‍💫]]></description>
-            <pubDate>Wed, 14 Feb 2024 10:03:42 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65cc8ffe3624666324968a8a</guid>
-            <link>https://m.okjike.com/originalPosts/65cc8ffe3624666324968a8a</link>
-            
-            
-            
-            <author><![CDATA[虾猫.佬]]></author>
             
                 
             
