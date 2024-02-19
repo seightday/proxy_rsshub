@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 19 Feb 2024 04:10:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Feb 2024 08:16:20 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -89,22 +89,6 @@
         </item>
         
         <item>
-            <title><![CDATA[#独立开发的日常 自己搞独立开发，经常遇到需要各种配套辅助，诸如服务器怎么搞、图标怎么搞、公司怎么注册等，把一些不错的独立配套内容收集起来。 也建了个独...]]></title>
-            <description><![CDATA[<img src="https://www.notion.so/images/meta/default.png" referrerpolicy="no-referrer"><br>                    <a href="https://spotless-pixie-87a.notion.site/688f0b4729ed474caba044b3323c590a">Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.</a><br>                <br>#独立开发的日常 自己搞独立开发，经常遇到需要各种配套辅助，诸如服务器怎么搞、图标怎么搞、公司怎么注册等，把一些不错的独立配套内容收集起来。<br><br>也建了个独立开发者的新手村的微信群，讨论各种独立开发相关的内容，搞钱事项，可以私聊我入群哦。]]></description>
-            <pubDate>Sun, 18 Feb 2024 03:39:05 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65d17bd938849f879f63c1ee</guid>
-            <link>https://m.okjike.com/originalPosts/65d17bd938849f879f63c1ee</link>
-            
-            
-            
-            <author><![CDATA[奇想派]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[自爆式发布]]></title>
             <description><![CDATA[自爆式发布<br><img src="https://cdnv2.ruguoapp.com/Fop8Q9LydYKg-OiER7rpSKcsHHSuv3.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Fri, 16 Feb 2024 16:01:51 GMT</pubDate>
@@ -130,6 +114,22 @@
             
             
             <author><![CDATA[Wz__]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[提供了一个开源的ChatGPT替代方案，名为Jan。该项目的特点和使用场景包括： - **开源性质**：Jan是一个100%开源的项目，旨在让人工智能成为公开资源[1]。 - **桌...]]></title>
+            <description><![CDATA[提供了一个开源的ChatGPT替代方案，名为Jan。该项目的特点和使用场景包括：<br><br>- **开源性质**：Jan是一个100%开源的项目，旨在让人工智能成为公开资源[1]。<br>- **桌面应用**：Jan可以在个人电脑上运行，提供可定制的人工智能助手、全局热键和内联人工智能等功能，可提高10倍的生产力[1]。<br>- **移动应用**：除了桌面版本，Jan还将推出移动应用，使用户可以随身携带人工智能助手，并与移动工作流程无缝集成[1]。<br>- **离线和本地优先**：Jan的对话、偏好设置和模型使用等数据都存储在用户的计算机上，具有安全、可导出和随时可删除的特点[1]。<br>- **OpenAI兼容**：Jan提供了一个类似于OpenAI的API服务器，可以作为兼容应用程序的即插即用替代方案[1]。<br><br>jan.ai项目网站的使用场景主要包括个人桌面应用和移动应用，特点在于开源性质、离线本地优先以及与OpenAI兼容。<br><br>Github：  “https://github.com/janhq/jan”<br>网址：  “https://jan.ai/”<img src="https://cdnv2.ruguoapp.com/lqxs9n2qsu_s_RTjCEPn3pUv_mJRv3.gif" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 16 Feb 2024 12:06:32 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65cf4fc8de5f2873486ad06c</guid>
+            <link>https://m.okjike.com/originalPosts/65cf4fc8de5f2873486ad06c</link>
+            
+            
+            
+            <author><![CDATA[文浩Marvin]]></author>
             
                 
             
