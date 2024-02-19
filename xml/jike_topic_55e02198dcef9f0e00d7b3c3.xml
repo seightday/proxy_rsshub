@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sun, 18 Feb 2024 22:10:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Feb 2024 04:10:54 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -50,6 +50,22 @@
             
             
             <author><![CDATA[是胖虎]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[i茅台自动预约，支持docker部署，这个有人用过吗？担心黑号😅]]></title>
+            <description><![CDATA[<img src="https://opengraph.githubassets.com/ad1e4b0a35abc45aa323e26f6c88229ef0da1231c99605ca05938fc5db360522/oddfar/campus-imaotai" referrerpolicy="no-referrer"><br>                    <a href="https://github.com/oddfar/campus-imaotai?tab=readme-ov-file">GitHub - oddfar/campus-imaotai: i茅台app自动预约，每日自动预约，支持docker一键部署</a><br>                <br>i茅台自动预约，支持docker部署，这个有人用过吗？担心黑号😅]]></description>
+            <pubDate>Sun, 18 Feb 2024 06:42:12 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65d1a6c43b9c66cae419e62e</guid>
+            <link>https://m.okjike.com/originalPosts/65d1a6c43b9c66cae419e62e</link>
+            
+            
+            
+            <author><![CDATA[不务正业小胡同学]]></author>
             
                 
             
@@ -130,22 +146,6 @@
             
             
             <author><![CDATA[子鱼Ryan]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[高性能短链平台永远都有市场，分享一个短链开源项目：https://github.com/dubinc/dub 项目特性： 1、数据分析：为链接提供强大的数据分析，包括地理位置、设备、...]]></title>
-            <description><![CDATA[高性能短链平台永远都有市场，分享一个短链开源项目：https://github.com/dubinc/dub<br><br>项目特性：<br>1、数据分析：为链接提供强大的数据分析，包括地理位置、设备、浏览器和推荐人信息。<br>2、支持自定义域名：提供免费和无限的自定义域名，让你的品牌链接被用户看到。<br>3、二维码：为每个短链接提供免费二维码。<br>4、团队协作：拥有团队协作功能。<br><br>技术栈：<br>Next.js – 前后端<br>Tailwind – CSS<br>Upstash – Redis<br>Tinybird – 分析<br>PlanetScale – 数据库<br>NextAuth.js – 身份校验<br>Turborepo – monorepo<br>Stripe – 支付<br>Resend – 邮件<br>Vercel – 托管<br><img src="https://cdnv2.ruguoapp.com/FukBS1zWr2bitSR8RCeMrBwbcJ2Ev3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 14 Feb 2024 11:16:33 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65cca1113b9c66cae4bbbef3</guid>
-            <link>https://m.okjike.com/originalPosts/65cca1113b9c66cae4bbbef3</link>
-            
-            
-            
-            <author><![CDATA[BigYe程普]]></author>
             
                 
             
