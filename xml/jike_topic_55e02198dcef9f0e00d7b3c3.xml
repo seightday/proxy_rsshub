@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Wed, 21 Feb 2024 11:11:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Feb 2024 15:29:56 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[开源一个 Sora AI 视频生成器模板👇 Sora AI Video Generator：https://sora.fm 这是一个 nextjs 全栈开发项目，生成视频的接口暂时 Mock，等 Sora API 发布后...]]></title>
+            <description><![CDATA[开源一个 Sora AI 视频生成器模板👇<br><br>Sora AI Video Generator：https://sora.fm<br><br>这是一个 nextjs 全栈开发项目，生成视频的接口暂时 Mock，等 Sora API 发布后可快速替换上线。<br><br>支持数据库读写，可以把全网收集到的 Sora 视频更新到 DB，先做一个 Sora Showcase 网站跑流量，趁着 Sora 的热度先上线。<br><br>开源地址：https://github.com/all-in-aigc/sorafm<br><br>欢迎 fork，感谢 star。🎉<br><img src="https://cdnv2.ruguoapp.com/FpNIAMQEwTxXgkL50VrWDErlVbSJv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 21 Feb 2024 12:03:23 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65d5e68b36246663244bdd63</guid>
+            <link>https://m.okjike.com/originalPosts/65d5e68b36246663244bdd63</link>
+            
+            
+            
+            <author><![CDATA[艾逗笔]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[今天探讨网页应该优先加载本地字体（local）还是线上资源（url）？ 按照惯例先看下苹果怎么处理， 苹果的local是个😊，是几个意思？]]></title>
@@ -98,22 +114,6 @@
             
             
             <author><![CDATA[哥飞]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[段子被我玩成真了😢]]></title>
-            <description><![CDATA[段子被我玩成真了😢<br><img src="https://cdnv2.ruguoapp.com/FnTbE1xCo8VNcezzDp8EH23yLsItv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 19 Feb 2024 06:31:39 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65d2f5cb37f7165b21646635</guid>
-            <link>https://m.okjike.com/originalPosts/65d2f5cb37f7165b21646635</link>
-            
-            
-            
-            <author><![CDATA[正态分布]]></author>
             
                 
             
