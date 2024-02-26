@@ -21,19 +21,35 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 26 Feb 2024 02:39:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Feb 2024 06:42:10 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
-            <title><![CDATA[浏览器里原生支持Ctrl+F提问，不用插件，Arc浏览器这个功能真的方便，目前还是免费的！]]></title>
-            <description><![CDATA[浏览器里原生支持Ctrl+F提问，不用插件，Arc浏览器这个功能真的方便，目前还是免费的！<br><img src="https://cdnv2.ruguoapp.com/Fgo02_ja6of-C3iTcx_qAcFgPKKlv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 24 Feb 2024 02:43:03 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65d957b73b9c66cae4b00caa</guid>
-            <link>https://m.okjike.com/originalPosts/65d957b73b9c66cae4b00caa</link>
+            <title><![CDATA[一个界面很清爽干净的开源中国诗词展示网站 开源： https://github.com/meetqy/aspoem 官网： https://aspoem.com/ 技术栈：prisma、nextjs、tailwindcss、shadc...]]></title>
+            <description><![CDATA[一个界面很清爽干净的开源中国诗词展示网站<br>开源： https://github.com/meetqy/aspoem<br>官网： https://aspoem.com/<br>技术栈：prisma、nextjs、tailwindcss、shadcn/ui、postgres + supabase、twikoo<br><img src="https://cdnv2.ruguoapp.com/FhK8JNq17QxLexcc6dsAQmWDCSP4v3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 26 Feb 2024 04:35:40 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65dc151cde5f28734860b2ec</guid>
+            <link>https://m.okjike.com/originalPosts/65dc151cde5f28734860b2ec</link>
             
             
             
-            <author><![CDATA[独立叶]]></author>
+            <author><![CDATA[哥飞]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[开年开工第一天，当机立断，跟同事说，年前没做完的活，先继续放着，我们开一个新项目，做一个 Sora 的 Web Playground ，并且还要开源出去。 现在第一周过去了...]]></title>
+            <description><![CDATA[开年开工第一天，当机立断，跟同事说，年前没做完的活，先继续放着，我们开一个新项目，做一个 Sora 的 Web Playground ，并且还要开源出去。<br>现在第一周过去了，我们的开源项目 https://github.com/SoraWebui/SoraWebui 已经有了1238个Star，最近连续三天都在 Github 的趋势排行榜上。<br>配套的官网也有一万多个人访问过了。<br>这就是小公司小团队的优势，可以快速做决定，快速试错。<br>事实上我们创建好项目的第一天，代码只提交了第一版，就已经有十几个 Star 了，都是通过 Github 搜索进来的，我当时就跟同事了，这事我们做对了，有正反馈了。<br>后来果然，全球都有人在分享我们的项目，Star 数量节节升。<br><img src="https://cdnv2.ruguoapp.com/FgXMxEHrrg7FSKaBk4Aa2ViJ8MX6v3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FoqQiywmXoXvzx1JNEunC6L1tLbRv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FtgKNJehy6togcTTLCb0rBQS_Guvv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 26 Feb 2024 03:30:35 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65dc05db38849f879f3058ac</guid>
+            <link>https://m.okjike.com/originalPosts/65dc05db38849f879f3058ac</link>
+            
+            
+            
+            <author><![CDATA[哥飞]]></author>
             
                 
             
@@ -98,22 +114,6 @@
             
             
             <author><![CDATA[也许拜了个拜]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[求助万能的即友们，25届后端选手，想要这段时间准备个后端项目用于找暑期实习，不知道大家有没有什么项目推荐？ 主要想要把消息队列、Redis、RPC框架之类的都实...]]></title>
-            <description><![CDATA[求助万能的即友们，25届后端选手，想要这段时间准备个后端项目用于找暑期实习，不知道大家有没有什么项目推荐？<br><br>主要想要把消息队列、Redis、RPC框架之类的都实践一遍，但现在很多项目都烂大街，希望能有些区分度，时间有限，目前有点迷茫，不知道如何选择，欢迎各位大佬给点参考，提提学习建议👀<br><br>然后补充一些个人信息（其实对方向也有些困惑，可能写得有些乱，还请见谅）。<br><br>双9选手，zju在读，大四有过一段中厂的Java后端实习（但比较水，也很久没写Java了），因为研究方向原因，研究生阶段写前端多一些，Vue3，React的项目都写过（还有参与一个开源之夏的项目），出于职业发展的考虑，秋招还是想找一个后端岗位。浅浅学了一段时间go（用go刷Leetcode，跟完了7days-golang项目），本来想找go岗位，但是看网上说用Java面试选择会广一些，很多大厂也支持转语言，Java的话因为之前写过项目，看过《深入理解Java虚拟机》之类的，有积累一些Java面经、学习笔记，感觉复习起来会高效一些。目前是打算，背背八股，搞个项目丰富简历，提升能力吧（感觉开始有点晚了🙉）。<br><br>总之现阶段有点迷茫，目前组里只能放暑期实习，所以想要准备充分些，大家有什么建议，欢迎畅言，请多多指点！<br><img src="https://cdnv2.ruguoapp.com/Fp44TQRCo8q4qdTcFeZQ2lpr2Ol2v3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FsTV_2R2yaLMrVX3ClQb-Z0oGqoGv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FvFS-HEZOKM78Nfe90OwOXzY2fZBv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 22 Feb 2024 12:52:54 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65d743a69185c305d1bce3f4</guid>
-            <link>https://m.okjike.com/originalPosts/65d743a69185c305d1bce3f4</link>
-            
-            
-            
-            <author><![CDATA[咕叽不吐骨头]]></author>
             
                 
             
