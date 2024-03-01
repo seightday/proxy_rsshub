@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[JitHub程序员 - 即刻圈子]]></title>
         <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
-        <atom:link href="https://rsshub.app/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
+        <atom:link href="http://rsshub.app/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
         <description><![CDATA[开发者们分享，问答，也可以交友的地方。欢迎所有工程师！ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Fri, 01 Mar 2024 03:17:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Mar 2024 08:15:38 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[去年一年没上班，才做了三个Mac App，一个花了13天（每月能赚点），一个花了15天（各个国家的用户有付费，仍需非常多的努力），另一个花了得俩月（赚的太少），...]]></title>
+            <description><![CDATA[去年一年没上班，才做了三个Mac App，一个花了13天（每月能赚点），一个花了15天（各个国家的用户有付费，仍需非常多的努力），另一个花了得俩月（赚的太少），都是首个版本，后续更新花的时间多一些。大把的时间不知道做啥了。<br><br>今年有两个想法：一个是网站（开发中，有些创新），一个是iOS App（或者所有端，构思中，也有些创新）。希望这俩能有一个给点力吧🤥，乡亲们都知道我不去上班，还以为我一月几万的赚呢。<br><img src="https://cdnv2.ruguoapp.com/FmxKW14lYyFZpEu12ZTv39Akr87uv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 28 Feb 2024 14:46:03 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65df472b37f7165b21561d30</guid>
+            <link>https://m.okjike.com/originalPosts/65df472b37f7165b21561d30</link>
+            
+            
+            
+            <author><![CDATA[Lessimore]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[在GitHub上发现个仓库，比较适合独立开发者做出海——https://github.com/weijunext/indie-hacker-tools 它收录了一系列出海技术栈和工具。 收录标准： 帮助独立...]]></title>
@@ -98,22 +114,6 @@
             
             
             <author><![CDATA[卡右]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[看到一个warp项目 真的要把cloudfare薅秃了 🥹🥹🥹 我爱白嫖，白嫖使我快乐]]></title>
-            <description><![CDATA[看到一个warp项目<br>真的要把cloudfare薅秃了<br>🥹🥹🥹<br>我爱白嫖，白嫖使我快乐<br><img src="https://cdnv2.ruguoapp.com/FvbEBdD1MyI6uP5f_ypoaNuM2wHXv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 26 Feb 2024 13:18:18 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65dc8f9a3b9c66cae4ef87e1</guid>
-            <link>https://m.okjike.com/originalPosts/65dc8f9a3b9c66cae4ef87e1</link>
-            
-            
-            
-            <author><![CDATA[不务正业小胡同学]]></author>
             
                 
             
