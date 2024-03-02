@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sat, 02 Mar 2024 00:53:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Mar 2024 04:14:15 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[根据前辈@哥飞 的建议，把每日趋势图片进一步做成了网站。现在实现了基本的排名展示（定时自动刷新），后续功能还在完善中～ https://www.trendproduct.top/ 小...]]></title>
+            <description><![CDATA[根据前辈@哥飞 的建议，把每日趋势图片进一步做成了网站。现在实现了基本的排名展示（定时自动刷新），后续功能还在完善中～<br>https://www.trendproduct.top/<br>小白在写论文之余从零开始学的React，到Nextjs，大概两周吧，具体用到的如下：<br>前端框架：React+Next<br>数据库：supabase<br>风格：tailwind<br>组件库：daisyui<br>部分设计：v0.dev<br>辅助：gpt-4<br>后端：python<br><br>肯定会有瑕疵的地方，会积极维护，有事儿请戳@Lenvia <br><img src="https://cdnv2.ruguoapp.com/FkYl6rOeULrI-e9Rw7lU4Dft-M7Bv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FrXzUMyX9Uqh3LLWm-M1SkVIdFU8v3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FgnZ7GSlp_l26XATJU9ovkNrrIJOv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sat, 02 Mar 2024 01:37:49 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65e282edde5f287348dea744</guid>
+            <link>https://m.okjike.com/originalPosts/65e282edde5f287348dea744</link>
+            
+            
+            
+            <author><![CDATA[apvia.bot]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[🎉开源了一个 SwiftUI 飘带/彩带动画，主要使用 SpriteKit 实现。 支持自定义颜色、替代彩带图片等。 🔗 https://github.com/VIkill33/ConfettiWithSpriteVi...]]></title>
@@ -34,22 +50,6 @@
             
             
             <author><![CDATA[Vikill]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[去年一年没上班，才做了三个Mac App，一个花了13天（每月能赚点），一个花了15天（各个国家的用户有付费，仍需非常多的努力），另一个花了得俩月（赚的太少），...]]></title>
-            <description><![CDATA[去年一年没上班，才做了三个Mac App，一个花了13天（每月能赚点），一个花了15天（各个国家的用户有付费，仍需非常多的努力），另一个花了得俩月（赚的太少），都是首个版本，后续更新花的时间多一些。大把的时间不知道做啥了。<br><br>今年有两个想法：一个是网站（开发中，有些创新），一个是iOS App（或者所有端，构思中，也有些创新）。希望这俩能有一个给点力吧🤥，乡亲们都知道我不去上班，还以为我一月几万的赚呢。<br><img src="https://cdnv2.ruguoapp.com/FmxKW14lYyFZpEu12ZTv39Akr87uv3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 28 Feb 2024 14:46:03 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65df472b37f7165b21561d30</guid>
-            <link>https://m.okjike.com/originalPosts/65df472b37f7165b21561d30</link>
-            
-            
-            
-            <author><![CDATA[Lessimore]]></author>
             
                 
             
