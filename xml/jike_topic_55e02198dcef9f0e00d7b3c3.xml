@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sat, 02 Mar 2024 16:06:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Mar 2024 20:11:31 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[用 React + Remotion 做的可编程视频。虽然开发起来很费劲，但是后续用于APP推广视频的时候，只需要改改 JSON 就能快速且批量的生成了😆，而且还能利用 Web 响...]]></title>
+            <description><![CDATA[用 React + Remotion 做的可编程视频。虽然开发起来很费劲，但是后续用于APP推广视频的时候，只需要改改 JSON 就能快速且批量的生成了😆，而且还能利用 Web 响应式来输出不同的视频尺寸，适配不同的平台和屏幕。<br><video src="https://videocdn.jellow.site/FobFjbkNENRhLT8FM_kTjVLo9mCP.mp4?sign=51110424324cff6f4c042b90b30e1c89&amp;t=65e37740" controls=""></video>]]></description>
+            <pubDate>Sat, 02 Mar 2024 10:20:16 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65e2fd60164d89e601ca9658</guid>
+            <link>https://m.okjike.com/originalPosts/65e2fd60164d89e601ca9658</link>
+            
+            
+            
+            <author><![CDATA[佐伯楽]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[万能的友友们，礼貌询问一下，做一个类似奈雪的点单接单小程序，接私单或工作室的价格大概是多少呀 ？]]></title>
@@ -82,22 +98,6 @@
             
             
             <author><![CDATA[L4Walk-溪河]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[几个AI工具加持的工具，部分开源，本地部署不错： 1、生成视频字幕 https://github.com/openai/whisper 2、AI编程助手 https://www.aicodehelper.com 3、AI自动...]]></title>
-            <description><![CDATA[<img src="https://cdnv2.ruguoapp.com/icons/link.png" referrerpolicy="no-referrer"><br>                    <a href="https://x.com/hhkkmon/status/1762341103959949775?s=46&amp;t=gNyjLQE7OWzBGuSxg2_NlQ">https://x.com/hhkkmon/status/1762341103959949775?s=46&amp;t=gNyjLQE7OWzBGuSxg2_NlQ</a><br>                <br>几个AI工具加持的工具，部分开源，本地部署不错：<br>1、生成视频字幕<br>https://github.com/openai/whisper<br>2、AI编程助手<br>https://www.aicodehelper.com<br>3、AI自动做PPT<br>https://tome.app/<br>4、AI辅助决策<br>https://rationale.jina.ai<br>5、AI修复人像老照片<br>https://www.restorephotos.io/<br>6、离线转录和翻译音频<br>https://github.com/chidiwilliams/buzz]]></description>
-            <pubDate>Tue, 27 Feb 2024 10:34:19 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65ddbaab6d9f190631b4ee12</guid>
-            <link>https://m.okjike.com/originalPosts/65ddbaab6d9f190631b4ee12</link>
-            
-            
-            
-            <author><![CDATA[不务正业小胡同学]]></author>
             
                 
             
