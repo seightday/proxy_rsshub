@@ -21,12 +21,28 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sat, 02 Mar 2024 23:30:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Mar 2024 03:10:37 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
+            <title><![CDATA[不会吧不会吧，难道还有人不会背他自己每个库的git ssh clone地址？ # 今日阴阳怪气]]></title>
+            <description><![CDATA[不会吧不会吧，难道还有人不会背他自己每个库的git ssh clone地址？<br><br># 今日阴阳怪气]]></description>
+            <pubDate>Sun, 03 Mar 2024 00:53:52 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65e3ca2037f7165b21a9830e</guid>
+            <link>https://m.okjike.com/originalPosts/65e3ca2037f7165b21a9830e</link>
+            
+            
+            
+            <author><![CDATA[杰克有茶]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[用 React + Remotion 做的可编程视频。虽然开发起来很费劲，但是后续用于APP推广视频的时候，只需要改改 JSON 就能快速且批量的生成了😆，而且还能利用 Web 响...]]></title>
-            <description><![CDATA[用 React + Remotion 做的可编程视频。虽然开发起来很费劲，但是后续用于APP推广视频的时候，只需要改改 JSON 就能快速且批量的生成了😆，而且还能利用 Web 响应式来输出不同的视频尺寸，适配不同的平台和屏幕。<br><video src="https://videocdn.jellow.site/FobFjbkNENRhLT8FM_kTjVLo9mCP.mp4?sign=67e3d5f61b7109e71c432e6282c47f7d&amp;t=65e3b43d" controls=""></video>]]></description>
+            <description><![CDATA[用 React + Remotion 做的可编程视频。虽然开发起来很费劲，但是后续用于APP推广视频的时候，只需要改改 JSON 就能快速且批量的生成了😆，而且还能利用 Web 响应式来输出不同的视频尺寸，适配不同的平台和屏幕。<br><video src="https://videocdn.jellow.site/FobFjbkNENRhLT8FM_kTjVLo9mCP.mp4?sign=5044cae1e9fc10c0fcb1d1a979e1d51c&amp;t=65e3ecf3" controls=""></video>]]></description>
             <pubDate>Sat, 02 Mar 2024 10:20:16 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/65e2fd60164d89e601ca9658</guid>
             <link>https://m.okjike.com/originalPosts/65e2fd60164d89e601ca9658</link>
@@ -162,22 +178,6 @@
             
             
             <author><![CDATA[安小竹]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[🎨 分享一下我第一个达到 1k+ star 的项目。是一个汇聚了多种笔触的创意画板，目前此画板支持多端，无论是移动端还是PC端，都能有较好的交互体验和效果展示，...]]></title>
-            <description><![CDATA[🎨 分享一下我第一个达到 1k+ star 的项目。是一个汇聚了多种笔触的创意画板，目前此画板支持多端，无论是移动端还是PC端，都能有较好的交互体验和效果展示，并且当前主流的画板功能此项目基本都有，我就不一一列出来了，期待你的探索，如果有好的 idea 或者Bug 欢迎轰炸我。<br><br>当然现在的 AI 这么火热。我也会在不久的将来尝试学习接入一些，敬请期待🧐。<br><br>Link: https://songlh.top/paint-board/<br>GitHub: https://github.com/LHRUN/paint-board<br><br>当然如果能点个 star 就是对我最大的支持 thanks。哈哈😘<br><img src="https://cdnv2.ruguoapp.com/FhefXWLRChnlKZlMlW_BFowLRMHMv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 02 Feb 2024 02:25:44 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65bc52a812ed2fda683dfb86</guid>
-            <link>https://m.okjike.com/originalPosts/65bc52a812ed2fda683dfb86</link>
-            
-            
-            
-            <author><![CDATA[leo_song]]></author>
             
                 
             
