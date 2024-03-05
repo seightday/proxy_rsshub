@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 05 Mar 2024 07:32:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Mar 2024 12:21:53 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[如果你在 CSDN 写博文，里边有链接的话，CSDN会做一次跳转。 这个没有问题，很多平台都这样做。 有问题的是，如果你写的是 Github.com 的链接，会在跳转时给你替...]]></title>
+            <description><![CDATA[如果你在 CSDN 写博文，里边有链接的话，CSDN会做一次跳转。<br>这个没有问题，很多平台都这样做。<br>有问题的是，如果你写的是 Github.com 的链接，会在跳转时给你替换成 Gitcode.com 链接。<br>而 Gitcode 是重庆开源共创科技有限公司的产品，这家重庆公司的法人是蒋涛。<br><img src="https://cdnv2.ruguoapp.com/FijNeiYU64W_3OEoAQ4tqFcmgiPtv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 05 Mar 2024 11:08:06 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65e6fd16164d89e601179ab5</guid>
+            <link>https://m.okjike.com/originalPosts/65e6fd16164d89e601179ab5</link>
+            
+            
+            
+            <author><![CDATA[哥飞]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[ARC 的入职礼盒很漂亮🥹]]></title>
@@ -34,6 +50,22 @@
             
             
             <author><![CDATA[AlbertChow]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[穿上这个衣服，周围程序员的唱歌水平提升一个层级，基本处于不易宕机的安全容器之中。]]></title>
+            <description><![CDATA[穿上这个衣服，周围程序员的唱歌水平提升一个层级，基本处于不易宕机的安全容器之中。<br><img src="https://cdnv2.ruguoapp.com/FjAltpK3ucKGTs19oGhYZ9PGUaWZv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FrHqMaovKR2HgHoa_mAnKGcp32Afv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 04 Mar 2024 10:27:21 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65e5a20937f7165b21cee16b</guid>
+            <link>https://m.okjike.com/originalPosts/65e5a20937f7165b21cee16b</link>
+            
+            
+            
+            <author><![CDATA[老父亲的能量嘎呗脆crate.]]></author>
             
                 
             
@@ -90,7 +122,7 @@
         
         <item>
             <title><![CDATA[这个GitHub项目不错，可以直接把截图转换成前端代码，亲测很有效！ 支持css、vue、react等 链接：https://github.com/abi/screenshot-to-code]]></title>
-            <description><![CDATA[这个GitHub项目不错，可以直接把截图转换成前端代码，亲测很有效！<br><br>支持css、vue、react等<br><br>链接：https://github.com/abi/screenshot-to-code<br><video src="https://videocdn.jellow.site/ljvntLB_QXGbelmLrR7nxQFcclUd.mp4?sign=efdc76ed6b098cd11cb532ec82099cf7&amp;t=65e6bd2c" controls=""></video>]]></description>
+            <description><![CDATA[这个GitHub项目不错，可以直接把截图转换成前端代码，亲测很有效！<br><br>支持css、vue、react等<br><br>链接：https://github.com/abi/screenshot-to-code<br><video src="https://videocdn.jellow.site/ljvntLB_QXGbelmLrR7nxQFcclUd.mp4?sign=74336f72681a31ad4a43f365591a7994&amp;t=65e71269" controls=""></video>]]></description>
             <pubDate>Sat, 02 Mar 2024 15:38:33 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/65e347f937f7165b21a327fe</guid>
             <link>https://m.okjike.com/originalPosts/65e347f937f7165b21a327fe</link>
@@ -121,22 +153,6 @@
         </item>
         
         <item>
-            <title><![CDATA[根据前辈@哥飞 的建议，把每日趋势图片进一步做成了网站。现在实现了基本的排名展示（定时自动刷新），后续功能还在完善中～ https://www.trendproduct.top/ 小...]]></title>
-            <description><![CDATA[根据前辈@哥飞 的建议，把每日趋势图片进一步做成了网站。现在实现了基本的排名展示（定时自动刷新），后续功能还在完善中～<br>https://www.trendproduct.top/<br>小白在写论文之余从零开始学的React，到Nextjs，大概两周吧，具体用到的如下：<br>前端框架：React+Next<br>数据库：supabase<br>风格：tailwind<br>组件库：daisyui<br>部分设计：v0.dev<br>辅助：gpt-4<br>后端：python<br><br>肯定会有瑕疵的地方，会积极维护，有事儿请戳@Lenvia <br><img src="https://cdnv2.ruguoapp.com/FkYl6rOeULrI-e9Rw7lU4Dft-M7Bv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FrXzUMyX9Uqh3LLWm-M1SkVIdFU8v3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FgnZ7GSlp_l26XATJU9ovkNrrIJOv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 02 Mar 2024 01:37:49 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65e282edde5f287348dea744</guid>
-            <link>https://m.okjike.com/originalPosts/65e282edde5f287348dea744</link>
-            
-            
-            
-            <author><![CDATA[apvia.bot]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[好东西，要分享。 这个大家自行观赏。 https://github.com/vvbbnn00/WARP-Clash-API]]></title>
             <description><![CDATA[好东西，要分享。  这个大家自行观赏。<br><br>https://github.com/vvbbnn00/WARP-Clash-API<br><img src="https://cdnv2.ruguoapp.com/Fpu0vtVSnN92OEB4KXlHzZSWd3Yfv3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Wed, 28 Feb 2024 07:38:25 GMT</pubDate>
@@ -146,22 +162,6 @@
             
             
             <author><![CDATA[文浩Marvin]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[昨晚去小区健身房踩点，本来只想了解下价位（不一定会长租），结果被拉着办了张 3 年的健身卡，服了。。复盘下别人怎么销售的，感觉好多套路都在SaaS产品中见过...]]></title>
-            <description><![CDATA[昨晚去小区健身房踩点，本来只想了解下价位（不一定会长租），结果被拉着办了张 3 年的健身卡，服了。。复盘下别人怎么销售的，感觉好多套路都在SaaS产品中见过：<br><br>1. 去前台问价格，绝口不提，先带我逛了一圈，详细介绍设施，什么多层减震的跑步机，花 400万搭建过滤系统的室内恒温泳池，一周几节的免费团课。转完坐下来，拿出Pad，竟然对着PPT给我讲了起来：什么企业文化、参照国外大酒店购置的器材、明星和这些器材的合照、团课课表、用户微信群的打卡，balabala。（被这一通Landing Page轰炸搞懵逼了，心里想这可能是我买不起的健身卡）<br>2. 然后拿出宣传册，给我抛了个价格，年卡 6668。问了下月卡多少钱，说是先交 1999 的入会费，然后每个月 1000 元。（我知道了价格，准备开溜了）<br>3. 我说刚搬到这边来，不一定会长租，等我过一两个月确定了长租，再考虑办年卡。然后对面就抛出了第一波折扣，说我可以先给你办个年卡，然后免费送你 3 个月，3 个月后如果决定在这边长租再激活卡，否则的话是可以自行免费转一次卡的，如果怕自己找不到下家，健身房也可以帮忙转卡，但通过健身房转要收 20% 手续费。（确实是针对我的理由的解决方案，但我不为所动，拒绝掉准备开溜）<br>4. 这时，对面压低了声音，说他是这边的经理，可以以他的名义给我办张内部的亲友卡，但要我帮忙保密。亲友卡的价格是 5000 元 2 年，还可以通过内部员工的转卡通道，免手续费健身房帮忙找下家转卡。（有点心动了，我拿出手机翻了下闲鱼，发现 有人 3500 转让这个健身房 18 个月的卡，但考虑到我不一定会租这么久，感觉他在套路我，再次准备开溜）<br>5. 最后，他摊牌了，说你以后如果不需要健身房帮你转卡而是自己联系，我是经理，做主再给你个优惠，5000 元 3 年的内部员工亲友卡，免费转卡一次，就算一天不来，直接转手加价 2000 卖出去也是不亏的，我就是为了新年开单，亲友卡名额有限留不了，你不买的话，我就给下个客户了。（然后，我一个附近租房的人，成为了健身房 3 年VIP。。3 年 ，就算我还在，不知道这个健身房还在不在😱）<br>6. 他去拟定合同过程中，又给我找了个健身主管，给我测体脂等指标，给了很多健身建议，最后说要免费送一节私教体验课。（我这次终于成功拒绝了一回🌝）<br><br>唉，这销售能力，我中途拒绝了好多次准备开溜，硬是被拉下来了。回想下比较眼熟的套路：<br><br>1. 进去咨询本身就是精准用户（感觉像是SEO搜索流量）<br>2. 内容丰富的Landing Page（之前看@levelsio 的twitter 有讨论，Landing Page内容丰富，尤其是包含媒体和用户的评价，可能并不简洁美观，但对付费转化是有利的）<br>3. 价格锚定（初始的高价和亲友卡折扣价对比，以及年费价格和月费价格的对比）<br>4. 未转化用户的召回（注册但未一段时间未付费用户，邮件赠送折扣码）<br>5. 如何进行折扣（较好的方案是不要改价格，而是相同的价格，给对方更多的额度；同时，折扣给个deadline）<br>6. 如何挖掘用户更多的付费需求（像这边的健身私教课，可以是自己的其他相关产品，也可以是分销）<br>7. 以及最最重要的，要解决用户的痛点问题/给用户带来价值（回想下我愿意持续付费的产品，都是我感觉给我带来的收益远大于订阅费的，比如Perplexity, Vercel Pro等，一些新奇好玩的痒点产品，即便付费了也不会复购，而健身卡一方面是对健康的投资，另一方面其具有转卡价值）<br><br>最近复盘了下自己尝试的几个网站，流量最终是靠付费产品去承接的（自己的或别人的），而不同商业化方式漏斗并不相同，Google Adsense只是收个过路费，Affiliate虽然有较高的分成比例，但往往是针对新用户的（我之前做的阿里云幻兽帕鲁服务器分销，付费的大概仅有 1/7是新用户，大量的老用户订单只是单纯为阿里贡献流量），最为高效的转化还是要有个自己的付费产品。回顾我自己做的几个产品，解决的并非用户的痛点问题，也无法为用户持续创造经济价值，自然难以吸引留存及付费转化，感觉后面要调整下方向。<br><br>想到哪写到哪，最后推荐一本过年期间读的书吧https://saasplaybook.com/，里面讲了SaaS产品的商业模式，几个有效提升流量/营收的策略（书中称为Cheat Code），以及一些定价相关的内容，正好是我当下需要的，实践下看看。<br><img src="https://cdnv2.ruguoapp.com/FvBxU0qIqHhbhuykbDECPro1Vljov3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 27 Feb 2024 03:28:13 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65dd56cd9185c305d12e89bd</guid>
-            <link>https://m.okjike.com/originalPosts/65dd56cd9185c305d12e89bd</link>
-            
-            
-            
-            <author><![CDATA[安小竹]]></author>
             
                 
             
