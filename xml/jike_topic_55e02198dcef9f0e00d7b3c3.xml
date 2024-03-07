@@ -21,8 +21,40 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Thu, 07 Mar 2024 12:22:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Mar 2024 16:07:35 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[哥飞发现一个找真实AI需求的好地方，全球最大的AI导航站，月访问量500万的 There's An AI For That 上线了一个AI需求频道，人人都能发帖说出自己的需求，其他人...]]></title>
+            <description><![CDATA[哥飞发现一个找真实AI需求的好地方，全球最大的AI导航站，月访问量500万的 There's An AI For That 上线了一个AI需求频道，人人都能发帖说出自己的需求，其他人可以回复符合这个需求的AI产品。<br>现在上面有340条需求，大家可以去看一看，说不定能够找到自己能做的需求。<br>网址直达： https://theresanaiforthat.com/requests/<br><img src="https://cdnv2.ruguoapp.com/FoQMI8_0GTn74GEbMOGrTx4hBN5tv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 07 Mar 2024 14:50:13 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65e9d42537f7165b21233b06</guid>
+            <link>https://m.okjike.com/originalPosts/65e9d42537f7165b21233b06</link>
+            
+            
+            
+            <author><![CDATA[哥飞]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[# 海外AI应用快速搭建方案 前端 web建议next.js UI使用 tailwindcss + 任意一个tailwindcss组件库 headlessui或shadcn APP建议RN (做极致体验应用建议Native) DB...]]></title>
+            <description><![CDATA[# 海外AI应用快速搭建方案<br><br>前端<br><br>web建议next.js<br><br>UI使用 tailwindcss + 任意一个tailwindcss组件库<br><br>headlessui或shadcn<br><br>APP建议RN (做极致体验应用建议Native)<br><br>DB&amp;业务后端<br><br>DB和登录鉴权使用supabase (鉴权和DB尽量一致，如果要用firebase，全部用firebase)<br><br>serverless  Function 使用(vercel)，这里不建议使用supabase的function, deno还是有不少坑<br><br>构建<br><br>项目日常构建使用vercel 即可，目前算做的比较好的<br><br>Docker构建<br><br>使用GCP 的 cloud build，不用关心本地环境<br><br>存储<br><br>GCP gcp storage AWS S3 都行，微软的没用过<br><br>自部署大模型<br><br>GPU serverless<br><br>replicate runpod （个人习惯runpod, 目前replicate是明星项目）<br><br>其他AI能力<br><br>LLM优先openAI<br><br>音视频相关 FFmpeg<br><br>付费<br><br>建议优先lemonsqueezy 简单<br><br>等确定赚钱了切换stripe 便宜一些<br><br>埋点<br><br>Google Analytice<br><br>其他准备<br><br>国外银行 OCBC<br><br>海外电话卡 giffgaff<br><br>总结<br><br>1.框架要尽可能简单，将自己从这些工具中脱离出来，专注到业务核心代码<br><br>2.尽可能搭建serverless架构，从初期成本还是拓展性上都是极佳的，不要一上来租一台GPU(除非用户量已经明确了)]]></description>
+            <pubDate>Thu, 07 Mar 2024 08:29:59 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65e97b07de5f28734867bd55</guid>
+            <link>https://m.okjike.com/originalPosts/65e97b07de5f28734867bd55</link>
+            
+            
+            
+            <author><![CDATA[jax_build]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[1000+个Telegram群合集，大概率会有你感兴趣的领域…… https://github.com/itgoyo/TelegramGroup]]></title>
@@ -50,38 +82,6 @@
             
             
             <author><![CDATA[哥飞]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Arc Windows 版开始内测了，目前仅支持 win11，有需要的朋友可以在评论区发下你的邮箱，按时间先后会邀请前 5 个邮箱]]></title>
-            <description><![CDATA[Arc Windows 版开始内测了，目前仅支持 win11，有需要的朋友可以在评论区发下你的邮箱，按时间先后会邀请前 5 个邮箱<br><img src="https://cdnv2.ruguoapp.com/FmWsuspuOXOQ1rypE9gN37T8OvqXv3.jpg" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fj_OV12Kcc-tfV6ktMj9QJZyMZnyv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 06 Mar 2024 03:05:16 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65e7dd6c37f7165b21f9867d</guid>
-            <link>https://m.okjike.com/originalPosts/65e7dd6c37f7165b21f9867d</link>
-            
-            
-            
-            <author><![CDATA[tibidabo]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[磨磨唧唧半天也不讲课，急死我了]]></title>
-            <description><![CDATA[磨磨唧唧半天也不讲课，急死我了<br><img src="https://cdnv2.ruguoapp.com/FoqdLfKP_Phmh1gd7-a1l6c3rSC1v3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FtJAG6uP6YFpRSC4eYLILABMchVav3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fv--Q48IqzYjj_Ntz1lAUKPb00ICv3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/FlsZN9BBRaayE1GL97JYoJT3Slt-v3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 05 Mar 2024 15:55:43 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65e7407f6d9f1906316e1085</guid>
-            <link>https://m.okjike.com/originalPosts/65e7407f6d9f1906316e1085</link>
-            
-            
-            
-            <author><![CDATA[道哥vulgur]]></author>
             
                 
             
@@ -138,7 +138,7 @@
         
         <item>
             <title><![CDATA[这个GitHub项目不错，可以直接把截图转换成前端代码，亲测很有效！ 支持css、vue、react等 链接：https://github.com/abi/screenshot-to-code]]></title>
-            <description><![CDATA[这个GitHub项目不错，可以直接把截图转换成前端代码，亲测很有效！<br><br>支持css、vue、react等<br><br>链接：https://github.com/abi/screenshot-to-code<br><video src="https://videocdn.jellow.site/ljvntLB_QXGbelmLrR7nxQFcclUd.mp4?sign=dbe6a3d8c78c013f5db3958374c8891f&amp;t=65e9aaef" controls=""></video>]]></description>
+            <description><![CDATA[这个GitHub项目不错，可以直接把截图转换成前端代码，亲测很有效！<br><br>支持css、vue、react等<br><br>链接：https://github.com/abi/screenshot-to-code<br><video src="https://videocdn.jellow.site/ljvntLB_QXGbelmLrR7nxQFcclUd.mp4?sign=4ae15ffb99472779a5eff22fbc30922f&amp;t=65e9e488" controls=""></video>]]></description>
             <pubDate>Sat, 02 Mar 2024 15:38:33 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/65e347f937f7165b21a327fe</guid>
             <link>https://m.okjike.com/originalPosts/65e347f937f7165b21a327fe</link>
