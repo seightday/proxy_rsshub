@@ -21,7 +21,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sat, 09 Mar 2024 08:14:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Mar 2024 06:35:13 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -34,22 +34,6 @@
             
             
             <author><![CDATA[BigYe程普]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[macOS 上双开微信的办法. 在终端里输入: open -n /Applications/WeChat.app/Contents/MacOS/WeChat]]></title>
-            <description><![CDATA[macOS 上双开微信的办法. 在终端里输入:<br>open -n /Applications/WeChat.app/Contents/MacOS/WeChat]]></description>
-            <pubDate>Sat, 09 Mar 2024 03:00:52 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65ebd0e4de5f287348936af2</guid>
-            <link>https://m.okjike.com/originalPosts/65ebd0e4de5f287348936af2</link>
-            
-            
-            
-            <author><![CDATA[Yibie]]></author>
             
                 
             
@@ -98,6 +82,22 @@
             
             
             <author><![CDATA[哥飞]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[为什么在 Mac 上配 python 环境这么复杂, 这么难...]]></title>
+            <description><![CDATA[为什么在 Mac 上配 python 环境这么复杂, 这么难...]]></description>
+            <pubDate>Thu, 07 Mar 2024 14:12:40 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65e9cb586d9f190631a076d9</guid>
+            <link>https://m.okjike.com/originalPosts/65e9cb586d9f190631a076d9</link>
+            
+            
+            
+            <author><![CDATA[Yibie]]></author>
             
                 
             
