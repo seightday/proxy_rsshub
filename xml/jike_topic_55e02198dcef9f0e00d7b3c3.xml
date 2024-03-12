@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss  xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
+
 
 >
     <channel>
         <title><![CDATA[JitHub程序员 - 即刻圈子]]></title>
         <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
-        <atom:link href="https://rsshub/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
+        <atom:link href="http://rsshub.app/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
         <description><![CDATA[开发者们分享，问答，也可以交友的地方。欢迎所有工程师！ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -20,99 +21,67 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Tue, 12 Mar 2024 00:54:21 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Sat, 09 Mar 2024 08:40:02 GMT</lastBuildDate>
+        <ttl>120</ttl>
         
         <item>
-            <title><![CDATA[支持了按组对齐和分布]]></title>
-            <description><![CDATA[<br>支持了按组对齐和分布]]></description>
-            <pubDate>Mon, 11 Mar 2024 11:45:41 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65eeeee536246663242e0c73</guid>
-            <link>https://m.okjike.com/originalPosts/65eeeee536246663242e0c73</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[分享一个我的 idol 开发者：
-
-这个妹子的设计简直是艺术家水平
-
-打击面主要在浏览器插件、设计工具和 Mac App
-
-22年的 Product Hunt 最佳开发者，
-
-她的作品几乎...]]></title>
-            <description><![CDATA[<br>分享一个我的 idol 开发者：<br><br>这个妹子的设计简直是艺术家水平<br><br>打击面主要在浏览器插件、设计工具和 Mac App<br><br>22年的 Product Hunt 最佳开发者，<br><br>她的作品几乎全开源，想提高审美的开发者，冲就完事了]]></description>
-            <pubDate>Sun, 10 Mar 2024 04:21:45 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65ed35593b9c66cae42f5d9a</guid>
-            <link>https://m.okjike.com/originalPosts/65ed35593b9c66cae42f5d9a</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[我开发的全端全栈框架终于开源咯！
-
-以后再有人辩论用flutter做全端好还是用react-native做全端好，那当然all in JS。
-
-JS能做网页（nextjs）
-JS能做后端（nestj...]]></title>
-            <description><![CDATA[<br>我开发的全端全栈框架终于开源咯！<br><br>以后再有人辩论用flutter做全端好还是用react-native做全端好，那当然all in JS。<br><br>JS能做网页（nextjs）<br>JS能做后端（nestjs）<br>JS能做手机端（react-native）<br>JS能做电脑端（react- electron）<br><br>世界上哪里还有比这更容易统一的全端全栈方案啊！<br><br>除此之外，还能用统一的组件库antd，tailwind，而这一切，都被我打包进了我的全端全栈方案MyAllEnd中了。<br><br>其实我做的MyAllEnd不算一个框架，而是一个全端全栈的组合方案，把上述的框架都集合进一个项目中，git clone了MyAllEnd，就可以在一个项目里开发全端全栈了。<br><br>另外，我还在该项目里写了许多封装代码，将各种API统一起来，对cookie，前端db，请求request等做了封装，这样网页端，手机端，电脑端都可以尽可能地复用代码，这样全端全栈的脚手架已经搭好，非常适合独立开发者创建新项目。<br><br>感兴趣的朋友可以去GitHub上点个star：<br><br>https://github.com/HeroIsUseless/MyAllEnd<br><picture><source srcset="https://cdnv2.ruguoapp.com/FjBXogXJz2uARXflNUYaV2O2tR7qv3.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/FjBXogXJz2uARXflNUYaV2O2tR7qv3.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/FjBXogXJz2uARXflNUYaV2O2tR7qv3.jpg"></picture>]]></description>
-            <pubDate>Sat, 09 Mar 2024 15:34:48 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65ec819812ed2fda68de7754</guid>
-            <link>https://m.okjike.com/originalPosts/65ec819812ed2fda68de7754</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[近一年一句代码都没写，不知道下一份工作会是什么，总闲着也无聊，除了看书之外，最近又养成了一些学习习惯。
-
-在b站高强度重学了一些高校CS课程，虽然不知道今...]]></title>
-            <description><![CDATA[<br>近一年一句代码都没写，不知道下一份工作会是什么，总闲着也无聊，除了看书之外，最近又养成了一些学习习惯。<br><br>在b站高强度重学了一些高校CS课程，虽然不知道今后还能不能用上。但找回了一点点上学时脑子还能进入知识的感觉：<br>1. 南大操作系统课（jyy，yyds）<br>2. 中科大编译原理课<br>3. 中科大计算机网络课<br>4. 北大算法设计与分析课<br><br>重学英语：<br>1. up主：罗肖尼Shawney。（心理按摩做得十分到位，重学英语前推荐看一看）<br>2. up主：Jason杰森锅。（美式发音教程，一口气看完停不下来）<br>3. Lisa美语发音课程。（简洁易懂，教得特别好）<br>4. up主：英语兔。（把播放量高的视频看一遍知道了）<br>5. 张满胜语法。（重回高中的感觉）<br>6. 欧陆词典App。（买了会员，导入三方词典日常查词用，还能每天背单词）<br>7. 每日英语听力App。（睡前听 15 分钟磨耳朵。EnglishPod、Tiffani、Lucy、Luke，老师一大堆）<br><br>这种不带目的、不为指标地纯学习，即便是重拾新手村知识，也获得很多全新体验。]]></description>
-            <pubDate>Sat, 09 Mar 2024 15:21:58 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65ec7e9612ed2fda68de353d</guid>
-            <link>https://m.okjike.com/originalPosts/65ec7e9612ed2fda68de353d</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[分享一个免费、开源的loading图标库——LDRS：https://uiball.com/ldrs/
-他们提供的loading图标都很通用，不是那种花里胡哨的，而且每个图标都支持自定义尺寸、...]]></title>
-            <description><![CDATA[<br>分享一个免费、开源的loading图标库——LDRS：https://uiball.com/ldrs/<br>他们提供的loading图标都很通用，不是那种花里胡哨的，而且每个图标都支持自定义尺寸、颜色等信息，非常实用。<br>网站本身也很好看，前端人一看就爱了👏<br><picture><source srcset="https://cdnv2.ruguoapp.com/FifuJPvIjNhqbMdFDQ-SNAzX8f36v3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/FifuJPvIjNhqbMdFDQ-SNAzX8f36v3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/FifuJPvIjNhqbMdFDQ-SNAzX8f36v3.png"></picture><br><picture><source srcset="https://cdnv2.ruguoapp.com/Fkfn4UJjMgmSxUWgWzcsUelFAF1rv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/Fkfn4UJjMgmSxUWgWzcsUelFAF1rv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/Fkfn4UJjMgmSxUWgWzcsUelFAF1rv3.png"></picture>]]></description>
+            <title><![CDATA[分享一个免费、开源的loading图标库——LDRS：https://uiball.com/ldrs/ 他们提供的loading图标都很通用，不是那种花里胡哨的，而且每个图标都支持自定义尺寸、...]]></title>
+            <description><![CDATA[分享一个免费、开源的loading图标库——LDRS：https://uiball.com/ldrs/<br>他们提供的loading图标都很通用，不是那种花里胡哨的，而且每个图标都支持自定义尺寸、颜色等信息，非常实用。<br>网站本身也很好看，前端人一看就爱了👏<br><img src="https://cdnv2.ruguoapp.com/FifuJPvIjNhqbMdFDQ-SNAzX8f36v3.png" referrerpolicy="no-referrer"><br><img src="https://cdnv2.ruguoapp.com/Fkfn4UJjMgmSxUWgWzcsUelFAF1rv3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Sat, 09 Mar 2024 03:15:40 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/65ebd45cde5f28734893b665</guid>
             <link>https://m.okjike.com/originalPosts/65ebd45cde5f28734893b665</link>
             
             
             
+            <author><![CDATA[BigYe程普]]></author>
             
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[macOS 上双开微信的办法. 在终端里输入: open -n /Applications/WeChat.app/Contents/MacOS/WeChat]]></title>
+            <description><![CDATA[macOS 上双开微信的办法. 在终端里输入:<br>open -n /Applications/WeChat.app/Contents/MacOS/WeChat]]></description>
+            <pubDate>Sat, 09 Mar 2024 03:00:52 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65ebd0e4de5f287348936af2</guid>
+            <link>https://m.okjike.com/originalPosts/65ebd0e4de5f287348936af2</link>
+            
+            
+            
+            <author><![CDATA[Yibie]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[这个挺赞同的，买云服务，就是花钱买别人提供的运维服务。 所以在前公司时，我们就没有用自建数据库，全部用的阿里云的云数据库，一年费用两万多就够了。 对于个...]]></title>
+            <description><![CDATA[这个挺赞同的，买云服务，就是花钱买别人提供的运维服务。<br>所以在前公司时，我们就没有用自建数据库，全部用的阿里云的云数据库，一年费用两万多就够了。<br>对于个人开发者可能觉得很贵，但是对于公司来说，两万多就是超级便宜了，还不到一个开发的月薪。<br>更早以前创业时，自建数据库吃过亏，主要有两种坑，一是不明原因的停止服务了，二是不小心硬盘满了数据库写不进去了。<br>所以到了前公司，做游戏发行业务，24小时都有钱进来，为了确保可以睡个安稳觉，我就选择了用云数据库。<br>现在出海也一样，Vercel提供了一键部署平台，我们也开通付费服务了。<br>之前有个即友说是不是付不起钱，才要用Vercel。<br>我想说，你真是个大聪明。<br><img src="https://cdnv2.ruguoapp.com/FhxKod5Mgm7EDGNcs-qBZul5M91Iv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 08 Mar 2024 01:23:37 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65ea68993b9c66cae4fb2c7b</guid>
+            <link>https://m.okjike.com/originalPosts/65ea68993b9c66cae4fb2c7b</link>
+            
+            
+            
+            <author><![CDATA[哥飞]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[推荐一个用了半年的ChatGPT，适合懒得折腾的同学。 优点： 1. 国内可用，速度稳定 2. GPT3.5 免费， GPT4 费用3~4折 3. 支持API 不足 1.AI能力上感觉跟openAI还...]]></title>
+            <description><![CDATA[<img src="https://cdnv2.ruguoapp.com/icons/link.png" referrerpolicy="no-referrer"><br>            <a href="https://aigptx.top/?aff=5NSKyJCJ">OhMyGPT</a><br>        <br>推荐一个用了半年的ChatGPT，适合懒得折腾的同学。<br><br>优点：<br>1. 国内可用，速度稳定<br>2. GPT3.5 免费， GPT4 费用3~4折<br>3. 支持API<br><br>不足<br>1.AI能力上感觉跟openAI还有差距，基本满足使用<br>2.API调用超额后有额外调用费用,推荐用web版]]></description>
+            <pubDate>Fri, 08 Mar 2024 01:11:43 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65ea65cfde5f28734877be66</guid>
+            <link>https://m.okjike.com/originalPosts/65ea65cfde5f28734877be66</link>
+            
+            
+            
+            <author><![CDATA[飞扬的风信子]]></author>
             
                 
             
@@ -121,14 +90,14 @@ JS能做后端（nestj...]]></title>
         
         <item>
             <title><![CDATA[哥飞发现一个找真实AI需求的好地方，全球最大的AI导航站，月访问量500万的 There's An AI For That 上线了一个AI需求频道，人人都能发帖说出自己的需求，其他人...]]></title>
-            <description><![CDATA[<br>哥飞发现一个找真实AI需求的好地方，全球最大的AI导航站，月访问量500万的 There's An AI For That 上线了一个AI需求频道，人人都能发帖说出自己的需求，其他人可以回复符合这个需求的AI产品。<br>现在上面有340条需求，大家可以去看一看，说不定能够找到自己能做的需求。<br>网址直达： https://theresanaiforthat.com/requests/<br><picture><source srcset="https://cdnv2.ruguoapp.com/FoQMI8_0GTn74GEbMOGrTx4hBN5tv3.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/FoQMI8_0GTn74GEbMOGrTx4hBN5tv3.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/FoQMI8_0GTn74GEbMOGrTx4hBN5tv3.jpg"></picture>]]></description>
+            <description><![CDATA[哥飞发现一个找真实AI需求的好地方，全球最大的AI导航站，月访问量500万的 There's An AI For That 上线了一个AI需求频道，人人都能发帖说出自己的需求，其他人可以回复符合这个需求的AI产品。<br>现在上面有340条需求，大家可以去看一看，说不定能够找到自己能做的需求。<br>网址直达： https://theresanaiforthat.com/requests/<br><img src="https://cdnv2.ruguoapp.com/FoQMI8_0GTn74GEbMOGrTx4hBN5tv3.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Thu, 07 Mar 2024 14:50:13 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/65e9d42537f7165b21233b06</guid>
             <link>https://m.okjike.com/originalPosts/65e9d42537f7165b21233b06</link>
             
             
             
-            
+            <author><![CDATA[哥飞]]></author>
             
                 
             
@@ -136,17 +105,47 @@ JS能做后端（nestj...]]></title>
         </item>
         
         <item>
-            <title><![CDATA[1000+个Telegram群合集，大概率会有你感兴趣的领域……
-
-https://github.com/itgoyo/TelegramGroup]]></title>
-            <description><![CDATA[<br>1000+个Telegram群合集，大概率会有你感兴趣的领域……<br><br>https://github.com/itgoyo/TelegramGroup<br><picture><source srcset="https://cdnv2.ruguoapp.com/Fs3589IFN0azuKPt5omaGWAAVb-rv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/Fs3589IFN0azuKPt5omaGWAAVb-rv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/Fs3589IFN0azuKPt5omaGWAAVb-rv3.png"></picture>]]></description>
+            <title><![CDATA[# 海外AI应用快速搭建方案 前端 web建议next.js UI使用 tailwindcss + 任意一个tailwindcss组件库 headlessui或shadcn APP建议RN (做极致体验应用建议Native) DB...]]></title>
+            <description><![CDATA[# 海外AI应用快速搭建方案<br><br>前端<br><br>web建议next.js<br><br>UI使用 tailwindcss + 任意一个tailwindcss组件库<br><br>headlessui或shadcn<br><br>APP建议RN (做极致体验应用建议Native)<br><br>DB&amp;业务后端<br><br>DB和登录鉴权使用supabase (鉴权和DB尽量一致，如果要用firebase，全部用firebase)<br><br>serverless  Function 使用(vercel)，这里不建议使用supabase的function, deno还是有不少坑<br><br>构建<br><br>项目日常构建使用vercel 即可，目前算做的比较好的<br><br>Docker构建<br><br>使用GCP 的 cloud build，不用关心本地环境<br><br>存储<br><br>GCP gcp storage AWS S3 都行，微软的没用过<br><br>自部署大模型<br><br>GPU serverless<br><br>replicate runpod （个人习惯runpod, 目前replicate是明星项目）<br><br>其他AI能力<br><br>LLM优先openAI<br><br>音视频相关 FFmpeg<br><br>付费<br><br>建议优先lemonsqueezy 简单<br><br>等确定赚钱了切换stripe 便宜一些<br><br>埋点<br><br>Google Analytice<br><br>其他准备<br><br>国外银行 OCBC<br><br>海外电话卡 giffgaff<br><br>总结<br><br>1.框架要尽可能简单，将自己从这些工具中脱离出来，专注到业务核心代码<br><br>2.尽可能搭建serverless架构，从初期成本还是拓展性上都是极佳的，不要一上来租一台GPU(除非用户量已经明确了)]]></description>
+            <pubDate>Thu, 07 Mar 2024 08:29:59 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65e97b07de5f28734867bd55</guid>
+            <link>https://m.okjike.com/originalPosts/65e97b07de5f28734867bd55</link>
+            
+            
+            
+            <author><![CDATA[jax_build]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[1000+个Telegram群合集，大概率会有你感兴趣的领域…… https://github.com/itgoyo/TelegramGroup]]></title>
+            <description><![CDATA[1000+个Telegram群合集，大概率会有你感兴趣的领域……<br><br>https://github.com/itgoyo/TelegramGroup<br><img src="https://cdnv2.ruguoapp.com/Fs3589IFN0azuKPt5omaGWAAVb-rv3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Wed, 06 Mar 2024 09:24:11 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/65e8363b12ed2fda688b1f20</guid>
             <link>https://m.okjike.com/originalPosts/65e8363b12ed2fda688b1f20</link>
             
             
             
+            <author><![CDATA[文浩Marvin]]></author>
             
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[推荐给所有的工程师朋友们。 不要care书名。无论你是否创业，都值得一读。 即使你是刚毕业的学生，也推荐。]]></title>
+            <description><![CDATA[推荐给所有的工程师朋友们。<br><br>不要care书名。无论你是否创业，都值得一读。<br><br>即使你是刚毕业的学生，也推荐。<br><img src="https://cdnv2.ruguoapp.com/FrM9IQXytO8MM6vUzbQUIxac6BDcv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 04 Mar 2024 00:35:06 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65e5173a9185c305d1c31aa1</guid>
+            <link>https://m.okjike.com/originalPosts/65e5173a9185c305d1c31aa1</link>
+            
+            
+            
+            <author><![CDATA[白宦成]]></author>
             
                 
             
@@ -155,35 +154,14 @@ https://github.com/itgoyo/TelegramGroup]]></title>
         
         <item>
             <title><![CDATA[昨晚去小区健身房踩点，本来只想了解下价位（不一定会长租），结果被拉着办了张 3 年的健身卡，服了。。复盘下别人怎么销售的，感觉好多套路都在SaaS产品中见过...]]></title>
-            <description><![CDATA[<br>昨晚去小区健身房踩点，本来只想了解下价位（不一定会长租），结果被拉着办了张 3 年的健身卡，服了。。复盘下别人怎么销售的，感觉好多套路都在SaaS产品中见过：<br><br>1. 去前台问价格，绝口不提，先带我逛了一圈，详细介绍设施，什么多层减震的跑步机，花 400万搭建过滤系统的室内恒温泳池，一周几节的免费团课。转完坐下来，拿出Pad，竟然对着PPT给我讲了起来：什么企业文化、参照国外大酒店购置的器材、明星和这些器材的合照、团课课表、用户微信群的打卡，balabala。（被这一通Landing Page轰炸搞懵逼了，心里想这可能是我买不起的健身卡）<br>2. 然后拿出宣传册，给我抛了个价格，年卡 6668。问了下月卡多少钱，说是先交 1999 的入会费，然后每个月 1000 元。（我知道了价格，准备开溜了）<br>3. 我说刚搬到这边来，不一定会长租，等我过一两个月确定了长租，再考虑办年卡。然后对面就抛出了第一波折扣，说我可以先给你办个年卡，然后免费送你 3 个月，3 个月后如果决定在这边长租再激活卡，否则的话是可以自行免费转一次卡的，如果怕自己找不到下家，健身房也可以帮忙转卡，但通过健身房转要收 20% 手续费。（确实是针对我的理由的解决方案，但我不为所动，拒绝掉准备开溜）<br>4. 这时，对面压低了声音，说他是这边的经理，可以以他的名义给我办张内部的亲友卡，但要我帮忙保密。亲友卡的价格是 5000 元 2 年，还可以通过内部员工的转卡通道，免手续费健身房帮忙找下家转卡。（有点心动了，我拿出手机翻了下闲鱼，发现 有人 3500 转让这个健身房 18 个月的卡，但考虑到我不一定会租这么久，感觉他在套路我，再次准备开溜）<br>5. 最后，他摊牌了，说你以后如果不需要健身房帮你转卡而是自己联系，我是经理，做主再给你个优惠，5000 元 3 年的内部员工亲友卡，免费转卡一次，就算一天不来，直接转手加价 2000 卖出去也是不亏的，我就是为了新年开单，亲友卡名额有限留不了，你不买的话，我就给下个客户了。（然后，我一个附近租房的人，成为了健身房 3 年VIP。。3 年 ，就算我还在，不知道这个健身房还在不在😱）<br>6. 他去拟定合同过程中，又给我找了个健身主管，给我测体脂等指标，给了很多健身建议，最后说要免费送一节私教体验课。（我这次终于成功拒绝了一回🌝）<br><br>唉，这销售能力，我中途拒绝了好多次准备开溜，硬是被拉下来了。回想下比较眼熟的套路：<br><br>1. 进去咨询本身就是精准用户（感觉像是SEO搜索流量）<br>2. 内容丰富的Landing Page（之前看@levelsio 的twitter 有讨论，Landing Page内容丰富，尤其是包含媒体和用户的评价，可能并不简洁美观，但对付费转化是有利的）<br>3. 价格锚定（初始的高价和亲友卡折扣价对比，以及年费价格和月费价格的对比）<br>4. 未转化用户的召回（注册但未一段时间未付费用户，邮件赠送折扣码）<br>5. 如何进行折扣（较好的方案是不要改价格，而是相同的价格，给对方更多的额度；同时，折扣给个deadline）<br>6. 如何挖掘用户更多的付费需求（像这边的健身私教课，可以是自己的其他相关产品，也可以是分销）<br>7. 以及最最重要的，要解决用户的痛点问题/给用户带来价值（回想下我愿意持续付费的产品，都是我感觉给我带来的收益远大于订阅费的，比如Perplexity, Vercel Pro等，一些新奇好玩的痒点产品，即便付费了也不会复购，而健身卡一方面是对健康的投资，另一方面其具有转卡价值）<br><br>最近复盘了下自己尝试的几个网站，流量最终是靠付费产品去承接的（自己的或别人的），而不同商业化方式漏斗并不相同，Google Adsense只是收个过路费，Affiliate虽然有较高的分成比例，但往往是针对新用户的（我之前做的阿里云幻兽帕鲁服务器分销，付费的大概仅有 1/7是新用户，大量的老用户订单只是单纯为阿里贡献流量），最为高效的转化还是要有个自己的付费产品。回顾我自己做的几个产品，解决的并非用户的痛点问题，也无法为用户持续创造经济价值，自然难以吸引留存及付费转化，感觉后面要调整下方向。<br><br>想到哪写到哪，最后推荐一本过年期间读的书吧https://saasplaybook.com/，里面讲了SaaS产品的商业模式，几个有效提升流量/营收的策略（书中称为Cheat Code），以及一些定价相关的内容，正好是我当下需要的，实践下看看。<br><picture><source srcset="https://cdnv2.ruguoapp.com/FvBxU0qIqHhbhuykbDECPro1Vljov3.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/FvBxU0qIqHhbhuykbDECPro1Vljov3.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/FvBxU0qIqHhbhuykbDECPro1Vljov3.jpg"></picture>]]></description>
+            <description><![CDATA[昨晚去小区健身房踩点，本来只想了解下价位（不一定会长租），结果被拉着办了张 3 年的健身卡，服了。。复盘下别人怎么销售的，感觉好多套路都在SaaS产品中见过：<br><br>1. 去前台问价格，绝口不提，先带我逛了一圈，详细介绍设施，什么多层减震的跑步机，花 400万搭建过滤系统的室内恒温泳池，一周几节的免费团课。转完坐下来，拿出Pad，竟然对着PPT给我讲了起来：什么企业文化、参照国外大酒店购置的器材、明星和这些器材的合照、团课课表、用户微信群的打卡，balabala。（被这一通Landing Page轰炸搞懵逼了，心里想这可能是我买不起的健身卡）<br>2. 然后拿出宣传册，给我抛了个价格，年卡 6668。问了下月卡多少钱，说是先交 1999 的入会费，然后每个月 1000 元。（我知道了价格，准备开溜了）<br>3. 我说刚搬到这边来，不一定会长租，等我过一两个月确定了长租，再考虑办年卡。然后对面就抛出了第一波折扣，说我可以先给你办个年卡，然后免费送你 3 个月，3 个月后如果决定在这边长租再激活卡，否则的话是可以自行免费转一次卡的，如果怕自己找不到下家，健身房也可以帮忙转卡，但通过健身房转要收 20% 手续费。（确实是针对我的理由的解决方案，但我不为所动，拒绝掉准备开溜）<br>4. 这时，对面压低了声音，说他是这边的经理，可以以他的名义给我办张内部的亲友卡，但要我帮忙保密。亲友卡的价格是 5000 元 2 年，还可以通过内部员工的转卡通道，免手续费健身房帮忙找下家转卡。（有点心动了，我拿出手机翻了下闲鱼，发现 有人 3500 转让这个健身房 18 个月的卡，但考虑到我不一定会租这么久，感觉他在套路我，再次准备开溜）<br>5. 最后，他摊牌了，说你以后如果不需要健身房帮你转卡而是自己联系，我是经理，做主再给你个优惠，5000 元 3 年的内部员工亲友卡，免费转卡一次，就算一天不来，直接转手加价 2000 卖出去也是不亏的，我就是为了新年开单，亲友卡名额有限留不了，你不买的话，我就给下个客户了。（然后，我一个附近租房的人，成为了健身房 3 年VIP。。3 年 ，就算我还在，不知道这个健身房还在不在😱）<br>6. 他去拟定合同过程中，又给我找了个健身主管，给我测体脂等指标，给了很多健身建议，最后说要免费送一节私教体验课。（我这次终于成功拒绝了一回🌝）<br><br>唉，这销售能力，我中途拒绝了好多次准备开溜，硬是被拉下来了。回想下比较眼熟的套路：<br><br>1. 进去咨询本身就是精准用户（感觉像是SEO搜索流量）<br>2. 内容丰富的Landing Page（之前看@levelsio 的twitter 有讨论，Landing Page内容丰富，尤其是包含媒体和用户的评价，可能并不简洁美观，但对付费转化是有利的）<br>3. 价格锚定（初始的高价和亲友卡折扣价对比，以及年费价格和月费价格的对比）<br>4. 未转化用户的召回（注册但未一段时间未付费用户，邮件赠送折扣码）<br>5. 如何进行折扣（较好的方案是不要改价格，而是相同的价格，给对方更多的额度；同时，折扣给个deadline）<br>6. 如何挖掘用户更多的付费需求（像这边的健身私教课，可以是自己的其他相关产品，也可以是分销）<br>7. 以及最最重要的，要解决用户的痛点问题/给用户带来价值（回想下我愿意持续付费的产品，都是我感觉给我带来的收益远大于订阅费的，比如Perplexity, Vercel Pro等，一些新奇好玩的痒点产品，即便付费了也不会复购，而健身卡一方面是对健康的投资，另一方面其具有转卡价值）<br><br>最近复盘了下自己尝试的几个网站，流量最终是靠付费产品去承接的（自己的或别人的），而不同商业化方式漏斗并不相同，Google Adsense只是收个过路费，Affiliate虽然有较高的分成比例，但往往是针对新用户的（我之前做的阿里云幻兽帕鲁服务器分销，付费的大概仅有 1/7是新用户，大量的老用户订单只是单纯为阿里贡献流量），最为高效的转化还是要有个自己的付费产品。回顾我自己做的几个产品，解决的并非用户的痛点问题，也无法为用户持续创造经济价值，自然难以吸引留存及付费转化，感觉后面要调整下方向。<br><br>想到哪写到哪，最后推荐一本过年期间读的书吧https://saasplaybook.com/，里面讲了SaaS产品的商业模式，几个有效提升流量/营收的策略（书中称为Cheat Code），以及一些定价相关的内容，正好是我当下需要的，实践下看看。<br><img src="https://cdnv2.ruguoapp.com/FvBxU0qIqHhbhuykbDECPro1Vljov3.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Tue, 27 Feb 2024 03:28:13 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/65dd56cd9185c305d12e89bd</guid>
             <link>https://m.okjike.com/originalPosts/65dd56cd9185c305d12e89bd</link>
             
             
             
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[没想到Onlyfans是一个小而美的公司：
-
-1. 英国公司。
-2. 允许100%远程工作
-3. 利润稳定，每个员工产出的收入大于100万美金，接近Google了。
-4. 收入不低，不少ex...]]></title>
-            <description><![CDATA[<br>没想到Onlyfans是一个小而美的公司：<br><br>1. 英国公司。<br>2. 允许100%远程工作<br>3. 利润稳定，每个员工产出的收入大于100万美金，接近Google了。<br>4. 收入不低，不少ex-FAANG engineers都被吸引过去了。<br><picture><source srcset="https://cdnv2.ruguoapp.com/Fg9hgZ0UIXqZKpw7oJsgLxogl2jLv3.jpeg/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/Fg9hgZ0UIXqZKpw7oJsgLxogl2jLv3.jpeg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/Fg9hgZ0UIXqZKpw7oJsgLxogl2jLv3.jpeg"></picture>]]></description>
-            <pubDate>Wed, 21 Feb 2024 04:23:20 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65d57ab87ba64d49f7fb549c</guid>
-            <link>https://m.okjike.com/originalPosts/65d57ab87ba64d49f7fb549c</link>
-            
-            
-            
-            
+            <author><![CDATA[安小竹]]></author>
             
                 
             
@@ -191,16 +169,15 @@ https://github.com/itgoyo/TelegramGroup]]></title>
         </item>
         
         <item>
-            <title><![CDATA[经过一段时间的努力，终于把一个只会Vue的前同事掰成React程序员了😼。
-为了让他更快了解Next.js和出海需要的技术栈，我根据自己的经验和@哥飞 、@花果山大圣 ...]]></title>
-            <description><![CDATA[<br>经过一段时间的努力，终于把一个只会Vue的前同事掰成React程序员了😼。<br>为了让他更快了解Next.js和出海需要的技术栈，我根据自己的经验和@哥飞 、@花果山大圣 分享的信息，整理了一份独立开发者出海工具库，已经发到了Github，希望可以帮到更多出海新人。<br><br>Github地址：https://github.com/weijunext/indie-hacker-tools<br><picture><source srcset="https://cdnv2.ruguoapp.com/FuxtzQMQUIHjjN6ivAHsf4q815C9v3.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/FuxtzQMQUIHjjN6ivAHsf4q815C9v3.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/FuxtzQMQUIHjjN6ivAHsf4q815C9v3.jpg"></picture>]]></description>
+            <title><![CDATA[经过一段时间的努力，终于把一个只会Vue的前同事掰成React程序员了😼。 为了让他更快了解Next.js和出海需要的技术栈，我根据自己的经验和@哥飞 、@花果山大圣 ...]]></title>
+            <description><![CDATA[经过一段时间的努力，终于把一个只会Vue的前同事掰成React程序员了😼。<br>为了让他更快了解Next.js和出海需要的技术栈，我根据自己的经验和@哥飞 、@花果山大圣 分享的信息，整理了一份独立开发者出海工具库，已经发到了Github，希望可以帮到更多出海新人。<br><br>Github地址：https://github.com/weijunext/indie-hacker-tools<br><img src="https://cdnv2.ruguoapp.com/FuxtzQMQUIHjjN6ivAHsf4q815C9v3.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Tue, 20 Feb 2024 08:28:34 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/65d462b212ed2fda6809ea93</guid>
             <link>https://m.okjike.com/originalPosts/65d462b212ed2fda6809ea93</link>
             
             
             
-            
+            <author><![CDATA[BigYe程普]]></author>
             
                 
             
