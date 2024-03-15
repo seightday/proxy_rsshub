@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Fri, 15 Mar 2024 15:31:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Mar 2024 20:15:09 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[说靴靴]]></title>
+            <description><![CDATA[说靴靴<br><img src="https://cdnv2.ruguoapp.com/FtE9FBfvpqzLfqe51lFin313Gn1Nv3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 15 Mar 2024 03:26:03 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65f3bfcb38849f879ffb3315</guid>
+            <link>https://m.okjike.com/originalPosts/65f3bfcb38849f879ffb3315</link>
+            
+            
+            
+            <author><![CDATA[星辰s]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[这个公司做了一系列编程语言互动学习网站，免费供大家学习免费，盈利模式是卖认证服务。 举例，你学完 Python 了，要证明自己的 Python 能力，就可以去付费考试...]]></title>
@@ -89,24 +105,8 @@
         </item>
         
         <item>
-            <title><![CDATA[今天折腾了挺久的ssl证书，分享一下收集到的几个提供证书的网站 ps：cloud flare活菩萨好用，提供了15年之久的证书 1️⃣ https://cloudflare.com：在 ssl/tls ...]]></title>
-            <description><![CDATA[今天折腾了挺久的ssl证书，分享一下收集到的几个提供证书的网站<br>ps：cloud flare活菩萨好用，提供了15年之久的证书<br><br>1️⃣ https://cloudflare.com：在 ssl/tls 设置中选择灵活就行，免费用<br><br>2️⃣ https://ohttps.com：支持证书自动化更新、部署<br><br>3️⃣ https://zerossl.com：每个账号提有3 个免费 90 天的 SSL 安全证书，免费续期<br><br>4️⃣ https://www.sslforfree.com：免费申请 Let's Encrypt 证书<br><br>5️⃣ https://www.lookssl.com：免费申请一年 Root CA 1 年证书<br><br>Let's Encrypt也可以用certbot申请和自动更新，不过我验证域名所有权的时候没成功，很奇怪，放弃了😅]]></description>
-            <pubDate>Tue, 12 Mar 2024 13:58:04 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65f05f6c9185c305d1a0c1f7</guid>
-            <link>https://m.okjike.com/originalPosts/65f05f6c9185c305d1a0c1f7</link>
-            
-            
-            
-            <author><![CDATA[不务正业小胡同学]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[支持了按组对齐和分布]]></title>
-            <description><![CDATA[支持了按组对齐和分布<br><video src="https://videocdn.jellow.site/ll2QzHXxhXqwjn0LP6hv7wBqP8mP.mp4?sign=bc29c8b431ffe7bb96ff98049b9cf944&amp;t=65f45924" controls=""></video>]]></description>
+            <description><![CDATA[支持了按组对齐和分布<br><video src="https://videocdn.jellow.site/ll2QzHXxhXqwjn0LP6hv7wBqP8mP.mp4?sign=40905f71aff37f6ff53ef50618a05ba3&amp;t=65f4985f" controls=""></video>]]></description>
             <pubDate>Mon, 11 Mar 2024 11:45:41 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/65eeeee536246663242e0c73</guid>
             <link>https://m.okjike.com/originalPosts/65eeeee536246663242e0c73</link>
