@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sat, 16 Mar 2024 02:34:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Mar 2024 08:14:29 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[Cloudflare白嫖党又来了，分享几个基于workers的项目，免费，抗DDOS，每天10W次免费请求，个人出海非常够用！ ps：我的某个网站就是部署在这上面hhhh 1️⃣ 博客...]]></title>
+            <description><![CDATA[Cloudflare白嫖党又来了，分享几个基于workers的项目，免费，抗DDOS，每天10W次免费请求，个人出海非常够用！<br>ps：我的某个网站就是部署在这上面hhhh<br><br>1️⃣ 博客<br>✅ 利用 worker 的 KV 作为数据库搭建博客<br>https://github.com/gdtool/cloudflare-workers-blog<br>✅ 利用 workers+github 搭建博客系统<br>https://github.com/kasuganosoras/cloudflare-worker-blog<br><br>2️⃣ 导航站<br>https://github.com/sleepwood/CF-Worker-Dir<br><br>3️⃣ 图床<br>https://github.com/iiop123/workers-image-hosting<br><br>4️⃣ 短网址服务<br>https://github.com/igengdu/short/ <br>https://github.com/crazypeace/Url-Shorten-Worker<br>https://github.com/Closty/duanwangzhi]]></description>
+            <pubDate>Fri, 15 Mar 2024 10:21:44 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65f42138de5f287348336ef8</guid>
+            <link>https://m.okjike.com/originalPosts/65f42138de5f287348336ef8</link>
+            
+            
+            
+            <author><![CDATA[不务正业小胡同学]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[说靴靴]]></title>
@@ -106,7 +122,7 @@
         
         <item>
             <title><![CDATA[支持了按组对齐和分布]]></title>
-            <description><![CDATA[支持了按组对齐和分布<br><video src="https://videocdn.jellow.site/ll2QzHXxhXqwjn0LP6hv7wBqP8mP.mp4?sign=ccbe47fab17c560b05ff5c0a414bcdc1&amp;t=65f4f124" controls=""></video>]]></description>
+            <description><![CDATA[支持了按组对齐和分布<br><video src="https://videocdn.jellow.site/ll2QzHXxhXqwjn0LP6hv7wBqP8mP.mp4?sign=a44696d6917ae242477378636028a0ac&amp;t=65f545d5" controls=""></video>]]></description>
             <pubDate>Mon, 11 Mar 2024 11:45:41 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/65eeeee536246663242e0c73</guid>
             <link>https://m.okjike.com/originalPosts/65eeeee536246663242e0c73</link>
@@ -114,22 +130,6 @@
             
             
             <author><![CDATA[沈毅]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[哥飞发现一个找真实AI需求的好地方，全球最大的AI导航站，月访问量500万的 There's An AI For That 上线了一个AI需求频道，人人都能发帖说出自己的需求，其他人...]]></title>
-            <description><![CDATA[哥飞发现一个找真实AI需求的好地方，全球最大的AI导航站，月访问量500万的 There's An AI For That 上线了一个AI需求频道，人人都能发帖说出自己的需求，其他人可以回复符合这个需求的AI产品。<br>现在上面有340条需求，大家可以去看一看，说不定能够找到自己能做的需求。<br>网址直达： https://theresanaiforthat.com/requests/<br><img src="https://cdnv2.ruguoapp.com/FoQMI8_0GTn74GEbMOGrTx4hBN5tv3.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 07 Mar 2024 14:50:13 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65e9d42537f7165b21233b06</guid>
-            <link>https://m.okjike.com/originalPosts/65e9d42537f7165b21233b06</link>
-            
-            
-            
-            <author><![CDATA[哥飞]]></author>
             
                 
             
