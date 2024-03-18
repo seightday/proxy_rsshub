@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 18 Mar 2024 00:56:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Mar 2024 03:33:09 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[上次有个GPU价格对比网站 https://cloud-gpus.com/ ，这次又来个大模型价格对比网站 https://llm-price.com/ 。 ​ ​作者说，整个网站完全由 Claude Sonnet 进...]]></title>
+            <description><![CDATA[上次有个GPU价格对比网站 https://cloud-gpus.com/<br>，这次又来个大模型价格对比网站 https://llm-price.com/ 。<br>​<br>​作者说，整个网站完全由 Claude Sonnet 进行设计、开发，并持续更新，数据源还在持续添加中。<br><br>如何理解由 Claude 驱动呢？<br><br>作者回答，网上有很多汇总价格的网站，但是数据更新是个问题，基本上都停留在很久以前了。<br><br>作者尝试通过定时脚本，自动获取各大供应商的 Pricing 页面内容，然后由 Claude Sonnet 提取数据后更新，后续只需要不断添加 Pricing 页面的地址即可。<br><br>这样就做出来了一个完全由 LLM 驱动的 LLM 价格汇总网站。]]></description>
+            <pubDate>Sun, 17 Mar 2024 23:35:52 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65f77e5838849f879f3c7f33</guid>
+            <link>https://m.okjike.com/originalPosts/65f77e5838849f879f3c7f33</link>
+            
+            
+            
+            <author><![CDATA[哥飞]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[iOS 开发 = 🧗 好难 Android 开发 = 🧗‍♂️ 更难 同时一起搞 = 🤯🤯🥲此刻的我……]]></title>
@@ -105,24 +121,8 @@
         </item>
         
         <item>
-            <title><![CDATA[有没有可以用chat不翻的网，我之前在github上找到过一个，现在没了，向各位大佬求教，好人一生平安]]></title>
-            <description><![CDATA[有没有可以用chat不翻的网，我之前在github上找到过一个，现在没了，向各位大佬求教，好人一生平安]]></description>
-            <pubDate>Thu, 14 Mar 2024 07:35:12 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65f2a8b0a922aa28d0d4efff</guid>
-            <link>https://m.okjike.com/originalPosts/65f2a8b0a922aa28d0d4efff</link>
-            
-            
-            
-            <author><![CDATA[飞翔的企鹅_GRGa]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[支持了按组对齐和分布]]></title>
-            <description><![CDATA[支持了按组对齐和分布<br><video src="https://videocdn.jellow.site/ll2QzHXxhXqwjn0LP6hv7wBqP8mP.mp4?sign=2f7f75c8b98a8ffd9e0d4134dabbc08e&amp;t=65f77e14" controls=""></video>]]></description>
+            <description><![CDATA[支持了按组对齐和分布<br><video src="https://videocdn.jellow.site/ll2QzHXxhXqwjn0LP6hv7wBqP8mP.mp4?sign=fcd12c36a916e65f198a033b4b21d98c&amp;t=65f7b420" controls=""></video>]]></description>
             <pubDate>Mon, 11 Mar 2024 11:45:41 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/65eeeee536246663242e0c73</guid>
             <link>https://m.okjike.com/originalPosts/65eeeee536246663242e0c73</link>
