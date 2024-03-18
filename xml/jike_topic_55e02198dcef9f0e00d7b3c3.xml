@@ -21,8 +21,24 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Mon, 18 Mar 2024 03:33:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Mar 2024 07:31:23 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[你们看我发现了什么！ 这是一个使用Nextjs、React、Drizzle和Stripe开发的仿Duolingo开源项目：https://github.com/AntonioErdeljac/next14-duolingo-clone 它的...]]></title>
+            <description><![CDATA[你们看我发现了什么！<br><br>这是一个使用Nextjs、React、Drizzle和Stripe开发的仿Duolingo开源项目：https://github.com/AntonioErdeljac/next14-duolingo-clone<br>它的功能非常丰富，包含了：AI语音、组件系统、认证系统、音效、生命值系统、积分/经验值系统、排行榜、任务等等。<br><br>感觉折腾折腾就能上线自己的语言学习平台了👏。<br><img src="https://cdnv2.ruguoapp.com/FqqcQAem06wBl6YAvxAapo1jjknbv3.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 18 Mar 2024 03:12:35 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65f7b1233b9c66cae4f3794a</guid>
+            <link>https://m.okjike.com/originalPosts/65f7b1233b9c66cae4f3794a</link>
+            
+            
+            
+            <author><![CDATA[BigYe程普]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[上次有个GPU价格对比网站 https://cloud-gpus.com/ ，这次又来个大模型价格对比网站 https://llm-price.com/ 。 ​ ​作者说，整个网站完全由 Claude Sonnet 进...]]></title>
@@ -73,22 +89,6 @@
         </item>
         
         <item>
-            <title><![CDATA[Cloudflare白嫖党又来了，分享几个基于workers的项目，免费，抗DDOS，每天10W次免费请求，个人出海非常够用！ ps：我的某个网站就是部署在这上面hhhh 1️⃣ 博客...]]></title>
-            <description><![CDATA[Cloudflare白嫖党又来了，分享几个基于workers的项目，免费，抗DDOS，每天10W次免费请求，个人出海非常够用！<br>ps：我的某个网站就是部署在这上面hhhh<br><br>1️⃣ 博客<br>✅ 利用 worker 的 KV 作为数据库搭建博客<br>https://github.com/gdtool/cloudflare-workers-blog<br>✅ 利用 workers+github 搭建博客系统<br>https://github.com/kasuganosoras/cloudflare-worker-blog<br><br>2️⃣ 导航站<br>https://github.com/sleepwood/CF-Worker-Dir<br><br>3️⃣ 图床<br>https://github.com/iiop123/workers-image-hosting<br><br>4️⃣ 短网址服务<br>https://github.com/igengdu/short/ <br>https://github.com/crazypeace/Url-Shorten-Worker<br>https://github.com/Closty/duanwangzhi]]></description>
-            <pubDate>Fri, 15 Mar 2024 10:21:44 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/65f42138de5f287348336ef8</guid>
-            <link>https://m.okjike.com/originalPosts/65f42138de5f287348336ef8</link>
-            
-            
-            
-            <author><![CDATA[不务正业小胡同学]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[说靴靴]]></title>
             <description><![CDATA[说靴靴<br><img src="https://cdnv2.ruguoapp.com/FtE9FBfvpqzLfqe51lFin313Gn1Nv3.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Fri, 15 Mar 2024 03:26:03 GMT</pubDate>
@@ -122,7 +122,7 @@
         
         <item>
             <title><![CDATA[支持了按组对齐和分布]]></title>
-            <description><![CDATA[支持了按组对齐和分布<br><video src="https://videocdn.jellow.site/ll2QzHXxhXqwjn0LP6hv7wBqP8mP.mp4?sign=fcd12c36a916e65f198a033b4b21d98c&amp;t=65f7b420" controls=""></video>]]></description>
+            <description><![CDATA[支持了按组对齐和分布<br><video src="https://videocdn.jellow.site/ll2QzHXxhXqwjn0LP6hv7wBqP8mP.mp4?sign=973f0ed2e82d7c4c77fc0c3d65d32621&amp;t=65f7ed4c" controls=""></video>]]></description>
             <pubDate>Mon, 11 Mar 2024 11:45:41 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/65eeeee536246663242e0c73</guid>
             <link>https://m.okjike.com/originalPosts/65eeeee536246663242e0c73</link>
