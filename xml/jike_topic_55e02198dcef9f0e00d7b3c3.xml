@@ -20,7 +20,7 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sat, 25 May 2024 00:59:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 May 2024 04:15:53 GMT</lastBuildDate>
         <ttl>1</ttl>
         
         <item>
@@ -32,26 +32,6 @@
             <pubDate>Fri, 24 May 2024 15:34:02 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/6650b36ab978aad2ed157713</guid>
             <link>https://m.okjike.com/originalPosts/6650b36ab978aad2ed157713</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[基于最新事实，改编个段子。
-有个做得不错的网站，光看界面，我们以为是老外做的。
-直到，看html源码，看到了中文注释。
-哦，原来是出海的同行。
-@MoneyHunter]]></title>
-            <description><![CDATA[<br>基于最新事实，改编个段子。<br>有个做得不错的网站，光看界面，我们以为是老外做的。<br>直到，看html源码，看到了中文注释。<br>哦，原来是出海的同行。<br>@MoneyHunter ]]></description>
-            <pubDate>Fri, 24 May 2024 03:16:35 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6650069319d274e29663183b</guid>
-            <link>https://m.okjike.com/originalPosts/6650069319d274e29663183b</link>
             
             
             
@@ -161,6 +141,29 @@
             <pubDate>Wed, 22 May 2024 15:44:15 GMT</pubDate>
             <guid isPermaLink="false">https://mp.weixin.qq.com/s/rO8RBko5ZnOmeNohp-sneQ</guid>
             <link>https://mp.weixin.qq.com/s/rO8RBko5ZnOmeNohp-sneQ</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[🔎 Morphic - 一个开源的 AI 搜索引擎
+
+🛠 工具推荐：Morphic（https://github.com/miurla/morphic)
+
+💰 付费类型：开源
+
+✨ 主要特性：
+1. 兼容多种AI模...]]></title>
+            <description><![CDATA[<br>🔎 Morphic - 一个开源的 AI 搜索引擎<br><br>🛠 工具推荐：Morphic（https://github.com/miurla/morphic)<br><br>💰 付费类型：开源<br><br>✨ 主要特性：<br>1. 兼容多种AI模型，包括OpenAI、Gemini以及Llama3大模型。<br>2. 支持指定要使用的模型，提供灵活性和定制化选择。<br>3. 可部署到本地运行或通过Vercel快速部署，便捷易用。<br><br>🧱技术栈：<br>1. App framework: Next.js<br>2. Text streaming / Generative UI: Vercel AI SDK<br>3. Generative Model: OpenAI<br>4. Search API: Tavily AI / Exa AI<br>5. Serverless Database: Upstash<br>6. Component library: shadcn/ui<br>7. Headless component primitives: Radix UI<br>8. Styling: Tailwind CSS<br><br>同类项目还有：https://github.com/rashadphz/farfalle<br><picture><source srcset="https://cdnv2.ruguoapp.com/FneAroCy9VCiPHwJgzw78_WqY6_vv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/FneAroCy9VCiPHwJgzw78_WqY6_vv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/FneAroCy9VCiPHwJgzw78_WqY6_vv3.png"></picture>]]></description>
+            <pubDate>Wed, 22 May 2024 12:14:25 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/664de1a19b2032272b94ee92</guid>
+            <link>https://m.okjike.com/originalPosts/664de1a19b2032272b94ee92</link>
             
             
             
