@@ -20,8 +20,29 @@
             <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
         </image>
         
-        <lastBuildDate>Sat, 25 May 2024 16:16:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 May 2024 20:13:50 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[看到这条信息后，我发在社群的思考：
+
+这个网站有意思
+https://ui-libs.vercel.app/
+
+简单来说，就是给各个UI库打上了各种标签（或者说属性），之后就可以基于标...]]></title>
+            <description><![CDATA[<br>看到这条信息后，我发在社群的思考：<br><br>这个网站有意思<br>https://ui-libs.vercel.app/<br><br>简单来说，就是给各个UI库打上了各种标签（或者说属性），之后就可以基于标签来筛选过滤符合自己要求的UI库了。<br><br>这个思路可以用在很多场景里，方法是先打标签，然后用标签组合来筛选产品。<br>如图书推荐、电影推荐、AI产品推荐等等。<br><br>代码是开源的，明天大家就可以基于这套代码改改，上网站了。<br>https://github.com/ddahan/ui-libs<br><br>明日故乡，中国版数字游民指南，也是给全国各个县市打了很多属性，然后让大家可以根据属性来筛选适合数字游民的县市。<br>https://guxiang.app/<br><br>——<br>以上就是我维护社群的日常之一，看到有价值的内容，不是简单分享到群里，而是给大家讲清楚这条内容到底有什么价值，要怎么使用。<br><picture><source srcset="https://cdnv2.ruguoapp.com/FkKYYt34KNaio35p28DFfL0Cg7iPv3.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/FkKYYt34KNaio35p28DFfL0Cg7iPv3.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/FkKYYt34KNaio35p28DFfL0Cg7iPv3.jpg"></picture>]]></description>
+            <pubDate>Sat, 25 May 2024 15:56:34 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/66520a320b61ef7c963a8bea</guid>
+            <link>https://m.okjike.com/originalPosts/66520a320b61ef7c963a8bea</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[真正让我插件开发水平火箭式提升的时刻！！！
@@ -53,25 +74,6 @@ https://doc.heybeauty.ai/try-on]]></title>
             <pubDate>Sat, 25 May 2024 01:56:51 GMT</pubDate>
             <guid isPermaLink="false">https://m.okjike.com/originalPosts/665145630b61ef7c962aa455</guid>
             <link>https://m.okjike.com/originalPosts/665145630b61ef7c962aa455</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Genact是一款开源上班摸鱼神器
-
-上班时，你的电脑屏幕上什么都没有，突然领导走过来，你慌忙打开一些文件假装自己在忙碌？
-这款软件它能让你的电脑看起来永远在...]]></title>
-            <description><![CDATA[<br>Genact是一款开源上班摸鱼神器<br><br>上班时，你的电脑屏幕上什么都没有，突然领导走过来，你慌忙打开一些文件假装自己在忙碌？<br>这款软件它能让你的电脑看起来永远在忙碌，再也不用担摸鱼被抓！<br><br>Genact 是一个可以运行在你的终端上的小程序，它会模拟一些看起来非常专业的活动，比如编译代码，扫描网络等等。<br>这些都是假象！它不需要任何权限，也不会真的做这些事情，你可以同时打开多个界面假装忙碌，而实际上啥都没干，就是玩！<br><br>Github：https://github.com/svenstaro/genact<br><br>作者还提供了一个web版本，不安装软件，也可以在浏览器里伪装工作很忙了<br>https://svenstaro.github.io/genact/<img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/FrEvX033PUbu-2wQ2PK9S7vxEYf9v3.gif">]]></description>
-            <pubDate>Fri, 24 May 2024 15:41:18 GMT</pubDate>
-            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6650b51e81bde25c6fcca2d9</guid>
-            <link>https://m.okjike.com/originalPosts/6650b51e81bde25c6fcca2d9</link>
             
             
             
