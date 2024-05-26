@@ -1,1 +1,219 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>JitHub程序员 - 即刻圈子</title><link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link><atom:link href="http://rsshub.app/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml"></atom:link><description>开发者们分享，问答，也可以交友的地方。欢迎所有工程师！ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)</description><generator>RSSHub</generator><webMaster>i@diygod.me (DIYgod)</webMaster><language>en</language><image><url>https://cdnv2.ruguoapp.com/FkFcHSgyNRo4yKxLYMVbDDP6gwdk.png?imageMogr2/auto-orient/heic-exif/1/format/jpeg/thumbnail/1000x1000%3E</url><title>JitHub程序员 - 即刻圈子</title><link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link></image><lastBuildDate>Sun, 26 May 2024 00:22:15 GMT</lastBuildDate><ttl>180</ttl><item><title>看到这条信息后，我发在社群的思考： 这个网站有意思 https://ui-libs.vercel.app/ 简单来说，就是给各个UI库打上了各种标签（或者说属性），之后就可以基于标签...</title><description>看到这条信息后，我发在社群的思考：&lt;br&gt;&lt;br&gt;这个网站有意思&lt;br&gt;https://ui-libs.vercel.app/&lt;br&gt;&lt;br&gt;简单来说，就是给各个UI库打上了各种标签（或者说属性），之后就可以基于标签来筛选过滤符合自己要求的UI库了。&lt;br&gt;&lt;br&gt;这个思路可以用在很多场景里，方法是先打标签，然后用标签组合来筛选产品。&lt;br&gt;如图书推荐、电影推荐、AI产品推荐等等。&lt;br&gt;&lt;br&gt;代码是开源的，明天大家就可以基于这套代码改改，上网站了。&lt;br&gt;https://github.com/ddahan/ui-libs&lt;br&gt;&lt;br&gt;明日故乡，中国版数字游民指南，也是给全国各个县市打了很多属性，然后让大家可以根据属性来筛选适合数字游民的县市。&lt;br&gt;https://guxiang.app/&lt;br&gt;&lt;br&gt;——&lt;br&gt;以上就是我维护社群的日常之一，看到有价值的内容，不是简单分享到群里，而是给大家讲清楚这条内容到底有什么价值，要怎么使用。&lt;br&gt;&lt;img src=&quot;https://cdnv2.ruguoapp.com/FkKYYt34KNaio35p28DFfL0Cg7iPv3.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;</description><link>https://m.okjike.com/originalPosts/66520a320b61ef7c963a8bea</link><guid isPermaLink="false">https://m.okjike.com/originalPosts/66520a320b61ef7c963a8bea</guid><pubDate>Sat, 25 May 2024 15:56:34 GMT</pubDate><author>哥飞</author></item><item><title>真正让我插件开发水平火箭式提升的时刻！！！ 第一次用 Motion 查看别人插件源代码时，我感到无比兴奋。 🙂 原来那些小众需求，早已有人解决得很漂亮。 🤣 ...</title><description>真正让我插件开发水平火箭式提升的时刻！！！&lt;br&gt;&lt;br&gt;第一次用 Motion 查看别人插件源代码时，我感到无比兴奋。&lt;br&gt;&lt;br&gt;🙂 原来那些小众需求，早已有人解决得很漂亮。&lt;br&gt;&lt;br&gt;🤣 代码混淆？不存在的，GPT-4 都能轻松移花接木！&lt;br&gt;&lt;br&gt;如果你也在开发插件，强烈推荐这个方法，真的管用啊哈哈！&lt;br&gt;&lt;video src=&quot;https://videocdn.jellow.site/FpPG9jJLbvaITw0xhdC4t2_XXpau.mp4?sign=a3b749119f5def14677448743961f62a&amp;amp;t=66528062&quot; controls=&quot;&quot;&gt;&lt;/video&gt;</description><link>https://m.okjike.com/originalPosts/66517d98928d2cdfd58ee4f5</link><guid isPermaLink="false">https://m.okjike.com/originalPosts/66517d98928d2cdfd58ee4f5</guid><pubDate>Sat, 25 May 2024 05:56:40 GMT</pubDate><author>卡右</author></item><item><title>Genact是一款开源上班摸鱼神器 上班时，你的电脑屏幕上什么都没有，突然领导走过来，你慌忙打开一些文件假装自己在忙碌？ 这款软件它能让你的电脑看起来永远在忙...</title><description>Genact是一款开源上班摸鱼神器&lt;br&gt;&lt;br&gt;上班时，你的电脑屏幕上什么都没有，突然领导走过来，你慌忙打开一些文件假装自己在忙碌？&lt;br&gt;这款软件它能让你的电脑看起来永远在忙碌，再也不用担摸鱼被抓！&lt;br&gt;&lt;br&gt;Genact 是一个可以运行在你的终端上的小程序，它会模拟一些看起来非常专业的活动，比如编译代码，扫描网络等等。&lt;br&gt;这些都是假象！它不需要任何权限，也不会真的做这些事情，你可以同时打开多个界面假装忙碌，而实际上啥都没干，就是玩！&lt;br&gt;&lt;br&gt;Github：https://github.com/svenstaro/genact&lt;br&gt;&lt;br&gt;作者还提供了一个web版本，不安装软件，也可以在浏览器里伪装工作很忙了&lt;br&gt;https://svenstaro.github.io/genact/&lt;img src=&quot;https://cdnv2.ruguoapp.com/FrEvX033PUbu-2wQ2PK9S7vxEYf9v3.gif&quot; referrerpolicy=&quot;no-referrer&quot;&gt;</description><link>https://m.okjike.com/originalPosts/6650b51e81bde25c6fcca2d9</link><guid isPermaLink="false">https://m.okjike.com/originalPosts/6650b51e81bde25c6fcca2d9</guid><pubDate>Fri, 24 May 2024 15:41:18 GMT</pubDate><author>农村小暖男</author></item><item><title>「某个网站过去4个月的回顾」 先前做了一批网站，每个网站的类型都很相似。 其中一个最早做也花最多时间的网站，目前成效还不错，目前两个主要关键词的排名都在...</title><description>「某个网站过去4个月的回顾」&lt;br&gt;先前做了一批网站，每个网站的类型都很相似。&lt;br&gt;&lt;br&gt;其中一个最早做也花最多时间的网站，目前成效还不错，目前两个主要关键词的排名都在前三的位置。&lt;br&gt;&lt;br&gt;我认为主要是因为做对了以下几件事：&lt;br&gt;&lt;br&gt;1. 挑选了一个低KD的关键词&lt;br&gt;2. 关键词作为域名&lt;br&gt;3. 整个站只做1、2个关键词&lt;br&gt;4. 做了20、30+高权重（DR55-90）的反链&lt;br&gt;5. 新增GPT问答功能提升停留时间&lt;br&gt;6. 确保页面关键词密度&lt;br&gt;7. 内链文字加入关键词&lt;br&gt;&lt;br&gt;目前还有其他几个网站的数据也在持续上升中。&lt;br&gt;&lt;br&gt;想特别感谢@哥飞 还有社群，上面的技巧几乎都是从社群中学到的。&lt;br&gt;&lt;br&gt;接下来还要继续努力，希望可以有更多好的成果🥹&lt;br&gt;&lt;img src=&quot;https://cdnv2.ruguoapp.com/FoodVMKx-YilAfcIyh7Dn-Ryxp4Cv3.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;</description><link>https://m.okjike.com/originalPosts/6650b36ab978aad2ed157713</link><guid isPermaLink="false">https://m.okjike.com/originalPosts/6650b36ab978aad2ed157713</guid><pubDate>Fri, 24 May 2024 15:34:02 GMT</pubDate><author>阿杰_6P8w</author></item><item><title>⭕️ 开源 稍后阅读 ➕AI 项目 发现一个开源项目，稍后阅读类app，可以使用AI自动分类，甚至还有iOS、安卓APP以及浏览器扩展多端支持！这不比cubox香太多了🥹 ...</title><description>⭕️ 开源 稍后阅读 ➕AI 项目&lt;br&gt;&lt;br&gt;发现一个开源项目，稍后阅读类app，可以使用AI自动分类，甚至还有iOS、安卓APP以及浏览器扩展多端支持！这不比cubox香太多了🥹&lt;br&gt;&lt;br&gt;主要feature：&lt;br&gt;🔗 一键保存链接&lt;br&gt;📝 随手记录笔记&lt;br&gt;🖼️ 图片存储&lt;br&gt;⬇️ 自动获取链接标题等&lt;br&gt;📋 自定义列表整理&lt;br&gt;🔎 全文搜索&lt;br&gt;✨ 基于AI的标签&lt;br&gt;🤖 本地模型支持&lt;br&gt;🔖 浏览器插件&lt;br&gt;📱 移动原生应用&lt;br&gt;🌙 深色模式&lt;br&gt;💾 强调自主托管&lt;br&gt; [规划中] 📥 离线阅读&lt;br&gt;&lt;br&gt;🔗 https://github.com/hoarder-app/hoarder&lt;br&gt;&lt;img src=&quot;https://cdnv2.ruguoapp.com/FlMSuf0zeMje9i-i6jiyf3qx_LA1v3.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;</description><link>https://m.okjike.com/originalPosts/664fe5749e2e9fda027915bd</link><guid isPermaLink="false">https://m.okjike.com/originalPosts/664fe5749e2e9fda027915bd</guid><pubDate>Fri, 24 May 2024 00:55:16 GMT</pubDate><author>不务正业小胡同学</author></item><item><title>社群里朋友怪才把我一篇付费文章做成了清晰的思维导图。 本来只是分享给社群里其他人看的，结果好像一上午已经被传播开来了。 据说在多个群看到了，那我也发给即...</title><description>社群里朋友怪才把我一篇付费文章做成了清晰的思维导图。&lt;br&gt;本来只是分享给社群里其他人看的，结果好像一上午已经被传播开来了。&lt;br&gt;据说在多个群看到了，那我也发给即友们看看吧。&lt;br&gt;欢迎转发给你的朋友看，了解一下哥飞的社群内容质量到底有多高。&lt;br&gt;这只是其中一篇文章，而这样质量的文章还有很多。&lt;br&gt;&lt;img src=&quot;https://cdnv2.ruguoapp.com/FqAiQd4FrSF-g275EXfesONbwClwv3.png&quot; referrerpolicy=&quot;no-referrer&quot;&gt;</description><link>https://m.okjike.com/originalPosts/664ee0c09e2e9fda0264b1a0</link><guid isPermaLink="false">https://m.okjike.com/originalPosts/664ee0c09e2e9fda0264b1a0</guid><pubDate>Thu, 23 May 2024 06:22:56 GMT</pubDate><author>哥飞</author></item><item><title>原来撒花特效是这样做的🎉 推荐使用这个开源库：canvas-confetti，只要一行代码就能添加特效，支持撒花、放烟花、下雪多种特效，也可以自定义撒花的元素。 开...</title><description>原来撒花特效是这样做的🎉&lt;br&gt;&lt;br&gt;推荐使用这个开源库：canvas-confetti，只要一行代码就能添加特效，支持撒花、放烟花、下雪多种特效，也可以自定义撒花的元素。&lt;br&gt;&lt;br&gt;开源地址：https://github.com/catdad/canvas-confetti&lt;br&gt;演示地址：https://www.kirilv.com/canvas-confetti/&lt;br&gt;Nextjs/React用法demo：https://codesandbox.io/p/sandbox/canvas-confetti-nextui-forked-6ckygy&lt;br&gt;&lt;img src=&quot;https://cdnv2.ruguoapp.com/FrDPSV3riJexiWRk8oxUT2CJOf18v3.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;</description><link>https://m.okjike.com/originalPosts/664eb2cd19d274e296471ab9</link><guid isPermaLink="false">https://m.okjike.com/originalPosts/664eb2cd19d274e296471ab9</guid><pubDate>Thu, 23 May 2024 03:06:53 GMT</pubDate><author>BigYe程普</author></item><item><title>作为一个使用微信读书的重度用户，喜欢在手机和PC浏览器上看书，但发现PC浏览器没有网友的读书评论，感觉比手机端少了很多乐趣。 在业余时间开发了一个插件，可...</title><description>作为一个使用微信读书的重度用户，喜欢在手机和PC浏览器上看书，但发现PC浏览器没有网友的读书评论，感觉比手机端少了很多乐趣。&lt;br&gt;在业余时间开发了一个插件，可以让浏览器里面显示出微信读书评论，目前已经上架到浏览器官方插件商店，欢迎大家使用&lt;br&gt;Chrome插件商店  https://chromewebstore.google.com/detail/%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6%E8%AF%84%E8%AE%BA%E6%8F%92%E4%BB%B6/kfjimgaoegibikoojcbnkbffkongnoep&lt;br&gt;&lt;br&gt;Edge插件商店 https://microsoftedge.microsoft.com/addons/detail/%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6%E8%AF%84%E8%AE%BA%E6%8F%92%E4%BB%B6/dpihhfdnbndfhonhkbnnhojbnaeedabc&lt;br&gt;&lt;img src=&quot;https://cdnv2.ruguoapp.com/Fuy2U66RkjmR-BmRWh7bIO3OZELrv3.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;br&gt;&lt;img src=&quot;https://cdnv2.ruguoapp.com/FiRM1xiQo_MJbXIJtWn4RI7max8Gv3.png&quot; referrerpolicy=&quot;no-referrer&quot;&gt;</description><link>https://m.okjike.com/originalPosts/664e1417fac7eab113f7b7c7</link><guid isPermaLink="false">https://m.okjike.com/originalPosts/664e1417fac7eab113f7b7c7</guid><pubDate>Wed, 22 May 2024 15:49:43 GMT</pubDate><author>渣渣奚</author></item><item><title>@banbri 说一套代码打天下，最高时每天收入2000美元，我也聊几句。 以前在公司上班时，我就锻炼了一个能力，能够抓住需求的精髓，带着技术团队，先快速上线第一...</title><description>@banbri 说一套代码打天下，最高时每天收入2000美元，我也聊几句。&lt;br&gt;&lt;br&gt;以前在公司上班时，我就锻炼了一个能力，能够抓住需求的精髓，带着技术团队，先快速上线第一版，先让同事用起来。&lt;br&gt;&lt;br&gt;每一个功能，不需要开发得尽善尽美才上线发布。&lt;br&gt;&lt;br&gt;假设某个需求需要五个环节，那么我可能会先把最重要的环节做好，其它环节暂时如果先用人手可以解决就用人手。&lt;br&gt;&lt;br&gt;举例，与其它系统打通需要时间，那就先不打通，手动处理就好了。&lt;br&gt;&lt;br&gt;现在做出海AI工具赚美元也是一样，一个新的需求出现，如果你一个月才上线，黄花菜都凉了。&lt;br&gt;&lt;br&gt;最好的办法就是如果你已经有积累，直接拿之前的代码改改，先快速上线第一版。&lt;br&gt;&lt;br&gt;如果你没有积累怎么办呢？&lt;br&gt;&lt;br&gt;没有对接过支付？&lt;br&gt;那就先不接，免费给大家使用。&lt;br&gt;&lt;br&gt;没有做过谷歌登录？&lt;br&gt;那就先不用登录就可以使用。&lt;br&gt;&lt;br&gt;没有对接过AI接口？&lt;br&gt;那就先上线个静态页面，先抢排名。&lt;br&gt;&lt;br&gt;积累是怎么来的？&lt;br&gt;第一个网站只是静态页面，第二个网站就能够对接接口，真的有功能，第三个网站就可以加上登录，第四个网站就加上支付。&lt;br&gt;&lt;br&gt;一步一步来，只有你真的去上站，才有可能有积累。&lt;br&gt;&lt;img src=&quot;https://cdnv2.ruguoapp.com/Fr7z9TfLw0gSZ5eoJcAVyMdH0nK-v3.png&quot; referrerpolicy=&quot;no-referrer&quot;&gt;</description><link>https://m.okjike.com/originalPosts/664d773219d274e2962d203b</link><guid isPermaLink="false">https://m.okjike.com/originalPosts/664d773219d274e2962d203b</guid><pubDate>Wed, 22 May 2024 04:40:18 GMT</pubDate><author>哥飞</author></item><item><title>人生没有白走的路,每一步都算数。 前几天和@Clara998 闲时聊起，为什么我们可以抓住一些机会赚到钱？ 其中有一条原因是有一些东西我们之前做过，所以看到新机会...</title><description>人生没有白走的路,每一步都算数。&lt;br&gt;&lt;br&gt;前几天和@Clara998 闲时聊起，为什么我们可以抓住一些机会赚到钱？&lt;br&gt;&lt;br&gt;其中有一条原因是有一些东西我们之前做过，所以看到新机会的时候够迅速抓住。比如之前网站的模板，稍作修改，就可以迅速上线新网站。&lt;br&gt;&lt;br&gt;当别人刚看到这个机会时，我们已经上线了；当别人上线时，我们可能已经拿到了第一笔订单。&lt;br&gt;&lt;br&gt;去年，我上线了第一个出海网站。花了两天时间找模板、改文案、发帖推广等，走完整个流程费了不少劲儿。虽然最终网站流量不多，但通过这个过程，我了解到上线一个漂亮的英文工具网站并从谷歌获取流量并不那么难。这减少了我对这件事的恐惧感，并让我跑通了基本流程。虽然第一个网站没有赚到钱，但这是一种宝贵的经验。&lt;br&gt;&lt;br&gt;感觉自己还算比较幸运，后面到第二个网站，第三个网站就直接起飞了。值得一提的是第三个网站，当时在追一个热点，我和 @Clara998  大概花费了一周写完了这套代码，上线后的第一个月收入大约有 1000 美元。现在看来虽然不是很多，但是也还可以。最重要的是，这套代码在之后的多个项目中稍作修改，都赚到钱了。而这些项目用的还是原来的那套代码，几乎没有太大改动。&lt;br&gt;&lt;br&gt;最离谱的是，两个月前，一个超级大热点又让这套代码派上了用场。顶峰时期，相同代码同个热点多个站点的收入加起来超过了每天 2000 美元。于是我跟@星空猎人阿拉丁 调侃说，想不到去年我跟@Clara998 写的屎山一样的代码，能够发挥出来这么大的价值。&lt;br&gt;&lt;br&gt;有句话说得好：“你所做的事情，也许暂时看不到成果，但不要灰心或焦虑，你不是没有成长，而是在扎根。”这句话在出海做网站时同样适用。&lt;br&gt;&lt;br&gt;如果还有一句话，那就是你做的每一个网站都是在为下一个能赚钱的网站做准备，每一个网站都是下一个网站的垫脚石。所以，请放心，你上的每个网站都算数，都会给你积累经验，无论是成功经验还是失败经验。</description><link>https://m.okjike.com/originalPosts/664d6c0726c1711066f7277c</link><guid isPermaLink="false">https://m.okjike.com/originalPosts/664d6c0726c1711066f7277c</guid><pubDate>Wed, 22 May 2024 03:52:39 GMT</pubDate><author>banbri</author></item></channel></rss>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
+
+>
+    <channel>
+        <title><![CDATA[JitHub程序员 - 即刻圈子]]></title>
+        <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
+        <atom:link href="https://rsshub/jike/topic/55e02198dcef9f0e00d7b3c3" rel="self" type="application/rss+xml" />
+        <description><![CDATA[开发者们分享，问答，也可以交友的地方。欢迎所有工程师！ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
+        <generator>RSSHub</generator>
+        <webMaster>i@diygod.me (DIYgod)</webMaster>
+        
+        
+        
+        <language>zh-cn</language>
+        
+        <image>
+            <url>https://cdnv2.ruguoapp.com/FkFcHSgyNRo4yKxLYMVbDDP6gwdk.png?imageMogr2/auto-orient/heic-exif/1/format/jpeg/thumbnail/1000x1000%3E</url>
+            <title><![CDATA[JitHub程序员 - 即刻圈子]]></title>
+            <link>https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3</link>
+        </image>
+        
+        <lastBuildDate>Sun, 26 May 2024 04:16:00 GMT</lastBuildDate>
+        <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[看到这条信息后，我发在社群的思考：
+
+这个网站有意思
+https://ui-libs.vercel.app/
+
+简单来说，就是给各个UI库打上了各种标签（或者说属性），之后就可以基于标...]]></title>
+            <description><![CDATA[<br>看到这条信息后，我发在社群的思考：<br><br>这个网站有意思<br>https://ui-libs.vercel.app/<br><br>简单来说，就是给各个UI库打上了各种标签（或者说属性），之后就可以基于标签来筛选过滤符合自己要求的UI库了。<br><br>这个思路可以用在很多场景里，方法是先打标签，然后用标签组合来筛选产品。<br>如图书推荐、电影推荐、AI产品推荐等等。<br><br>代码是开源的，明天大家就可以基于这套代码改改，上网站了。<br>https://github.com/ddahan/ui-libs<br><br>明日故乡，中国版数字游民指南，也是给全国各个县市打了很多属性，然后让大家可以根据属性来筛选适合数字游民的县市。<br>https://guxiang.app/<br><br>——<br>以上就是我维护社群的日常之一，看到有价值的内容，不是简单分享到群里，而是给大家讲清楚这条内容到底有什么价值，要怎么使用。<br><picture><source srcset="https://cdnv2.ruguoapp.com/FkKYYt34KNaio35p28DFfL0Cg7iPv3.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/FkKYYt34KNaio35p28DFfL0Cg7iPv3.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/FkKYYt34KNaio35p28DFfL0Cg7iPv3.jpg"></picture>]]></description>
+            <pubDate>Sat, 25 May 2024 15:56:34 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/66520a320b61ef7c963a8bea</guid>
+            <link>https://m.okjike.com/originalPosts/66520a320b61ef7c963a8bea</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[真正让我插件开发水平火箭式提升的时刻！！！
+
+第一次用 Motion 查看别人插件源代码时，我感到无比兴奋。
+
+🙂 原来那些小众需求，早已有人解决得很漂亮。
+
+�...]]></title>
+            <description><![CDATA[<br>真正让我插件开发水平火箭式提升的时刻！！！<br><br>第一次用 Motion 查看别人插件源代码时，我感到无比兴奋。<br><br>🙂 原来那些小众需求，早已有人解决得很漂亮。<br><br>🤣 代码混淆？不存在的，GPT-4 都能轻松移花接木！<br><br>如果你也在开发插件，强烈推荐这个方法，真的管用啊哈哈！]]></description>
+            <pubDate>Sat, 25 May 2024 05:56:40 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/66517d98928d2cdfd58ee4f5</guid>
+            <link>https://m.okjike.com/originalPosts/66517d98928d2cdfd58ee4f5</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Genact是一款开源上班摸鱼神器
+
+上班时，你的电脑屏幕上什么都没有，突然领导走过来，你慌忙打开一些文件假装自己在忙碌？
+这款软件它能让你的电脑看起来永远在...]]></title>
+            <description><![CDATA[<br>Genact是一款开源上班摸鱼神器<br><br>上班时，你的电脑屏幕上什么都没有，突然领导走过来，你慌忙打开一些文件假装自己在忙碌？<br>这款软件它能让你的电脑看起来永远在忙碌，再也不用担摸鱼被抓！<br><br>Genact 是一个可以运行在你的终端上的小程序，它会模拟一些看起来非常专业的活动，比如编译代码，扫描网络等等。<br>这些都是假象！它不需要任何权限，也不会真的做这些事情，你可以同时打开多个界面假装忙碌，而实际上啥都没干，就是玩！<br><br>Github：https://github.com/svenstaro/genact<br><br>作者还提供了一个web版本，不安装软件，也可以在浏览器里伪装工作很忙了<br>https://svenstaro.github.io/genact/<img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/FrEvX033PUbu-2wQ2PK9S7vxEYf9v3.gif">]]></description>
+            <pubDate>Fri, 24 May 2024 15:41:18 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6650b51e81bde25c6fcca2d9</guid>
+            <link>https://m.okjike.com/originalPosts/6650b51e81bde25c6fcca2d9</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[「某个网站过去4个月的回顾」
+先前做了一批网站，每个网站的类型都很相似。
+
+其中一个最早做也花最多时间的网站，目前成效还不错，目前两个主要关键词的排名都在...]]></title>
+            <description><![CDATA[<br>「某个网站过去4个月的回顾」<br>先前做了一批网站，每个网站的类型都很相似。<br><br>其中一个最早做也花最多时间的网站，目前成效还不错，目前两个主要关键词的排名都在前三的位置。<br><br>我认为主要是因为做对了以下几件事：<br><br>1. 挑选了一个低KD的关键词<br>2. 关键词作为域名<br>3. 整个站只做1、2个关键词<br>4. 做了20、30+高权重（DR55-90）的反链<br>5. 新增GPT问答功能提升停留时间<br>6. 确保页面关键词密度<br>7. 内链文字加入关键词<br><br>目前还有其他几个网站的数据也在持续上升中。<br><br>想特别感谢@哥飞 还有社群，上面的技巧几乎都是从社群中学到的。<br><br>接下来还要继续努力，希望可以有更多好的成果🥹<br><picture><source srcset="https://cdnv2.ruguoapp.com/FoodVMKx-YilAfcIyh7Dn-Ryxp4Cv3.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/FoodVMKx-YilAfcIyh7Dn-Ryxp4Cv3.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/FoodVMKx-YilAfcIyh7Dn-Ryxp4Cv3.jpg"></picture>]]></description>
+            <pubDate>Fri, 24 May 2024 15:34:02 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/6650b36ab978aad2ed157713</guid>
+            <link>https://m.okjike.com/originalPosts/6650b36ab978aad2ed157713</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[⭕️ 开源 稍后阅读 ➕AI 项目
+
+发现一个开源项目，稍后阅读类app，可以使用AI自动分类，甚至还有iOS、安卓APP以及浏览器扩展多端支持！这不比cubox香太多了🥹...]]></title>
+            <description><![CDATA[<br>⭕️ 开源 稍后阅读 ➕AI 项目<br><br>发现一个开源项目，稍后阅读类app，可以使用AI自动分类，甚至还有iOS、安卓APP以及浏览器扩展多端支持！这不比cubox香太多了🥹<br><br>主要feature：<br>🔗 一键保存链接<br>📝 随手记录笔记<br>🖼️ 图片存储<br>⬇️ 自动获取链接标题等<br>📋 自定义列表整理<br>🔎 全文搜索<br>✨ 基于AI的标签<br>🤖 本地模型支持<br>🔖 浏览器插件<br>📱 移动原生应用<br>🌙 深色模式<br>💾 强调自主托管<br> [规划中] 📥 离线阅读<br><br>🔗 https://github.com/hoarder-app/hoarder<br><picture><source srcset="https://cdnv2.ruguoapp.com/FlMSuf0zeMje9i-i6jiyf3qx_LA1v3.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/FlMSuf0zeMje9i-i6jiyf3qx_LA1v3.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/FlMSuf0zeMje9i-i6jiyf3qx_LA1v3.jpg"></picture>]]></description>
+            <pubDate>Fri, 24 May 2024 00:55:16 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/664fe5749e2e9fda027915bd</guid>
+            <link>https://m.okjike.com/originalPosts/664fe5749e2e9fda027915bd</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[社群里朋友怪才把我一篇付费文章做成了清晰的思维导图。
+本来只是分享给社群里其他人看的，结果好像一上午已经被传播开来了。
+据说在多个群看到了，那我也发给即...]]></title>
+            <description><![CDATA[<br>社群里朋友怪才把我一篇付费文章做成了清晰的思维导图。<br>本来只是分享给社群里其他人看的，结果好像一上午已经被传播开来了。<br>据说在多个群看到了，那我也发给即友们看看吧。<br>欢迎转发给你的朋友看，了解一下哥飞的社群内容质量到底有多高。<br>这只是其中一篇文章，而这样质量的文章还有很多。<br><picture><source srcset="https://cdnv2.ruguoapp.com/FqAiQd4FrSF-g275EXfesONbwClwv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/FqAiQd4FrSF-g275EXfesONbwClwv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/FqAiQd4FrSF-g275EXfesONbwClwv3.png"></picture>]]></description>
+            <pubDate>Thu, 23 May 2024 06:22:56 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/664ee0c09e2e9fda0264b1a0</guid>
+            <link>https://m.okjike.com/originalPosts/664ee0c09e2e9fda0264b1a0</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[原来撒花特效是这样做的🎉
+
+推荐使用这个开源库：canvas-confetti，只要一行代码就能添加特效，支持撒花、放烟花、下雪多种特效，也可以自定义撒花的元素。
+
+...]]></title>
+            <description><![CDATA[<br>原来撒花特效是这样做的🎉<br><br>推荐使用这个开源库：canvas-confetti，只要一行代码就能添加特效，支持撒花、放烟花、下雪多种特效，也可以自定义撒花的元素。<br><br>开源地址：https://github.com/catdad/canvas-confetti<br>演示地址：https://www.kirilv.com/canvas-confetti/<br>Nextjs/React用法demo：https://codesandbox.io/p/sandbox/canvas-confetti-nextui-forked-6ckygy<br><picture><source srcset="https://cdnv2.ruguoapp.com/FrDPSV3riJexiWRk8oxUT2CJOf18v3.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/FrDPSV3riJexiWRk8oxUT2CJOf18v3.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/FrDPSV3riJexiWRk8oxUT2CJOf18v3.jpg"></picture>]]></description>
+            <pubDate>Thu, 23 May 2024 03:06:53 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/664eb2cd19d274e296471ab9</guid>
+            <link>https://m.okjike.com/originalPosts/664eb2cd19d274e296471ab9</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[作为一个使用微信读书的重度用户，喜欢在手机和PC浏览器上看书，但发现PC浏览器没有网友的读书评论，感觉比手机端少了很多乐趣。
+在业余时间开发了一个插件，可...]]></title>
+            <description><![CDATA[<br>作为一个使用微信读书的重度用户，喜欢在手机和PC浏览器上看书，但发现PC浏览器没有网友的读书评论，感觉比手机端少了很多乐趣。<br>在业余时间开发了一个插件，可以让浏览器里面显示出微信读书评论，目前已经上架到浏览器官方插件商店，欢迎大家使用<br>Chrome插件商店  https://chromewebstore.google.com/detail/%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6%E8%AF%84%E8%AE%BA%E6%8F%92%E4%BB%B6/kfjimgaoegibikoojcbnkbffkongnoep<br><br>Edge插件商店 https://microsoftedge.microsoft.com/addons/detail/%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6%E8%AF%84%E8%AE%BA%E6%8F%92%E4%BB%B6/dpihhfdnbndfhonhkbnnhojbnaeedabc<br><picture><source srcset="https://cdnv2.ruguoapp.com/Fuy2U66RkjmR-BmRWh7bIO3OZELrv3.jpg/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/Fuy2U66RkjmR-BmRWh7bIO3OZELrv3.jpg" type="image/jpeg"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/Fuy2U66RkjmR-BmRWh7bIO3OZELrv3.jpg"></picture><br><picture><source srcset="https://cdnv2.ruguoapp.com/FiRM1xiQo_MJbXIJtWn4RI7max8Gv3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/FiRM1xiQo_MJbXIJtWn4RI7max8Gv3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/FiRM1xiQo_MJbXIJtWn4RI7max8Gv3.png"></picture>]]></description>
+            <pubDate>Wed, 22 May 2024 15:49:43 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/664e1417fac7eab113f7b7c7</guid>
+            <link>https://m.okjike.com/originalPosts/664e1417fac7eab113f7b7c7</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[@banbri 说一套代码打天下，最高时每天收入2000美元，我也聊几句。
+
+以前在公司上班时，我就锻炼了一个能力，能够抓住需求的精髓，带着技术团队，先快速上线第一...]]></title>
+            <description><![CDATA[<br>@banbri 说一套代码打天下，最高时每天收入2000美元，我也聊几句。<br><br>以前在公司上班时，我就锻炼了一个能力，能够抓住需求的精髓，带着技术团队，先快速上线第一版，先让同事用起来。<br><br>每一个功能，不需要开发得尽善尽美才上线发布。<br><br>假设某个需求需要五个环节，那么我可能会先把最重要的环节做好，其它环节暂时如果先用人手可以解决就用人手。<br><br>举例，与其它系统打通需要时间，那就先不打通，手动处理就好了。<br><br>现在做出海AI工具赚美元也是一样，一个新的需求出现，如果你一个月才上线，黄花菜都凉了。<br><br>最好的办法就是如果你已经有积累，直接拿之前的代码改改，先快速上线第一版。<br><br>如果你没有积累怎么办呢？<br><br>没有对接过支付？<br>那就先不接，免费给大家使用。<br><br>没有做过谷歌登录？<br>那就先不用登录就可以使用。<br><br>没有对接过AI接口？<br>那就先上线个静态页面，先抢排名。<br><br>积累是怎么来的？<br>第一个网站只是静态页面，第二个网站就能够对接接口，真的有功能，第三个网站就可以加上登录，第四个网站就加上支付。<br><br>一步一步来，只有你真的去上站，才有可能有积累。<br><picture><source srcset="https://cdnv2.ruguoapp.com/Fr7z9TfLw0gSZ5eoJcAVyMdH0nK-v3.png?imageMogr2/auto-orient/strip/format/webp" type="image/webp"><source srcset="https://cdnv2.ruguoapp.com/Fr7z9TfLw0gSZ5eoJcAVyMdH0nK-v3.png" type="image/png"><img referrerpolicy="no-referrer" src="https://cdnv2.ruguoapp.com/Fr7z9TfLw0gSZ5eoJcAVyMdH0nK-v3.png"></picture>]]></description>
+            <pubDate>Wed, 22 May 2024 04:40:18 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/664d773219d274e2962d203b</guid>
+            <link>https://m.okjike.com/originalPosts/664d773219d274e2962d203b</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[人生没有白走的路,每一步都算数。
+
+前几天和@Clara998 闲时聊起，为什么我们可以抓住一些机会赚到钱？
+
+其中有一条原因是有一些东西我们之前做过，所以看到新机...]]></title>
+            <description><![CDATA[<br>人生没有白走的路,每一步都算数。<br><br>前几天和@Clara998 闲时聊起，为什么我们可以抓住一些机会赚到钱？<br><br>其中有一条原因是有一些东西我们之前做过，所以看到新机会的时候够迅速抓住。比如之前网站的模板，稍作修改，就可以迅速上线新网站。<br><br>当别人刚看到这个机会时，我们已经上线了；当别人上线时，我们可能已经拿到了第一笔订单。<br><br>去年，我上线了第一个出海网站。花了两天时间找模板、改文案、发帖推广等，走完整个流程费了不少劲儿。虽然最终网站流量不多，但通过这个过程，我了解到上线一个漂亮的英文工具网站并从谷歌获取流量并不那么难。这减少了我对这件事的恐惧感，并让我跑通了基本流程。虽然第一个网站没有赚到钱，但这是一种宝贵的经验。<br><br>感觉自己还算比较幸运，后面到第二个网站，第三个网站就直接起飞了。值得一提的是第三个网站，当时在追一个热点，我和 @Clara998  大概花费了一周写完了这套代码，上线后的第一个月收入大约有 1000 美元。现在看来虽然不是很多，但是也还可以。最重要的是，这套代码在之后的多个项目中稍作修改，都赚到钱了。而这些项目用的还是原来的那套代码，几乎没有太大改动。<br><br>最离谱的是，两个月前，一个超级大热点又让这套代码派上了用场。顶峰时期，相同代码同个热点多个站点的收入加起来超过了每天 2000 美元。于是我跟@星空猎人阿拉丁 调侃说，想不到去年我跟@Clara998 写的屎山一样的代码，能够发挥出来这么大的价值。<br><br>有句话说得好：“你所做的事情，也许暂时看不到成果，但不要灰心或焦虑，你不是没有成长，而是在扎根。”这句话在出海做网站时同样适用。<br><br>如果还有一句话，那就是你做的每一个网站都是在为下一个能赚钱的网站做准备，每一个网站都是下一个网站的垫脚石。所以，请放心，你上的每个网站都算数，都会给你积累经验，无论是成功经验还是失败经验。]]></description>
+            <pubDate>Wed, 22 May 2024 03:52:39 GMT</pubDate>
+            <guid isPermaLink="false">https://m.okjike.com/originalPosts/664d6c0726c1711066f7277c</guid>
+            <link>https://m.okjike.com/originalPosts/664d6c0726c1711066f7277c</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+    </channel>
+</rss>
