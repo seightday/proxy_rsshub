@@ -1,0 +1,43 @@
+name: proxy_rsshub
+on:
+  workflow_dispatch:      # 允许手动触发
+  schedule:
+    - cron: "0 */4 * * *"
+  push:
+    branches:
+      - main
+jobs:
+  push:
+    runs-on: ubuntu-22.04
+    env:
+      TZ: Asia/Shanghai # https://xirikm.net/2020/215-1
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2 # Checking out the repo
+#       - name: Install python
+#         uses: actions/setup-python@v4
+#         with:
+#           python-version: 3.9
+      - name: Install dependecies
+        uses: VaultVulp/action-pipenv@v2.0.1
+        with:
+          command: install -d # Install all dependencies, including development ones
+      - name: Python build
+        # env:
+        #   _file_changes: ${{ steps.file_changes.outputs.files }}
+        uses: VaultVulp/action-pipenv@v2.0.1
+        with:
+          command: run build
+      - name: Commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git status
+          git add .
+          git diff-index --quiet HEAD || (git commit -m "Auto Commit" -a --no-verify)
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.TOKEN }}
+          # branch: ${{ github.ref }}
+          branch: refs/heads/main
