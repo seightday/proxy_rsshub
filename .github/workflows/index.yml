@@ -13,21 +13,16 @@ jobs:
       TZ: Asia/Shanghai # https://xirikm.net/2020/215-1
     steps:
       - name: Checkout
-        uses: actions/checkout@v2 # Checking out the repo
-#       - name: Install python
-#         uses: actions/setup-python@v4
-#         with:
-#           python-version: 3.9
-      - name: Install dependecies
-        uses: VaultVulp/action-pipenv@v2.0.1
+        uses: actions/checkout@v4 # Checking out the repo
+      - name: Install python
+        uses: actions/setup-python@v4
         with:
-          command: install -d # Install all dependencies, including development ones
+          python-version: '3.12'
+      - name: Install dependencies
+        run: |
+          python -c "import requests, yaml; print('Dependencies already available')" || pip install requests pyyaml
       - name: Python build
-        # env:
-        #   _file_changes: ${{ steps.file_changes.outputs.files }}
-        uses: VaultVulp/action-pipenv@v2.0.1
-        with:
-          command: run build
+        run: python main.py
       - name: Commit files
         run: |
           git config --local user.email "action@github.com"
