@@ -1,0 +1,25 @@
+---
+instances:
+- https://rsshub.app/
+- https://rss.shab.fun/
+- https://vercel.getrss2021.xyz/
+- https://rsshub.rssforever.com/
+- http://getrss2021.xyz:1200/
+routes:
+- title: 大师兄影视
+  path: telegram/channel/dsxys
+- title: 最新限免（GoFans）
+  path: appstore/gofans
+- title: 每日精品限免 / 促销应用（鲜面连线 by AppSo）
+  path: appstore/xianmian
+- title: 深圳卫健委的微博
+  path: weibo/user/2831150640
+- title: 分享白菜达人的微博
+  path: weibo/user/5609361977
+- title: 大白找白菜的微博
+  path: weibo/user/1648254924
+- title: JitHub
+  path: jike/topic/55e02198dcef9f0e00d7b3c3
+- title: 一觉醒来世界发生了什么
+  path: jike/topic/553870e8e4b0cafb0a1bef68
+# baseUrl: https://raw.githubusercontent.com/wdssmq/proxy_rsshub/main # The Base Url Of xml folder

@@ -1,0 +1,49 @@
+name: proxy_rsshub
+on:
+  workflow_dispatch:      # 允许手动触发
+  schedule:
+    - cron: "0 */4 * * *"
+  push:
+    branches:
+      - main
+
+jobs:
+  push:
+    runs-on: ubuntu-22.04
+    env:
+      TZ: Asia/Shanghai
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        
+      - name: Install python
+        uses: actions/setup-python@v5  # Updated to v5 for better compatibility
+        with:
+          python-version: '3.11'
+          
+      - name: Install pipenv
+        run: |
+          python -m pip install --upgrade pip
+          pip install pipenv
+          
+      - name: Install dependencies
+        run: |
+          pipenv install --dev
+          
+      - name: Python build
+        run: |
+          pipenv run build
+          
+      - name: Commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git status
+          git add .
+          git diff-index --quiet HEAD || (git commit -m "Auto Commit" -a --no-verify)
+          
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.TOKEN }}
+          branch: refs/heads/main
